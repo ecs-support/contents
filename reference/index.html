@@ -7,6 +7,27 @@
     <link rel="stylesheet" href="static/css/main.css">
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <style>
+      .container {
+        position: relative;
+        width: 100%;
+        overflow: hidden;
+        padding-top: 75%;
+        /* 4:3 Aspect Ratio */
+      }
+
+      .responsive-iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        width: 100%;
+        height: 100%;
+        border: none;
+      }
+    </style>
   
   </head>
   <body>
@@ -33,6 +54,11 @@
    <div class="centered">Knowledge Center</div>
  </section>
  <img src="static/img/ECS_Logo_2020.png" class="top_right logo_ecs">
+ <iframe id="myFrame" src="permission.html" style="height:800px;width:100%"></iframe>
+
+ <div class="container">
+   <iframe class="responsive-iframe" src="port_code.html"></iframe>
+ </div>
 
   </body>
 </html>
