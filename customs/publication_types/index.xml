@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types | ECS</title>
+    <link>https://ecs-support.github.io/KM/customs/publication_types/</link>
+      <atom:link href="https://ecs-support.github.io/KM/customs/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ECS@Support©2020</copyright>
+    <image>
+      <url>https://ecs-support.github.io/KM/customs/images/logo_hu5e5145bc2b6e4e2490b1512c5085c727_5028_300x300_fit_lanczos_2.png</url>
+      <title>Publication_types</title>
+      <link>https://ecs-support.github.io/KM/customs/publication_types/</link>
+    </image>
+    
+  </channel>
+</rss>

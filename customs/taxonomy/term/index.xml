@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terms | ECS</title>
+    <link>https://ecs-support.github.io/KM/customs/taxonomy/term/</link>
+      <atom:link href="https://ecs-support.github.io/KM/customs/taxonomy/term/index.xml" rel="self" type="application/rss+xml" />
+    <description>Terms</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ECS@Support©2020</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>https://ecs-support.github.io/KM/customs/img/america.jpg</url>
+      <title>Terms</title>
+      <link>https://ecs-support.github.io/KM/customs/taxonomy/term/</link>
+    </image>
+    
+  </channel>
+</rss>

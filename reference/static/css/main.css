@@ -60,6 +60,12 @@ label #btn{
   color: white;
   padding: 6px 12px;
   transition: all .5s;
+  cursor: pointer;
+ 
+}
+
+label #btn:hover {
+  color: orange;
 }
 label #cancel{
   background: #042331;

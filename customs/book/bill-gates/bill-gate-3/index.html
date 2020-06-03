@@ -1,0 +1,899 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Sarawut Wongsanga">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="ในช่วงฤดูร้อนปี 1980 ตัวแทนจาก IBM สองคนได้เดินทางมาที่สำนักงานใหญ่ของ Microsoft เพื่อหารือเรื่องคอมพิวเตอร์ส่วนบุคคลที่ IBM กำลังตัดสินใจครั้งสำคัญว่าจะสร้างมันดีหรือไม่?
+แม้ในยุคนั้น IBM จะเป็นเจ้าตลาด Hardware ครอบครองส่วนแบ่งการตลาดคอมพิวเตอร์แบบเมนเฟรมถึงกว่า 80% เรียกได้ว่าเป็นยักษ์ใหญ่ในตลาดครองตลาดได้แบบเบ็ดเสร็จสำหรับ IBM แต่ดูเหมือนคอมพิวเตอร์ขนาดเล็กนั้นจะเป็นปัญหาสำหรับ IBM เพราะพวกเขาคุ้นเคยกับการขายคอมพิวเตอร์ขนาดมหึมาในราคาแพง และลูกค้าส่วนใหญ่ เป็นลูกค้าธุรกิจที่เป็นบริษัทยักษ์ใหญ่ทั่วโลกในขณะนั้น
+ซึ่งการเข้ามาคุยกับ Microsoft เนื่องจาก ฝ่ายผู้บริหารระดับสูงเล็งเห็นว่า จำเป็นต้องดึงคนนอก เข้ามาช่วยเหลือในตลาดใหม่อย่าง คอมพิวเตอร์ส่วนบุคคล ซึ่งเป็นการขายให้กับผู้บริโภครายย่อย ซึ่งเป็นสิ่งที่ IBM นั้นไม่ถนัดเป็นอย่างยิ่ง">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://ecs-support.github.io/KM/customs/book/bill-gates/bill-gate-3/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#fc6f5c">
+  
+
+  
+  
+  
+  <script src="/KM/customs/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+      
+    
+
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mitr:400,700%7CRoboto:400,400italic,700%7CSarabun:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/KM/customs/css/academic.css">
+
+  
+
+
+
+
+  
+
+
+  
+  
+
+  
+
+  <link rel="manifest" href="/KM/customs/index.webmanifest">
+  <link rel="icon" type="image/png" href="/KM/customs/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/KM/customs/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="https://ecs-support.github.io/KM/customs/book/bill-gates/bill-gate-3/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="ECS">
+  <meta property="og:url" content="https://ecs-support.github.io/KM/customs/book/bill-gates/bill-gate-3/">
+  <meta property="og:title" content="ตอนที่ 3 - Deal with the Devil | ECS">
+  <meta property="og:description" content="ในช่วงฤดูร้อนปี 1980 ตัวแทนจาก IBM สองคนได้เดินทางมาที่สำนักงานใหญ่ของ Microsoft เพื่อหารือเรื่องคอมพิวเตอร์ส่วนบุคคลที่ IBM กำลังตัดสินใจครั้งสำคัญว่าจะสร้างมันดีหรือไม่?
+แม้ในยุคนั้น IBM จะเป็นเจ้าตลาด Hardware ครอบครองส่วนแบ่งการตลาดคอมพิวเตอร์แบบเมนเฟรมถึงกว่า 80% เรียกได้ว่าเป็นยักษ์ใหญ่ในตลาดครองตลาดได้แบบเบ็ดเสร็จสำหรับ IBM แต่ดูเหมือนคอมพิวเตอร์ขนาดเล็กนั้นจะเป็นปัญหาสำหรับ IBM เพราะพวกเขาคุ้นเคยกับการขายคอมพิวเตอร์ขนาดมหึมาในราคาแพง และลูกค้าส่วนใหญ่ เป็นลูกค้าธุรกิจที่เป็นบริษัทยักษ์ใหญ่ทั่วโลกในขณะนั้น
+ซึ่งการเข้ามาคุยกับ Microsoft เนื่องจาก ฝ่ายผู้บริหารระดับสูงเล็งเห็นว่า จำเป็นต้องดึงคนนอก เข้ามาช่วยเหลือในตลาดใหม่อย่าง คอมพิวเตอร์ส่วนบุคคล ซึ่งเป็นการขายให้กับผู้บริโภครายย่อย ซึ่งเป็นสิ่งที่ IBM นั้นไม่ถนัดเป็นอย่างยิ่ง"><meta property="og:image" content="https://ecs-support.github.io/KM/customs/images/logo_hu5e5145bc2b6e4e2490b1512c5085c727_5028_300x300_fit_lanczos_2.png">
+  <meta property="twitter:image" content="https://ecs-support.github.io/KM/customs/images/logo_hu5e5145bc2b6e4e2490b1512c5085c727_5028_300x300_fit_lanczos_2.png"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2020-05-10T00:00:00&#43;01:00">
+    
+    <meta property="article:modified_time" content="2020-05-26T17:41:52&#43;07:00">
+  
+
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>ตอนที่ 3 - Deal with the Devil | ECS</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="dark">
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+  
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/KM/customs/"><img src="/KM/customs/images/logo_hu5e5145bc2b6e4e2490b1512c5085c727_5028_0x30_resize_lanczos_2.png" alt="ECS"></a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/KM/customs/"><img src="/KM/customs/images/logo_hu5e5145bc2b6e4e2490b1512c5085c727_5028_0x30_resize_lanczos_2.png" alt="ECS"></a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/#hero"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/post/"><span>Posts</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/projects/"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/featured/"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/KM/customs/customs/"><span>พิธีการศุลกากร</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-palette" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  
+
+<div class="container-fluid docs">
+  <div class="row flex-xl-nowrap">
+    <div class="col-12 col-md-3 col-xl-2 docs-sidebar">
+      
+
+
+
+
+
+  
+    
+  
+
+
+
+
+<form class="docs-search d-flex align-items-center">
+  <button class="btn docs-toggle d-md-none p-0 mr-3" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    <span><i class="fas fa-bars"></i></span>
+  </button>
+
+  
+  <input name="q" type="search" class="form-control" placeholder="Search..." autocomplete="off">
+  
+</form>
+
+<nav class="collapse docs-links" id="docs-nav">
+  
+
+  
+  
+  
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/book/bill-gates/">Overview</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/KM/customs/book/bill-gates/bill-gate-1/">1. A Revolution Begins</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/bill-gates/bill-gate-2/">2. The Standard</a>
+      </li>
+      
+      <li class="active">
+        <a href="/KM/customs/book/bill-gates/bill-gate-3/">3. Deal with the Devil</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/bill-gates/bill-gate-4/">4. The Downfall of IBM</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/bill-gates/bill-gate-5/">5. Windows​ to the World</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  
+</nav>
+
+    </div>
+
+    
+    <div class="d-none d-xl-block col-xl-2 docs-toc">
+      <ul class="nav toc-top">
+        <li><a href="#" id="back_to_top" class="docs-toc-title">Contents</a></li>
+      </ul>
+     
+
+      <nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#gates-เล-อกทางล-ดในการสร-าง-ms-dos-ด-วยการซ-อ-software-พร-อมห-วหน-าท-มพ-ฒนาอย-าง-tim-paterson-มาร-วมงาน">gates เลือกทางลัดในการสร้าง MS-DOS ด้วยการซื้อ Software พร้อมหัวหน้าทีมพัฒนาอย่าง Tim Paterson มาร่วมงาน</a></li>
+<li><a href="#ibm-ประสบความสำเร-จในการสร-างมารตรฐานคอมพ-วเตอร-ส-วนบ-คคล">IBM ประสบความสำเร็จในการสร้างมารตรฐานคอมพิวเตอร์ส่วนบุคคล</a></li>
+</ul></li>
+</ul>
+</nav>
+
+      
+    </div>
+    
+
+    <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
+
+      
+
+      <article class="article">
+
+        <div class="docs-article-container">
+          <h1>ตอนที่ 3 - Deal with the Devil</h1>
+
+          <div class="article-style">
+           
+            
+
+<p><img src="https://t0.blockdit.com/photos/2019/09/5d77f373df76a90cbe40fa30_800x0xcover_KZDrPhGf.jpg" alt="" /></p>
+
+<p>ในช่วงฤดูร้อนปี 1980 ตัวแทนจาก IBM สองคนได้เดินทางมาที่สำนักงานใหญ่ของ Microsoft เพื่อหารือเรื่องคอมพิวเตอร์ส่วนบุคคลที่ IBM กำลังตัดสินใจครั้งสำคัญว่าจะสร้างมันดีหรือไม่?</p>
+
+<p>แม้ในยุคนั้น IBM จะเป็นเจ้าตลาด Hardware ครอบครองส่วนแบ่งการตลาดคอมพิวเตอร์แบบเมนเฟรมถึงกว่า 80% เรียกได้ว่าเป็นยักษ์ใหญ่ในตลาดครองตลาดได้แบบเบ็ดเสร็จสำหรับ IBM แต่ดูเหมือนคอมพิวเตอร์ขนาดเล็กนั้นจะเป็นปัญหาสำหรับ IBM เพราะพวกเขาคุ้นเคยกับการขายคอมพิวเตอร์ขนาดมหึมาในราคาแพง และลูกค้าส่วนใหญ่ เป็นลูกค้าธุรกิจที่เป็นบริษัทยักษ์ใหญ่ทั่วโลกในขณะนั้น</p>
+
+<p>ซึ่งการเข้ามาคุยกับ Microsoft เนื่องจาก ฝ่ายผู้บริหารระดับสูงเล็งเห็นว่า จำเป็นต้องดึงคนนอก เข้ามาช่วยเหลือในตลาดใหม่อย่าง คอมพิวเตอร์ส่วนบุคคล ซึ่งเป็นการขายให้กับผู้บริโภครายย่อย ซึ่งเป็นสิ่งที่ IBM นั้นไม่ถนัดเป็นอย่างยิ่ง</p>
+
+<p>และ IBM ต้องการเข็นคอมพิวเตอร์ส่วนบุคคลออกตลาดให้ได้ภายในปีนั้น โดย IBM ได้ตัดสินใจ สร้างเครื่องคอมพิวเตอร์ส่วนบุคคลที่ประกอบด้วยอุปกรณ์ที่หาซื้อได้ทั่วไปในท้องตลาด และทำสิ่งที่เซอร์ไพรซ์เป็นอย่างยิ่งคือ <strong>การสร้างระบบแบบเปิดและง่ายต่อการเลียนแบบ</strong> แม้ว่าในเครื่องเมนเฟรมขนาดใหญ่นั้น IBM จะออกแบบ Microprocessor เองทั้งหมด แต่ในตลาดใหม่อย่างคอมพิวเตอร์ส่วนบุคคล IBM ได้ตัดสินใจใช้ Microprocessor ของ intel และที่สำคัญที่สุด คือ IBM ได้ตัดสินใจที่จะให้คนอื่นเขียนระบบปฏิบัติการขึ้นมา ซึ่งแน่นอนว่านี่คือโอกาสทองครั้งสำคัญของ Microsoft</p>
+
+<p>และแน่นอนว่า Gates ไม่มีทางที่จะพลาดโอกาสทองครั้งยิ่งใหญ่แบบนี้ ที่น้อยคนนักที่จะมีโอกาสแบบที่ Gates ได้รับจาก IBM ซึ่งแน่นอนว่ามันเป็นเรื่องท้าทายครั้งสำคัญของ Gates และ Microsoft แต่อย่างไรก็ตาม พวกเขาก็ต้องการมีส่วนร่วมกับธุรกิจยักษ์ใหญ่นี้ โดย Gates ได้ไปซื้อโปรแกรมที่เคยพัฒนามาแล้วจากบริษัทเล็ก ๆ แห่งหนึ่งในเมืองซีแอตเติล และได้จ้าง Tim Paterson หัวหน้าวิศวกรจากบริษัทดังกล่าวมาร่วมงานกับ Microsoft และนำโปรแกรมดังกล่าวมาปรับแต่งให้กับ Hardware ของ IBM</p>
+
+<p><img src="https://t0.blockdit.com/photos/2019/09/5d77f39edf76a90cbe4104f3_800x0xcover_hH1oCnV5.jpg" alt="" /></p>
+
+<h2 id="gates-เล-อกทางล-ดในการสร-าง-ms-dos-ด-วยการซ-อ-software-พร-อมห-วหน-าท-มพ-ฒนาอย-าง-tim-paterson-มาร-วมงาน">gates เลือกทางลัดในการสร้าง MS-DOS ด้วยการซื้อ Software พร้อมหัวหน้าทีมพัฒนาอย่าง Tim Paterson มาร่วมงาน</h2>
+
+<p>ซึ่งผลที่ได้มันก็คือ MS-DOS (Microsoft Disk Operating System) และ IBM นี่เองที่เป็นลูกค้ารายแรกของ Microsoft ที่ซื้อลิขสิทธิ์ MS-DOS ไป และเปลี่ยนชื่อมันให้กลายเป็น PC-DOS และทำการออกวางขายเครื่องคอมพิวเตอร์ส่วนบุคคลของ IBM ในปี 1981 และมันประสบความสำเร็จอย่างท่วมท้น ทำยอดขายได้ดีมาก ๆ เป็นการเริ่มต้นตลาดคอมพิวเตอร์ส่วนบุคคลแบบจริง ๆ จัง ๆ ครั้งแรกของ IBM ทำให้ชื่อ PC (Personal Computer) นั้นกลายเป็นที่รู้จักไปทั่ว</p>
+
+<p>กลยุทธ์ของ Gates สำหรับการ Deal กับ IBM ครั้งนี้นั้น ถือว่าเป็นหนึ่งในกลยุทธ์ที่เป็น Case Study ที่น่าสนใจของวงการธุรกิจโลก เพราะ Microsoft ยื่นข้อเสนอที่ดีมาก ๆ ให้กับ IBM โดยเปิดให้เต็มที่กับ IBM นำลิขสิทธิ์ MS-DOS ไปใช้กี่เครื่องก็ได้ที่ IBM ต้องการขาย Gates นั้นมองเป้าหมายที่ยิ่งใหญ่กว่า คือ การสร้าง MS-DOS ให้กลายเป็นระบบปฏิบัติการที่ดีที่สุด เมื่อเทียบกับคู่แข่งอย่าง UCSD Pascal P-System และ CP/M-86 ซึ่งเป็นระบบปฏิบัติการที่เสนอขายให้ IBM เช่นเดียวกันในยุคนั้น Gates ต้องการให้ MS-DOS กลายเป็นระบบปฏิบัติการหลักของ PC และกระตุ้นให้บริษัทเขียน Software รายอื่น ๆ เขียนโปรแกรมโดยใช้พื้นฐานของ MS-DOS ของ Microsoft นั่นเอง</p>
+
+<p>ซึ่งแน่นอนว่าข้อเสนอของ Gates นั้นดีกว่าคู่แข่งอย่างเห็นได้ชัดทำให้ราคา PC ที่มีระบบปฏิบัติการ MS-DOS ราคาถูกกว่าใคร และทำให้ IBM ผลักดัน MS-DOS แบบเต็มที่ เป้าหมายของ Gates และ Microsoft นั้นไม่ได้อยู่ที่รายรับที่ได้จาก IBM แต่จะเป็นกำไรในการขายลิขสิทธิ์ MS-DOS ให้กับบริษัทคอมพิวเตอร์อื่น ๆ ที่ต้องการใช้ MS-DOS เพราะตอนนั้นมันได้กลายเป็นระบบเปิดไปเป็นที่เรียบร้อยแล้ว ผู้ผลิตคอมพิวเตอร์ทุกรายสามารถใช้ MS-DOS ได้ทั้งหมด และเมื่อ MS-DOS กลายเป็นมาตรฐาน กำไร ก็หลั่งไหลมาที่ Microsoft แทนนั่นเอง และแน่นอนว่าหลังจากออกวางจำหน่ายได้ไม่นานดูเหมือน IBM PC มีแนวโน้มที่จะกลายเป็นมาตรฐานของตลาดในอุตสาหกรรมใหม่นี้ ดูเหมือน IBM จะประสบความสำเร็จแล้วแถมยังเป็นระยะเวลาอันสั้นมาก ๆ ด้วย</p>
+
+<p><img src="https://t0.blockdit.com/photos/2019/09/5d77f3d2df76a90cbe4114f6_800x0xcover_6eGuB_7H.jpg" alt="" /></p>
+
+<h2 id="ibm-ประสบความสำเร-จในการสร-างมารตรฐานคอมพ-วเตอร-ส-วนบ-คคล">IBM ประสบความสำเร็จในการสร้างมารตรฐานคอมพิวเตอร์ส่วนบุคคล</h2>
+
+<p>แต่หารู้ไม่ว่า คนที่ชนะจริง ๆ ในการสร้างมาตรฐานให้อุตสาหกรรมนี้คือ Microsoft ต่างหากที่ทุกคนต้องใช้ MS-DOS เป็นระบบปฏิบัติการหลัก เหล่าบริษัท Software รายเล็กใหญ่ต่างพัฒนาโปรแกรมขึ้นมาบนพื้นฐานของ MS-DOS ไม่ใช่บนพื้นฐานของ IBM-PC ไม่นานหลังจากนั้น Software คุณภาพเยี่ยมตัวใหม่ ๆ อย่าง Lotus 1-2-3 โปรแกรมที่ปฏิวัติรูปแบบของการสร้างสเปรดชีทก็ได้รับการพัฒนาขึ้นมาให้รันบนระบบปฏิบัติการของ MS-DOS และตลาด Software การใช้งานนับพัน ๆ โปรแกรม ก็ได้เกิดขึ้นมาใน Ecosystem ของ MS-DOS โดยใช้มาตรฐานทาง Hardware ของ IBM-PC นั่นเอง</p>
+
+<p>ซึ่งแม้ IBM จะสร้างมาตรฐาน PC ขึ้นมาก็จริง แต่เป็นมาตรฐานให้ทุกคนเลียนแบบได้ง่าย และบริษัทอื่นก็สามารถสร้างคอมพิวเตอร์ส่วนบุคคลแบบที่ IBM ทำได้เช่นกัน และแน่นอนว่าเมื่อสถานการณ์เปลี่ยน บริษัทอื่นก็อาจจะมาครองตลาดแทน IBM และนี่เองเป็นสิ่งที่ IBM พลาดครั้งสำคัญในการดำเนินธุรกิจ พวกเขาพลาดที่ไปร่วมมือกับ Microsoft และ intel ในการสร้าง PC ขึ้นมาให้กลายเป็นมาตรฐานทางด้าน Hardware เพียงเท่านั้น มันคือจุดผิดพลาดครั้งสำคัญที่สุดครั้งหนึ่งของยักษ์ใหญ่วงการเทคโนโลยีโลกอย่าง IBM แล้วสถานะอันสั่นคลอนของ IBM ในตลาดคอมพิวเตอร์ส่วนบุคคลนี้จะยืนหยัดอยู่ได้นานเพียงใด แผนต่อไปของ Gates และ Microsoft คืออะไร?</p>
+
+          </div>
+
+          
+
+
+
+          
+          <div class="article-widget">
+            
+<div class="post-nav">
+  
+  
+  
+  <div class="post-nav-item box ">
+    <div class="meta-nav meta-prev">Previous <br>
+    <a href="/KM/customs/book/bill-gates/bill-gate-2/" rel="next">2. The Standard</a></div>
+  </div>
+  
+  
+  
+  <div class="post-nav-item box">
+    <div class="meta-nav meta-next" >Next <br>
+    <a href="/KM/customs/book/bill-gates/bill-gate-4/" rel="prev">4. The Downfall of IBM</a></div>
+  </div>
+  
+  <br>
+  <br>
+</div>
+
+          </div>
+          
+        </div>
+
+        <div class="body-footer">
+          <p>Last updated on May 26, 2020</p>
+
+          
+
+
+
+
+
+  
+  
+
+<p class="edit-page">
+  <a href="https://github.com/gcushen/hugo-academic/edit/master/content/book%5cbill-gates%5cbill-gate-3.md">
+    <i class="fas fa-pen pr-2"></i>Edit this page
+  </a>
+</p>
+
+
+
+
+          
+
+        </div>
+
+      </article>
+
+      <footer class="site-footer">
+  
+  <p class="powered-by">
+    
+      <a href="/KM/customs/post/privacy/">Privacy Policy</a>
+    
+    
+       &middot; 
+      <a href="/KM/customs/terms/">Terms</a>
+    
+  </p>
+  
+
+  <p class="powered-by">
+    ECS@Support&copy;2020 &middot; 
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+  </p>
+</footer>
+
+
+    </main>
+  </div>
+</div>
+
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.4.8/mermaid.min.js" integrity="sha256-lyWCDMnMeZiXRi7Zl54sZGKYmgQs4izcT7+tKc+KUBk=" crossorigin="anonymous" title="mermaid"></script>
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/python.min.js"></script>
+        
+      
+
+    
+
+    
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = true;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/KM/customs/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.1/anchor.min.js" integrity="sha256-pB/deHc9CGfFpJRjC43imB29Rse8tak+5eXqntO94ck=" crossorigin="anonymous"></script>
+    <script>
+      anchors.add();
+    </script>
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/KM/customs/js/academic.min.ee1f7178dca1975b952d775e85469539.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

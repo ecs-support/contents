@@ -1,0 +1,919 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Sarawut Wongsanga">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="โดย ดร. สุวินัย ภรณวลัย
+ ในสายตาของนักข้อมูลนิยม​ สปีซีส์มนุษย์ทั้งหมดเป็นแค่ระบบประมวลผลข้อมูลเดี่ยวแห่งหนึ่ง​ (a​ single data-processing system)​ โดยที่มนุษย์แต่ละบุคคลทำงานเป็น​&rdquo;ชิป&rdquo; (chips)​ในระบบนั้น​ (หน้า​483) ด้วยเหตุนี้​ประวัติศาสตร์ทั้งมวลของพวกเซเปียนส์จึงมองได้ว่าเป็น​ กระบวนการหนึ่งในการพัฒนาประสิทธิภาพ​ของระบบประมวลผลข้อมูลเดี่ยวนี้​ โดยผ่านกระบวนวิธีพื้นฐาน​ 4​ แบบคือ
+ การเพิ่มจำนวนประมวลผล เมืองที่มีพลเมืองมากยิ่งมีพลังการประมวลผลมาก การเพิ่มความหลากหลายของตัวประมวลผล การใช้ตัวประมวลผลหลายรูปแบบ ในระบบเดี่ยวระบบหนึ่งจะช่วยเพิ่มความคล่องแคล่วและความคิดสร้างสรรค์ได้ การเพิ่มจำนวนการเชื่อมโยงระหว่างตัวประมวลผล เครือข่ายที่เชื่อมโยงในวงกว้างย่อมก่อให้เกิดนวัตกรรมทางเศรษฐกิจ​เทคโนโลยีและสังคมมากกว่าเมืองที่อยู่อย่างโดดเดี่ยว การเพิ่มเสรีภาพในการเคลื่อนตัวตามการเชื่อมโยงที่มีอยู่  การก่อสร้างระบบประมวลผลข้อมูลเซเปียนส์ทำให้เกิดขั้นตอนหลัก​ 4​ ระยะคือ">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://ecs-support.github.io/KM/customs/book/homo-deus/deus-12/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#fc6f5c">
+  
+
+  
+  
+  
+  <script src="/KM/customs/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+      
+    
+
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mitr:400,700%7CRoboto:400,400italic,700%7CSarabun:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/KM/customs/css/academic.css">
+
+  
+
+
+
+
+  
+
+
+  
+  
+
+  
+
+  <link rel="manifest" href="/KM/customs/index.webmanifest">
+  <link rel="icon" type="image/png" href="/KM/customs/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/KM/customs/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="https://ecs-support.github.io/KM/customs/book/homo-deus/deus-12/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="ECS">
+  <meta property="og:url" content="https://ecs-support.github.io/KM/customs/book/homo-deus/deus-12/">
+  <meta property="og:title" content="ตอนที่ 12 - เราต้องก้าวข้ามแต่หลอมรวมลัทธิข้อมูลนิยม | ECS">
+  <meta property="og:description" content="โดย ดร. สุวินัย ภรณวลัย
+ ในสายตาของนักข้อมูลนิยม​ สปีซีส์มนุษย์ทั้งหมดเป็นแค่ระบบประมวลผลข้อมูลเดี่ยวแห่งหนึ่ง​ (a​ single data-processing system)​ โดยที่มนุษย์แต่ละบุคคลทำงานเป็น​&rdquo;ชิป&rdquo; (chips)​ในระบบนั้น​ (หน้า​483) ด้วยเหตุนี้​ประวัติศาสตร์ทั้งมวลของพวกเซเปียนส์จึงมองได้ว่าเป็น​ กระบวนการหนึ่งในการพัฒนาประสิทธิภาพ​ของระบบประมวลผลข้อมูลเดี่ยวนี้​ โดยผ่านกระบวนวิธีพื้นฐาน​ 4​ แบบคือ
+ การเพิ่มจำนวนประมวลผล เมืองที่มีพลเมืองมากยิ่งมีพลังการประมวลผลมาก การเพิ่มความหลากหลายของตัวประมวลผล การใช้ตัวประมวลผลหลายรูปแบบ ในระบบเดี่ยวระบบหนึ่งจะช่วยเพิ่มความคล่องแคล่วและความคิดสร้างสรรค์ได้ การเพิ่มจำนวนการเชื่อมโยงระหว่างตัวประมวลผล เครือข่ายที่เชื่อมโยงในวงกว้างย่อมก่อให้เกิดนวัตกรรมทางเศรษฐกิจ​เทคโนโลยีและสังคมมากกว่าเมืองที่อยู่อย่างโดดเดี่ยว การเพิ่มเสรีภาพในการเคลื่อนตัวตามการเชื่อมโยงที่มีอยู่  การก่อสร้างระบบประมวลผลข้อมูลเซเปียนส์ทำให้เกิดขั้นตอนหลัก​ 4​ ระยะคือ"><meta property="og:image" content="https://ecs-support.github.io/KM/customs/images/logo_hu5e5145bc2b6e4e2490b1512c5085c727_5028_300x300_fit_lanczos_2.png">
+  <meta property="twitter:image" content="https://ecs-support.github.io/KM/customs/images/logo_hu5e5145bc2b6e4e2490b1512c5085c727_5028_300x300_fit_lanczos_2.png"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2020-05-09T00:00:00&#43;01:00">
+    
+    <meta property="article:modified_time" content="2020-05-26T17:41:52&#43;07:00">
+  
+
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>ตอนที่ 12 - เราต้องก้าวข้ามแต่หลอมรวมลัทธิข้อมูลนิยม | ECS</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="dark">
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+  
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/KM/customs/"><img src="/KM/customs/images/logo_hu5e5145bc2b6e4e2490b1512c5085c727_5028_0x30_resize_lanczos_2.png" alt="ECS"></a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/KM/customs/"><img src="/KM/customs/images/logo_hu5e5145bc2b6e4e2490b1512c5085c727_5028_0x30_resize_lanczos_2.png" alt="ECS"></a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/#hero"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/post/"><span>Posts</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/projects/"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/featured/"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/KM/customs/customs/"><span>พิธีการศุลกากร</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-palette" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  
+
+<div class="container-fluid docs">
+  <div class="row flex-xl-nowrap">
+    <div class="col-12 col-md-3 col-xl-2 docs-sidebar">
+      
+
+
+
+
+
+  
+    
+  
+
+
+
+
+<form class="docs-search d-flex align-items-center">
+  <button class="btn docs-toggle d-md-none p-0 mr-3" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    <span><i class="fas fa-bars"></i></span>
+  </button>
+
+  
+  <input name="q" type="search" class="form-control" placeholder="Search..." autocomplete="off">
+  
+</form>
+
+<nav class="collapse docs-links" id="docs-nav">
+  
+
+  
+  
+  
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/book/homo-deus/">Overview</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/KM/customs/book/homo-deus/deus-1/">1. สามวาระใหม่แห่งอนาคต</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/homo-deus/deus-2/">2. คำสาปเรื่องดีอุส</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/homo-deus/deus-3/">3. เซเปียนส์ครองโลกได้อย่างไร</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/homo-deus/deus-4/">4. พลังของจิตวิสัยร่วม</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/homo-deus/deus-5/">5. ข้อตกลงเรื่องความทันสมัยกับเทวทัณฑ์</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/homo-deus/deus-6/">6. ปลายทางของการปฏิวัติมนุษย์นิยมคืออภิมนุษย์</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/homo-deus/deus-7/">7. dataism</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/homo-deus/deus-8/">8. เซเปียนส์กลายเป็นสิ่งชำรุดทางประวัติศาสตร์ได้อย่างไร</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/homo-deus/deus-9/">9. มิจฉาทิฐิที่ร้ายแรงที่สุดในยุคขัอมูลนิยม (dataism)</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/homo-deus/deus-10/">10. พลังกุณฑาลินี</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/homo-deus/deus-11/">11. ทฤษฎีแห่งสรรพสิ่ง</a>
+      </li>
+      
+      <li class="active">
+        <a href="/KM/customs/book/homo-deus/deus-12/">12. เราต้องก้าวข้ามแต่หลอมรวมลัทธิข้อมูลนิยม</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/book/homo-deus/review-1/">Review</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/KM/customs/book/homo-deus/review-1/">(Review-01) Homo Deus</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/homo-deus/review-2/">(Review-02) Homo Deus</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  
+</nav>
+
+    </div>
+
+    
+
+    <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
+
+      
+
+      <article class="article">
+
+        <div class="docs-article-container">
+          <h1>ตอนที่ 12 - เราต้องก้าวข้ามแต่หลอมรวมลัทธิข้อมูลนิยม</h1>
+
+          <div class="article-style">
+           
+            <blockquote>
+<p>โดย <a href="https://www.facebook.com/suvinaip/posts/2412198755483918">ดร. สุวินัย ภรณวลัย</a></p>
+</blockquote>
+
+<p><img src="https://www.panasm.com/wp-content/uploads/2018/10/Homo-Deus-2016-Yuval-Noah-Harari.jpg" alt="" /></p>
+
+<p>ในสายตาของนักข้อมูลนิยม​ สปีซีส์มนุษย์ทั้งหมดเป็นแค่ระบบประมวลผลข้อมูลเดี่ยวแห่งหนึ่ง​ (a​ single data-processing system)​ โดยที่มนุษย์แต่ละบุคคลทำงานเป็น​&rdquo;ชิป&rdquo; (chips)​ในระบบนั้น​ (หน้า​483) ด้วยเหตุนี้​ประวัติศาสตร์ทั้งมวลของพวกเซเปียนส์จึงมองได้ว่าเป็น​ กระบวนการหนึ่งในการพัฒนาประสิทธิภาพ​ของระบบประมวลผลข้อมูลเดี่ยวนี้​ โดยผ่านกระบวนวิธีพื้นฐาน​ 4​ แบบคือ</p>
+
+<ol>
+<li>การเพิ่มจำนวนประมวลผล เมืองที่มีพลเมืองมากยิ่งมีพลังการประมวลผลมาก</li>
+<li>การเพิ่มความหลากหลายของตัวประมวลผล การใช้ตัวประมวลผลหลายรูปแบบ ในระบบเดี่ยวระบบหนึ่งจะช่วยเพิ่มความคล่องแคล่วและความคิดสร้างสรรค์ได้</li>
+<li>การเพิ่มจำนวนการเชื่อมโยงระหว่างตัวประมวลผล เครือข่ายที่เชื่อมโยงในวงกว้างย่อมก่อให้เกิดนวัตกรรมทางเศรษฐกิจ​เทคโนโลยีและสังคมมากกว่าเมืองที่อยู่อย่างโดดเดี่ยว</li>
+<li>การเพิ่มเสรีภาพในการเคลื่อนตัวตามการเชื่อมโยงที่มีอยู่</li>
+</ol>
+
+<p>การก่อสร้างระบบประมวลผลข้อมูลเซเปียนส์ทำให้เกิดขั้นตอนหลัก​ 4​ ระยะคือ</p>
+
+<ul>
+<li>ระยะแรก​เริ่มด้วยการปฏิวัติการรับรู้เมื่อ​70,000 ปีก่อน​ ซึ่งทำให้สามารถเชื่อมโยงเซเปียนส์จำนวนมาก เข้ามาในเครือข่ายประมวลผลข้อมูลชุดเดียวกัน<br /></li>
+<li>ระยะที่สองเริ่มต้นด้วยการปฏิวัติเกษตรกรรมและดำเนินไปจนกระทั่งถึงการคิดค้นระบบการเขียนแบะเงินตราเมื่อ​ 5,000 ปีที่แล้ว<br /></li>
+<li>ระยะที่สามเริ่มต้นขึ้นด้วยการคิดค้นระบบการเขียนและเงินตราเมื่อ​ ​5,000 ​ปีก่อนและ ดำรงอยู่จวบกระทั่งการเริ่มต้นปฏิวัติทางวิทยาศาสตร์<br /></li>
+<li>ระยะที่สี่ที่เป็นระยะสุดท้ายของประวัติศาสตร์เริ่มขึ้นราวปี​ ค.ศ.​1462 จนถึงปัจจุบัน ที่สารสนเทศได้ไหลเวียนอย่างเสรีไปทั่วโลก ​จนมนุษยชาติกลายเป็น​&rdquo;หมู่บ้านโลก&rdquo; ดังเช่นปัจจุบัน</li>
+</ul>
+
+<p>จากนี้ไปทิศทางของมนุษยชาติในฐานะที่เป็นระบบประมวลผลเดี๋ยว​จึงมีแต่มุ่งไปเป็นระบบประมวลผลข้อมูลใหม่ที่มีประสิทธิภาพยิ่งกว่าเดิม​คือเป็นอินเตอร์เน็ตของสรรพสิ่ง​ (Internet​ of​ All Things) หากภารกิจนี้สำเร็จเมื่อไหร่​เมื่อนั้นคือถึงคราวที่​เซเปียนส์จะสาปสูญไปจากโลกนี้​ (หน้า​486) เพราะในมุมมองของข้อมูลนิยม​ &ldquo;มนุษย์เป็นแค่เครื่องมือสำหรับสร้างอินเตอร์เน็ตของสรรพสิ่งเท่านั้น&rdquo;</p>
+
+<p>จากระบบประมวลข้อมูลระดับโลก​มันจะแผ่ขยายตนเองไปสู่ระบบประมวลข้อมูลระดับเอกภพนี้​ สุดท้ายมันจะวิวัฒน์ต่อไปจนถึงขั้นเป็นระบบประมวลข้อมูลระดับจักรวาลในที่สุดมันจะมีอยู่ทุกแห่งหนและควบคุมทุกสิ่ง​ โดยที่มนุษย์ถูกกำหนดชะตาไว้ให้ควบรวมเข้าไปกับมัน โฮโมเซเปียนส์จะกลายเป็นอัลกอริทึมที่ตกยุค​ถ้าไม่สามารถยกระดับจิต​อัปเกรดจิตใจและปัญญาญาณให้สอดคล้องกับระบบประมวลข้อมูลระดับโลกที่กำลังรุดหน้าพัฒนาตัวเองอย่างรวดเร็วไปสู่​ซิงกูลาริตี้ (Singularity)​ แทบจะเป็นไปไม่ได้เลยที่จะหลีกเลี่ยงจากสิ่งที่กำลังเกิดในอนาคต นี่คือความจริงอย่างยิ่ง กึ๋นเรื่องวิชั่นของผู้นำที่สามารถมองอนาคตขาดด้วยหน่วยเวลาสามสิบ ห้าสิบปี หรือร้อยปีขึ้นไปดุจมีตาทิพย์คือตัวชี้ขาดว่าจะนำพาผู้คนไปรอดหรือไม่รอด</p>
+
+<p>เราต้องมองและตั้งโจทย์ว่าหลีกเลี่ยง &ldquo;ความจริงใหม่&rdquo;นี้ไม่ได้ แล้วถามตัวเองว่าเราจะเป็น อัศวินเจได หรือนีโอใน Matrix หรือเป็นพุทธะหรือพระอวโลกิเตศวร ในยุคข้อมูลนิยมได้อย่างไร? คนที่ตอบว่า &ldquo;อย่าไปสนใจ เราคงตายก่อน ปล่อยให้คนรุ่นหลังเผชิญชะตากรรมตามยถากรรมกันเอง&rdquo; คือ คนที่ใจแคบ จิตต่ำต้อย และด้อยปัญญา ในการช่วยชี้ทางให้คนรุ่นหลัง</p>
+
+<p>จิต ​(consciousness)​ และจิตวิญญาณ​(spirit)​ ​หรือธรรมจิตก็มีจริง​ แต่วิญญาณ (soul)​ ที่เป็นนิรันดร์ไม่มีจริง​ พวกข้อมูลนิยมจึงพูดถูกแค่ครึ่งเดียวคือ​เรื่อง​ soul​ ไม่มีจริง​ แต่​พวกข้อมูลนิยมหลงผิดอย่างสิ้นเชิงที่ไม่ยอมรับว่า​จิต​ (consciousness)​ มีจริง มีแต่ยอมรับและเข้าใจว่าจิตมีจริงก่อน​ ถึงจะมีปัญญาญาณเข้าใจได้ว่า​จิตวิญญาณ​ที่รูปการพัฒนาสูงสุดคือ​ พุทธะ​ก็มีจริงด้วยเช่นกัน นี่คือหนทางในการ <strong>&ldquo;ก้าวข้ามแต่หลอมรวม&rdquo;</strong> ลัทธิข้อมูลนิยม​</p>
+
+          </div>
+
+          
+
+
+
+          
+          <div class="article-widget">
+            
+<div class="post-nav">
+  
+  
+  
+  <div class="post-nav-item box ">
+    <div class="meta-nav meta-prev">Previous <br>
+    <a href="/KM/customs/book/homo-deus/deus-11/" rel="next">11. ทฤษฎีแห่งสรรพสิ่ง</a></div>
+  </div>
+  
+  
+  <br>
+  <br>
+</div>
+
+          </div>
+          
+        </div>
+
+        <div class="body-footer">
+          <p>Last updated on May 26, 2020</p>
+
+          
+
+
+
+
+
+  
+  
+
+<p class="edit-page">
+  <a href="https://github.com/gcushen/hugo-academic/edit/master/content/book%5chomo-deus%5cdeus-12.md">
+    <i class="fas fa-pen pr-2"></i>Edit this page
+  </a>
+</p>
+
+
+
+
+          
+
+        </div>
+
+      </article>
+
+      <footer class="site-footer">
+  
+  <p class="powered-by">
+    
+      <a href="/KM/customs/post/privacy/">Privacy Policy</a>
+    
+    
+       &middot; 
+      <a href="/KM/customs/terms/">Terms</a>
+    
+  </p>
+  
+
+  <p class="powered-by">
+    ECS@Support&copy;2020 &middot; 
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+  </p>
+</footer>
+
+
+    </main>
+  </div>
+</div>
+
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.4.8/mermaid.min.js" integrity="sha256-lyWCDMnMeZiXRi7Zl54sZGKYmgQs4izcT7+tKc+KUBk=" crossorigin="anonymous" title="mermaid"></script>
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/python.min.js"></script>
+        
+      
+
+    
+
+    
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = true;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/KM/customs/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.1/anchor.min.js" integrity="sha256-pB/deHc9CGfFpJRjC43imB29Rse8tak+5eXqntO94ck=" crossorigin="anonymous"></script>
+    <script>
+      anchors.add();
+    </script>
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/KM/customs/js/academic.min.ee1f7178dca1975b952d775e85469539.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

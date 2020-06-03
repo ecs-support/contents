@@ -1,0 +1,1343 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Sarawut Wongsanga">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Learn how to blog in Academic using Jupyter notebooks">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://ecs-support.github.io/KM/customs/post/dictionary/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#fc6f5c">
+  
+
+  
+  
+  
+  <script src="/KM/customs/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+      
+    
+
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mitr:400,700%7CRoboto:400,400italic,700%7CSarabun:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/KM/customs/css/academic.css">
+
+  
+
+
+
+
+  
+
+
+  
+  
+
+  
+
+  <link rel="manifest" href="/KM/customs/index.webmanifest">
+  <link rel="icon" type="image/png" href="/KM/customs/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/KM/customs/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="https://ecs-support.github.io/KM/customs/post/dictionary/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="ECS">
+  <meta property="og:url" content="https://ecs-support.github.io/KM/customs/post/dictionary/">
+  <meta property="og:title" content="Dictionary | ECS">
+  <meta property="og:description" content="Learn how to blog in Academic using Jupyter notebooks"><meta property="og:image" content="https://ecs-support.github.io/KM/customs/post/dictionary/featured.png">
+  <meta property="twitter:image" content="https://ecs-support.github.io/KM/customs/post/dictionary/featured.png"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2019-02-05T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2020-05-26T17:41:52&#43;07:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://ecs-support.github.io/KM/customs/post/dictionary/"
+  },
+  "headline": "Dictionary",
+  
+  "image": [
+    "https://ecs-support.github.io/KM/customs/post/dictionary/featured.png"
+  ],
+  
+  "datePublished": "2019-02-05T00:00:00Z",
+  "dateModified": "2020-05-26T17:41:52+07:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Sarawut Wongsanga"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "ECS",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://ecs-support.github.io/KM/customs/images/logo_hu5e5145bc2b6e4e2490b1512c5085c727_5028_192x192_fit_lanczos_2.png"
+    }
+  },
+  "description": "Learn how to blog in Academic using Jupyter notebooks"
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>Dictionary | ECS</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="dark">
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+  
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/KM/customs/"><img src="/KM/customs/images/logo_hu5e5145bc2b6e4e2490b1512c5085c727_5028_0x30_resize_lanczos_2.png" alt="ECS"></a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/KM/customs/"><img src="/KM/customs/images/logo_hu5e5145bc2b6e4e2490b1512c5085c727_5028_0x30_resize_lanczos_2.png" alt="ECS"></a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/#hero"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/KM/customs/post/"><span>Posts</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/projects/"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/featured/"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/KM/customs/customs/"><span>พิธีการศุลกากร</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-palette" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="article-container pt-3">
+  <h1>Dictionary</h1>
+
+  
+  <p class="page-subtitle">Learn how to blog in Academic using Jupyter notebooks</p>
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span>Sarawut Wongsanga</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+          Last updated on
+      
+    
+    May 26, 2020
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    4 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i></span>
+  
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+<div class="article-header container-fluid featured-image-wrapper mt-4 mb-4" style="max-width: 1920px; max-height: 1080px;">
+  <div style="position: relative">
+    <img src="/KM/customs/post/dictionary/featured.png" alt="" class="featured-image">
+    <span class="article-header-caption">Image credit: <a href="./image.png"><strong>John Moeses Bauan</strong></a></span>
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      
+
+<p>ในบทนี้ คุณจะได้เรียนรู้เกี่ยวกับโครงสร้างข้อมูล Dictionary ในภาษา Python เราจะแนะนำให้คุณรู้จักกับ Dictionary คืออะไร และการประกาศและใช้งานสำหรับเก็บข้อมูลในการเขียนโปรแกรม นอกจากนี้ เรายังจะพูดถึงการใช้งานเมธอดและ built-in functions ของ Dictionary และตัวอย่างการใช้งานกับการเขียนโปรแกรมใบรูปแบบต่างๆ ในภาษา Python</p>
+
+<p>Dictionary คือประเภทข้อมูลที่เก็บข้อมูลในรูปแบบคู่ของ Key และ Value โดยที่ Key ใช้สำหรับเป็น Index ในการเข้าถึงข้อมูลและ Value เป็นค่าข้อมูลที่สอดคล้องกับ Key ของมัน การเข้าถึงข้อมูลใน Dictionary นั้นรวดเร็วเพราะว่าข้อมูลได้ถูกทำ Index ไว้อัตโนมัติโดยใช้ Key นอกจากนี้ Dictionary ยังมีเมธอดและฟังก์ชันอำนวยความสะดวกสำหรับการทำงานทั่วไป</p>
+
+<h2 id="การประกาศ-dictionary-ในภาษา-python">การประกาศ Dictionary ในภาษา Python</h2>
+
+<p>ในการใช้งาน Dictionary เรามักจะใช้เก็บข้อมูลที่สามารถใช้บางอย่างที่สามารถจำแนกข้อมูลออกจากกันได้ โดยกำหนดให้สิ่งนั้นเป็น Key ในการประกาศ Dictionary สมาชิกของมันจะอยู่ภายในวงเล็บปีกกา <code>{}</code> มาดูตัวอย่างในการประกาศ Dictionary ในภาษา Python</p>
+
+<pre><code class="language-text">scores = {'james': 1828, 'thomas': 3628, 'danny': 9310}
+scores['bobby'] = 4401
+
+numbers = {1: 'One', 2: 'Two', 3: 'Three'}
+
+print(scores)
+print(numbers)
+</code></pre>
+
+<p>ในตัวอย่าง เราได้ประกาศตัวแปร Dictionary ที่มีชื่อว่า <code>scores</code> สำหรับเก็บคะแนนของแต่ละคนโดยใช้ชื่อเป็น Key และค่าของมันก็คือคะแนน สมาชิกของ Dictionary แต่ละตัวจะถูกกำหนดในรูปแบบ <code>key: value</code> และคั่นสมาชิกแต่ละตัวด้วยเครื่องหมายคอมมา เราได้กำหนดค่าเริ่มต้นสามค่าให้กับ Dictionary และสามารถกำหนดค่าให้กับ Dictionary ในรูปแบบ <code>scores['bobby']</code> ได้หลังจากที่ตัวแปรถูกสร้างแล้ว สังเกตว่าเราสามารถใช้ Key เป็น String หรือประเภทข้อมูลอื่นๆ ได้ ต่อมาตัวแปร <code>numbers</code> เป็น Dictionary ที่มี Key เป็นตัวเลข</p>
+
+<pre><code class="language-text">{'james': 1828, 'thomas': 3628, 'danny': 9310, 'bobby': 4401}
+{1: 'One', 2: 'Two', 3: 'Three'}
+</code></pre>
+
+<p>นี่เป็นผลลัพธ์ของโปรแกรมในการแสดงผลข้อมูลภายในตัวแปร Dictionary ทั้งสองที่เราได้สร้างขึ้น</p>
+
+<h2 id="การเข-าถ-งข-อม-ลภายใน-dictionary">การเข้าถึงข้อมูลภายใน Dictionary</h2>
+
+<p>หลังจากที่เราได้ประกาศ Dictionary ไปแล้ว ต่อไปจะการเข้าถึงข้อมูลเพื่ออ่านและอัพเดทข้อมูลโดยผ่านทาง Key ของมัน มาดูตัวอย่างการเข้าถึงข้อมูลใน Dictionary</p>
+
+<pre><code class="language-python">scores = {'james': 1828, 'thomas': 3628, 'danny': 9310, 'bobby': 4401}
+
+# display data
+print('james =&gt;', scores['james'])
+print('thomas =&gt;', scores['thomas'])
+print('danny =&gt;', scores['danny'])
+print('bobby =&gt;', scores['bobby'])
+
+# update data
+scores['james'] = scores['james'] + 1000
+scores['thomas'] = 100
+
+print('james =&gt;', scores['james'])
+print('thomas =&gt;', scores['thomas'])
+</code></pre>
+
+<p>ในตัวอย่าง เรามีตัวแปร <code>scores</code> สำหรับเก็บคะแนนของผู้เล่นโดยชื่อเป็น Key ของ Dictionary ในการเข้าถึงข้อมูลนั้นจะใช้ Key ของมัน ในส่วนแรกเป็นการเข้าถึงข้อมูลภายใน Dictionary เพื่อแสดงผลคะแนนของแต่ละ Key ออกมาทางหน้าจอ ต่อมาเป็นการอัพเดทข้อมูลใน Dictionary โดยเราได้เพิ่มค่าให้กับ Key <code>'james'</code> ขึ้นไปอีก 1000 และกำหนดค่าให้กับ Key <code>'thomas'</code> เป็น 100 และแสดงผลอีกครั้ง</p>
+
+<pre><code class="language-python">james =&gt; 1828
+thomas =&gt; 3628
+danny =&gt; 9310
+bobby =&gt; 4401
+james =&gt; 2828
+thomas =&gt; 100
+</code></pre>
+
+<p>นี่เป็นผลลัพธ์การทำงานของโปรแกรม ในการเข้าถึงข้อมูลภายใน Dictionary เพื่ออ่านค่าและอัพเดทข้อมูล</p>
+
+<p>ในการเข้าถึงข้อมูลภายใน Dictionary นั้น คุณต้องตรวจสอบให้แน่ใจว่า Key นั้นมีอยู่จริง ไม่เช่นนั้นโปรแกรมจะเกิดข้อผิดพลาดขึ้น ยกตัวอย่างเช่น</p>
+
+<pre><code class="language-python">scores = {'james': 1828, 'thomas': 3628, 'danny': 9310, 'bobby': 4401}
+print(scores['smith']) # Error
+
+# check if key smith exist
+if 'smith' in scores.keys():
+    print(scores['smith'])
+</code></pre>
+
+<p>ในตัวอย่างข้างบน โปรแกรมจะเกิดความผิดพลาดขึ้นเพราะเราได้เข้าถึง Key <code>'smith'</code> ซึ่งไม่มีอยู่ใน <code>scores</code> อย่าไรก็ตาม เราสามารถตรวจว่า Key มีอยู่หรือไม่ได้โดยการใช้คำสั่ง <code>in</code> เพื่อตรวจสอบจาก Key ในเมธอด <code>keys()</code> ของ Dictionary</p>
+
+<h2 id="การอ-านค-าใน-dictionary-ด-วยคำส-ง-for-loop">การอ่านค่าใน Dictionary ด้วยคำสั่ง For loop</h2>
+
+<p>คำสั่ง For loop นั้นเป็นคำสั่งที่ยืดหยุ่นและสามารถใช้งานได้อย่างหลากหลาย ในการอ่านค่าใน Dictionary นั้นเราสามารถใช้ For loop เพื่อวนอ่านค่าทั้ง Key และ Values ใน Dictionary ได้ มาดูตัวอย่างของโปรแกรม</p>
+
+<pre><code class="language-python">countries = {'de': 'Germany', 'ua': 'Ukraine',
+             'th': 'Thailand', 'nl': 'Netherlands'}
+
+for k, v in countries.items():
+    print(k, v)
+
+# iterate through keys
+print('Key:', end = ' ')
+for k in countries.keys():
+    print(k, end = ' ')
+
+# iterate through values
+print('\nValue:', end = ' ')
+for v in countries.values():
+    print(v, end = ' ')
+</code></pre>
+
+<p>ในตัวอย่าง เป็นการใช้งานคำสั่ง For loop วนอ่านค่าใน Dictionary ซึ่งมี 3 loop ด้วยกัน ในลูปแรกเป็นการอ่านค่าแบบ Key และ Value ในแต่ละรอบของการทำงานเราเอาข้อมูลใน Dictionary ด้วยเมธอด <code>items()</code> ซึ่งจะส่งค่ากลับเป็น Key และ Value กับมาและโหลดใส่ในตัวแปร <code>k</code> และ <code>v</code> ตามลำดับ</p>
+
+<p>ในลูปที่สอง เป็นการวนอ่าน Key ทั้งหมดภายใน Dictionary โดยเมธอด <code>keys()</code> จะส่งค่ากลับเป็น List ของ Key ทั้งหมดและโหลดใส่ในตัวแปร <code>k</code> แต่ละรอบของลูป และในลูปสุดท้ายนั้นเป็นการอ่าน Value ทั้งหมด และเมธอด <code>values()</code> เพื่อรับค่าของ Value ทั้งหมดมาและใส่ในตัวแปร <code>v</code> ในแต่ละรอบของลูป</p>
+
+<pre><code class="language-python">de Germany
+ua Ukraine
+th Thailand
+nl Netherlands
+Key: de ua th nl 
+Value: Germany Ukraine Thailand Netherlands
+</code></pre>
+
+<p>นี่เป็นผลลัพธ์การทำงานของโปรแกรม ในการใช้คำสั่ง For loop เพื่ออ่านข้อมูลใน Dictionary ในภาษา Python</p>
+
+<h2 id="python-dictionary-methods">Python Dictionary methods</h2>
+
+<p>เช่นเดียวกับข้อมูลประเภทอื่นๆ Dictionary มีเมธอดที่ให้คุณสามารถทำงานกับมันได้ง่ายขึ้น โดยส่วนมากแล้วมักจะเป็นเมธอดในการอัพเดทและรับค่าข้อมูลภายใน Dictionary ต่อไปมาดูตัวอย่างการใช้งานเมธอดของ Dictionary ในภาษา Python</p>
+
+<pre><code class="language-python">countries = {'de': 'Germany', 'ua': 'Ukraine',
+             'th': 'Thailand', 'nl': 'Netherlands'}
+
+print(countries.keys())
+print(countries.values())
+
+print(countries.get('de')) # equal to countries['de']
+countries.setdefault('tr', 'Turkey')
+
+print(countries.popitem())
+print(countries.popitem())
+
+print(countries.items())
+</code></pre>
+
+<p>ในตัวอย่าง เป็นโปรแกรมในการใช้งานเมธอดของ Dictionary ตัวแปรของเรา <code>countries</code> มาจากตัวอย่างก่อนหน้าที่มี Key เป็นชื่อย่อของประเทศและ Value เป็นชื่อเต็มของประเทศ เมธอด <code>keys()</code> ส่งค่ากลับเป็น List ของ Key ทั้งหมดภายใน Dictionary และเมธอด <code>values()</code> นั้นจะส่งเป็น List ของ Value</p>
+
+<p>หลังจากนั้นเป็นการเข้าถึงข้อมูลด้วยเมธอด <code>get()</code> โดยมี Key เป็นอาร์กิวเมนต์ซึ่งผลลัพธ์การทำงานของมันจะเหมือนกับการเข้าถึงข้อมูลโดยตรง เช่น <code>countries['de']</code> และเมธอด <code>setdefault()</code> ใช้รับค่าจากคีย์ที่กำหนด ถ้าไม่มีจะเป็นการเพิ่มค่าดังกล่าวเข้าไปใน Dictionary และต่อมาเมธอด <code>popitem()</code> จะนำสมาชิกตัวสุดท้ายออกจาก Dictionary และส่งค่าดังกล่าวกลับมาเป็น Tuple ออบเจ็ค ส่วนเมธอด <code>items()</code> นั้นจะค่ากลับมาเป็น List ของ Tuple ของออบเจ็คของ Key และ Value ทั้งหมด</p>
+
+<pre><code class="language-python">dict_keys(['de', 'ua', 'th', 'nl'])
+dict_values(['Germany', 'Ukraine', 'Thailand', 'Netherlands'])
+Germany
+('tr', 'Turkey')
+('nl', 'Netherlands')
+dict_items([('de', 'Germany'), ('ua', 'Ukraine'), ('th', 'Thailand')])
+</code></pre>
+
+<p>นี่เป็นผลลัพธ์การทำงานของโปรแกรม ในการใช้เมธอดใน Dictionary ในภาษา Python และจากในตัวอย่างนั้นเป็นเพียงส่วนหนึ่งของเมธอดที่มีเท่านั้น สำหรับเมธอดทั้งหมดใน Dictionary นั้นแสดงดังตารางข้างล่างนี้</p>
+
+<table>
+<thead>
+<tr>
+<th align="left">Methods</th>
+<th align="left">Description</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="left">clear()</td>
+<td align="left">ลบข้อมูลทั้งหมดภายใน Dictionary</td>
+</tr>
+
+<tr>
+<td align="left">copy()</td>
+<td align="left">คัดลอก Dictionary ทั้งหมดไปยังอันใหม่</td>
+</tr>
+
+<tr>
+<td align="left">get(key[, default])</td>
+<td align="left">ส่งค่าข้อมูลใน Dictionary จาก Key ที่กำหนด ถ้าหากไม่มี Key อยู่และไม่ได้กำหนด default จะทำให้เกิดข้อผิดพลาด KeyError</td>
+</tr>
+
+<tr>
+<td align="left">items()</td>
+<td align="left">ส่งค่ากลับเป็นออบเจ็คของ Key และ Value</td>
+</tr>
+
+<tr>
+<td align="left">keys()</td>
+<td align="left">ส่งค่ากลับเป็น List ของ Key ทั้งหมดใน Dictionary</td>
+</tr>
+
+<tr>
+<td align="left">pop(key[, default])</td>
+<td align="left">ส่งค่ากลับเป็นค่าสุดท้ายใน Dictionary</td>
+</tr>
+
+<tr>
+<td align="left">popitem()</td>
+<td align="left">ส่งค่ากลับเป็น Tuple ออบเจ็คของ Key และ Value</td>
+</tr>
+
+<tr>
+<td align="left">setdefault(key[, default])</td>
+<td align="left">ส่งค่ากลับเป็นค่าของ Key ที่กำหนด ถ้าหากไม่มี Key อยู่ใส่ข้อมูลเข้าไปใน Dictionary</td>
+</tr>
+
+<tr>
+<td align="left">update([other])</td>
+<td align="left">อัพเดท Dictionary กับคู่ของ Key และ Value จากออบเจ็คอื่น และเขียนทับ Key ที่มีอยู่</td>
+</tr>
+
+<tr>
+<td align="left">values()</td>
+<td align="left">ส่งค่ากลับเป็น List ของ Value ทั้งหมดใน Dictionary</td>
+</tr>
+</tbody>
+</table>
+
+<h2 id="python-dictionary-functions">Python Dictionary functions</h2>
+
+<p>ฟังก์ชันที่เป็นพื้นฐานและสามารถใช้ได้กับโครงสร้างข้อมูลทุกประเภทคือฟังก์ชัน <code>len()</code> เป็นฟังก์ชันที่ใช้สำหรับนับจำนวนสมาชิกของเจ็ค และ Dictionary ยังมีฟังก์ชัน <code>iter()</code> ที่ทำงานเหมือนกับเมธอด <code>items()</code> นี่เป็นตารางของฟังก์ชันที่สามารถใช้ได้กับ Dictionary</p>
+
+<table>
+<thead>
+<tr>
+<th align="left">Function</th>
+<th align="left">Description</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="left">len(dict)</td>
+<td align="left">ส่งค่ากลับเป็นจำนวนของออบเจ็คใน Dictionary</td>
+</tr>
+</tbody>
+</table>
+
+<p>iter(dict)|ส่งค่ากลับเป็นออบเจ็คของ Key และ Value|</p>
+
+<p>คุณสามารถใช้คำสั่ง <code>del</code> เพื่อลบข้อมูลภายใน Dictionary ได้ เช่น คำสั่ง <code>del countries['de']</code> เพื่อลบสมาชิกที่มี Key ที่กำหนดออกไป และคำสั่ง <code>del countries</code> นั้นเป็นการลบทั้งตัวแปร</p>
+
+<p>ในบทนี้ คุณได้เรียนรู้เกี่ยวกับ Dictionary ในภาษา Python คุณได้ทราบวิธีการสร้างและใช้งาน Dictionary และสถานการณ์ที่เหมาะสมที่จะใช้ข้อมูลประเภทนี้ เราได้แสดงให้เห็นถึงการเข้าถึงข้อมูลภายใน Dictionary แบบพื้นฐานและด้วยการใช้คำสั่งวนซ้ำ For loop รวมถึงการใช้งานเมธอดและฟังก์ชันสำหรับจัดการ Dictionary</p>
+
+<p>Reference : <a href="http://marcuscode.com/lang/python/dictionary">http://marcuscode.com/lang/python/dictionary</a></p>
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://ecs-support.github.io/KM/customs/post/dictionary/&amp;text=Dictionary" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://ecs-support.github.io/KM/customs/post/dictionary/&amp;t=Dictionary" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Dictionary&amp;body=https://ecs-support.github.io/KM/customs/post/dictionary/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://ecs-support.github.io/KM/customs/post/dictionary/&amp;title=Dictionary" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Dictionary%20https://ecs-support.github.io/KM/customs/post/dictionary/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://ecs-support.github.io/KM/customs/post/dictionary/&amp;title=Dictionary" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+
+
+
+
+
+  
+    
+    
+    
+    
+    
+    <div class="media author-card content-widget-hr">
+      
+        
+        <img class="avatar mr-3 avatar-circle" src="/KM/customs/author/sarawut-wongsanga/avatar_hu9c0cdb97929754257117a119e95d28a3_5619_270x270_fill_q90_lanczos_center.jpg" alt="Sarawut Wongsanga">
+      
+
+      <div class="media-body">
+        <h5 class="card-title"><a href="/KM/customs/author/sarawut-wongsanga/">Sarawut Wongsanga</a></h5>
+        <h6 class="card-subtitle">Senior System Support</h6>
+        <p class="card-text">ความรู้ คือ พาหนะที่สำคัญ ที่จะนำพาเราไปสู่จุดหมาย หรือ อนาคตในแบบที่เราต้องการ.</p>
+        <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/KM/customs/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/GeorgeCushen" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/gcushen" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      </div>
+    </div>
+  
+
+
+  
+
+
+
+
+
+
+
+
+<div class="article-widget">
+  
+<div class="post-nav">
+  
+  
+  
+  <div class="post-nav-item box ">
+    <div class="meta-nav meta-prev">Next <br>
+    <a href="/KM/customs/post/rice-export/" rel="next">ระเบียบการส่งออกข้าวฉบับล่าสุด</a></div>
+  </div>
+  
+  
+  
+  <div class="post-nav-item box">
+    <div class="meta-nav meta-next" >Previous <br>
+    <a href="/KM/customs/post/jupyter/" rel="prev">Display Jupyter Notebooks with Academic</a></div>
+  </div>
+  
+  <br>
+  <br>
+</div>
+
+</div>
+
+
+
+  
+  
+
+
+
+  </div>
+</article>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.4.8/mermaid.min.js" integrity="sha256-lyWCDMnMeZiXRi7Zl54sZGKYmgQs4izcT7+tKc+KUBk=" crossorigin="anonymous" title="mermaid"></script>
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/python.min.js"></script>
+        
+      
+
+    
+
+    
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = true;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/KM/customs/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/KM/customs/js/academic.min.ee1f7178dca1975b952d775e85469539.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+  <p class="powered-by">
+    
+      <a href="/KM/customs/post/privacy/">Privacy Policy</a>
+    
+    
+       &middot; 
+      <a href="/KM/customs/terms/">Terms</a>
+    
+  </p>
+  
+
+  <p class="powered-by">
+    ECS@Support&copy;2020 &middot; 
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

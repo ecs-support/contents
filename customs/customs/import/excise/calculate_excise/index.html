@@ -1,0 +1,1046 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Nelson Bighetti">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="การคำนวณภาษีสินค้าสรรพสามิต ในกรณีสินค้าทั่วไป (ยกเว้นสินค้าในหมวด สุรา ยาสูบ และเครื่องดื่ม) เมื่อกำหนดพิกัดสรรพสามิตและบันทึกข้อมูลตามปกติ โปรแกรมจะคำนวณภาษีสรรพสามิต และภาษีเพื่อมหาดไทยให้โดยอัตโนมัติ
+กรณีเป็นสินค้าในหมวด สุรา ยาสูบ และเครื่องดื่ม เมื่อผู้ใช้งานกำหนดพิกัดสรรพสามิตถูกต้อง ต้องเข้าไปบันทึกรายละเอียดเพิ่มเติม ตามรายละเอียดของแต่ละหมวดสินค้ามีรายละเอียดดังนี้
+สุรา ยาสูบ เครื่องดื่ม เครื่องดื่มชนิดผง เกล็ด  พิกัดอัตราภาษีสรรพสามิต สำหรับสินค้าเครื่องดื่มชนิดผง เกล็ด หรือเครื่องดื่มเข้มข้น ตามพระราชกฤษฎีกากำหนดประเภทสินค้าตามพิกัดอัตราภาษีสรรพสามิต พ.ศ. 2560 คือ 16.">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://ecs-support.github.io/knowledge-center/customs/customs/import/excise/calculate_excise/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#00539C">
+  
+
+  
+  
+  
+  <script src="/knowledge-center/customs/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+      
+    
+
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mitr:400,700%7CSarabun:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/knowledge-center/customs/css/academic.css">
+
+  
+
+
+
+
+  
+
+
+  
+  
+
+  
+
+  <link rel="manifest" href="/knowledge-center/customs/index.webmanifest">
+  <link rel="icon" type="image/png" href="/knowledge-center/customs/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/knowledge-center/customs/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+
+  <link rel="canonical" href="https://ecs-support.github.io/knowledge-center/customs/customs/import/excise/calculate_excise/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="ECS">
+  <meta property="og:url" content="https://ecs-support.github.io/knowledge-center/customs/customs/import/excise/calculate_excise/">
+  <meta property="og:title" content="ตัวอย่างการคำนวณภาษีสินค้าสรรพสามิต | ECS">
+  <meta property="og:description" content="การคำนวณภาษีสินค้าสรรพสามิต ในกรณีสินค้าทั่วไป (ยกเว้นสินค้าในหมวด สุรา ยาสูบ และเครื่องดื่ม) เมื่อกำหนดพิกัดสรรพสามิตและบันทึกข้อมูลตามปกติ โปรแกรมจะคำนวณภาษีสรรพสามิต และภาษีเพื่อมหาดไทยให้โดยอัตโนมัติ
+กรณีเป็นสินค้าในหมวด สุรา ยาสูบ และเครื่องดื่ม เมื่อผู้ใช้งานกำหนดพิกัดสรรพสามิตถูกต้อง ต้องเข้าไปบันทึกรายละเอียดเพิ่มเติม ตามรายละเอียดของแต่ละหมวดสินค้ามีรายละเอียดดังนี้
+สุรา ยาสูบ เครื่องดื่ม เครื่องดื่มชนิดผง เกล็ด  พิกัดอัตราภาษีสรรพสามิต สำหรับสินค้าเครื่องดื่มชนิดผง เกล็ด หรือเครื่องดื่มเข้มข้น ตามพระราชกฤษฎีกากำหนดประเภทสินค้าตามพิกัดอัตราภาษีสรรพสามิต พ.ศ. 2560 คือ 16."><meta property="og:image" content="https://ecs-support.github.io/knowledge-center/customs/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="https://ecs-support.github.io/knowledge-center/customs/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2020-05-18T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2020-05-18T00:00:00&#43;00:00">
+  
+
+  
+
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>ตัวอย่างการคำนวณภาษีสินค้าสรรพสามิต | ECS</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/knowledge-center/customs/">ECS</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/knowledge-center/customs/">ECS</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/knowledge-center/customs/#hero"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/knowledge-center/customs/post/"><span>Posts</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/knowledge-center/customs/projects/"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/knowledge-center/customs/featured/"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/knowledge-center/customs/customs/"><span>พิธีการศุลกากร</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/knowledge-center/customs/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-palette" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  
+
+<div class="container-fluid docs">
+  <div class="row flex-xl-nowrap">
+    <div class="col-12 col-md-3 col-xl-2 docs-sidebar">
+      
+
+
+
+
+
+  
+    
+  
+
+
+
+
+<form class="docs-search d-flex align-items-center">
+  <button class="btn docs-toggle d-md-none p-0 mr-3" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    <span><i class="fas fa-bars"></i></span>
+  </button>
+
+  
+  <input name="q" type="search" class="form-control" placeholder="Search..." autocomplete="off">
+  
+</form>
+
+<nav class="collapse docs-links" id="docs-nav">
+  
+
+  
+  
+  
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/knowledge-center/customs/customs/import/">Overview</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/knowledge-center/customs/customs/import/customs-clearance/">พิธีการการนำเข้าสินค้า</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/knowledge-center/customs/customs/import/customs-clearance/road/">นำของเข้าทางบก</a>
+      </li>
+      
+      <li >
+        <a href="/knowledge-center/customs/customs/import/customs-clearance/sea/">นำของเข้าทางเรือ</a>
+      </li>
+      
+      <li >
+        <a href="/knowledge-center/customs/customs/import/customs-clearance/air/">นำของเข้าทางอากาศ</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/knowledge-center/customs/customs/import/direct_guide/">คู่มือการปฏิบัติพิธีการศุลกากร</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/knowledge-center/customs/customs/import/reserve-hs/">สงวนสิทธิขอคืนอากร</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/knowledge-center/customs/customs/import/overtime-goods/">ของตกค้าง</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/knowledge-center/customs/customs/import/import_car/">การนำเข้ารถยนต์สำเร็จรูป</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/knowledge-center/customs/customs/import/import_car/customs_106-2561/">การปฏิบัติพิธีการศุลกากรนำเข้าทางอิเล็กทรอนิกส์ว่าด้วยรถยนต์สำเร็จรูป</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/knowledge-center/customs/customs/import/excise/">ภาษีสรรพสามิต</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/knowledge-center/customs/customs/import/excise/excise_announcement_list/">คู่มือสำหรับประชาชนของกรมสรรพสามิต</a>
+      </li>
+      
+      <li >
+        <a href="/knowledge-center/customs/customs/import/excise/excise_announcement_product_list/">ประกาศกรมสรรพสามิต แยกตามประเภทสินค้าและบริการ</a>
+      </li>
+      
+      <li >
+        <a href="/knowledge-center/customs/customs/import/excise/search_by_product/">สืบค้นรหัสสินค้าสรรพสามิต</a>
+      </li>
+      
+      <li >
+        <a href="/knowledge-center/customs/customs/import/excise/price_structure/">โครงสร้างราคาขายปลีกแนะนำ</a>
+      </li>
+      
+      <li >
+        <a href="/knowledge-center/customs/customs/import/excise/notifications_price/">หลักเกณฑ์การแจ้งราคาขายปลีกแนะนำ</a>
+      </li>
+      
+      <li class="active">
+        <a href="/knowledge-center/customs/customs/import/excise/calculate_excise/">ตัวอย่างการคำนวณภาษี</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/knowledge-center/customs/customs/import/trade-protection/">มาตรการปกป้องและตอบโต้ทางการค้า</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/knowledge-center/customs/customs/import/trade-protection/anti-dumping/">Anti-Dumping (AD)</a>
+      </li>
+      
+      <li >
+        <a href="/knowledge-center/customs/customs/import/trade-protection/cvd/">Countervailing Duty (CVD)</a>
+      </li>
+      
+      <li >
+        <a href="/knowledge-center/customs/customs/import/trade-protection/sg/">Safeguard Measure (SG)</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  
+</nav>
+
+    </div>
+
+    
+    <div class="d-none d-xl-block col-xl-2 docs-toc">
+      <ul class="nav toc-top">
+        <li><a href="#" id="back_to_top" class="docs-toc-title">Contents</a></li>
+      </ul>
+
+      <nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#ส-รา">สุรา</a></li>
+<li><a href="#ยาส-บ">ยาสูบ</a></li>
+<li><a href="#เคร-องด-ม">เครื่องดื่ม</a></li>
+<li><a href="#เคร-องด-มชน-ดผง-เกล-ด">เครื่องดื่มชนิดผง เกล็ด</a></li>
+<li><a href="#เคร-องด-มเข-มข-น">เครื่องดื่มเข้มข้น</a></li>
+<li><a href="#รถยนต-รถจ-กรยานยนต-แบตเตอร">รถยนต์ รถจักรยานยนต์ แบตเตอรี่</a></li>
+<li><a href="#น-ำม-นและผล-ตภ-ณฑ-น-ำม-น">น้ำมันและผลิตภัณฑ์น้ำมัน</a></li>
+<li><a href="#การระบ-exempt">การระบุ EXEMPT</a></li>
+</ul></li>
+</ul>
+</nav>
+
+      
+    </div>
+    
+
+    <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
+
+      <article class="article">
+
+        <div class="docs-article-container">
+          <h1>ตัวอย่างการคำนวณภาษีสินค้าสรรพสามิต</h1>
+
+          <div class="article-style">
+            
+
+<p>การคำนวณภาษีสินค้าสรรพสามิต ในกรณีสินค้าทั่วไป (<strong>ยกเว้นสินค้าในหมวด สุรา ยาสูบ และเครื่องดื่ม</strong>) เมื่อกำหนดพิกัดสรรพสามิตและบันทึกข้อมูลตามปกติ โปรแกรมจะคำนวณภาษีสรรพสามิต และภาษีเพื่อมหาดไทยให้โดยอัตโนมัติ</p>
+
+<p>กรณีเป็นสินค้าในหมวด <strong>สุรา ยาสูบ และเครื่องดื่ม</strong> เมื่อผู้ใช้งานกำหนดพิกัดสรรพสามิตถูกต้อง ต้องเข้าไปบันทึกรายละเอียดเพิ่มเติม ตามรายละเอียดของแต่ละหมวดสินค้ามีรายละเอียดดังนี้</p>
+
+<h2 id="ส-รา">สุรา</h2>
+
+<p><img src="https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/img/alcohol-01.jpg" alt="enter image description here" /></p>
+
+<p><img src="https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/img/alcohol-02.jpg" alt="enter image description here" /></p>
+
+<p><img src="https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/img/alcohol-03.jpg" alt="enter image description here" /></p>
+
+<h2 id="ยาส-บ">ยาสูบ</h2>
+
+<p><img src="https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/img/cigarette-01.jpg" alt="enter image description here" /></p>
+
+<p><img src="https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/img/cigarette-02.jpg" alt="enter image description here" />
+<img src="https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/img/cigarette-03.jpg" alt="enter image description here" />
+<img src="https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/img/cigarette-04.jpg" alt="enter image description here" /></p>
+
+<h2 id="เคร-องด-ม">เครื่องดื่ม</h2>
+
+<p><img src="https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/img/beverage-01.jpg" alt="enter image description here" /></p>
+
+<p><img src="https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/img/beverage-02.jpg" alt="enter image description here" /></p>
+
+<h2 id="เคร-องด-มชน-ดผง-เกล-ด">เครื่องดื่มชนิดผง เกล็ด</h2>
+
+<ol>
+<li>พิกัดอัตราภาษีสรรพสามิต สำหรับสินค้าเครื่องดื่มชนิดผง เกล็ด หรือเครื่องดื่มเข้มข้น ตามพระราชกฤษฎีกากำหนดประเภทสินค้าตามพิกัดอัตราภาษีสรรพสามิต พ.ศ. 2560 คือ
+<div class="alert alert-note">
+  <div>
+    16.90(1)  ผลิตภัณฑ์ที่ใช้เป็นเครื่องดื่มที่มี<strong>ลักษณะผง เกล็ด หรือเครื่องดื่มเข้มข้น</strong>ที่<strong>มีส่วนผสมของน้ำตาล</strong>และ<strong>สามารถละลายน้ำได้</strong> แต่ไม่รวมถึงผลิตภัณฑ์เสริมอาหารและผลิตภัณฑ์นมที่อยู่ในรูปแบบผงตามกฎหมายว่าด้วยอาหาร
+  </div>
+</div>
+<br /></li>
+<li>ในช่อง &ldquo;ปริมาณตามข้อแนะนำ&rdquo; ให้ใส่ข้อมูล <strong>&ldquo;ปริมาตรหรือน้ำหนักของผงหรือเกล็ดเครื่องดื่มที่ใช้ในการชงแต่ละครั้งตามข้อแนะนำ&rdquo;</strong> ที่ระบุไว้ข้างภาชนะบรรจุภัณฑ์</li>
+<li>ในกรณีที่เครื่องดื่มผงหรือเกล็ดบรรจุอยู่ในซองแบบชงเครื่องดื่มหนึ่งแก้วต่อหนึ่งซอง น้ำหนัก (ปริมาณ) ผงหรือเกล็ดตามข้อแนะนำ เท่ากับ น้ำหนักสุทธิ เช่น 1 ซอง (17.5 กรัม)</li>
+<li>ในช่อง &ldquo;ปริมาตรหลังผสม&rdquo; ให้ใส่ข้อมูล <strong>&ldquo;ปริมาตรของน้ำหรือของเหลวที่ใช้ผสมกับเครื่องดื่มผงหรือเกล็ดตามคำแนะนำหรือวิธีการชง&rdquo;</strong> ที่ระบุไว้ที่ข้างภาชนะบรรจุภัณฑ์ เช่น 130 มล./แก้ว</li>
+<li>ในช่อง &ldquo;น้ำหนัก/ภาชนะ(กรัม)&rdquo; ให้ใส่ข้อมูล <strong>&ldquo;น้ำหนัก (ปริมาณ) ของผงหรือเกล็ดเครื่องดื่มสุทธิต่อภาชนะ&rdquo;</strong> ที่ระบุไว้ที่ภาชนะบรรจุภัณฑ์</li>
+<li>ในช่อง &ldquo;จำนวนภาชนะ&rdquo; ให้ใส่ข้อมูล <strong>&ldquo;จำนวนภาชนะทั้งหมด&rdquo;</strong></li>
+<li>หากข้างขวดหรือที่ฉลากไม่ได้แจ้งข้อมูลใด ๆ ก็ตามข้างต้น ให้ผู้ประกอบอุตสาหกรรมเป็นผู้แจ้งสำแดงข้อมูลของตนเองให้ครบถ้วน เพื่อประกอบการพิจารณาคำนวณภาษีสรรพสามิต</li>
+<li>ภาษีสรรพสามิตต่อภาชนะบรรจุดังกล่าวที่ตารางคำนวณออกมาได้นั้น เป็นภาษีสรรพสามิตแต่เพียงอย่างเดียวเท่านั้น ยังไม่ได้รวมภาษีเพิ่มขึ้นเพื่อราชการส่วนท้องถิ่น</li>
+<li>หลักเกณฑ์และวิธีการคำนวณดังกล่าวข้างต้นเป็นไปตามหนังสือสำนักแผนภาษี ด่วนที่สุดที่ กค 0619/1288 ลงวันที่ 2 พฤศจิกายน 2560</li>
+</ol>
+
+<p><img src="https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/img/powdered-drink-01.jpg" alt="enter image description here" /></p>
+
+<p><img src="https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/img/powdered-drink-02.jpg" alt="enter image description here" /></p>
+
+<h2 id="เคร-องด-มเข-มข-น">เครื่องดื่มเข้มข้น</h2>
+
+<ol>
+<li>พิกัดอัตราภาษีสรรพสามิต สำหรับสินค้าเครื่องดื่มชนิดผง เกล็ด หรือเครื่องดื่มเข้มข้น ตามพระราชกฤษฎีกากำหนดประเภทสินค้าตามพิกัดอัตราภาษีสรรพสามิต พ.ศ. 2560 คือ
+<div class="alert alert-warning">
+  <div>
+    16.90(1)  ผลิตภัณฑ์ที่ใช้เป็นเครื่องดื่มที่มี<strong>ลักษณะผง เกล็ด หรือเครื่องดื่มเข้มข้น</strong>ที่<strong>มีส่วนผสมของน้ำตาล</strong>และ<strong>สามารถละลายน้ำได้</strong> แต่ไม่รวมถึงผลิตภัณฑ์เสริมอาหารและผลิตภัณฑ์นมที่อยู่ในรูปแบบผงตามกฎหมายว่าด้วยอาหาร
+  </div>
+</div>
+<br /></li>
+<li>ในช่อง &ldquo;ปริมาณตามข้อแนะนำ&rdquo; ให้ใส่ข้อมูล <strong>&ldquo;ปริมาตรหรือน้ำหนักของผงหรือเกล็ดเครื่องดื่มที่ใช้ในการชงแต่ละครั้งตามข้อแนะนำ&rdquo;</strong> ที่ระบุไว้ข้างภาชนะบรรจุภัณฑ์</li>
+<li>ในกรณีที่เครื่องดื่มผงหรือเกล็ดบรรจุอยู่ในซองแบบชงเครื่องดื่มหนึ่งแก้วต่อหนึ่งซอง น้ำหนัก (ปริมาณ) ผงหรือเกล็ดตามข้อแนะนำ เท่ากับ น้ำหนักสุทธิ เช่น 1 ซอง (17.5 กรัม)</li>
+<li>ในช่อง &ldquo;ปริมาตรหลังผสม&rdquo; ให้ใส่ข้อมูล <strong>&ldquo;ปริมาตรของน้ำหรือของเหลวที่ใช้ผสมกับเครื่องดื่มผงหรือเกล็ดตามคำแนะนำหรือวิธีการชง&rdquo;</strong> ที่ระบุไว้ที่ข้างภาชนะบรรจุภัณฑ์ เช่น 130 มล./แก้ว</li>
+<li>ในช่อง &ldquo;น้ำหนัก/ภาชนะ(กรัม)&rdquo; ให้ใส่ข้อมูล <strong>&ldquo;น้ำหนัก (ปริมาณ) ของผงหรือเกล็ดเครื่องดื่มสุทธิต่อภาชนะ&rdquo;</strong> ที่ระบุไว้ที่ภาชนะบรรจุภัณฑ์</li>
+<li>ในช่อง &ldquo;จำนวนภาชนะ&rdquo; ให้ใส่ข้อมูล <strong>&ldquo;จำนวนภาชนะทั้งหมด&rdquo;</strong></li>
+<li>หากข้างขวดหรือที่ฉลากไม่ได้แจ้งข้อมูลใด ๆ ก็ตามข้างต้น ให้ผู้ประกอบอุตสาหกรรมเป็นผู้แจ้งสำแดงข้อมูลของตนเองให้ครบถ้วน เพื่อประกอบการพิจารณาคำนวณภาษีสรรพสามิต</li>
+<li>ภาษีสรรพสามิตต่อภาชนะบรรจุดังกล่าวที่ตารางคำนวณออกมาได้นั้น เป็นภาษีสรรพสามิตแต่เพียงอย่างเดียวเท่านั้น ยังไม่ได้รวมภาษีเพิ่มขึ้นเพื่อราชการส่วนท้องถิ่น</li>
+<li>หลักเกณฑ์และวิธีการคำนวณดังกล่าวข้างต้นเป็นไปตามหนังสือสำนักแผนภาษี ด่วนที่สุดที่ กค 0619/1288 ลงวันที่ 2 พฤศจิกายน 2560</li>
+</ol>
+
+<p><img src="https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/img/concentrated-drink-01.jpg" alt="enter image description here" />
+<img src="https://github.com/yosarawut/ThaiCustomsClearanceHandbook/raw/master/img/concentrated-drink-02.jpg" alt="enter image description here" />
+<img src="https://github.com/yosarawut/e-TaxIncentive/raw/master/img/concentrated-drink-03.jpg" alt="enter image description here" /></p>
+
+<hr />
+
+<h2 id="รถยนต-รถจ-กรยานยนต-แบตเตอร">รถยนต์ รถจักรยานยนต์ แบตเตอรี่</h2>
+
+<p>การคำนวณภาษีรถยนต์ รถจักรยานยนต์ แบตเตอรี่ และผลิตภัณฑ์เครื่องหอมและเครื่องสำอาง เครื่องใช้ไฟฟ้า (โคมระย้า) แก้วและเครื่องแก้ว  พรมและสื่งทอปูพื้นอื่น ๆ</p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/excise/car/car-01.png" alt="enter image description here" /></p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/excise/car/car-02.png" alt="enter image description here" /></p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/excise/car/car-03.png" alt="enter image description here" /></p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/excise/car/car-04.png" alt="enter image description here" /></p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/excise/car/car-05.png" alt="enter image description here" /></p>
+
+<h2 id="น-ำม-นและผล-ตภ-ณฑ-น-ำม-น">น้ำมันและผลิตภัณฑ์น้ำมัน</h2>
+
+<p>การคำนวณภาษีสินค้าที่จัดเก็บภาษีตามปริมาณเพียงอย่างเดียว ได้แก่ น้ำมันและผลิตภัณฑ์น้ำมันทุกพิกัด และไพ่</p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/excise/oil/oil-01.png" alt="enter image description here" /></p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/excise/oil/oil-02.png" alt="enter image description here" /></p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/excise/oil/oil-03.png" alt="enter image description here" /></p>
+
+<h2 id="การระบ-exempt">การระบุ EXEMPT</h2>
+
+<p>การระบุ EXEMPT กรณีของที่นำเข้าคลังทัณฑ์บน เขตปลอดอากร เขตประกอบการเสรี และของที่ได้รับยกเว้นอากรตามภาค 4 รวมทั้งของที่โอนย้ายระหว่างคลังสินค้าทัณฑ์บน เขตปลอดอากร เขตประกอบการเสรี</p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/excise/exempt/exempt-01.png" alt="enter image description here" /></p>
+
+          </div>
+
+          
+
+
+
+          
+          <div class="article-widget">
+            
+<div class="post-nav">
+  
+  
+  
+  <div class="post-nav-item box ">
+    <div class="meta-nav meta-prev">Previous <br>
+    <a href="/knowledge-center/customs/customs/import/excise/notifications_price/" rel="next">หลักเกณฑ์ วิธีการ แจ้งราคาขายปลีกแนะนำและคำนวนภาษีสรรพสามิต</a></div>
+  </div>
+  
+  
+  <br>
+  <br>
+</div>
+
+          </div>
+          
+        </div>
+
+        <div class="body-footer">
+          <p>Last updated on May 18, 2020</p>
+
+          
+
+
+
+
+
+  
+  
+
+<p class="edit-page">
+  <a href="https://github.com/gcushen/hugo-academic/edit/master/content/customs%5cimport%5cexcise%5ccalculate_excise.md">
+    <i class="fas fa-pen pr-2"></i>Edit this page
+  </a>
+</p>
+
+
+
+
+          
+
+        </div>
+
+      </article>
+
+      <footer class="site-footer">
+  
+  <p class="powered-by">
+    
+    
+      
+      <a href="/knowledge-center/customs/post/terms/">Terms</a>
+    
+  </p>
+  
+
+  <p class="powered-by">
+    ECS@Support&copy;2020 &middot; 
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+  </p>
+</footer>
+
+
+    </main>
+  </div>
+</div>
+
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.4.8/mermaid.min.js" integrity="sha256-lyWCDMnMeZiXRi7Zl54sZGKYmgQs4izcT7+tKc+KUBk=" crossorigin="anonymous" title="mermaid"></script>
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/python.min.js"></script>
+        
+      
+
+    
+
+    
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = false;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/knowledge-center/customs/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.1/anchor.min.js" integrity="sha256-pB/deHc9CGfFpJRjC43imB29Rse8tak+5eXqntO94ck=" crossorigin="anonymous"></script>
+    <script>
+      anchors.add();
+    </script>
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/knowledge-center/customs/js/academic.min.37431be2d92d7fb0160054761ab79602.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
