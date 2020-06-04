@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>คู่มือระบบพิธีการศุลกากรสำหรับสิทธิประโยชน์ทางภาษีอากร (e-Tax Incentives) | ECS</title>
-    <link>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tax-incentive_guide/</link>
-      <atom:link href="https://ecs-support.github.io/KM/customs/customs/tax-incentive/tax-incentive_guide/index.xml" rel="self" type="application/rss+xml" />
-    <description>คู่มือระบบพิธีการศุลกากรสำหรับสิทธิประโยชน์ทางภาษีอากร (e-Tax Incentives)</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ECS@Support©2020</copyright><lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://ecs-support.github.io/KM/customs/images/logo_hu5e5145bc2b6e4e2490b1512c5085c727_5028_300x300_fit_lanczos_2.png</url>
-      <title>คู่มือระบบพิธีการศุลกากรสำหรับสิทธิประโยชน์ทางภาษีอากร (e-Tax Incentives)</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tax-incentive_guide/</link>
-    </image>
+    <title>คู่มือระบบพิธีการศุลกากรสำหรับสิทธิประโยชน์ทางภาษีอากร (e-Tax Incentives) on Library</title>
+    <link>https://example.com/KM/customs/customs/tax-incentive/tax-incentive_guide/</link>
+    <description>Recent content in คู่มือระบบพิธีการศุลกากรสำหรับสิทธิประโยชน์ทางภาษีอากร (e-Tax Incentives) on Library</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://example.com/KM/customs/customs/tax-incentive/tax-incentive_guide/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>โครงสร้างข้อมูลใบขนสินค้าขาออกโอนย้ายภายในประเทศ</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tax-incentive_guide/data_structure_export/</link>
+      <link>https://example.com/KM/customs/customs/tax-incentive/tax-incentive_guide/data_structure_export/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tax-incentive_guide/data_structure_export/</guid>
+      
+      <guid>https://example.com/KM/customs/customs/tax-incentive/tax-incentive_guide/data_structure_export/</guid>
       <description>
 
 &lt;h2 id=&#34;โครงสร-างข-อม-ลใบขนส-นค-าขาออกโอนย-ายภายในประเทศ-แบ-งได-เป-น-6-ส-วนด-งน&#34;&gt;โครงสร้างข้อมูลใบขนสินค้าขาออกโอนย้ายภายในประเทศ แบ่งได้เป็น 6 ส่วนดังนี้&lt;/h2&gt;
@@ -165,9 +165,10 @@
     
     <item>
       <title>โครงสร้างข้อมูลใบขนสินค้าขาเข้าโอนย้ายภายในประเทศ</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tax-incentive_guide/data_structure_import/</link>
+      <link>https://example.com/KM/customs/customs/tax-incentive/tax-incentive_guide/data_structure_import/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tax-incentive_guide/data_structure_import/</guid>
+      
+      <guid>https://example.com/KM/customs/customs/tax-incentive/tax-incentive_guide/data_structure_import/</guid>
       <description>
 
 &lt;h2 id=&#34;โครงสร-างข-อม-ลใบขนส-นค-าขาเข-าโอนย-ายภายในประเทศ-แบ-งได-เป-น-6-ส-วนด-งน&#34;&gt;โครงสร้างข้อมูลใบขนสินค้าขาเข้าโอนย้ายภายในประเทศ แบ่งได้เป็น 6 ส่วนดังนี้&lt;/h2&gt;
@@ -330,9 +331,10 @@
     
     <item>
       <title>การตรวจสอบข้อมูลใบขนสินค้า กับระบบทะเบียนผู้มาติดต่อ</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tax-incentive_guide/visitor-registration/</link>
+      <link>https://example.com/KM/customs/customs/tax-incentive/tax-incentive_guide/visitor-registration/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tax-incentive_guide/visitor-registration/</guid>
+      
+      <guid>https://example.com/KM/customs/customs/tax-incentive/tax-incentive_guide/visitor-registration/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;&lt;p&gt;การตรวจสอบลายเซ็นอิเล็กทรอนิกส์ (Digital Signature) มีเงื่อนไขดังนี้&lt;/p&gt;
 
@@ -377,9 +379,10 @@
     
     <item>
       <title>เครื่องหมายและเลขหมายหีบห่อ (Shipping Marks)</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tax-incentive_guide/shipping-marks/</link>
+      <link>https://example.com/KM/customs/customs/tax-incentive/tax-incentive_guide/shipping-marks/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tax-incentive_guide/shipping-marks/</guid>
+      
+      <guid>https://example.com/KM/customs/customs/tax-incentive/tax-incentive_guide/shipping-marks/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;&lt;p&gt;เครื่องหมายและเลขหมายหีบห่อ (Shipping Marks) ต้องสำแดงเครื่องหมายและเลขหมายหีบห่อให้ตรงกับความเป็นจริง ซึ่งจะต้องตรงกับใบตราส่งสินค้า โดยให้สำแดง ดังนี้&lt;/p&gt;
 
@@ -410,9 +413,10 @@
     
     <item>
       <title>จำนวนและน้ำหนักของสินค้า</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tax-incentive_guide/quantity-and-weight/</link>
+      <link>https://example.com/KM/customs/customs/tax-incentive/tax-incentive_guide/quantity-and-weight/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tax-incentive_guide/quantity-and-weight/</guid>
+      
+      <guid>https://example.com/KM/customs/customs/tax-incentive/tax-incentive_guide/quantity-and-weight/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;&lt;p&gt;จำนวนหีบห่อรวม (Total Package Amount) ให้บันทึกค่าลักษณะหีบห่อตามมาตรฐาน หากสินค้ามีหลายลักษณะรวมกัน ให้ระบุจำนวนหีบห่อรวม&lt;/p&gt;&lt;/li&gt;
 
@@ -433,9 +437,10 @@
     
     <item>
       <title>ต้องการให้ตรวจสอบข้อมูลใบขนสินค้าขาเข้า (Assessment Request Code)</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tax-incentive_guide/assessment-request/</link>
+      <link>https://example.com/KM/customs/customs/tax-incentive/tax-incentive_guide/assessment-request/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tax-incentive_guide/assessment-request/</guid>
+      
+      <guid>https://example.com/KM/customs/customs/tax-incentive/tax-incentive_guide/assessment-request/</guid>
       <description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;&amp;ldquo;Assessment Request Code&amp;rdquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&amp;ldquo;มีปัญหาพิกัด ราคา พบพนักงานศุลกากร ที่ ด่านศุลกากร ที่นำเข้า&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ol&gt;

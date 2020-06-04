@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Terms | ECS</title>
-    <link>https://ecs-support.github.io/KM/customs/term/</link>
-      <atom:link href="https://ecs-support.github.io/KM/customs/term/index.xml" rel="self" type="application/rss+xml" />
-    <description>Terms</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ECS@Support©2020</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
-    <image>
-      <url>https://ecs-support.github.io/KM/customs/images/logo_hu5e5145bc2b6e4e2490b1512c5085c727_5028_300x300_fit_lanczos_2.png</url>
-      <title>Terms</title>
-      <link>https://ecs-support.github.io/KM/customs/term/</link>
-    </image>
+    <title>Terms on ECS</title>
+    <link>https://example.com/KM/customs/term/</link>
+    <description>Recent content in Terms on ECS</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>ECS@Support&amp;copy;{year}</copyright>
+    <lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
+    
+	    <atom:link href="https://example.com/KM/customs/term/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Terms</title>
-      <link>https://ecs-support.github.io/KM/customs/term/terms/</link>
+      <link>https://example.com/KM/customs/term/terms/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://ecs-support.github.io/KM/customs/term/terms/</guid>
+      
+      <guid>https://example.com/KM/customs/term/terms/</guid>
       <description>
 
 &lt;h2 id=&#34;terms-of-condition&#34;&gt;Terms of Condition&lt;/h2&gt;

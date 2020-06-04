@@ -1,0 +1,897 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academia 4.3.1">
+  <meta name="generator" content="Hugo 0.59.1" />
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Little Dragon">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="นายอนันต์ตัดสินใจเปิดธนาคารแห่งใหม่ นายเอนกทำอาชีพรับเหมาก่อสร้าง เพิ่งได้เงินจากลูกค้ามาเป็นเงินสด 1 ล้านบาท จึงตัดสินใจเอาเงินมาเปิดบัญชีออมทรัพย์กับธนาคารของนายอนันต์ นางอนงค์อยากจะเปิดร้านเบเกอรี่ จึงไปจ้างนายเอนกมาทำร้าน แต่นางอนงค์ไม่มีเงินทุน จึงไปกู้ธนาคารของนายอนันต์มา 1 ล้านบาท เมื่อถึงเวลาต้องจ่ายเงิน นางอนงค์จึงเขียนเช็คสั่งจ่ายนายเอนก 1 ล้านบาท นายเอนกนำเช็คนั้นมาฝากที่ธนาคารของนายอนันต์อีกครั้ง ตอนนี้ตัวเลขในบัญชีเงินฝากของนายเอนกมีเงิน 2 ล้านบาทแล้ว แต่เงินสดที่อยู่ในธนาคารของนายอนันต์มีเพียง 1 ล้านบาทเท่านั้น
+ยังไม่พอ เมื่อก่อสร้างร้านเบเกอรี่ไปซักพักงบก็บานปลาย นายเอนกบอกนางอนงค์ว่าต้องใช้งบเพิ่มอีก 1 ล้านบาท นางอนงค์จึงยอมกัดฟันกู้ธนาคารของนายอนันต์เพิ่มอีก 1 ล้านบาทมาจ่ายให้นายเอนก ซึ่งนายเอนกก็เอาไปเข้าบัญชีตามเคย ตอนนี้นายเอนกมี “เงินในบัญชี” 3 ล้านบาท แต่ “เงินสด” ที่อยู่ในธนาคารของนายอนันต์ก็ยังคงมีเพียง 1 ล้านบาทเท่านั้น เงิน 2 ล้านบาทงอกมาจากไหน? ร้านเบเกอรี่ของนางอนงค์ยังไม่เปิดเลยด้วยซ้ำ
+นิยามทุนนิยม ในโลกของทุนนิยม คำที่เป็นคีย์เวิร์ดคือ “การเจริญเติบโต” (growth) ทุนนิยมเชื่อว่า มนุษย์มีศักยภาพที่จะสร้างความเจริญเติบโตไปได้เรื่อย ๆ เงินส่วนต่าง 2 ล้านบาทนั้น แสดงถึงความเชื่อมั่นของธนาคาร ว่าเบเกอรี่ของนางอนงค์จะสามารถสร้างรายได้มากกว่า 2 ล้านบาทในอนาคต
+การที่นางอนงค์ “นำเงินจากอนาคตมาใช้ในตอนนี้” ก็คือการขอสินเชื่อ (credit) จากธนาคารนั่นเอง ในอเมริกา กฎหมายอนุญาตให้สถาบันการเงินปล่อยสินเชื่อได้เป็นมูลค่าเท่ากับ 10 เท่าของเงินสดที่ธนาคารถืออยู่ นั่นหมายความว่าถ้านายอนันต์เปิดธนาคารในอเมริกา นายอนันต์จะปล่อยกู้ได้ถึง 10 ล้านบาท ทั้ง ๆ ที่ตัวเองมีเงินสดอยู่ในเซฟแค่ 1 ล้านบาทเท่านั้น (นี่คือเหตุผลที่ทำไมธนาคารถึงกลัวนักกลัวหนาเวลาคนแห่ไปถอนเงินสด เพราะถ้าทุกคนถอนหมดบัญชีจริง ๆ ธนาคารจะไม่มีทางมีเงินจ่ายพอแน่นอน)">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://example.com/KM/customs/book/sapiens/sapiens-16/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#fc6f5c">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mitr:400,700|Roboto:400,400italic,700|Sarabun:400,400italic,700|Roboto+Mono&display=swap">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/KM/customs/css/academia.min.93a124ca0162acdf9e17d0608b3bfcdc.css">
+
+  
+
+  
+  
+  
+
+  
+
+  <link rel="manifest" href="/KM/customs/site.webmanifest">
+  <link rel="icon" type="image/png" href="/KM/customs/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/KM/customs/img/icon-192.png">
+
+  <link rel="canonical" href="https://example.com/KM/customs/book/sapiens/sapiens-16/">
+
+  
+  
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="ECS">
+  <meta property="og:url" content="https://example.com/KM/customs/book/sapiens/sapiens-16/">
+  <meta property="og:title" content="ตอนที่ 16 - สวัสดีทุนนิยม | ECS">
+  <meta property="og:description" content="นายอนันต์ตัดสินใจเปิดธนาคารแห่งใหม่ นายเอนกทำอาชีพรับเหมาก่อสร้าง เพิ่งได้เงินจากลูกค้ามาเป็นเงินสด 1 ล้านบาท จึงตัดสินใจเอาเงินมาเปิดบัญชีออมทรัพย์กับธนาคารของนายอนันต์ นางอนงค์อยากจะเปิดร้านเบเกอรี่ จึงไปจ้างนายเอนกมาทำร้าน แต่นางอนงค์ไม่มีเงินทุน จึงไปกู้ธนาคารของนายอนันต์มา 1 ล้านบาท เมื่อถึงเวลาต้องจ่ายเงิน นางอนงค์จึงเขียนเช็คสั่งจ่ายนายเอนก 1 ล้านบาท นายเอนกนำเช็คนั้นมาฝากที่ธนาคารของนายอนันต์อีกครั้ง ตอนนี้ตัวเลขในบัญชีเงินฝากของนายเอนกมีเงิน 2 ล้านบาทแล้ว แต่เงินสดที่อยู่ในธนาคารของนายอนันต์มีเพียง 1 ล้านบาทเท่านั้น
+ยังไม่พอ เมื่อก่อสร้างร้านเบเกอรี่ไปซักพักงบก็บานปลาย นายเอนกบอกนางอนงค์ว่าต้องใช้งบเพิ่มอีก 1 ล้านบาท นางอนงค์จึงยอมกัดฟันกู้ธนาคารของนายอนันต์เพิ่มอีก 1 ล้านบาทมาจ่ายให้นายเอนก ซึ่งนายเอนกก็เอาไปเข้าบัญชีตามเคย ตอนนี้นายเอนกมี “เงินในบัญชี” 3 ล้านบาท แต่ “เงินสด” ที่อยู่ในธนาคารของนายอนันต์ก็ยังคงมีเพียง 1 ล้านบาทเท่านั้น เงิน 2 ล้านบาทงอกมาจากไหน? ร้านเบเกอรี่ของนางอนงค์ยังไม่เปิดเลยด้วยซ้ำ
+นิยามทุนนิยม ในโลกของทุนนิยม คำที่เป็นคีย์เวิร์ดคือ “การเจริญเติบโต” (growth) ทุนนิยมเชื่อว่า มนุษย์มีศักยภาพที่จะสร้างความเจริญเติบโตไปได้เรื่อย ๆ เงินส่วนต่าง 2 ล้านบาทนั้น แสดงถึงความเชื่อมั่นของธนาคาร ว่าเบเกอรี่ของนางอนงค์จะสามารถสร้างรายได้มากกว่า 2 ล้านบาทในอนาคต
+การที่นางอนงค์ “นำเงินจากอนาคตมาใช้ในตอนนี้” ก็คือการขอสินเชื่อ (credit) จากธนาคารนั่นเอง ในอเมริกา กฎหมายอนุญาตให้สถาบันการเงินปล่อยสินเชื่อได้เป็นมูลค่าเท่ากับ 10 เท่าของเงินสดที่ธนาคารถืออยู่ นั่นหมายความว่าถ้านายอนันต์เปิดธนาคารในอเมริกา นายอนันต์จะปล่อยกู้ได้ถึง 10 ล้านบาท ทั้ง ๆ ที่ตัวเองมีเงินสดอยู่ในเซฟแค่ 1 ล้านบาทเท่านั้น (นี่คือเหตุผลที่ทำไมธนาคารถึงกลัวนักกลัวหนาเวลาคนแห่ไปถอนเงินสด เพราะถ้าทุกคนถอนหมดบัญชีจริง ๆ ธนาคารจะไม่มีทางมีเงินจ่ายพอแน่นอน)"><meta property="og:image" content="https://example.com/KM/customs/img/icon-192.png">
+  <meta property="twitter:image" content="https://example.com/KM/customs/img/icon-192.png"><meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2020-05-10T00:00:00&#43;01:00">
+  
+  <meta property="article:modified_time" content="2020-06-02T17:33:06&#43;07:00">
+  
+
+  
+
+
+  
+
+
+
+
+
+  <title>ตอนที่ 16 - สวัสดีทุนนิยม | ECS</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/KM/customs/"><img src="/KM/customs/img/logo.png" alt="ECS"></a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation"><span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/#hero"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/customs/import-export/"><span>การนำเข้า-ส่งออก</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/projects/"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/featured/"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/post/"><span>Posts</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/KM/customs/customs/"><span>พิธีการศุลกากร</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  
+
+<div class="container-fluid docs">
+  <div class="row flex-xl-nowrap">
+    <div class="col-12 col-md-3 col-xl-2 docs-sidebar">
+      
+
+
+
+
+
+<form class="docs-search d-flex align-items-center">
+  <button class="btn docs-toggle d-md-none p-0 mr-3" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    <span><i class="fas fa-bars"></i></span>
+  </button>
+
+  
+  <input name="q" type="search" class="form-control" id="search-query" placeholder="Search..." autocomplete="off">
+  
+</form>
+
+<nav class="collapse docs-links" id="docs-nav">
+  
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/book/sapiens/">Overview</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-1/">1.  กำเนิด Sapiens</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-2/">2. สิ่งที่ทำให้เราครองโลก</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-3/">3. ยุคนักล่า-เก็บพืชผล</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-4/">4. การหลอกลวงครั้งยิ่งใหญ่</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-5/">5. คุกที่มองไม่เห็น</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-6/">6. กำเนิดภาษาเขียน</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-7/">7. ความเหลื่อมล้ำ</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-8/">8. โลกที่ถูกหลอมรวม</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-9/">9. มนตราของเงินตรา</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-10/">10. จักรวรรดิ</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-11/">11. บทบาทของศาสนา</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-12/">12. ศาสนาไร้พระเจ้า</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-13/">13. ยุคแห่งความไม่รู้</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-14/">14. 500 ปีแห่งความก้าวหน้า</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-15/">15. เมื่อยุโรปครองโลก</a>
+      </li>
+      
+      <li class="active">
+        <a href="/KM/customs/book/sapiens/sapiens-16/">16. สวัสดีทุนนิยม</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-17/">17. จานอลูมิเนียมของนโปเลียน</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-18/">18. ครอบครัวล่มสลาย</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-19/">19. สุขสมบ่มิสม</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-20/">20. อวสาน Sapiens</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/book/sapiens/review-1/">Review</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/review-1/">(Review-01) Homo Sapiens</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/review-2/">(Review-02) Homo Sapiens</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/review-3/">(Review-03) Homo Sapiens</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  
+</nav>
+
+    </div>
+
+    
+    <div class="d-none d-xl-block col-xl-2 docs-toc">
+      <ul class="nav toc-top">
+        <li><a href="#" id="back_to_top" class="docs-toc-title">Contents</a></li>
+      </ul>
+
+      <nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#น-ยามท-นน-ยม">นิยามทุนนิยม</a></li>
+<li><a href="#เบอร-หน-งในย-โรป">เบอร์หนึ่งในยุโรป</a></li>
+<li><a href="#ตลาดเสร"><strong>ตลาดเสรี</strong></a></li>
+<li><a href="#แล-วจะเอาย-งไง"><strong>แล้วจะเอายังไง?</strong></a></li>
+</ul></li>
+</ul>
+</nav>
+
+      
+    </div>
+    
+
+    <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
+
+      <article class="article" itemscope itemtype="http://schema.org/Article">
+
+        <div class="docs-article-container">
+          <h1 itemprop="name">ตอนที่ 16 - สวัสดีทุนนิยม</h1>
+
+          <div class="article-style" itemprop="articleBody">
+            
+
+<p><img src="https://github.com/dragon-library/markdown/raw/master/Library/content/book/homo-sapiens/img/cover-sapiens.jpg" alt="" /></p>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/Rv-6qGEAUDA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+
+<p>นายอนันต์ตัดสินใจเปิดธนาคารแห่งใหม่ นายเอนกทำอาชีพรับเหมาก่อสร้าง เพิ่งได้เงินจากลูกค้ามาเป็นเงินสด 1 ล้านบาท จึงตัดสินใจเอาเงินมาเปิดบัญชีออมทรัพย์กับธนาคารของนายอนันต์ นางอนงค์อยากจะเปิดร้านเบเกอรี่ จึงไปจ้างนายเอนกมาทำร้าน แต่นางอนงค์ไม่มีเงินทุน จึงไปกู้ธนาคารของนายอนันต์มา 1 ล้านบาท เมื่อถึงเวลาต้องจ่ายเงิน นางอนงค์จึงเขียนเช็คสั่งจ่ายนายเอนก 1 ล้านบาท นายเอนกนำเช็คนั้นมาฝากที่ธนาคารของนายอนันต์อีกครั้ง ตอนนี้ตัวเลขในบัญชีเงินฝากของนายเอนกมีเงิน 2 ล้านบาทแล้ว แต่เงินสดที่อยู่ในธนาคารของนายอนันต์มีเพียง 1 ล้านบาทเท่านั้น</p>
+
+<p>ยังไม่พอ เมื่อก่อสร้างร้านเบเกอรี่ไปซักพักงบก็บานปลาย นายเอนกบอกนางอนงค์ว่าต้องใช้งบเพิ่มอีก 1 ล้านบาท นางอนงค์จึงยอมกัดฟันกู้ธนาคารของนายอนันต์เพิ่มอีก 1 ล้านบาทมาจ่ายให้นายเอนก ซึ่งนายเอนกก็เอาไปเข้าบัญชีตามเคย ตอนนี้นายเอนกมี “เงินในบัญชี” 3 ล้านบาท แต่ “เงินสด” ที่อยู่ในธนาคารของนายอนันต์ก็ยังคงมีเพียง 1 ล้านบาทเท่านั้น เงิน 2 ล้านบาทงอกมาจากไหน? ร้านเบเกอรี่ของนางอนงค์ยังไม่เปิดเลยด้วยซ้ำ</p>
+
+<h2 id="น-ยามท-นน-ยม">นิยามทุนนิยม</h2>
+
+<p>ในโลกของทุนนิยม คำที่เป็นคีย์เวิร์ดคือ “การเจริญเติบโต” (growth) ทุนนิยมเชื่อว่า มนุษย์มีศักยภาพที่จะสร้างความเจริญเติบโตไปได้เรื่อย ๆ เงินส่วนต่าง 2 ล้านบาทนั้น แสดงถึงความเชื่อมั่นของธนาคาร ว่าเบเกอรี่ของนางอนงค์จะสามารถสร้างรายได้มากกว่า 2 ล้านบาทในอนาคต</p>
+
+<p>การที่นางอนงค์ “นำเงินจากอนาคตมาใช้ในตอนนี้” ก็คือการขอสินเชื่อ (credit) จากธนาคารนั่นเอง ในอเมริกา กฎหมายอนุญาตให้สถาบันการเงินปล่อยสินเชื่อได้เป็นมูลค่าเท่ากับ 10 เท่าของเงินสดที่ธนาคารถืออยู่ นั่นหมายความว่าถ้านายอนันต์เปิดธนาคารในอเมริกา นายอนันต์จะปล่อยกู้ได้ถึง 10 ล้านบาท ทั้ง ๆ ที่ตัวเองมีเงินสดอยู่ในเซฟแค่ 1 ล้านบาทเท่านั้น (นี่คือเหตุผลที่ทำไมธนาคารถึงกลัวนักกลัวหนาเวลาคนแห่ไปถอนเงินสด เพราะถ้าทุกคนถอนหมดบัญชีจริง ๆ ธนาคารจะไม่มีทางมีเงินจ่ายพอแน่นอน)</p>
+
+<p>จริงๆ สิ่งที่เรียกว่า “สินเชื่อ” นั้นมีมานานแล้ว ตั้งแต่สมัยชาวสุเมเรียนด้วยซ้ำ แต่สินเชื่อในสมัยก่อนนั้น มีมูลค่าเล็กน้อยมากและมีระยะเวลาให้ยืมเพียงสั้น ๆ เหตุผลหลักที่ไม่มีใครปล่อยสินเชื่อเยอะ ๆ หรือนาน ๆ ก็เพราะว่า ก่อนปี 1500 นั้น คนส่วนใหญ่เชื่อว่าเศรษฐกิจจะไม่โตไปกว่านี้แล้ว พูดง่าย ๆ ก็คือคนมองว่าเศรษฐกิจนี้เป็นพายแค่ชิ้นเดียว ที่ต้องแบ่งกันทุกคน ถ้ามีคนได้ก็ต้องมีคนเสีย ถ้านางอนงค์เปิดร้านเบเกอรี่ขึ้นมาแล้วขายดี แสดงว่าร้านเบเกอรี่อีกร้านหนึ่ง ต้องสูญเสียรายได้หรือลูกค้า ทุกอย่างคือ zero-sum game</p>
+
+<p>คนสมัยเก่าจึงไม่เชื่อเรื่องการเจริญเติบโต ถ้าชนชั้นสูงมีเงินเหลือกินเหลือใช้ เขาก็จะเอาไปบริจาค หรือไม่ก็จะใช้มันไปอย่างสุรุ่ยสุร่าย กับเสื้อผ้าสุดหรูหรือการจัดงานเลี้ยงเต้นรำ ไม่มีใครคิดจะเอาเงินไปลงทุนเพื่อให้เงินงอกเงยแต่อย่างใด</p>
+
+<p>แต่ทัศนคติของมนุษย์ก็เปลี่ยนไปพร้อมกับการมาถึงของการปฏิวัติวิทยาศาสตร์ การคิดค้นเครื่องมือใหม่ๆ อย่างเครื่องจักรไอน้ำ หรือการค้นพบดินแดนใหม่ๆ อย่างทวีปอเมริกา ทำให้ชาวยุโรปเริ่มเชื่อว่าพายชิ้นนี้สามารถใหญ่ขึ้นได้ (the pie is getting bigger) การที่ร้านเบเกอรี่ของนางอนงค์ขายดีไม่จำเป็นต้องทำให้ร้านเบเกอรี่อื่น ๆ ยอดขายตก ในปี 1776 นายอดัม สมิธ (Adam Smith) ได้เขียนหนังสือ The Wealth of Nations ที่กลายมาเป็นคัมภีร์ขึ้นหิ้งของนักเศรษฐศาสตร์</p>
+
+<p>ในบทที่ 8 สมิธ บอกว่า หากเจ้าของธุรกิจมีกำไรเหลือ เขาก็จะนำกำไรนั้นมาซื้อเครื่องจักร และจ้างคนเพิ่มเพื่อจะทำกำไรให้มากขึ้นอีก ซึ่งก็จะทำให้เขาสามารถซื้อเครื่องจักรและจ้างคนได้มากกว่าเดิม ดังนั้นความมั่งคั่งของคนหนึ่งคนจึงหมายถึงความมั่งคั่งและรุ่งเรืองของสังคม ฟังดูเป็นประโยคที่ธรรมดามากสำหรับพวกเรา แต่ในสมัยนั้นนี่ถือเป็นการปฏิวัติทางความคิดของมนุษย์เลยก็ว่าได้ เพราะเป็นครั้งแรกที่มีคนออกมาบอกว่า การตอบสนองความโลภของคน ๆ หนึ่งจะช่วยให้สังคมดีขึ้นได้ (เจ้าของธุรกิจมีเงินมากขึ้น แต่คนจำนวนมากก็จะมีงานทำและมีรายได้เพิ่มขึ้นเช่นกัน)</p>
+
+<h2 id="เบอร-หน-งในย-โรป">เบอร์หนึ่งในยุโรป</h2>
+
+<p>ในปี 1484 คริสโตเฟอร์ โคลัมบัส ได้เข้าเฝ้ากษัตริย์ของโปรตุเกส และเสนอแผนว่าจะล่องเรือไปทางตะวันตก เพื่อค้นหาเส้นทางการค้าสายใหม่กับชาติเอเชีย โปรเจ็คนี้มีความเสี่ยงสูงมากเพราะต้องใช้เงินมหาศาลเพื่อซื้อเรือ จ้างคนและซื้อเสบียง และสุดท้ายอาจจะกลับมามือเปล่าก็ได้ กษัตริย์ของโปรตุเกสจึงตอบปฏิเสธไป</p>
+
+<p>แต่โคลัมบัสก็ไม่ยอมแพ้ เที่ยว pitch งานของเขากับผู้มีเงินทุนในอิตาลี ฝรั่งเศส
+อังกฤษ แต่ก็คว้าน้ำเหลว จนสุดท้ายเขาก็ขายโปรเจ็คนี้ให้กับกษัตริย์ Ferdinand และราชินี Isabella แห่งสเปนได้สำเร็จ (ตอนนั้นสเปนเพิ่งรวมประเทศ) การค้นพบทวีปอเมริกาในคราวนั้น สร้างรายได้ให้กับสเปนมหาศาลจนสเปนกลายมาเป็นชาติมหาอำนาจของยุโรปในศตวรรษที่ 16</p>
+
+<p>แต่ในศตวรรษที่ 17 สเปนก็เสียแชมป์ให้กับประเทศเล็ก ๆ อย่างฮอลแลนด์ โดยเหตุผลหลักคือฮอลแลนด์มีระบบการเงินที่มั่นคงกว่า และมีกระบวนการยุติธรรมที่แข็งแกร่งกว่าสเปน (ซึ่งทุกอย่างยังขึ้นอยู่กับกษัตริย์และราชวงศ์) เงินของนักลงทุนจึงไหลไปที่อัมสเตอร์ดัมและทำให้พ่อค้าชาวฮอลแลนด์สามารถส่งเรือไปขนสินค้าจากอเมริกาและเอเชียกลับมาขายได้มากมาย จะบอกว่าจักรวรรดิดัทช์นั้นถูกสร้างโดยพ่อค้าก็คงไม่ผิดนัก</p>
+
+<p>ช่วงปลายศตวรรษที่ 17 การแพ้สงครามนอกประเทศของฮอลแลนด์หลายต่อหลายครั้งทำให้ฮอลแลนด์เสียบัลลังก์เบอร์ 1 ของยุโรปไป (ปี 1664 ฮอลแลนด์ต้องเสียเมืองที่ชื่อว่า New Amsterdam ริมฝั่งแม่น้ำฮัดสันให้กับอังกฤษ ชื่อของเมืองจึงถูกเปลี่ยนเป็น New York ตั้งแต่นั้นมา) ในช่วงนั้นประเทศที่แข่งขึ้นมาเป็นเบอร์หนึ่งของยุโรปคือ ฝรั่งเศสกับอังกฤษ ฝรั่งเศสนั้นได้เปรียบอังกฤษ ในหลาย ๆ ด้านเพราะมีประชากรมากกว่าและมีกองทัพที่ใหญ่กว่า แต่แล้วฝรั่งเศสก็สะดุดขาตัวเอง จากเหตุการณ์อื้อฉาวที่มีชื่อว่าฟองสบู่มิสซิสซิปปี (Mississippi Bubble) ตอนนั้นบริษัทชื่อมิสซิสซิปปี ซึ่งก่อตั้งในฝรั่งเศส และมีสายสัมพันธ์แนบแน่นกับชนชั้นสูง ต้องการจะยึดครองดินแดนหนึ่งในรัฐมิสซิสซิปปีเพื่อตั้งเมืองใหม่ชื่อ New Orleans บริษัทจึงระดมทุน ด้วยการขายหุ้นในตลาดหลักทรัพย์ในกรุงปารีส</p>
+
+<p>จริง ๆ ที่ดินในนิวออร์ลีนส์แทบไม่มีอะไรเลยนอกจากหนองบึงและจระเข้ แต่ทางบริษัทก็ได้ปล่อยข่าวลือว่า นี่คือดินแดนที่อุดมสมบูรณ์และเต็มไปด้วยโอกาสมากมาย ชนชั้นกลางและเหล่าเศรษฐีใหม่ต่างก็ตื่นเต้นกับข่าวนี้ จึงเข้าไปซื้อหุ้นจนราคาพุ่งจาก 500 เป็น 10,000 เหรียญต่อหุ้นในเวลาเพียงแค่ไม่กี่เดือน แต่พอตลาดเริ่มรู้ตัว ว่าราคาสูงเกินจริง คนก็เริ่มเทขาย ราคาจึงตกลงมาอย่างน่าใจหาย รัฐบาลพยายามเข้ามาช่วยอุ้มด้วยการเข้าไปช้อนหุ้นจนเงินหมดคลัง รัฐมนตรีคลังจึงสั่งให้พิมพ์ธนบัตรเพิ่มเพื่อมาซื้อหุ้นอีก การทำอย่างนี้ทำให้เศรษฐกิจทั้งหมดของฝรั่งเศสอยู่ในฟองสบู่ แถมยังไม่สามารถแก้วิกฤติได้ด้วยเพราะหุ้นของมิสซิสซิปปีตกจาก 10,000 มาเป็น 1,000 เหรียญก่อนที่จะไม่มูลค่าเหลือเลย รัฐบาลฝรั่งเศสจึงถังแตกและมีเพียงกระดาษหุ้นที่ไร้ค่า นี่คือวิกฤติเศรษฐกิจยุโรปที่ใหญ่ที่สุดในศตวรรษนี้</p>
+
+<p>ความผิดพลาดคราวนั้นทำให้ประเทศอื่น ๆ ไม่กล้าให้ฝรั่งเศสยืมเงิน หรือถึงให้ยืมก็เก็บดอกเบี้ยสูงมาก ทุนส่วนใหญ่จึงไหลไปอยู่กับประเทศอังกฤษแทน อังกฤษใช้สถาบันการเงินที่แข็งแกร่งในการสนับสนุนการยึดครองดินแดนใหม่ ไม่ว่าจะเป็นอเมริกาเหนือหรืออินเดีย ซึ่งล้วนแล้วแต่เป็นการยึดครองโดยบริษัท หาใช่โดยรัฐบาล (บริษัทยักษ์ใหญ่ในสมัยนั้นจะขนทหารรับจ้างไปด้วยเวลาต้องการไปยึดเมืองในอเมริกาหรือเอเชีย)</p>
+
+<h2 id="ตลาดเสร"><strong>ตลาดเสรี</strong></h2>
+
+<p>คนที่สนับสนุนตลาดเสรีมักจะมองว่ารัฐบาลควรจะเข้ามาแทรกแซงตลาดทุนให้น้อยที่สุด เพราะรัฐบาล มักออกนโยบายที่ทำให้ตลาดไม่มีประสิทธิภาพ เช่นเก็บภาษีแพงๆ เพื่อนำมาเป็นสวัสดิการสำหรับคนตกงาน (ซึ่งทำให้ฐานเสียงของรัฐบาลดีขึ้นแต่คนกลุ่มหนึ่งก็จะรับเงินโดยที่ไม่ได้สร้างผลผลิตอะไร) สู้เอาเงินที่จะเก็บภาษีมาไว้กับนายทุนดีกว่า เพราะนายทุนจะเอาเงินนั้นไปเปิดโรงงาน และจ้างคนเพิ่มซึ่งย่อมจะทำให้สังคมโดยรวมดีขึ้น แต่การปล่อยให้ตลาดทำงานอย่างเสรีนั้นดีจริงหรือ? เพราะทรัพยากรที่สำคัญที่สุดสำหรับเศรษฐกิจคือ “ความเชื่อมั่น” ซึ่งความเชื่อมั่น อาจถูกสั่นคลอนได้ตลอดจากการต้มตุ๋นหลอกลวง จึงเป็นหน้าที่ของรัฐที่จะปกป้องระบบเศรษฐกิจ ด้วยการออกกฎหมาย และและตรวจสอบไม่ให้เสือสิงห์กระทิงแรดทั้งหลาย เข้ามาเอารัดเอาเปรียบ เมื่อใดก็ตามที่รัฐทำหน้าที่นี้บกพร่อง ความเชื่อมั่นก็จะหดหาย และเศรษฐกิจก็จะโกลาหลเหมือนอย่างตอนที่เกิดฟองสบู่มิสซิสซิปปี หรือวิกฤติ subprime ในอเมริกาในปี 2007</p>
+
+<p>ยังมีอีกเหตุผลสำคัญที่เราไม่ควรปล่อยให้ตลาดเสรีทำงานอย่างอิสระ ก่อนการมาถึงของทุนนิยม “น้ำตาล” เป็นอาหารที่หายากมากในยุโรป มันจะถูกนำเข้าจากตะวันออกกลางในราคาที่แพงลิบลิ่วเพื่อนำมาใช้เป็น “วัตถุดิบลับ” ในการทำอาหารจานพิเศษสำหรับชนชั้นสูง แต่หลังจากทวีปอเมริกาถูกค้นพบ หนึ่งในธุรกิจที่เฟื่องฟูที่สุดคือการทำไร่อ้อย คนยุโรปจึงเข้าถึงน้ำตาลได้ในราคาที่ถูกลงมาก ต้นศตวรรษที่ 17 ไม่มีชาวอังกฤษคนไหนบริโภคน้ำตาลเลย แต่ในศตวรรษที่ 19 ชาวอังกฤษบริโภคน้ำตาลถึงปีละ 8 กิโลกรัม น้ำตาลนั้นมาจากต้นอ้อย แต่การทำไร่อ้อยนั้นเป็นสิ่งที่ไม่มีใครอยากทำ เพราะต้องตากแดดแถมยังมีโอกาสสูงที่จะเป็นโรคมาเลเรียอีกด้วย หากจะยอมจ่ายเงินจ้างใครมาย่อมจะทำให้ต้นทุนสูงเกินไป</p>
+
+<p>พ่อค้าหัวใสก็เลยพบทางออกด้วยการใช้แรงงานทาส ในช่วงศตวรรษที่ 16-19 ชาวแอฟริกาถึง 10 ล้านคนถูกขายไปเป็นแรงงานทาสในอเมริกา โดย 70% ของคนเหล่านั้นถูกส่งมาทำงานในไร่อ้อย เรารู้กันดีอยู่แล้วว่าทาสเหล่านี้มีชีวิตที่แย่แค่ไหน ต้องถูกกดขี่ข่มเหง ราวกับเขาไม่ใช่มนุษย์ เพียงเพื่อให้คนยุโรปได้จิบชากาแฟที่ใส่น้ำตาล</p>
+
+<p>การขายแรงงานทาสนี้ไม่ได้ถูกจัดระเบียบโดยรัฐบาลประเทศไหนเลย มันเป็นเรื่องทางการค้าล้วน ๆ บริษัทค้าทาสมากมายขายหุ้นในตลาดหลักทรัพย์ในกรุงลอนดอน ปารีส และอัมเสตอร์ดัม เพื่อนำเงินไปซื้อเรือ หาลูกเรือและทหาร จากนั้นจึงแล่นเรือไปซื้อทาสในแอฟริกา นำทาสไปขายให้กับเจ้าของสวนอ้อยในอเมริกา นำเงินนั้นไปซื้อน้ำตาล เมล็ดกาแฟ โกโก้ ยาสูบ แล้วนำกลับมาขายทำกำไรในยุโรปก่อนจะออกเรือใหม่อีกครั้ง ธุรกิจค้าทาสเป็นธุรกิจที่ทำกำไรดี และผู้ถือหุ้นบริษัทเหล่านี้จะได้ผลตอบแทนเฉลี่ยปีละ 6%</p>
+
+<p>นาซีและสงครามครูเสดฆ่าคนไปมากมายเพราะความเกลียดชัง แต่ทุนนิยมนั้นฆ่าคนไปมากมายเพราะความโลภและความเมินเฉย การค้าทาสไม่ได้เกิดจากการเหยียดสีผิวหรือความรังเกียจคนแอฟริกา จริง ๆ แล้วเจ้าของไร่อ้อยแทบไม่เคยเจอทาสเหล่านี้ด้วยซ้ำ เพราะเจ้าของไร่อ้อยส่วนใหญ่ไม่ได้อาศัยอยู่ในไร่อ้อย สิ่งเดียวที่เขาสนใจก็คือตัวเลขในบัญชีกำไรขาดทุน ส่วนผู้ถือหุ้นบริษัทค้าทาสก็เป็นชนชั้นกลางคล้าย ๆ กับเราที่เป็นคนจิตใจดี ทำงานสุจริต ชอบฟังเพลง แถมยังใจบุญสุนทานอีกด้วย นี่คือเหตุผลที่เราไม่ควรปล่อยให้ตลาดทำงานได้อย่างเสรีเกินไป เพราะตลาดไม่มีชีวิตจิตใจ สิ่งเดียวที่สำคัญสำหรับมันคือกำไรและ “การเติบโต” โดยไม่สนว่าระหว่างทางจะสร้างความเดือดร้อนให้ผู้คนมากมายขนาดไหน</p>
+
+<h2 id="แล-วจะเอาย-งไง"><strong>แล้วจะเอายังไง?</strong></h2>
+
+<p>แม้นระบอบทุนนิยมจะมีข้อเสียมากมาย แต่ผู้สนับสนุนทุนนิยมก็มักจะให้เหตุผลแก้ต่างสองข้อ</p>
+
+<ul>
+<li><p>ข้อแรกคือ สำหรับสังคมยุคโมเดิร์นมันยังเป็นระบอบเดียวที่เวิร์ค มนุษย์เคยทดลองอีกระบอบหนึ่งคือคอมมิวนิสต์ แต่มันก็สร้างความเสียหายมากเสียจน ไม่มีใครอยากกลับไปใช้ระบอบนั้นอีก เราจึงไม่เหลือทางเลือกอื่นใด นอกจากเรียนรู้ที่จะอยู่กับทุนนิยมให้เป็น</p></li>
+
+<li><p>อีกข้อก็คือ ขอให้รออีกนิดนึง พายชิ้นนี้กำลังใหญ่ขึ้นเรื่อย ๆ และแม้มันจะไม่สามารถทำให้ทุกคน ได้รับประโยชน์อย่างเท่าเทียมกันได้ แต่คนก็เชื่อว่าวันหนึ่งพายชิ้นนี้จะใหญ่พอที่จะตอบโจทย์ขั้นพื้นฐานสำหรับมนุษย์ทุกคน</p></li>
+</ul>
+
+<p>ซึ่งจะว่าไปคำชี้แจงนี้ก็พอฟังขึ้นอยู่ อย่างน้อยก็ในเชิงปริมาณ เพราะเมื่อเทียบกับ 100 ปีที่แล้ว อายุขัยเฉลี่ยของเราเพิ่มขึ้น อัตราการตายของเด็กก็ลดลง ปริมาณอาหารที่เราบริโภคต่อหัว ก็เยอะขึ้นแม้ว่าประชากรโลกจะสูงขึ้นมาหลายเท่าตัวก็ตาม แต่เศรษฐกิจของเราจะโตไปได้นานแค่ไหน? เพราะพายทุกชิ้นจำเป็นต้องใช้วัตถุดิบและพลังงาน มีผู้ทำนายว่าอีกไม่ช้ามนุษย์ ก็จะใช้ทรัพยากรจนหมดโลก แล้วถึงวันนั้นเราจะอยู่กันอย่างไร?</p>
+
+<blockquote>
+<p>ที่มาบทความ : <a href="https://anontawong.com/2017/04/09/sapiens-16/" target="_blank">https://anontawong.com</a></p>
+</blockquote>
+
+          </div>
+
+          
+
+
+
+          
+          <div class="article-widget">
+            
+<div class="post-nav">
+  
+  
+  
+  <div class="post-nav-item box ">
+    <div class="meta-nav meta-prev">Previous <br>
+    <a href="/KM/customs/book/sapiens/sapiens-15/" rel="next">ตอนที่ 15 - เมื่อยุโรปครองโลก</a></div>
+  </div>
+  
+  
+  
+  <div class="post-nav-item box">
+    <div class="meta-nav meta-next" >Next <br>
+    <a href="/KM/customs/book/sapiens/sapiens-17/" rel="prev">ตอนที่ 17 - จานอลูมิเนียมของนโปเลียน</a></div>
+  </div>
+  
+  <br>
+  <br>
+</div>
+
+          </div>
+          
+        </div>
+
+        <div class="body-footer">
+          Last updated on Jun 2, 2020
+        </div>
+
+      </article>
+
+      <footer class="site-footer">
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        
+        <p>
+          ECS@Support&copy;2020 &middot; 
+          Powered by
+          <a href="https://themefisher.com" target="_blank" rel="noopener">themefisher</a> for
+          <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+        </p>
+      </div>
+      <div class="col-md-6">
+        <ul class="list-inline network-icon text-right">
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+            <a href="https://twitter.com/Twitter" target="_blank" rel="noopener" title="DM Me"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+            <a href="skype:echo123?call"  title="Skype Me"><i class="fab fa-skype" aria-hidden="true"></i></a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+            <a href="https://keybase.io/" target="_blank" rel="noopener" title="Chat on Keybase"><i class="fab fa-keybase" aria-hidden="true"></i></a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+            <a href="https://discourse.gohugo.io" target="_blank" rel="noopener" title="Discuss on Forum"><i class="fas fa-comments" aria-hidden="true"></i></a>
+          </li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+
+    </main>
+  </div>
+</div>
+
+
+      
+
+    
+    
+    
+    <script src="/KM/customs/js/mathjax-config.js"></script>
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/KM/customs/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.1/anchor.min.js" integrity="sha256-pB/deHc9CGfFpJRjC43imB29Rse8tak+5eXqntO94ck=" crossorigin="anonymous"></script>
+    <script>
+      anchors.add();
+    </script>
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/KM/customs/js/academia.min.e4fc229c2f28284fc2dfa5b66a52b765.js"></script>
+
+    
+
+
+
+
+
+
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

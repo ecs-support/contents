@@ -1,0 +1,892 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academia 4.3.1">
+  <meta name="generator" content="Hugo 0.59.1" />
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Little Dragon">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="เมื่ออาหารมากขึ้น จำนวนประชากรก็ทวีคูณ ในเวลาหนึ่งหมื่นปี ประชากร Sapiens เพิ่มจาก 5 ล้านเป็น 250 โดยเกือบร้อยละร้อยมีอาชีพเป็นชาวนา ความตลกร้ายอย่างหนึ่งของชีวิตชาวนาก็คือ พวกเขามีเรื่องให้ต้องกังวลอยู่เสมอ ถ้าย้อนเวลากลับไปช่วงที่บรรพบุรุษพวกเขายังเป็น Hunter-Gatherer (ล่าสัตว์เก็บผลไม้ป่า) พวกเขามีชีวิตวันต่อวัน ไม่มีการวางแผนล่วงหน้า แต่ก็ไม่มีอะไรให้ต้องกังวลด้วย ในขณะที่ชีวิตชาวนาแม้จะมีอาหารพอมีพอกิน แต่ก็ต้องคิดเผื่อว่าหากมีโรคระบาดหรือน้ำท่วม เรือกสวนไร่นาที่ทำเอาไว้ก็จะเสียหายและอาจต้องอดตาย คนรุ่นชาวนาถึงขยันทำงานหามรุ่งหามค่ำด้วยหวังว่าจะมีอาหารเพียงพอแม้ในยามที่ฟ้าฝนไม่เป็นใจ
+แต่สิ่งที่เกิดขึ้นจริงๆ ก็คือ เมื่อสังคมขยายใหญ่ขึ้น ประชาชนจำเป็นต้องมี ผู้นำที่จะช่วยปกป้องบ้านเมืองและรักษาความสงบสุขเรียบร้อย โดยสิ่งที่ผู้นำเรียกร้องเป็นการตอบแทนก็คือ อาหารส่วนเกินที่ชาวนาเก็บไว้นั่นเอง ชาวนาจึงไม่เคยมีความมั่นคงทางปากท้องอย่างแท้จริงเลย เพราะทำเท่าไหร่ก็ต้องส่งส่วยไปเกือบหมด การปกครองคนนับหมื่นนับแสนนั้นไม่ใช่เรื่องง่าย ผู้นำจึงจำเป็นต้องสร้าง “Myth” หรือเรื่องเล่าที่คนในการปกครองนั้นเชื่อเหมือนๆ กัน โดยผู้นำยุคแรกๆ ที่เป็นกษัตริย์นั้นมักจะอ้างว่าตนเอง เป็นตัวแทนของเทพเจ้าที่ถูกส่งมาดูแลราชอาณาจักรแห่งนี้ กษัตริย์ที่โด่งดังที่สุดพระองค์หนึ่งมีนามว่าพระเจ้า Hammurabi ซึ่งปกครองนครบาบิโลนเมื่อปี 1776 ก่อนคริสตกาล (บาบิโลนครอบคลุมพื้นที่เมโสโปเตเมียซึ่งเป็นพื้นที่ของอิรัก คูเวต ซีเรียและตุรกีในปัจจุบัน)
+กษัตริย์องค์นี้ได้บัญญัติกฎที่ชื่อว่า Code of Hammurabi ซึ่งได้ชื่อว่าเป็นกฎหมายฉบับแรกของโลก โดยกฎหมายนี้แบ่งคนในบาบิโลนออกเป็นสามระดับ คือคนชั้นสูง (superior) สามัญชน (commoners) และทาส (slaves) มาไล่ดูกฎหมายบางมาตรากันนะครับ
+– ถ้าชายชั้นสูงทำให้ชายชั้นสูงอีกคนตาบอด ชายคนนั้นต้องโดนทำให้ตาบอดเช่นกัน – ถ้าชายชั้นสูงทำให้ชายสามัญชนตาบอด ชายคนนั้นต้องจ่ายเงิน 60 ชีเกล (สกุลเงิน) – ถ้าชายชั้นสูงทำให้ทาสตาบอด ชายคนนั้นต้องชดใช้เป็นเงินครึ่งหนึ่งของมูลค่าของทาสคนนั้น – ถ้าชายชั้นสูงทำร้ายผู้หญิงชั้นสูงจนเธอแท้ง ชายคนนั้นต้องจ่ายเงิน 10 ชีเกล และถ้าเธอเสียชีวิต ลูกสาวของเขาต้องถูกประหาร – ถ้าชายชั้นสูงทำร้ายผู้หญิงสามัญชนจนเธอแท้ง ชายคนนั้นต้องจ่ายเงิน 5 ชีเกล และถ้าเธอเสียชีวิต เขาต้องจ่ายเงิน 30 ชีเกล – ถ้าชายชั้นสูงทำร้ายทาสผู้หญิงสามัญชนจนเธอแท้ง ชายคนนั้นต้องจ่ายเงิน 2 ชีเกล และถ้าเธอเสียชีวิต เขาต้องจ่ายเงิน 20 ชีเกล">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://example.com/KM/customs/book/sapiens/sapiens-5/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#fc6f5c">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mitr:400,700|Roboto:400,400italic,700|Sarabun:400,400italic,700|Roboto+Mono&display=swap">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/KM/customs/css/academia.min.93a124ca0162acdf9e17d0608b3bfcdc.css">
+
+  
+
+  
+  
+  
+
+  
+
+  <link rel="manifest" href="/KM/customs/site.webmanifest">
+  <link rel="icon" type="image/png" href="/KM/customs/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/KM/customs/img/icon-192.png">
+
+  <link rel="canonical" href="https://example.com/KM/customs/book/sapiens/sapiens-5/">
+
+  
+  
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="ECS">
+  <meta property="og:url" content="https://example.com/KM/customs/book/sapiens/sapiens-5/">
+  <meta property="og:title" content="ตอนที่ 5 - คุกที่มองไม่เห็น | ECS">
+  <meta property="og:description" content="เมื่ออาหารมากขึ้น จำนวนประชากรก็ทวีคูณ ในเวลาหนึ่งหมื่นปี ประชากร Sapiens เพิ่มจาก 5 ล้านเป็น 250 โดยเกือบร้อยละร้อยมีอาชีพเป็นชาวนา ความตลกร้ายอย่างหนึ่งของชีวิตชาวนาก็คือ พวกเขามีเรื่องให้ต้องกังวลอยู่เสมอ ถ้าย้อนเวลากลับไปช่วงที่บรรพบุรุษพวกเขายังเป็น Hunter-Gatherer (ล่าสัตว์เก็บผลไม้ป่า) พวกเขามีชีวิตวันต่อวัน ไม่มีการวางแผนล่วงหน้า แต่ก็ไม่มีอะไรให้ต้องกังวลด้วย ในขณะที่ชีวิตชาวนาแม้จะมีอาหารพอมีพอกิน แต่ก็ต้องคิดเผื่อว่าหากมีโรคระบาดหรือน้ำท่วม เรือกสวนไร่นาที่ทำเอาไว้ก็จะเสียหายและอาจต้องอดตาย คนรุ่นชาวนาถึงขยันทำงานหามรุ่งหามค่ำด้วยหวังว่าจะมีอาหารเพียงพอแม้ในยามที่ฟ้าฝนไม่เป็นใจ
+แต่สิ่งที่เกิดขึ้นจริงๆ ก็คือ เมื่อสังคมขยายใหญ่ขึ้น ประชาชนจำเป็นต้องมี ผู้นำที่จะช่วยปกป้องบ้านเมืองและรักษาความสงบสุขเรียบร้อย โดยสิ่งที่ผู้นำเรียกร้องเป็นการตอบแทนก็คือ อาหารส่วนเกินที่ชาวนาเก็บไว้นั่นเอง ชาวนาจึงไม่เคยมีความมั่นคงทางปากท้องอย่างแท้จริงเลย เพราะทำเท่าไหร่ก็ต้องส่งส่วยไปเกือบหมด การปกครองคนนับหมื่นนับแสนนั้นไม่ใช่เรื่องง่าย ผู้นำจึงจำเป็นต้องสร้าง “Myth” หรือเรื่องเล่าที่คนในการปกครองนั้นเชื่อเหมือนๆ กัน โดยผู้นำยุคแรกๆ ที่เป็นกษัตริย์นั้นมักจะอ้างว่าตนเอง เป็นตัวแทนของเทพเจ้าที่ถูกส่งมาดูแลราชอาณาจักรแห่งนี้ กษัตริย์ที่โด่งดังที่สุดพระองค์หนึ่งมีนามว่าพระเจ้า Hammurabi ซึ่งปกครองนครบาบิโลนเมื่อปี 1776 ก่อนคริสตกาล (บาบิโลนครอบคลุมพื้นที่เมโสโปเตเมียซึ่งเป็นพื้นที่ของอิรัก คูเวต ซีเรียและตุรกีในปัจจุบัน)
+กษัตริย์องค์นี้ได้บัญญัติกฎที่ชื่อว่า Code of Hammurabi ซึ่งได้ชื่อว่าเป็นกฎหมายฉบับแรกของโลก โดยกฎหมายนี้แบ่งคนในบาบิโลนออกเป็นสามระดับ คือคนชั้นสูง (superior) สามัญชน (commoners) และทาส (slaves) มาไล่ดูกฎหมายบางมาตรากันนะครับ
+– ถ้าชายชั้นสูงทำให้ชายชั้นสูงอีกคนตาบอด ชายคนนั้นต้องโดนทำให้ตาบอดเช่นกัน – ถ้าชายชั้นสูงทำให้ชายสามัญชนตาบอด ชายคนนั้นต้องจ่ายเงิน 60 ชีเกล (สกุลเงิน) – ถ้าชายชั้นสูงทำให้ทาสตาบอด ชายคนนั้นต้องชดใช้เป็นเงินครึ่งหนึ่งของมูลค่าของทาสคนนั้น – ถ้าชายชั้นสูงทำร้ายผู้หญิงชั้นสูงจนเธอแท้ง ชายคนนั้นต้องจ่ายเงิน 10 ชีเกล และถ้าเธอเสียชีวิต ลูกสาวของเขาต้องถูกประหาร – ถ้าชายชั้นสูงทำร้ายผู้หญิงสามัญชนจนเธอแท้ง ชายคนนั้นต้องจ่ายเงิน 5 ชีเกล และถ้าเธอเสียชีวิต เขาต้องจ่ายเงิน 30 ชีเกล – ถ้าชายชั้นสูงทำร้ายทาสผู้หญิงสามัญชนจนเธอแท้ง ชายคนนั้นต้องจ่ายเงิน 2 ชีเกล และถ้าเธอเสียชีวิต เขาต้องจ่ายเงิน 20 ชีเกล"><meta property="og:image" content="https://example.com/KM/customs/img/icon-192.png">
+  <meta property="twitter:image" content="https://example.com/KM/customs/img/icon-192.png"><meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2020-05-09T00:00:00&#43;01:00">
+  
+  <meta property="article:modified_time" content="2020-06-02T17:33:06&#43;07:00">
+  
+
+  
+
+
+  
+
+
+
+
+
+  <title>ตอนที่ 5 - คุกที่มองไม่เห็น | ECS</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/KM/customs/"><img src="/KM/customs/img/logo.png" alt="ECS"></a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation"><span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/#hero"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/customs/import-export/"><span>การนำเข้า-ส่งออก</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/projects/"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/featured/"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/post/"><span>Posts</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/KM/customs/customs/"><span>พิธีการศุลกากร</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  
+
+<div class="container-fluid docs">
+  <div class="row flex-xl-nowrap">
+    <div class="col-12 col-md-3 col-xl-2 docs-sidebar">
+      
+
+
+
+
+
+<form class="docs-search d-flex align-items-center">
+  <button class="btn docs-toggle d-md-none p-0 mr-3" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    <span><i class="fas fa-bars"></i></span>
+  </button>
+
+  
+  <input name="q" type="search" class="form-control" id="search-query" placeholder="Search..." autocomplete="off">
+  
+</form>
+
+<nav class="collapse docs-links" id="docs-nav">
+  
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/book/sapiens/">Overview</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-1/">1.  กำเนิด Sapiens</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-2/">2. สิ่งที่ทำให้เราครองโลก</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-3/">3. ยุคนักล่า-เก็บพืชผล</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-4/">4. การหลอกลวงครั้งยิ่งใหญ่</a>
+      </li>
+      
+      <li class="active">
+        <a href="/KM/customs/book/sapiens/sapiens-5/">5. คุกที่มองไม่เห็น</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-6/">6. กำเนิดภาษาเขียน</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-7/">7. ความเหลื่อมล้ำ</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-8/">8. โลกที่ถูกหลอมรวม</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-9/">9. มนตราของเงินตรา</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-10/">10. จักรวรรดิ</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-11/">11. บทบาทของศาสนา</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-12/">12. ศาสนาไร้พระเจ้า</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-13/">13. ยุคแห่งความไม่รู้</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-14/">14. 500 ปีแห่งความก้าวหน้า</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-15/">15. เมื่อยุโรปครองโลก</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-16/">16. สวัสดีทุนนิยม</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-17/">17. จานอลูมิเนียมของนโปเลียน</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-18/">18. ครอบครัวล่มสลาย</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-19/">19. สุขสมบ่มิสม</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-20/">20. อวสาน Sapiens</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/book/sapiens/review-1/">Review</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/review-1/">(Review-01) Homo Sapiens</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/review-2/">(Review-02) Homo Sapiens</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/review-3/">(Review-03) Homo Sapiens</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  
+</nav>
+
+    </div>
+
+    
+    <div class="d-none d-xl-block col-xl-2 docs-toc">
+      <ul class="nav toc-top">
+        <li><a href="#" id="back_to_top" class="docs-toc-title">Contents</a></li>
+      </ul>
+
+      <nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#กำแพงค-ก">กำแพงคุก</a></li>
+</ul></li>
+</ul>
+</nav>
+
+      
+    </div>
+    
+
+    <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
+
+      <article class="article" itemscope itemtype="http://schema.org/Article">
+
+        <div class="docs-article-container">
+          <h1 itemprop="name">ตอนที่ 5 - คุกที่มองไม่เห็น</h1>
+
+          <div class="article-style" itemprop="articleBody">
+            
+
+<p><img src="https://github.com/dragon-library/markdown/raw/master/Library/content/book/homo-sapiens/img/cover-sapiens.jpg" alt="" /></p>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/WGFCMjEp1tY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+
+<p>เมื่ออาหารมากขึ้น จำนวนประชากรก็ทวีคูณ ในเวลาหนึ่งหมื่นปี ประชากร Sapiens เพิ่มจาก 5 ล้านเป็น 250 โดยเกือบร้อยละร้อยมีอาชีพเป็นชาวนา ความตลกร้ายอย่างหนึ่งของชีวิตชาวนาก็คือ พวกเขามีเรื่องให้ต้องกังวลอยู่เสมอ ถ้าย้อนเวลากลับไปช่วงที่บรรพบุรุษพวกเขายังเป็น Hunter-Gatherer (ล่าสัตว์เก็บผลไม้ป่า) พวกเขามีชีวิตวันต่อวัน ไม่มีการวางแผนล่วงหน้า แต่ก็ไม่มีอะไรให้ต้องกังวลด้วย ในขณะที่ชีวิตชาวนาแม้จะมีอาหารพอมีพอกิน แต่ก็ต้องคิดเผื่อว่าหากมีโรคระบาดหรือน้ำท่วม เรือกสวนไร่นาที่ทำเอาไว้ก็จะเสียหายและอาจต้องอดตาย คนรุ่นชาวนาถึงขยันทำงานหามรุ่งหามค่ำด้วยหวังว่าจะมีอาหารเพียงพอแม้ในยามที่ฟ้าฝนไม่เป็นใจ</p>
+
+<p>แต่สิ่งที่เกิดขึ้นจริงๆ ก็คือ เมื่อสังคมขยายใหญ่ขึ้น ประชาชนจำเป็นต้องมี ผู้นำที่จะช่วยปกป้องบ้านเมืองและรักษาความสงบสุขเรียบร้อย โดยสิ่งที่ผู้นำเรียกร้องเป็นการตอบแทนก็คือ อาหารส่วนเกินที่ชาวนาเก็บไว้นั่นเอง ชาวนาจึงไม่เคยมีความมั่นคงทางปากท้องอย่างแท้จริงเลย เพราะทำเท่าไหร่ก็ต้องส่งส่วยไปเกือบหมด การปกครองคนนับหมื่นนับแสนนั้นไม่ใช่เรื่องง่าย ผู้นำจึงจำเป็นต้องสร้าง “Myth” หรือเรื่องเล่าที่คนในการปกครองนั้นเชื่อเหมือนๆ กัน โดยผู้นำยุคแรกๆ ที่เป็นกษัตริย์นั้นมักจะอ้างว่าตนเอง เป็นตัวแทนของเทพเจ้าที่ถูกส่งมาดูแลราชอาณาจักรแห่งนี้ กษัตริย์ที่โด่งดังที่สุดพระองค์หนึ่งมีนามว่าพระเจ้า Hammurabi ซึ่งปกครองนครบาบิโลนเมื่อปี 1776 ก่อนคริสตกาล (บาบิโลนครอบคลุมพื้นที่เมโสโปเตเมียซึ่งเป็นพื้นที่ของอิรัก คูเวต ซีเรียและตุรกีในปัจจุบัน)</p>
+
+<p>กษัตริย์องค์นี้ได้บัญญัติกฎที่ชื่อว่า Code of Hammurabi ซึ่งได้ชื่อว่าเป็นกฎหมายฉบับแรกของโลก โดยกฎหมายนี้แบ่งคนในบาบิโลนออกเป็นสามระดับ คือคนชั้นสูง (superior) สามัญชน (commoners) และทาส (slaves) มาไล่ดูกฎหมายบางมาตรากันนะครับ</p>
+
+<p>– ถ้าชายชั้นสูงทำให้ชายชั้นสูงอีกคนตาบอด ชายคนนั้นต้องโดนทำให้ตาบอดเช่นกัน
+– ถ้าชายชั้นสูงทำให้ชายสามัญชนตาบอด ชายคนนั้นต้องจ่ายเงิน 60 ชีเกล (สกุลเงิน)
+– ถ้าชายชั้นสูงทำให้ทาสตาบอด ชายคนนั้นต้องชดใช้เป็นเงินครึ่งหนึ่งของมูลค่าของทาสคนนั้น
+– ถ้าชายชั้นสูงทำร้ายผู้หญิงชั้นสูงจนเธอแท้ง ชายคนนั้นต้องจ่ายเงิน 10 ชีเกล และถ้าเธอเสียชีวิต ลูกสาวของเขาต้องถูกประหาร
+– ถ้าชายชั้นสูงทำร้ายผู้หญิงสามัญชนจนเธอแท้ง ชายคนนั้นต้องจ่ายเงิน 5 ชีเกล และถ้าเธอเสียชีวิต เขาต้องจ่ายเงิน 30 ชีเกล
+– ถ้าชายชั้นสูงทำร้ายทาสผู้หญิงสามัญชนจนเธอแท้ง ชายคนนั้นต้องจ่ายเงิน 2 ชีเกล และถ้าเธอเสียชีวิต เขาต้องจ่ายเงิน 20 ชีเกล</p>
+
+<p>สิ่งหนึ่งที่ผู้อ่านน่าจะสังเกตได้ก็คือ ผู้ชายจะมีมูลค่ามากกว่าผู้หญิง และเด็ก จะไม่ถูกมองว่าเป็นคน แต่เป็นเพียงสมบัติของผู้ชายเท่านั้น (ลูกจึงถูกฆ่าเมื่อพ่อเป็นผู้ทำผิดต่อคนชั้นสูง) ในตอนท้ายของกฎหมาย กษัตริย์ฮัมมูราบียังประกาศด้วยว่า <strong>&ldquo;นี่คือการตัดสินโดยเรา&rdquo;</strong>  กษัตริย์ฮัมมูราบี ผู้ทรงธรรมและได้บัญญัติกฎเหล่านี้ขึ้นมาเพื่อให้ประชาชนใช้ชีวิตอย่างถูกทำนองคลองธรรม เราคือผู้ถูกแต่งตั้งโดยเทพเจ้าเอ็นลิล (Enlil) และ เทพเจ้ามาร์ดุ๊ก (Marduk) ให้มาปกครองและดูแลมนุษยชาติ</p>
+
+<p><strong>คุณผู้อ่านเห็นด้วยกับพระเจ้าฮัมมูรัมบีหรือไม่?</strong></p>
+
+<p>ผมเชื่อว่าพวกเราส่วนใหญ่ไม่เห็นด้วย เพราะเราเชื่อว่ามนุษย์ทุกคนมีความเท่าเทียมกัน และการอ้างว่าตัวเองได้รับมอบหมายจากเทพเจ้านี่ดูยังไงก็เป็นเรื่องหลอกเด็กชัด ๆ แต่ถ้าลองสำรวจความคิดตัวเองดี ๆ ก็จะพบว่า “ความเท่าเทียมกัน” ก็เป็นเพียงสิ่งที่มนุษย์บัญญัติขึ้นเอง ความเท่าเทียมไม่ได้มีตัวตนอยู่จริง เป็นเพียงสิ่งที่เรายึดถือกันเฉยๆ หรือถ้าจะให้พูดกันแรง ๆ ก็คือคำ ๆ นี้มีสถานะไม่ต่างอะไรกับ การอ้างว่าตัวเองเป็นผู้ได้รับมอบหมายจากพระเจ้าเลย</p>
+
+<p>กฎหมายฮัมมูรัมบีเกิดขึ้นราว 1776 ปีก่อนคริสตกาล จะเป็นความบังเอิญรึเปล่าก็ไม่รู้ ที่ 1776 หลังคริสตกาล (ค.ศ.1776) ประเทศอเมริกาประกาศอิสรภาพจากจักรวรรดิอังกฤษ โดยย่อหน้าที่โด่งดังที่สุดจากคำประกาศอิสรภาพนี้ก็คือ</p>
+
+<blockquote>
+<p>We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.</p>
+
+<p>เราถือว่าความจริงต่อไปนี้เป็นสิ่งที่ประจักษ์แจ้งอยู่ในตัวเอง นั่นคือมนุษย์ทุกคนถูกสร้างขึ้นมาอย่างเท่าเทียมกัน และพระเจ้าผู้สร้างได้มอบสิทธิบางประการที่จะเพิกถอนมิได้ไว้ให้แก่มนุษย์ ในบรรดาสิทธิเหล่านั้น ได้แก่ ชีวิต เสรีภาพ และการเสาะแสวงหาความสุข</p>
+</blockquote>
+
+<p>แต่คำว่า “เท่าเทียม” “พระเจ้า” “สิทธิ” หรือ “เสรีภาพ” ไม่ได้มีตัวตนอยู่ในโลกแห่งความเป็นจริง เป็นเพียงสิ่งที่มนุษย์จินตนาการขึ้นมาเท่านั้น เพราะในเชิงชีววิทยาแล้วมนุษย์ทุกคนล้วนแตกต่างกัน ไม่ว่าจะเป็นเพศหรือรูปร่างหน้าตา ไม่มีหลักฐานที่พิสูจน์ได้ชิ้นใดที่บ่งบอกว่ามนุษย์ถูกพระเจ้าสร้างขึ้น มีแต่หลักฐานที่บ่งบอกว่ามนุษย์นั้นวิวัฒนาการมาจากลิง ในเชิงชีววิทยาคำว่า “สิทธิ” ก็ไร้ความหมายเช่นกัน นกบินได้ไม่ใช่เพราะว่ามันมีสิทธิ์ที่จะบิน แต่มันบินได้ เพราะร่างกาย มันวิวัฒนาการจนมันมีความสามารถที่จะบินได้ก็เท่านั้นเอง นกกระจอกเทศบินไม่ได้ ก็ไม่ใช่เพราะว่ามันถูกลิดรอนสิทธิ์ใดๆ เพียงแต่การวิวัฒนาการนำพาให้มันกลายเป็นนกที่บินไม่ได้เท่านั้นเอง</p>
+
+<p>เมื่อทั้ง “ความเท่าเทียมกัน” ของคนสมัยนี้ และ “การแบ่งชนชั้น” ของคนยุคพระเจ้าฮัมมูรัมบี ต่างก็มีตัวตนอยู่แต่ในจินตนาการและความเชื่อที่คนหมู่มากยึดถือ เช่นนี้แล้วเราจะบอกได้อย่างไรว่า บทบัญญัติของฮัมมูรัมบีนั้นผิด ส่วนคำประกาศอิสรภาพของอเมริกานั้นถูกต้องเที่ยงแท้? เพราะทั้งความเท่าเทียมกันและชนชั้นทางสังคมต่างก็เป็นคอนเซ็ปต์ที่ถูกสร้างขึ้นเพื่อเอื้อให้สังคมนั้นมีความเป็นปกติสุขเรียบร้อยเท่านั้นเอง ผู้เขียนเรียกคอนเซ็ปต์เหล่านี้ว่า imagined order หรือกฎระเบียบที่เราจินตนาการขึ้นมาเอง</p>
+
+<h2 id="กำแพงค-ก">กำแพงคุก</h2>
+
+<p>Imagined Order นี่อยู่ใกล้ตัวเราเสียจนเราลืมนึกไปเลยว่ามันเป็นเพียงสิ่งที่มนุษย์จินตนาการขึ้นมา มี 3 เหตุผล ที่พวกเราไม่เคยมองเห็นตัวตนที่แท้จริงของมัน</p>
+
+<p><strong>1. กฎระเบียบในจินตนาการนี้สะท้อนออกมาสู่โลกความเป็นจริง</strong>  คนสมัยนี้เชื่อในเรื่องความเป็นปัจเจกบุคคล (individualism) โดยเฉพาะฝรั่งที่เชื่อว่าแต่ละคนมีสิทธิ์และมีพื้นที่ของตัวเอง เด็กแต่ละคนจึงมีห้องนอนส่วนตัวที่เขาจะตกแต่งอย่างไรก็ได้ และพ่อแม่ก็ต้องเคาะประตูขออนุญาตทุกครั้งก่อนจะเข้าห้องลูก แต่ฝรั่งสมัยก่อนไม่ได้เชื่อในเรื่อง individualism ปราสาทสมัยเก่าจึงแทบไม่เคยมีห้องนอนส่วนตัว ลูกชายวัยรุ่นของบารอนยังต้องนอนรวมกับคนอื่นๆ และคุณค่าของเขาก็ขึ้นอยู่กับว่าคนรอบข้างมองเขายังไง</p>
+
+<p><strong>2. กฎระเบียบในจินตนาการนี้เป็นตัวกำหนดความต้องการของเรา</strong> ตั้งแต่เราเกิดมา เราก็หลีกเลี่ยงไม่พ้น imagined order ที่คอยขีดเส้น (โดยที่เราไม่รู้ตัว) ว่าเราควรจะเชื่ออะไรและเราควรต้องการอะไร เช่นความเชื่อที่ว่า คนเราควรได้เดินทาง ในอดีตกาล กษัตริย์ฟาโรห์แห่งอียิปต์อาจจะใช้เงินและเวลามากมายเพื่อจะสร้างปีระมิดเอาไว้เก็บศพตัวเอง แต่ไม่มีฟาโรห์องค์ไหนสนใจจะไปชอปปิ้งที่เมืองบาบิโลน แต่คนเราสมัยนี้ยอมจ่ายเงินมากมายเพื่อจะได้เดินทาง โดยผู้เขียนบอกว่าเพราะพวกเรานั้นเชื่อใน Romantic consumerism (บริโภคนิยมโรแมนติค)</p>
+
+<p><strong>Romanticism</strong> บอกเราว่า การจะมีชีวิตที่คุ้มค่านั้น เราต้องได้เจอคนหลายๆ แบบ ได้ลองกินอาหารที่แปลกรส ได้ฟังเพลงที่แปลกหู ได้เห็นสิ่งที่แปลกตาออกไป และหนึ่งในวิธีที่ดีที่สุดคือเก็บกระเป๋าและออกเดินทางไปยังดินแดนที่ไม่คุ้นเคย</p>
+
+<p><strong>Consumerism</strong> บอกเราว่า การที่เราจะมีความสุขได้นั้นเราต้องซื้อผลิตภัณฑ์หรือบริการ โฆษณาทีวีเป็นเครื่องย้ำเตือนเราว่าความสุขอยู่ไม่ไกล แค่จ่ายเงินก็จะได้มันมา</p>
+
+<p><strong>Romantic Consumerism</strong> จึงเป็น imagined order ซึ่งเป็นพื้นฐานของอุตสาหกรรรมการท่องเที่ยวนั่นเอง</p>
+
+<p>อุตสาหกรรมการท่องเที่ยวไม่ได้ขายตั๋วเครื่องบินหรือที่พัก แต่มันขายประสบการณ์  ปารีสหรืออินเดียก็ไม่ใช่สถานที่ แต่เป็นประสบการณ์ ถ้าชีวิตคู่ของเศรษฐีคนหนึ่งกำลังสั่นคลอน เขาอาจจะแก้ปัญหาด้วยการพาภรรยาไปเที่ยวปารีส แต่เศรษฐีอียิปต์ในอดีตไม่มีวันแก้ปัญหาชีวิตคู่ด้วยการพาภรรยาไปเที่ยวบาบิโลน แต่จะแสดงความรักด้วยการสร้างปีระมิดมอบให้เธอแทน “ปีระมิด” นั้นมีอยู่ทุกยุคทุกสม้ย เพียงแต่อาจจะมีหน้าตาและรูปร่างที่แตกต่างกันไป ปีระมิดของบางคนคือบ้านตากอากาศหลังงามบนภูเขา ส่วนปีระมิดของอีกคนอาจเป็นบริษัทมูลค่าพันล้าน แต่น้อยคนนักที่จะตั้งคำถามว่าเหตุใดเราถึงอยากจะสร้างปีระมิดตั้งแต่แรก</p>
+
+<p><strong>3. ระเบียบในจินตนาการนี้เป็นอัตวิสัยร่วม</strong> สิ่งต่างๆ ในโลกใบนี้นั้นแบ่งออกได้เป็นสามจำพวก คือภววิสัย (objective) อัตวิสัย (subjective) และอัตวิสัยร่วม (inter-subjective) ภววิสัยคือสิ่งที่จะมีอยู่จริง แม้ว่าจะมีมนุษย์หรือไม่มีก็ตาม แม้ว่ามนุษย์จะเชื่อหรือไม่เชื่อก็ตาม ตัวอย่างของสิ่งที่เป็นภววิสัย (objective) ก็เช่นแรงโน้มถ่วง ซึ่งมีอยู่บนโลกใบนี้ก่อนที่มนุษย์จะเกิดขึ้นมา และแม้ว่ามนุษย์คนไหนจะไม่เชื่อเรื่องแรงโน้มถ่วง แต่เขาก็ยังตกอยู่ภายใต้กฎนั้นอยู่ดี</p>
+
+<p>ตัวอย่างของอัตวิสัย (subjective) ก็คือสิ่งที่เห็นเฉพาะบุคคล เช่นสมัยพวกเราเด็ก เวลาเราเล่นกับตุ๊กตาเราก็จะคุยกับมันเหมือนเพื่อน ซึ่งเพื่อนคนนี้มีตัวตนอยู่แต่ในจินตนาการของเราคนเดียวเท่านั้น เมื่อเราโตขึ้น เพื่อนคนนี้ก็หายไปด้วย</p>
+
+<p>ตัวอย่างของอัตวิสัยร่วม (inter-subjective) ก็คือสิ่งที่มีตัวตนอยู่ในจินตนาการร่วมของคนหมู่มาก เช่นศาสนา พระเจ้า กฎหมาย เงิน หรือประเทศชาติ แม้ว่าจะมีคนหนึ่งคนเลิกเชื่อในพระเจ้าก็ไม่มีปัญหา เพราะยังมีคนอีกหลายล้านคนเชื่ออยู่ บริษัทเปอร์โยต์ที่ผมพูดถึงใน<a href="https://anontawong.com/2016/12/18/sapiens-2/" target="_blank">ตอนที่ 2</a>  ก็เป็นอัตวิสัยร่วมของผู้บริหาร นักกฎหมาย และลูกค้านับแสนนับล้านคน ต่อให้วันหนึ่ง CEO ของเปอร์โยต์ตื่นมาแล้วเลิกเชื่อในความมีอยู่จริงของเปอร์โยต์ เปอร์โยต์ก็จะยังคงมีอยู่ต่อไปอยู่ดี เช่นเดียวกับเงินดอลล่าร์ สิทธิมนุษยชน หรือประเทศสหรัฐอเมริกา ที่มีตัวตนอยู่ในจินตนาการของคนหลายร้อยหรือหลายพันล้านคน หากเราคิดจะเปลี่ยนหรือลบล้างความเชื่อนี้ เราก็ต้องพึ่งพาองค์กรที่เกิดขึ้นจากความเชื่ออื่นอยู่ดี เช่น ถ้าเราจะลบบริษัทเปอร์โต์ออกจากสารบบ เราก็ต้องเชื่อถึงความมีอยู่จริงของกระบวนการยุติธรมของฝรั่งเศส และถ้าเราต้องการจะรื้อถอนกระบวนการยุติธรรมของฝรั่งเศส เราก็ต้องเชื่อในสิ่งที่มีอำนาจยิ่งกว่านั้นเช่นความเป็นรัฐของฝรั่งเศส</p>
+
+<p>จะเห็นได้ว่า เราไม่มีทางหลีกหนีออกจากระเบียบในจินตนาการหรือ imagined order ได้เลย สังคมมนุษย์ Sapiens ได้สร้าง “คุกแห่งจินตนาการ” ที่สลับซับซ้อนเกินใครจะคาดคิดขึ้นมาเสียแล้ว ตอนต่อไปเราจะได้เห็นกันว่า กฎระเบียบที่เราจินตนาการกันขึ้นมานั้นได้นำพามาซึ่งนวัตกรรมอีกอย่างหนึ่งที่ขับเคลื่อนสังคมมนุษย์ไปอีกระดับ นวัตกรรมที่ว่านั้นคือ “ภาษาเขียน” ครับ</p>
+
+<blockquote>
+<p>ที่มา: <a href="https://anontawong.com/2017/01/15/sapiens-5/" target="_blank">https://anontawong.com</a>.</p>
+</blockquote>
+
+          </div>
+
+          
+
+
+
+          
+          <div class="article-widget">
+            
+<div class="post-nav">
+  
+  
+  
+  <div class="post-nav-item box ">
+    <div class="meta-nav meta-prev">Previous <br>
+    <a href="/KM/customs/book/sapiens/sapiens-4/" rel="next">ตอนที่ 4 - การหลอกลวงครั้งยิ่งใหญ่</a></div>
+  </div>
+  
+  
+  
+  <div class="post-nav-item box">
+    <div class="meta-nav meta-next" >Next <br>
+    <a href="/KM/customs/book/sapiens/sapiens-6/" rel="prev">ตอนที่ 6 - กำเนิดภาษาเขียน</a></div>
+  </div>
+  
+  <br>
+  <br>
+</div>
+
+          </div>
+          
+        </div>
+
+        <div class="body-footer">
+          Last updated on Jun 2, 2020
+        </div>
+
+      </article>
+
+      <footer class="site-footer">
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        
+        <p>
+          ECS@Support&copy;2020 &middot; 
+          Powered by
+          <a href="https://themefisher.com" target="_blank" rel="noopener">themefisher</a> for
+          <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+        </p>
+      </div>
+      <div class="col-md-6">
+        <ul class="list-inline network-icon text-right">
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+            <a href="https://twitter.com/Twitter" target="_blank" rel="noopener" title="DM Me"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+            <a href="skype:echo123?call"  title="Skype Me"><i class="fab fa-skype" aria-hidden="true"></i></a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+            <a href="https://keybase.io/" target="_blank" rel="noopener" title="Chat on Keybase"><i class="fab fa-keybase" aria-hidden="true"></i></a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+            <a href="https://discourse.gohugo.io" target="_blank" rel="noopener" title="Discuss on Forum"><i class="fas fa-comments" aria-hidden="true"></i></a>
+          </li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+
+    </main>
+  </div>
+</div>
+
+
+      
+
+    
+    
+    
+    <script src="/KM/customs/js/mathjax-config.js"></script>
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/KM/customs/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.1/anchor.min.js" integrity="sha256-pB/deHc9CGfFpJRjC43imB29Rse8tak+5eXqntO94ck=" crossorigin="anonymous"></script>
+    <script>
+      anchors.add();
+    </script>
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/KM/customs/js/academia.min.e4fc229c2f28284fc2dfa5b66a52b765.js"></script>
+
+    
+
+
+
+
+
+
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

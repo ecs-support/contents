@@ -1,22 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>การส่งออกสินค้า (Export) | ECS</title>
-    <link>https://ecs-support.github.io/KM/customs/customs/export/</link>
-      <atom:link href="https://ecs-support.github.io/KM/customs/customs/export/index.xml" rel="self" type="application/rss+xml" />
-    <description>การส่งออกสินค้า (Export)</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ECS@Support©2020</copyright><lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://ecs-support.github.io/KM/customs/images/logo_hu5e5145bc2b6e4e2490b1512c5085c727_5028_300x300_fit_lanczos_2.png</url>
-      <title>การส่งออกสินค้า (Export)</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/export/</link>
-    </image>
+    <title>การส่งออกสินค้า (Export) on ECS</title>
+    <link>/KM/customs/customs/export/</link>
+    <description>Recent content in การส่งออกสินค้า (Export) on ECS</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/KM/customs/customs/export/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>พิธีการการส่งออกสินค้า</title>
+      <link>/KM/customs/customs/export/export.1/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/KM/customs/customs/export/export.1/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/cover/export-Customs-clearance.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;เน-อหา&#34;&gt;เนื้อหา&lt;/h2&gt;
+
+&lt;div class=&#34;alert alert-note_toc&#34;&gt;
+  &lt;div&gt;
+    &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;road.html&#34; target=&#34;_blank&#34;&gt;ส่งของออกทางบก&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;sea.html&#34; target=&#34;_blank&#34;&gt;ส่งของออกทางเรือ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;air.html&#34; target=&#34;_blank&#34;&gt;ส่งของออกทางอากาศ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>การคืนอากรสำหรับของที่นำเข้ามาแล้วส่งกลับออกไป (Re-export)</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/export/re-export/</link>
+      <link>/KM/customs/customs/export/re-export/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/KM/customs/customs/export/re-export/</guid>
+      
+      <guid>/KM/customs/customs/export/re-export/</guid>
       <description>
 
 &lt;p&gt;ของที่นำเข้ามาในราชอาณาจักรและเสียอากรแล้ว หากส่งกลับออกไปยังเมืองต่างประเทศหรือส่งกลับไปเป็นของใช้สิ้นเปลืองในเรือ เดินทางไปต่างประเทศ สามารถขอคืนเงินอากรขาเข้าที่ชำระไว้แล้วได้ &lt;em&gt;เก้าในสิบส่วน หรือส่วนที่เกินหนึ่งพันบาทของจำนวนที่เรียกเก็บไว้&lt;/em&gt; โดยคำนวณตามใบขนสินค้าขาออกแต่ละฉบับ
@@ -77,14 +101,29 @@ Customs Clinic โทร 0-2667-7880-4 โทรสาร 0-2667-7885 อีเ�
     
     <item>
       <title>กลับไปเมนูหลัก  พิธีการศุลกากร</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/export/direct_main/</link>
+      <link>/KM/customs/customs/export/direct_main/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/KM/customs/customs/export/direct_main/</guid>
+      
+      <guid>/KM/customs/customs/export/direct_main/</guid>
       <description>&lt;script&gt;
    var files = &#39;/knowledge-center/customs/customs/index.html&#39;
    //document.location = files
    location.replace(files)
   &lt;/script&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>พิธีการการส่งออกสินค้า</title>
+      <link>/KM/customs/customs/export/direct_customs_clearance/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/KM/customs/customs/export/direct_customs_clearance/</guid>
+      <description>&lt;script&gt;
+   var files = &#39;../export.1/&#39;
+   //document.location = files
+   location.replace(files)
+&lt;/script&gt;
 </description>
     </item>
     

@@ -1,0 +1,877 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academia 4.3.1">
+  <meta name="generator" content="Hugo 0.59.1" />
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Little Dragon">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="ก่อนจะมีเงิน สมัยที่ Sapiens ยังล่าสัตว์และเก็บพืชผลนั้น ยังไม่มีสิ่งที่เรียกว่า “เงิน” เพราะสังคมมนุษย์มีขนาดไม่ใหญ่มาก อาจจะประมาณแค่หลายสิบถึงหลักร้อยต้นๆ ทุก คนในกลุ่มจึงรู้จักกันหมด และการที่เขาจะหยิบยื่นอะไรบางอย่างให้อีกคนจึงเป็นเรื่องของน้ำใจและบุญคุณ ถ้าวันนี้ผมมีแอปเปิ้ลเหลือให้คุณ ตามมารยาทวันหน้าถ้าคุณมีแอปเปิ้ลเหลือคุณก็ต้องแบ่งให้ผมด้วย
+อีกประเด็นหนึ่งของสังคมขนาดเล็กก็คือ ยังไม่เกิดสิ่งที่เรียกว่า specialization หรือความชำนาญทางด้านใดด้านหนึ่งโดยเฉพาะ เช่นแม้เผ่านี้จะเก็บแอปเปิ้ลเก่งเป็นพิเศษ แอปเปิ้ลที่เขาเก็บได้ก็ไม่ได้เยอะมากมายที่จะเอาไปแลกเปลี่ยนกับเผ่าอื่นได้ แถมเผ่าอื่นๆ ก็อยู่ไกลเกินกว่าจะมาแลกเปลี่ยนแอปเปิ้ลกันโดยง่าย แต่การมาถึงของการปฏิวัตเกษตรกรรม ทำให้ขนาดสังคมใหญ่ขึ้นจนอาจจะมีหลักแสนหรือหลักหมื่น จนเราไม่อาจจะรู้จักทุกคนได้ ถ้าวันหนึ่งคุณมาขอแอปเปิ้ลกับผม ผมก็ไม่อาจแน่ใจได้เลยว่าผมจะมีโอกาสได้แอปเปิ้ลคืนจากคุณในวันหน้าหรือไม่ การ “ให้เปล่า” โดยน้ำใจและมารยาทจึงค่อยๆ กลายมาเป็นกลายแลกเปลี่ยนอย่างช่วยไม่ได้
+และเมื่อสังคมใหญ่ขึ้น “ตลาด” ก็เติบโตเพียงพอที่จะทำให้บางคน specialize หรือทำแต่ในสิ่งที่ตัวเองถนัด เช่นถ้าผมเก่งทำรองเท้าผมก็สามารถทำรองเท้าเพียงอย่างเดียวแล้วเอารองเท้านั้นไปแลกกับอาหารและสิ่งจำเป็นอื่นๆ ได้ แต่การแลกเปลี่ยนสิ่งของแบบ barter นั้นมีปัญหาเสมอ สมมติผมเป็นคนทำสวนแอปเปิ้ลที่ขยันมากจนรองเท้าพัง ผมขนแอปเปิ้ลของผมไปเพื่อที่จะเอาไปเป็นค่าตอบแทนช่างทำรองเท้า ช่างทำรองเท้า จะรู้ได้อย่างไรว่าควรจะเอาแอปเปิ้ลจากผมกี่ลูก? เพราะแม้เขาจะเคยเก็บเป็นค่าแอปเปิ้ล 50 ลูกกับรองเท้าคู่หนึ่ง แต่นั่นก็เป็นรองเท้าของผู้หญิงไม่ใช่รองเท้าบู๊ทผู้ชาย แถมแอปเปิ้ลคราวนั้นก็คนละพันธุ์ แล้วถ้าสมมติ ช่างทำรองเท้าไม่ได้อยากกินแอปเปิ้ลแต่อยากฟ้องหย่าจะทำยังไง? คนปลูกแอปเปิ้ล จะต้องไปตามหาทนายที่อยากกินแอปเปิ้ลเพื่อให้เขามาทำเรื่องหย่าให้ช่างทำรองเท้าอย่างนั้นหรือ?
+การจะนำสิ่งของมาแลกเปลี่ยนกันได้ คนจำเป็นต้องรู้อัตราแลกเปลี่ยนของของสองสิ่งนั้น เช่นแอปเปิ้ล 40 ลูกเท่ากับรองเท้าผู้หญิง 1 คู่ รองเท้าผู้หญิง 10 คู่เท่ากับการฟ้องหย่าหนึ่งครั้ง การฟ้องหย่าหนึ่งครั้งเท่ากับแอปเปิ้ล 400 ลูก ฯลฯ ถ้าสิ่งของที่แลกเปลี่ยนในสังคมนั้นมีทั้งหมด 100 ชิ้น คนจะต้องรู้อัตราแลกเปลี่ยนถึง 4950 อัตรา และถ้าสิ่งของมี 1000 ชิ้น จะต้องมีอัตราแลกเปลี่ยนถึง 499,500 อัตรา!">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://example.com/KM/customs/book/sapiens/sapiens-9/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#fc6f5c">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mitr:400,700|Roboto:400,400italic,700|Sarabun:400,400italic,700|Roboto+Mono&display=swap">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/KM/customs/css/academia.min.93a124ca0162acdf9e17d0608b3bfcdc.css">
+
+  
+
+  
+  
+  
+
+  
+
+  <link rel="manifest" href="/KM/customs/site.webmanifest">
+  <link rel="icon" type="image/png" href="/KM/customs/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/KM/customs/img/icon-192.png">
+
+  <link rel="canonical" href="https://example.com/KM/customs/book/sapiens/sapiens-9/">
+
+  
+  
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="ECS">
+  <meta property="og:url" content="https://example.com/KM/customs/book/sapiens/sapiens-9/">
+  <meta property="og:title" content="ตอนที่ 9 - มนตราของเงินตรา | ECS">
+  <meta property="og:description" content="ก่อนจะมีเงิน สมัยที่ Sapiens ยังล่าสัตว์และเก็บพืชผลนั้น ยังไม่มีสิ่งที่เรียกว่า “เงิน” เพราะสังคมมนุษย์มีขนาดไม่ใหญ่มาก อาจจะประมาณแค่หลายสิบถึงหลักร้อยต้นๆ ทุก คนในกลุ่มจึงรู้จักกันหมด และการที่เขาจะหยิบยื่นอะไรบางอย่างให้อีกคนจึงเป็นเรื่องของน้ำใจและบุญคุณ ถ้าวันนี้ผมมีแอปเปิ้ลเหลือให้คุณ ตามมารยาทวันหน้าถ้าคุณมีแอปเปิ้ลเหลือคุณก็ต้องแบ่งให้ผมด้วย
+อีกประเด็นหนึ่งของสังคมขนาดเล็กก็คือ ยังไม่เกิดสิ่งที่เรียกว่า specialization หรือความชำนาญทางด้านใดด้านหนึ่งโดยเฉพาะ เช่นแม้เผ่านี้จะเก็บแอปเปิ้ลเก่งเป็นพิเศษ แอปเปิ้ลที่เขาเก็บได้ก็ไม่ได้เยอะมากมายที่จะเอาไปแลกเปลี่ยนกับเผ่าอื่นได้ แถมเผ่าอื่นๆ ก็อยู่ไกลเกินกว่าจะมาแลกเปลี่ยนแอปเปิ้ลกันโดยง่าย แต่การมาถึงของการปฏิวัตเกษตรกรรม ทำให้ขนาดสังคมใหญ่ขึ้นจนอาจจะมีหลักแสนหรือหลักหมื่น จนเราไม่อาจจะรู้จักทุกคนได้ ถ้าวันหนึ่งคุณมาขอแอปเปิ้ลกับผม ผมก็ไม่อาจแน่ใจได้เลยว่าผมจะมีโอกาสได้แอปเปิ้ลคืนจากคุณในวันหน้าหรือไม่ การ “ให้เปล่า” โดยน้ำใจและมารยาทจึงค่อยๆ กลายมาเป็นกลายแลกเปลี่ยนอย่างช่วยไม่ได้
+และเมื่อสังคมใหญ่ขึ้น “ตลาด” ก็เติบโตเพียงพอที่จะทำให้บางคน specialize หรือทำแต่ในสิ่งที่ตัวเองถนัด เช่นถ้าผมเก่งทำรองเท้าผมก็สามารถทำรองเท้าเพียงอย่างเดียวแล้วเอารองเท้านั้นไปแลกกับอาหารและสิ่งจำเป็นอื่นๆ ได้ แต่การแลกเปลี่ยนสิ่งของแบบ barter นั้นมีปัญหาเสมอ สมมติผมเป็นคนทำสวนแอปเปิ้ลที่ขยันมากจนรองเท้าพัง ผมขนแอปเปิ้ลของผมไปเพื่อที่จะเอาไปเป็นค่าตอบแทนช่างทำรองเท้า ช่างทำรองเท้า จะรู้ได้อย่างไรว่าควรจะเอาแอปเปิ้ลจากผมกี่ลูก? เพราะแม้เขาจะเคยเก็บเป็นค่าแอปเปิ้ล 50 ลูกกับรองเท้าคู่หนึ่ง แต่นั่นก็เป็นรองเท้าของผู้หญิงไม่ใช่รองเท้าบู๊ทผู้ชาย แถมแอปเปิ้ลคราวนั้นก็คนละพันธุ์ แล้วถ้าสมมติ ช่างทำรองเท้าไม่ได้อยากกินแอปเปิ้ลแต่อยากฟ้องหย่าจะทำยังไง? คนปลูกแอปเปิ้ล จะต้องไปตามหาทนายที่อยากกินแอปเปิ้ลเพื่อให้เขามาทำเรื่องหย่าให้ช่างทำรองเท้าอย่างนั้นหรือ?
+การจะนำสิ่งของมาแลกเปลี่ยนกันได้ คนจำเป็นต้องรู้อัตราแลกเปลี่ยนของของสองสิ่งนั้น เช่นแอปเปิ้ล 40 ลูกเท่ากับรองเท้าผู้หญิง 1 คู่ รองเท้าผู้หญิง 10 คู่เท่ากับการฟ้องหย่าหนึ่งครั้ง การฟ้องหย่าหนึ่งครั้งเท่ากับแอปเปิ้ล 400 ลูก ฯลฯ ถ้าสิ่งของที่แลกเปลี่ยนในสังคมนั้นมีทั้งหมด 100 ชิ้น คนจะต้องรู้อัตราแลกเปลี่ยนถึง 4950 อัตรา และถ้าสิ่งของมี 1000 ชิ้น จะต้องมีอัตราแลกเปลี่ยนถึง 499,500 อัตรา!"><meta property="og:image" content="https://example.com/KM/customs/img/icon-192.png">
+  <meta property="twitter:image" content="https://example.com/KM/customs/img/icon-192.png"><meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2020-05-09T00:00:00&#43;01:00">
+  
+  <meta property="article:modified_time" content="2020-06-02T17:33:06&#43;07:00">
+  
+
+  
+
+
+  
+
+
+
+
+
+  <title>ตอนที่ 9 - มนตราของเงินตรา | ECS</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/KM/customs/"><img src="/KM/customs/img/logo.png" alt="ECS"></a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation"><span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/#hero"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/customs/import-export/"><span>การนำเข้า-ส่งออก</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/projects/"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/featured/"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/post/"><span>Posts</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link  active" href="/KM/customs/customs/"><span>พิธีการศุลกากร</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  
+
+<div class="container-fluid docs">
+  <div class="row flex-xl-nowrap">
+    <div class="col-12 col-md-3 col-xl-2 docs-sidebar">
+      
+
+
+
+
+
+<form class="docs-search d-flex align-items-center">
+  <button class="btn docs-toggle d-md-none p-0 mr-3" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    <span><i class="fas fa-bars"></i></span>
+  </button>
+
+  
+  <input name="q" type="search" class="form-control" id="search-query" placeholder="Search..." autocomplete="off">
+  
+</form>
+
+<nav class="collapse docs-links" id="docs-nav">
+  
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/book/sapiens/">Overview</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-1/">1.  กำเนิด Sapiens</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-2/">2. สิ่งที่ทำให้เราครองโลก</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-3/">3. ยุคนักล่า-เก็บพืชผล</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-4/">4. การหลอกลวงครั้งยิ่งใหญ่</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-5/">5. คุกที่มองไม่เห็น</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-6/">6. กำเนิดภาษาเขียน</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-7/">7. ความเหลื่อมล้ำ</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-8/">8. โลกที่ถูกหลอมรวม</a>
+      </li>
+      
+      <li class="active">
+        <a href="/KM/customs/book/sapiens/sapiens-9/">9. มนตราของเงินตรา</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-10/">10. จักรวรรดิ</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-11/">11. บทบาทของศาสนา</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-12/">12. ศาสนาไร้พระเจ้า</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-13/">13. ยุคแห่งความไม่รู้</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-14/">14. 500 ปีแห่งความก้าวหน้า</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-15/">15. เมื่อยุโรปครองโลก</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-16/">16. สวัสดีทุนนิยม</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-17/">17. จานอลูมิเนียมของนโปเลียน</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-18/">18. ครอบครัวล่มสลาย</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-19/">19. สุขสมบ่มิสม</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/sapiens-20/">20. อวสาน Sapiens</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/book/sapiens/review-1/">Review</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/review-1/">(Review-01) Homo Sapiens</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/review-2/">(Review-02) Homo Sapiens</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/book/sapiens/review-3/">(Review-03) Homo Sapiens</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  
+</nav>
+
+    </div>
+
+    
+    <div class="d-none d-xl-block col-xl-2 docs-toc">
+      <ul class="nav toc-top">
+        <li><a href="#" id="back_to_top" class="docs-toc-title">Contents</a></li>
+      </ul>
+
+      <nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#ก-อนจะม-เง-น">ก่อนจะมีเงิน</a></li>
+<li><a href="#เง-นค-ออะไร">เงินคืออะไร</a></li>
+</ul></li>
+</ul>
+</nav>
+
+      
+    </div>
+    
+
+    <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
+
+      <article class="article" itemscope itemtype="http://schema.org/Article">
+
+        <div class="docs-article-container">
+          <h1 itemprop="name">ตอนที่ 9 - มนตราของเงินตรา</h1>
+
+          <div class="article-style" itemprop="articleBody">
+            
+
+<p><img src="https://github.com/dragon-library/markdown/raw/master/Library/content/book/homo-sapiens/img/cover-sapiens.jpg" alt="" /></p>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/Otk7aPgDOes" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+
+<h2 id="ก-อนจะม-เง-น">ก่อนจะมีเงิน</h2>
+
+<p>สมัยที่ Sapiens ยังล่าสัตว์และเก็บพืชผลนั้น ยังไม่มีสิ่งที่เรียกว่า “เงิน” เพราะสังคมมนุษย์มีขนาดไม่ใหญ่มาก อาจจะประมาณแค่หลายสิบถึงหลักร้อยต้นๆ ทุก คนในกลุ่มจึงรู้จักกันหมด และการที่เขาจะหยิบยื่นอะไรบางอย่างให้อีกคนจึงเป็นเรื่องของน้ำใจและบุญคุณ ถ้าวันนี้ผมมีแอปเปิ้ลเหลือให้คุณ ตามมารยาทวันหน้าถ้าคุณมีแอปเปิ้ลเหลือคุณก็ต้องแบ่งให้ผมด้วย</p>
+
+<p>อีกประเด็นหนึ่งของสังคมขนาดเล็กก็คือ ยังไม่เกิดสิ่งที่เรียกว่า specialization หรือความชำนาญทางด้านใดด้านหนึ่งโดยเฉพาะ เช่นแม้เผ่านี้จะเก็บแอปเปิ้ลเก่งเป็นพิเศษ แอปเปิ้ลที่เขาเก็บได้ก็ไม่ได้เยอะมากมายที่จะเอาไปแลกเปลี่ยนกับเผ่าอื่นได้ แถมเผ่าอื่นๆ ก็อยู่ไกลเกินกว่าจะมาแลกเปลี่ยนแอปเปิ้ลกันโดยง่าย แต่การมาถึงของการปฏิวัตเกษตรกรรม ทำให้ขนาดสังคมใหญ่ขึ้นจนอาจจะมีหลักแสนหรือหลักหมื่น จนเราไม่อาจจะรู้จักทุกคนได้ ถ้าวันหนึ่งคุณมาขอแอปเปิ้ลกับผม ผมก็ไม่อาจแน่ใจได้เลยว่าผมจะมีโอกาสได้แอปเปิ้ลคืนจากคุณในวันหน้าหรือไม่ การ “ให้เปล่า” โดยน้ำใจและมารยาทจึงค่อยๆ กลายมาเป็นกลายแลกเปลี่ยนอย่างช่วยไม่ได้</p>
+
+<p>และเมื่อสังคมใหญ่ขึ้น “ตลาด” ก็เติบโตเพียงพอที่จะทำให้บางคน specialize หรือทำแต่ในสิ่งที่ตัวเองถนัด เช่นถ้าผมเก่งทำรองเท้าผมก็สามารถทำรองเท้าเพียงอย่างเดียวแล้วเอารองเท้านั้นไปแลกกับอาหารและสิ่งจำเป็นอื่นๆ ได้
+แต่การแลกเปลี่ยนสิ่งของแบบ barter นั้นมีปัญหาเสมอ สมมติผมเป็นคนทำสวนแอปเปิ้ลที่ขยันมากจนรองเท้าพัง ผมขนแอปเปิ้ลของผมไปเพื่อที่จะเอาไปเป็นค่าตอบแทนช่างทำรองเท้า ช่างทำรองเท้า จะรู้ได้อย่างไรว่าควรจะเอาแอปเปิ้ลจากผมกี่ลูก? เพราะแม้เขาจะเคยเก็บเป็นค่าแอปเปิ้ล 50 ลูกกับรองเท้าคู่หนึ่ง แต่นั่นก็เป็นรองเท้าของผู้หญิงไม่ใช่รองเท้าบู๊ทผู้ชาย แถมแอปเปิ้ลคราวนั้นก็คนละพันธุ์ แล้วถ้าสมมติ ช่างทำรองเท้าไม่ได้อยากกินแอปเปิ้ลแต่อยากฟ้องหย่าจะทำยังไง? คนปลูกแอปเปิ้ล จะต้องไปตามหาทนายที่อยากกินแอปเปิ้ลเพื่อให้เขามาทำเรื่องหย่าให้ช่างทำรองเท้าอย่างนั้นหรือ?</p>
+
+<p>การจะนำสิ่งของมาแลกเปลี่ยนกันได้ คนจำเป็นต้องรู้อัตราแลกเปลี่ยนของของสองสิ่งนั้น เช่นแอปเปิ้ล 40 ลูกเท่ากับรองเท้าผู้หญิง 1 คู่ รองเท้าผู้หญิง 10 คู่เท่ากับการฟ้องหย่าหนึ่งครั้ง การฟ้องหย่าหนึ่งครั้งเท่ากับแอปเปิ้ล 400 ลูก ฯลฯ ถ้าสิ่งของที่แลกเปลี่ยนในสังคมนั้นมีทั้งหมด 100 ชิ้น คนจะต้องรู้อัตราแลกเปลี่ยนถึง 4950 อัตรา และถ้าสิ่งของมี 1000 ชิ้น จะต้องมีอัตราแลกเปลี่ยนถึง 499,500 อัตรา!* ดังนั้นการแลกเปลี่ยนสิ่งของแบบ barter ในสังคมใหญ่จึงแทบจะเป็นไปไม่ได้เลย และนี่คือเหตุผลที่สังคมจะต้องมี “ตัวกลาง” อะไรซักอย่างเพื่อให้การแลกเปลี่ยนสิ่งของเกิดขึ้นได้จริง</p>
+
+<h2 id="เง-นค-ออะไร">เงินคืออะไร</h2>
+
+<p>เงินไม่ใช่เหรียญกษาปณ์หรือธนบัตร แต่เงินคืออะไรก็ตามที่คนตกลงร่วมใช้เพื่อเป็นการบอกมูลค่าของสิ่งๆ หนึ่งเพื่อให้เอื้อต่อการค้าขาย เงินจึงไม่ใช่สิ่งของ แต่เป็นเพียง “เรื่องสมมติ” ที่ทุกคนยึดถือร่วมกันเท่านั้น ก่อนหน้าที่จะมีการทำเหรียญกษาปณ์ มนุษย์ก็ได้เลือกของบางสิ่งขึ้นมาใช้เป็นเงินมาแล้ว ไม่ว่าจะเป็น<a href="https://goo.gl/JfchFz" target="_blank">หอยเบี้ย</a> วัว เกลือ ลูกปัด หรือผ้า</p>
+
+<p>โดยยุคแรกอๆ นั้น คนยังไม่กล้าใช้ของอย่างหอยเบี้ย เพราะโดยตัวมันเองไม่มีคุณค่าใด ๆ กินก็ไม่ได้ เอาไปทำอาวุธก็ไม่ได้ ดังนั้นสิ่งที่ถูกนำมาใช้เป็นเงินในตอนแรกคือของที่มีคุณค่าในตัวมันเอง (inherent value) อย่างเช่นเมล็ดข้าวบาร์เลย์ที่เอาไปเลี้ยงปากเลี้ยงท้องได้จริงๆ โดยชาวสุเมเรียนเมื่อ 3000 ปีเริ่มใช้ข้าวบาร์เล่ย์เป็น “เงิน” แต่ปัญหาของข้าวบาร์เลย์ก็คือคนที่ได้ต้องสร้างที่เก็บ แถมมันยังเสียหายได้ง่ายจากหนูหรือไฟไหม้ เวลาจะขนไปไหนมาไหนก็ลำบาก คนจึงเริ่มหันมาใช้วัตถุอย่างอื่นที่อาจจะกินไม่ได้ แต่สามารถจะเก็บและเคลื่อนย้ายได้ง่ายกว่ามาก</p>
+
+<p>ถ้าใคร<a href="https://anontawong.com/2017/01/15/sapiens-5/" target="_blank">ได้อ่านตอนที่ 5</a> อาจจะจำได้ว่าในสมัยของกษัตริย์ฮัมมูราบี ที่ระบุว่าการทำผิดแต่ละอย่างจะโดนค่าปรับเป็น silver shikels โดยชีเกลในที่นี้ไม่ใช่เหรียญแต่เป็นนำหนักของ silver (ผมขอใช้คำว่าซิลเวอร์แทนคำว่าเงินเพื่อจะได้ไม่สับสนกับคำว่า money) โดยหนึ่งชีเกลเท่ากับ 8.33 กรัม</p>
+
+<p>ถ้าผมเป็นชายชั้นสูงและฆ่าทาสผู้หญิงผมต้องจ่ายค่าปรับ 20 ชีเกลซึ่งก็เท่ากับซิลเวอร์ 166.6 กรัมนั่นเอง</p>
+
+<p>แต่การใช้เงินแบบชีเกลก็มีข้อยุ่งยากอยู่สองข้อ คือทุกครั้งที่จะใช้ก็ต้องมานั่งชั่งน้ำหนัก แถมเราจะรู้ได้อย่างไรว่า ซิลเอร์ที่นำมามันเป็นซิลเวอร์แท้ ไม่ใช่ตะกั่วที่เคลือบด้วยซิลเวอร์?</p>
+
+<p>ปัญหานี้หมดไปเมื่อแคว้นลิเดียในนคร Anatolia คิดค้นเหรียญกษาปณ์ขึ้นมาเมื่อ 630 ปีก่อนคริสตกาล (ประมาณสิบกว่าปีก่อนพระพุทธเจ้าประสูติ – Anatolia คือตุรกีในปัจจุบัน) โดยด้านหนึ่งของเหรียญจะบ่งบอกมูลค่า และอีกด้านหนึ่งจะมีสัญลักษณ์ของกษัตริย์เพื่อเป็นการันตีว่าเหรียญนี้ทำจากเงินแท้เชื่อถือได้ และแม้เวลาจะล่วงเลยไปสองพันหกร้อยกว่าปีแล้ว แต่รูปแบบของเหรียญกษาปณ์ลิเดียนี้ ก็ยังตกทอดมาถึงเหรียญกษาปณ์ที่เราใช้กันในปัจจุบัน (ด้านหนึ่งระบุมูลค่า อีกด้านหนึ่งระบุผู้มีอำนาจในการผลิตเหรียญ)</p>
+
+<p>ชาวยุโรปและชาวตะวันออกกลางริเริ่มใช้เหรียญกษาปณ์นี้และเผยแพร่มันออกไปทั่วโลกไม่เว้นแม้กระทั่งตะวันออกไกลอย่างประเทศจีน เพียงไม่นานคนทั้งโลกก็หันมาให้คุณค่ากับ silver และ gold และสร้างระบบเศรษฐกิจโลกที่เป็นหนึ่งเดียวกัน ถ้าปราศจากเงิน การค้าขายข้ามดินแดนจะเป็นเรื่องที่เป็นไปไม่ได้เลย</p>
+
+<p>อีเกร็ดความรู้หนึ่งอีกอย่างหนึ่งก็คือ ในโลกปัจจุบันมีเงินไหลเวียนอยู่ถึง $60 trillion (60 ล้านล้านดอลล่าร์) แต่มูลค่าของเหรียญและธนบัตรทั่วโลกนั้นรวมกันแล้วแค่ $6 trillion หรือ 10% ของเงินเท่านั้น อีก 90% เป็นเพียงตัวเลขในคอมพิวเตอร์เท่านั้น</p>
+
+<p>ไม่มีใครปฏิเสธเงิน เราต้องการเงินเพราะเราเชื่อว่าคนอื่นต้องการเงินนั้นเช่นกัน เงินจึงเป็นระบบความเชื่อใจกัน (mutual trust system) ที่ใหญ่ที่สุดเท่าที่มนุษย์เคยสร้างมา การมีอยู่ของเงินทำให้คนแปลกหน้าสามารถทำงานร่วมกันได้ (enable strangers to cooperate)</p>
+
+<p>แต่เพราะว่าเงินป็นเพียงไม่ได้มีตัวตนอย่างแท้จริง เป็นเพียง “สิ่งปลูกสร้างในจินตนาการมนุษย์” (psychological construct in our collective imagintion) ที่ต้องอาศัยความเชื่อมั่นเป็นพื้นฐาน มูลค่าของเงินจึงผูกติดกับการเมืองอย่างแยกไม่ออก เมื่อใดก็ตามที่บ้านเมืองมีปัญหาจนความเชื่อมั่นสั่นคลอน มูลค่าของเงินก็จะถูกกระทบไปด้วยเช่นกัน (ดูอย่างเวเนซูเอล่าที่มีอัตราเงินเฟ้อถึง 800% ในปีที่ผ่านมา แค่คิดภาพว่ามาม่าราคาซองละ 50 บาทก็หนาวแล้ว)</p>
+
+<p>เงินยังมีส่วนในการกัดกร่อน “คุณค่าความเป็นมนุษย์” อีกด้วย ในสังคมโบราณ เราเชื่อกันว่ายังมีหลายสิ่งที่ไม่อาจซื้อขายกันได้ เช่นความรักของพ่อกับแม่ที่มีให้ลูก หรือความจงรักภักดีของอัศวิน ที่มีต่อเจ้านาย แต่แล้วพ่อแม่บางคนถึงกับยอมขายลูกไปเป็นทาสเพื่อจะได้มีเงินมาจุนเจือครอบครัว และอัศวินหลายคน ก็พร้อมที่จะหันไปรับใช้เจ้านายที่ยินดีจะจ่ายเงินก้อนโตที่สุด</p>
+
+<p>และแม้เงินจะช่วยให้เราสามารถทำงานร่วมกับคนแปลกหน้าได้ แต่จริงๆ แล้วเราไม่ได้เชื่อใจคนแปลกหน้า เราเชื่อใจเงินที่คนคนนั้นถือต่างหาก เมื่อใดที่คนนั้นไม่มีเงิน ความเชื่อใจเราก็หมดไปเช่นกัน และนี่คือบทบาทของเงินต่อมนุษยชาติ แต่นอกจาก “เงิน” และ “ทอง” แล้ว เหล็กกล้า (ที่มาทำเป็นอาวุธ) ก็มีบทบาทสำคัญไม่แพ้กัน ในตอนหน้าเราจะมาดูกันครับว่าราชอาณาจักรและการก่อสงครามมีผลต่อการหลอมรวมโลกใบนี้อย่างไรบ้าง</p>
+
+<blockquote>
+<p>ของ 1000 ชิ้นเท่ากับ 499500 อัตราแลกเปลี่ยน – ใครที่เคยเรียนเลขเรื่อง nCr จะเข้าใจว่ามันคือ 1000c2 หรือ 1000!/(998!2!)</p>
+
+<p>ที่มาบทความ :<a href="https://anontawong.com/2017/02/12/sapiens-9/" target="_blank">https://anontawong.com</a></p>
+</blockquote>
+
+          </div>
+
+          
+
+
+
+          
+          <div class="article-widget">
+            
+<div class="post-nav">
+  
+  
+  
+  <div class="post-nav-item box ">
+    <div class="meta-nav meta-prev">Previous <br>
+    <a href="/KM/customs/book/sapiens/sapiens-8/" rel="next">ตอนที่ 8 - โลกที่ถูกหลอมรวม</a></div>
+  </div>
+  
+  
+  
+  <div class="post-nav-item box">
+    <div class="meta-nav meta-next" >Next <br>
+    <a href="/KM/customs/book/sapiens/sapiens-11/" rel="prev">ตอนที่ 11 - บทบาทของศาสนา</a></div>
+  </div>
+  
+  <br>
+  <br>
+</div>
+
+          </div>
+          
+        </div>
+
+        <div class="body-footer">
+          Last updated on Jun 2, 2020
+        </div>
+
+      </article>
+
+      <footer class="site-footer">
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        
+        <p>
+          ECS@Support&copy;2020 &middot; 
+          Powered by
+          <a href="https://themefisher.com" target="_blank" rel="noopener">themefisher</a> for
+          <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+        </p>
+      </div>
+      <div class="col-md-6">
+        <ul class="list-inline network-icon text-right">
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+            <a href="https://twitter.com/Twitter" target="_blank" rel="noopener" title="DM Me"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+            <a href="skype:echo123?call"  title="Skype Me"><i class="fab fa-skype" aria-hidden="true"></i></a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+            <a href="https://keybase.io/" target="_blank" rel="noopener" title="Chat on Keybase"><i class="fab fa-keybase" aria-hidden="true"></i></a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+            <a href="https://discourse.gohugo.io" target="_blank" rel="noopener" title="Discuss on Forum"><i class="fas fa-comments" aria-hidden="true"></i></a>
+          </li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+
+    </main>
+  </div>
+</div>
+
+
+      
+
+    
+    
+    
+    <script src="/KM/customs/js/mathjax-config.js"></script>
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/KM/customs/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.1/anchor.min.js" integrity="sha256-pB/deHc9CGfFpJRjC43imB29Rse8tak+5eXqntO94ck=" crossorigin="anonymous"></script>
+    <script>
+      anchors.add();
+    </script>
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/KM/customs/js/academia.min.e4fc229c2f28284fc2dfa5b66a52b765.js"></script>
+
+    
+
+
+
+
+
+
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

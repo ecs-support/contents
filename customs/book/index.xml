@@ -1,16 +1,106 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Books | ECS</title>
-    <link>https://ecs-support.github.io/KM/customs/book/</link>
-      <atom:link href="https://ecs-support.github.io/KM/customs/book/index.xml" rel="self" type="application/rss+xml" />
-    <description>Books</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ECS@Support©2020</copyright>
-    <image>
-      <url>https://ecs-support.github.io/KM/customs/images/logo_hu5e5145bc2b6e4e2490b1512c5085c727_5028_300x300_fit_lanczos_2.png</url>
-      <title>Books</title>
-      <link>https://ecs-support.github.io/KM/customs/book/</link>
-    </image>
+    <title>Books on ECS</title>
+    <link>https://example.com/KM/customs/book/</link>
+    <description>Recent content in Books on ECS</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>ECS@Support&amp;copy;{year}</copyright>
+    
+	    <atom:link href="https://example.com/KM/customs/book/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ประวัติ Bill Gates</title>
+      <link>https://example.com/KM/customs/book/gates/</link>
+      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/KM/customs/book/gates/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://t0.blockdit.com/photos/2019/09/5d762078a8479d0e815f2d3a_1440x810xcover_kvYU0VuR.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;ชายผู้เป็นตำนานที่ยิ่งใหญ่แห่งวงการเทคโนโลยีโลก ผู้อยู่เบื้องหลังความสำเร็จตลอดหลายทศวรรษที่ผ่านมาของ Microsoft การที่ผู้ชายคนนึงได้ก้าวข้ามผ่านยุคการเปลี่ยนผ่านของเทคโนโลยี ตั้งแต่ยุคเริ่มต้นของคอมพิวเตอร์ส่วนบุคคล การเกิดขึ้นของ internet การเข้าสู่โลก Social Network และ การก้าวเข้าสู่ยุคมือถืออย่างที่เราได้เห็นในปัจจุบัน ต้องบอกว่า มีเพียงไม่กี่คนในโลกที่ได้เห็นการเปลี่ยนผ่านเหล่านี้ ผ่านบริษัทตัวเองอย่าง Microsoft ทำให้ Microsoft กลายเป็นยักษ์ใหญ่ทางเทคโนโลยีที่แข็งแกร่ง ที่ผ่านมรสุมการเปลี่ยนแปลงของเทคโนโลยีมามากมายได้อย่างไร&lt;/p&gt;
+
+&lt;p&gt;ต้องบอกว่า Bill Gates ถือเป็นบุคคลสำคัญที่อยู่เบื้องหลังความสำเร็จของ Microsoft ในทุก ๆ ยุค เป็นเรื่องน่าสนใจอย่างมาก ว่าเค้าสามารถรับมือกับความเปลี่ยนแปลงอย่างรวดเร็วของเทคโนโลยีที่ก้าวไปข้างหน้าได้อย่างไร Blog Series ชุดนี้จะมานำเสนอเรื่องราวของชายที่น่าสนใจคนนี้กันครับ โดยเนื้อหาหลักนั้นจะมาจากหนังสือสองเล่ม คือ The Road Ahead ที่แปลโดย น.ต. วุฒิพงศ์ พงศ์สุวรรณ รวมถึงอีกเล่มหนึ่งคือ หนังสือ Bill Gates Speaks : Insight from the world’s greatest entrepreneur ร่วมกับข้อมูลอื่น ๆ ที่มีอยู่ในโลก internet&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Source :  &lt;a href=&#34;https://www.blockdit.com/series/5d7620783f574a0e60518aa6?fbclid=IwAR308Uctywl9aQA8ws1BAlSgSQmxErNPo8JLxM_wd_g6xSV2BRuaDdgK-iU&#34; target=&#34;_blank&#34;&gt;blockdit.com : ด.ดล Blog&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Homo Sapiens - A Brief History of Humankind</title>
+      <link>https://example.com/KM/customs/book/sapiens/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/KM/customs/book/sapiens/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://images-se-ed.com/ws/Storage/Originals/978616/301/9786163016560L.jpg?h=3ea1d17655a35e145c05d27799718197&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;หนังสือชื่อ Sapiens และ Homo Deus ที่เขียน โดย Yuval Noah Harari ปกติเรามักจะมองว่า วิชาประวัติศาสตร์เป็นเรื่องที่โบราณ เรียนรู้ศึกษาแต่เรื่องเก่าๆ ที่ถึงรู้ไป ก็นำมาใช้ประโยชน์ในปัจจุบันได้น้อย แต่ Yuval Noah Harari จะทำให้เราต้องมองประวัติศาสตร์เปลี่ยนไป&lt;/p&gt;
+
+&lt;p&gt;Yuval Noah Harari เป็นนักประวัติศาสตร์ชาวยิว ที่เกิดและเติบโตในประเทศอิสราเอล ปัจจุบันมีอายุ 41 ปี เป็นผู้เขียนหนังสือขายดีระดับนานาชาติอย่าง &lt;strong&gt;&amp;ldquo;Sapiens: A Brief History of Humankind&amp;rdquo;&lt;/strong&gt; และ &lt;strong&gt;&amp;ldquo;Homo Deus: A Brief History of Tomorrow Harari&amp;rdquo;&lt;/strong&gt; เรียนจบทั้งปริญญาตรี โทและเอกด้านประวัติศาสตร์ และหลังจากจบปริญญาเอกเมื่อปี 2545 ก็มาเป็นนักวิจัย (ทำ Postdoctoral) ร่วมกับ Yad Hanadiv หรือที่เราอาจจะคุ้นหูกันในชื่อ Rothschild Foundation ทุกวันนี้ เขาเป็นอาจารย์ประจำคณะประวัติศาสตร์ที่ Hebrew University of Jerusalem ซึ่งเป็นมหาวิทยาลัยที่เขาจบปริญญาตรีและโท และถือเป็นผู้เชี่ยวชาญด้านประวัติศาสตร์โลก ประวัติศาสตร์ยุคกลางและประวัติศาสตร์ทางทหาร&lt;/p&gt;
+
+&lt;p&gt;นอกจากนี้ ยังเป็นคนที่ปฏิบัติวิปัสสนากรรมฐานอย่างต่อเนื่องมานานกว่า 15 ปี โดยมองว่าการวิปัสสนา ถือเป็นการวิจัยทางหนึ่ง และสิ่งที่เขาได้รับมานั้น ช่วยให้เขาสามารถเขียนหนังสือ Homo Deus ขึ้นมาได้ ปัจจุบันเขาเน้นค้นคว้าและทำวิจัยเพื่อตอบคำถามเกี่ยวกับประวัติศาสตร์มหภาค (Macro-history) เช่น อะไรคือความเกี่ยวเนื่องกันระหว่างประวัติศาสตร์และชีววิทยา?&lt;/p&gt;
+
+&lt;p&gt;อะไรคือข้อแตกต่างที่สำคัญระหว่าง Homo sapiens กับสัตว์ชนิดอื่นๆ? และ คนมีความสุขขึ้นหรือไม่? เมื่อประวัติศาสตร์ถูกเปิดเผยออกมา เป็นต้น จากบทความและหนังสือที่เขาเขียนขึ้นมากมาย Sapiens: A Brief History of Humankind ถือเป็นหนังสือที่ทำให้เขาโด่งดังเป็นที่รู้จักในวงกว้าง ตีพิมพ์ขึ้นครั้งแรกเป็นภาษาฮีบรู เมื่อปี 2554 เป็นภาษาอังกฤษปี 2557 และหลังจากนั้นก็ถูกแปลเพิ่มอีกกว่า 30 ภาษา Sapiens บอกเล่าถึงเรื่องราวประวัติความเป็นมาของมนุษย์ ย้อนกลับไปตั้งแต่การวิวัฒน์ของเผ่าพันธุ์ Homo sapiens ในยุคหิน จนมาถึงยุคแห่งการปฏิวัติเทคโนโลยีในปัจจุบัน ส่วน Homo Deus นั้น ก็เป็นเหมือนกับภาคต่อ ที่จะบอกเล่าเรื่องราวจากปัจจุบัน ไปยังอนาคต โดยเฉพาะเรื่องผลกระทบของนวัตกรรมเทคโนโลยีทางชีวภาพ และ AI ต่อเผ่าพันธุ์ของมนุษย์เรา ซึ่งอาจจะทำให้เราก้าวข้ามธรรมชาติไป และเข้าใกล้กับคำว่า พระเจ้า ซึ่งแม้แต่ 1 ในผู้มีอิทธิพลในโลกเทคโนโลยี อย่าง Mark Zuckerberg เจ้าของ Facebook ก็ยังแนะนำให้อ่านหนังสือเล่มนี้เมื่อ 2 ปีก่อน (Bill Gates กับ Obama ก็อ่าน) และหนังสือเล่มนี้อาจจะมีอิทธิพลเบื้องหลังทำให้ Mark Zuckerberg และ Bill Gates พูดถึง AI บ่อยขึ้นในช่วงที่ผ่านมา&lt;/p&gt;
+
+&lt;p&gt;สรุปแล้ว Harari พยายามอธิบายว่า เรื่องราวต่างๆ ในประวัติศาสตร์ที่เกิดขึ้นกับ Homo sapiens อธิบายถึงตัวตนความเป็นมนุษย์ในปัจจุบัน และยังรวมไปถึงสิ่งที่มนุษย์จะเป็นในอนาคต และได้นำเสนอแนวความคิดที่น่าสนใจมากมาย อย่างเช่น Homo sapiens อยู่รอดและครองโลกมาได้ เพราะเป็นสัตว์เผ่าพันธุ์เดียวในโลก ที่สามารถเชื่อในสิ่งที่จับต้องไม่ได้และตัวเองจินตนาการขึ้น เช่น พระเจ้า ศาสนา ประเทศ เงินตรา และสิทธิมนุษยชน ซึ่งทำให้กลุ่มที่มีความเชื่อเหมือนกัน ร่วมมือกันได้ นั่นทำให้มนุษย์เราในปัจจุบัน มีชีวิตอยู่ในโลกความเป็นจริงครึ่งนึง (Physical Reality) โลกจินตนาการอีกครึ่งนึง (Imagined Reality) และศาสนาที่ประสบความสำเร็จมากที่สุดในสายตาของเขาก็คือ ระบบทุนนิยม..&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;ที่มา &lt;a href=&#34;https://www.longtunman.com/3144&#34; target=&#34;_blank&#34;&gt;ลงทุนแมน&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Overview</title>
+      <link>https://example.com/KM/customs/book/deus/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/KM/customs/book/deus/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://www.panasm.com/wp-content/uploads/2018/10/Homo-Deus-2016-Yuval-Noah-Harari.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;div class=&#34;alert alert-info&#34;&gt;
+  &lt;div&gt;
+    &lt;strong&gt;“This is the best reason to learn history: not in order to predict the future, but to free yourself of the past and imagine alternative destinies. Of course this is not total freedom – we cannot avoid being shaped by the past. But some freedom is better than none.”&lt;/strong&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;เมื่อเราเข้าใจ &lt;em&gt;“เรื่องราวที่แท้จริง”&lt;/em&gt; ของมนุษย์ เมื่อนั้นเราก็จะเข้าใจ &lt;em&gt;“เป้าหมาย”&lt;/em&gt; ของการเดินทางของมนุษยชาติ&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Homo Deus คือ หนังสือภาคต่อจาก  &lt;a href=&#34;http://localhost:9214/docs/book/homo-sapiens/&#34; target=&#34;_blank&#34;&gt;Sapiens&lt;/a&gt;  ของ Yuval Noah Harari ศาสตราจารย์ทางประวัติศาสตร์ผู้นำเสนอเรื่องราวของ &lt;strong&gt;“อนาคต”&lt;/strong&gt; ของมนุษยชาติผ่านการศึกษาความเป็นมาทางประวัติศาสตร์ของเผ่าพันธุ์ Homo Sapiens ที่พัฒนาตนเองขึ้นจากการเป็น &lt;strong&gt;“สัตว์”&lt;/strong&gt; อันไร้ซึ่งความสำคัญใดๆมาเป็น &lt;strong&gt;“เทพเจ้า”&lt;/strong&gt; ผู้กำหนดชะตาชีวิตของทุกสรรพสิ่ง แต่เมื่อสิ่งที่ถูกมนุษย์สร้างขึ้นอย่าง algorithm เริ่มมีสติปัญญาที่ชาญฉลาดกว่ามันสมองของมนุษย์ โลกของเราทุกคนจะเปลี่ยนแปลงไปอย่างไร&lt;/p&gt;
+
+&lt;h2 id=&#34;key-messages&#34;&gt;Key Messages&lt;/h2&gt;
+
+&lt;h3 id=&#34;homo-deus-when-men-play-god&#34;&gt;Homo Deus: When Men Play God&lt;/h3&gt;
+
+&lt;p&gt;จะเกิดอะไรขึ้น หาก &lt;strong&gt;Homo&lt;/strong&gt; &lt;strong&gt;Sapiens&lt;/strong&gt; (“Knowing  Man”) คิดจะอัพเกรดตน กลายเป็น &lt;strong&gt;Homo Deus&lt;/strong&gt; (“God  Man”)  หนังสือ  &lt;strong&gt;Homo Deus: A Brief History of Tomorrow&lt;/strong&gt;  (หรือชื่อเล่มฉบับแปลไทย  &lt;strong&gt;โฮโมดีอุส: ประวัติย่อของวันพรุ่งนี้&lt;/strong&gt;) คือภาคต่อของ Sapiens ซึ่งยังคงความยอดเยี่ยมในการนำข้อมูลจากประวัติศาสตร์ และปัจจุบัน มาผสานรวมกับมุมมองของผู้เขียน ออกมาเป็นหนังสือที่เล่าเรื่องราวของมนุษย์ และตั้งคำถามต่อสิ่งต่างๆ ได้อย่างแหลมคม ชวนคิด และน่าทึ่ง&lt;/p&gt;
+
+&lt;p&gt;Homo Deus บอกเล่าเรื่องราวต่อจากหนังสือ Sapiens ที่ Harari ได้อธิบายว่า  ทำไมสิ่งมีชีวิต ที่ไม่ได้มีความสลักสำคัญใด ๆ กับโลก  จึงสามารถขึ้นมาเป็น “The only Dominant  Species”ของโลกใบนี้ได้ โดยใช้เวลาเพียงแค่ 75,000 ปี&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;คำถามต่อมาคือมันจะสิ้นสุดแค่นี้หรือ? มนุษยชาติจะพอใจในสิ่งที่ตัวเองมีอยู่นี้ได้หรือไม่ ?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;จากประวัติศาสตร์ มนุษย์ก็ดูไม่ได้เป็นสิ่งมีชีวิตที่พอใจกับการหยุดนิ่งกับที่ ก็ในเมื่อ เราสามารถพัฒนาจนเอาชนะชะตาที่ธรรมชาติกำหนดมาได้ในระดับหนึ่ง มีเหตุผลอันใดที่เราจะไม่ไปต่อ พัฒนาสิ่งต่างๆ ต่อไปเรื่อย ๆ จนกลายมาเป็นผู้กำหนดชะตาธรรมชาติเสียเอง?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;จะเกิดอะไรขึ้น หากมนุษย์สามารถไปถึงจุดนั้นได้?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;หนังสือ Homo Deus จึงเป็นความพยายามอีกครั้งของ Harari ที่จะนำผู้อ่านออกเดินทางสู่โลกของความเป็นไปได้ในอนาคต  โดยอาศัยสิ่งที่เคยเกิดขึ้นในประวัติศาสตร์ อาศัยข้อมูลความก้าวหน้าด้านต่างๆ องค์ความรู้ทั้งศาสตร์และศิลป์ มาสังเคราะห์เป็นโลกแห่งความเป็นไปได้ในอนาคต  ให้ผู้อ่านได้ไตร่ตรอง พิจารณา&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;ผู้เขียน : Yuval Noah Harari.&lt;br /&gt;
+สำนักพิมพ์ : Vintage.&lt;br /&gt;
+จำนวนหน้า : 513 หน้า.&lt;br /&gt;
+Genre : Social Science.&lt;br /&gt;
+ISBN : 1784703931.&lt;br /&gt;
+พิมพ์ครั้งแรก : March 2015.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

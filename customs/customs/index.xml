@@ -1,66 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>การนำเข้า-ส่งออกสินค้า | ECS</title>
-    <link>https://ecs-support.github.io/KM/customs/customs/</link>
-      <atom:link href="https://ecs-support.github.io/KM/customs/customs/index.xml" rel="self" type="application/rss+xml" />
-    <description>การนำเข้า-ส่งออกสินค้า</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ECS@Support©2020</copyright><lastBuildDate>Tue, 12 May 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://ecs-support.github.io/KM/customs/images/logo_hu5e5145bc2b6e4e2490b1512c5085c727_5028_300x300_fit_lanczos_2.png</url>
+    <title>การปฏิบัติพิธีการศุลกากร on ECS</title>
+    <link>https://example.com/KM/customs/customs/</link>
+    <description>Recent content in การปฏิบัติพิธีการศุลกากร on ECS</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>ECS@Support&amp;copy;{year}</copyright>
+    
+	    <atom:link href="https://example.com/KM/customs/customs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
       <title>การนำเข้า-ส่งออกสินค้า</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/</link>
-    </image>
-    
-    <item>
-      <title>การปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า (Import)</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/direct_import/</link>
-      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/KM/customs/customs/direct_import/</guid>
-      <description>&lt;script&gt;
-   var files = &#39;../import/index.html&#39;
-   //document.location = files
-   location.replace(files)
-  &lt;/script&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>การปฏิบัติพิธีการศุลกากรสำหรับการส่งออก (Export)</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/direct_export/</link>
-      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/KM/customs/customs/direct_export/</guid>
-      <description>&lt;script&gt;
-   var files = &#39;../export/index.html&#39;
-   //document.location = files
-   location.replace(files)
-  &lt;/script&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>สิทธิประโยชน์ทางภาษีอากร</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/direct_incentive/</link>
-      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/KM/customs/customs/direct_incentive/</guid>
-      <description>&lt;script&gt;
-   var files = &#39;../tax-incentive/index.html&#39;
-   //document.location = files
-   location.replace(files)
-  &lt;/script&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>สิทธิพิเศษทางการค้า</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/direct_free_trade/</link>
-      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/KM/customs/customs/direct_free_trade/</guid>
-      <description>&lt;script&gt;
-   var files = &#39;../free-trade-area/index.html&#39;
-   //document.location = files
-   location.replace(files)
-  &lt;/script&gt;
+      <link>https://example.com/KM/customs/customs/import-export/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/KM/customs/customs/import-export/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;knowledge-center.png&#34; alt=&#34;Alternate text&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     

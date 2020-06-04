@@ -1,27 +1,96 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>การนำเข้าสินค้า (Import) | ECS</title>
-    <link>https://ecs-support.github.io/KM/customs/customs/import/</link>
-      <atom:link href="https://ecs-support.github.io/KM/customs/customs/import/index.xml" rel="self" type="application/rss+xml" />
-    <description>การนำเข้าสินค้า (Import)</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>ECS@Support©2020</copyright><lastBuildDate>Tue, 12 May 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://ecs-support.github.io/KM/customs/images/logo_hu5e5145bc2b6e4e2490b1512c5085c727_5028_300x300_fit_lanczos_2.png</url>
-      <title>การนำเข้าสินค้า (Import)</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/import/</link>
-    </image>
+    <title>การนำเข้าสินค้า (Import) on ECS</title>
+    <link>/KM/customs/customs/import/</link>
+    <description>Recent content in การนำเข้าสินค้า (Import) on ECS</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/KM/customs/customs/import/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>คู่มือการปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า (e-Import)</title>
+      <link>/KM/customs/customs/import/guide/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/KM/customs/customs/import/guide/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/cover/import-Customs-clearance-handbook.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;เน-อหา&#34;&gt;เนื้อหา&lt;/h2&gt;
+
+&lt;div class=&#34;alert alert-note_toc&#34;&gt;
+  &lt;div&gt;
+    &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;data-structure/&#34; target=&#34;_blank&#34;&gt;โครงสร้างข้อมูลใบขนสินค้า&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;calculate-cif/&#34; target=&#34;_blank&#34;&gt;การตรวจสอบผลการคำนวณมูลค่าเงิน&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;declaration-no/&#34; target=&#34;_blank&#34;&gt;รูปแบบเลขที่ใบขนสินค้า&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;type-ducument/&#34; target=&#34;_blank&#34;&gt;ประเภทของเอกสาร&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;contact-registration/&#34; target=&#34;_blank&#34;&gt;ระบบทะเบียนผู้มาติดต่อ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;arrival-date/&#34; target=&#34;_blank&#34;&gt;วันนำเข้า (Arrival Date)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;bill-of-loading-no/&#34; target=&#34;_blank&#34;&gt;เลขที่ใบตราส่ง (Bill of Lading)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;area/&#34; target=&#34;_blank&#34;&gt;รหัสสถานที่นำเข้า&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;shipping-marks/&#34; target=&#34;_blank&#34;&gt;Shipping Marks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;quantity-weight/&#34; target=&#34;_blank&#34;&gt;จำนวนและน้ำหนักของสินค้า&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;assessment-request-code/&#34; target=&#34;_blank&#34;&gt;ต้องการให้ตรวจสอบข้อมูลใบขนสินค้าขาเข้า&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;currency-code-exchange-rate/&#34; target=&#34;_blank&#34;&gt;รหัสสกุลเงินและอัตราแลกเปลี่ยน&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;merge-item/&#34; target=&#34;_blank&#34;&gt;หลักการรวมรายการสินค้า&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;cif-value/&#34; target=&#34;_blank&#34;&gt;ราคาของ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;incoterms/&#34; target=&#34;_blank&#34;&gt;INCOTERMS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;part-4/&#34; target=&#34;_blank&#34;&gt;ภาค 4 ของที่ได้รับยกเว้นอากร&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;tax-incentives/&#34; target=&#34;_blank&#34;&gt;สิทธิประโยชน์ทางภาษีอากร&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;guarantee-argumentative/&#34; target=&#34;_blank&#34;&gt;การขอวางประกันโต้แย้งพิกัดอัตราศุลกากร /การวางประกัน&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;guarantee-fuel-fund/&#34; target=&#34;_blank&#34;&gt;ขอวางประกันกองทุนน้ำมันเชื้อเพลิงและเงินกองทุนเพื่อส่งเสริมการอนุรักษ์พลังงาน&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;gurantee-anti-dumping/&#34; target=&#34;_blank&#34;&gt;ขอชำระหรือวางประกันอากรตอบโต้การทุ่มตลาดและการอุดหนุน&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;input-duty/&#34; target=&#34;_blank&#34;&gt;หลักการบันทึกค่าภาษีอากรและวางประกัน ในใบขนสินค้าขาเข้า&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;payment-method/&#34; target=&#34;_blank&#34;&gt;Payment Method and Guarantee Method Guideline&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;argumentative-reason-code/&#34; target=&#34;_blank&#34;&gt;รหัสเหตุผลการโต้แย้ง&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;type-duty/&#34; target=&#34;_blank&#34;&gt;ประเภทค่าภาษีอากร&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;permit-issue-authority/&#34; target=&#34;_blank&#34;&gt;หน่วยงานผู้ออกใบอนุญาต&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;checking-mainfest/&#34; target=&#34;_blank&#34;&gt;การตัดบัญชีใบขนสินค้ากับรายงานการนำของเข้า&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;privilege/&#34; target=&#34;_blank&#34;&gt;รหัสสิทธิพิเศษ ตามความตกลงระหว่างประเทศ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;คู่มือการปฏิบัติพิธีการศุลกากรทางอิเล็กทรอนิกส์ว่าด้วยกระบวนการทางศุลกากรสำหรับการนำเข้า    (e-Import) กำหนดขึ้นเพื่อประโยชน์ในการนำของเข้ามาในราชอาณาจักร ให้การปฏิบัติพิธีการศุลกากรสามารถกระทำโดยวิธีการทางอิเล็กทรอนิกส์ โดยให้ใช้บังคับเป็นการทั่วไปสำหรับการนำของเข้ามาในราชอาณาจักร
+ทางเรือ ทางรถไฟ ทางรถยนต์ คนเดินเข้ามา ทางเครื่องบิน  ทางไปรษณีย์ ทางท่อขนส่งทางบก ทางสายส่งไฟฟ้า ทางเรือที่เข้าออกด่านศุลกากรทางบก เรือเล็กทางทะเลที่เข้าออกด่านศุลกากรทางทะเล ทางผู้โดยสารนำพาขึ้นอากาศยาน&lt;/p&gt;
+
+&lt;p&gt;การนำของเข้ามาในราชอาณาจักร หมายถึง การนำของใด ๆ จากภายนอกราชอาณาจักรเข้ามา         ในราชอาณาจักรโดยการขนส่งทางเรือ ทางรถไฟ ทางรถยนต์ คนเดินเข้ามา ทางเครื่องบิน ทางไปรษณีย์
+ทางท่อขนส่งทางบก ทางสายส่งไฟฟ้า ทางเรือที่เข้าออกด่านศุลกากรทางบก เรือเล็กทางทะเลที่เข้าออกด่านศุลกากรทางทะเล ทางผู้โดยสารนำพาขึ้นอากาศยาน เป็นต้น&lt;/p&gt;
+
+&lt;p&gt;ในการปฏิบัติพิธีการศุลกากรหรือดำเนินการในกระบวนการทางศุลกากรกับของที่นำเข้ามาในราชอาณาจักรนั้น ให้ดำเนินการโดยวิธีการทางอิเล็กทรอนิกส์ ณ ด่านศุลกากรที่ระบุไว้ใน บัญชีสินค้าที่มีชื่อส่งของถึง&lt;/p&gt;
+
+&lt;p&gt;ในการปฏิบัติพิธีการหรือดำเนินการในกระบวนการทางศุลกากรกับของที่นำเข้ามาในราชอาณาจักรและจะขนเข้าเก็บในคลังสินค้าทัณฑ์บน หรือนำเข้าไปในเขตปลอดอากรและ/หรือนำเข้าไปในเขตประกอบการเสรี&lt;br /&gt;
+ให้ดำเนินการโดยวิธีการทางอิเล็กทรอนิกส์ ณ ด่านศุลกากรที่ระบุไว้ในบัญชีสินค้าที่มีชื่อส่งของถึง&lt;/p&gt;
+
+&lt;p&gt;หากเรื่องใดที่เป็นข้อปฏิบัติเฉพาะของหน่วยงานที่สำนัก/สำนักงานศุลกากรที่รับผิดชอบเสนอระเบียบปฏิบัติและขอความเห็นชอบจากกรมศุลกากร ให้กำหนดเพิ่มเติมเป็นการเฉพาะหรือแตกต่างไปจากที่กำหนด
+ในคู่มือฉบับนี้ ให้ถือปฏิบัติตามข้อปฎิบัติดังกล่าวนั้น&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/img/e-import_system.png&#34; alt=&#34;แผนภาพแสดงกระบวนการนำเข้าด้วยวิธีทางอิเล็กทรอนิกส์ (e-Import System)&#34; /&gt;
+แผนภาพแสดงกระบวนการนำเข้าด้วยวิธีทางอิเล็กทรอนิกส์ (e-Import System)&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;ที่มา&lt;/strong&gt; : &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14223132414d505f49464b49464b4a&#34; target=&#34;_blank&#34;&gt;ประกาศกรมศุลกากรที่ 133 / 2561 เรื่อง &lt;strong&gt;คู่มือการปฏิบัติพิธีการศุลกากร&amp;gt;ทางอิเล็กทรอนิกส์ว่าด้วยกระบวนการทางศุลกากรสำหรับการนำเข้า (e-Import)&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
     
     <item>
       <title>พิธีการการนำเข้าสินค้า (Import)</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/import/customs-clearance/</link>
+      <link>/KM/customs/customs/import/customs-clearance/</link>
       <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/KM/customs/customs/import/customs-clearance/</guid>
+      
+      <guid>/KM/customs/customs/import/customs-clearance/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/cover/import-Customs-clearance.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;เนื้อหา&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;เน-อหา&#34;&gt;เนื้อหา&lt;/h2&gt;
 
 &lt;div class=&#34;alert alert-note_toc&#34;&gt;
   &lt;div&gt;
@@ -33,7 +102,7 @@
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;h2 id=&#34;พ-ธ-การนำเข-าทางบก&#34;&gt;พิธีการนำเข้าทางบก&lt;/h2&gt;
+&lt;h2 id=&#34;พ-ธ-การศ-ลกากรนำของเข-าทางบก&#34;&gt;พิธีการศุลกากรนำของเข้าทางบก&lt;/h2&gt;
 
 &lt;h3 id=&#34;การรายงานยานพาหนะ&#34;&gt;การรายงานยานพาหนะ&lt;/h3&gt;
 
@@ -115,13 +184,13 @@
 &lt;/div&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา :  &lt;a href=&#34;http://www.customs.go.th/content_with_menu1.php?ini_menu=menu_business_160421_02&amp;amp;ini_content=business_160426_02_160426_01&amp;amp;lang=th&amp;amp;root_left_menu=menu_business_160421_02_160421_01&amp;amp;left_menu=menu_business_160421_02_160421_01_160914_01&#34;&gt;กรมศุลกากร&lt;/a&gt;.&lt;br /&gt;
+&lt;p&gt;ที่มา :  &lt;a href=&#34;http://www.customs.go.th/content_with_menu1.php?ini_menu=menu_business_160421_02&amp;amp;ini_content=business_160426_02_160426_01&amp;amp;lang=th&amp;amp;root_left_menu=menu_business_160421_02_160421_01&amp;amp;left_menu=menu_business_160421_02_160421_01_160914_01&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;.&lt;br /&gt;
 ปรับปรุงล่าสุด : 19 มีนาคม 2563&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;พ-ธ-การนำเข-าทางเร-อ&#34;&gt;พิธีการนำเข้าทางเรือ&lt;/h2&gt;
+&lt;h2 id=&#34;พ-ธ-การศ-ลกากรนำของเข-าทางเร-อ&#34;&gt;พิธีการศุลกากรนำของเข้าทางเรือ&lt;/h2&gt;
 
 &lt;p&gt;กรมศุลกากรได้พัฒนานำระบบอิเล็กทรอนิกส์ มาใช้ในการบริการผ่านพิธีการศุลกากรซึ่งปัจจุบันเรียกว่าระบบ TCS ผู้ประสงค์จะดำเนินการผ่านพิธีการศุลกากรทางอิเล็กทรอนิกส์จะต้องทำการลงทะเบียนกับกรมศุลกากร เพื่อบันทึกข้อมูลไว้ในฐานข้อมูลระบบคอมพิวเตอร์ของกรมศุลกากร ซึ่งผู้ที่ลงทะเบียนแล้วสามารถเข้าสู่ระบบการผ่านพิธีการศุลกากรทางคอมพิวเตอร์ของตนเองหรือผ่าน SERVICE COUNTER ของเอกชนหรือที่จุดให้บริการของกรมศุลกากร ณ จุดนำเข้า-ส่งออก&lt;/p&gt;
 
@@ -235,17 +304,17 @@
 &lt;/div&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา :  &lt;a href=&#34;http://www.customs.go.th/content_with_menu1.php?ini_menu=menu_business_160421_02&amp;amp;ini_content=business_160426_02_160914_02_160914_02&amp;amp;lang=th&amp;amp;root_left_menu=menu_business_160421_02_160421_02&amp;amp;left_menu=menu_business_160421_02_160421_02_160914_02&#34;&gt;กรมศุลกากร&lt;/a&gt;.&lt;br /&gt;
+&lt;p&gt;ที่มา :  &lt;a href=&#34;http://www.customs.go.th/content_with_menu1.php?ini_menu=menu_business_160421_02&amp;amp;ini_content=business_160426_02_160914_02_160914_02&amp;amp;lang=th&amp;amp;root_left_menu=menu_business_160421_02_160421_02&amp;amp;left_menu=menu_business_160421_02_160421_02_160914_02&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;.&lt;br /&gt;
 ปรับปรุงล่าสุด : 13 มิ.ย. 2560&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;hr /&gt;
 
-&lt;h2 id=&#34;พ-ธ-การนำเข-าทางอากาศ&#34;&gt;พิธีการนำเข้าทางอากาศ&lt;/h2&gt;
+&lt;h2 id=&#34;พ-ธ-การศ-ลกากรนำของเข-าทางอากาศ&#34;&gt;พิธีการศุลกากรนำของเข้าทางอากาศ&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://th.customs.go.th/content_with_menu1.php?ini_menu=menu_business_160421_02_160421_01&amp;amp;ini_content=business_160426_02_160914_01_160929_01_160929_01&amp;amp;left_menu=menu_business_160421_02_160421_01_160914_03&#34;&gt;การผ่านพิธีการศุลกากรนาเข้าในระบบอิเล็กทรอนิกส์แบบไร้เอกสาร (e-Import)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://th.customs.go.th/content_with_menu1.php?ini_menu=menu_business_160421_02_160421_01&amp;amp;ini_content=business_160426_02_160914_01_160929_01_160929_02&amp;amp;left_menu=menu_business_160421_02_160421_01_160914_03&#34;&gt;การรับของจากอารักขาศุลกากรในระบบ e-Import&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://th.customs.go.th/content_with_menu1.php?ini_menu=menu_business_160421_02_160421_01&amp;amp;ini_content=business_160426_02_160914_01_160929_01_160929_01&amp;amp;left_menu=menu_business_160421_02_160421_01_160914_03&#34; target=&#34;_blank&#34;&gt;การผ่านพิธีการศุลกากรนาเข้าในระบบอิเล็กทรอนิกส์แบบไร้เอกสาร (e-Import)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://th.customs.go.th/content_with_menu1.php?ini_menu=menu_business_160421_02_160421_01&amp;amp;ini_content=business_160426_02_160914_01_160929_01_160929_02&amp;amp;left_menu=menu_business_160421_02_160421_01_160914_03&#34; target=&#34;_blank&#34;&gt;การรับของจากอารักขาศุลกากรในระบบ e-Import&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;กระบวนการนำเข-า&#34;&gt;กระบวนการนำเข้า&lt;/h3&gt;
@@ -262,7 +331,7 @@
 &lt;/div&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/content_with_menu1.php?ini_menu=menu_business_160421_02&amp;amp;ini_content=business_160426_02_160914_01_160914_02&amp;amp;lang=th&amp;amp;root_left_menu=menu_business_160421_02_160421_01&amp;amp;left_menu=menu_business_160421_02_160421_01_160914_03&#34;&gt;กรมศุลกากร&lt;/a&gt;.&lt;br /&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/content_with_menu1.php?ini_menu=menu_business_160421_02&amp;amp;ini_content=business_160426_02_160914_01_160914_02&amp;amp;lang=th&amp;amp;root_left_menu=menu_business_160421_02_160421_01&amp;amp;left_menu=menu_business_160421_02_160421_01_160914_03&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;.&lt;br /&gt;
 ปรับปรุงล่าสุด : 15 มิ.ย. 2560&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
@@ -270,9 +339,10 @@
     
     <item>
       <title>คู่มือการปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า (e-Import)</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/import/direct_guide/</link>
+      <link>/KM/customs/customs/import/direct_guide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/KM/customs/customs/import/direct_guide/</guid>
+      
+      <guid>/KM/customs/customs/import/direct_guide/</guid>
       <description>&lt;script&gt;
    var files = &#39;../guide/index.html&#39;
    //document.location = files
@@ -283,9 +353,10 @@
     
     <item>
       <title>ภาษีสรรพสามิต</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/import/excise/</link>
+      <link>/KM/customs/customs/import/excise/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/KM/customs/customs/import/excise/</guid>
+      
+      <guid>/KM/customs/customs/import/excise/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LlVhH2uMzkQQNM73WMS%2F-LsZj7zJJapJJjs5Zg2J%2F-LsZjQ1QhWpRqEz35NyG%2Fexcise_logo.jpg?alt=media&amp;amp;token=c2a0d657-ef4c-45e7-8b22-3b2d4eee8cfd&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
@@ -332,12 +403,12 @@
 &lt;h2 id=&#34;กฎหมาย-ประกาศ-ท-สำค-ญ&#34;&gt;กฎหมาย / ประกาศ ที่สำคัญ&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.excise.go.th/cs/groups/public/documents/document/dwnt/mjcz/~edisp/uatucm273088.pdf&#34;&gt;พระราชบัญญัติภาษีสรรพสามิต พ.ศ. 2560&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.excise.go.th/cs/groups/public/documents/document/dwnt/mjk4/~edisp/uatucm298930.pdf&#34;&gt;คำอธิบายพระราชบัญญัติภาษีสรรพสามิต พ.ศ. 2560&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.excise.go.th/cs/groups/public/documents/document/dwnt/mjk4/~edisp/uatucm298729.pdf&#34;&gt;พระราชบัญญัติภาษีสรรพสามิต พ.ศ. 2560 (ภาษาอังกฤษ)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/ecs-support/knowledge-center/raw/master/data/exampt-price-retail.pdf&#34;&gt;หลักเกณฑ์ วิธีการ และเงื่อนไข ผ่อนผันการแจ้งราคาขายปลีกแนะนําและโครงสร้างราคาขายปลีกแนะนํา&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://th.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14223132414b505f46464b46464b46&#34;&gt;การปฏิบัติพิธีการศุลกากรนำเข้าทางอิเล็กทรอนิกส์สำหรับสินค้านำเข้าตามกฎหมายว่าด้วยภาษีสรรพสามิต&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://th.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14223132414b505f49464b46464b49&#34;&gt;การปฏิบัติพิธีการศุลกากรนำเข้าทางอิเล็กทรอนิกส์สำหรับสินค้านำเข้าที่กรมสรรพสามิตประกาศขยายกำหนดเวลาการปฏิบัติตามพระราชบัญญัติภาษีสรรพสามิต พ.ศ.2560&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.excise.go.th/cs/groups/public/documents/document/dwnt/mjcz/~edisp/uatucm273088.pdf&#34; target=&#34;_blank&#34;&gt;พระราชบัญญัติภาษีสรรพสามิต พ.ศ. 2560&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.excise.go.th/cs/groups/public/documents/document/dwnt/mjk4/~edisp/uatucm298930.pdf&#34; target=&#34;_blank&#34;&gt;คำอธิบายพระราชบัญญัติภาษีสรรพสามิต พ.ศ. 2560&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.excise.go.th/cs/groups/public/documents/document/dwnt/mjk4/~edisp/uatucm298729.pdf&#34; target=&#34;_blank&#34;&gt;พระราชบัญญัติภาษีสรรพสามิต พ.ศ. 2560 (ภาษาอังกฤษ)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ecs-support/knowledge-center/raw/master/data/exampt-price-retail.pdf&#34; target=&#34;_blank&#34;&gt;หลักเกณฑ์ วิธีการ และเงื่อนไข ผ่อนผันการแจ้งราคาขายปลีกแนะนําและโครงสร้างราคาขายปลีกแนะนํา&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://th.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14223132414b505f46464b46464b46&#34; target=&#34;_blank&#34;&gt;การปฏิบัติพิธีการศุลกากรนำเข้าทางอิเล็กทรอนิกส์สำหรับสินค้านำเข้าตามกฎหมายว่าด้วยภาษีสรรพสามิต&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://th.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14223132414b505f49464b46464b49&#34; target=&#34;_blank&#34;&gt;การปฏิบัติพิธีการศุลกากรนำเข้าทางอิเล็กทรอนิกส์สำหรับสินค้านำเข้าที่กรมสรรพสามิตประกาศขยายกำหนดเวลาการปฏิบัติตามพระราชบัญญัติภาษีสรรพสามิต พ.ศ.2560&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -357,87 +428,87 @@
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;ตอนที่ 1&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://edi.excise.go.th/form_search_by_product.php?product_code=0100&amp;amp;search=S&amp;amp;menu=2&#34;&gt;สินค้าน้ำมันและผลิตภัณฑ์น้ำมัน&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://edi.excise.go.th/form_search_by_product.php?product_code=0100&amp;amp;search=S&amp;amp;menu=2&#34; target=&#34;_blank&#34;&gt;สินค้าน้ำมันและผลิตภัณฑ์น้ำมัน&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;ตอนที่ 2&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://edi.excise.go.th/form_search_by_product.php?product_code=0200&amp;amp;search=S&amp;amp;menu=2&#34;&gt;สินค้าเครื่องดื่ม&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://edi.excise.go.th/form_search_by_product.php?product_code=0200&amp;amp;search=S&amp;amp;menu=2&#34; target=&#34;_blank&#34;&gt;สินค้าเครื่องดื่ม&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;ตอนที่ 3&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://edi.excise.go.th/form_search_by_product.php?product_code=0300&amp;amp;search=S&amp;amp;menu=2&#34;&gt;สินค้าเครื่องไฟฟ้า&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://edi.excise.go.th/form_search_by_product.php?product_code=0300&amp;amp;search=S&amp;amp;menu=2&#34; target=&#34;_blank&#34;&gt;สินค้าเครื่องไฟฟ้า&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;ตอนที่ 4&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://edi.excise.go.th/form_search_by_product.php?product_code=0400&amp;amp;search=S&amp;amp;menu=2&#34;&gt;สินค้าแบตเตอรี่&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://edi.excise.go.th/form_search_by_product.php?product_code=0400&amp;amp;search=S&amp;amp;menu=2&#34; target=&#34;_blank&#34;&gt;สินค้าแบตเตอรี่&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;ตอนที่ 5&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://edi.excise.go.th/form_search_by_product.php?product_code=0500&amp;amp;search=S&amp;amp;menu=2&#34;&gt;สินค้าแก้วและเครื่องแก้ว&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://edi.excise.go.th/form_search_by_product.php?product_code=0500&amp;amp;search=S&amp;amp;menu=2&#34; target=&#34;_blank&#34;&gt;สินค้าแก้วและเครื่องแก้ว&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;ตอนที่ 6&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://edi.excise.go.th/form_search_by_product.php?product_code=0600&amp;amp;search=S&amp;amp;menu=2&#34;&gt;สินค้ารถยนต์&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://edi.excise.go.th/form_search_by_product.php?product_code=0600&amp;amp;search=S&amp;amp;menu=2&#34; target=&#34;_blank&#34;&gt;สินค้ารถยนต์&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;ตอนที่ 7&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://edi.excise.go.th/form_search_by_product.php?product_code=0700&amp;amp;search=S&amp;amp;menu=2&#34;&gt;สินค้ารถจักรยานยนต์&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://edi.excise.go.th/form_search_by_product.php?product_code=0700&amp;amp;search=S&amp;amp;menu=2&#34; target=&#34;_blank&#34;&gt;สินค้ารถจักรยานยนต์&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;ตอนที่ 8&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://edi.excise.go.th/form_search_by_product.php?product_code=0800&amp;amp;search=S&amp;amp;menu=2&#34;&gt;สินค้าเรือ&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://edi.excise.go.th/form_search_by_product.php?product_code=0800&amp;amp;search=S&amp;amp;menu=2&#34; target=&#34;_blank&#34;&gt;สินค้าเรือ&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;ตอนที่ 9&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://edi.excise.go.th/form_search_by_product.php?product_code=0900&amp;amp;search=S&amp;amp;menu=2&#34;&gt;สินค้าผลิตภัณฑ์เครื่องหอมและเครื่องสำอาง&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://edi.excise.go.th/form_search_by_product.php?product_code=0900&amp;amp;search=S&amp;amp;menu=2&#34; target=&#34;_blank&#34;&gt;สินค้าผลิตภัณฑ์เครื่องหอมและเครื่องสำอาง&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;ตอนที่ 10&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://edi.excise.go.th/form_search_by_product.php?product_code=1000&amp;amp;search=S&amp;amp;menu=2&#34;&gt;สินค้าพรมและสิ่งทอปูพื้น&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://edi.excise.go.th/form_search_by_product.php?product_code=1000&amp;amp;search=S&amp;amp;menu=2&#34; target=&#34;_blank&#34;&gt;สินค้าพรมและสิ่งทอปูพื้น&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;ตอนที่ 11&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://edi.excise.go.th/form_search_by_product.php?product_code=1100&amp;amp;search=S&amp;amp;menu=2&#34;&gt;สินค้าหินอ่อนและหินแกรนิต&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://edi.excise.go.th/form_search_by_product.php?product_code=1100&amp;amp;search=S&amp;amp;menu=2&#34; target=&#34;_blank&#34;&gt;สินค้าหินอ่อนและหินแกรนิต&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;ตอนที่ 12&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://edi.excise.go.th/form_search_by_product.php?product_code=1200&amp;amp;search=S&amp;amp;menu=2&#34;&gt;สินค้าทำลายชั้นบรรยากาศโอโซน&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://edi.excise.go.th/form_search_by_product.php?product_code=1200&amp;amp;search=S&amp;amp;menu=2&#34; target=&#34;_blank&#34;&gt;สินค้าทำลายชั้นบรรยากาศโอโซน&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;ตอนที่ 13&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://edi.excise.go.th/form_search_by_product.php?product_code=1300&amp;amp;search=S&amp;amp;menu=2&#34;&gt;สินค้าสุรา&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://edi.excise.go.th/form_search_by_product.php?product_code=1300&amp;amp;search=S&amp;amp;menu=2&#34; target=&#34;_blank&#34;&gt;สินค้าสุรา&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;ตอนที่ 14&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://edi.excise.go.th/form_search_by_product.php?product_code=1400&amp;amp;search=S&amp;amp;menu=2&#34;&gt;สินค้ายาสูบ&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://edi.excise.go.th/form_search_by_product.php?product_code=1400&amp;amp;search=S&amp;amp;menu=2&#34; target=&#34;_blank&#34;&gt;สินค้ายาสูบ&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;ตอนที่ 15&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://edi.excise.go.th/form_search_by_product.php?product_code=1500&amp;amp;search=S&amp;amp;menu=2&#34;&gt;สินค้าไพ่&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://edi.excise.go.th/form_search_by_product.php?product_code=1500&amp;amp;search=S&amp;amp;menu=2&#34; target=&#34;_blank&#34;&gt;สินค้าไพ่&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;ตอนที่ 16&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://edi.excise.go.th/form_search_by_product.php?product_code=1600&amp;amp;search=S&amp;amp;menu=2&#34;&gt;สินค้าอื่่น ๆ&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://edi.excise.go.th/form_search_by_product.php?product_code=1600&amp;amp;search=S&amp;amp;menu=2&#34; target=&#34;_blank&#34;&gt;สินค้าอื่่น ๆ&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td align=&#34;center&#34;&gt;&lt;strong&gt;ALL&lt;/strong&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://edi.excise.go.th/form_search_by_product.php?product_code=&amp;amp;search=S&amp;amp;menu=2&#34;&gt;ค้นหาทั้งหมด&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://edi.excise.go.th/form_search_by_product.php?product_code=&amp;amp;search=S&amp;amp;menu=2&#34; target=&#34;_blank&#34;&gt;ค้นหาทั้งหมด&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -600,38 +671,38 @@
 &lt;h3 id=&#34;1-ส-นค-าน-ำม-นและผล-ตภ-ณฑ-น-ำม-น&#34;&gt;1. สินค้าน้ำมันและผลิตภัณฑ์น้ำมัน&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-64397603.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์และเงื่อนไข สำหรับน้ำมันแก๊สโซฮอลล์ และน้ำมันดีเซลที่มีไบโอดีเซลผสม&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-1013806151.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ และเงื่อนไขการเสียภาษีในอัตราศูนย์สำหรับน้ำมันเชื้อเพลิง เครื่องบินไอพ่นที่นำไปใช้เป็นเชื้อเพลิงสำหรับอากาศยานไปต่างประเทศ&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-621164961.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ และเงื่อนไขการเสียภาษีในอัตราศูนย์สำหรับน้ำมันดีเซล ที่นำไปจำหน่ายในเขตต่อเนื่องของราชอาณาจักร&lt;/a&gt;&lt;br /&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-64397603.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์และเงื่อนไข สำหรับน้ำมันแก๊สโซฮอลล์ และน้ำมันดีเซลที่มีไบโอดีเซลผสม&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-1013806151.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ และเงื่อนไขการเสียภาษีในอัตราศูนย์สำหรับน้ำมันเชื้อเพลิง เครื่องบินไอพ่นที่นำไปใช้เป็นเชื้อเพลิงสำหรับอากาศยานไปต่างประเทศ&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-621164961.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ และเงื่อนไขการเสียภาษีในอัตราศูนย์สำหรับน้ำมันดีเซล ที่นำไปจำหน่ายในเขตต่อเนื่องของราชอาณาจักร&lt;/a&gt;&lt;br /&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/101117-1251560780.pdf&#34;&gt;ระเบียบกรมสรรพสามิต ว่าด้วยหลักเกณฑ์ วิธีการ และเงื่อนไขในการเติมสาร Marker ในน้ำมันดีเซล พ.ศ. 2560&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/101117-1251560780.pdf&#34; target=&#34;_blank&#34;&gt;ระเบียบกรมสรรพสามิต ว่าด้วยหลักเกณฑ์ วิธีการ และเงื่อนไขในการเติมสาร Marker ในน้ำมันดีเซล พ.ศ. 2560&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-1319479529.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ และเงื่อนไขการเสียภาษีในอัตราศูนย์สำหรับน้ำมันดีเซลที่ใช้ เป็นเชื้อเพลิงในเรือเดินทางไปกลับ ในเขตพื้นที่พัฒนาร่วมไทย-มาเลเซีย&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-1706002442.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไข การเสียภาษีในอัตราศูนย์สำหรับ ก๊าซปิโตรเลียมเหลว (แอล.พี.จี.) ก๊าซโพรเพน และก๊าซที่คล้ายกันที่ใช้ในการผลิตกระแสไฟฟ้าและขายไฟฟ้าทั้งหมดให้แก่การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-1073268284.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์ วิธีการ และเงื่อนไข ในการใช้ผลิตภัณฑ์ที่เป็นของผสมปิทูเมนเป็นเชื้อเพลิง ในการผลิตกระแสไฟฟ้าและขายไฟฟ้าทั้งหมดให้แก่การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-1505108771.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดคุณสมบัติสารละลายประเภทไฮโดรคาร์บอน (Hydrocarbon Solvent) และน้ำมันหล่อลื่น และน้ำมันที่คล้ายกัน&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-1778344740.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไข การเสียภาษีในอัตราศูนย์สำหรับสารละลายประเภทไฮโดรคาร์บอน (Hydrocarbon Solvent) ที่นำไปใช้ในอุตสาหกรรมต่างๆ พ.ศ. 2560&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-1984125579.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดคุณสมบัติสำหรับน้ำมันหล่อลื่น และน้ำมันที่คล้ายกันที่ใช้แล้ว&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-1365928458.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์และเงื่อนไขการเสียภาษีในอัตราศูนย์สำหรับน้ำมันหล่อลื่นและน้ำมันที่คล้ายกัน ที่ผลิตจากน้ำมันหล่อลื่น และน้ำมันที่คล้ายกันที่ใช้แล้ว&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-1578495578.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์และเงื่อนไขการเสียภาษีในอัตราศูนย์สำหรับน้ำมันหล่อลื่นและน้ำมันที่คล้ายกัน ที่นำไปใช้เป็นวัตถุดิบในการผลิตสิ่งของอื่น&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-1073320007.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการเสียภาษีในอัตราศูนย์สำหรับน้ำมันและผลิตภัณฑ์น้ำมันที่ผลิตได้และนำไปใช้ในขบวนการผลิตภายในโรงอุตสาหกรรม&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-424170600.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการเสียภาษีในอัตราศูนย์สำหรับน้ำมันและผลิตภัณฑ์น้ำมันทีนำไปใช้เป็นวัตถุดิบหรือส่วนประกอบในการผลิตในโรงอุตสาหกรรมน้ำมันและผลิตภัณฑ์น้ำมัน&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-2078340251.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดเขตปลอดภาษีสรรพสามิต&lt;/a&gt;&lt;br /&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-1319479529.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ และเงื่อนไขการเสียภาษีในอัตราศูนย์สำหรับน้ำมันดีเซลที่ใช้ เป็นเชื้อเพลิงในเรือเดินทางไปกลับ ในเขตพื้นที่พัฒนาร่วมไทย-มาเลเซีย&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-1706002442.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไข การเสียภาษีในอัตราศูนย์สำหรับ ก๊าซปิโตรเลียมเหลว (แอล.พี.จี.) ก๊าซโพรเพน และก๊าซที่คล้ายกันที่ใช้ในการผลิตกระแสไฟฟ้าและขายไฟฟ้าทั้งหมดให้แก่การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-1073268284.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์ วิธีการ และเงื่อนไข ในการใช้ผลิตภัณฑ์ที่เป็นของผสมปิทูเมนเป็นเชื้อเพลิง ในการผลิตกระแสไฟฟ้าและขายไฟฟ้าทั้งหมดให้แก่การไฟฟ้าฝ่ายผลิตแห่งประเทศไทย&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-1505108771.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดคุณสมบัติสารละลายประเภทไฮโดรคาร์บอน (Hydrocarbon Solvent) และน้ำมันหล่อลื่น และน้ำมันที่คล้ายกัน&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-1778344740.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไข การเสียภาษีในอัตราศูนย์สำหรับสารละลายประเภทไฮโดรคาร์บอน (Hydrocarbon Solvent) ที่นำไปใช้ในอุตสาหกรรมต่างๆ พ.ศ. 2560&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-1984125579.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดคุณสมบัติสำหรับน้ำมันหล่อลื่น และน้ำมันที่คล้ายกันที่ใช้แล้ว&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-1365928458.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์และเงื่อนไขการเสียภาษีในอัตราศูนย์สำหรับน้ำมันหล่อลื่นและน้ำมันที่คล้ายกัน ที่ผลิตจากน้ำมันหล่อลื่น และน้ำมันที่คล้ายกันที่ใช้แล้ว&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-1578495578.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์และเงื่อนไขการเสียภาษีในอัตราศูนย์สำหรับน้ำมันหล่อลื่นและน้ำมันที่คล้ายกัน ที่นำไปใช้เป็นวัตถุดิบในการผลิตสิ่งของอื่น&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-1073320007.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการเสียภาษีในอัตราศูนย์สำหรับน้ำมันและผลิตภัณฑ์น้ำมันที่ผลิตได้และนำไปใช้ในขบวนการผลิตภายในโรงอุตสาหกรรม&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-424170600.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการเสียภาษีในอัตราศูนย์สำหรับน้ำมันและผลิตภัณฑ์น้ำมันทีนำไปใช้เป็นวัตถุดิบหรือส่วนประกอบในการผลิตในโรงอุตสาหกรรมน้ำมันและผลิตภัณฑ์น้ำมัน&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-2078340251.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดเขตปลอดภาษีสรรพสามิต&lt;/a&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;2-ส-นค-าเคร-องด-ม&#34;&gt;2.  สินค้าเครื่องดื่ม&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/021019-1231056962.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขในการตรวจวัดปริมาณน้ำตาล&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/021019-52921508.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการเสียภาษีในอัตราตามมูลค่าสำหรับเครื่องดื่มอื่น ๆ ที่มีการเติมสารอาหารหรือสารอื่น&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-970856128.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการเสียภาษีในอัตราตามมูลค่าร้อยละศูนย์ สำหรับเครื่องดื่มประเภทน้ำผลไม้และน้ำพืชผัก พ.ศ. 2560&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/140518-1741194973.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการเสียภาษีในอัตราตามมูลค่าร้อยละศูนย์ สำหรับเครื่องดื่มประเภทน้ำผลไม้และน้ำพืชผัก พ.ศ. 2560 (ฉบับที่ - &lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300618-1640852525.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการเสียภาษีในอัตราตามมูลค่าร้อยละศูนย์ สำหรับเครื่องดื่มประเภทน้ำผลไม้และน้ำพืชผัก พ.ศ. 2560 (ฉบับที่ - &lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/190219-289132111.PDF&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการเสียภาษีในอัตราตามมูลค่าร้อยละศูนย์สำหรับเครื่องดื่มประเภทน้ำผลไม้และน้ำพืชผัก&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/210819-571732270.PDF&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการเสียภาษีในอัตราตามมูลค่าร้อยละศูนย์สำหรับเครื่องดื่มประเภทน้ำผลไม้และน้ำพืชผัก (ฉบับที่ - &lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/021019-1550425083.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการเสียภาษีในอัตราตามมูลค่าสำหรับเครื่องดื่มประเภทน้ำผลไม้และน้ำพืชผักที่มีการเติมสารอาหารหรือสารอื่น&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/021019-1231056962.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขในการตรวจวัดปริมาณน้ำตาล&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/021019-52921508.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการเสียภาษีในอัตราตามมูลค่าสำหรับเครื่องดื่มอื่น ๆ ที่มีการเติมสารอาหารหรือสารอื่น&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-970856128.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการเสียภาษีในอัตราตามมูลค่าร้อยละศูนย์ สำหรับเครื่องดื่มประเภทน้ำผลไม้และน้ำพืชผัก พ.ศ. 2560&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/140518-1741194973.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการเสียภาษีในอัตราตามมูลค่าร้อยละศูนย์ สำหรับเครื่องดื่มประเภทน้ำผลไม้และน้ำพืชผัก พ.ศ. 2560 (ฉบับที่ - &lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300618-1640852525.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการเสียภาษีในอัตราตามมูลค่าร้อยละศูนย์ สำหรับเครื่องดื่มประเภทน้ำผลไม้และน้ำพืชผัก พ.ศ. 2560 (ฉบับที่ - &lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/190219-289132111.PDF&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการเสียภาษีในอัตราตามมูลค่าร้อยละศูนย์สำหรับเครื่องดื่มประเภทน้ำผลไม้และน้ำพืชผัก&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/210819-571732270.PDF&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการเสียภาษีในอัตราตามมูลค่าร้อยละศูนย์สำหรับเครื่องดื่มประเภทน้ำผลไม้และน้ำพืชผัก (ฉบับที่ - &lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/021019-1550425083.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการเสียภาษีในอัตราตามมูลค่าสำหรับเครื่องดื่มประเภทน้ำผลไม้และน้ำพืชผักที่มีการเติมสารอาหารหรือสารอื่น&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;3-ส-นค-าเคร-องใช-ไฟฟ-า&#34;&gt;3. สินค้าเครื่องใช้ไฟฟ้า&lt;/h3&gt;
@@ -639,7 +710,7 @@
 &lt;h3 id=&#34;4-ส-นค-าแบตเตอร&#34;&gt;4. สินค้าแบตเตอรี่&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/101117-623920129.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการเสียภาษีในอัตราศูนย์สำหรับแบตเตอรี่ที่ใช้เป็นวัตถุดิบ หรือส่วนประกอบในการผลิตสิ่งของอื่นเพื่อส่งออกไปนอกราชอาณาจักร พ.ศ. 2560&lt;/a&gt;&lt;br /&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/101117-623920129.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการเสียภาษีในอัตราศูนย์สำหรับแบตเตอรี่ที่ใช้เป็นวัตถุดิบ หรือส่วนประกอบในการผลิตสิ่งของอื่นเพื่อส่งออกไปนอกราชอาณาจักร พ.ศ. 2560&lt;/a&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -648,36 +719,36 @@
 &lt;h3 id=&#34;6-ส-นค-ารถยนต&#34;&gt;6. สินค้ารถยนต์&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/101117-33525987.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์ และเงื่อนไขของรถยนต์นั่ง&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/101117-2099342692.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์ เงื่อนไข และคุณลักษณะของรถยนต์นั่งกึ่งบรรทุก (Pick-up Passenger Vehicle : PPV)&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/101117-2081275503.PDF&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์ และเงื่อนไขของรถยนต์นั่งกึ่งบรรทุก (Pick-up Passenger Vehicle : PPV) และรถยนต์กระบะสี่ประตู (Double Cab) แบบผสมที่ใช้พลังงานเชื้อเพลิงและไฟฟ้า (Hybrid Electric Vehicle)&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/101117-157232955.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์ เงื่อนไข และคุณลักษณะของรถยนต์นั่งที่ผลิตจากรถยนต์กระบะหรือแชสซีส์และกระจกบังลมหน้า (Chassis with Windshield) ของรถยนต์กระบะหรือดัดแปลงมาจากรถยนต์กระบะ&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/290619-710768269.PDF&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์ เงื่อนไข และคุณลักษณะของรถยนต์นั่งที่ผลิตจากรถยนต์กระบะหรือแชสซีส์และกระจกบังลมหน้า (Chassis with Windshield) ของรถยนต์กระบะหรือดัดแปลงมาจากรถยนต์กระบะ (ฉบับที่ - &lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/101117-2124712688.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง คุณสมบัติของผู้ประกอบอุตสาหกรรมซึ่งนำรถยนต์กระบะหรือแชสซีส์และกระจกบังลมหน้า (Chassis with Windshield) ของรถยนต์กระบะมาผลิตหรือนำรถยนต์กระบะมาดัดแปลงเป็นรถยนต์นั่ง&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/081117-606639134.PDF&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง มาตรฐานความปลอดภัยประเภทระบบความปลอดภัยเชิงป้องกันก่อนเกิดเหตุ (Active Safety)&lt;/a&gt;&lt;br /&gt;
-(-  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/081117-1257654438.pdf&#34;&gt;คำสั่งกรมสรรพสามิต ที่ &lt;sup&gt;510&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2560&lt;/sub&gt; เรื่อง แนวทางปฏิบัติตามหลักเกณฑ์และเงื่อนไขของรถยนต์และมาตรฐานความปลอดภัยประเภทระบบความปลอดภัยเชิงป้องกันก่อนเกิดเหตุ (Active Safety)&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/101117-760766953.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์ เงื่อนไข และคุณลักษณะของรถยนต์โดยสารที่มีที่นั่งไม่เกิน 10 คน&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/101117-1986484241.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์และเงื่อนไขในการเสียภาษีอัตราศูนย์ของรถยนต์นั่งหรือรถยนต์โดยสารที่มีที่นั่งไม่เกิน 10 คน ที่ใช้เป็นรถพยาบาล&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/060120-1403104501.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขในการเสียภาษีอัตราศูนย์สำหรับรถยนต์ หรือรถจักรยานยนต์ต้นแบบที่นำไปวิจัย พัฒนา หรือทดสอบสมรรถนะ&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/060120-1403104501.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขในการเสียภาษีอัตราศูนย์สำหรับรถยนต์ หรือรถจักรยานยนต์ต้นแบบที่นำไปวิจัย พัฒนา หรือทดสอบสมรรถนะ&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/101117-999974365.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์ และเงื่อนไขของรถยนต์นั่งหรือรถยนต์โดยสารที่มีที่นั่งไม่เกิน 10 คน ประเภทประหยัดพลังงาน แบบผสมที่ใช้พลังงานเชื้อเพลิงและไฟฟ้า (Hybrid Electric Vehicle)&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/060120-1403104501.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขในการเสียภาษีอัตราศูนย์สำหรับรถยนต์ หรือรถจักรยานยนต์ต้นแบบที่นำไปวิจัย พัฒนา หรือทดสอบสมรรถนะ&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/140518-1695213149.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์ และเงื่อนไขของรถยนต์นั่งหรือรถยนต์โดยสารที่มีที่นั่งไม่เกิน 10 คน ประเภทประหยัดพลังงาน แบบผสมที่ใช้พลังงานเชื้อเพลิงและไฟฟ้า (Hybrid Electric Vehicle) (ฉบับที่ - &lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/140518-815564498.PDF&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์ และเงื่อนไข ของรถยนต์นั่งหรือรถยนต์โดยสารที่มีที่นั่งไม่เกิน 10 คน ประเภทประหยัดพลังงาน แบบผสมที่ใช้พลังงานเชื้อเพลิงและไฟฟ้า (Hybrid Electric Vehicle) และแบบพลังงานไฟฟ้า (Electric Powered Vehicle)&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/101117-1187920020.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์และเงื่อนไขของรถยนต์ประหยัดพลังงานมาตรฐานสากล&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/101117-815677217.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์ เงื่อนไข และคุณลักษณะของรถยนต์นั่งหรือรถยนต์โดยสารที่มีที่นั่งไม่เกิน 10 คน ประเภทใช้เชื้อเพลิงทดแทน&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/101117-711732025.PDF&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์ เงื่อนไข และคุณลักษณะของรถยนต์กระบะที่ออกแบบสำหรับให้มีน้ำหนักรถรวมน้ำหนักบรรทุกไม่เกิน 4,000 กิโลกรัม ที่ไม่มีพื้นที่ใส่สัมภาระด้านหลังที่นั่งคนขับ (No Cab)&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/101117-2066987979.PDF&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์ เงื่อนไข และคุณลักษณะของรถยนต์กระบะที่ออกแบบสำหรับให้มีน้ำหนักรถรวมน้ำหนักบรรทุกไม่เกิน 4,000 กิโลกรัม ที่มีพื้นที่ใส่สัมภาระด้านหลังที่นั่งคนขับ (Space Cab)&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/081117-1899359186.PDF&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์ เงื่อนไข และคุณลักษณะของรถยนต์กระบะสี่ประตู (Double Cab)&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-613964665.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์ และเงื่อนไขของรถยนต์กระบะที่ออกแบบสำหรับให้มีน้ำหนักรถรวมน้ำหนักบรรทุกไม่เกิน 4,000 กิโลกรัม ที่มีความจุของกระบอกสูบไม่เกิน 3,250 ลูกบาศก์เซนติเมตร&lt;/a&gt;&lt;br /&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/101117-33525987.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์ และเงื่อนไขของรถยนต์นั่ง&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/101117-2099342692.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์ เงื่อนไข และคุณลักษณะของรถยนต์นั่งกึ่งบรรทุก (Pick-up Passenger Vehicle : PPV)&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/101117-2081275503.PDF&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์ และเงื่อนไขของรถยนต์นั่งกึ่งบรรทุก (Pick-up Passenger Vehicle : PPV) และรถยนต์กระบะสี่ประตู (Double Cab) แบบผสมที่ใช้พลังงานเชื้อเพลิงและไฟฟ้า (Hybrid Electric Vehicle)&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/101117-157232955.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์ เงื่อนไข และคุณลักษณะของรถยนต์นั่งที่ผลิตจากรถยนต์กระบะหรือแชสซีส์และกระจกบังลมหน้า (Chassis with Windshield) ของรถยนต์กระบะหรือดัดแปลงมาจากรถยนต์กระบะ&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/290619-710768269.PDF&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์ เงื่อนไข และคุณลักษณะของรถยนต์นั่งที่ผลิตจากรถยนต์กระบะหรือแชสซีส์และกระจกบังลมหน้า (Chassis with Windshield) ของรถยนต์กระบะหรือดัดแปลงมาจากรถยนต์กระบะ (ฉบับที่ - &lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/101117-2124712688.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง คุณสมบัติของผู้ประกอบอุตสาหกรรมซึ่งนำรถยนต์กระบะหรือแชสซีส์และกระจกบังลมหน้า (Chassis with Windshield) ของรถยนต์กระบะมาผลิตหรือนำรถยนต์กระบะมาดัดแปลงเป็นรถยนต์นั่ง&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/081117-606639134.PDF&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง มาตรฐานความปลอดภัยประเภทระบบความปลอดภัยเชิงป้องกันก่อนเกิดเหตุ (Active Safety)&lt;/a&gt;&lt;br /&gt;
+(-  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/081117-1257654438.pdf&#34; target=&#34;_blank&#34;&gt;คำสั่งกรมสรรพสามิต ที่ &lt;sup&gt;510&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2560&lt;/sub&gt; เรื่อง แนวทางปฏิบัติตามหลักเกณฑ์และเงื่อนไขของรถยนต์และมาตรฐานความปลอดภัยประเภทระบบความปลอดภัยเชิงป้องกันก่อนเกิดเหตุ (Active Safety)&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/101117-760766953.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์ เงื่อนไข และคุณลักษณะของรถยนต์โดยสารที่มีที่นั่งไม่เกิน 10 คน&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/101117-1986484241.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์และเงื่อนไขในการเสียภาษีอัตราศูนย์ของรถยนต์นั่งหรือรถยนต์โดยสารที่มีที่นั่งไม่เกิน 10 คน ที่ใช้เป็นรถพยาบาล&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/060120-1403104501.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขในการเสียภาษีอัตราศูนย์สำหรับรถยนต์ หรือรถจักรยานยนต์ต้นแบบที่นำไปวิจัย พัฒนา หรือทดสอบสมรรถนะ&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/060120-1403104501.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขในการเสียภาษีอัตราศูนย์สำหรับรถยนต์ หรือรถจักรยานยนต์ต้นแบบที่นำไปวิจัย พัฒนา หรือทดสอบสมรรถนะ&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/101117-999974365.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์ และเงื่อนไขของรถยนต์นั่งหรือรถยนต์โดยสารที่มีที่นั่งไม่เกิน 10 คน ประเภทประหยัดพลังงาน แบบผสมที่ใช้พลังงานเชื้อเพลิงและไฟฟ้า (Hybrid Electric Vehicle)&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/060120-1403104501.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขในการเสียภาษีอัตราศูนย์สำหรับรถยนต์ หรือรถจักรยานยนต์ต้นแบบที่นำไปวิจัย พัฒนา หรือทดสอบสมรรถนะ&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/140518-1695213149.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์ และเงื่อนไขของรถยนต์นั่งหรือรถยนต์โดยสารที่มีที่นั่งไม่เกิน 10 คน ประเภทประหยัดพลังงาน แบบผสมที่ใช้พลังงานเชื้อเพลิงและไฟฟ้า (Hybrid Electric Vehicle) (ฉบับที่ - &lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/140518-815564498.PDF&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์ และเงื่อนไข ของรถยนต์นั่งหรือรถยนต์โดยสารที่มีที่นั่งไม่เกิน 10 คน ประเภทประหยัดพลังงาน แบบผสมที่ใช้พลังงานเชื้อเพลิงและไฟฟ้า (Hybrid Electric Vehicle) และแบบพลังงานไฟฟ้า (Electric Powered Vehicle)&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/101117-1187920020.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์และเงื่อนไขของรถยนต์ประหยัดพลังงานมาตรฐานสากล&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/101117-815677217.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์ เงื่อนไข และคุณลักษณะของรถยนต์นั่งหรือรถยนต์โดยสารที่มีที่นั่งไม่เกิน 10 คน ประเภทใช้เชื้อเพลิงทดแทน&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/101117-711732025.PDF&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์ เงื่อนไข และคุณลักษณะของรถยนต์กระบะที่ออกแบบสำหรับให้มีน้ำหนักรถรวมน้ำหนักบรรทุกไม่เกิน 4,000 กิโลกรัม ที่ไม่มีพื้นที่ใส่สัมภาระด้านหลังที่นั่งคนขับ (No Cab)&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/101117-2066987979.PDF&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์ เงื่อนไข และคุณลักษณะของรถยนต์กระบะที่ออกแบบสำหรับให้มีน้ำหนักรถรวมน้ำหนักบรรทุกไม่เกิน 4,000 กิโลกรัม ที่มีพื้นที่ใส่สัมภาระด้านหลังที่นั่งคนขับ (Space Cab)&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/081117-1899359186.PDF&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์ เงื่อนไข และคุณลักษณะของรถยนต์กระบะสี่ประตู (Double Cab)&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-613964665.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์ และเงื่อนไขของรถยนต์กระบะที่ออกแบบสำหรับให้มีน้ำหนักรถรวมน้ำหนักบรรทุกไม่เกิน 4,000 กิโลกรัม ที่มีความจุของกระบอกสูบไม่เกิน 3,250 ลูกบาศก์เซนติเมตร&lt;/a&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;7-ส-นค-ารถจ-กรยานยนต&#34;&gt;7. สินค้ารถจักรยานยนต์&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/060120-1327415295.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์ และเงื่อนไขของรถจักรยานยนต์แบบที่ใช้พลังงานเชื้อเพลิง หรือแบบผสมที่ใช้พลังงานเชื้อเพลิงและไฟฟ้า&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/060120-1403104501.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขในการเสียภาษีอัตราศูนย์สำหรับรถยนต์ หรือรถจักรยานยนต์ต้นแบบที่นำไปวิจัย พัฒนา หรือทดสอบสมรรถนะ&lt;/a&gt;&lt;br /&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/060120-1327415295.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดหลักเกณฑ์ และเงื่อนไขของรถจักรยานยนต์แบบที่ใช้พลังงานเชื้อเพลิง หรือแบบผสมที่ใช้พลังงานเชื้อเพลิงและไฟฟ้า&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/060120-1403104501.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขในการเสียภาษีอัตราศูนย์สำหรับรถยนต์ หรือรถจักรยานยนต์ต้นแบบที่นำไปวิจัย พัฒนา หรือทดสอบสมรรถนะ&lt;/a&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -694,19 +765,19 @@
 &lt;h3 id=&#34;13-ส-นค-าส-รา&#34;&gt;13. สินค้าสุรา&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-2141282688.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการขอใช้สิทธิในอัตราภาษีศูนย์สำหรับสุราสามทับที่นำไปใช้ในการอุตสาหกรรม&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-517902098.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการขอใช้สิทธิในอัตราภาษีศูนย์ สำหรับสุราสามทับที่นำไปใช้ในการแพทย์ เภสัชกรรมหรือวิทยาศาสตร์&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-562042323.PDF&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการขอใช้สิทธิในอัตราภาษีศูนย์ สำหรับสุราสามทับที่นำไปทำการแปลงสภาพ&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/060320-1625618563.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการขอใช้สิทธิ์เสียภาษีในอัตราภาษีศูนย์สำหรับสุราสามทับ ที่นำไปทำการแปลงสภาพ เพื่อใช้ในการผลิตผลิตภัณฑ์ทำความสะอาดมือ ที่มีแอลกอฮอล์เป็นส่วนประกอบที่มิได้ทำขึ้นเพื่อการจำหน่าย&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/100320-1660589229.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการขอใช้สิทธิเสียภาษีในอัตราภาษีศูนย์สำหรับสุราสามทับที่นำไปทำการแปลงสภาพ เพื่อใช้ในการผลิตผลิตภัณฑ์ทำความสะอาดมือที่มีแอลกอฮอล์เป็นส่วนประกอบเพื่อขาย&lt;/a&gt;&lt;br /&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-2141282688.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการขอใช้สิทธิในอัตราภาษีศูนย์สำหรับสุราสามทับที่นำไปใช้ในการอุตสาหกรรม&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-517902098.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการขอใช้สิทธิในอัตราภาษีศูนย์ สำหรับสุราสามทับที่นำไปใช้ในการแพทย์ เภสัชกรรมหรือวิทยาศาสตร์&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-562042323.PDF&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการขอใช้สิทธิในอัตราภาษีศูนย์ สำหรับสุราสามทับที่นำไปทำการแปลงสภาพ&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/060320-1625618563.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการขอใช้สิทธิ์เสียภาษีในอัตราภาษีศูนย์สำหรับสุราสามทับ ที่นำไปทำการแปลงสภาพ เพื่อใช้ในการผลิตผลิตภัณฑ์ทำความสะอาดมือ ที่มีแอลกอฮอล์เป็นส่วนประกอบที่มิได้ทำขึ้นเพื่อการจำหน่าย&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/100320-1660589229.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการขอใช้สิทธิเสียภาษีในอัตราภาษีศูนย์สำหรับสุราสามทับที่นำไปทำการแปลงสภาพ เพื่อใช้ในการผลิตผลิตภัณฑ์ทำความสะอาดมือที่มีแอลกอฮอล์เป็นส่วนประกอบเพื่อขาย&lt;/a&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;14-ส-นค-ายาส-บ&#34;&gt;14. สินค้ายาสูบ&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/161019-1168067642.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการเสียภาษีในอัตราศูนย์ สำหรับยาเส้นที่ผลิตเพื่อขายเป็นวัตถุดิบให้แก่ผู้ประกอบอุตสาหกรรมยาสูบ&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/261219-977219891.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการเสียภาษีสำหรับยาเส้นอื่นนอกจากยาเส้นที่ผลิตเพื่อขายเป็นวัตถุดิบให้แก่ผู้ประกอบอุตสาหกรรมยาสูบ ปริมาณไม่เกิน 12,000 กิโลกรัมต่อปี&lt;/a&gt;&lt;br /&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/161019-1168067642.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการเสียภาษีในอัตราศูนย์ สำหรับยาเส้นที่ผลิตเพื่อขายเป็นวัตถุดิบให้แก่ผู้ประกอบอุตสาหกรรมยาสูบ&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/261219-977219891.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการเสียภาษีสำหรับยาเส้นอื่นนอกจากยาเส้นที่ผลิตเพื่อขายเป็นวัตถุดิบให้แก่ผู้ประกอบอุตสาหกรรมยาสูบ ปริมาณไม่เกิน 12,000 กิโลกรัมต่อปี&lt;/a&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -715,15 +786,15 @@
 &lt;h3 id=&#34;16-ส-นค-าผล-ตภ-ณฑ-ท-ใช-เป-นเคร-องด-มท-ม-ล-กษณะผง-เกล-ด-หร-อเคร-องด-มเข-มข-น&#34;&gt;16. สินค้าผลิตภัณฑ์ที่ใช้เป็นเครื่องดื่มที่มีลักษณะผง เกล็ด หรือเครื่องดื่มเข้มข้น&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/080118-666432413.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขในการตรวจวัดปริมาณน้ำตาล สำหรับสินค้าประเภทผลิตภัณฑ์ที่ใช้เป็นเครื่องดื่มที่มีลักษณะผง เกล็ด หรือเครื่องดื่มเข้มข้นที่มีส่วนผสมของนํ้าตาลและสามารถละลายนํ้าได้ แต่ไม่รวมถึงผลิตภัณฑ์เสริมอาหารและผลิตภัณฑ์นมที่อยู่ในรูปแบบผง ตามกฎหมายว่าด้วยอาหาร&lt;/a&gt;&lt;br /&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/080118-666432413.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขในการตรวจวัดปริมาณน้ำตาล สำหรับสินค้าประเภทผลิตภัณฑ์ที่ใช้เป็นเครื่องดื่มที่มีลักษณะผง เกล็ด หรือเครื่องดื่มเข้มข้นที่มีส่วนผสมของนํ้าตาลและสามารถละลายนํ้าได้ แต่ไม่รวมถึงผลิตภัณฑ์เสริมอาหารและผลิตภัณฑ์นมที่อยู่ในรูปแบบผง ตามกฎหมายว่าด้วยอาหาร&lt;/a&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;17-ก-จการบ-นเท-งหร-อหย-อนใจ&#34;&gt;17. กิจการบันเทิงหรือหย่อนใจ&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-1828027788.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงือนไขสำหรับรายรับของสถานที่สำหรับดื่มกินและจัดให้มีการแสดงดนตรีหรือการแสดงอื่นใดเพื่อการบันเทิง&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-1927563022.pdf&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ และเงื่อนไขการเสียภาษีในอัตราศูนย์สำหรับสถานบริการ ประเภทอาบน้ำหรืออบตัว และนวด ในสถานบริหารเสริมความงามหรือเพื่อสุขภาพ&lt;/a&gt;&lt;br /&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-1828027788.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงือนไขสำหรับรายรับของสถานที่สำหรับดื่มกินและจัดให้มีการแสดงดนตรีหรือการแสดงอื่นใดเพื่อการบันเทิง&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/131117-1927563022.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ และเงื่อนไขการเสียภาษีในอัตราศูนย์สำหรับสถานบริการ ประเภทอาบน้ำหรืออบตัว และนวด ในสถานบริหารเสริมความงามหรือเพื่อสุขภาพ&lt;/a&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -734,7 +805,7 @@
 &lt;h3 id=&#34;20-ก-จการท-ได-ร-บอน-ญาตหร-อส-มปทานจากร-ฐ&#34;&gt;20. กิจการที่ได้รับอนุญาตหรือสัมปทานจากรัฐ&lt;/h3&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา :&lt;a href=&#34;http://w9.excise.go.th/law60/articles/post.php?ref=395&#34;&gt;กรมสรรพสามิต &lt;/a&gt;.
+&lt;p&gt;ที่มา :&lt;a href=&#34;http://w9.excise.go.th/law60/articles/post.php?ref=395&#34; target=&#34;_blank&#34;&gt;กรมสรรพสามิต &lt;/a&gt;.
 วันที่ปรับปรุงล่าสุด : 13 มีนาคม 2563&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -745,102 +816,102 @@
 &lt;h2 id=&#34;1-งานจดทะเบ-ยน&#34;&gt;1. งานจดทะเบียน&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;กระบวนงานที่ 1 &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-969641708.pdf&#34;&gt;การจดทะเบียน การเปลี่ยนแปลงข้อมูลที่จดทะเบียนแล้ว และการขอรับใบแทนใบทะเบียนสรรพสามิต&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 2 &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-718211358.pdf&#34;&gt;การขอย้าย/เลิก/โอน กิจการ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 1 &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-969641708.pdf&#34; target=&#34;_blank&#34;&gt;การจดทะเบียน การเปลี่ยนแปลงข้อมูลที่จดทะเบียนแล้ว และการขอรับใบแทนใบทะเบียนสรรพสามิต&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 2 &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-718211358.pdf&#34; target=&#34;_blank&#34;&gt;การขอย้าย/เลิก/โอน กิจการ&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;2-งานชำระภาษ&#34;&gt;2. งานชำระภาษี&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;กระบวนงานที่ 3 &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-777849351.pdf&#34;&gt;การขออนุญาตนำสินค้าออกหรือกลับคืนโรงอุตสาหกรรม คลังสินค้าทัณฑ์บน หรือสถานที่อื่น (มาตรา 26 (1)(2) มาตรา 50 วรรคสอง (1) และมาตรา 103 วรรคสอง)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 4 &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1583519563.pdf&#34;&gt;การขอนำรถยนต์ออกจากโรงอุตสาหกรรมหรือคลังสินค้าทัณฑ์บนเพื่อทดสอบประสิทธิภาพในระหว่างขั้นตอนการผลิต&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 5 &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1723281538.pdf&#34;&gt;การขออนุญาต การขอใบแทนใบอนุญาต และการขอเลิก สถานแสดงรถยนต์เพื่อขาย&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 6 &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-297949979.pdf&#34;&gt;การขอใบอนุญาตตั้ง ขอรับใบแทนใบอนุญาต ขอโอน และขอเลิกกิจการ คลังสินค้าทัณฑ์บน&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 7 &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-98150650.pdf&#34;&gt;การขอชำระภาษีสรรพสามิตกรณีดัดแปลงรถยนต์&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 8 &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1526677002.pdf&#34;&gt;การขอชำระภาษีภายในวันที่สิบห้าของเดือนถัดจากเดือนที่นำสินค้าออกจากโรงอุตสาหกรรมหรือคลังสินค้าทัณฑ์บนโดยมีหลักประกัน&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 3 &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-777849351.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตนำสินค้าออกหรือกลับคืนโรงอุตสาหกรรม คลังสินค้าทัณฑ์บน หรือสถานที่อื่น (มาตรา 26 (1)(2) มาตรา 50 วรรคสอง (1) และมาตรา 103 วรรคสอง)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 4 &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1583519563.pdf&#34; target=&#34;_blank&#34;&gt;การขอนำรถยนต์ออกจากโรงอุตสาหกรรมหรือคลังสินค้าทัณฑ์บนเพื่อทดสอบประสิทธิภาพในระหว่างขั้นตอนการผลิต&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 5 &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1723281538.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาต การขอใบแทนใบอนุญาต และการขอเลิก สถานแสดงรถยนต์เพื่อขาย&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 6 &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-297949979.pdf&#34; target=&#34;_blank&#34;&gt;การขอใบอนุญาตตั้ง ขอรับใบแทนใบอนุญาต ขอโอน และขอเลิกกิจการ คลังสินค้าทัณฑ์บน&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 7 &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-98150650.pdf&#34; target=&#34;_blank&#34;&gt;การขอชำระภาษีสรรพสามิตกรณีดัดแปลงรถยนต์&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 8 &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1526677002.pdf&#34; target=&#34;_blank&#34;&gt;การขอชำระภาษีภายในวันที่สิบห้าของเดือนถัดจากเดือนที่นำสินค้าออกจากโรงอุตสาหกรรมหรือคลังสินค้าทัณฑ์บนโดยมีหลักประกัน&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;3-งานค-น-ยกเว-น-และลดหย-อนภาษ&#34;&gt;3. งานคืน ยกเว้น และลดหย่อนภาษี&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;กระบวนงานที่ 9  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-585065006.pdf&#34;&gt;การขออนุมัติลดหย่อนภาษีสรรพสามิต&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 10  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1009734364.pdf&#34;&gt;การยกเว้นหรือคืนภาษีสำหรับสินค้าที่ส่งออกไปนอกราชอาณาจักรหรือนำเข้าไปในเขตปลอดอากร&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 11  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1073808954.pdf&#34;&gt;การยกเว้นภาษีสำหรับสินค้าที่นำไปเก็บไว้ ณ สถานที่เก็บสินค เพื่อรอการส่งออกไปนอกราชอาณาจักรหรือนำเข้าไปในเขตปลอดอากร ตามมาตรา 103 และการยกเว้นภาษีน้ำมันและผลิตภัณฑ์น้ำมันที่นำไปเก็บไว้ ณ สถานที่เก็บสินค้าเพื่อรอนำไปใช้เติมเรือไปต่างประเทศ ตามมาตรา 107 (4)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 12  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1890370662.pdf&#34;&gt;การขอยกเว้นภาษีสำหรับสินค้าที่นำไปใช้เป็นวัตถุดิบ หรือส่วนประกอบในการผลิตสินค้า&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 13  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-438363838.pdf&#34;&gt;การยกเว้นหรือคืนภาษีสำหรับสินค้าบริจาค ตามมาตรา 107 (1) และ (2)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 14  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-636411081.pdf&#34;&gt;การยกเว้นหรือคืนภาษีสำหรับสินค้าที่จำหน่ายให้แก่ผู้ได้รับเอกสิทธิ์ ตามมาตรา 107 (3)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 15  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1572167171.pdf&#34;&gt;การยกเว้นภาษีสำหรับสุรากลั่นชนิดเอทานอลที่นำไปใช้เป็นวัตถุดิบหรือส่วนประกอบในการผลิตน้ำมันเชื้อเพลิงเพื่อใช้เป็นเชื้อเพลิง&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 16  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1233522505.pdf&#34;&gt;การยกเว้นหรือคืนภาษีสำหรับน้ำมันและผลิตภัณฑ์น้ำมันที่เติมในอากาศยานหรือเรือที่มีขนาดเกินกว่าห้าร้อยตันกรอสส์ ตามมาตรา 107 (4)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 17  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-241591383.pdf&#34;&gt;การขอเสียภาษีในอัตราศูนย์สำหรับน้ำมันดีเซลที่นำไปจำหน่ายในเขตต่อเนื่องของราชอาณาจักร&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 18  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-2053733119.pdf&#34;&gt;การขอเสียภาษีในอัตราศูนย์สำหรับน้ำมันเชื้อเพลิงเครื่องบินไอพ่นที่นำไปใช้เป็นเชื้อเพลิงสำหรับอากาศยานไปต่างประเทศ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 19  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1349045127.pdf&#34;&gt;การขอเสียภาษีในอัตราศูนย์สำหรับน้ำมันและลิตภัณฑ์น้ำมันที่นำไปใช้เป็นวัตถุดิบหรือส่วนประกอบในการผลิตในโรงอุตสาหกรรมน้ำมันและผลิตภัณฑ์น้ำมัน&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 20  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1080646277.pdf&#34;&gt;การขอเสียภาษีอัตราศูนย์สำหรับรถยนต์นั่งหรือรถยนต์โดยสารที่มีที่นั่ง ไม่เกิน 10 คนที่ใช้เป็นรถพยาบาล&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 21  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-46881289.pdf&#34;&gt;การขอคืนภาษี สำหรับสินค้าที่พิสูจน์ได้ว่าเสียหายหรือเสื่อมคุณภาพจนใช้การไม่ได้&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 22  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-659469498.pdf&#34;&gt;การขออนุมัติเป็นผู้วิจัย พัฒนา หรือทดสอบสมรรถนะรถยนต์หรือรถจักรยานยนต์ตันแบบ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 23  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-2127877198.pdf&#34;&gt;การขอเสียภาษีอัตราศูนย์สำหรับรถยนต์หรือรถจักรยานยนต์ต้นแบบที่นำไปวิจัย พัฒนา หรือทดสอบสมรรถนะ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 24  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-627657632.pdf&#34;&gt;การขอทำลายรถยนต์หรือรถจักรยานยนต์ต้นแบบที่ใช้ในการวิจัย พัฒนา หรือทดสอบสมรรถนะ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 25  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-487726360.pdf&#34;&gt;การขออนุมัติสถานที่เก็บสินค้า&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 26  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1527478285.pdf&#34;&gt;การขอเสียภาษีในอัตราศูนย์สำหรับสินค้าน้ำมันหล่อลื่นและน้ำมันที่คล้ายกันของผู้ประกอบอุตสาหกรรมหรือผู้นำเข้าเพื่อนำไปใช้เป็นวัตถุดิบในการผลิตสิ่งของอื่น&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 27  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1130393082.pdf&#34;&gt;การขออนุญาตเป็นตัวแทนจำหน่ายน้ำมันหล่อลื่นหรือผู้ใช้น้ำมันหล่อลื่นซึ่งได้รับสิทธิเสียภาษีในอัตราศูนย์ที่นำไปใช้เป็นวัตถุดิบในการผลิตสิ่งของอื่น&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 28  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-495290069.pdf&#34;&gt;การขอเสียภาษีในอัตราศูนย์สำหรับผู้ประกอบอุตสาหกรรมหรือผู้นำเข้าสารละลายประเภทไฮโดรคาร์บอนเพื่อนำไปใช้ในอุตสาหกรรมต่าง ๆ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 29  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-2090568597.pdf&#34;&gt;การขออนุญาตเป็นตัวแทนในการซื้อสารละลายประเภทไฮโดรคาร์บอนเพื่อจำหน่ายหรือผู้ใช้สารละลายประเภทไฮโดรคาร์บอนซึ่งเสียภาษีในอัตราศูนย์ ที่นำไปใช้ในอุตสาหกรรมต่าง ๆ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 30  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-951738995.pdf&#34;&gt;การขอเสียภาษีในอัตราศูนย์สำหรับแบตเตอรี่ที่ใช้เป็นวัตถุดิบหรือส่วนประกอบในการผลิตสิ่งของอื่น เพื่อส่งออกนอกราชอาณาจักร&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 31  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1277978530.pdf&#34;&gt;การขอลงทะเบียนเป็นผู้ใช้แบตเตอรี่ที่เสียภาษีอัตราศูนย์สำหรับแบตเตอรี่ที่ใช้เป็นวัตถุดิบหรือส่วนประกอบในการผลิตสิ่งของอื่นเพื่อการส่งออกนอกราชอาณาจักร&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 9  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-585065006.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุมัติลดหย่อนภาษีสรรพสามิต&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 10  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1009734364.pdf&#34; target=&#34;_blank&#34;&gt;การยกเว้นหรือคืนภาษีสำหรับสินค้าที่ส่งออกไปนอกราชอาณาจักรหรือนำเข้าไปในเขตปลอดอากร&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 11  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1073808954.pdf&#34; target=&#34;_blank&#34;&gt;การยกเว้นภาษีสำหรับสินค้าที่นำไปเก็บไว้ ณ สถานที่เก็บสินค เพื่อรอการส่งออกไปนอกราชอาณาจักรหรือนำเข้าไปในเขตปลอดอากร ตามมาตรา 103 และการยกเว้นภาษีน้ำมันและผลิตภัณฑ์น้ำมันที่นำไปเก็บไว้ ณ สถานที่เก็บสินค้าเพื่อรอนำไปใช้เติมเรือไปต่างประเทศ ตามมาตรา 107 (4)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 12  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1890370662.pdf&#34; target=&#34;_blank&#34;&gt;การขอยกเว้นภาษีสำหรับสินค้าที่นำไปใช้เป็นวัตถุดิบ หรือส่วนประกอบในการผลิตสินค้า&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 13  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-438363838.pdf&#34; target=&#34;_blank&#34;&gt;การยกเว้นหรือคืนภาษีสำหรับสินค้าบริจาค ตามมาตรา 107 (1) และ (2)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 14  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-636411081.pdf&#34; target=&#34;_blank&#34;&gt;การยกเว้นหรือคืนภาษีสำหรับสินค้าที่จำหน่ายให้แก่ผู้ได้รับเอกสิทธิ์ ตามมาตรา 107 (3)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 15  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1572167171.pdf&#34; target=&#34;_blank&#34;&gt;การยกเว้นภาษีสำหรับสุรากลั่นชนิดเอทานอลที่นำไปใช้เป็นวัตถุดิบหรือส่วนประกอบในการผลิตน้ำมันเชื้อเพลิงเพื่อใช้เป็นเชื้อเพลิง&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 16  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1233522505.pdf&#34; target=&#34;_blank&#34;&gt;การยกเว้นหรือคืนภาษีสำหรับน้ำมันและผลิตภัณฑ์น้ำมันที่เติมในอากาศยานหรือเรือที่มีขนาดเกินกว่าห้าร้อยตันกรอสส์ ตามมาตรา 107 (4)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 17  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-241591383.pdf&#34; target=&#34;_blank&#34;&gt;การขอเสียภาษีในอัตราศูนย์สำหรับน้ำมันดีเซลที่นำไปจำหน่ายในเขตต่อเนื่องของราชอาณาจักร&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 18  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-2053733119.pdf&#34; target=&#34;_blank&#34;&gt;การขอเสียภาษีในอัตราศูนย์สำหรับน้ำมันเชื้อเพลิงเครื่องบินไอพ่นที่นำไปใช้เป็นเชื้อเพลิงสำหรับอากาศยานไปต่างประเทศ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 19  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1349045127.pdf&#34; target=&#34;_blank&#34;&gt;การขอเสียภาษีในอัตราศูนย์สำหรับน้ำมันและลิตภัณฑ์น้ำมันที่นำไปใช้เป็นวัตถุดิบหรือส่วนประกอบในการผลิตในโรงอุตสาหกรรมน้ำมันและผลิตภัณฑ์น้ำมัน&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 20  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1080646277.pdf&#34; target=&#34;_blank&#34;&gt;การขอเสียภาษีอัตราศูนย์สำหรับรถยนต์นั่งหรือรถยนต์โดยสารที่มีที่นั่ง ไม่เกิน 10 คนที่ใช้เป็นรถพยาบาล&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 21  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-46881289.pdf&#34; target=&#34;_blank&#34;&gt;การขอคืนภาษี สำหรับสินค้าที่พิสูจน์ได้ว่าเสียหายหรือเสื่อมคุณภาพจนใช้การไม่ได้&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 22  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-659469498.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุมัติเป็นผู้วิจัย พัฒนา หรือทดสอบสมรรถนะรถยนต์หรือรถจักรยานยนต์ตันแบบ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 23  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-2127877198.pdf&#34; target=&#34;_blank&#34;&gt;การขอเสียภาษีอัตราศูนย์สำหรับรถยนต์หรือรถจักรยานยนต์ต้นแบบที่นำไปวิจัย พัฒนา หรือทดสอบสมรรถนะ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 24  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-627657632.pdf&#34; target=&#34;_blank&#34;&gt;การขอทำลายรถยนต์หรือรถจักรยานยนต์ต้นแบบที่ใช้ในการวิจัย พัฒนา หรือทดสอบสมรรถนะ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 25  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-487726360.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุมัติสถานที่เก็บสินค้า&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 26  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1527478285.pdf&#34; target=&#34;_blank&#34;&gt;การขอเสียภาษีในอัตราศูนย์สำหรับสินค้าน้ำมันหล่อลื่นและน้ำมันที่คล้ายกันของผู้ประกอบอุตสาหกรรมหรือผู้นำเข้าเพื่อนำไปใช้เป็นวัตถุดิบในการผลิตสิ่งของอื่น&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 27  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1130393082.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตเป็นตัวแทนจำหน่ายน้ำมันหล่อลื่นหรือผู้ใช้น้ำมันหล่อลื่นซึ่งได้รับสิทธิเสียภาษีในอัตราศูนย์ที่นำไปใช้เป็นวัตถุดิบในการผลิตสิ่งของอื่น&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 28  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-495290069.pdf&#34; target=&#34;_blank&#34;&gt;การขอเสียภาษีในอัตราศูนย์สำหรับผู้ประกอบอุตสาหกรรมหรือผู้นำเข้าสารละลายประเภทไฮโดรคาร์บอนเพื่อนำไปใช้ในอุตสาหกรรมต่าง ๆ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 29  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-2090568597.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตเป็นตัวแทนในการซื้อสารละลายประเภทไฮโดรคาร์บอนเพื่อจำหน่ายหรือผู้ใช้สารละลายประเภทไฮโดรคาร์บอนซึ่งเสียภาษีในอัตราศูนย์ ที่นำไปใช้ในอุตสาหกรรมต่าง ๆ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 30  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-951738995.pdf&#34; target=&#34;_blank&#34;&gt;การขอเสียภาษีในอัตราศูนย์สำหรับแบตเตอรี่ที่ใช้เป็นวัตถุดิบหรือส่วนประกอบในการผลิตสิ่งของอื่น เพื่อส่งออกนอกราชอาณาจักร&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 31  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1277978530.pdf&#34; target=&#34;_blank&#34;&gt;การขอลงทะเบียนเป็นผู้ใช้แบตเตอรี่ที่เสียภาษีอัตราศูนย์สำหรับแบตเตอรี่ที่ใช้เป็นวัตถุดิบหรือส่วนประกอบในการผลิตสิ่งของอื่นเพื่อการส่งออกนอกราชอาณาจักร&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;4-งานการควบค-มการชำระภาษ&#34;&gt;4. งานการควบคุมการชำระภาษี&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;กระบวนงานที่ 32  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-925837254.pdf&#34;&gt;การขอรับแสตมป์สรรพสามิตสำหรับเครื่องดื่ม&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 33  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1058028848.pdf&#34;&gt;การขอรับแสตมป์สรรพสามิตสำหรับสุราที่ผลิตในราชอาณาจักร (สุราแช่ชุมชนและสุรากลั่นชุมชน)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 34  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1225822585.pdf&#34;&gt;การขอรับแสตมป์สรรพสามิตสำหรับสุราที่ผลิตในราชอาณาจักรอื่น (นอกจากสุราแช่ชุมชนและสุรากลั่นชุมชน)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 35  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1957596146.pdf&#34;&gt;การขอรับแสตมป์สรรพสามิตสำหรับสินค้าสุราที่นำเข้ามาในราชอาณาจักรเพื่อขาย&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 36  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-515742982.pdf&#34;&gt;การขอรับแสตมป์สรรพสามิตสำหรับยาสูบที่ผลิตในราชอาณาจักร&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 37  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-169262239.pdf&#34;&gt;การขอรับแสตมป์สรรพสามิตสำหรับยาสูบที่นำเข้ามาในราชอาณาจักร&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 38  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-865559071.pdf&#34;&gt;การขอรับเครื่องหมายแสดงการเสียภาษีของทางราชการสำหรับไพ่&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 39  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-562015013.pdf&#34;&gt;การขออนุญาตนำแสตมป์สรรพสามิตไปปิดภาชนะบรรจุเครื่องดื่มนอกราชอาณาจักรหรือในเขตปลอดอากรที่นำเข้ามาในราชอาณาจักร&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 40  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-744677864.pdf&#34;&gt;การขออนุญาตรับแสตมป์สรรพสามิตไปปิดที่โรงงานผลิตสุราในต่างประเทศ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 41  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-128090429.pdf&#34;&gt;การขออนุญาตรับแสตมป์สรรพสามิตไปปิดที่โรงงานผู้ผลิตยาสูบในต่างประเทศ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 42  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1008551734.pdf&#34;&gt;การขอจดทะเบียนเครื่องหมายแสดงการเสียภาษี&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 43  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-513241488.pdf&#34;&gt;การขออนุญาตผลิตเครื่องหมายแสดงการเสียภาษีจดทะเบียน&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 44  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1512034551.pdf&#34;&gt;การขอต่ออายุใบอนุญาตผลิตเครื่องหมายแสดงการเสียภาษีจดทะเบียน&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 45  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-780056556.pdf&#34;&gt;การขออนุญาตนำเครื่องหมายแสดงการเสียภาษีจดทะเบียนเข้ามาในราชอาณาจักร&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 46  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-488615704.pdf&#34;&gt;การขอซื้อและขอขนเครื่องหมายแสดงการเสียภาษีจดทะเบียน&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 47  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1227025873.pdf&#34;&gt;การขอเลิกใช้เครื่องหมายแสดงการเสียภาษีจดทะเบียน&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 48  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-2137142765.pdf&#34;&gt;การแก้ไขเปลี่ยนแปลงโรงงานผลิตเครื่องหมายแสดงการเสียภาษีจดทะเบียน&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 32  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-925837254.pdf&#34; target=&#34;_blank&#34;&gt;การขอรับแสตมป์สรรพสามิตสำหรับเครื่องดื่ม&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 33  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1058028848.pdf&#34; target=&#34;_blank&#34;&gt;การขอรับแสตมป์สรรพสามิตสำหรับสุราที่ผลิตในราชอาณาจักร (สุราแช่ชุมชนและสุรากลั่นชุมชน)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 34  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1225822585.pdf&#34; target=&#34;_blank&#34;&gt;การขอรับแสตมป์สรรพสามิตสำหรับสุราที่ผลิตในราชอาณาจักรอื่น (นอกจากสุราแช่ชุมชนและสุรากลั่นชุมชน)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 35  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1957596146.pdf&#34; target=&#34;_blank&#34;&gt;การขอรับแสตมป์สรรพสามิตสำหรับสินค้าสุราที่นำเข้ามาในราชอาณาจักรเพื่อขาย&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 36  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-515742982.pdf&#34; target=&#34;_blank&#34;&gt;การขอรับแสตมป์สรรพสามิตสำหรับยาสูบที่ผลิตในราชอาณาจักร&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 37  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-169262239.pdf&#34; target=&#34;_blank&#34;&gt;การขอรับแสตมป์สรรพสามิตสำหรับยาสูบที่นำเข้ามาในราชอาณาจักร&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 38  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-865559071.pdf&#34; target=&#34;_blank&#34;&gt;การขอรับเครื่องหมายแสดงการเสียภาษีของทางราชการสำหรับไพ่&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 39  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-562015013.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตนำแสตมป์สรรพสามิตไปปิดภาชนะบรรจุเครื่องดื่มนอกราชอาณาจักรหรือในเขตปลอดอากรที่นำเข้ามาในราชอาณาจักร&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 40  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-744677864.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตรับแสตมป์สรรพสามิตไปปิดที่โรงงานผลิตสุราในต่างประเทศ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 41  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-128090429.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตรับแสตมป์สรรพสามิตไปปิดที่โรงงานผู้ผลิตยาสูบในต่างประเทศ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 42  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1008551734.pdf&#34; target=&#34;_blank&#34;&gt;การขอจดทะเบียนเครื่องหมายแสดงการเสียภาษี&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 43  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-513241488.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตผลิตเครื่องหมายแสดงการเสียภาษีจดทะเบียน&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 44  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1512034551.pdf&#34; target=&#34;_blank&#34;&gt;การขอต่ออายุใบอนุญาตผลิตเครื่องหมายแสดงการเสียภาษีจดทะเบียน&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 45  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-780056556.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตนำเครื่องหมายแสดงการเสียภาษีจดทะเบียนเข้ามาในราชอาณาจักร&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 46  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-488615704.pdf&#34; target=&#34;_blank&#34;&gt;การขอซื้อและขอขนเครื่องหมายแสดงการเสียภาษีจดทะเบียน&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 47  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1227025873.pdf&#34; target=&#34;_blank&#34;&gt;การขอเลิกใช้เครื่องหมายแสดงการเสียภาษีจดทะเบียน&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 48  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-2137142765.pdf&#34; target=&#34;_blank&#34;&gt;การแก้ไขเปลี่ยนแปลงโรงงานผลิตเครื่องหมายแสดงการเสียภาษีจดทะเบียน&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;5-งานการทำบ-ญช-และงบเด-อน&#34;&gt;5. งานการทำบัญชี และงบเดือน&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;กระบวนงานที่ 49  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1426633757.pdf&#34;&gt;การขออนุญาตทำบัญชีประจำวัน บัญชีรับจ่ายสินค้าที่ และงบเดือน โดยใช้วิธีการอื่นใด และการอนุญาตให้ยื่นทางสื่ออิเล็กทรอนิกส์&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 50  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-800251416.pdf&#34;&gt;การขอใช้เครื่องบันทึกการเก็บเงิน ออกหลักฐานการรับเงิน&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 49  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1426633757.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตทำบัญชีประจำวัน บัญชีรับจ่ายสินค้าที่ และงบเดือน โดยใช้วิธีการอื่นใด และการอนุญาตให้ยื่นทางสื่ออิเล็กทรอนิกส์&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 50  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-800251416.pdf&#34; target=&#34;_blank&#34;&gt;การขอใช้เครื่องบันทึกการเก็บเงิน ออกหลักฐานการรับเงิน&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;6-งานใบอน-ญาตขาย-ผล-ต-นำเข-า-ส-งออก&#34;&gt;6. งานใบอนุญาตขาย ผลิต นำเข้า/ส่งออก&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;กระบวนงานที่ 51  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1223606306.pdf&#34;&gt;การขออนุญาตขายสุรา ยาสูบ และไพ่ ต่อเนื่อง&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 52  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-144124489.pdf&#34;&gt;การขออนุญาตนำสุราเข้ามาในราชอาณาจักร&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 53  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-171669810.pdf&#34;&gt;การขออนุญาตเปลี่ยนแปลงประเภทใบอนุญาตนำเข้าสุรา&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 54  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-838033226.pdf&#34;&gt;การขอใช้ฉลากปิดภาชนะบรรจุสุราที่จะนำเข้ามาในราชอาณาจักร&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 55  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1916897632.pdf&#34;&gt;การขออนุญาตขายสุรา (สำหรับรายใหม่)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 56  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-138548478.pdf&#34;&gt;การขออนุญาตผลิตสุราทุกชนิด (ยกเว้นสุราแช่ชุมชนและสุรากลั่นชุมชน)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 57  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1079500837.pdf&#34;&gt;การขออนุญาตผลิตสุราชุมชน&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 58  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1382857536.pdf&#34;&gt;การส่งตัวอย่างสุราเพื่อตรวจวิเคราะห์คุณภาพ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 59  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-16483140.pdf&#34;&gt;การขออนุญาตทำการเพาะปลูกตันยาสูบ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 60  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1785534030.pdf&#34;&gt;การขออนุญาตซื้อใบยาแห้ง&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 61  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1167401529.pdf&#34;&gt;การขออนุญาตนำใบยา ยาอัด เข้ามาในราชอาณาจักร หรือการขออนุญาตส่งใบยา ยาอัด ออกไปนอกราชอาณาจักร&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 62  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1183064568.pdf&#34;&gt;การขออนุญาตขายยาสูบ (สำหรับรายใหม่)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 63  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1084148997.pdf&#34;&gt;การขออนุญาตผลิตยาสูบ (ยกเว้นบุหรี่ซิกาแรต)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 64  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-693562389.pdf&#34;&gt;การขออนุญาตนำยาสูบเข้ามาในราชอาณาจักร หรือการขออนุญาตส่งยาสูบออกไปนอกราชอาณาจักร&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;กระบวนงานที่ 65  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-396150928.pdf&#34;&gt;การขออนุญาตขายไพ่ (สำหรับรายใหม่)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 51  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1223606306.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตขายสุรา ยาสูบ และไพ่ ต่อเนื่อง&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 52  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-144124489.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตนำสุราเข้ามาในราชอาณาจักร&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 53  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-171669810.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตเปลี่ยนแปลงประเภทใบอนุญาตนำเข้าสุรา&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 54  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-838033226.pdf&#34; target=&#34;_blank&#34;&gt;การขอใช้ฉลากปิดภาชนะบรรจุสุราที่จะนำเข้ามาในราชอาณาจักร&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 55  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1916897632.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตขายสุรา (สำหรับรายใหม่)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 56  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-138548478.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตผลิตสุราทุกชนิด (ยกเว้นสุราแช่ชุมชนและสุรากลั่นชุมชน)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 57  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1079500837.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตผลิตสุราชุมชน&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 58  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1382857536.pdf&#34; target=&#34;_blank&#34;&gt;การส่งตัวอย่างสุราเพื่อตรวจวิเคราะห์คุณภาพ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 59  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-16483140.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตทำการเพาะปลูกตันยาสูบ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 60  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1785534030.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตซื้อใบยาแห้ง&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 61  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1167401529.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตนำใบยา ยาอัด เข้ามาในราชอาณาจักร หรือการขออนุญาตส่งใบยา ยาอัด ออกไปนอกราชอาณาจักร&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 62  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1183064568.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตขายยาสูบ (สำหรับรายใหม่)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 63  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1084148997.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตผลิตยาสูบ (ยกเว้นบุหรี่ซิกาแรต)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 64  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-693562389.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตนำยาสูบเข้ามาในราชอาณาจักร หรือการขออนุญาตส่งยาสูบออกไปนอกราชอาณาจักร&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 65  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-396150928.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตขายไพ่ (สำหรับรายใหม่)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;หมายเหตุ&lt;/strong&gt;:- คู่มือสำหรับประชาชนของกรมสรรพสามิต ตามพระราชบัญญัติภาษีสรรพสามิต พ.ศ. 2560 (&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/140220-168812472.pdf&#34;&gt; ภาพรวมกระบวนงานตามประเภทสินค้า &lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;หมายเหตุ&lt;/strong&gt;:- คู่มือสำหรับประชาชนของกรมสรรพสามิต ตามพระราชบัญญัติภาษีสรรพสามิต พ.ศ. 2560 (&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/140220-168812472.pdf&#34; target=&#34;_blank&#34;&gt; ภาพรวมกระบวนงานตามประเภทสินค้า &lt;/a&gt;)&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา :&lt;a href=&#34;http://w9.excise.go.th/law60/articles/post.php?ref=714&#34;&gt;กรมสรรพสามิต &lt;/a&gt;.&lt;br /&gt;
+&lt;p&gt;ที่มา :&lt;a href=&#34;http://w9.excise.go.th/law60/articles/post.php?ref=714&#34; target=&#34;_blank&#34;&gt;กรมสรรพสามิต &lt;/a&gt;.&lt;br /&gt;
 วันที่ปรับปรุงล่าสุด : 13 มีนาคม 2563&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
@@ -848,9 +919,10 @@
     
     <item>
       <title>มาตรการปกป้องและตอบโต้ทางการค้า</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/import/trade-protection/</link>
+      <link>/KM/customs/customs/import/trade-protection/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/KM/customs/customs/import/trade-protection/</guid>
+      
+      <guid>/KM/customs/customs/import/trade-protection/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/trade-protection.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;การค้าเป็นสิ่งคัญที่ทุกประเทศจะนำมาใช้ในการพัฒนาประเทศให้เจริญรุ่งเรือง และเป็นกลไก สำคัญที่จะพัฒนาประเทศ แต่เนื่องจากการผลิตสินค้าในประเทศนั้น อาจมีค่าแรงสูงและกระบวนการผลิตที่ทำให้สินค้ามีราคาสูงจึงเป็นเรื่องปกติที่คนในประเทศจะใช้สินค้านำเข้าราคาถูกจากประเทศอื่น เช่น จีน หรือเวียดนาม ที่มีค่าแรงขั้นต่ำราคาถูก ที่มาโจมตีสินค้าภายในประเทศได้ กรณีนี้จึงต้องมีมาตรการป้องกันเศรษฐกิจและสินค้าภายในประเทศตนเอง เพื่อให้คนในประเทศหันมาอุดหนุนสินค้าของประเทศตนเอง โดยองค์การการค้าโลกได้มีวิธีที่จะให้ประเทศสมาชิกใช้มาตรการต่าง ๆ เพื่อป้องกันการทุ่มตลาดจากประเทศอื่น ๆ ได้เช่น  มาตรการตอบโต้การทุ่มตลาด (Anti-dumping: AD) และมาตรการตอบโต้การอุดหนุน (Countervailing Duty: CVD), มาตรการสนับสนุนของรัฐ รวมทั้งใช้เป็นมาตรการทางการค้า ที่ประเทศผู้นำเข้าใช้เพื่อปกป้องอุตสาหกรรมภายในที่ได้รับความเสียหาย หรือมีแนวโน้มที่จะได้รับความเสียหาย อันเกิดจากการนำเข้าสินค้าจากต่างประเทศที่ไม่เป็นธรรม มีรายละเอียดของมาตรการต่าง ๆ ดังนี้&lt;/p&gt;
@@ -912,9 +984,9 @@
 &lt;h2 id=&#34;สร-ปสถานะมาตรการ-ad&#34;&gt;สรุปสถานะมาตรการ AD&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/th/measure_info/ad/defend&#34;&gt;รายการสินค้า สินค้าที่ไทยถูกใช้มาตรการ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/th/measure_info/ad/investigate&#34;&gt;รายการสินค้า สินค้าที่ไทยใช้มาตรการ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/Q0MjRqdxGtqjPqmMxwsCGa8MCi5hTbFWnVmpHIfm.pdf&#34;&gt;คู่มือสนทนาตอบโต้การทุ่มตลาด&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/th/measure_info/ad/defend&#34; target=&#34;_blank&#34;&gt;รายการสินค้า สินค้าที่ไทยถูกใช้มาตรการ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/th/measure_info/ad/investigate&#34; target=&#34;_blank&#34;&gt;รายการสินค้า สินค้าที่ไทยใช้มาตรการ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/Q0MjRqdxGtqjPqmMxwsCGa8MCi5hTbFWnVmpHIfm.pdf&#34; target=&#34;_blank&#34;&gt;คู่มือสนทนาตอบโต้การทุ่มตลาด&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;ข-อกฎหมาย&#34;&gt;ข้อกฎหมาย&lt;/h2&gt;
@@ -922,41 +994,41 @@
 &lt;h3 id=&#34;wto&#34;&gt;WTO&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/MCzmEDTdD7jILJukvRmJXzGhFYgFpxmYUBnuqotF.pdf&#34;&gt;AGREEMENT ON IMPLEMENTATION OF ARTICLE VI OF THE GENERAL AGREEMENT ON TARIFFS AND TRADE 1994&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/MCzmEDTdD7jILJukvRmJXzGhFYgFpxmYUBnuqotF.pdf&#34; target=&#34;_blank&#34;&gt;AGREEMENT ON IMPLEMENTATION OF ARTICLE VI OF THE GENERAL AGREEMENT ON TARIFFS AND TRADE 1994&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;พระราชบ-ญญ-ต&#34;&gt;พระราชบัญญัติ&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/eGzGKQL5bahL1jSrvLn6LPmJH76Wjw0EyuMxrksI.pdf&#34;&gt;The Anti- Dumping and Countervailing Act B.E.2542 (Unofficial Translation)&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/HTXEDZVOnhvnVh0GRrR5gGqPJ8bplCXqo7XJbjkW.pdf&#34;&gt;คู่มือ_สนทนาตอบโต้การทุ่มตลาด&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/dgjIL4oDOYBWqnyjN8YgjQRGQOtw35X7lOquTdP9.pdf&#34;&gt;พระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ (ฉบับที่ 2) พ.ศ. 2562&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/a9hipI2DjqKO7m716NTX0PCYfTFktuKgks8WqWVU.pdf&#34;&gt;พระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ.   2542&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/O8qhoS27wkH6S3QWwhd7vHshaY1s22rgOe2WrNud.pdf&#34;&gt;พระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ. 2542 และพระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ (ฉบับที่ 2) พ.ศ. 2562   (รวบรวมโดยสำนักงานคณะกรรมการกฤษฎีกา)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/eGzGKQL5bahL1jSrvLn6LPmJH76Wjw0EyuMxrksI.pdf&#34; target=&#34;_blank&#34;&gt;The Anti- Dumping and Countervailing Act B.E.2542 (Unofficial Translation)&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/HTXEDZVOnhvnVh0GRrR5gGqPJ8bplCXqo7XJbjkW.pdf&#34; target=&#34;_blank&#34;&gt;คู่มือ_สนทนาตอบโต้การทุ่มตลาด&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/dgjIL4oDOYBWqnyjN8YgjQRGQOtw35X7lOquTdP9.pdf&#34; target=&#34;_blank&#34;&gt;พระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ (ฉบับที่ 2) พ.ศ. 2562&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/a9hipI2DjqKO7m716NTX0PCYfTFktuKgks8WqWVU.pdf&#34; target=&#34;_blank&#34;&gt;พระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ.   2542&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/O8qhoS27wkH6S3QWwhd7vHshaY1s22rgOe2WrNud.pdf&#34; target=&#34;_blank&#34;&gt;พระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ. 2542 และพระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ (ฉบับที่ 2) พ.ศ. 2562   (รวบรวมโดยสำนักงานคณะกรรมการกฤษฎีกา)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;กฎกระทรวง&#34;&gt;กฎกระทรวง&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/6Nps3beLrN4y1y2213Ez6qXIGyBw4pSthMlQQMzh.pdf&#34;&gt;กฎกระทรวง(ฉบับที่ 4) (พ.ศ. 2543) ออกตามความในพระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ. 2542 ลงวันที่ 8 มีนาคม พ.ศ. 2543&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/EBebhaZ6chKCH6SnqyDef1GRaUFYPYxxvTNbftMh.pdf&#34;&gt;กฎกระทรวง(พ.ศ. 2543) ออกตามความในพระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ. 2542 ลงวันที่ 8 มีนาคม พ.ศ. 2543&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/9M1sqNvll58fO0WFvwaJEQZveSZxAw3jKxYxxNNz.pdf&#34;&gt;กฎกระทรวงกำหนดเกณฑ์ในการยุติการพิจารณาตอบโต้การทุ่มตลาดและการอุดหนุน พ.ศ. 2545 ลงวันที่ 31 ตุลาคม พ.ศ. 2545&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/hVrSjCFKtzQmqpeeV3P5oHYP3EaG1DoAuS3Zjyfn.pdf&#34;&gt;กฎกระทรวงกำหนดหลักเกณฑ์และวิธีการเกี่ยวกับการพิจารณาความเสียหายที่เกิดแก่อุตสาหกรรมภายในจากการทุ่มตลาดหรือการอุดหนุน พ.ศ. 2545 ลงวันที่ 31 ตุลาคม พ.ศ. 2545&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/7TQaIMC1XHUopw9rvtd96AahQGGI4P6Fvl19AKNc.pdf&#34;&gt;กฏกระทรวง ฉบับที่3 (พ.ศ.2543) ออกตามความในพระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ.2542 ลงวันที่ 8 มีนาคม พ.ศ.2543&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/6Nps3beLrN4y1y2213Ez6qXIGyBw4pSthMlQQMzh.pdf&#34; target=&#34;_blank&#34;&gt;กฎกระทรวง(ฉบับที่ 4) (พ.ศ. 2543) ออกตามความในพระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ. 2542 ลงวันที่ 8 มีนาคม พ.ศ. 2543&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/EBebhaZ6chKCH6SnqyDef1GRaUFYPYxxvTNbftMh.pdf&#34; target=&#34;_blank&#34;&gt;กฎกระทรวง(พ.ศ. 2543) ออกตามความในพระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ. 2542 ลงวันที่ 8 มีนาคม พ.ศ. 2543&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/9M1sqNvll58fO0WFvwaJEQZveSZxAw3jKxYxxNNz.pdf&#34; target=&#34;_blank&#34;&gt;กฎกระทรวงกำหนดเกณฑ์ในการยุติการพิจารณาตอบโต้การทุ่มตลาดและการอุดหนุน พ.ศ. 2545 ลงวันที่ 31 ตุลาคม พ.ศ. 2545&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/hVrSjCFKtzQmqpeeV3P5oHYP3EaG1DoAuS3Zjyfn.pdf&#34; target=&#34;_blank&#34;&gt;กฎกระทรวงกำหนดหลักเกณฑ์และวิธีการเกี่ยวกับการพิจารณาความเสียหายที่เกิดแก่อุตสาหกรรมภายในจากการทุ่มตลาดหรือการอุดหนุน พ.ศ. 2545 ลงวันที่ 31 ตุลาคม พ.ศ. 2545&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/7TQaIMC1XHUopw9rvtd96AahQGGI4P6Fvl19AKNc.pdf&#34; target=&#34;_blank&#34;&gt;กฏกระทรวง ฉบับที่3 (พ.ศ.2543) ออกตามความในพระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ.2542 ลงวันที่ 8 มีนาคม พ.ศ.2543&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;ประกาศกระทรวงพาณ-ชย&#34;&gt;ประกาศกระทรวงพาณิชย์&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/UcuSDJ6Ds6bHUnwYG8UVcpW8la6S0mTf5HmGpJ8m.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 2) พ.ศ. 2542 ลงวันที่ 23 กรกฎาคม พ.ศ. 2542&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/9A7rJAppsXccoGFu4OBoHVQhEOUeZUDt5YvmtMB1.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 3) พ.ศ. 2543 ลงวันที่ 30 มิถุนายน พ.ศ. 2543&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/JmuTtzZQIiWPsDwkyiU7B2GQxMLl2GT5DACCdkIf.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 4) พ.ศ. 2543 ลงวันที่ 30 มิถุนายน พ.ศ. 2543&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/42XeEKjXdoxX8gMk8ElE7nmmkqlErF9V4PzAdoQ9.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 5) พ.ศ. 2543 ลงวันที่ 11 กันยายน พ.ศ. 2543&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/wUtrvGYYdhtYs3zMfk0UF56QsJK29uwHYTczK03W.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 6) พ.ศ. 2544 ลงวันที่ 26 มีนาคม พ.ศ. 2544&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/bfAOmmSAbMcdUvUqYd5KkZpNRbFqKwMZEgA4vS7C.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน พ.ศ. 2542 ลงวันที่ 23 กรกฎาคม พ.ศ. 2542&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/yvNkhixex9Dut4eEi45pWc97ot95H5nNs1zw6gd5.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง หลักเกณฑ์และวิธีการพิจารณาความเสียหายเพื่อให้เรียกเก็บอากรตอบโต้การทุ่มตลาดและการอุดหนุน ตั้งแต่มีการใช้มาตรการชั่วคราว พ.ศ. 2545 ลงวันที่ 7 มกราคม พ.ศ. 2545&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/ktOGYx9oTXtkggPebnxC2FJceCwP1LuOzct0E2nr.pdf&#34;&gt;ประกาศคณะกรรมการพิจารณาการทุ่มตลาดและการอุดหนุน เรื่อง การแก้ไขพิกัดอัตราศุลกากรตามประกาศคณะกรรมการฯให้สอดคล้องกับพระราชกำหนดพิกัดศุลกากร(ฉบับที่ 4) พ.ศ. 2549&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/FMuH1pzvVJ00mEr0duqgJ7J3kvF7zcmp6eGIyv8G.pdf&#34;&gt;ประกาศคณะกรรมการพิจารณาการทุ่มตลาดและการอุดหนุน เรื่อง แนวทางปฏิบัติเกี่ยวกับระยะเวลาในการยื่นคำขอทบทวนความจำเป็นในการต่ออายุการใช้มาตรการตอบโต้การทุ่มตลาดและการอุดหนุน&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/UcuSDJ6Ds6bHUnwYG8UVcpW8la6S0mTf5HmGpJ8m.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 2) พ.ศ. 2542 ลงวันที่ 23 กรกฎาคม พ.ศ. 2542&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/9A7rJAppsXccoGFu4OBoHVQhEOUeZUDt5YvmtMB1.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 3) พ.ศ. 2543 ลงวันที่ 30 มิถุนายน พ.ศ. 2543&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/JmuTtzZQIiWPsDwkyiU7B2GQxMLl2GT5DACCdkIf.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 4) พ.ศ. 2543 ลงวันที่ 30 มิถุนายน พ.ศ. 2543&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/42XeEKjXdoxX8gMk8ElE7nmmkqlErF9V4PzAdoQ9.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 5) พ.ศ. 2543 ลงวันที่ 11 กันยายน พ.ศ. 2543&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/wUtrvGYYdhtYs3zMfk0UF56QsJK29uwHYTczK03W.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 6) พ.ศ. 2544 ลงวันที่ 26 มีนาคม พ.ศ. 2544&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/bfAOmmSAbMcdUvUqYd5KkZpNRbFqKwMZEgA4vS7C.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน พ.ศ. 2542 ลงวันที่ 23 กรกฎาคม พ.ศ. 2542&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/yvNkhixex9Dut4eEi45pWc97ot95H5nNs1zw6gd5.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง หลักเกณฑ์และวิธีการพิจารณาความเสียหายเพื่อให้เรียกเก็บอากรตอบโต้การทุ่มตลาดและการอุดหนุน ตั้งแต่มีการใช้มาตรการชั่วคราว พ.ศ. 2545 ลงวันที่ 7 มกราคม พ.ศ. 2545&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/ktOGYx9oTXtkggPebnxC2FJceCwP1LuOzct0E2nr.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศคณะกรรมการพิจารณาการทุ่มตลาดและการอุดหนุน เรื่อง การแก้ไขพิกัดอัตราศุลกากรตามประกาศคณะกรรมการฯให้สอดคล้องกับพระราชกำหนดพิกัดศุลกากร(ฉบับที่ 4) พ.ศ. 2549&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/FMuH1pzvVJ00mEr0duqgJ7J3kvF7zcmp6eGIyv8G.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศคณะกรรมการพิจารณาการทุ่มตลาดและการอุดหนุน เรื่อง แนวทางปฏิบัติเกี่ยวกับระยะเวลาในการยื่นคำขอทบทวนความจำเป็นในการต่ออายุการใช้มาตรการตอบโต้การทุ่มตลาดและการอุดหนุน&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;ข-นตอนการไต-สวน&#34;&gt;ขั้นตอนการไต่สวน&lt;/h2&gt;
@@ -1002,7 +1074,7 @@
 
 &lt;blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;ที่มา : &lt;a href=&#34;https://www.thaitr.go.th/th/measure_info/ad/investigate&#34;&gt;กองปกป้องและตอบโต้ทางการค้า&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ที่มา : &lt;a href=&#34;https://www.thaitr.go.th/th/measure_info/ad/investigate&#34; target=&#34;_blank&#34;&gt;กองปกป้องและตอบโต้ทางการค้า&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;วันที่ปรับปรุงล่าสุด : 3 กุมภาพันธ์ 2563&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
@@ -1081,12 +1153,12 @@
 &lt;li&gt;&lt;p&gt;กฏหมายที่เกี่ยวข้อง&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/9pvSgZh9ViHpAKsJs5NUP3dSqI1yNR7h0wpaGRZQ.pdf&#34;&gt;พระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ. 2542&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/9pvSgZh9ViHpAKsJs5NUP3dSqI1yNR7h0wpaGRZQ.pdf&#34; target=&#34;_blank&#34;&gt;พระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ. 2542&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;ผู้มีสิทธิร้องขอให้เปิดการไต่สวนการใช้มาตรการ CVD ผู้ผลิตสินค้าชนิดเดียวกัน (Like Product) ซึ่งเป็นตัวแทนทั้งหมดหรือส่วนใหญ่ของอุตสาหกรรมภายในประเทศไทย ที่ได้รับความเสียหายจากการนำเข้าสินค้าที่ได้รับการอุดหนุน&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;แนวปฏิบัติในการขอเปิดไต่สวน ยื่นคำขอเป็นลายลักษณ์อักษรต่อกรมการค้าต่างประเทศ กระทรวงพาณิชย์ โดยกรอก &lt;a href=&#34;http://10.3.15.200/%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%81%E0%B8%B2%E0%B8%A3CVD/%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%84%E0%B8%B3%E0%B8%82%E0%B8%AD.aspx&#34;&gt;&lt;strong&gt;แบบคำขอ&lt;/strong&gt;&lt;/a&gt; ที่กำหนด พร้อมกับส่งเอกสารหลักฐานต่างๆ ที่แสดงว่ามีการอุดหนุนและทำให้เกิดความเสียหาย ซึ่งกรมการค้าต่างประเทศ กระทรวงพาณิชย์จะพิจารณาว่ามีรายละเอียดหรือหลักฐานเพียงพอที่จะเปิดการไต่สวนหรือไม่ต่อไป&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;แนวปฏิบัติในการขอเปิดไต่สวน ยื่นคำขอเป็นลายลักษณ์อักษรต่อกรมการค้าต่างประเทศ กระทรวงพาณิชย์ โดยกรอก &lt;a href=&#34;http://10.3.15.200/%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%81%E0%B8%B2%E0%B8%A3CVD/%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%84%E0%B8%B3%E0%B8%82%E0%B8%AD.aspx&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;แบบคำขอ&lt;/strong&gt;&lt;/a&gt; ที่กำหนด พร้อมกับส่งเอกสารหลักฐานต่างๆ ที่แสดงว่ามีการอุดหนุนและทำให้เกิดความเสียหาย ซึ่งกรมการค้าต่างประเทศ กระทรวงพาณิชย์จะพิจารณาว่ามีรายละเอียดหรือหลักฐานเพียงพอที่จะเปิดการไต่สวนหรือไม่ต่อไป&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;การขอคำแนะนำในการกรอกแบบคำขอ อุตสาหกรรมภายในที่ประสงค์จะขอทราบรายละเอียดเกี่ยวกับการขอใช้มาตรการ สามารถติดต่อสำนักมาตรการปกป้องและตอบโต้ทางการค้า กรมการค้าต่างประเทศ กระทรวงพาณิชย์ เพื่อรับคำแนะนำในการกรอกแบบคำขอ และจัดเตรียมข้อมูล ก่อนที่จะนำเข้าสู่กระบวนการพิจารณาตามขั้นตอนของกฎหมายได้&lt;/p&gt;&lt;/li&gt;
 
@@ -1096,8 +1168,8 @@
 &lt;h2 id=&#34;สร-ปสถานะมาตรการ-cvd&#34;&gt;สรุปสถานะมาตรการ CVD&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/th/measure_info/cvd/defend&#34;&gt;รายการสินค้า สินค้าที่ไทยถูกใช้มาตรการ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/th/measure_info/cvd/investigate&#34;&gt;รายการสินค้า สินค้าที่ไทยใช้มาตรการ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/th/measure_info/cvd/defend&#34; target=&#34;_blank&#34;&gt;รายการสินค้า สินค้าที่ไทยถูกใช้มาตรการ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/th/measure_info/cvd/investigate&#34; target=&#34;_blank&#34;&gt;รายการสินค้า สินค้าที่ไทยใช้มาตรการ&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;ข-อกฎหมาย&#34;&gt;ข้อกฎหมาย&lt;/h2&gt;
@@ -1105,38 +1177,38 @@
 &lt;h3 id=&#34;wto&#34;&gt;WTO&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/4FJhLS5gOe2JOUkJRR1dhj5KFSOAwh0Q3ODgkADb.pdf&#34;&gt;AGREEMENT ON SUBSIDIES AND COUNTERVAILING MEASURES&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/4FJhLS5gOe2JOUkJRR1dhj5KFSOAwh0Q3ODgkADb.pdf&#34; target=&#34;_blank&#34;&gt;AGREEMENT ON SUBSIDIES AND COUNTERVAILING MEASURES&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;พระราชบ-ญญ-ต&#34;&gt;พระราชบัญญัติ&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/lksc37V3c5cH5uNj3WIyiwibFZOCZBHyFjE8cc3L.pdf&#34;&gt;The Anti- Dumping and Countervailing Act B.E.2542 (Unofficial Translation)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/9pvSgZh9ViHpAKsJs5NUP3dSqI1yNR7h0wpaGRZQ.pdf&#34;&gt;พระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ. 2542&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/lksc37V3c5cH5uNj3WIyiwibFZOCZBHyFjE8cc3L.pdf&#34; target=&#34;_blank&#34;&gt;The Anti- Dumping and Countervailing Act B.E.2542 (Unofficial Translation)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/9pvSgZh9ViHpAKsJs5NUP3dSqI1yNR7h0wpaGRZQ.pdf&#34; target=&#34;_blank&#34;&gt;พระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ. 2542&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;กฎกระทรวง&#34;&gt;กฎกระทรวง&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/b7U8uaFHQWquk650wWOdeGfPt36AfJWPKp7w14eD.pdf&#34;&gt;กฎกระทรวง(ฉบับที่ 4) (พ.ศ. 2543) ออกตามความในพระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ. 2542 ลงวันที่ 8 มีนาคม พ.ศ. 2543&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/TnUUr8ScWxjXfGEuMZQGl6LVNZVEjiKeBXReqJST.pdf&#34;&gt;กฎกระทรวง(พ.ศ. 2543) ออกตามความในพระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ. 2542 ลงวันที่ 8 มีนาคม พ.ศ. 2543&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/oOdwfnVoFsPA2CTjssLTpK59Zz6RZVa2ypD2JfIx.pdf&#34;&gt;กฎกระทรวงกำหนดเกณฑ์ในการยุติการพิจารณาตอบโต้การทุ่มตลาดและการอุดหนุน พ.ศ. 2545 ลงวันที่ 31 ตุลาคม พ.ศ. 2545&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/D9oc6zfuf4AgUDHvT5gWh2cdpAV52RZfYnkwl9oD.pdf&#34;&gt;กฎกระทรวงกำหนดหลักเกณฑ์และวิธีการเกี่ยวกับการพิจารณาความเสียหายที่เกิดแก่อุตสาหกรรมภายในจากการทุ่มตลาดหรือการอุดหนุน พ.ศ. 2545 ลงวันที่ 31 ตุลาคม พ.ศ. 2545&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/9IOsHUg8KdkOpuHMXkjmT4qkICJOmDc1y7HqtxV3.pdf&#34;&gt;กฏกระทรวง ฉบับที่3 (พ.ศ.2543) ออกตามความในพระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ.2542 ลงวันที่ 8 มีนาคม พ.ศ.2543&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/b7U8uaFHQWquk650wWOdeGfPt36AfJWPKp7w14eD.pdf&#34; target=&#34;_blank&#34;&gt;กฎกระทรวง(ฉบับที่ 4) (พ.ศ. 2543) ออกตามความในพระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ. 2542 ลงวันที่ 8 มีนาคม พ.ศ. 2543&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/TnUUr8ScWxjXfGEuMZQGl6LVNZVEjiKeBXReqJST.pdf&#34; target=&#34;_blank&#34;&gt;กฎกระทรวง(พ.ศ. 2543) ออกตามความในพระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ. 2542 ลงวันที่ 8 มีนาคม พ.ศ. 2543&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/oOdwfnVoFsPA2CTjssLTpK59Zz6RZVa2ypD2JfIx.pdf&#34; target=&#34;_blank&#34;&gt;กฎกระทรวงกำหนดเกณฑ์ในการยุติการพิจารณาตอบโต้การทุ่มตลาดและการอุดหนุน พ.ศ. 2545 ลงวันที่ 31 ตุลาคม พ.ศ. 2545&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/D9oc6zfuf4AgUDHvT5gWh2cdpAV52RZfYnkwl9oD.pdf&#34; target=&#34;_blank&#34;&gt;กฎกระทรวงกำหนดหลักเกณฑ์และวิธีการเกี่ยวกับการพิจารณาความเสียหายที่เกิดแก่อุตสาหกรรมภายในจากการทุ่มตลาดหรือการอุดหนุน พ.ศ. 2545 ลงวันที่ 31 ตุลาคม พ.ศ. 2545&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/9IOsHUg8KdkOpuHMXkjmT4qkICJOmDc1y7HqtxV3.pdf&#34; target=&#34;_blank&#34;&gt;กฏกระทรวง ฉบับที่3 (พ.ศ.2543) ออกตามความในพระราชบัญญัติการตอบโต้การทุ่มตลาดและการอุดหนุนซึ่งสินค้าจากต่างประเทศ พ.ศ.2542 ลงวันที่ 8 มีนาคม พ.ศ.2543&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;ประกาศกระทรวงพาณ-ชย&#34;&gt;ประกาศกระทรวงพาณิชย์&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/tnTulQNQgSuHZ7GZn6Hj3zGl9MynUp5q5zqYNPRp.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 2) พ.ศ. 2542 ลงวันที่ 23 กรกฎาคม พ.ศ. 2542&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/Rd6EafzkTBEicREQXxHZeAXJDINKAM59cQ2luXK3.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 3) พ.ศ. 2543 ลงวันที่ 30 มิถุนายน พ.ศ. 2543&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/YyWKaMKumhPZYRRhZ9RZYOfWFa0jFG6S5ewdnsGU.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 4) พ.ศ. 2543 ลงวันที่ 30 มิถุนายน พ.ศ. 2543&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/8mVNL8v17LZAvvUdlqq3iJcKslcIA7nTpKCNNo7T.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 5) พ.ศ. 2543 ลงวันที่ 11 กันยายน พ.ศ. 2543&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/G9dj6uiDO8ujLjBNzGFOuvGLZJAcgSd5Xrf3ewvj.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 6) พ.ศ. 2544 ลงวันที่ 26 มีนาคม พ.ศ. 2544&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/Ptv568l3SddgJVos5Htq2P06naEbSin9GnYS071j.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน พ.ศ. 2542 ลงวันที่ 23 กรกฎาคม พ.ศ. 2542&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/muIpqgsTJLTPu7ttnyMXPm9h50LAXlSmeB5z15at.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง หลักเกณฑ์และวิธีการพิจารณาความเสียหายเพื่อให้เรียกเก็บอากรตอบโต้การทุ่มตลาดและการอุดหนุน ตั้งแต่มีการใช้มาตรการชั่วคราว พ.ศ. 2545 ลงวันที่ 7 มกราคม พ.ศ. 2545&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/jWVxPUQPUhI5Clqr0ZwZxrJyOqvRiH4KNXybnc6a.pdf&#34;&gt;ประกาศคณะกรรมการพิจารณาการทุ่มตลาดและการอุดหนุน เรื่อง การแก้ไขพิกัดอัตราศุลกากรตามประกาศคณะกรรมการฯให้สอดคล้องกับพระราชกำหนดพิกัดศุลกากร(ฉบับที่ 4) พ.ศ. 2549&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/FZwrkGZGQPkFHTCouhcA63NXBCCaCS80FKodz4BQ.pdf&#34;&gt;ประกาศคณะกรรมการพิจารณาการทุ่มตลาดและการอุดหนุน เรื่อง แนวทางปฏิบัติเกี่ยวกับระยะเวลาในการยื่นคำขอทบทวนความจำเป็นในการต่ออายุการใช้มาตรการตอบโต้การทุ่มตลาดและการอุดหนุน&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/tnTulQNQgSuHZ7GZn6Hj3zGl9MynUp5q5zqYNPRp.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 2) พ.ศ. 2542 ลงวันที่ 23 กรกฎาคม พ.ศ. 2542&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/Rd6EafzkTBEicREQXxHZeAXJDINKAM59cQ2luXK3.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 3) พ.ศ. 2543 ลงวันที่ 30 มิถุนายน พ.ศ. 2543&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/YyWKaMKumhPZYRRhZ9RZYOfWFa0jFG6S5ewdnsGU.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 4) พ.ศ. 2543 ลงวันที่ 30 มิถุนายน พ.ศ. 2543&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/8mVNL8v17LZAvvUdlqq3iJcKslcIA7nTpKCNNo7T.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 5) พ.ศ. 2543 ลงวันที่ 11 กันยายน พ.ศ. 2543&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/G9dj6uiDO8ujLjBNzGFOuvGLZJAcgSd5Xrf3ewvj.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน (ฉบับที่ 6) พ.ศ. 2544 ลงวันที่ 26 มีนาคม พ.ศ. 2544&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/Ptv568l3SddgJVos5Htq2P06naEbSin9GnYS071j.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง การตอบโต้การทุ่มตลาดและการอุดหนุน พ.ศ. 2542 ลงวันที่ 23 กรกฎาคม พ.ศ. 2542&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/muIpqgsTJLTPu7ttnyMXPm9h50LAXlSmeB5z15at.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง หลักเกณฑ์และวิธีการพิจารณาความเสียหายเพื่อให้เรียกเก็บอากรตอบโต้การทุ่มตลาดและการอุดหนุน ตั้งแต่มีการใช้มาตรการชั่วคราว พ.ศ. 2545 ลงวันที่ 7 มกราคม พ.ศ. 2545&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/jWVxPUQPUhI5Clqr0ZwZxrJyOqvRiH4KNXybnc6a.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศคณะกรรมการพิจารณาการทุ่มตลาดและการอุดหนุน เรื่อง การแก้ไขพิกัดอัตราศุลกากรตามประกาศคณะกรรมการฯให้สอดคล้องกับพระราชกำหนดพิกัดศุลกากร(ฉบับที่ 4) พ.ศ. 2549&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/FZwrkGZGQPkFHTCouhcA63NXBCCaCS80FKodz4BQ.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศคณะกรรมการพิจารณาการทุ่มตลาดและการอุดหนุน เรื่อง แนวทางปฏิบัติเกี่ยวกับระยะเวลาในการยื่นคำขอทบทวนความจำเป็นในการต่ออายุการใช้มาตรการตอบโต้การทุ่มตลาดและการอุดหนุน&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;ข-นตอนการไต-สวน&#34;&gt;ขั้นตอนการไต่สวน&lt;/h2&gt;
@@ -1182,7 +1254,7 @@
 
 &lt;blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;ที่มา : &lt;a href=&#34;https://www.thaitr.go.th/th/measure_info/ad/investigate&#34;&gt;กองปกป้องและตอบโต้ทางการค้า&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ที่มา : &lt;a href=&#34;https://www.thaitr.go.th/th/measure_info/ad/investigate&#34; target=&#34;_blank&#34;&gt;กองปกป้องและตอบโต้ทางการค้า&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;วันที่ปรับปรุงล่าสุด : 3 กุมภาพันธ์ 2563&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
@@ -1205,7 +1277,7 @@
 &lt;p&gt;&lt;strong&gt;กฎหมายที่เกี่ยวข้อง&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/NHyQ7X80IJKMa9UAUUb9AESKnkwN4QV3sTmnNP27.pdf&#34;&gt;พระราชบัญญัติมาตรการปกป้องจากการนำเข้าสินค้าที่เพิ่มขึ้น พ.ศ. 2550&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/NHyQ7X80IJKMa9UAUUb9AESKnkwN4QV3sTmnNP27.pdf&#34; target=&#34;_blank&#34;&gt;พระราชบัญญัติมาตรการปกป้องจากการนำเข้าสินค้าที่เพิ่มขึ้น พ.ศ. 2550&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;ปัจจัยสำคัญในการพิจารณาใช้มาตรการ SG&lt;/strong&gt;&lt;/p&gt;
@@ -1292,8 +1364,8 @@
 &lt;p&gt;&lt;strong&gt;สรุปสถานะมาตรการ SG&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/th/measure_info/sg/defend&#34;&gt;รายการสินค้า สินค้าที่ไทยถูกใช้มาตรการ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/th/measure_info/sg/investigate&#34;&gt;รายการสินค้า สินค้าที่ไทยใช้มาตรการ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/th/measure_info/sg/defend&#34; target=&#34;_blank&#34;&gt;รายการสินค้า สินค้าที่ไทยถูกใช้มาตรการ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/th/measure_info/sg/investigate&#34; target=&#34;_blank&#34;&gt;รายการสินค้า สินค้าที่ไทยใช้มาตรการ&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;ข-อกฎหมาย&#34;&gt;ข้อกฎหมาย&lt;/h2&gt;
@@ -1301,34 +1373,34 @@
 &lt;h3 id=&#34;wto&#34;&gt;WTO&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/WXjm7Tqw7dAwxpHoQEPKgUAHNdasBlxx5GB08d00.pdf&#34;&gt;AGREEMENT ON SAFEGUARDS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/WXjm7Tqw7dAwxpHoQEPKgUAHNdasBlxx5GB08d00.pdf&#34; target=&#34;_blank&#34;&gt;AGREEMENT ON SAFEGUARDS&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;พระราชบ-ญญ-ต&#34;&gt;พระราชบัญญัติ&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/NHyQ7X80IJKMa9UAUUb9AESKnkwN4QV3sTmnNP27.pdf&#34;&gt;พระราชบัญญัติมาตรการปกป้องจากการนำเข้าสินค้าที่เพิ่มขึ้น พ.ศ. 2550&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/NHyQ7X80IJKMa9UAUUb9AESKnkwN4QV3sTmnNP27.pdf&#34; target=&#34;_blank&#34;&gt;พระราชบัญญัติมาตรการปกป้องจากการนำเข้าสินค้าที่เพิ่มขึ้น พ.ศ. 2550&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;กฎกระทรวง&#34;&gt;กฎกระทรวง&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/M1fBgL4EfKZ0dEkFwf57GojIvIPGh82qcJvbxPVh.pdf&#34;&gt;กฎกระทรวงพาณิชย์กำหนดหลักเกณฑ์ วิธีการ และเงื่อนไขในการประกาศเผยแพร่ผลคำวินิจฉัยเกี่ยวกับการพิจารณามาตรการปกป้อง พ.ศ. 2553&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/ALOuLMbyIlORXnAFT2MJjsNqYPlnkmltAFpWkrFB.pdf&#34;&gt;กฏกระทรวงพาณิชย์กำหนดหลักเกณฑ์ วิธีการ และเงื่อนไขในการพิจารณาความเสียหายจากการนำเข้าสินค้าที่เพิ่มขึ้น พ.ศ. 2553&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/M1fBgL4EfKZ0dEkFwf57GojIvIPGh82qcJvbxPVh.pdf&#34; target=&#34;_blank&#34;&gt;กฎกระทรวงพาณิชย์กำหนดหลักเกณฑ์ วิธีการ และเงื่อนไขในการประกาศเผยแพร่ผลคำวินิจฉัยเกี่ยวกับการพิจารณามาตรการปกป้อง พ.ศ. 2553&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/ALOuLMbyIlORXnAFT2MJjsNqYPlnkmltAFpWkrFB.pdf&#34; target=&#34;_blank&#34;&gt;กฏกระทรวงพาณิชย์กำหนดหลักเกณฑ์ วิธีการ และเงื่อนไขในการพิจารณาความเสียหายจากการนำเข้าสินค้าที่เพิ่มขึ้น พ.ศ. 2553&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;ประกาศกระทรวงพาณ-ชย&#34;&gt;ประกาศกระทรวงพาณิชย์&lt;/h3&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/8l01nHboEL4TpUGiIGyFJHCtE9u5phHneHw5UOxm.pdf&#34;&gt;ประกาศกรมการค้าต่างประเทศ เรื่อง หลักเกณฑ์ของประกาศไต่สวนการนำเข้าสินค้าที่เพิ่มขึ้นและความเสียหาย พ.ศ. 2551&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/AOhmZDNknivSzvE1bXDQJSiYEOFpYbpeTKuyH4dG.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง กำหนดระยะเวลาในการยื่นคำร้องขอขยายเวลาการบังคับใช้มาตรการปกป้องจากการนำเข้าสินค้าที่เพิ่มขึ้น พ.ศ.๒๕๕๘&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/mR8eBmYGEB7MDrXIXqeoQxi76ciSYC3X0Qiw80KV.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไข ในการยื่นคำขอให้พิจารณากำหนดมาตรการปกป้องจากการนำเข้าสินค้าที่เพิ่มขึ้น พ.ศ. 2551&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/BDmY6BDeoiMrEV2MisOEOXyr6vOJPsPLYT5rz9gf.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขในการเสนอหลักฐาน เอกสาร และแสดงความเห็นสนับสนุนหรือโต้แย้งคำขอให้พิจารณากำหนดมาตรการปกป้องจากการนำเข้าสินค้าที่เพิ่มขึ้น พ.ศ. 2551&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/9xFqeMlATVis7FXEAhEDG7lrNRTiK2Gwj436Cuo5.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง หลักเกณฑ์และวิธีการในการพิจารณาปริมาณการนำเข้าที่ผ่านมาสำหรับการพิจารณากำหนดมาตรการปกป้องโดยการจำกัดปริมาณการนำเข้า พ.ศ. 2551&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/xBhaFjHvs0jXolmmBakYb5lbYalq6eBVpAEF3hYr.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง หลักเกณฑ์และวิธีการในการพิจารณาปริมาณการนำเข้าที่ผ่านมาสำหรับการพิจารณากำหนดมาตรการปกป้องโดยการจำกัดปริมาณการนำเข้า พ.ศ. 2551&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/tclDBTSLd8dvOqrbBBHqSCZD2FZ5aNc04sxq1Nb4.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง หลักเกณฑ์และวิธีการพิจารณาความเสียหายเพื่อให้เรียกเก็บอากรตอบโต้การทุ่มตลาดและการอุดหนุนตั้งแต่มีการใช้มาตรการชั่วคราว พ.ศ. 2545&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/C3yNJseMfTWyfwsOiBdZawHv8w9ZpCRJNzXnAn5N.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ ว่าด้วยการกำหนดมาตรการปกป้องการนำเข้าสินค้าที่เพิ่มขึ้น (ฉบับที่ 2) พ.ศ.2548&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/NVfgpPe3YjPZ3L7iufuMgpyUdsIHt5E0pjMoaaTJ.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ ว่าด้วยการกำหนดมาตรการปกป้องการนำเข้าสินค้าที่เพิ่มขึ้น พ.ศ.2542&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/8l01nHboEL4TpUGiIGyFJHCtE9u5phHneHw5UOxm.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกรมการค้าต่างประเทศ เรื่อง หลักเกณฑ์ของประกาศไต่สวนการนำเข้าสินค้าที่เพิ่มขึ้นและความเสียหาย พ.ศ. 2551&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/AOhmZDNknivSzvE1bXDQJSiYEOFpYbpeTKuyH4dG.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง กำหนดระยะเวลาในการยื่นคำร้องขอขยายเวลาการบังคับใช้มาตรการปกป้องจากการนำเข้าสินค้าที่เพิ่มขึ้น พ.ศ.๒๕๕๘&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/mR8eBmYGEB7MDrXIXqeoQxi76ciSYC3X0Qiw80KV.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไข ในการยื่นคำขอให้พิจารณากำหนดมาตรการปกป้องจากการนำเข้าสินค้าที่เพิ่มขึ้น พ.ศ. 2551&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/BDmY6BDeoiMrEV2MisOEOXyr6vOJPsPLYT5rz9gf.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขในการเสนอหลักฐาน เอกสาร และแสดงความเห็นสนับสนุนหรือโต้แย้งคำขอให้พิจารณากำหนดมาตรการปกป้องจากการนำเข้าสินค้าที่เพิ่มขึ้น พ.ศ. 2551&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/9xFqeMlATVis7FXEAhEDG7lrNRTiK2Gwj436Cuo5.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง หลักเกณฑ์และวิธีการในการพิจารณาปริมาณการนำเข้าที่ผ่านมาสำหรับการพิจารณากำหนดมาตรการปกป้องโดยการจำกัดปริมาณการนำเข้า พ.ศ. 2551&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/xBhaFjHvs0jXolmmBakYb5lbYalq6eBVpAEF3hYr.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง หลักเกณฑ์และวิธีการในการพิจารณาปริมาณการนำเข้าที่ผ่านมาสำหรับการพิจารณากำหนดมาตรการปกป้องโดยการจำกัดปริมาณการนำเข้า พ.ศ. 2551&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/tclDBTSLd8dvOqrbBBHqSCZD2FZ5aNc04sxq1Nb4.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง หลักเกณฑ์และวิธีการพิจารณาความเสียหายเพื่อให้เรียกเก็บอากรตอบโต้การทุ่มตลาดและการอุดหนุนตั้งแต่มีการใช้มาตรการชั่วคราว พ.ศ. 2545&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/C3yNJseMfTWyfwsOiBdZawHv8w9ZpCRJNzXnAn5N.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกระทรวงพาณิชย์ ว่าด้วยการกำหนดมาตรการปกป้องการนำเข้าสินค้าที่เพิ่มขึ้น (ฉบับที่ 2) พ.ศ.2548&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.thaitr.go.th/storage/measure_info/NVfgpPe3YjPZ3L7iufuMgpyUdsIHt5E0pjMoaaTJ.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกระทรวงพาณิชย์ ว่าด้วยการกำหนดมาตรการปกป้องการนำเข้าสินค้าที่เพิ่มขึ้น พ.ศ.2542&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;ข-นตอนการไต-สวน&#34;&gt;ขั้นตอนการไต่สวน&lt;/h2&gt;
@@ -1360,7 +1432,7 @@
 
 &lt;blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;ที่มา : &lt;a href=&#34;https://www.thaitr.go.th/th/measure_info/ad/investigate&#34;&gt;กองปกป้องและตอบโต้ทางการค้า&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ที่มา : &lt;a href=&#34;https://www.thaitr.go.th/th/measure_info/ad/investigate&#34; target=&#34;_blank&#34;&gt;กองปกป้องและตอบโต้ทางการค้า&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;วันที่ปรับปรุงล่าสุด : 4 กุมภาพันธ์ 2563&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
@@ -1374,9 +1446,10 @@
     
     <item>
       <title>การนำเข้ารถยนต์สำเร็จรูป</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/import/import-car/</link>
+      <link>/KM/customs/customs/import/import-car/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/KM/customs/customs/import/import-car/</guid>
+      
+      <guid>/KM/customs/customs/import/import-car/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/cover/import-car.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -1384,8 +1457,8 @@
 &lt;h2 id=&#34;ประกาศท-เก-ยวข-อง&#34;&gt;ประกาศที่เกี่ยวข้อง&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/knowledge-center/customs-clearance/docs/import/import_car/customs_106-2561/&#34;&gt;ประกาศกรมศุลกากร ที่ 106/ 2561 เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการปฏิบัติพิธีการศุลกากรนำเข้าทางอิเล็กทรอนิกส์ว่าด้วยรถยนต์สำเร็จรูป&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/ecs-support/knowledge-center/raw/master/data/moc/used_car.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง กำหนดให้รถยนต์ใช้แล้วเป็นสินค้าที่ต้องห้ามหรือต้องขออนุญาตในการนำเข้ามาในราชอาณาจักร พ.ศ. 2562&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/KM/customs/knowledge-center/customs-clearance/docs/import/import_car/customs_106-2561/&#34;&gt;ประกาศกรมศุลกากร ที่ 106/ 2561 เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการปฏิบัติพิธีการศุลกากรนำเข้าทางอิเล็กทรอนิกส์ว่าด้วยรถยนต์สำเร็จรูป&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ecs-support/knowledge-center/raw/master/data/moc/used_car.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง กำหนดให้รถยนต์ใช้แล้วเป็นสินค้าที่ต้องห้ามหรือต้องขออนุญาตในการนำเข้ามาในราชอาณาจักร พ.ศ. 2562&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&#34;การปฏ-บ-ต-พ-ธ-การ&#34;&gt;การปฏิบัติพิธีการ&lt;/h2&gt;
@@ -1439,9 +1512,10 @@
     
     <item>
       <title>การปฏิบัติพิธีการศุลกากรกรณีผู้นำของเข้าแจ้งความสงวนสิทธิขอคืนอากร</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/import/reverve/</link>
+      <link>/KM/customs/customs/import/reverve/</link>
       <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/KM/customs/customs/import/reverve/</guid>
+      
+      <guid>/KM/customs/customs/import/reverve/</guid>
       <description>&lt;p&gt;&lt;strong&gt;การปฏิบัติพิธีการศุลกากรกรณีผู้นำของเข้าแจ้งความสงวนสิทธิขอคืนอากรและการวางประกันเกี่ยวกับ ปัญหาพิกัดศุลกากร&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;เนื่องจากภายหลังพระราชบัญญัติศุลกากร พ.ศ. 2560 มีผลบังคับ กรมศุลกากรยังไม่มีประกาศแนวทางปฏิบัติ สำหรับกรณีที่ผู้นำของเข้าไม่แน่ใจ ในประเภทพิกัดที่จะสำแดง จึงขอวางประกัน/แจ้งความสงวนสิทธิคืนอากร เพื่อขอให้กรมศุลกากรพิจำรณาว่าจัดเข้าพิกัดใด แต่ปัจจุบันยังไม่มีแนวทางปฏิบัติให้ผู้ประกอบการ และเจ้าหน้าที่ดำเนินการ แนวทางการแก้ไขปัญหา กรมศุลกากรจึงกำหนดแนวทางให้หน่วยงานที่เกี่ยวข้องไปดำเนินการกำหนดแนวทางการปฏิบัติ และออกเป็นประกาศกรมศุลกากร สำหรับเรื่องดังกล่าว&lt;/p&gt;
@@ -1459,23 +1533,24 @@
 &lt;p&gt;&lt;img src=&#34;https://github.com/dragon-library/library/raw/master/img/request%20duty%20refunds-02.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;http://th.customs.go.th/list_strc_download.php?ini_content=business_190117_01_01&amp;amp;ini_menu=menu_business_160421_04&amp;amp;order_by=co_priority&amp;amp;sort_type=0&amp;amp;lang=th&amp;amp;left_menu=menu_business_160421_04_01&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://th.customs.go.th/list_strc_download.php?ini_content=business_190117_01_01&amp;amp;ini_menu=menu_business_160421_04&amp;amp;order_by=co_priority&amp;amp;sort_type=0&amp;amp;lang=th&amp;amp;left_menu=menu_business_160421_04_01&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
     
     <item>
       <title>ของตกค้าง</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/import/overtime/</link>
+      <link>/KM/customs/customs/import/overtime/</link>
       <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/KM/customs/customs/import/overtime/</guid>
+      
+      <guid>/KM/customs/customs/import/overtime/</guid>
       <description>
 
 &lt;p&gt;เนื่องจากในปัจจุบันมีใบขนสินค้าผ่านแดน ที่ส่งข้อมูลหลังจากวันนำเข้า&lt;em&gt;เกิน 60 วัน&lt;/em&gt; ทำให้ระบบกรมศุลกากรได้ Lock ไม่ให้ส่งข้อมูลใบขนสินค้าผ่านแดน ทำให้มีคำถามกลับเข้ามาถึงกฎหมายที่เกี่ยวข้อง และขั้นตอนการปฏิบัติพิธีการศุลกากร สำหร้ับเรื่องดังกล่าว ในส่วนของโปรแกรม เราจำเป็นต้องทราบว่าระบบหลังบ้านกรมศุลกากร จะทำการตรวจสอบและ lock สินค้าที่อยู่ในอารักขาของศุลกากร&lt;em&gt;เกิน 60 วัน&lt;/em&gt; นับแต่วันที่นําเข้า โดย&lt;em&gt;ไม่มีการยื่นใบขนสินค้า&lt;/em&gt; หรือ &lt;em&gt;ไม่ได้เสียอากรหรือวางประกันค่าอากรที่ศุลกากรเรียกเก็บ&lt;/em&gt; ไม่สามารถส่งข้อมูลทางอิเล็กทรอนิกส์ได้ เราจึงรวบรวมข้อกฎหมายและขั้นตอนการปฏิบัติของหน่วยงานต่าง ๆ ที่เกี่ยวข้องกับของตกค้าง เพื่อใช้ประกอบทำความเข้าใจ และใช้เป็นแนวทางในการแก้ปัญหาในเรื่องดังกล่าวดังนี้&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/remainder-01.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;ตามประกาศกรมศุลกากรที่ 142/ 2560 เรื่อง พิธีการศุลกากรว่าด้วยของตกค้าง &lt;a href=&#34;http://www.ratchakitcha.soc.go.th/DATA/PDF/2560/E/276/56.PDF&#34;&gt;&lt;strong&gt;(ดาวน์โหลดประกาศ)&lt;/strong&gt;&lt;/a&gt; ได้นิยามความหมายและหลักเกณฑ์ไว้ดังนี้&lt;/p&gt;
+&lt;p&gt;ตามประกาศกรมศุลกากรที่ 142/ 2560 เรื่อง พิธีการศุลกากรว่าด้วยของตกค้าง &lt;a href=&#34;http://www.ratchakitcha.soc.go.th/DATA/PDF/2560/E/276/56.PDF&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;(ดาวน์โหลดประกาศ)&lt;/strong&gt;&lt;/a&gt; ได้นิยามความหมายและหลักเกณฑ์ไว้ดังนี้&lt;/p&gt;
 
 &lt;h2 id=&#34;ความหมาย&#34;&gt;ความหมาย&lt;/h2&gt;
 
@@ -1515,7 +1590,7 @@
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;ในส่วนของประกาศกรมศุลกากรที่ 66/ 2561 เรื่อง การปฏิบัติพิธีการศุลกากร ณ เขตปลอดอากรท่าอากาศยานสุวรรณภูมิ &lt;a href=&#34;http://www.e-customs.co.th/ECS/wp-content/uploads/2018/03/21032018-02.pdf&#34;&gt;&lt;strong&gt;(ดาวน์โหลดประกาศ)&lt;/strong&gt;&lt;/a&gt; ได้มีแนวทางปฏิบัติพิธีการศุลกากร เกี่ยวกับของตกค้างทั้งในส่วนของเจ้าหน้าที่ และฝ่ายอื่น ๆ ที่เกี่ยวข้อง จึงขอยกข้อความเกี่ยวกับของตกค้างในประกาศฉบับดังกล่าว เพื่อให้ทราบถึงรายละเอียดในการปฏบัติเรื่องดังกล่าวมากขึ้นดังนี้&lt;/p&gt;
+&lt;p&gt;ในส่วนของประกาศกรมศุลกากรที่ 66/ 2561 เรื่อง การปฏิบัติพิธีการศุลกากร ณ เขตปลอดอากรท่าอากาศยานสุวรรณภูมิ &lt;a href=&#34;http://www.e-customs.co.th/ECS/wp-content/uploads/2018/03/21032018-02.pdf&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;(ดาวน์โหลดประกาศ)&lt;/strong&gt;&lt;/a&gt; ได้มีแนวทางปฏิบัติพิธีการศุลกากร เกี่ยวกับของตกค้างทั้งในส่วนของเจ้าหน้าที่ และฝ่ายอื่น ๆ ที่เกี่ยวข้อง จึงขอยกข้อความเกี่ยวกับของตกค้างในประกาศฉบับดังกล่าว เพื่อให้ทราบถึงรายละเอียดในการปฏบัติเรื่องดังกล่าวมากขึ้นดังนี้&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/remainder-02.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
@@ -1529,9 +1604,10 @@
     
     <item>
       <title>กลับไปเมนูหลัก  การนำเข้า-ส่งออกสินค้า</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/import/direct_main/</link>
+      <link>/KM/customs/customs/import/direct_main/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://ecs-support.github.io/KM/customs/customs/import/direct_main/</guid>
+      
+      <guid>/KM/customs/customs/import/direct_main/</guid>
       <description>&lt;script&gt;
    var files = &#39;/knowledge-center/customs/customs/index.html&#39;
    //document.location = files
