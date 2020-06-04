@@ -66,8 +66,7 @@
       <guid>https://example.com/KM/customs/customs/import-export/transit/</guid>
       <description>
 
-&lt;p&gt;&lt;img src=&#34;knowledge-center.png&#34; alt=&#34;Alternate text&#34; /&gt;
-&lt;img src=&#34;./transit.png&#34; alt=&#34;alt&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/transit.png&#34; alt=&#34;alt&#34; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&#34;น-ยาม&#34;&gt;นิยาม&lt;/h1&gt;
 
