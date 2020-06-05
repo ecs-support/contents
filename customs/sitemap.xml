@@ -24,7 +24,12 @@
   
   <url>
     <loc>https://example.com/KM/customs/customs/import-export/import/guide/</loc>
-    <lastmod>2020-06-04T17:06:36+07:00</lastmod>
+    <lastmod>2020-06-05T02:34:09+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/KM/customs/customs/import-export/import/guide/guide/</loc>
+    <lastmod>2020-06-05T02:34:09+07:00</lastmod>
   </url>
   
   <url>
@@ -94,7 +99,7 @@
   
   <url>
     <loc>https://example.com/KM/customs/customs/import-export/import/customs-clearance/</loc>
-    <lastmod>2020-06-04T17:06:36+07:00</lastmod>
+    <lastmod>2020-06-05T02:34:09+07:00</lastmod>
   </url>
   
   <url>
@@ -163,6 +168,11 @@
   </url>
   
   <url>
+    <loc>https://example.com/KM/customs/customs/import-export/import/direct_guide/</loc>
+    <lastmod>2020-06-05T02:34:09+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://example.com/KM/customs/customs/import-export/import/guide/declaration-no/</loc>
     <lastmod>2020-06-04T17:06:36+07:00</lastmod>
   </url>
@@ -180,11 +190,6 @@
   <url>
     <loc>https://example.com/KM/customs/book/sapiens/sapiens-2/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/direct_guide/</loc>
-    <lastmod>2020-06-04T17:06:36+07:00</lastmod>
   </url>
   
   <url>
@@ -524,7 +529,7 @@
   
   <url>
     <loc>https://example.com/KM/customs/</loc>
-    <lastmod>2020-06-04T17:06:36+07:00</lastmod>
+    <lastmod>2020-06-05T02:34:09+07:00</lastmod>
   </url>
   
   <url>
@@ -634,7 +639,7 @@
   
   <url>
     <loc>https://example.com/KM/customs/customs/import-export/transit/</loc>
-    <lastmod>2020-06-04T17:06:36+07:00</lastmod>
+    <lastmod>2020-06-04T17:59:50+07:00</lastmod>
   </url>
   
   <url>
