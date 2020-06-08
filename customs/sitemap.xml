@@ -4,7 +4,17 @@
   
   <url>
     <loc>https://example.com/KM/customs/customs/import-export/import/</loc>
-    <lastmod>2020-06-08T02:17:48+07:00</lastmod>
+    <lastmod>2020-06-08T10:03:07+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/KM/customs/customs/free-trade/</loc>
+    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/KM/customs/customs/free-trade/checklist/</loc>
+    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
   </url>
   
   <url>
@@ -78,13 +88,18 @@
   </url>
   
   <url>
+    <loc>https://example.com/KM/customs/customs/tax-incentive/section_29/</loc>
+    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://example.com/KM/customs/customs/import-export/import/customs-clearance/</loc>
-    <lastmod>2020-06-08T02:17:48+07:00</lastmod>
+    <lastmod>2020-06-08T10:03:07+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/KM/customs/customs/import-export/export/customs-clearance/</loc>
-    <lastmod>2020-06-08T02:17:48+07:00</lastmod>
+    <lastmod>2020-06-08T10:03:07+07:00</lastmod>
   </url>
   
   <url>
@@ -95,6 +110,11 @@
   <url>
     <loc>https://example.com/KM/customs/book/gates/bill-gate-2/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/KM/customs/customs/free-trade/wto/</loc>
+    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
   </url>
   
   <url>
@@ -143,6 +163,11 @@
   </url>
   
   <url>
+    <loc>https://example.com/KM/customs/customs/tax-incentive/bond/</loc>
+    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://example.com/KM/customs/book/gates/bill-gate-3/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
@@ -183,6 +208,21 @@
   </url>
   
   <url>
+    <loc>https://example.com/KM/customs/customs/free-trade/self-certification/</loc>
+    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/KM/customs/customs/free-trade/acn/</loc>
+    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/KM/customs/customs/tax-incentive/freezone/</loc>
+    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://example.com/KM/customs/customs/import-export/import/excise/</loc>
     <lastmod>2020-06-04T17:06:36+07:00</lastmod>
   </url>
@@ -218,6 +258,16 @@
   </url>
   
   <url>
+    <loc>https://example.com/KM/customs/customs/free-trade/ak/</loc>
+    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/KM/customs/customs/tax-incentive/ieat/</loc>
+    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://example.com/KM/customs/customs/import-export/import/import-car/</loc>
     <lastmod>2020-06-04T17:06:36+07:00</lastmod>
   </url>
@@ -245,6 +295,11 @@
   <url>
     <loc>https://example.com/KM/customs/book/deus/deus-5/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/KM/customs/customs/tax-incentive/compensate/</loc>
+    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
   </url>
   
   <url>
@@ -278,6 +333,11 @@
   </url>
   
   <url>
+    <loc>https://example.com/KM/customs/customs/tax-incentive/boi/</loc>
+    <lastmod>2020-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://example.com/KM/customs/customs/import-export/import/guide/arrival-date/</loc>
     <lastmod>2020-06-06T00:24:31+07:00</lastmod>
   </url>
@@ -308,6 +368,11 @@
   </url>
   
   <url>
+    <loc>https://example.com/KM/customs/customs/tax-incentive/boi-raw-material/</loc>
+    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://example.com/KM/customs/customs/import-export/import/guide/bill-of-loading-no/</loc>
     <lastmod>2020-06-06T00:24:31+07:00</lastmod>
   </url>
@@ -330,6 +395,16 @@
   <url>
     <loc>https://example.com/KM/customs/book/deus/deus-8/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/KM/customs/customs/free-trade/jtepa/</loc>
+    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/KM/customs/customs/tax-incentive/re-export/</loc>
+    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
   </url>
   
   <url>
@@ -463,6 +538,11 @@
   </url>
   
   <url>
+    <loc>https://example.com/KM/customs/customs/free-trade/ahk/</loc>
+    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://example.com/KM/customs/customs/import-export/import/guide/cif-value/</loc>
     <lastmod>2020-06-06T00:24:31+07:00</lastmod>
   </url>
@@ -489,7 +569,7 @@
   
   <url>
     <loc>https://example.com/KM/customs/customs/import-export/import/guide/part-4/</loc>
-    <lastmod>2020-06-08T02:17:48+07:00</lastmod>
+    <lastmod>2020-06-08T10:03:07+07:00</lastmod>
   </url>
   
   <url>
@@ -515,6 +595,16 @@
   <url>
     <loc>https://example.com/KM/customs/customs/import-export/import/guide/guarantee-fuel-fund/</loc>
     <lastmod>2020-06-06T00:24:31+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.2/incentive-regis-id/</loc>
+    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.2/data_structure_export/</loc>
+    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
   </url>
   
   <url>
@@ -563,8 +653,63 @@
   </url>
   
   <url>
+    <loc>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.3/</loc>
+    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://example.com/KM/customs/customs/import-export/transit/</loc>
     <lastmod>2020-06-08T02:17:48+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.2/data_structure_import/</loc>
+    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.2/visitor-registration/</loc>
+    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.2/shipping-marks/</loc>
+    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.2/quantity-and-weight/</loc>
+    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.2/assessment-request/</loc>
+    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.3/bond/</loc>
+    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.3/section_29/</loc>
+    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.3/boi/</loc>
+    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.3/freezone/</loc>
+    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.3/i-eat/</loc>
+    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
   </url>
   
   <url>
@@ -574,7 +719,7 @@
   
   <url>
     <loc>https://example.com/KM/customs/</loc>
-    <lastmod>2020-06-08T02:17:48+07:00</lastmod>
+    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
   </url>
   
   <url>
@@ -614,7 +759,7 @@
   
   <url>
     <loc>https://example.com/KM/customs/tax/</loc>
-    <lastmod>2020-06-08T02:17:48+07:00</lastmod>
+    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
   </url>
   
   <url>
@@ -688,13 +833,28 @@
   </url>
   
   <url>
+    <loc>https://example.com/KM/customs/customs/free-trade/afta/</loc>
+    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.2/</loc>
+    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/KM/customs/customs/tax-incentive/</loc>
+    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://example.com/KM/customs/customs/import-export/transit/</loc>
     <lastmod>2020-06-04T17:59:50+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/KM/customs/customs/import-export/export/</loc>
-    <lastmod>2020-06-08T02:17:48+07:00</lastmod>
+    <lastmod>2020-06-08T10:03:07+07:00</lastmod>
   </url>
   
   <url>
@@ -715,6 +875,16 @@
   <url>
     <loc>https://example.com/KM/customs/customs/import-export/import/guide/direct_main/</loc>
     <lastmod>2020-06-04T17:06:36+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/KM/customs/customs/free-trade/direct_main/</loc>
+    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/KM/customs/customs/tax-incentive/direct_main/</loc>
+    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
   </url>
   
   <url>

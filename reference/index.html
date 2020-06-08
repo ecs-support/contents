@@ -1,241 +1,160 @@
+.<!DOCTYPE html>
 <html>
 
 <head>
-	<title>13 Pure CSS Mobile Devices from @marvelapp</title>
-	<meta name="description"
-		content="Pure CSS Mobile Devices Freebie from Marvel - all colours of Apple iPhone 8, iPhone 8 Plus, iPhone 5S, iPhone 5C, iPhone 4S, iPad Mini, Nexus 5, Galaxy S5, HTC One, Lumia 920, Macbook Pro, Samsung Note 8, iPhone X">
-	<meta name="keywords"
-		content="prototyping, dropbox, prototype, free, psd, sketch app, design, wireframing, real-time, iPhone prototyping, Android prototype, web prototype, freebie, mockups, css, html, devices, iphone, ipad, nexus, galaxy, lumia, marvel, marvel prototyping, nokia, samsung, pure css iPhone, iPhone made with css, android made with css, css only iPhone, css only android, css only android, iphone 6, iphone 5s, macbook pro, macbook, retina, iphone 7, iphone 8, iphone 8 plus, iphone 7 plus, iphone 6 plus, pure css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet"
+        type="text/css">
+    <style>
+        body,
+        html {
+            
+
+        }
+
+        .bg {
+            /* The image used */
+            background-image:
+                url("static/img/ship.jpg");
+
+            /* Full height */
+            height: 100%;
+            margin:0;
+            top: 0;
+
+            /* Center and scale the image nicely */
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+
+        .logo_ecs {
+            width: 7em;
+            padding-top: 10px;
+            cursor: pointer;
+
+        }
+
+        /* Position text in the top-left corner */
+        .topleft {
+            position: absolute;
+            top: 0;
+            left: 16px;
+        }
+
+        /* Position text in the bottom-left corner */
+        .bottomleft {
+            position: absolute;
+            bottom: 0;
+            left: 16px;
+        }
+
+        .mb-5 {
+            font-family: "Lato", sans-serif;
+            letter-spacing: .5px;
+            font-size: 3.5em;
+            margin-bottom: .5em;
+            text-align: left;
+            font-weight: 500;
+            margin-left: 1.2em;
+        }
+
+        .responsive {
+            width: auto;
+            height: 100%;
+        }
+
+        /* Position text in the middle */
+        .middle {
+            position: absolute;
+            top: 40%;
+            left: 45%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+        }
+
+        .custom-select {
+
+            font-family: "Kanit", sans-serif;
+            letter-spacing: .22px;
+            text-align: left;
+            color: #003366;
+            font-weight: 400;
+            font-size: 1em;
+        }
+    </style>
 </head>
 
-
-
-<link rel="stylesheet" href="assets/style.css" type="text/css">
-<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/hybrid.min.css">
-<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.2/highlight.min.js"></script>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js'></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Share+Tech+Mono'>
-
-<style>
-	.content {
-		margin: 0;
-		padding: 0;
-		border: 0;
-	}
-
-	.navbar {
-		overflow: hidden;
-		background: radial-gradient(ellipse, #0a2e38 0%, #000000 80%);
-	}
-
-
-	.navbar a {
-		float: left;
-		font-size: 16px;
-		color: white;
-		text-align: center;
-		padding: 14px 16px;
-		text-decoration: none;
-	}
-
-	.dropdown {
-		float: left;
-		overflow: hidden;
-	}
-
-	.dropdown .dropbtn {
-		font-size: 16px;
-		border: none;
-		outline: none;
-		color: white;
-		padding: 14px 16px;
-		background-color: inherit;
-		font-family: inherit;
-		margin: 0;
-	}
-
-	.navbar a:hover,
-	.dropdown:hover .dropbtn {
-		color: red;
-	}
-
-	.dropdown-content {
-		display: none;
-		position: absolute;
-		background-color: #000;
-		min-width: 160px;
-		box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
-		z-index: 1;
-	}
-
-	.dropdown-content a {
-		float: none;
-		color: white;
-		padding: 12px 16px;
-		text-decoration: none;
-		display: block;
-		text-align: left;
-	}
-
-	.dropdown-content a:hover {
-		color: red;
-	}
-
-	.dropdown:hover .dropdown-content {
-		display: block;
-
-	}
-</style>
-
-
 <body>
-	<div class="navbar">
-		<a onclick="document.getElementById('showme').src=('video-title.html')">Home</a>
+    <div class="bg responsive">
+        <img src="static/img/ECS_Logo_2020.png" class="float-left logo_ecs" id="logo" onclick="newDoc()">
 
-		<div class="dropdown">
-			<button class="dropbtn">Analog
-				<i class="fa fa-caret-down"></i>
-			</button> 
-			<div class="dropdown-content">
+        <!-- Masthead -->
+        <header class="masthead text-white text-center middle">
+            <div class="overlay"></div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-9 mx-auto">
+                        <h1 class="mb-5">Reference data:</h1>
+                    </div>
+                    <div class="col-md-10 col-lg-8 col-xl-7 mx-auto">
+                        <form>
+                            <div class="form-row">
+                                <div class="col-12 col-md-9 mb-2 mb-md-0">
+                                    <select class="custom-select custom-select-lg custom-select-danger border-danger"
+                                        id="select" name="select_ref">
+                                        <option value="#" selected>Select reference data</option>
+                                        <option value="exchange_rate">อัตราแลกเปลี่ยนกรมศุลกากร</option>
+                                        <option value="permission">พิกัดอัตราศุลกากร และรหัสสถิติที่ต้องมีใบอนุญาต
+                                        </option>
+                                        <option value="exampt">รหัสยกเว้นไม่ต้องมีใบอนุญาต/ใบรับรอง</option>
+                                        <option value="unit_code">รหัสหน่วยสินค้า (Unit Code)</option>
+                                        <option value="package_code">รหัสลักษณะหีบห่อ (Package Unit Code)</option>
+                                        <option value="area_code">รหัสสถานที่กรมศุลกากร</option>
+                                        <option value="port_code">รหัสท่า (ISO Port Code)</option>
+                                        <option value="part4_code">พิกัดศุลกากรภาค 4 (ของที่ได้รับการยกเว้นอากร)
+                                        </option>
+                                        <option value="privilege_code">รหัสสิทธิพิเศษ (Privilege Code)</option>
+                                        <option value="export_duty_rate">พิกัดอัตราอากรขาออก</option>
+                                        <option value="country_code">รหัสประเทศ (Country Code)</option>
+                                        <option value="container_size">ขนาดและประเภทตู้สินค้า</option>
+                                        <option value="cartype_code">รหัสประเภทรถ (Car Type)</option>
+                                        <option value="province_code">รหัสจังหวัด (Province Code)</option>
+                                    </select>
+                                </div>
+                                <div class="col-12 col-md-3">
+                                    <button type="submit" id="btn_submit"
+                                        class="btn btn-block btn-lg btn-danger">Submit</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </header>
+    </div>
 
-				<a onclick="document.getElementById('showme').src=('clock/analog-clockwise/index.html')">Analog Circle-01</a>
-				<a onclick="document.getElementById('showme').src=('clock/analog-w3c/index.html')">Analog Circle-02</a>
-				<a onclick="document.getElementById('showme').src=('clock/analog-apple-01/index.html')">Apple Watch-01</a>
-				<a onclick="document.getElementById('showme').src=('clock/analog-apple-02/index.html')">Apple Watch-02</a>
-			
-				<a onclick="document.getElementById('showme').src=('clock/analog-background/index.html')">Clock on
-					the Background</a>
-			</div>
-		</div>
+    <script>
+        function newDoc() {
+            window.location.assign("https://ecs-support.github.io/knowledge-center/customs-clearance/")
+        }
 
-		<div class="dropdown">
-			<button class="dropbtn">Digital
-				<i class="fa fa-caret-down"></i>
-			</button>
-			<div class="dropdown-content">
-				<a onclick="document.getElementById('showme').src=('clock/digital-clock/index.html')">Digital-01</a>
-				<a onclick="document.getElementById('showme').src=('clock/digital-clock-02/index.html')">Digital-02</a>
-				<a onclick="document.getElementById('showme').src=('clock/smart-watch/index.html')">Digital-03</a>
-				<a
-					onclick="document.getElementById('showme').src=('clock/digital-alarm-clock/index.html')">Digital-Alarm</a>
-			</div>
-		</div>
+        function selectRef(event) {
+            var ref = event.target.value;
 
-		<div class="dropdown">
-			<button class="dropbtn">Flip
-				<i class="fa fa-caret-down"></i>
-			</button>
-			<div class="dropdown-content">
-				<a onclick="document.getElementById('showme').src=('clock/flip-01/index.html')">Flip-01</a>
-				<a onclick="document.getElementById('showme').src=('clock/flip-02/index.html')">Flip-02</a>
-				<a onclick="document.getElementById('showme').src=('clock/clock-ticker/index.html')">Tricker</a>
-				<a onclick="document.getElementById('showme').src=('clock/tempo-atual/index.html')">Tempo</a>
-			</div>
-		</div>
-
-		<div class="dropdown">
-			<button class="dropbtn">Hybrid
-				<i class="fa fa-caret-down"></i>
-			</button>
-			<div class="dropdown-content">
-				<a onclick="document.getElementById('showme').src=('clock/hybrid-01/index.html')">Hybrid-01</a>
-				<a onclick="document.getElementById('showme').src=('clock/hybrid-02/index.html')">Hybrid-02</a>
-			</div>
-		</div>
-
-		 
-
-
-
-		
-
-		<script>
-			document.getElementById('analog-02').onclick = document.getElementById('showme').src=('clock/analog-apple-02/index.html');
-			document.getElementById('analog-01').onclick = displayData("analog-01");
-
-
-
-		/* When the user clicks on the button, 
-		toggle between hiding and showing the dropdown content */
-		function myFunction() {
-			document.getElementById("myDropdown").classList.toggle("show");
-		}
-
-		// Close the dropdown if the user clicks outside of it
-		window.onclick = function (e) {
-			if (!e.target.matches('.dropbtn')) {
-				var myDropdown = document.getElementById("myDropdown");
-				
-				console.log(myDropdown)
-				if (myDropdown.classList.contains('show')) {
-					myDropdown.classList.remove('show');
-				}
-			}
-
-
-		</script>
-
-	</div>
-
-	<section id="macbook" class="black">
-		<div class="wrap">
-			<h1 id='id-01'>Clock & Time Solution</h1>
-
-			<div class="marvel-device macbook">
-				<div class="top-bar"></div>
-
-				<div class="camera"></div>
-
-
-				<div class="screen">
-
-
-
-
-
-					<div class="content">
-						<iframe id="showme" src="clock/video-title.html" style="width:100%;border:none;height:100%">
-
-
-					</div>
-
-				</div>
-
-				<div class="bottom-bar"></div>
-
-
-
-			</div>
-			
-
-
-		</div>
-		</div>
-	</section>
-
-	
-	
+            var files = ref + ".html"
+            document.location = files
+            //location.replace(files)
+        }
+        document.querySelector('#select').addEventListener('change', selectRef, false);
+    </script>
 
 
 </body>
-<script type="text/javascript" src="//code.jquery.com/jquery-2.1.1.min.js"></script>
-<script type="text/javascript" src="assets/main.min.js"></script>
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-
-
-<script type="text/javascript">
-			var _gaq = _gaq || [];
-			_gaq.push(['_setAccount', 'UA-38711157-1']);
-			_gaq.push(['_trackPageview']);
-
-			(function () {
-				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-				ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-			})();
-</script>
 
 </html>
