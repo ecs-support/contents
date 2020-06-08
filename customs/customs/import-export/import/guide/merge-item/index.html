@@ -29,10 +29,7 @@
   
     
   
-  <meta name="description" content="เลขที่บัญชีราคาสินค้า (Invoice Number) ให้ระบุค่าตามจริง กรณีการนำเข้าไม่หมดในครั้งเดียว สามารถใช้เลขที่บัญชีราคาสินค้า ในใบขนสินค้าขาเข้าซ้ำได้อีก
- ลำดับรายการในบัญชีราคาสินค้า (Invoice Item Number) ให้ระบุค่าตามจริง
- เพื่อเป็นการแจ้งว่ารายการในใบขนสินค้าขาเข้ารายการนี้มาจาก Invoice Number และ Invoice Item Number ใด ในแต่ละรายการของใบขนสินค้าขาเข้าสามารถใช้ Invoice Number และ Invoice Item Number ซ้ำกันได้ เช่น กรณีใช้สิทธิ BOI, ใช้สิทธิตามมาตรา 29, สุทธินำกลับ   หลักการรวมเอกสาร Invoice เป็นข้อมูล Import Declaration Detail  สามารถบันทึกข้อมูลรายละเอียดใบขนสินค้าจัดกลุ่มรายการตามพิกัดศุลกากร (Tariff Code) และรหัสสถิติสินค้า (Statistical Code) เดียวกันรวมกันได้ภายใต้เงื่อนไข ดังนี้
- ชนิดของภาษาอังกฤษ (English Description of Goods) และชนิดของภาษาไทย (Thai Description of Goods) เดียวกัน และ ราคาต่อหน่วยเงินต่างประเทศ (Unit Price Foreign) และราคาต่อหน่วยเงินบาท (Unit Price Baht) เท่ากัน และ รหัสสกุลเงินตรา (Currency) ตามมาตรฐาน ISO ของแต่ละรายการเหมือนกัน และ รหัสประเทศกำเนิด (Origin Country) ตามมาตรฐาน ISO เดียวกัน และ ปีที่ผลิตสินค้า (Product Year) เดียวกัน และ พิกัดสรรพสามิต (Excise No) รวมถึงปริมาณที่ใช้ในการคำนวณภาษีสรรพสามิต (Excise Quantity) และหน่วยของปริมาณ (Excise Quantity Unit) ตามมาตรฐาน ISO เดียวกัน มีรหัสสิทธิพิเศษ (Privilege Code) เดียวกัน และมีประเภทของข้อมูล (Nature of Transaction) เดียวกัน เช่น 11 = เป็นการค้า , 21 = เป็นของแถม/ไม่มีมูลค่าทางการค้า , 90 = รับจ้างทำของ เป็นต้น   ในการจัดทำข้อมูลใบขนสินค้าขาเข้าให้แยกรายการของในส่วน Import Declaration Detail แม้ตามบัญชีราคาสินค้าจะมี Invoice Item Number ซ้ำกัน ในกรณีใช้สิทธิทางภาษีอากรต่างกัน ดังนี้">
+  <meta name="description" content="หลักการรวมรายการสินค้า">
 
   
   <link rel="alternate" hreflang="en-us" href="https://example.com/KM/customs/customs/import-export/import/guide/merge-item/">
@@ -86,7 +83,7 @@
   
   
   
-  <link rel="stylesheet" href="/KM/customs/css/academia.min.d0978ed887edf3729ce23fc1cc6ae7ff.css">
+  <link rel="stylesheet" href="/KM/customs/css/academia.min.ab7625358bc9603ec5eac68c862a4c0e.css">
 
   
 
@@ -114,15 +111,12 @@
   <meta property="og:site_name" content="ECS">
   <meta property="og:url" content="https://example.com/KM/customs/customs/import-export/import/guide/merge-item/">
   <meta property="og:title" content="หลักการรวมรายการสินค้า | ECS">
-  <meta property="og:description" content="เลขที่บัญชีราคาสินค้า (Invoice Number) ให้ระบุค่าตามจริง กรณีการนำเข้าไม่หมดในครั้งเดียว สามารถใช้เลขที่บัญชีราคาสินค้า ในใบขนสินค้าขาเข้าซ้ำได้อีก
- ลำดับรายการในบัญชีราคาสินค้า (Invoice Item Number) ให้ระบุค่าตามจริง
- เพื่อเป็นการแจ้งว่ารายการในใบขนสินค้าขาเข้ารายการนี้มาจาก Invoice Number และ Invoice Item Number ใด ในแต่ละรายการของใบขนสินค้าขาเข้าสามารถใช้ Invoice Number และ Invoice Item Number ซ้ำกันได้ เช่น กรณีใช้สิทธิ BOI, ใช้สิทธิตามมาตรา 29, สุทธินำกลับ   หลักการรวมเอกสาร Invoice เป็นข้อมูล Import Declaration Detail  สามารถบันทึกข้อมูลรายละเอียดใบขนสินค้าจัดกลุ่มรายการตามพิกัดศุลกากร (Tariff Code) และรหัสสถิติสินค้า (Statistical Code) เดียวกันรวมกันได้ภายใต้เงื่อนไข ดังนี้
- ชนิดของภาษาอังกฤษ (English Description of Goods) และชนิดของภาษาไทย (Thai Description of Goods) เดียวกัน และ ราคาต่อหน่วยเงินต่างประเทศ (Unit Price Foreign) และราคาต่อหน่วยเงินบาท (Unit Price Baht) เท่ากัน และ รหัสสกุลเงินตรา (Currency) ตามมาตรฐาน ISO ของแต่ละรายการเหมือนกัน และ รหัสประเทศกำเนิด (Origin Country) ตามมาตรฐาน ISO เดียวกัน และ ปีที่ผลิตสินค้า (Product Year) เดียวกัน และ พิกัดสรรพสามิต (Excise No) รวมถึงปริมาณที่ใช้ในการคำนวณภาษีสรรพสามิต (Excise Quantity) และหน่วยของปริมาณ (Excise Quantity Unit) ตามมาตรฐาน ISO เดียวกัน มีรหัสสิทธิพิเศษ (Privilege Code) เดียวกัน และมีประเภทของข้อมูล (Nature of Transaction) เดียวกัน เช่น 11 = เป็นการค้า , 21 = เป็นของแถม/ไม่มีมูลค่าทางการค้า , 90 = รับจ้างทำของ เป็นต้น   ในการจัดทำข้อมูลใบขนสินค้าขาเข้าให้แยกรายการของในส่วน Import Declaration Detail แม้ตามบัญชีราคาสินค้าจะมี Invoice Item Number ซ้ำกัน ในกรณีใช้สิทธิทางภาษีอากรต่างกัน ดังนี้"><meta property="og:image" content="https://example.com/KM/customs/img/icon-192.png">
+  <meta property="og:description" content="หลักการรวมรายการสินค้า"><meta property="og:image" content="https://example.com/KM/customs/img/icon-192.png">
   <meta property="twitter:image" content="https://example.com/KM/customs/img/icon-192.png"><meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2020-05-19T00:00:00&#43;00:00">
   
-  <meta property="article:modified_time" content="2020-06-04T17:06:36&#43;07:00">
+  <meta property="article:modified_time" content="2020-06-06T00:24:31&#43;07:00">
   
 
   
@@ -270,6 +264,26 @@
         
         
         
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/tax/"><span>สิทธิประโยชน์</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
           
         
 
@@ -304,28 +318,6 @@
 
         <li class="nav-item">
           <a class="nav-link " href="/KM/customs/post/"><span>Posts</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-
-        <li class="nav-item">
-          <a class="nav-link  active" href="/KM/customs/customs/"><span>พิธีการศุลกากร</span></a>
         </li>
 
         
@@ -410,124 +402,142 @@
   
   
   <div class="docs-toc-item">
-    <a class="docs-toc-link" href="/KM/customs/customs/import-export/import/guide/guide/">import</a>
+    <a class="docs-toc-link" href="/KM/customs/customs/import-export/import/guide/">Overview</a>
 
   </div>
   
   <div class="docs-toc-item">
-    <a class="docs-toc-link" href="/KM/customs/customs/import-export/import/guide/">Overview</a>
-    <ul class="nav docs-sidenav">
-      
-      <li >
-        <a href="/KM/customs/customs/import-export/import/guide/data-structure/">โครงสร้างข้อมูล</a>
-      </li>
-      
-      <li >
-        <a href="/KM/customs/customs/import-export/import/guide/calculate-cif/">การตรวจสอบผลการคำนวณมูลค่าเงิน</a>
-      </li>
-      
-      <li >
-        <a href="/KM/customs/customs/import-export/import/guide/declaration-no/">รูปแบบเลขที่ใบขนสินค้า</a>
-      </li>
-      
-      <li >
-        <a href="/KM/customs/customs/import-export/import/guide/type-ducument/">ประเภทของเอกสาร</a>
-      </li>
-      
-      <li >
-        <a href="/KM/customs/customs/import-export/import/guide/contact-registration/">ระบบทะเบียนผู้มาติดต่อ</a>
-      </li>
-      
-      <li >
-        <a href="/KM/customs/customs/import-export/import/guide/arrival-date/">วันนำเข้า</a>
-      </li>
-      
-      <li >
-        <a href="/KM/customs/customs/import-export/import/guide/bill-of-loading-no/">เลขที่ใบตราส่ง</a>
-      </li>
-      
-      <li >
-        <a href="/KM/customs/customs/import-export/import/guide/area/">รหัสสถานที่นำเข้า</a>
-      </li>
-      
-      <li >
-        <a href="/KM/customs/customs/import-export/import/guide/shipping-marks/">เครื่องหมายหีบห่อ</a>
-      </li>
-      
-      <li >
-        <a href="/KM/customs/customs/import-export/import/guide/quantity-weight/">จำนวนและน้ำหนัก</a>
-      </li>
-      
-      <li >
-        <a href="/KM/customs/customs/import-export/import/guide/assessment-request-code/">ต้องการให้ตรวจสอบข้อมูล</a>
-      </li>
-      
-      <li >
-        <a href="/KM/customs/customs/import-export/import/guide/currency-code-exchange-rate/">อัตราแลกเปลี่ยน</a>
-      </li>
-      
-      <li class="active">
-        <a href="/KM/customs/customs/import-export/import/guide/merge-item/">หลักการรวมรายการสินค้า</a>
-      </li>
-      
-      <li >
-        <a href="/KM/customs/customs/import-export/import/guide/cif-value/">ราคาของ</a>
-      </li>
-      
-      <li >
-        <a href="/KM/customs/customs/import-export/import/guide/incoterms/">Incoterms</a>
-      </li>
-      
-      <li >
-        <a href="/KM/customs/customs/import-export/import/guide/part-4/">ภาค 4 ของที่ได้รับยกเว้นอากร</a>
-      </li>
-      
-      <li >
-        <a href="/KM/customs/customs/import-export/import/guide/tax-incentives/">สิทธิประโยชน์ทางภาษีอากร</a>
-      </li>
-      
-      <li >
-        <a href="/KM/customs/customs/import-export/import/guide/guarantee-argumentative/">การวางประกันโต้แย้งพิกัดอัตราศุลกากร</a>
-      </li>
-      
-      <li >
-        <a href="/KM/customs/customs/import-export/import/guide/guarantee-fuel-fund/">การวางประกันกองทุนน้ำมันเชื้อเพลิง</a>
-      </li>
-      
-      <li >
-        <a href="/KM/customs/customs/import-export/import/guide/gurantee-anti-dumping/">อากรตอบโต้การทุ่มตลาดและการอุดหนุน</a>
-      </li>
-      
-      <li >
-        <a href="/KM/customs/customs/import-export/import/guide/input-duty/">การบันทึกค่าภาษีอากรและวางประกัน</a>
-      </li>
-      
-      <li >
-        <a href="/KM/customs/customs/import-export/import/guide/payment-method/">Payment Method</a>
-      </li>
-      
-      <li >
-        <a href="/KM/customs/customs/import-export/import/guide/argumentative-reason-code/">รหัสเหตุผลการโต้แย้ง</a>
-      </li>
-      
-      <li >
-        <a href="/KM/customs/customs/import-export/import/guide/type-duty/">ประเภทค่าภาษีอากร (Duty Type)</a>
-      </li>
-      
-      <li >
-        <a href="/KM/customs/customs/import-export/import/guide/permit-issue-authority/">หน่วยงานผู้ออกใบอนุญาต</a>
-      </li>
-      
-      <li >
-        <a href="/KM/customs/customs/import-export/import/guide/checking-mainfest/">การตัดบัญชีใบขนสินค้ากับรายงานการนำของเข้า</a>
-      </li>
-      
-      <li >
-        <a href="/KM/customs/customs/import-export/import/guide/privilege/">รหัสสิทธิพิเศษ (Privilege Code)</a>
-      </li>
-      
-    </ul>
-    
+    <a class="docs-toc-link" href="/KM/customs/customs/import-export/import/guide/data-structure/">โครงสร้างข้อมูล</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/customs/import-export/import/guide/calculate-cif/">การตรวจสอบผลการคำนวณ</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/customs/import-export/import/guide/type-ducument/">ประเภทของเอกสาร</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/customs/import-export/import/guide/declaration-no/">รูปแบบเลขที่ใบขนสินค้า</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/customs/import-export/import/guide/contact-registration/">การตรวจสอบระบบทะเบียน</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/customs/import-export/import/guide/arrival-date/">วันนำเข้า</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/customs/import-export/import/guide/bill-of-loading-no/">เลขที่ใบตราส่ง</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/customs/import-export/import/guide/area/">รหัสสถานที่นำเข้า</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/customs/import-export/import/guide/shipping-marks/">เครื่องหมายหีบห่อ</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/customs/import-export/import/guide/quantity-weight/">จำนวนและน้ำหนัก</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/customs/import-export/import/guide/assessment-request-code/">Assessment Request Code</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/customs/import-export/import/guide/currency-code-exchange-rate/">อัตราแลกเปลี่ยน</a>
+
+  </div>
+  
+  <div class="docs-toc-item active">
+    <a class="docs-toc-link" href="/KM/customs/customs/import-export/import/guide/merge-item/">หลักการรวมรายการ</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/customs/import-export/import/guide/cif-value/">ราคาของ</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/customs/import-export/import/guide/incoterms/">INCOTERMS</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/customs/import-export/import/guide/part-4/">ภาค 4 ของที่ได้รับยกเว้นอากร</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/customs/import-export/import/guide/tax-incentives/">สิทธิประโยชน์ทางภาษีอากร</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/customs/import-export/import/guide/guarantee-argumentative/">การวางประกันโต้แย้งพิกัด</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/customs/import-export/import/guide/guarantee-fuel-fund/">การวางประกันกองทุนน้ำมัน</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/customs/import-export/import/guide/gurantee-anti-dumping/">ตอบโต้การทุ่มตลาดและการอุดหนุน</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/customs/import-export/import/guide/input-duty/">การบันทึกค่าภาษี/วางประกัน</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/customs/import-export/import/guide/payment-method/">Payment Method</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/customs/import-export/import/guide/argumentative-reason-code/">รหัสเหตุผลการโต้แย้ง</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/customs/import-export/import/guide/type-duty/">ประเภทค่าภาษีอากร</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/customs/import-export/import/guide/permit-issue-authority/">หน่วยงานผู้ออกใบอนุญาต</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/customs/import-export/import/guide/checking-mainfest/">การตัดบัญชีใบขนสินค้า</a>
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/customs/import-export/import/guide/privilege/">รหัสสิทธิพิเศษ</a>
 
   </div>
   
@@ -637,7 +647,7 @@
         </div>
 
         <div class="body-footer">
-          Last updated on Jun 4, 2020
+          Last updated on Jun 6, 2020
         </div>
 
       </article>
@@ -834,7 +844,7 @@
     
     
     
-    <script src="/KM/customs/js/academia.min.e4fc229c2f28284fc2dfa5b66a52b765.js"></script>
+    <script src="/KM/customs/js/academia.min.6bc303868ec814f56536a027787f9a07.js"></script>
 
     
 
