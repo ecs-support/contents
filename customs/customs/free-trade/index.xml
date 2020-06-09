@@ -1001,19 +1001,5 @@
 </description>
     </item>
     
-    <item>
-      <title>กลับไปเมนูหลัก  พิธีการศุลกากร</title>
-      <link>https://example.com/KM/customs/customs/free-trade/direct_main/</link>
-      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/KM/customs/customs/free-trade/direct_main/</guid>
-      <description>&lt;script&gt;
-   var files = &#39;/knowledge-center/customs/customs/index.html&#39;
-   //document.location = files
-   location.replace(files)
-  &lt;/script&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
