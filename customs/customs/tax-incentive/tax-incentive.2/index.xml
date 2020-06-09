@@ -164,7 +164,9 @@
       <guid>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.2/data_structure_export/</guid>
       <description>
 
-&lt;h2 id=&#34;โครงสร-างข-อม-ลใบขนส-นค-าขาออกโอนย-ายภายในประเทศ-แบ-งได-เป-น-6-ส-วนด-งน&#34;&gt;โครงสร้างข้อมูลใบขนสินค้าขาออกโอนย้ายภายในประเทศ แบ่งได้เป็น 6 ส่วนดังนี้&lt;/h2&gt;
+&lt;h2 id=&#34;โครงสร-างข-อม-ล&#34;&gt;โครงสร้างข้อมูล&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;โครงสร้างข้อมูลใบขนสินค้าขาออกโอนย้ายภายในประเทศ แบ่งได้เป็น 6 ส่วนดังนี้&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;#export-declaration-control&#34;&gt;&lt;strong&gt;Export Declaration Control&lt;/strong&gt;&lt;/a&gt;    ประกอบด้วย  70 Fields&lt;/li&gt;
@@ -175,7 +177,9 @@
 &lt;li&gt;&lt;a href=&#34;#export-invoice-deposit&#34;&gt;&lt;strong&gt;Export Invoice Detail (Deposit)&lt;/strong&gt;&lt;/a&gt;   ประกอบด้วย   2 Fields&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&#34;เง-อนไขการบ-นท-กข-อม-ล-ในกรณ-ผ-บ-นท-กไม-สามารถหาข-อม-ลได&#34;&gt;เงื่อนไขการบันทึกข้อมูล ในกรณีผู้บันทึกไม่สามารถหาข้อมูลได้&lt;/h2&gt;
+&lt;h2 id=&#34;เง-อนไขการบ-นท-กข-อม-ล&#34;&gt;เงื่อนไขการบันทึกข้อมูล&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;เงื่อนไขการบันทึกข้อมูล ในกรณีผู้บันทึกไม่สามารถหาข้อมูลได้&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;หาก Field ใด กำหนดให้ต้องระบุค่า &lt;strong&gt;(Value = M)&lt;/strong&gt; แต่ผู้บันทึกไม่สามารถหาข้อมูลได้&lt;/li&gt;
@@ -188,7 +192,9 @@
 &lt;br /&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&#34;อ-กษรย-อ-ท-ใช-ในการอธ-บายร-ปแบบชน-ดของข-อม-ล&#34;&gt;อักษรย่อ ที่ใช้ในการอธิบายรูปแบบชนิดของข้อมูล&lt;/h2&gt;
+&lt;h2 id=&#34;อ-กษรย-อ&#34;&gt;อักษรย่อ&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;อักษรย่อ ที่ใช้ในการอธิบายรูปแบบชนิดของข้อมูล&lt;/strong&gt;&lt;/p&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
@@ -316,7 +322,9 @@
       <guid>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.2/data_structure_import/</guid>
       <description>
 
-&lt;h2 id=&#34;โครงสร-างข-อม-ลใบขนส-นค-าขาเข-าโอนย-ายภายในประเทศ-แบ-งได-เป-น-6-ส-วนด-งน&#34;&gt;โครงสร้างข้อมูลใบขนสินค้าขาเข้าโอนย้ายภายในประเทศ แบ่งได้เป็น 6 ส่วนดังนี้&lt;/h2&gt;
+&lt;h2 id=&#34;โครงสร-างข-อม-ล&#34;&gt;โครงสร้างข้อมูล&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;โครงสร้างข้อมูลใบขนสินค้าขาเข้าโอนย้ายภายในประเทศ แบ่งได้เป็น 6 ส่วนดังนี้&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;#import-declaration-control&#34;&gt;&lt;strong&gt;Import Declaration Control&lt;/strong&gt;&lt;/a&gt;    ประกอบด้วย  73 Fields&lt;/li&gt;
@@ -327,7 +335,9 @@
 &lt;li&gt;&lt;a href=&#34;#import-invoice-deposit&#34;&gt;&lt;strong&gt;Import Invoice Detail (Deposit)&lt;/strong&gt;&lt;/a&gt;   ประกอบด้วย   2 Fields&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&#34;เง-อนไขการบ-นท-กข-อม-ล-ในกรณ-ผ-บ-นท-กไม-สามารถหาข-อม-ลได&#34;&gt;เงื่อนไขการบันทึกข้อมูล ในกรณีผู้บันทึกไม่สามารถหาข้อมูลได้&lt;/h2&gt;
+&lt;h2 id=&#34;เง-อนไขการบ-นท-กข-อม-ล&#34;&gt;เงื่อนไขการบันทึกข้อมูล&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;เงื่อนไขการบันทึกข้อมูล ในกรณีผู้บันทึกไม่สามารถหาข้อมูลได้&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;หาก Field ใด กำหนดให้ต้องระบุค่า &lt;strong&gt;(Value = M)&lt;/strong&gt; แต่ผู้บันทึกไม่สามารถหาข้อมูลได้&lt;/li&gt;
@@ -341,6 +351,8 @@
 &lt;/ol&gt;
 
 &lt;h2 id=&#34;อ-กษรย-อ-ท-ใช-ในการอธ-บายร-ปแบบชน-ดของข-อม-ล&#34;&gt;อักษรย่อ ที่ใช้ในการอธิบายรูปแบบชนิดของข้อมูล&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;อักษรย่อ ที่ใช้ในการอธิบายรูปแบบชนิดของข้อมูล&lt;/strong&gt;&lt;/p&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
@@ -581,7 +593,7 @@
     </item>
     
     <item>
-      <title>ต้องการให้ตรวจสอบข้อมูลใบขนสินค้าขาเข้า (Assessment Request Code)</title>
+      <title>ต้องการให้ตรวจสอบข้อมูลใบขนสินค้า (Assessment Request Code)</title>
       <link>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.2/assessment-request/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
@@ -606,6 +618,20 @@
 &lt;li&gt;ระบบคอมพิวเตอร์ของศุลกากรจะสั่งการตรวจใบขนสินค้าขาเข้าเป็น &lt;strong&gt;&amp;ldquo;เปิดตรวจ&amp;rdquo;&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;พบพนักงานศุลกากร ณ หน่วยบริการศุลกากรที่นำของเข้า เพื่อยื่นหลักฐานหรือเอกสารมาแสดง หรือร้องขอให้พนักงานศุลกากรพิจารณาดำเนินการใด ๆ&lt;br /&gt;&lt;/li&gt;
 &lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>&lt;--กลับไปเมนูหลัก</title>
+      <link>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.2/direct_main/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.2/direct_main/</guid>
+      <description>&lt;script&gt;
+   var files = &#39;/KM/customs/customs/tax-incentive/&#39;
+   //document.location = files
+   location.replace(files)
+&lt;/script&gt;
 </description>
     </item>
     
