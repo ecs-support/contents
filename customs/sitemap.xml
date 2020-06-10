@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://example.com/KM/customs/customs/restricted-goods/</loc>
+    <lastmod>2020-06-04T11:31:58+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://example.com/KM/customs/customs/import-export/import/</loc>
     <lastmod>2020-06-08T10:03:07+07:00</lastmod>
   </url>
@@ -85,6 +90,11 @@
   <url>
     <loc>https://example.com/KM/customs/courses/example/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/KM/customs/customs/restricted-goods/connectting/</loc>
+    <lastmod>2020-06-04T11:31:58+07:00</lastmod>
   </url>
   
   <url>
@@ -213,6 +223,16 @@
   </url>
   
   <url>
+    <loc>https://example.com/KM/customs/customs/restricted-goods/announce/</loc>
+    <lastmod>2020-06-04T11:31:58+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/KM/customs/customs/restricted-goods/oga_contact/</loc>
+    <lastmod>2020-06-04T11:31:58+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://example.com/KM/customs/customs/free-trade/acn/</loc>
     <lastmod>2020-06-08T16:03:47+07:00</lastmod>
   </url>
@@ -255,6 +275,11 @@
   <url>
     <loc>https://example.com/KM/customs/book/deus/deus-4/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/KM/customs/customs/restricted-goods/dangerous_goods/</loc>
+    <lastmod>2020-06-04T11:31:58+07:00</lastmod>
   </url>
   
   <url>
@@ -648,6 +673,11 @@
   </url>
   
   <url>
+    <loc>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.3/</loc>
+    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://example.com/KM/customs/customs/import-export/transit/</loc>
     <lastmod>2020-06-08T02:17:48+07:00</lastmod>
   </url>
@@ -675,11 +705,6 @@
   <url>
     <loc>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.2/assessment-request/</loc>
     <lastmod>2020-06-09T16:19:41+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.3/</loc>
-    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
   </url>
   
   <url>
@@ -1045,6 +1070,26 @@
   <url>
     <loc>https://example.com/KM/customs/customs/</loc>
     <lastmod>2020-06-04T17:06:36+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/KM/customs/categories/%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%A1-%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B3%E0%B8%81%E0%B8%94/</loc>
+    <lastmod>2020-06-04T11:31:58+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/KM/customs/tags/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8/</loc>
+    <lastmod>2020-06-04T11:31:58+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/KM/customs/tags/%E0%B8%9C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B8%87%E0%B8%B2%E0%B8%99/</loc>
+    <lastmod>2020-06-04T11:31:58+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/KM/customs/tags/%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2/</loc>
+    <lastmod>2020-06-04T11:31:58+07:00</lastmod>
   </url>
   
 </urlset>

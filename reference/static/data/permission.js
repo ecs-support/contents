@@ -100163,13 +100163,13 @@ $(document).ready(function () {
   $("#table-ref").DataTable({
     data: dataSet,
     columns: [
-      { title: "พิกัด" },
-      { title: "รหัสสถิติ" },
+      { title: "พิกัด", className: "txt-center" },
+      { title: "รหัสสถิติ", className: "txt-center" },
       { title: "ประเภท" },
       { title: "หน่วยงาน" },
       { title: "คำอธิบาย" },
       { title: "คำอธิบายภาษาอังกฤษ" },
-      { title: "วันที่เริ่มต้น" },
+      { title: "วันที่เริ่มต้น", className: "txt-center" },
     ],
     responsive: true,
     scroller: true,

@@ -274,7 +274,18 @@
 
 &lt;h2 id=&#34;ประกาศ-กฎหมาย-ท-เก-ยวข-อง&#34;&gt;ประกาศ / กฎหมาย ที่เกี่ยวข้อง&lt;/h2&gt;
 
-&lt;h4 id=&#34;ประกาศกระทรวงการคล-ง&#34;&gt;ประกาศกระทรวงการคลัง&lt;/h4&gt;
+
+
+
+
+&lt;div class=&#34;book-tabs&#34;&gt;
+
+  &lt;input type=&#34;radio&#34; class=&#34;hidden&#34; name=&#34;tabs-uniqueid&#34; id=&#34;tabs-uniqueid-0&#34; checked=&#34;checked&#34; /&gt;
+  &lt;label for=&#34;tabs-uniqueid-0&#34;&gt;
+    ประกาศกระทรวงการคลัง
+  &lt;/label&gt;
+  &lt;div class=&#34;book-tabs-content markdown-inner&#34;&gt;
+    &lt;h4 id=&#34;ประกาศกระทรวงการคล-ง&#34;&gt;ประกาศกระทรวงการคลัง&lt;/h4&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14223132414c505e4f464a4e464b48&#34; target=&#34;_blank&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน ลงวันที่ 10 พฤศจิกายน 2560&lt;/a&gt;&lt;/li&gt;
@@ -282,66 +293,78 @@
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142231324147505f49464b49464b49&#34; target=&#34;_blank&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน (ฉบับที่ 2)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142231324147505f49464b49464b48&#34; target=&#34;_blank&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+  &lt;/div&gt;
 
-&lt;h4 id=&#34;ประกาศกรมศ-ลกากร&#34;&gt;ประกาศกรมศุลกากร&lt;/h4&gt;
+  &lt;input type=&#34;radio&#34; class=&#34;hidden&#34; name=&#34;tabs-uniqueid&#34; id=&#34;tabs-uniqueid-1&#34;  /&gt;
+  &lt;label for=&#34;tabs-uniqueid-1&#34;&gt;
+    ประกาศกรมศุลกากร
+  &lt;/label&gt;
+  &lt;div class=&#34;book-tabs-content markdown-inner&#34;&gt;
+    &lt;h4 id=&#34;ประกาศกรมศ-ลกากร&#34;&gt;ประกาศกรมศุลกากร&lt;/h4&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th align=&#34;center&#34;&gt;เลขที่ประกาศ&lt;/th&gt;
+&lt;th&gt;เลขที่ประกาศ&lt;/th&gt;
 &lt;th&gt;รายละเอียด&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;15/ 2563&lt;/td&gt;
+&lt;td&gt;15/ 2563&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142328324149505f48464b4b464b4a&#34; target=&#34;_blank&#34;&gt;แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 187/.2560&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;286/.2562&lt;/td&gt;
+&lt;td&gt;286/.2562&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142328324149505f46464b4c464b49&#34; target=&#34;_blank&#34;&gt;แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 187/.2560&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;207/.2562&lt;/td&gt;
+&lt;td&gt;207/.2562&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142328324148505f48464a4e464b49&#34; target=&#34;_blank&#34;&gt;แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 303/.2562&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;114/.2562&lt;/td&gt;
+&lt;td&gt;114/.2562&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142328324147505f49464b4d464b4c&#34; target=&#34;_blank&#34;&gt;แก้ไขเพิ่มเติมประกาศกรมศุลกากร ที่ 187/.2560&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;74/.2562&lt;/td&gt;
+&lt;td&gt;74/.2562&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142328324147505e4f464a4e464b47&#34; target=&#34;_blank&#34;&gt;แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 187/.2560&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;303/.2561&lt;/td&gt;
+&lt;td&gt;303/.2561&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832404f505f4a464b4a464b4b&#34; target=&#34;_blank&#34;&gt;แก้ไขเพิ่มเติมประกาศกรมศุลกากร ที่ 187/.2560&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;187/.2560&lt;/td&gt;
+&lt;td&gt;187/.2560&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14223132414c505f46464a4f464b4c&#34; target=&#34;_blank&#34;&gt;หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;158/.2560&lt;/td&gt;
+&lt;td&gt;158/.2560&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14223132414b505f4b464b49464b46&#34; target=&#34;_blank&#34;&gt;หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;240/.2559&lt;/td&gt;
+&lt;td&gt;240/.2559&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142231324149505f48464b4b464a4e&#34; target=&#34;_blank&#34;&gt;หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+  &lt;/div&gt;
 
-&lt;h4 id=&#34;ประกาศสำน-กพ-ก-ดอ-ตราศ-ลกากร&#34;&gt;ประกาศสำนักพิกัดอัตราศุลกากร&lt;/h4&gt;
+  &lt;input type=&#34;radio&#34; class=&#34;hidden&#34; name=&#34;tabs-uniqueid&#34; id=&#34;tabs-uniqueid-2&#34;  /&gt;
+  &lt;label for=&#34;tabs-uniqueid-2&#34;&gt;
+    ประกาศสำนักพิกัดอัตราศุลกากร
+  &lt;/label&gt;
+  &lt;div class=&#34;book-tabs-content markdown-inner&#34;&gt;
+    &lt;h4 id=&#34;ประกาศสำน-กพ-ก-ดอ-ตราศ-ลกากร&#34;&gt;ประกาศสำนักพิกัดอัตราศุลกากร&lt;/h4&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142231324147505f4c464b4c464b49&#34; target=&#34;_blank&#34;&gt;ประกาศสำนักพิกัดอัตราศุลกากร ที่่ 8 / 2554 เรื่อง การยื่น Invoice Declaration จากประเทศบรูไน ดารูซาลาม มาเลเซีย และสิงคโปร์ เพื่อผ่านพิธีการศุลกากรในการใช้สิทธิพิเศษทางภาษีศุลกากรในระบบรับรองถิ่นกำเนิดสินค้าด้วยตนเองของอาเซียน โดยการวางประกัน&lt;/a&gt;&lt;/li&gt;
@@ -350,6 +373,10 @@
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14223132414d505f46464a4f464b4b&#34; target=&#34;_blank&#34;&gt;ประกาศสำนักพิกัดอัตราศุลกากรที่ 3 / 2561 เรื่องการตีความคำว่า &amp;lsquo;other quanity&amp;rsquo; ในช่องที่ 9 ของหนังสือรับรองถิ่นกำเนิดสินค้า (Form D) ภายใต้ความตกลงการค้าสินค้าของอาเซียน&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142328324148505f48464a4e464a4e&#34; target=&#34;_blank&#34;&gt;ประกาศกองพิกัดอัตราศุลกากรที่ 10 / 2562 เรื่อง การใช้ Back-to-Back CO ควบคู่กับการใช้ใบกำกับราคาสินค้า Third Country invoicing ภายใต้ความตกลงการค้าสินค้าของอาเซียน&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
 
 &lt;hr /&gt;
 
@@ -441,86 +468,107 @@
 
 &lt;h2 id=&#34;ประกาศ-กฎหมาย-ท-เก-ยวข-อง&#34;&gt;ประกาศ / กฎหมาย ที่เกี่ยวข้อง&lt;/h2&gt;
 
-&lt;h4 id=&#34;ประกาศกระทรวงการคล-ง&#34;&gt;ประกาศกระทรวงการคลัง&lt;/h4&gt;
 
-&lt;ul&gt;
+
+
+
+&lt;div class=&#34;book-tabs&#34;&gt;
+
+  &lt;input type=&#34;radio&#34; class=&#34;hidden&#34; name=&#34;tabs-uniqueid&#34; id=&#34;tabs-uniqueid-0&#34; checked=&#34;checked&#34; /&gt;
+  &lt;label for=&#34;tabs-uniqueid-0&#34;&gt;
+    ประกาศกระทรวงการคลัง
+  &lt;/label&gt;
+  &lt;div class=&#34;book-tabs-content markdown-inner&#34;&gt;
+    &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14232a32414b505f48464b4d&#34; target=&#34;_blank&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-จีน&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142231324149505f46464b4a464b4c&#34; target=&#34;_blank&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน-จีน (30 ธันวาคม 2559)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14223132414c505e4f464b46464b4a&#34; target=&#34;_blank&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน - จีน ลงวันที่ 10 พฤศจิกายน 2560&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+  &lt;/div&gt;
 
-&lt;h4 id=&#34;ประกาศกรมศ-ลกากร-ไม-ม-เลข&#34;&gt;ประกาศกรมศุลกากร (ไม่มีเลข)&lt;/h4&gt;
-
-&lt;ul&gt;
+  &lt;input type=&#34;radio&#34; class=&#34;hidden&#34; name=&#34;tabs-uniqueid&#34; id=&#34;tabs-uniqueid-1&#34;  /&gt;
+  &lt;label for=&#34;tabs-uniqueid-1&#34;&gt;
+    ประกาศกรมศุลกากร (ไม่มีเลข)
+  &lt;/label&gt;
+  &lt;div class=&#34;book-tabs-content markdown-inner&#34;&gt;
+    &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142231324147505f49464b4a464b49&#34; target=&#34;_blank&#34;&gt;ประกาศกรมศุลกากร เรื่อง การนำเข้าเพื่อการใช้สิทธิพิเศษทางภาษีศุลกากรตามประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-จีน 29 กย 54&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+  &lt;/div&gt;
 
-&lt;h4 id=&#34;ประกาศกรมศ-ลกากร&#34;&gt;ประกาศกรมศุลกากร&lt;/h4&gt;
-
-&lt;table&gt;
+  &lt;input type=&#34;radio&#34; class=&#34;hidden&#34; name=&#34;tabs-uniqueid&#34; id=&#34;tabs-uniqueid-2&#34;  /&gt;
+  &lt;label for=&#34;tabs-uniqueid-2&#34;&gt;
+    ประกาศกรมศุลกากร
+  &lt;/label&gt;
+  &lt;div class=&#34;book-tabs-content markdown-inner&#34;&gt;
+    &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th align=&#34;center&#34;&gt;เลขที่&lt;/th&gt;
+&lt;th&gt;เลขที่&lt;/th&gt;
 &lt;th&gt;รายละเอียด&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;164 / 2562&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142328324147505f4d464a4e464a4f&#34; target=&#34;_blank&#34;&gt;แก้ไขพิ่มเติมประกาศกรมศุลกากรที่ 132 / 2562&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;164/.2562&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142328324147505f4d464a4e464a4f&#34; target=&#34;_blank&#34;&gt;แก้ไขพิ่มเติมประกาศกรมศุลกากรที่ 132/.2562&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;132 / 2562&lt;/td&gt;
+&lt;td&gt;132/.2562&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142328324147505f4a464b49464b47&#34; target=&#34;_blank&#34;&gt;หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-จีน&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;159 / 2560&lt;/td&gt;
+&lt;td&gt;159/.2560&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14223132414b505f4b464b49464b48&#34; target=&#34;_blank&#34;&gt;หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-จีน&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;239 / 2559&lt;/td&gt;
+&lt;td&gt;239/.2559&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142231324149505f48464b4d464b46&#34; target=&#34;_blank&#34;&gt;หลักเกณฑ์และพิธีการการยกเว้นอากรและการลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-จีน&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;94 / 2558&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142329324148505f4b464b48&#34; target=&#34;_blank&#34;&gt;แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 3 / 2555&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;94/.2558&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142329324148505f4b464b48&#34; target=&#34;_blank&#34;&gt;แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 3/.2555&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;3 / 2555&lt;/td&gt;
+&lt;td&gt;3/.2555&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232932404e505f47464b46&#34; target=&#34;_blank&#34;&gt;หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-จีน&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;83 / 2554&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832414d505f47464b46&#34; target=&#34;_blank&#34;&gt;แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 106 / 2553&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;83/.2554&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832414d505f47464b46&#34; target=&#34;_blank&#34;&gt;แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 106/.2553&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;53 / 2554&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142231324149505f48464b4d464a4f&#34; target=&#34;_blank&#34;&gt;แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 106 / 2553&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;53/.2554&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142231324149505f48464b4d464a4f&#34; target=&#34;_blank&#34;&gt;แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 106/.2553&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;106 / 2553&lt;/td&gt;
+&lt;td&gt;106/.2553&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832414c505f4a464b47&#34; target=&#34;_blank&#34;&gt;หลักเกณฑ์และพิธีการสำหรับการยกเว้นอากรและลดอัตราอากรศุลกากร สำหรับเขตการค้าเสรีอาเซียน-จีน&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;21 / 2553&lt;/td&gt;
+&lt;td&gt;21/.2553&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832414b505f4c464b48&#34; target=&#34;_blank&#34;&gt;หลักเกณฑ์และพิธีการสำหรับการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-จีน&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+  &lt;/div&gt;
 
-&lt;h4 id=&#34;ประกาศสำน-กพ-ก-ดอ-ตราศ-ลกากร&#34;&gt;ประกาศสำนักพิกัดอัตราศุลกากร&lt;/h4&gt;
-
-&lt;ul&gt;
+  &lt;input type=&#34;radio&#34; class=&#34;hidden&#34; name=&#34;tabs-uniqueid&#34; id=&#34;tabs-uniqueid-3&#34;  /&gt;
+  &lt;label for=&#34;tabs-uniqueid-3&#34;&gt;
+    ประกาศสำนักพิกัดอัตราศุลกากร
+  &lt;/label&gt;
+  &lt;div class=&#34;book-tabs-content markdown-inner&#34;&gt;
+    &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14232a32414b505f49464a4f&#34; target=&#34;_blank&#34;&gt;ประกาศสำนักพิกัดอัตราศุลกากร ที่ 2 / 2554 เรื่อง กรณีระบุข้อมูลในช่องที่ 1 ไม่เพียงพอและไประบุข้อมูลเพิ่มเติมของช่องที่ 1 ในช่องที่ 7 ของ Form E&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14232a32414b505f49464b46&#34; target=&#34;_blank&#34;&gt;ประกาศสำนักพิกัดอัตราศุลกากร ที่ 3 / 2554 เรื่อง กรณี Form E หนึ่งฉบับสำแดงรายการเกิน 20 รายการ ภายใต้ประกาศกรมศุลกากรที่ 106 / 2553&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14232a32414b505f49464b47&#34; target=&#34;_blank&#34;&gt;ประกาศสำนักพิกัดอัตราศุลกากร ที่ 4 / 2554 เรื่อง แนวทางปฏิบัติเพื่อแก้ไขปัญหากรณีการใช้สิทธิพิเศษทางภาษีศุลกากรสำหรับเขตการค้าเสรีอาเซียน-จีน ภายใต้ประกาศกรมศุลกากรที่ &lt;sup&gt;106&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2553&lt;/sub&gt;&lt;/a&gt;&lt;/li&gt;
@@ -533,6 +581,10 @@
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142328324148505f47464b4c464a4e&#34; target=&#34;_blank&#34;&gt;ประกาศกองพิกัดอัตราศุลกากรที่ 8 / 2562 เรื่อง การผ่อนผันการใช้หนังสือรับรองถิ่นกำเนิดสินค้า (Form E) รูปแบบเก่าที่ออกตั้งแต่วันที่ 15 สิงหาคม 2562 ภายใต้ความตกลงการค้าเสรีอาเซียน-จีน&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142328324148505f47464b4c464a4f&#34; target=&#34;_blank&#34;&gt;ประกาศกองพิกัดอัตราศุลกากรที่ 9 / 2562 เรื่อง หนังสือรับรองถิ่นกำเนิดสินค้า (Form E) รูปแบบใหม่ ภายใต้ความตกลงการค้าเสรีอาเซียน-จีน&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
 
 &lt;p&gt;ตามประกาศกรมศุลกากร ที่ 47/ 2563 เรื่อง การแสดงหนังสือรับรองถิ่นกำเนิดสินค้า (Form E) สำหรับผู้นำของเข้าจากสาธารณรัฐประชาชนจีน ที่ได้รับผลกระทบจากการระบาดของไวรัสโคโรนาสายพันธุ์ใหม่ 2019 (COVID-19) &lt;a href=&#34;http://www.customs.go.th/data_files/881e47a750db06cc60c79fa8a524937f.pdf&#34; target=&#34;_blank&#34;&gt;(&lt;strong&gt;ดาวน์โหลดประกาศ&lt;/strong&gt;)&lt;/a&gt; มีผลใช้บังคับตั้งแต่ 3 มีนาคม 2563 จนถึงวันที่ 31 พฤษภาคม 2563&lt;/p&gt;
 
@@ -589,7 +641,7 @@
 
 &lt;p&gt;ความตกลงว่าด้วยการลงทุนเป็นความตกลงฉบับสุดท้ายที่กำหนดให้มีการเจรจาจัดทำภายใต้กรอบความตกลงฯ ทั้งสองฝ่ายใช้เวลาเจรจานานกว่า 3 ปี และสามารถบรรลุผลการเจรจาเมื่อเดือนเมษายน 2009 โดยรัฐมนตรีเศรษฐกิจของทั้งสองฝ่ายได้ลงนามความตกลงนี้เมื่อวันที่ 2 มิถุนายน 2009 ทั้งนี้ ความตกลงจะมีผลบังคับใช้ตั้งแต่วันที่ 1 กันยายน 2009&lt;/p&gt;
 
-&lt;h4 id=&#34;matrix-of-compilation-of-decisions-understanding-clarifications-from-previous-akstroo-meetings&#34;&gt;MATRIX OF COMPILATION OF DECISIONS/UNDERSTANDING/CLARIFICATIONS FROM PREVIOUS AKSTROO MEETINGS&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;MATRIX OF COMPILATION OF DECISIONS/UNDERSTANDING/CLARIFICATIONS FROM PREVIOUS AKSTROO MEETINGS&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14223132414a505f46464b4a464b49&#34; target=&#34;_blank&#34;&gt;MATRIX OF COMPILATION OF DECISIONS/UNDERSTANDING/CLARIFICATIONS FROM PREVIOUS AKSTROO MEETINGS (update 4.10.62)&lt;/a&gt;&lt;/li&gt;
@@ -609,9 +661,18 @@
 
 &lt;h2 id=&#34;ประกาศ-กฎหมาย-ท-เก-ยวข-อง&#34;&gt;ประกาศ / กฎหมาย ที่เกี่ยวข้อง&lt;/h2&gt;
 
-&lt;h4 id=&#34;ประกาศกระทรวงการคล-ง&#34;&gt;ประกาศกระทรวงการคลัง&lt;/h4&gt;
 
-&lt;ul&gt;
+
+
+
+&lt;div class=&#34;book-tabs&#34;&gt;
+
+  &lt;input type=&#34;radio&#34; class=&#34;hidden&#34; name=&#34;tabs-uniqueid&#34; id=&#34;tabs-uniqueid-0&#34; checked=&#34;checked&#34; /&gt;
+  &lt;label for=&#34;tabs-uniqueid-0&#34;&gt;
+    ประกาศกระทรวงการคลัง
+  &lt;/label&gt;
+  &lt;div class=&#34;book-tabs-content markdown-inner&#34;&gt;
+    &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14232b324147505e4f464b4d&#34; target=&#34;_blank&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-สาธารณรัฐเกาหลี&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14232b324147505f46464b46&#34; target=&#34;_blank&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-สาธารณรัฐเกาหลี (ฉบับที่ 4)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14232b324147505f46464a4f&#34; target=&#34;_blank&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-สาธารณรัฐเกาหลี (ฉบับที่ 3)&lt;/a&gt;&lt;/li&gt;
@@ -620,78 +681,90 @@
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14223132414c505e4f464b46464b49&#34; target=&#34;_blank&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน - สาธารณรัฐเกาหลี ลงวันที่ 10 พฤศจิกายน 2560&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142328324147505f4a464b49464b4d&#34; target=&#34;_blank&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-สาธารณรัฐเกาหลี(ฉบับที่2) ลงวันที่ 12 กรกฎาคม 2562&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+  &lt;/div&gt;
 
-&lt;h4 id=&#34;ประกาศกรมศ-ลกากร&#34;&gt;ประกาศกรมศุลกากร&lt;/h4&gt;
-
-&lt;table&gt;
+  &lt;input type=&#34;radio&#34; class=&#34;hidden&#34; name=&#34;tabs-uniqueid&#34; id=&#34;tabs-uniqueid-1&#34;  /&gt;
+  &lt;label for=&#34;tabs-uniqueid-1&#34;&gt;
+    ประกาศกรมศุลกากร
+  &lt;/label&gt;
+  &lt;div class=&#34;book-tabs-content markdown-inner&#34;&gt;
+    &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th align=&#34;center&#34;&gt;เลขที่&lt;/th&gt;
+&lt;th&gt;เลขที่&lt;/th&gt;
 &lt;th&gt;รายละเอียด&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;177./2562&lt;/td&gt;
+&lt;td&gt;177/.2562&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142328324148505e4e464b48464b4c&#34; target=&#34;_blank&#34;&gt;แก้ไขเพิ่มเติมประกาศกรมศุลกากร ที่ 161./2560&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;161./2560&lt;/td&gt;
+&lt;td&gt;161/.2560&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14223132414b505f4b464b49464b4a&#34; target=&#34;_blank&#34;&gt;หลักเกณฑ์และพิธีการการยกเว้นอากรและการลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน - สาธารณรัฐเกาหลี&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;237./2559&lt;/td&gt;
+&lt;td&gt;237/.2559&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142231324149505f48464b4d464b47&#34; target=&#34;_blank&#34;&gt;หลักเกณฑ์และพิธีการการยกเว้นอากรและการลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-สาธารณรัฐเกาหลี&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;283./2558&lt;/td&gt;
+&lt;td&gt;283/.2558&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232932414a505f49464b4c&#34; target=&#34;_blank&#34;&gt;หลักเกณฑ์และพิธีการเกี่ยวกับการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน - สาธารณรัฐเกาหลี&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;82./2558&lt;/td&gt;
+&lt;td&gt;82/.2558&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142329324148505f49464b4c&#34; target=&#34;_blank&#34;&gt;แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 9./2557และประกาศกรมศุลกากรที่ 231./2557&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;231./2557&lt;/td&gt;
+&lt;td&gt;231/.2557&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142329324147505f4b464b4b&#34; target=&#34;_blank&#34;&gt;แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 9./2557&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;9./2557&lt;/td&gt;
+&lt;td&gt;9/.2557&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232932404f505f4d464b48&#34; target=&#34;_blank&#34;&gt;หลักเกณฑ์และพิธีการเกี่ยวกับการยกเว้นอากรและการลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-สาธารณรัฐเกาหลี&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;8./2555&lt;/td&gt;
+&lt;td&gt;8/.2555&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232932404e505f46464b46&#34; target=&#34;_blank&#34;&gt;ประกาศกรมศุลกากร ที่ ๘/๒๕๕๕ เรื่อง หลักเกณฑ์และพิธีการเกี่ยวกับการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-สาธารณรัฐเกาหลี&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;104./2552&lt;/td&gt;
+&lt;td&gt;104/.2552&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832414b505f4a464b46&#34; target=&#34;_blank&#34;&gt;เพิ่มเติมรายชื่อประเทศที่ได้รับสิทธิยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน -สาธารณรัฐเกาหลี ในภาคผนวก 2 ของประกาศกรมศุลกากรที่ 72./2552&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
-&lt;td align=&#34;center&#34;&gt;72./2552&lt;/td&gt;
+&lt;td&gt;72/.2552&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232a32414a505f4a464a4f&#34; target=&#34;_blank&#34;&gt;หลักเกณฑ์และพิธีการเกี่ยวกับการยกเว้นอากรและการลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-สาธารณรัฐเกาหลี&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+  &lt;/div&gt;
 
-&lt;h4 id=&#34;ประกาศสำน-กพ-ก-ดอ-ตราศ-ลกากร&#34;&gt;ประกาศสำนักพิกัดอัตราศุลกากร&lt;/h4&gt;
-
-&lt;ul&gt;
+  &lt;input type=&#34;radio&#34; class=&#34;hidden&#34; name=&#34;tabs-uniqueid&#34; id=&#34;tabs-uniqueid-2&#34;  /&gt;
+  &lt;label for=&#34;tabs-uniqueid-2&#34;&gt;
+    ประกาศสำนักพิกัดอัตราศุลกากร
+  &lt;/label&gt;
+  &lt;div class=&#34;book-tabs-content markdown-inner&#34;&gt;
+    &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14232b324147505f46464b47&#34; target=&#34;_blank&#34;&gt;ประกาศสำนักพิกัดอัตราศุลกากร ที่ 2./2553 เรื่อง การไม่ต้องมีตราประทับ ISSUED RETROACTIVELY ในหนังสือรับรองถิ่นกำเนิดสินค้า (Form AK) ที่ออกให้ย้อนหลังไม่เกิน 3 วันนับแต่วันรับบรรทุก&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14232b324147505f46464b48&#34; target=&#34;_blank&#34;&gt;ประกาศสำนักพิกัดอัตราศุลกากร ที่ 1./2557 เรื่อง การระบุลายมือชื่อผู้ส่งออกแบบอิเล็กทรอนิกส์ในช่อง 11 ของหนังสือรับรองถิ่นกำเนิดสินค้าภายใต้ความตกลงเขตการค้าเสรีอาเซียน-สาธารณรัฐเกาหลี (Form AK)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14232b324147505f46464b49&#34; target=&#34;_blank&#34;&gt;ประกาศสำนักพิกัดอัตราศุลกากร ที่ 3./2557 เรื่อง การระบุเกณฑ์ถิ่นกำเนิดสินค้าในช่อง 8 ของหนังสือรับรองถิ่นกำเนิดสินค้าภายใต้ความตกลงการค้าเสรีอาเซียน-สาธารณรัฐเกาหลี (Form AK)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14223132414b505f48464b4d464b4b&#34; target=&#34;_blank&#34;&gt;ประกาศสำนักพิกัดอัตราศุลกากร ที่ 1./2560 เรื่อง การระบุเกณฑ์ในช่องที่ 8 ของ Form AK กรณีเกณฑ์ร่วม (Combination Rule)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
 
 &lt;p&gt;ที่มาบทความ : &lt;a href=&#34;http://www.customs.go.th/cont_strc_simple_net_with_download.php?ini_content=usage_fta_and_wto_01_04&amp;amp;ini_menu=menu_interest_and_law_160421_01&amp;amp;left_menu=menu_fta_and_wto&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 
@@ -877,11 +950,14 @@
 
 &lt;h3 id=&#34;1-ส-นค-าท-ใบกำก-บส-นค-าออกโดยบ-คคลท-สาม-third-party-invoicing&#34;&gt;1. สินค้าที่ใบกำกับสินค้าออกโดยบุคคลที่สาม (Third Party Invoicing)&lt;/h3&gt;
 
-&lt;p&gt;กรณีที่ผู้ส่งออกมีความประสงค์จะขอหนังสือรับรองถิ่นกําเนิดสินค้า (Form AHK) สําหรับสินค้าที่ใบกํากับสินค้า (invoice) ออกโดยบุคคลที่สาม ให้ปฏิบัติตามหลักเกณฑ์ดังต่อไปนี้
-        - ทําเครื่องหมาย ( P )  หน้าข้อความ &lt;strong&gt;“Third Party Invoicing”&lt;/strong&gt; ในช่อง 13 ของหนังสือรับรองถิ่นกําเนิด
-สินค้า (Form AHK)
-        - ระบุชื่อ และประเทศ ของบุคคลที่สามที่ออกใบกํากับสินค้า (the company issuing the invoice)
-ในช่อง 7 ของหนังสือรับรองถิ่นกําเนิดสินค้า (Form AHK)&lt;/p&gt;
+&lt;p&gt;กรณีที่ผู้ส่งออกมีความประสงค์จะขอหนังสือรับรองถิ่นกําเนิดสินค้า (Form AHK) สําหรับสินค้าที่ใบกํากับสินค้า (invoice) ออกโดยบุคคลที่สาม ให้ปฏิบัติตามหลักเกณฑ์ดังต่อไปนี้&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ทําเครื่องหมาย ( P )  หน้าข้อความ &lt;strong&gt;“Third Party Invoicing”&lt;/strong&gt; ในช่อง 13 ของหนังสือรับรองถิ่นกําเนิด
+สินค้า (Form AHK)&lt;/li&gt;
+&lt;li&gt;ระบุชื่อ และประเทศ ของบุคคลที่สามที่ออกใบกํากับสินค้า (the company issuing the invoice)
+ในช่อง 7 ของหนังสือรับรองถิ่นกําเนิดสินค้า (Form AHK)&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id=&#34;2-ย-นย-นการเคล-อนย-ายส-นค-า-movement-confirmation-mc&#34;&gt;2. ยืนยันการเคลื่อนย้ายสินค้า (Movement Confirmation: MC)&lt;/h3&gt;
 
@@ -969,9 +1045,21 @@
   &lt;div class=&#34;book-tabs-content markdown-inner&#34;&gt;
     &lt;h4 id=&#34;ประกาศกรมศ-ลกากร&#34;&gt;ประกาศกรมศุลกากร&lt;/h4&gt;
 
-&lt;p&gt;|เลขที่|รายละเอียด|
-||&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-|
-|89./2562|- &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142328324147505f47464b49464b49&#34; target=&#34;_blank&#34;&gt; หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-ฮ่องกง&lt;/a&gt;|
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;เลขที่&lt;/th&gt;
+&lt;th&gt;รายละเอียด&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;89./2562&lt;/td&gt;
+&lt;td&gt;- &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142328324147505f47464b49464b49&#34; target=&#34;_blank&#34;&gt; หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-ฮ่องกง&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
   &lt;/div&gt;
 
   &lt;input type=&#34;radio&#34; class=&#34;hidden&#34; name=&#34;tabs-uniqueid&#34; id=&#34;tabs-uniqueid-2&#34;  /&gt;

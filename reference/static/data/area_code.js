@@ -2062,12 +2062,12 @@ $(document).ready(function () {
   $("#table-ref").DataTable({
     data: dataSet,
     columns: [
-      { title: "รหัสสถานที่" },
+      { title: "รหัสสถานที่", className: "txt-center" },
       { title: "ชื่อสถานที่" },
-      { title: "Release(Ex)" },
-      { title: "Load(Ex)" },
-      { title: "Release(Im)" },
-      { title: "Load(Im)" },
+      { title: "Release(Ex)", className: "txt-center" },
+      { title: "Load(Ex)", className: "txt-center" },
+      { title: "Release(Im)", className: "txt-center" },
+      { title: "Load(Im)", className: "txt-center" },
     ],
     responsive: true,
     scroller: true,
@@ -2076,4 +2076,8 @@ $(document).ready(function () {
   });
 
   dataTable.FixedHeader(table);
+
+
+
+
 });
