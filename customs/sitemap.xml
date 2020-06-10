@@ -4,6 +4,7 @@
   
   <url>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <loc>https://ecs-support.github.io/KM/customs/customs/restricted-goods/</loc>
     <lastmod>2020-06-10T17:56:06+07:00</lastmod>
   </url>
@@ -11,6 +12,8 @@
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/</loc>
 =======
+=======
+>>>>>>> e3dbb17bba984189ca56e5fa3a76e8ee37344984
     <loc>https://example.com/KM/customs/customs/restricted-goods/</loc>
     <lastmod>2020-06-04T11:31:58+07:00</lastmod>
   </url>
@@ -103,6 +106,7 @@
   
   <url>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <loc>https://ecs-support.github.io/KM/customs/customs/restricted-goods/connectting/</loc>
     <lastmod>2020-06-10T17:56:06+07:00</lastmod>
   </url>
@@ -110,6 +114,8 @@
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/tax-incentive/section_29/</loc>
 =======
+=======
+>>>>>>> e3dbb17bba984189ca56e5fa3a76e8ee37344984
     <loc>https://example.com/KM/customs/customs/restricted-goods/connectting/</loc>
     <lastmod>2020-06-04T11:31:58+07:00</lastmod>
   </url>
@@ -242,9 +248,12 @@
   
   <url>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <loc>https://ecs-support.github.io/KM/customs/customs/restricted-goods/announce/</loc>
     <lastmod>2020-06-10T17:56:06+07:00</lastmod>
 =======
+=======
+>>>>>>> e3dbb17bba984189ca56e5fa3a76e8ee37344984
     <loc>https://example.com/KM/customs/customs/restricted-goods/announce/</loc>
     <lastmod>2020-06-04T11:31:58+07:00</lastmod>
   </url>
@@ -312,9 +321,12 @@
   
   <url>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <loc>https://ecs-support.github.io/KM/customs/customs/restricted-goods/dangerous_goods/</loc>
     <lastmod>2020-06-10T17:56:06+07:00</lastmod>
 =======
+=======
+>>>>>>> e3dbb17bba984189ca56e5fa3a76e8ee37344984
     <loc>https://example.com/KM/customs/customs/restricted-goods/dangerous_goods/</loc>
     <lastmod>2020-06-04T11:31:58+07:00</lastmod>
   </url>
@@ -717,7 +729,11 @@
   
   <url>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <loc>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tax-incentive.3/</loc>
+=======
+    <loc>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.3/</loc>
+>>>>>>> e3dbb17bba984189ca56e5fa3a76e8ee37344984
 =======
     <loc>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.3/</loc>
 >>>>>>> e3dbb17bba984189ca56e5fa3a76e8ee37344984
@@ -726,8 +742,11 @@
   
   <url>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/transit/</loc>
 =======
+=======
+>>>>>>> e3dbb17bba984189ca56e5fa3a76e8ee37344984
     <loc>https://example.com/KM/customs/customs/import-export/transit/</loc>
 >>>>>>> e3dbb17bba984189ca56e5fa3a76e8ee37344984
     <lastmod>2020-06-08T02:17:48+07:00</lastmod>
@@ -760,8 +779,11 @@
   
   <url>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <loc>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tax-incentive.3/bond/</loc>
 =======
+=======
+>>>>>>> e3dbb17bba984189ca56e5fa3a76e8ee37344984
     <loc>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.3/bond/</loc>
 >>>>>>> e3dbb17bba984189ca56e5fa3a76e8ee37344984
     <lastmod>2020-06-08T16:03:47+07:00</lastmod>
@@ -1133,6 +1155,7 @@
   
   <url>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <loc>https://ecs-support.github.io/KM/customs/categories/%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%A1-%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B3%E0%B8%81%E0%B8%94/</loc>
     <lastmod>2020-06-10T17:56:06+07:00</lastmod>
   </url>
@@ -1151,6 +1174,8 @@
     <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2/</loc>
     <lastmod>2020-06-10T17:56:06+07:00</lastmod>
 =======
+=======
+>>>>>>> e3dbb17bba984189ca56e5fa3a76e8ee37344984
     <loc>https://example.com/KM/customs/categories/%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%A1-%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B3%E0%B8%81%E0%B8%94/</loc>
     <lastmod>2020-06-04T11:31:58+07:00</lastmod>
   </url>
@@ -1168,6 +1193,9 @@
   <url>
     <loc>https://example.com/KM/customs/tags/%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2/</loc>
     <lastmod>2020-06-04T11:31:58+07:00</lastmod>
+<<<<<<< HEAD
+>>>>>>> e3dbb17bba984189ca56e5fa3a76e8ee37344984
+=======
 >>>>>>> e3dbb17bba984189ca56e5fa3a76e8ee37344984
   </url>
   

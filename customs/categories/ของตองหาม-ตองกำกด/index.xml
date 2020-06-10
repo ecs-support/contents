@@ -3,7 +3,11 @@
   <channel>
     <title>ของต้องห้าม-ต้องกำกัด on ECS</title>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <link>https://ecs-support.github.io/KM/customs/categories/%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%A1-%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B3%E0%B8%81%E0%B8%94/</link>
+=======
+    <link>https://example.com/KM/customs/categories/%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%A1-%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B3%E0%B8%81%E0%B8%94/</link>
+>>>>>>> e3dbb17bba984189ca56e5fa3a76e8ee37344984
 =======
     <link>https://example.com/KM/customs/categories/%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%A1-%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B3%E0%B8%81%E0%B8%94/</link>
 >>>>>>> e3dbb17bba984189ca56e5fa3a76e8ee37344984
@@ -13,7 +17,11 @@
     <copyright>ECS@Support&amp;copy;{year}</copyright>
     
 <<<<<<< HEAD
+<<<<<<< HEAD
 	    <atom:link href="https://ecs-support.github.io/KM/customs/categories/%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%A1-%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B3%E0%B8%81%E0%B8%94/index.xml" rel="self" type="application/rss+xml" />
+=======
+	    <atom:link href="https://example.com/KM/customs/categories/%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%A1-%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B3%E0%B8%81%E0%B8%94/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> e3dbb17bba984189ca56e5fa3a76e8ee37344984
 =======
 	    <atom:link href="https://example.com/KM/customs/categories/%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%A1-%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B3%E0%B8%81%E0%B8%94/index.xml" rel="self" type="application/rss+xml" />
 >>>>>>> e3dbb17bba984189ca56e5fa3a76e8ee37344984
@@ -22,15 +30,21 @@
     <item>
       <title>ประกาศที่เกี่ยวข้อง</title>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <link>https://ecs-support.github.io/KM/customs/customs/restricted-goods/announce/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/customs/restricted-goods/announce/</guid>
 =======
+=======
+>>>>>>> e3dbb17bba984189ca56e5fa3a76e8ee37344984
       <link>https://example.com/KM/customs/customs/restricted-goods/announce/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/KM/customs/customs/restricted-goods/announce/</guid>
+<<<<<<< HEAD
+>>>>>>> e3dbb17bba984189ca56e5fa3a76e8ee37344984
+=======
 >>>>>>> e3dbb17bba984189ca56e5fa3a76e8ee37344984
       <description>
 
@@ -75,15 +89,21 @@
     <item>
       <title>รายชื่อผู้ประสานงาน - หน่วยงานภาครัฐ</title>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <link>https://ecs-support.github.io/KM/customs/customs/restricted-goods/oga_contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/customs/restricted-goods/oga_contact/</guid>
 =======
+=======
+>>>>>>> e3dbb17bba984189ca56e5fa3a76e8ee37344984
       <link>https://example.com/KM/customs/customs/restricted-goods/oga_contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/KM/customs/customs/restricted-goods/oga_contact/</guid>
+<<<<<<< HEAD
+>>>>>>> e3dbb17bba984189ca56e5fa3a76e8ee37344984
+=======
 >>>>>>> e3dbb17bba984189ca56e5fa3a76e8ee37344984
       <description>
 
@@ -100,15 +120,21 @@
     <item>
       <title>สินค้าอันตราย</title>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <link>https://ecs-support.github.io/KM/customs/customs/restricted-goods/dangerous_goods/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/customs/restricted-goods/dangerous_goods/</guid>
 =======
+=======
+>>>>>>> e3dbb17bba984189ca56e5fa3a76e8ee37344984
       <link>https://example.com/KM/customs/customs/restricted-goods/dangerous_goods/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://example.com/KM/customs/customs/restricted-goods/dangerous_goods/</guid>
+<<<<<<< HEAD
+>>>>>>> e3dbb17bba984189ca56e5fa3a76e8ee37344984
+=======
 >>>>>>> e3dbb17bba984189ca56e5fa3a76e8ee37344984
       <description>
 
