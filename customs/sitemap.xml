@@ -3,1048 +3,1093 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/restricted-goods/</loc>
+    <lastmod>2020-06-10T17:56:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/</loc>
     <lastmod>2020-06-08T10:03:07+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/free-trade/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/free-trade/</loc>
     <lastmod>2020-06-09T16:19:41+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/free-trade/checklist/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/free-trade/checklist/</loc>
     <lastmod>2020-06-09T16:19:41+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/export/export.1/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/export/export.1/</loc>
     <lastmod>2020-06-08T02:17:48+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/guide/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/</loc>
     <lastmod>2020-06-05T02:34:09+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/export/export.1/data-structure/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/export/export.1/data-structure/</loc>
     <lastmod>2020-06-08T02:17:48+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/deus/review-1/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/deus/review-1/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/sapiens/review-1/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/sapiens/review-1/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/deus/deus-1/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/deus/deus-1/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/gates/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/gates/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/sapiens/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/sapiens/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/courses/example/example1/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/courses/example/example1/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/courses/example.1/example3/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/courses/example.1/example3/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/courses/example.2/example3/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/courses/example.2/example3/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/courses/example.1/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/courses/example.1/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/courses/example.2/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/courses/example.2/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/courses/example/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/courses/example/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/tax-incentive/section_29/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/restricted-goods/connectting/</loc>
+    <lastmod>2020-06-10T17:56:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/tax-incentive/section_29/</loc>
     <lastmod>2020-06-09T16:19:41+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/customs-clearance/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/customs-clearance/</loc>
+    <lastmod>2020-06-10T17:56:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/export/customs-clearance/</loc>
     <lastmod>2020-06-08T10:03:07+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/export/customs-clearance/</loc>
-    <lastmod>2020-06-08T10:03:07+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/KM/customs/book/gates/bill-gate-1/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/gates/bill-gate-1/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/gates/bill-gate-2/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/gates/bill-gate-2/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/free-trade/wto/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/free-trade/wto/</loc>
     <lastmod>2020-06-08T16:03:47+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/guide/data-structure/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/data-structure/</loc>
     <lastmod>2020-06-06T00:24:31+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/deus/review-2/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/deus/review-2/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/sapiens/review-2/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/sapiens/review-2/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/deus/deus-2/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/deus/deus-2/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/sapiens/sapiens-1/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/sapiens/sapiens-1/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/deus/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/deus/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/courses/example.2/example4/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/courses/example.2/example4/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/courses/example/example2/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/courses/example/example2/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/courses/example.1/example4/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/courses/example.1/example4/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/free-trade/afta/</loc>
-    <lastmod>2020-06-09T16:19:41+07:00</lastmod>
+    <loc>https://ecs-support.github.io/KM/customs/customs/free-trade/afta/</loc>
+    <lastmod>2020-06-10T17:56:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/tax-incentive/bond/</loc>
-    <lastmod>2020-06-09T16:19:41+07:00</lastmod>
+    <loc>https://ecs-support.github.io/KM/customs/customs/tax-incentive/bond/</loc>
+    <lastmod>2020-06-10T17:56:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/gates/bill-gate-3/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/gates/bill-gate-3/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/guide/calculate-cif/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/calculate-cif/</loc>
     <lastmod>2020-06-06T00:24:31+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/direct_guide/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/direct_guide/</loc>
     <lastmod>2020-06-06T00:24:31+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/export/export.1/principles-for-recording/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/export/export.1/principles-for-recording/</loc>
     <lastmod>2020-06-08T02:17:48+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/sapiens/review-3/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/sapiens/review-3/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/deus/deus-3/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/deus/deus-3/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/sapiens/sapiens-2/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/sapiens/sapiens-2/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/section_menu/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/section_menu/</loc>
     <lastmod>2020-06-08T02:17:48+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/free-trade/acn/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/restricted-goods/announce/</loc>
+    <lastmod>2020-06-10T17:56:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/restricted-goods/oga_contact/</loc>
+    <lastmod>2020-06-10T17:56:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/free-trade/acn/</loc>
+    <lastmod>2020-06-10T17:56:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/tax-incentive/freezone/</loc>
+    <lastmod>2020-06-09T16:19:41+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/excise/</loc>
+    <lastmod>2020-06-04T17:06:36+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/book/gates/bill-gate-4/</loc>
+    <lastmod>2020-06-02T17:33:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/trade-protection/</loc>
+    <lastmod>2020-06-04T17:06:36+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/declaration-no/</loc>
+    <lastmod>2020-06-06T00:24:31+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/export/export.1/list-of-products/</loc>
+    <lastmod>2020-06-08T02:17:48+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/book/sapiens/sapiens-3/</loc>
+    <lastmod>2020-06-02T17:33:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/book/deus/deus-4/</loc>
+    <lastmod>2020-06-02T17:33:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/restricted-goods/dangerous_goods/</loc>
+    <lastmod>2020-06-10T17:56:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/free-trade/ak/</loc>
+    <lastmod>2020-06-10T17:56:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/tax-incentive/ieat/</loc>
+    <lastmod>2020-06-09T16:19:41+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/import-car/</loc>
+    <lastmod>2020-06-10T17:56:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/book/gates/bill-gate-5/</loc>
+    <lastmod>2020-06-02T17:33:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/type-ducument/</loc>
+    <lastmod>2020-06-06T00:24:31+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/export/export.1/part-4/</loc>
+    <lastmod>2020-06-08T02:17:48+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/book/sapiens/sapiens-4/</loc>
+    <lastmod>2020-06-02T17:33:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/book/deus/deus-5/</loc>
+    <lastmod>2020-06-02T17:33:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/free-trade/jtepa/</loc>
+    <lastmod>2020-06-09T16:19:41+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/tax-incentive/compensate/</loc>
     <lastmod>2020-06-08T16:03:47+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/tax-incentive/freezone/</loc>
-    <lastmod>2020-06-09T16:19:41+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/excise/</loc>
-    <lastmod>2020-06-04T17:06:36+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/KM/customs/book/gates/bill-gate-4/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/gates/bill-gate-6/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/trade-protection/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/reverve/</loc>
     <lastmod>2020-06-04T17:06:36+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/guide/declaration-no/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/contact-registration/</loc>
     <lastmod>2020-06-06T00:24:31+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/export/export.1/list-of-products/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/export/export.1/input-tax-incentives/</loc>
     <lastmod>2020-06-08T02:17:48+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/sapiens/sapiens-3/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/sapiens/sapiens-5/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/deus/deus-4/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/deus/deus-6/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/free-trade/ak/</loc>
-    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
+    <loc>https://ecs-support.github.io/KM/customs/customs/free-trade/ahk/</loc>
+    <lastmod>2020-06-10T17:56:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/tax-incentive/ieat/</loc>
-    <lastmod>2020-06-09T16:19:41+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/import-car/</loc>
-    <lastmod>2020-06-04T17:06:36+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/KM/customs/book/gates/bill-gate-5/</loc>
-    <lastmod>2020-06-02T17:33:06+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/guide/type-ducument/</loc>
-    <lastmod>2020-06-06T00:24:31+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/KM/customs/customs/import-export/export/export.1/part-4/</loc>
-    <lastmod>2020-06-08T02:17:48+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/KM/customs/book/sapiens/sapiens-4/</loc>
-    <lastmod>2020-06-02T17:33:06+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/KM/customs/book/deus/deus-5/</loc>
-    <lastmod>2020-06-02T17:33:06+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/KM/customs/customs/free-trade/jtepa/</loc>
-    <lastmod>2020-06-09T16:19:41+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/KM/customs/customs/tax-incentive/compensate/</loc>
-    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/KM/customs/book/gates/bill-gate-6/</loc>
-    <lastmod>2020-06-02T17:33:06+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/reverve/</loc>
-    <lastmod>2020-06-04T17:06:36+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/guide/contact-registration/</loc>
-    <lastmod>2020-06-06T00:24:31+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/KM/customs/customs/import-export/export/export.1/input-tax-incentives/</loc>
-    <lastmod>2020-06-08T02:17:48+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/KM/customs/book/sapiens/sapiens-5/</loc>
-    <lastmod>2020-06-02T17:33:06+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/KM/customs/book/deus/deus-6/</loc>
-    <lastmod>2020-06-02T17:33:06+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/KM/customs/customs/free-trade/ahk/</loc>
-    <lastmod>2020-06-09T16:19:41+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/KM/customs/customs/tax-incentive/boi/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/tax-incentive/boi/</loc>
     <lastmod>2020-05-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/guide/arrival-date/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/arrival-date/</loc>
     <lastmod>2020-06-06T00:24:31+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/gates/bill-gate-7/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/gates/bill-gate-7/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/overtime/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/overtime/</loc>
     <lastmod>2020-06-04T17:06:36+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/export/export.1/check-data-declalation/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/export/export.1/check-data-declalation/</loc>
     <lastmod>2020-06-08T02:17:48+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/sapiens/sapiens-6/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/sapiens/sapiens-6/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/deus/deus-7/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/deus/deus-7/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/guide/bill-of-loading-no/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/bill-of-loading-no/</loc>
     <lastmod>2020-06-06T00:24:31+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/gates/bill-gate-8/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/gates/bill-gate-8/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/export/export.1/contact-registration/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/export/export.1/contact-registration/</loc>
     <lastmod>2020-06-08T02:17:48+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/sapiens/sapiens-7/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/sapiens/sapiens-7/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/deus/deus-8/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/deus/deus-8/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/tax-incentive/re-export/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/tax-incentive/re-export/</loc>
     <lastmod>2020-06-08T16:03:47+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/guide/area/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/area/</loc>
     <lastmod>2020-06-06T02:05:11+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/gates/bill-gate-9/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/gates/bill-gate-9/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/export/export.1/declaration-no/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/export/export.1/declaration-no/</loc>
     <lastmod>2020-06-08T02:17:48+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/sapiens/sapiens-8/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/sapiens/sapiens-8/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/deus/deus-9/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/deus/deus-9/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/guide/shipping-marks/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/shipping-marks/</loc>
     <lastmod>2020-06-06T00:24:31+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/gates/bill-gate-10/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/gates/bill-gate-10/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/export/export.1/duty-payment/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/export/export.1/duty-payment/</loc>
     <lastmod>2020-06-08T02:17:48+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/deus/deus-10/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/deus/deus-10/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/sapiens/sapiens-9/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/sapiens/sapiens-9/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/guide/quantity-weight/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/quantity-weight/</loc>
     <lastmod>2020-06-06T00:24:31+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/gates/bill-gate-11/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/gates/bill-gate-11/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/sapiens/sapiens-11/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/sapiens/sapiens-11/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/export/export.1/goods-control-list-structure/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/export/export.1/goods-control-list-structure/</loc>
     <lastmod>2020-06-08T02:17:48+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/sapiens/sapiens-10/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/sapiens/sapiens-10/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/deus/deus-11/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/deus/deus-11/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/guide/assessment-request-code/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/assessment-request-code/</loc>
     <lastmod>2020-06-06T00:24:31+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/gates/bill-gate-12/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/gates/bill-gate-12/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/sapiens/sapiens-12/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/sapiens/sapiens-12/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/export/export.1/prepare-goods-control-list/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/export/export.1/prepare-goods-control-list/</loc>
     <lastmod>2020-06-08T02:17:48+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/deus/deus-12/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/deus/deus-12/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/guide/currency-code-exchange-rate/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/currency-code-exchange-rate/</loc>
     <lastmod>2020-06-06T00:24:31+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/sapiens/sapiens-13/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/sapiens/sapiens-13/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/export/re-export/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/export/re-export/</loc>
     <lastmod>2020-06-04T17:06:36+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/guide/merge-item/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/merge-item/</loc>
     <lastmod>2020-06-06T00:24:31+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/sapiens/sapiens-14/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/sapiens/sapiens-14/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/guide/cif-value/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/cif-value/</loc>
     <lastmod>2020-06-06T00:24:31+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/sapiens/sapiens-15/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/sapiens/sapiens-15/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/guide/incoterms/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/incoterms/</loc>
     <lastmod>2020-06-06T00:24:31+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/sapiens/sapiens-16/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/sapiens/sapiens-16/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/sapiens/sapiens-17/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/sapiens/sapiens-17/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/guide/part-4/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/part-4/</loc>
     <lastmod>2020-06-09T16:19:41+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/guide/tax-incentives/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/tax-incentives/</loc>
     <lastmod>2020-06-06T00:24:31+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/sapiens/sapiens-18/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/sapiens/sapiens-18/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/guide/guarantee-argumentative/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/guarantee-argumentative/</loc>
     <lastmod>2020-06-06T00:24:31+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/sapiens/sapiens-19/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/sapiens/sapiens-19/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/guide/guarantee-fuel-fund/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/guarantee-fuel-fund/</loc>
     <lastmod>2020-06-06T00:24:31+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.2/incentive-regis-id/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tax-incentive.2/incentive-regis-id/</loc>
     <lastmod>2020-06-08T16:03:47+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.2/data_structure_export/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tax-incentive.2/data_structure_export/</loc>
     <lastmod>2020-06-09T16:19:41+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/sapiens/sapiens-20/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/sapiens/sapiens-20/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/guide/gurantee-anti-dumping/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/gurantee-anti-dumping/</loc>
     <lastmod>2020-06-06T00:24:31+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/guide/input-duty/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/input-duty/</loc>
     <lastmod>2020-06-06T00:24:31+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/guide/payment-method/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/payment-method/</loc>
     <lastmod>2020-06-06T00:24:31+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/guide/argumentative-reason-code/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/argumentative-reason-code/</loc>
     <lastmod>2020-06-06T00:24:31+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/guide/type-duty/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/type-duty/</loc>
     <lastmod>2020-06-06T00:24:31+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/guide/permit-issue-authority/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/permit-issue-authority/</loc>
     <lastmod>2020-06-06T00:24:31+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/guide/checking-mainfest/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/checking-mainfest/</loc>
     <lastmod>2020-06-06T00:24:31+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/guide/privilege/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/privilege/</loc>
     <lastmod>2020-06-06T00:24:31+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/transit/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tax-incentive.3/</loc>
+    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/transit/</loc>
     <lastmod>2020-06-08T02:17:48+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.2/data_structure_import/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tax-incentive.2/data_structure_import/</loc>
     <lastmod>2020-06-09T16:19:41+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.2/visitor-registration/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tax-incentive.2/visitor-registration/</loc>
     <lastmod>2020-06-09T16:19:41+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.2/shipping-marks/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tax-incentive.2/shipping-marks/</loc>
     <lastmod>2020-06-08T16:03:47+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.2/quantity-and-weight/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tax-incentive.2/quantity-and-weight/</loc>
     <lastmod>2020-06-08T16:03:47+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.2/assessment-request/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tax-incentive.2/assessment-request/</loc>
     <lastmod>2020-06-09T16:19:41+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.3/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tax-incentive.3/bond/</loc>
     <lastmod>2020-06-08T16:03:47+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.3/bond/</loc>
-    <lastmod>2020-06-08T16:03:47+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.3/section_29/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tax-incentive.3/section_29/</loc>
     <lastmod>2020-06-08T17:42:52+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.3/boi/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tax-incentive.3/boi/</loc>
     <lastmod>2020-06-08T17:42:52+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.3/freezone/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tax-incentive.3/freezone/</loc>
     <lastmod>2020-06-08T17:42:52+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.3/i-eat/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tax-incentive.3/i-eat/</loc>
     <lastmod>2020-06-08T17:42:52+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/talk/coding/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/talk/coding/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/</loc>
-    <lastmod>2020-06-09T16:19:41+07:00</lastmod>
+    <loc>https://ecs-support.github.io/KM/customs/</loc>
+    <lastmod>2020-06-10T17:56:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/talk/qualitative/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/talk/qualitative/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/talk/synthesizing/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/talk/synthesizing/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/authors/admin/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/authors/admin/</loc>
     <lastmod>2020-06-04T17:06:36+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/authors/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/authors/</loc>
     <lastmod>2020-06-04T17:06:36+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/categories/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/categories/</loc>
+    <lastmod>2020-06-10T17:56:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/categories/mail/</loc>
     <lastmod>2020-06-04T17:06:36+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/categories/mail/</loc>
-    <lastmod>2020-06-04T17:06:36+07:00</lastmod>
+    <loc>https://ecs-support.github.io/KM/customs/tags/</loc>
+    <lastmod>2020-06-10T17:56:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/tags/</loc>
-    <lastmod>2020-06-04T17:06:36+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/KM/customs/tax/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/tax/</loc>
     <lastmod>2020-06-08T16:03:47+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%A7%E0%B8%9A%E0%B8%84%E0%B8%A1/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%A7%E0%B8%9A%E0%B8%84%E0%B8%A1/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/post/controlling-goods-movement/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/post/controlling-goods-movement/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/categories/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A7%E0%B8%8A%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/categories/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A7%E0%B8%8A%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3/</loc>
     <lastmod>2020-06-04T17:06:36+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/post/certificate-of-origin-fta/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/post/certificate-of-origin-fta/</loc>
     <lastmod>2020-06-04T17:06:36+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/tags/%E0%B8%AA%E0%B8%97%E0%B8%98%E0%B8%9E%E0%B9%80%E0%B8%A8%E0%B8%A9%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%95%E0%B8%81%E0%B8%A5%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B2%E0%B9%80%E0%B8%AA%E0%B8%A3/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%AA%E0%B8%97%E0%B8%98%E0%B8%9E%E0%B9%80%E0%B8%A8%E0%B8%A9%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%95%E0%B8%81%E0%B8%A5%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B2%E0%B9%80%E0%B8%AA%E0%B8%A3/</loc>
     <lastmod>2020-06-04T17:06:36+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/tags/%E0%B9%83%E0%B8%9A%E0%B8%A3%E0%B8%9A%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%96%E0%B8%99%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%94/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B9%83%E0%B8%9A%E0%B8%A3%E0%B8%9A%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%96%E0%B8%99%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%94/</loc>
     <lastmod>2020-06-04T17:06:36+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/categories/ad/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/categories/ad/</loc>
     <lastmod>2020-06-04T17:06:36+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/tags/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%88%E0%B8%99/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%88%E0%B8%99/</loc>
     <lastmod>2020-06-04T17:06:36+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/post/ad-high-carbon-steel-china/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/post/ad-high-carbon-steel-china/</loc>
     <lastmod>2020-06-04T17:06:36+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/tags/%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%81%E0%B8%A5%E0%B8%A7%E0%B8%94%E0%B8%84%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%AD%E0%B8%99%E0%B8%AA%E0%B8%87/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%81%E0%B8%A5%E0%B8%A7%E0%B8%94%E0%B8%84%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%AD%E0%B8%99%E0%B8%AA%E0%B8%87/</loc>
     <lastmod>2020-06-04T17:06:36+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/post/dangerous-goods/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/post/dangerous-goods/</loc>
     <lastmod>2020-06-04T17:06:36+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8/</loc>
     <lastmod>2020-06-04T17:06:36+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B8%AD%E0%B8%95%E0%B8%AA%E0%B8%B2%E0%B8%AB%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B8%AD%E0%B8%95%E0%B8%AA%E0%B8%B2%E0%B8%AB%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1/</loc>
     <lastmod>2020-06-04T17:06:36+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/tags/%E0%B8%A7%E0%B8%95%E0%B8%96%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%A7%E0%B8%95%E0%B8%96%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2/</loc>
     <lastmod>2020-06-04T17:06:36+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.2/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tax-incentive.2/</loc>
     <lastmod>2020-06-09T16:19:41+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/tax-incentive/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/tax-incentive/</loc>
     <lastmod>2020-06-09T16:19:41+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/transit/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/transit/</loc>
     <lastmod>2020-06-04T17:59:50+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/export/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/export/</loc>
     <lastmod>2020-06-08T10:03:07+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/export/export.1/direct_main/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/export/export.1/direct_main/</loc>
     <lastmod>2020-06-08T02:17:48+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.2/direct_main/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tax-incentive.2/direct_main/</loc>
     <lastmod>2020-06-09T16:19:41+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/tax-incentive/tax-incentive.3/direct_main/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tax-incentive.3/direct_main/</loc>
     <lastmod>2020-06-09T16:19:41+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/export/direct_main/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/export/direct_main/</loc>
     <lastmod>2020-06-04T17:06:36+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/direct_main/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/direct_main/</loc>
     <lastmod>2020-06-04T17:06:36+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/import/guide/direct_main/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/direct_main/</loc>
     <lastmod>2020-06-04T17:06:36+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/direct_import/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/direct_import/</loc>
     <lastmod>2020-06-06T00:24:31+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/direct_export/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/direct_export/</loc>
     <lastmod>2020-06-04T17:06:36+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/publication_types/3/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/publication_types/3/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/publication/preprint/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/publication/preprint/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/publication_types/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/publication_types/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/tags/source-themes/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/tags/source-themes/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/slides/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/slides/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/slides/example/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/slides/example/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/term/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/term/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/post/term/terms/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/post/term/terms/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/term/terms/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/term/terms/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/project/artificial-intelligence/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/project/artificial-intelligence/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/tags/deep-learning/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/tags/deep-learning/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/project/deep-learning/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/project/deep-learning/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/tags/demo/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/tags/demo/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/project/external-project/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/project/external-project/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/tags/human/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/tags/human/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/project/internal-project/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/project/internal-project/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/project/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/project/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/project/robotics/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/project/robotics/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/tags/robotics/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/tags/robotics/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/project/skin-cancer-ai/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/project/skin-cancer-ai/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/publication_types/2/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/publication_types/2/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/publication/journal-article/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/publication/journal-article/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/authors/robert-ford/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/authors/robert-ford/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/publication_types/1/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/publication_types/1/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/publication/conference-paper/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/publication/conference-paper/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/book/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/book/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/courses/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/courses/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/post/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/post/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/publication/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/publication/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/talk/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/talk/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/import-export/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/</loc>
     <lastmod>2020-06-08T02:17:48+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/KM/customs/customs/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/customs/</loc>
     <lastmod>2020-06-04T17:06:36+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/categories/%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%A1-%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B3%E0%B8%81%E0%B8%94/</loc>
+    <lastmod>2020-06-10T17:56:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8/</loc>
+    <lastmod>2020-06-10T17:56:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%9C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B8%87%E0%B8%B2%E0%B8%99/</loc>
+    <lastmod>2020-06-10T17:56:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2/</loc>
+    <lastmod>2020-06-10T17:56:06+07:00</lastmod>
   </url>
   
 </urlset>

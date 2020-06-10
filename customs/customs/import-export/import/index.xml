@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>การนำเข้าสินค้า (Import) on ECS</title>
-    <link>https://example.com/KM/customs/customs/import-export/import/</link>
+    <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/</link>
     <description>Recent content in การนำเข้าสินค้า (Import) on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
     <lastBuildDate>Tue, 12 May 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://example.com/KM/customs/customs/import-export/import/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://ecs-support.github.io/KM/customs/customs/import-export/import/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>คู่มือการปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า (e-Import)</title>
-      <link>https://example.com/KM/customs/customs/import-export/import/guide/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/import-export/import/guide/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/cover/import-Customs-clearance-handbook.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;คู่มือการปฏิบัติพิธีการศุลกากรทางอิเล็กทรอนิกส์ว่าด้วยกระบวนการทางศุลกากรสำหรับการนำเข้า    (e-Import) กำหนดขึ้นเพื่อประโยชน์ในการนำของเข้ามาในราชอาณาจักร ให้การปฏิบัติพิธีการศุลกากรสามารถกระทำโดยวิธีการทางอิเล็กทรอนิกส์ โดยให้ใช้บังคับเป็นการทั่วไปสำหรับการนำของเข้ามาในราชอาณาจักร
@@ -45,15 +45,24 @@
     
     <item>
       <title>พิธีการการนำเข้าสินค้า (Import)</title>
-      <link>https://example.com/KM/customs/customs/import-export/import/customs-clearance/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/customs-clearance/</link>
       <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/import-export/import/customs-clearance/</guid>
-      <description>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/customs-clearance/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/cover/import-Customs-clearance.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/cover/import-Customs-clearance.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h1 id=&#34;พ-ธ-การนำเข-าทางบก&#34;&gt;พิธีการนำเข้าทางบก&lt;/h1&gt;
+
+
+
+&lt;div class=&#34;book-tabs&#34;&gt;
+
+  &lt;input type=&#34;radio&#34; class=&#34;hidden&#34; name=&#34;tabs-uniqueid&#34; id=&#34;tabs-uniqueid-0&#34; checked=&#34;checked&#34; /&gt;
+  &lt;label for=&#34;tabs-uniqueid-0&#34;&gt;
+    พิธีการนำเข้าทางบก
+  &lt;/label&gt;
+  &lt;div class=&#34;book-tabs-content markdown-inner&#34;&gt;
+    &lt;h1 id=&#34;พ-ธ-การนำเข-าทางบก&#34;&gt;พิธีการนำเข้าทางบก&lt;/h1&gt;
 
 &lt;h2 id=&#34;การรายงานยานพาหนะ&#34;&gt;การรายงานยานพาหนะ&lt;/h2&gt;
 
@@ -130,12 +139,14 @@
 ปรับปรุงล่าสุด : 19 มีนาคม 2563&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;hr /&gt;
+  &lt;/div&gt;
 
-&lt;p&gt;&lt;/br&gt;
-&lt;/br&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;พ-ธ-การนำเข-าทางเร-อ&#34;&gt;พิธีการนำเข้าทางเรือ&lt;/h1&gt;
+  &lt;input type=&#34;radio&#34; class=&#34;hidden&#34; name=&#34;tabs-uniqueid&#34; id=&#34;tabs-uniqueid-1&#34;  /&gt;
+  &lt;label for=&#34;tabs-uniqueid-1&#34;&gt;
+    พิธีการนำเข้าทางเรือ
+  &lt;/label&gt;
+  &lt;div class=&#34;book-tabs-content markdown-inner&#34;&gt;
+    &lt;h1 id=&#34;พ-ธ-การนำเข-าทางเร-อ&#34;&gt;พิธีการนำเข้าทางเรือ&lt;/h1&gt;
 
 &lt;p&gt;กรมศุลกากรได้พัฒนานำระบบอิเล็กทรอนิกส์ มาใช้ในการบริการผ่านพิธีการศุลกากรซึ่งปัจจุบันเรียกว่าระบบ TCS ผู้ประสงค์จะดำเนินการผ่านพิธีการศุลกากรทางอิเล็กทรอนิกส์จะต้องทำการลงทะเบียนกับกรมศุลกากร เพื่อบันทึกข้อมูลไว้ในฐานข้อมูลระบบคอมพิวเตอร์ของกรมศุลกากร ซึ่งผู้ที่ลงทะเบียนแล้วสามารถเข้าสู่ระบบการผ่านพิธีการศุลกากรทางคอมพิวเตอร์ของตนเองหรือผ่าน SERVICE COUNTER ของเอกชนหรือที่จุดให้บริการของกรมศุลกากร ณ จุดนำเข้า-ส่งออก&lt;/p&gt;
 
@@ -250,12 +261,14 @@
 ปรับปรุงล่าสุด : 13 มิ.ย. 2560&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;hr /&gt;
+  &lt;/div&gt;
 
-&lt;p&gt;&lt;/br&gt;
-&lt;/br&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;พ-ธ-การนำเข-าทางอากาศ&#34;&gt;พิธีการนำเข้าทางอากาศ&lt;/h1&gt;
+  &lt;input type=&#34;radio&#34; class=&#34;hidden&#34; name=&#34;tabs-uniqueid&#34; id=&#34;tabs-uniqueid-2&#34;  /&gt;
+  &lt;label for=&#34;tabs-uniqueid-2&#34;&gt;
+    พิธีการนำเข้าทางอากาศ
+  &lt;/label&gt;
+  &lt;div class=&#34;book-tabs-content markdown-inner&#34;&gt;
+    &lt;h1 id=&#34;พ-ธ-การนำเข-าทางอากาศ&#34;&gt;พิธีการนำเข้าทางอากาศ&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://th.customs.go.th/content_with_menu1.php?ini_menu=menu_business_160421_02_160421_01&amp;amp;ini_content=business_160426_02_160914_01_160929_01_160929_01&amp;amp;left_menu=menu_business_160421_02_160421_01_160914_03&#34; target=&#34;_blank&#34;&gt;การผ่านพิธีการศุลกากรนาเข้าในระบบอิเล็กทรอนิกส์แบบไร้เอกสาร (e-Import)&lt;/a&gt;&lt;/li&gt;
@@ -279,15 +292,20 @@
 &lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/content_with_menu1.php?ini_menu=menu_business_160421_02&amp;amp;ini_content=business_160426_02_160914_01_160914_02&amp;amp;lang=th&amp;amp;root_left_menu=menu_business_160421_02_160421_01&amp;amp;left_menu=menu_business_160421_02_160421_01_160914_03&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;.&lt;br /&gt;
 ปรับปรุงล่าสุด : 15 มิ.ย. 2560&lt;/p&gt;
 &lt;/blockquote&gt;
+
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
 </description>
     </item>
     
     <item>
       <title>คู่มือการปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า (e-Import)</title>
-      <link>https://example.com/KM/customs/customs/import-export/import/direct_guide/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/direct_guide/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/import-export/import/direct_guide/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/direct_guide/</guid>
       <description>&lt;script&gt;
    var files = &#39;../guide/index.html&#39;
    //document.location = files
@@ -298,10 +316,10 @@
     
     <item>
       <title>ภาษีสรรพสามิต</title>
-      <link>https://example.com/KM/customs/customs/import-export/import/excise/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/excise/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/import-export/import/excise/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/excise/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LlVhH2uMzkQQNM73WMS%2F-LsZj7zJJapJJjs5Zg2J%2F-LsZjQ1QhWpRqEz35NyG%2Fexcise_logo.jpg?alt=media&amp;amp;token=c2a0d657-ef4c-45e7-8b22-3b2d4eee8cfd&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
@@ -862,10 +880,10 @@
     
     <item>
       <title>มาตรการปกป้องและตอบโต้ทางการค้า</title>
-      <link>https://example.com/KM/customs/customs/import-export/import/trade-protection/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/trade-protection/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/import-export/import/trade-protection/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/trade-protection/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/trade-protection.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;การค้าเป็นสิ่งคัญที่ทุกประเทศจะนำมาใช้ในการพัฒนาประเทศให้เจริญรุ่งเรือง และเป็นกลไก สำคัญที่จะพัฒนาประเทศ แต่เนื่องจากการผลิตสินค้าในประเทศนั้น อาจมีค่าแรงสูงและกระบวนการผลิตที่ทำให้สินค้ามีราคาสูงจึงเป็นเรื่องปกติที่คนในประเทศจะใช้สินค้านำเข้าราคาถูกจากประเทศอื่น เช่น จีน หรือเวียดนาม ที่มีค่าแรงขั้นต่ำราคาถูก ที่มาโจมตีสินค้าภายในประเทศได้ กรณีนี้จึงต้องมีมาตรการป้องกันเศรษฐกิจและสินค้าภายในประเทศตนเอง เพื่อให้คนในประเทศหันมาอุดหนุนสินค้าของประเทศตนเอง โดยองค์การการค้าโลกได้มีวิธีที่จะให้ประเทศสมาชิกใช้มาตรการต่าง ๆ เพื่อป้องกันการทุ่มตลาดจากประเทศอื่น ๆ ได้เช่น  มาตรการตอบโต้การทุ่มตลาด (Anti-dumping: AD) และมาตรการตอบโต้การอุดหนุน (Countervailing Duty: CVD), มาตรการสนับสนุนของรัฐ รวมทั้งใช้เป็นมาตรการทางการค้า ที่ประเทศผู้นำเข้าใช้เพื่อปกป้องอุตสาหกรรมภายในที่ได้รับความเสียหาย หรือมีแนวโน้มที่จะได้รับความเสียหาย อันเกิดจากการนำเข้าสินค้าจากต่างประเทศที่ไม่เป็นธรรม มีรายละเอียดของมาตรการต่าง ๆ ดังนี้&lt;/p&gt;
@@ -1389,10 +1407,10 @@
     
     <item>
       <title>การนำเข้ารถยนต์สำเร็จรูป</title>
-      <link>https://example.com/KM/customs/customs/import-export/import/import-car/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/import-car/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/import-export/import/import-car/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/import-car/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/cover/import-car.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -1400,7 +1418,7 @@
 &lt;h2 id=&#34;ประกาศท-เก-ยวข-อง&#34;&gt;ประกาศที่เกี่ยวข้อง&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/KM/customs/knowledge-center/customs-clearance/docs/import/import_car/customs_106-2561/&#34;&gt;ประกาศกรมศุลกากร ที่ 106/ 2561 เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการปฏิบัติพิธีการศุลกากรนำเข้าทางอิเล็กทรอนิกส์ว่าด้วยรถยนต์สำเร็จรูป&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/knowledge-center/customs-clearance/docs/import/import_car/customs_106-2561/&#34;&gt;ประกาศกรมศุลกากร ที่ 106/ 2561 เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการปฏิบัติพิธีการศุลกากรนำเข้าทางอิเล็กทรอนิกส์ว่าด้วยรถยนต์สำเร็จรูป&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/ecs-support/knowledge-center/raw/master/data/moc/used_car.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง กำหนดให้รถยนต์ใช้แล้วเป็นสินค้าที่ต้องห้ามหรือต้องขออนุญาตในการนำเข้ามาในราชอาณาจักร พ.ศ. 2562&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -1430,7 +1448,7 @@
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/import/car/106_2561jpg_Page3-2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;การตรวจสอบ-1&#34;&gt;การตรวจสอบ&lt;/h3&gt;
+&lt;h3 id=&#34;การตรวจสอบรถยนต&#34;&gt;การตรวจสอบรถยนต์&lt;/h3&gt;
 
 &lt;p&gt;&lt;strong&gt;ส่วนที่ 3 การตรวจสอบรถยนต์สำเร็จรูปกรณีมีเหตุอันควรสงสัย&lt;/strong&gt;&lt;/p&gt;
 
@@ -1450,15 +1468,51 @@
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/import/car/106_2561jpg_Page5.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/import/car/106_2561jpg_Page6.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+
+
+
+
+  
+
+&lt;a  href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/customs/import-export/import/excise/&#34;   class=&#34;book-btn&#34;&gt;
+  Safeguard Measure: SG
+&lt;/a&gt;
+
+
+&lt;h2 id=&#34;template-faq&#34;&gt;Template FAQ&lt;/h2&gt;
+
+&lt;div class=&#34;book-expand&#34;&gt;
+  &lt;label&gt;
+    &lt;div class=&#34;book-expand-head d-flex flex-column justify-between&#34;&gt;
+      &lt;span&gt;การปฏิบัติพิธีการในการนำของที่ผลิตในประเทศเข้าไปบรรจุในเขตปลอดอากร/เขตประกอบการเสรีและขอใช้สิทธิชดเชย&lt;/span&gt;
+      &lt;span&gt;&amp;#43;&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;input type=&#34;checkbox&#34; class=&#34;hidden&#34; /&gt;
+    &lt;div class=&#34;book-expand-content markdown-inner&#34;&gt;
+      &lt;h2 id=&#34;การปฏ-บ-ต-พ-ธ-การในการนำของท-ผล-ตในประเทศเข-าไปบรรจ-ในเขตปลอดอากร-เขตประกอบการเสร-และขอใช-ส-ทธ-ชดเชยค-าภาษ-อากรเม-อส-งออก&#34;&gt;การปฏิบัติพิธีการในการนำของที่ผลิตในประเทศเข้าไปบรรจุในเขตปลอดอากร/เขตประกอบการเสรีและขอใช้สิทธิชดเชยค่าภาษีอากรเมื่อส่งออก&lt;/h2&gt;
+
+&lt;blockquote class=&#34;book-hint success&#34;&gt;
+  &lt;strong&gt;คำตอบ :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ที่มา : &lt;a href=&#34;http://ccc.customs.go.th/cont_strc_faq.php?current_id=14232a324149505f47&amp;amp;left_menu=interesting_article&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;วันที่ปรับปรุงล่าสุด : 4 ตุลาคม 2562&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+    &lt;/div&gt;
+  &lt;/label&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     
     <item>
       <title>การปฏิบัติพิธีการศุลกากรกรณีผู้นำของเข้าแจ้งความสงวนสิทธิขอคืนอากร</title>
-      <link>https://example.com/KM/customs/customs/import-export/import/reverve/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/reverve/</link>
       <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/import-export/import/reverve/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/reverve/</guid>
       <description>&lt;p&gt;&lt;strong&gt;การปฏิบัติพิธีการศุลกากรกรณีผู้นำของเข้าแจ้งความสงวนสิทธิขอคืนอากรและการวางประกันเกี่ยวกับ ปัญหาพิกัดศุลกากร&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;เนื่องจากภายหลังพระราชบัญญัติศุลกากร พ.ศ. 2560 มีผลบังคับ กรมศุลกากรยังไม่มีประกาศแนวทางปฏิบัติ สำหรับกรณีที่ผู้นำของเข้าไม่แน่ใจ ในประเภทพิกัดที่จะสำแดง จึงขอวางประกัน/แจ้งความสงวนสิทธิคืนอากร เพื่อขอให้กรมศุลกากรพิจำรณาว่าจัดเข้าพิกัดใด แต่ปัจจุบันยังไม่มีแนวทางปฏิบัติให้ผู้ประกอบการ และเจ้าหน้าที่ดำเนินการ แนวทางการแก้ไขปัญหา กรมศุลกากรจึงกำหนดแนวทางให้หน่วยงานที่เกี่ยวข้องไปดำเนินการกำหนดแนวทางการปฏิบัติ และออกเป็นประกาศกรมศุลกากร สำหรับเรื่องดังกล่าว&lt;/p&gt;
@@ -1483,10 +1537,10 @@
     
     <item>
       <title>ของตกค้าง</title>
-      <link>https://example.com/KM/customs/customs/import-export/import/overtime/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/overtime/</link>
       <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/import-export/import/overtime/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/overtime/</guid>
       <description>
 
 &lt;p&gt;เนื่องจากในปัจจุบันมีใบขนสินค้าผ่านแดน ที่ส่งข้อมูลหลังจากวันนำเข้า&lt;em&gt;เกิน 60 วัน&lt;/em&gt; ทำให้ระบบกรมศุลกากรได้ Lock ไม่ให้ส่งข้อมูลใบขนสินค้าผ่านแดน ทำให้มีคำถามกลับเข้ามาถึงกฎหมายที่เกี่ยวข้อง และขั้นตอนการปฏิบัติพิธีการศุลกากร สำหร้ับเรื่องดังกล่าว ในส่วนของโปรแกรม เราจำเป็นต้องทราบว่าระบบหลังบ้านกรมศุลกากร จะทำการตรวจสอบและ lock สินค้าที่อยู่ในอารักขาของศุลกากร&lt;em&gt;เกิน 60 วัน&lt;/em&gt; นับแต่วันที่นําเข้า โดย&lt;em&gt;ไม่มีการยื่นใบขนสินค้า&lt;/em&gt; หรือ &lt;em&gt;ไม่ได้เสียอากรหรือวางประกันค่าอากรที่ศุลกากรเรียกเก็บ&lt;/em&gt; ไม่สามารถส่งข้อมูลทางอิเล็กทรอนิกส์ได้ เราจึงรวบรวมข้อกฎหมายและขั้นตอนการปฏิบัติของหน่วยงานต่าง ๆ ที่เกี่ยวข้องกับของตกค้าง เพื่อใช้ประกอบทำความเข้าใจ และใช้เป็นแนวทางในการแก้ปัญหาในเรื่องดังกล่าวดังนี้&lt;/p&gt;
@@ -1547,10 +1601,10 @@
     
     <item>
       <title>กลับไปเมนูหลัก  การนำเข้า-ส่งออกสินค้า</title>
-      <link>https://example.com/KM/customs/customs/import-export/import/direct_main/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/direct_main/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/import-export/import/direct_main/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/direct_main/</guid>
       <description>&lt;script&gt;
    var files = &#39;/KM/customs/customs/import-export/index.html&#39;
    //document.location = files

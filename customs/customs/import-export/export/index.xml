@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>การส่งออกสินค้า (Export) on ECS</title>
-    <link>https://example.com/KM/customs/customs/import-export/export/</link>
+    <link>https://ecs-support.github.io/KM/customs/customs/import-export/export/</link>
     <description>Recent content in การส่งออกสินค้า (Export) on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
     <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://example.com/KM/customs/customs/import-export/export/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://ecs-support.github.io/KM/customs/customs/import-export/export/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>คู่มือการปฏิบัติพิธีการศุลกากรสำหรับการส่งออก (e-Export)</title>
-      <link>https://example.com/KM/customs/customs/import-export/export/export.1/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/export/export.1/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/import-export/export/export.1/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/export/export.1/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/cover/export-Customs-clearance-handbook.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -75,10 +75,10 @@
     
     <item>
       <title>พิธีการการส่งออกสินค้า (Export)</title>
-      <link>https://example.com/KM/customs/customs/import-export/export/customs-clearance/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/export/customs-clearance/</link>
       <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/import-export/export/customs-clearance/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/export/customs-clearance/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/cover/export-Customs-clearance.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -406,10 +406,10 @@ Here&amp;rsquo;s some important information&amp;hellip;
     
     <item>
       <title>การคืนอากรสำหรับของที่นำเข้ามาแล้วส่งกลับออกไป (Re-export)</title>
-      <link>https://example.com/KM/customs/customs/import-export/export/re-export/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/export/re-export/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/import-export/export/re-export/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/export/re-export/</guid>
       <description>
 
 &lt;p&gt;ของที่นำเข้ามาในราชอาณาจักรและเสียอากรแล้ว หากส่งกลับออกไปยังเมืองต่างประเทศหรือส่งกลับไปเป็นของใช้สิ้นเปลืองในเรือ เดินทางไปต่างประเทศ สามารถขอคืนเงินอากรขาเข้าที่ชำระไว้แล้วได้ &lt;em&gt;เก้าในสิบส่วน หรือส่วนที่เกินหนึ่งพันบาทของจำนวนที่เรียกเก็บไว้&lt;/em&gt; โดยคำนวณตามใบขนสินค้าขาออกแต่ละฉบับ
@@ -470,10 +470,10 @@ Customs Clinic โทร 0-2667-7880-4 โทรสาร 0-2667-7885 อีเ�
     
     <item>
       <title>กลับไปเมนูหลัก  การนำเข้า-ส่งออกสินค้า</title>
-      <link>https://example.com/KM/customs/customs/import-export/export/direct_main/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/export/direct_main/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/import-export/export/direct_main/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/export/direct_main/</guid>
       <description>&lt;script&gt;
    var files = &#39;/KM/customs/customs/import-export/index.html&#39;
    //document.location = files
