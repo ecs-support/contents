@@ -43646,11 +43646,9 @@ $(document).ready(function () {
   $("#table-ref").DataTable({
     data: dataSet,
     columns: [
-      { title: "รหัสท่า" },
+      { title: "รหัสท่า", className: "txt-center" },
       { title: "ชื่อท่า" },
-      { title: "รหัสประเทศ" },
-
- 
+      { title: "รหัสประเทศ", className: "txt-center" },
     ],
     responsive: true,
     scroller: true,

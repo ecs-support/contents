@@ -90,9 +90,8 @@ $(document).ready(function () {
     data: dataSet,
     columns: [
       { title: "หน่วยงาน" },
-      { title: "รหัสยกเว้น" },
-      { title: "วันที่ออกใบอนุญาต" },
-
+      { title: "รหัสยกเว้น", className: "txt-center" },
+      { title: "วันที่ออกใบอนุญาต", className: "txt-center" },
     ],
     responsive: true,
     scroller: true,

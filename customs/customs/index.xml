@@ -13,10 +13,17 @@
     
     <item>
       <title>ของต้องห้ามหรือต้องมีใบอนุญาต ในการนำเข้า/ส่งออก</title>
+<<<<<<< HEAD
       <link>https://ecs-support.github.io/KM/customs/customs/restricted-goods/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/customs/restricted-goods/</guid>
+=======
+      <link>https://example.com/KM/customs/customs/restricted-goods/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/KM/customs/customs/restricted-goods/</guid>
+>>>>>>> e3dbb17bba984189ca56e5fa3a76e8ee37344984
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/cover/ECS-Cover-permission-goods.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
