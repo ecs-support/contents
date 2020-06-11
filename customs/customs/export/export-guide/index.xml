@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>คู่มือการปฏิบัติพิธีการศุลกากรสำหรับการส่งออก (e-Export) on Library</title>
-    <link>https://example.com/KM/customs/customs/export/export-guide/</link>
+    <link>https://ecs-support.github.io/knowledge-center/customs/customs/export/export-guide/</link>
     <description>Recent content in คู่มือการปฏิบัติพิธีการศุลกากรสำหรับการส่งออก (e-Export) on Library</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 May 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://example.com/KM/customs/customs/export/export-guide/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://ecs-support.github.io/knowledge-center/customs/customs/export/export-guide/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>โครงสร้างข้อมูลใบขนสินค้าขาออก</title>
-      <link>https://example.com/KM/customs/customs/export/export-guide/data-structure/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/customs/export/export-guide/data-structure/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/export/export-guide/data-structure/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/export/export-guide/data-structure/</guid>
       <description>
 
 &lt;h2 id=&#34;โครงสร-างข-อม-ล&#34;&gt;โครงสร้างข้อมูล&lt;/h2&gt;
@@ -183,10 +183,10 @@
     
     <item>
       <title>หลักการบันทึกข้อมูลใบขนสินค้าขาออก</title>
-      <link>https://example.com/KM/customs/customs/export/export-guide/principles-for-recording/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/customs/export/export-guide/principles-for-recording/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/export/export-guide/principles-for-recording/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/export/export-guide/principles-for-recording/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;สามารถใช้สิทธิ์ Freezone, I-EAT Free Zone, Bond เพียงอย่างใดอย่างหนึ่งในแต่ละรายการของ
 ใบขนสินค้า (บันทึกการขอใช้สิทธิ์ในส่วนของ Export Declaration Control)&lt;/li&gt;
@@ -203,10 +203,10 @@
     
     <item>
       <title>หลักการรวมรายการสินค้า</title>
-      <link>https://example.com/KM/customs/customs/export/export-guide/list-of-products/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/customs/export/export-guide/list-of-products/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/export/export-guide/list-of-products/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/export/export-guide/list-of-products/</guid>
       <description>
 
 &lt;h2 id=&#34;ใช-ส-ทธ-ตามมาตรา-29&#34;&gt;ใช้สิทธิ์ตามมาตรา 29&lt;/h2&gt;
@@ -241,10 +241,10 @@
     
     <item>
       <title>ภาค 4 ของที่ได้รับยกเว้นอากร</title>
-      <link>https://example.com/KM/customs/customs/export/export-guide/part-4/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/customs/export/export-guide/part-4/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/export/export-guide/part-4/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/export/export-guide/part-4/</guid>
       <description>
 
 &lt;h2 id=&#34;1-ภาค-4-รายการส-ทธ-นำกล-บ&#34;&gt;1 ภาค 4 รายการสุทธินำกลับ&lt;/h2&gt;
@@ -306,10 +306,10 @@
     
     <item>
       <title>สิทธิประโยชน์ทางภาษีอากร</title>
-      <link>https://example.com/KM/customs/customs/export/export-guide/input-tax-incentives/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/customs/export/export-guide/input-tax-incentives/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/export/export-guide/input-tax-incentives/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/export/export-guide/input-tax-incentives/</guid>
       <description>
 
 &lt;h2 id=&#34;re-export&#34;&gt;Re-Export&lt;/h2&gt;
@@ -419,10 +419,10 @@
     
     <item>
       <title>การตรวจสอบข้อมูลใบขนสินค้าขาออก</title>
-      <link>https://example.com/KM/customs/customs/export/export-guide/check-data-declalation/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/customs/export/export-guide/check-data-declalation/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/export/export-guide/check-data-declalation/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/export/export-guide/check-data-declalation/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;การตรวจสอบความถูกต้องเบื้องต้น ระบบคอมพิวเตอร์ของศุลกากรจะตรวจสอบความถูกต้อง
 เบื้องต้นกับแฟ้มข้อมูลอ้างอิง และกับข้อมูลการอนุมัติ/อนุญาตตามกฎหมายที่เกี่ยวข้อง&lt;/li&gt;
@@ -438,10 +438,10 @@
     
     <item>
       <title>การตรวจสอบข้อมูลใบขนสินค้า กับระบบทะเบียนผู้มาติดต่อ</title>
-      <link>https://example.com/KM/customs/customs/export/export-guide/contact-registration/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/customs/export/export-guide/contact-registration/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/export/export-guide/contact-registration/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/export/export-guide/contact-registration/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;การตรวจสอบลายเซ็นอิเล็กทรอนิกส์ (Digital Signature)&lt;/strong&gt; มีเงื่อนไขดังนี้&lt;/p&gt;
 
@@ -486,20 +486,20 @@
     
     <item>
       <title>รูปแบบเลขที่ใบขนสินค้า</title>
-      <link>https://example.com/KM/customs/customs/export/export-guide/declaration-no/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/customs/export/export-guide/declaration-no/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/export/export-guide/declaration-no/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/export/export-guide/declaration-no/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page49.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>การชําระภาษีอากร</title>
-      <link>https://example.com/KM/customs/customs/export/export-guide/duty-payment/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/customs/export/export-guide/duty-payment/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/export/export-guide/duty-payment/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/export/export-guide/duty-payment/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;การบันทึกข้อมูลการชําระภาษีอากรผ่านธนาคาร&lt;/li&gt;
 &lt;li&gt;การวางคํ้าประกันของธนาคาร เมื่อผู้ส่งของออกดําเนินการตั้งภาระค้ำประกันตามมาตรฐานที่กรมศุลกากรกําหนดแล้ว ระบบคอมพิวเตอร์ของศุลกากรจะออกเลขที่รับประกันธนาคาร พร้อมกับเปลี่ยนสถานะ ใบขนสินค้าขาออกเป็น &lt;strong&gt;“ใบขนสินค้าที่ชําระค่าภาษีอากรแล้ว”&lt;/strong&gt; โดยอัตโนมัติ&lt;/li&gt;
@@ -514,10 +514,10 @@
     
     <item>
       <title>โครงสร้างข้อมูลใบกำกับการขนย้ายสินค้า</title>
-      <link>https://example.com/KM/customs/customs/export/export-guide/goods-control-list-structure/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/customs/export/export-guide/goods-control-list-structure/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/export/export-guide/goods-control-list-structure/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/export/export-guide/goods-control-list-structure/</guid>
       <description>
 
 &lt;h2 id=&#34;ใบก-าก-บการขนย-ายส-นค-า-แบ-งออกเป-น-2-ส-วน-ได-แก&#34;&gt;ใบกํากับการขนย้ายสินค้า แบ่งออกเป็น 2 ส่วน ได้แก่&lt;/h2&gt;
@@ -612,10 +612,10 @@
     
     <item>
       <title>การจัดทําข้อมูลใบกํากับการขนย้ายสินค้า</title>
-      <link>https://example.com/KM/customs/customs/export/export-guide/prepare-goods-control-list/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/customs/export/export-guide/prepare-goods-control-list/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/export/export-guide/prepare-goods-control-list/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/export/export-guide/prepare-goods-control-list/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/export/export-guide/e-Export-guidejpg_Page65.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;

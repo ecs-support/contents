@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>การนำเข้า-ส่งออกสินค้า on ECS</title>
-    <link>https://example.com/KM/customs/customs/import-export/</link>
+    <link>https://ecs-support.github.io/KM/customs/customs/import-export/</link>
     <description>Recent content in การนำเข้า-ส่งออกสินค้า on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
     
-	    <atom:link href="https://example.com/KM/customs/customs/import-export/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://ecs-support.github.io/KM/customs/customs/import-export/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>การนำเข้าสินค้า (Import)</title>
-      <link>https://example.com/KM/customs/customs/import-export/import/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/</link>
       <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/import-export/import/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;img/import.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -41,10 +41,10 @@
     
     <item>
       <title>สินค้าถ่ายลำ/ผ่านแดน</title>
-      <link>https://example.com/KM/customs/customs/import-export/transit/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/transit/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/import-export/transit/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/transit/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/cover/transit.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -158,10 +158,10 @@
     
     <item>
       <title>พิธีการสำหรับสินค้าถ่ายลำ/ผ่านแดน</title>
-      <link>https://example.com/KM/customs/customs/import-export/transit/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/transit/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/import-export/transit/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/transit/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;../img/transit.png&#34; alt=&#34;alt&#34; /&gt;&lt;/p&gt;
@@ -277,10 +277,10 @@
     
     <item>
       <title>การส่งออกสินค้า (Export)</title>
-      <link>https://example.com/KM/customs/customs/import-export/export/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/export/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/import-export/export/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/export/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;img/export.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -301,10 +301,10 @@
     
     <item>
       <title>การนำเข้าสินค้า (Import)</title>
-      <link>https://example.com/KM/customs/customs/import-export/direct_import/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/direct_import/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/import-export/direct_import/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/direct_import/</guid>
       <description>&lt;script&gt;
    var files = &#39;../import/index.html&#39;
    //document.location = files
@@ -315,10 +315,10 @@
     
     <item>
       <title>การปฏิบัติพิธีการศุลกากรสำหรับการส่งออก (Export)</title>
-      <link>https://example.com/KM/customs/customs/import-export/direct_export/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/direct_export/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/import-export/direct_export/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/direct_export/</guid>
       <description>&lt;script&gt;
    var files = &#39;../export/index.html&#39;
    //document.location = files

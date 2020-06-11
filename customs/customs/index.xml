@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>การปฏิบัติพิธีการศุลกากร on ECS</title>
-    <link>https://example.com/KM/customs/customs/</link>
+    <link>https://ecs-support.github.io/KM/customs/customs/</link>
     <description>Recent content in การปฏิบัติพิธีการศุลกากร on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
     
-	    <atom:link href="https://example.com/KM/customs/customs/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://ecs-support.github.io/KM/customs/customs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ของต้องห้ามหรือต้องมีใบอนุญาต ในการนำเข้า/ส่งออก</title>
-      <link>https://example.com/KM/customs/customs/restricted-goods/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/restricted-goods/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/restricted-goods/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/restricted-goods/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/cover/ECS-Cover-permission-goods.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -109,10 +109,10 @@
     
     <item>
       <title>สิทธิพิเศษทางการค้า</title>
-      <link>https://example.com/KM/customs/customs/free-trade/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/free-trade/</link>
       <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/free-trade/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/free-trade/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/free-trade-area.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -199,19 +199,19 @@
     
     <item>
       <title>Navigation and Search</title>
-      <link>https://example.com/KM/customs/customs/section_menu/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/section_menu/</link>
       <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/section_menu/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/section_menu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>สิทธิประโยชน์ทางภาษีอากร</title>
-      <link>https://example.com/KM/customs/customs/tax-incentive/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/tax-incentive/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/tax-incentive/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/tax-incentive/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/tax-incentive.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -221,7 +221,7 @@
 &lt;div class=&#34;alert alert-note_toc&#34;&gt;
   &lt;div&gt;
     &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/KM/customs/section_29/&#34;&gt;การคืนอากรตามมาตรา 29&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/section_29/&#34;&gt;การคืนอากรตามมาตรา 29&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;../tax-incentive/bond/&#34;&gt;คลังสินค้าทัณฑ์บน&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;../tax-incentive/freezone/&#34;&gt;เขตปลอดอากร (Freezone)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;../tax-incentive/ieat/&#34;&gt;เขตประกอบการเสรี&lt;/a&gt;&lt;/li&gt;
@@ -258,10 +258,10 @@ taxinclinic@gmail.com
     
     <item>
       <title>การนำเข้า-ส่งออกสินค้า</title>
-      <link>https://example.com/KM/customs/customs/import-export/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/import-export/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;knowledge-center.png&#34; alt=&#34;Alternate text&#34; /&gt;&lt;/p&gt;
 </description>
     </item>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ECS</title>
-    <link>https://example.com/KM/customs/</link>
+    <link>https://ecs-support.github.io/KM/customs/</link>
     <description>Recent content on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
     <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://example.com/KM/customs/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://ecs-support.github.io/KM/customs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tax Incentive</title>
-      <link>https://example.com/KM/customs/tax/</link>
+      <link>https://ecs-support.github.io/KM/customs/tax/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/tax/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/tax/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/tax-incentive.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -64,28 +64,28 @@ taxinclinic@gmail.com
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/KM/customs/slides/</link>
+      <link>https://ecs-support.github.io/KM/customs/slides/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/slides/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/slides/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Terms</title>
-      <link>https://example.com/KM/customs/term/</link>
+      <link>https://ecs-support.github.io/KM/customs/term/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
       
-      <guid>https://example.com/KM/customs/term/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/term/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://example.com/KM/customs/project/</link>
+      <link>https://ecs-support.github.io/KM/customs/project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/project/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/project/</guid>
       <description></description>
     </item>
     
@@ -100,55 +100,55 @@ taxinclinic@gmail.com
     
     <item>
       <title>Books</title>
-      <link>https://example.com/KM/customs/book/</link>
+      <link>https://ecs-support.github.io/KM/customs/book/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/book/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/book/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Courses</title>
-      <link>https://example.com/KM/customs/courses/</link>
+      <link>https://ecs-support.github.io/KM/customs/courses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/courses/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/courses/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posts</title>
-      <link>https://example.com/KM/customs/post/</link>
+      <link>https://ecs-support.github.io/KM/customs/post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/post/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://example.com/KM/customs/publication/</link>
+      <link>https://ecs-support.github.io/KM/customs/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/publication/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://example.com/KM/customs/talk/</link>
+      <link>https://ecs-support.github.io/KM/customs/talk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/talk/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/talk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>การปฏิบัติพิธีการศุลกากร</title>
-      <link>https://example.com/KM/customs/customs/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/knowledge-center.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
