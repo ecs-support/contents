@@ -7,10 +7,19 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
-    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ecs-support.github.io/KM/customs/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>SG</title>
+      <link>https://ecs-support.github.io/KM/customs/tags/sg/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/tags/sg/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>การควบคุม</title>
@@ -67,6 +76,33 @@
     </item>
     
     <item>
+      <title>ประกาศ</title>
+      <link>https://ecs-support.github.io/KM/customs/tags/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/tags/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ผู้ประสานงาน</title>
+      <link>https://ecs-support.github.io/KM/customs/tags/%E0%B8%9C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B8%87%E0%B8%B2%E0%B8%99/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/tags/%E0%B8%9C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B8%87%E0%B8%B2%E0%B8%99/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>สินค้าอันตราย</title>
+      <link>https://ecs-support.github.io/KM/customs/tags/%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/tags/%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Source Themes</title>
       <link>https://ecs-support.github.io/KM/customs/tags/source-themes/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
@@ -103,38 +139,11 @@
     </item>
     
     <item>
-      <title>robotics</title>
+      <title>Robotics</title>
       <link>https://ecs-support.github.io/KM/customs/tags/robotics/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/tags/robotics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ประกาศ</title>
-      <link>https://ecs-support.github.io/KM/customs/tags/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/KM/customs/tags/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ผู้ประสานงาน</title>
-      <link>https://ecs-support.github.io/KM/customs/tags/%E0%B8%9C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B8%87%E0%B8%B2%E0%B8%99/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/KM/customs/tags/%E0%B8%9C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B8%87%E0%B8%B2%E0%B8%99/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>สินค้าอันตราย</title>
-      <link>https://ecs-support.github.io/KM/customs/tags/%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/KM/customs/tags/%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2/</guid>
       <description></description>
     </item>
     
