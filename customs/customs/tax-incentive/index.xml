@@ -773,23 +773,6 @@
       <guid>https://ecs-support.github.io/KM/customs/customs/tax-incentive/compensate/</guid>
       <description>
 
-&lt;script&gt;
-var acc = document.getElementsByClassName(&#34;book-expand&#34;);
-var i;
-
-for (i = 0; i &lt; acc.length; i++) {
-  acc[i].addEventListener(&#34;click&#34;, function() {
-    this.classList.toggle(&#34;active&#34;);
-    var panel = this.nextElementSibling;
-    if (panel.style.maxHeight) {
-      panel.style.maxHeight = null;
-    } else {
-      panel.style.maxHeight = panel.scrollHeight + &#34;px&#34;;
-    }
-  });
-}
-&lt;/script&gt;
-
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/export-freezone-11-03-20.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;การชดเชยค่าภาษีอากรสำหรับสินค้าส่งออกที่ผลิตในราชอาณาจักร (FREETRADE ZONE)&lt;/strong&gt;&lt;/p&gt;
