@@ -8,8 +8,13 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/export/</loc>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/</loc>
-    <lastmod>2020-06-08T10:03:07+07:00</lastmod>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
   </url>
   
   <url>
@@ -23,13 +28,13 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/export/export.1/</loc>
-    <lastmod>2020-06-08T02:17:48+07:00</lastmod>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/export/export.1/guide/</loc>
+    <lastmod>2020-06-15T17:21:18+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/</loc>
-    <lastmod>2020-06-05T02:34:09+07:00</lastmod>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
   </url>
   
   <url>
@@ -103,8 +108,13 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/export/road/</loc>
+    <lastmod>2020-06-15T17:21:18+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/customs-clearance/</loc>
-    <lastmod>2020-06-10T17:56:06+07:00</lastmod>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
   </url>
   
   <url>
@@ -129,7 +139,7 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/data-structure/</loc>
-    <lastmod>2020-06-06T00:24:31+07:00</lastmod>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
   </url>
   
   <url>
@@ -174,11 +184,7 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/restricted-goods/dangerous_goods/</loc>
-<<<<<<< HEAD
     <lastmod>2020-06-12T17:39:17+07:00</lastmod>
-=======
-    <lastmod>2020-06-10T17:56:06+07:00</lastmod>
->>>>>>> bfddd60ddbbd67cdf32efc08f062ce678b52764e
   </url>
   
   <url>
@@ -192,18 +198,23 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/export/sea/</loc>
+    <lastmod>2020-06-15T17:21:18+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/KM/customs/book/gates/bill-gate-3/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/calculate-cif/</loc>
-    <lastmod>2020-06-06T00:24:31+07:00</lastmod>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/direct_guide/</loc>
-    <lastmod>2020-06-06T00:24:31+07:00</lastmod>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
   </url>
   
   <url>
@@ -233,11 +244,7 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/restricted-goods/announce/</loc>
-<<<<<<< HEAD
     <lastmod>2020-06-12T17:39:17+07:00</lastmod>
-=======
-    <lastmod>2020-06-10T17:56:06+07:00</lastmod>
->>>>>>> bfddd60ddbbd67cdf32efc08f062ce678b52764e
   </url>
   
   <url>
@@ -251,8 +258,13 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/export/air/</loc>
+    <lastmod>2020-06-15T17:21:18+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/excise/</loc>
-    <lastmod>2020-06-04T17:06:36+07:00</lastmod>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
   </url>
   
   <url>
@@ -261,13 +273,8 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/trade-protection/</loc>
-    <lastmod>2020-06-04T17:06:36+07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/declaration-no/</loc>
-    <lastmod>2020-06-06T00:24:31+07:00</lastmod>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
   </url>
   
   <url>
@@ -287,11 +294,7 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/restricted-goods/oga_contact/</loc>
-<<<<<<< HEAD
     <lastmod>2020-06-12T17:39:17+07:00</lastmod>
-=======
-    <lastmod>2020-06-10T17:56:06+07:00</lastmod>
->>>>>>> bfddd60ddbbd67cdf32efc08f062ce678b52764e
   </url>
   
   <url>
@@ -305,8 +308,13 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/import-car/</loc>
-    <lastmod>2020-06-10T17:56:06+07:00</lastmod>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/search_by_product/</loc>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/price_structure/</loc>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
   </url>
   
   <url>
@@ -315,8 +323,13 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/export/re-export/</loc>
+    <lastmod>2020-06-15T17:21:18+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/type-ducument/</loc>
-    <lastmod>2020-06-06T00:24:31+07:00</lastmod>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
   </url>
   
   <url>
@@ -345,18 +358,18 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/notifications_price/</loc>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/KM/customs/book/gates/bill-gate-6/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/reverve/</loc>
-    <lastmod>2020-06-04T17:06:36+07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/contact-registration/</loc>
-    <lastmod>2020-06-06T00:24:31+07:00</lastmod>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
   </url>
   
   <url>
@@ -385,18 +398,18 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/calculate_excise/</loc>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/arrival-date/</loc>
-    <lastmod>2020-06-06T00:24:31+07:00</lastmod>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/book/gates/bill-gate-7/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/overtime/</loc>
-    <lastmod>2020-06-04T17:06:36+07:00</lastmod>
   </url>
   
   <url>
@@ -415,8 +428,13 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/excise_announcement_product_list/</loc>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/bill-of-loading-no/</loc>
-    <lastmod>2020-06-06T00:24:31+07:00</lastmod>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
   </url>
   
   <url>
@@ -445,8 +463,13 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/excise_announcement_list/</loc>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/area/</loc>
-    <lastmod>2020-06-06T02:05:11+07:00</lastmod>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
   </url>
   
   <url>
@@ -471,7 +494,7 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/shipping-marks/</loc>
-    <lastmod>2020-06-06T00:24:31+07:00</lastmod>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
   </url>
   
   <url>
@@ -482,6 +505,11 @@
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/export/export.1/duty-payment/</loc>
     <lastmod>2020-06-08T02:17:48+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/trade-protection/</loc>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
   </url>
   
   <url>
@@ -496,7 +524,12 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/quantity-weight/</loc>
-    <lastmod>2020-06-06T00:24:31+07:00</lastmod>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/import-car/</loc>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
   </url>
   
   <url>
@@ -526,12 +559,17 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/assessment-request-code/</loc>
-    <lastmod>2020-06-06T00:24:31+07:00</lastmod>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/book/gates/bill-gate-12/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/reverve/</loc>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
   </url>
   
   <url>
@@ -551,7 +589,12 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/currency-code-exchange-rate/</loc>
-    <lastmod>2020-06-06T00:24:31+07:00</lastmod>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/overtime/</loc>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
   </url>
   
   <url>
@@ -560,13 +603,8 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/export/re-export/</loc>
-    <lastmod>2020-06-04T17:06:36+07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/merge-item/</loc>
-    <lastmod>2020-06-06T00:24:31+07:00</lastmod>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
   </url>
   
   <url>
@@ -576,7 +614,7 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/cif-value/</loc>
-    <lastmod>2020-06-06T00:24:31+07:00</lastmod>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
   </url>
   
   <url>
@@ -586,7 +624,7 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/incoterms/</loc>
-    <lastmod>2020-06-06T00:24:31+07:00</lastmod>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
   </url>
   
   <url>
@@ -601,12 +639,12 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/part-4/</loc>
-    <lastmod>2020-06-09T16:19:41+07:00</lastmod>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/tax-incentives/</loc>
-    <lastmod>2020-06-06T00:24:31+07:00</lastmod>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
   </url>
   
   <url>
@@ -616,7 +654,7 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/guarantee-argumentative/</loc>
-    <lastmod>2020-06-06T00:24:31+07:00</lastmod>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
   </url>
   
   <url>
@@ -626,7 +664,7 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/guarantee-fuel-fund/</loc>
-    <lastmod>2020-06-06T00:24:31+07:00</lastmod>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
   </url>
   
   <url>
@@ -646,42 +684,42 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/gurantee-anti-dumping/</loc>
-    <lastmod>2020-06-06T00:24:31+07:00</lastmod>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/input-duty/</loc>
-    <lastmod>2020-06-06T00:24:31+07:00</lastmod>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/payment-method/</loc>
-    <lastmod>2020-06-06T00:24:31+07:00</lastmod>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/argumentative-reason-code/</loc>
-    <lastmod>2020-06-06T00:24:31+07:00</lastmod>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/type-duty/</loc>
-    <lastmod>2020-06-06T00:24:31+07:00</lastmod>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/permit-issue-authority/</loc>
-    <lastmod>2020-06-06T00:24:31+07:00</lastmod>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/checking-mainfest/</loc>
-    <lastmod>2020-06-06T00:24:31+07:00</lastmod>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/privilege/</loc>
-    <lastmod>2020-06-06T00:24:31+07:00</lastmod>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
   </url>
   
   <url>
@@ -745,17 +783,23 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/direct_main/</loc>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/direct_main/</loc>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/KM/customs/talk/coding/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/</loc>
-<<<<<<< HEAD
-    <lastmod>2020-06-12T17:39:17+07:00</lastmod>
-=======
-    <lastmod>2020-06-12T14:09:06+07:00</lastmod>
->>>>>>> bfddd60ddbbd67cdf32efc08f062ce678b52764e
+    <lastmod>2020-06-15T17:21:18+07:00</lastmod>
   </url>
   
   <url>
@@ -770,74 +814,42 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/authors/</loc>
-<<<<<<< HEAD
     <lastmod>2020-06-12T17:39:17+07:00</lastmod>
-=======
-    <lastmod>2020-06-12T14:09:06+07:00</lastmod>
->>>>>>> bfddd60ddbbd67cdf32efc08f062ce678b52764e
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/categories/</loc>
-<<<<<<< HEAD
     <lastmod>2020-06-12T17:39:17+07:00</lastmod>
-=======
-    <lastmod>2020-06-12T14:09:06+07:00</lastmod>
->>>>>>> bfddd60ddbbd67cdf32efc08f062ce678b52764e
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/tags/sg/</loc>
-<<<<<<< HEAD
     <lastmod>2020-06-12T17:39:17+07:00</lastmod>
-=======
-    <lastmod>2020-06-12T14:09:06+07:00</lastmod>
->>>>>>> bfddd60ddbbd67cdf32efc08f062ce678b52764e
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/tags/</loc>
-<<<<<<< HEAD
     <lastmod>2020-06-12T17:39:17+07:00</lastmod>
-=======
-    <lastmod>2020-06-12T14:09:06+07:00</lastmod>
->>>>>>> bfddd60ddbbd67cdf32efc08f062ce678b52764e
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/categories/%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%9B%E0%B8%81%E0%B8%9B%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%95%E0%B8%AD%E0%B8%9A%E0%B9%82%E0%B8%95%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B2/</loc>
-<<<<<<< HEAD
     <lastmod>2020-06-12T17:39:17+07:00</lastmod>
-=======
-    <lastmod>2020-06-12T14:09:06+07:00</lastmod>
->>>>>>> bfddd60ddbbd67cdf32efc08f062ce678b52764e
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8/</loc>
-<<<<<<< HEAD
     <lastmod>2020-06-12T17:39:17+07:00</lastmod>
-=======
-    <lastmod>2020-06-12T14:09:06+07:00</lastmod>
->>>>>>> bfddd60ddbbd67cdf32efc08f062ce678b52764e
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/post/safeguard-measure-07-06-2020/</loc>
-<<<<<<< HEAD
     <lastmod>2020-06-12T17:39:17+07:00</lastmod>
-=======
-    <lastmod>2020-06-12T14:09:06+07:00</lastmod>
->>>>>>> bfddd60ddbbd67cdf32efc08f062ce678b52764e
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/categories/mail/</loc>
-<<<<<<< HEAD
     <lastmod>2020-06-12T17:39:17+07:00</lastmod>
-=======
-    <lastmod>2020-06-04T17:06:36+07:00</lastmod>
->>>>>>> bfddd60ddbbd67cdf32efc08f062ce678b52764e
   </url>
   
   <url>
@@ -902,56 +914,32 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B8%AD%E0%B8%95%E0%B8%AA%E0%B8%B2%E0%B8%AB%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1/</loc>
-<<<<<<< HEAD
     <lastmod>2020-06-12T17:39:17+07:00</lastmod>
-=======
-    <lastmod>2020-06-04T17:06:36+07:00</lastmod>
->>>>>>> bfddd60ddbbd67cdf32efc08f062ce678b52764e
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%A7%E0%B8%95%E0%B8%96%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2/</loc>
-<<<<<<< HEAD
     <lastmod>2020-06-12T17:39:17+07:00</lastmod>
-=======
-    <lastmod>2020-06-04T17:06:36+07:00</lastmod>
->>>>>>> bfddd60ddbbd67cdf32efc08f062ce678b52764e
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/categories/%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%A1-%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B3%E0%B8%81%E0%B8%94/</loc>
-<<<<<<< HEAD
     <lastmod>2020-06-12T17:39:17+07:00</lastmod>
-=======
-    <lastmod>2020-06-10T17:56:06+07:00</lastmod>
->>>>>>> bfddd60ddbbd67cdf32efc08f062ce678b52764e
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8/</loc>
-<<<<<<< HEAD
     <lastmod>2020-06-12T17:39:17+07:00</lastmod>
-=======
-    <lastmod>2020-06-10T17:56:06+07:00</lastmod>
->>>>>>> bfddd60ddbbd67cdf32efc08f062ce678b52764e
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%9C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B8%87%E0%B8%B2%E0%B8%99/</loc>
-<<<<<<< HEAD
     <lastmod>2020-06-12T17:39:17+07:00</lastmod>
-=======
-    <lastmod>2020-06-10T17:56:06+07:00</lastmod>
->>>>>>> bfddd60ddbbd67cdf32efc08f062ce678b52764e
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2/</loc>
-<<<<<<< HEAD
     <lastmod>2020-06-12T17:39:17+07:00</lastmod>
-=======
-    <lastmod>2020-06-10T17:56:06+07:00</lastmod>
->>>>>>> bfddd60ddbbd67cdf32efc08f062ce678b52764e
   </url>
   
   <url>
@@ -967,11 +955,6 @@
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/transit/</loc>
     <lastmod>2020-06-04T17:59:50+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/export/</loc>
-    <lastmod>2020-06-08T10:03:07+07:00</lastmod>
   </url>
   
   <url>
@@ -991,16 +974,6 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/export/direct_main/</loc>
-    <lastmod>2020-06-04T17:06:36+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/direct_main/</loc>
-    <lastmod>2020-06-04T17:06:36+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/direct_main/</loc>
     <lastmod>2020-06-04T17:06:36+07:00</lastmod>
   </url>
   
@@ -1105,12 +1078,12 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/KM/customs/tags/robotics/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/project/robotics/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/KM/customs/project/robotics/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/tags/robotics/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
