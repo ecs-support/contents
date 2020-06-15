@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>คู่มือระบบพิธีการศุลกากรสำหรับสิทธิประโยชน์ทางภาษีอากร (e-Tax Incentives) on Library</title>
-    <link>https://example.com/KM/customs/customs/tax-incentive/tax-incentive_guide/</link>
+    <link>https://ecs-support.github.io/knowledge-center/customs/customs/tax-incentive/tax-incentive_guide/</link>
     <description>Recent content in คู่มือระบบพิธีการศุลกากรสำหรับสิทธิประโยชน์ทางภาษีอากร (e-Tax Incentives) on Library</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://example.com/KM/customs/customs/tax-incentive/tax-incentive_guide/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://ecs-support.github.io/knowledge-center/customs/customs/tax-incentive/tax-incentive_guide/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>โครงสร้างข้อมูลใบขนสินค้าขาออกโอนย้ายภายในประเทศ</title>
-      <link>https://example.com/KM/customs/customs/tax-incentive/tax-incentive_guide/data_structure_export/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/customs/tax-incentive/tax-incentive_guide/data_structure_export/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/tax-incentive/tax-incentive_guide/data_structure_export/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/tax-incentive/tax-incentive_guide/data_structure_export/</guid>
       <description>
 
 &lt;h2 id=&#34;โครงสร-างข-อม-ลใบขนส-นค-าขาออกโอนย-ายภายในประเทศ-แบ-งได-เป-น-6-ส-วนด-งน&#34;&gt;โครงสร้างข้อมูลใบขนสินค้าขาออกโอนย้ายภายในประเทศ แบ่งได้เป็น 6 ส่วนดังนี้&lt;/h2&gt;
@@ -165,10 +165,10 @@
     
     <item>
       <title>โครงสร้างข้อมูลใบขนสินค้าขาเข้าโอนย้ายภายในประเทศ</title>
-      <link>https://example.com/KM/customs/customs/tax-incentive/tax-incentive_guide/data_structure_import/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/customs/tax-incentive/tax-incentive_guide/data_structure_import/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/tax-incentive/tax-incentive_guide/data_structure_import/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/tax-incentive/tax-incentive_guide/data_structure_import/</guid>
       <description>
 
 &lt;h2 id=&#34;โครงสร-างข-อม-ลใบขนส-นค-าขาเข-าโอนย-ายภายในประเทศ-แบ-งได-เป-น-6-ส-วนด-งน&#34;&gt;โครงสร้างข้อมูลใบขนสินค้าขาเข้าโอนย้ายภายในประเทศ แบ่งได้เป็น 6 ส่วนดังนี้&lt;/h2&gt;
@@ -331,10 +331,10 @@
     
     <item>
       <title>การตรวจสอบข้อมูลใบขนสินค้า กับระบบทะเบียนผู้มาติดต่อ</title>
-      <link>https://example.com/KM/customs/customs/tax-incentive/tax-incentive_guide/visitor-registration/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/customs/tax-incentive/tax-incentive_guide/visitor-registration/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/tax-incentive/tax-incentive_guide/visitor-registration/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/tax-incentive/tax-incentive_guide/visitor-registration/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;&lt;p&gt;การตรวจสอบลายเซ็นอิเล็กทรอนิกส์ (Digital Signature) มีเงื่อนไขดังนี้&lt;/p&gt;
 
@@ -379,10 +379,10 @@
     
     <item>
       <title>เครื่องหมายและเลขหมายหีบห่อ (Shipping Marks)</title>
-      <link>https://example.com/KM/customs/customs/tax-incentive/tax-incentive_guide/shipping-marks/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/customs/tax-incentive/tax-incentive_guide/shipping-marks/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/tax-incentive/tax-incentive_guide/shipping-marks/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/tax-incentive/tax-incentive_guide/shipping-marks/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;&lt;p&gt;เครื่องหมายและเลขหมายหีบห่อ (Shipping Marks) ต้องสำแดงเครื่องหมายและเลขหมายหีบห่อให้ตรงกับความเป็นจริง ซึ่งจะต้องตรงกับใบตราส่งสินค้า โดยให้สำแดง ดังนี้&lt;/p&gt;
 
@@ -413,14 +413,14 @@
     
     <item>
       <title>จำนวนและน้ำหนักของสินค้า</title>
-      <link>https://example.com/KM/customs/customs/tax-incentive/tax-incentive_guide/quantity-and-weight/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/customs/tax-incentive/tax-incentive_guide/quantity-and-weight/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/tax-incentive/tax-incentive_guide/quantity-and-weight/</guid>
+      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/tax-incentive/tax-incentive_guide/quantity-and-weight/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;&lt;p&gt;จำนวนหีบห่อรวม (Total Package Amount) ให้บันทึกค่าลักษณะหีบห่อตามมาตรฐาน หากสินค้ามีหลายลักษณะรวมกัน ให้ระบุจำนวนหีบห่อรวม&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;ลักษณะหีบห่อรวม (Total Package Unit Code) ให้บันทึกค่าลักษณะหีบห่อตามมาตรฐาน UNECE Recommendation 21 หากสินค้ามีหลายลักษณะรวมกัน เช่น กล่อง Roll Drum ให้ระบุหน่วยเป็น &lt;strong&gt;&amp;ldquo;PK&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;ลักษณะหีบห่อรวม (Total Package Unit Code) ให้บันทึกค่าลักษณะหีบห่อตามมาตรฐาน UNECE Recommendation 21 หากสินค้ามีหลายลักษณะรวมกัน เช่น กล่อง Roll Drum ให้ระบุหน่วยเป็น &lt;strong&gt;&amp;laquo;PK&amp;raquo;&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;น้ำหนักสุทธิรวม (Total Net Weight) ต้องมีค่าเท่ากับน้ำหนักสุทธิ (Net Weight) รวมทุกรายการเท่านั้น&lt;/p&gt;&lt;/li&gt;
 
@@ -437,18 +437,18 @@
     
     <item>
       <title>ต้องการให้ตรวจสอบข้อมูลใบขนสินค้าขาเข้า (Assessment Request Code)</title>
-      <link>https://example.com/KM/customs/customs/tax-incentive/tax-incentive_guide/assessment-request/</link>
+      <link>https://ecs-support.github.io/knowledge-center/customs/customs/tax-incentive/tax-incentive_guide/assessment-request/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/KM/customs/customs/tax-incentive/tax-incentive_guide/assessment-request/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;&amp;ldquo;Assessment Request Code&amp;rdquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&amp;ldquo;มีปัญหาพิกัด ราคา พบพนักงานศุลกากร ที่ ด่านศุลกากร ที่นำเข้า&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/tax-incentive/tax-incentive_guide/assessment-request/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;&amp;laquo;Assessment Request Code&amp;raquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&amp;laquo;มีปัญหาพิกัด ราคา พบพนักงานศุลกากร ที่ ด่านศุลกากร ที่นำเข้า&amp;raquo;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;กรณีมีปัญหาและต้องการพบพนักงานศุลกากร  ณ  คลังสินค้าทัณฑ์บน (Bond Port) เขตปลอดอากร  (FreeZone Port) เขตประกอบการเสรี (IEAT Freezone Port)
 
 &lt;ul&gt;
 &lt;li&gt;ในเรื่องปัญหาพิกัดศุลกากร อัตราศุลกากร ราคาศุลกากร&lt;/li&gt;
-&lt;li&gt;ในเรื่องที่ต้องแจ้งความไว้ต่อพนักงานศุลกากรก่อนการส่งมอบว่าจะยื่นคำขอคืนเงินอากร และได้มีการแจ้งเหตุผลไว้ในช่อง หมายเหตุ &lt;strong&gt;&amp;ldquo;Remark&amp;rdquo;&lt;/strong&gt; แล้ว&lt;/li&gt;
+&lt;li&gt;ในเรื่องที่ต้องแจ้งความไว้ต่อพนักงานศุลกากรก่อนการส่งมอบว่าจะยื่นคำขอคืนเงินอากร และได้มีการแจ้งเหตุผลไว้ในช่อง หมายเหตุ &lt;strong&gt;&amp;laquo;Remark&amp;raquo;&lt;/strong&gt; แล้ว&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;กรณีของนำเข้าเป็นของที่มีลักษณะ ดังต่อไปนี้&lt;/strong&gt;
 
@@ -457,8 +457,8 @@
 &lt;li&gt;ของเก่าใช้แล้ว&lt;/li&gt;
 &lt;li&gt;ของด้อยสภาพ&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;ในการจัดทำข้อมูลใบขนสินค้าขาเข้าตาม (1) หรือ (2) ให้ระบุค่า &lt;strong&gt;&amp;ldquo;Y&amp;rdquo;&lt;/strong&gt; ในช่อง &lt;strong&gt;&lt;em&gt;&amp;ldquo;Assessment Request Code&amp;rdquo;&lt;/em&gt; “มีปัญหาพิกัด ราคา พบพนักงานศุลกากร ที่ด่านศุลกากรที่นำเข้า”&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;ระบบคอมพิวเตอร์ของศุลกากรจะสั่งการตรวจใบขนสินค้าขาเข้าเป็น &lt;strong&gt;&amp;ldquo;เปิดตรวจ&amp;rdquo;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;ในการจัดทำข้อมูลใบขนสินค้าขาเข้าตาม (1) หรือ (2) ให้ระบุค่า &lt;strong&gt;&amp;laquo;Y&amp;raquo;&lt;/strong&gt; ในช่อง &lt;strong&gt;&lt;em&gt;&amp;laquo;Assessment Request Code&amp;raquo;&lt;/em&gt; “มีปัญหาพิกัด ราคา พบพนักงานศุลกากร ที่ด่านศุลกากรที่นำเข้า”&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;ระบบคอมพิวเตอร์ของศุลกากรจะสั่งการตรวจใบขนสินค้าขาเข้าเป็น &lt;strong&gt;&amp;laquo;เปิดตรวจ&amp;raquo;&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;พบพนักงานศุลกากร ณ หน่วยบริการศุลกากรที่นำของเข้า เพื่อยื่นหลักฐานหรือเอกสารมาแสดง หรือร้องขอให้พนักงานศุลกากรพิจารณาดำเนินการใด ๆ&lt;br /&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>

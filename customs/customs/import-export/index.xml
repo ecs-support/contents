@@ -19,7 +19,7 @@
       <guid>https://ecs-support.github.io/KM/customs/customs/import-export/export/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;img/export.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;การส่งออก (Export) การจัดส่งสินค้าและบริการจากต้นทางสู่ปลายทางในทางบก ทางน้ำหรือทางอากาศ โดยผู้ส่งสินค้าหรือบริการออกเรียกว่า &amp;ldquo;ผู่ส่งออก&amp;rdquo; ส่วนในทางการค้าระหว่างประเทศ การส่งออกหมายถึง การขายสินค้าและบริการในประเทศไปสู่ตลาดอื่น (ตลาดสากล) ในการส่งออกและนำเข้าซึ่งสินค้าจะต้องมีหน่วยงานที่ต้องเกี่ยวข้องด้วยคือ กรมศุลกากร แม้ว่าจะเป็นการนำเข้า หรือส่งออกผ่านทางระบบอินเทอร์เน็ตเองก็จำเป็นต้องเกี่ยวข้องกับกรมศุลการกรด้วย และที่สำคัญต้องอยู่ภายใต้กฎหมายการนำเข้าและส่งออกของประเทศนั้น ๆ[&lt;/p&gt;
+&lt;p&gt;การส่งออก (Export) การจัดส่งสินค้าและบริการจากต้นทางสู่ปลายทางในทางบก ทางน้ำหรือทางอากาศ โดยผู้ส่งสินค้าหรือบริการออกเรียกว่า &amp;ldquo;ผู่ส่งออก&amp;rdquo; ส่วนในทางการค้าระหว่างประเทศ การส่งออกหมายถึง การขายสินค้าและบริการในประเทศไปสู่ตลาดอื่น (ตลาดสากล) ในการส่งออกและนำเข้าซึ่งสินค้าจะต้องมีหน่วยงานที่ต้องเกี่ยวข้องด้วยคือ กรมศุลกากร แม้ว่าจะเป็นการนำเข้า หรือส่งออกผ่านทางระบบอินเทอร์เน็ตเองก็จำเป็นต้องเกี่ยวข้องกับกรมศุลการกรด้วย และที่สำคัญต้องอยู่ภายใต้กฎหมายการนำเข้าและส่งออกของประเทศนั้น ๆ&lt;/p&gt;
 </description>
     </item>
     
@@ -298,34 +298,6 @@
 &lt;li&gt;วันที่ปรับปรุงล่าสุด : 6 กรกฎาคม 2561&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>การนำเข้าสินค้า (Import)</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/import-export/direct_import/</link>
-      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/direct_import/</guid>
-      <description>&lt;script&gt;
-   var files = &#39;../import/index.html&#39;
-   //document.location = files
-   location.replace(files)
-  &lt;/script&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>การปฏิบัติพิธีการศุลกากรสำหรับการส่งออก (Export)</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/import-export/direct_export/</link>
-      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/direct_export/</guid>
-      <description>&lt;script&gt;
-   var files = &#39;../export/index.html&#39;
-   //document.location = files
-   location.replace(files)
-  &lt;/script&gt;
 </description>
     </item>
     
