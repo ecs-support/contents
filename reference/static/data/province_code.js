@@ -86,11 +86,8 @@ $(document).ready(function () {
       { title: "ชื่อจังหวัด" },
     ],
     responsive: true,
-    scroller: true,
-    scrollY: 650,
-    scrollX: true,
   });
 
-  dataTable.FixedHeader(table);
+
 });
 
