@@ -15,7 +15,7 @@ body {
 }
 .table {
     table-layout: auto;
-    width: 100%;
+    
 }
 .dataTables_length {
     margin-top: .5em;
@@ -23,6 +23,10 @@ body {
     font-size: 1.2em;
 }
 
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
+  }
 
 .topleft {
     position: absolute;

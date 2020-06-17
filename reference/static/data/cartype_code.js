@@ -317,16 +317,16 @@ $(document).ready(function () {
     data: dataSet,
     columns: [
       { title: "ลำดับ", className: "txt-center" },
-      { title: "รหัสประเภทรถ", className: "txt-center" },
+      { title: "รหัส", className: "txt-center" },
       { title: "ประเภทรถ"},
     
     ],
     responsive: true,
     scroller: true,
-    scrollY: 650,
-    scrollX: true,
+    
+    
   });
 
-  dataTable.FixedHeader(table);
+  
 });
 

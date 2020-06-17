@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>คู่มือการปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า (e-Import) on Library</title>
-    <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/</link>
-    <description>Recent content in คู่มือการปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า (e-Import) on Library</description>
+    <title>คู่มือการปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า (e-Import) on ECS</title>
+    <link>/KM/customs/customs/import/guide/</link>
+    <description>Recent content in คู่มือการปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า (e-Import) on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 May 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/KM/customs/customs/import/guide/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>โครงสร้างข้อมูลใบขนสินค้า</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/data-structure/</link>
+      <link>/KM/customs/customs/import/guide/data-structure/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/data-structure/</guid>
+      <guid>/KM/customs/customs/import/guide/data-structure/</guid>
       <description>
 
 &lt;p&gt;โครงสร้างข้อมูลใบขนสินค้าขาเข้า แบ่งได้เป็น 6 ส่วนดังนี้&lt;/p&gt;
@@ -193,30 +193,30 @@
     
     <item>
       <title>การตรวจสอบผลการคำนวณมูลค่าเงินนำเข้า เงินบาท และเงินต่างประเทศ ในใบขนสินค้าขาเข้า</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/calculate-cif/</link>
+      <link>/KM/customs/customs/import/guide/calculate-cif/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/calculate-cif/</guid>
+      <guid>/KM/customs/customs/import/guide/calculate-cif/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/img/30-07-2019%2017-04-55.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>รูปแบบเลขที่ใบขนสินค้า</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/declaration-no/</link>
+      <link>/KM/customs/customs/import/guide/declaration-no/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/declaration-no/</guid>
+      <guid>/KM/customs/customs/import/guide/declaration-no/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page52.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ประเภทของเอกสาร (Document Type)</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/type-ducument/</link>
+      <link>/KM/customs/customs/import/guide/type-ducument/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/type-ducument/</guid>
+      <guid>/KM/customs/customs/import/guide/type-ducument/</guid>
       <description>&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -339,10 +339,10 @@
     
     <item>
       <title>การตรวจสอบข้อมูลใบขนสินค้าขาเข้าและขาออก กับระบบทะเบียนผู้มาติดต่อ</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/contact-registration/</link>
+      <link>/KM/customs/customs/import/guide/contact-registration/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/contact-registration/</guid>
+      <guid>/KM/customs/customs/import/guide/contact-registration/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;&lt;p&gt;การตรวจสอบลายเซ็นอิเล็กทรอนิกส์ (Digital Signature) มีเงื่อนไขดังนี้&lt;/p&gt;
 
@@ -390,10 +390,10 @@
     
     <item>
       <title>วันนำเข้า (Arrival Date)</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/arrival-date/</link>
+      <link>/KM/customs/customs/import/guide/arrival-date/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/arrival-date/</guid>
+      <guid>/KM/customs/customs/import/guide/arrival-date/</guid>
       <description>&lt;p&gt;วันนำเข้า (Arrival Date) วันที่นำเข้ามาสำเร็จ ตามมาตรา 50 แห่งพระราชบัญญัติศุลกากร พ.ศ. 2560  วันที่นำเข้า ปี ค.ศ. เดือน วัน (CCYYMMDD) ให้กำหนดดังนี้&lt;/p&gt;
 
 &lt;ul&gt;
@@ -478,10 +478,10 @@
     
     <item>
       <title>เลขที่ใบตราส่ง (Bill of Lading)</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/bill-of-loading-no/</link>
+      <link>/KM/customs/customs/import/guide/bill-of-loading-no/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/bill-of-loading-no/</guid>
+      <guid>/KM/customs/customs/import/guide/bill-of-loading-no/</guid>
       <description>&lt;p&gt;เลขที่ใบตราส่ง 1 (Master Bill of Lading) และเลขที่ใบตราส่ง 2  (House Bill of Lading) ในการจัดทำข้อมูลใบขนสินค้าขาเข้า ให้ระบุ ดังนี้&lt;/p&gt;
 
 &lt;table&gt;
@@ -571,10 +571,10 @@
     
     <item>
       <title>รหัสสถานที่นำเข้า (Discharge Port )</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/area/</link>
+      <link>/KM/customs/customs/import/guide/area/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/area/</guid>
+      <guid>/KM/customs/customs/import/guide/area/</guid>
       <description>&lt;p&gt;รหัสสถานที่นำเข้า (Discharge Port ) ให้บันทึกข้อมูลรหัสสถานที่ของศุลกากร ณ ด่านศุลกากร ที่นำของเข้า หรือโรงพักสินค้าหรือที่มั่นคงซึ่งเป็นที่ตรวจและเก็บสินค้าดังกล่าว&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;รหัสสถานที่ตรวจปล่อย (Release Port)&lt;/strong&gt; ให้บันทึกข้อมูล ดังนี้&lt;/p&gt;
@@ -586,7 +586,7 @@
 
 &lt;ul&gt;
 &lt;li&gt;รหัสสถานที่ตรวจปล่อย (Release Port)  ให้บันทึกข้อมูลรหัสสถานที่ตรวจปล่อย (Release Port) เป็น  ด่านศุลกากร ที่นำของเข้า (First Port)  และ&lt;/li&gt;
-&lt;li&gt;ให้บันทึกค่า &lt;strong&gt;&amp;laquo;Y&amp;raquo; ในช่องขออนุญาตเปิดตรวจนอกสถานที่&lt;/strong&gt;  (Inspection request code)&lt;/li&gt;
+&lt;li&gt;ให้บันทึกค่า &lt;strong&gt;&amp;ldquo;Y&amp;rdquo; ในช่องขออนุญาตเปิดตรวจนอกสถานที่&lt;/strong&gt;  (Inspection request code)&lt;/li&gt;
 &lt;li&gt;หากไม่ติดเงื่อนไขความเสี่ยงระบบจะสั่งการตรวจปล่อยสินค้าโดยไม่ต้องมัดลวด&lt;/li&gt;
 &lt;li&gt;หากติดเงื่อนไขความเสี่ยงระบบจะสั่งการตรวจเป็น “ให้ไปดำเนินการมัดลวด ณ  ด่านศุลกากรที่นำของเข้า” เพื่อนำไปตรวจปล่อยนอกสถานที่ตามที่ระบุข้อมูลไว้ ในช่องรหัสสถานที่ตรวจปล่อยนอกสถานที่ (Outside Release Port)&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
@@ -596,7 +596,7 @@
   &lt;div&gt;
     &lt;p&gt;&lt;strong&gt;กรณีติดเงื่อนไขความเสี่ยง&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;ระบบจะสั่งการตรวจเป็น  &lt;strong&gt;&lt;em&gt;&amp;laquo;ให้ไปดำเนินการมัดลวด ณ  ด่านศุลกากร ที่นำของเข้า&amp;raquo;&lt;/em&gt;&lt;/strong&gt; หากพนักงานศุลกากรผู้มีอำนาจหน้าที่
+&lt;p&gt;ระบบจะสั่งการตรวจเป็น  &lt;strong&gt;&lt;em&gt;&amp;ldquo;ให้ไปดำเนินการมัดลวด ณ  ด่านศุลกากร ที่นำของเข้า&amp;rdquo;&lt;/em&gt;&lt;/strong&gt; หากพนักงานศุลกากรผู้มีอำนาจหน้าที่
 หรือผู้ที่ได้รับมอบหมายเห็นว่าการเปิดตรวจที่ ด่านศุลกากรที่นำของเข้า (First Port) จะเป็นประโยชน์กว่าให้ทำการเปิดตรวจของ ณ ที่นำของเข้าได้&lt;/p&gt;
 
   &lt;/div&gt;
@@ -606,10 +606,10 @@
     
     <item>
       <title>เครื่องหมายและเลขหมายหีบห่อ (Shipping Marks)</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/shipping-marks/</link>
+      <link>/KM/customs/customs/import/guide/shipping-marks/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/shipping-marks/</guid>
+      <guid>/KM/customs/customs/import/guide/shipping-marks/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;&lt;p&gt;เครื่องหมายและเลขหมายหีบห่อ (Shipping Marks) ต้องสำแดงเครื่องหมายและเลขหมายหีบห่อให้ตรงกับความเป็นจริง ซึ่งจะต้องตรงกับใบตราส่งสินค้า โดยให้สำแดง ดังนี้&lt;/p&gt;
 
@@ -640,13 +640,13 @@
     
     <item>
       <title>จำนวนและน้ำหนักของสินค้า</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/quantity-weight/</link>
+      <link>/KM/customs/customs/import/guide/quantity-weight/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/quantity-weight/</guid>
+      <guid>/KM/customs/customs/import/guide/quantity-weight/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;จำนวนหีบห่อรวม (Total Package Amount) ให้บันทึกค่าลักษณะหีบห่อตามมาตรฐาน หากสินค้ามีหลายลักษณะรวมกัน ให้ระบุจำนวนหีบห่อรวม&lt;/li&gt;
-&lt;li&gt;ลักษณะหีบห่อรวม (Total Package Unit Code) ให้บันทึกค่าลักษณะหีบห่อตามมาตรฐาน UNECE Recommendation 21 หากสินค้ามีหลายลักษณะรวมกัน เช่น กล่อง Roll Drum ให้ระบุหน่วยเป็น &lt;strong&gt;&amp;laquo;PK&amp;raquo;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;ลักษณะหีบห่อรวม (Total Package Unit Code) ให้บันทึกค่าลักษณะหีบห่อตามมาตรฐาน UNECE Recommendation 21 หากสินค้ามีหลายลักษณะรวมกัน เช่น กล่อง Roll Drum ให้ระบุหน่วยเป็น &lt;strong&gt;&amp;ldquo;PK&amp;rdquo;&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;น้ำหนักสุทธิรวม (Total Net Weight) ต้องมีค่าเท่ากับน้ำหนักสุทธิ (Net Weight) รวมทุกรายการเท่านั้น&lt;/li&gt;
 &lt;li&gt;หน่วยของน้ำหนักสุทธิ (Net Weight Unit Code ตามมาตรฐาน UNECE Recommendation 20 มีค่าได้ดังต่อไปนี้
 &lt;strong&gt;KGM&lt;/strong&gt; – Kilogram , &lt;strong&gt;TNE&lt;/strong&gt; – Metric Ton , &lt;strong&gt;GRM&lt;/strong&gt; – Gram , &lt;strong&gt;CTM&lt;/strong&gt; – Carat&lt;/li&gt;
@@ -659,18 +659,18 @@
     
     <item>
       <title>ต้องการให้ตรวจสอบข้อมูลใบขนสินค้า (Assessment Request Code)</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/assessment-request-code/</link>
+      <link>/KM/customs/customs/import/guide/assessment-request-code/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/assessment-request-code/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;&amp;laquo;Assessment Request Code&amp;raquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&amp;laquo;มีปัญหาพิกัด ราคา พบพนักงานศุลกากร ที่ ด่านศุลกากร ที่นำเข้า&amp;raquo;&lt;/strong&gt;&lt;/p&gt;
+      <guid>/KM/customs/customs/import/guide/assessment-request-code/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;&amp;ldquo;Assessment Request Code&amp;rdquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&amp;ldquo;มีปัญหาพิกัด ราคา พบพนักงานศุลกากร ที่ ด่านศุลกากร ที่นำเข้า&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;กรณีมีปัญหาและต้องการพบพนักงานศุลกากร ณ ด่านศุลกากรที่นำของเข้า&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;ในเรื่องปัญหาพิกัดศุลกากร อัตราศุลกากร ราคาศุลกากร&lt;/li&gt;
-&lt;li&gt;ในเรื่องที่ต้องแจ้งความไว้ต่อพนักงานศุลกากรก่อนการส่งมอบว่าจะยื่นคำขอคืนเงินอากร และได้มีการแจ้งเหตุผลไว้ในช่อง หมายเหตุ &lt;strong&gt;&amp;laquo;Remark&amp;raquo;&lt;/strong&gt; แล้ว&lt;/li&gt;
+&lt;li&gt;ในเรื่องที่ต้องแจ้งความไว้ต่อพนักงานศุลกากรก่อนการส่งมอบว่าจะยื่นคำขอคืนเงินอากร และได้มีการแจ้งเหตุผลไว้ในช่อง หมายเหตุ &lt;strong&gt;&amp;ldquo;Remark&amp;rdquo;&lt;/strong&gt; แล้ว&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;กรณีของนำเข้าเป็นของที่มีลักษณะ ดังต่อไปนี้&lt;/strong&gt;
@@ -684,9 +684,9 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;ในการจัดทำข้อมูลใบขนสินค้าขาเข้าตาม (1) หรือ (2) ให้ระบุค่า &lt;em&gt;&amp;laquo;Y&amp;raquo;&lt;/em&gt; ในช่อง &lt;em&gt;&amp;laquo;Assessment Request Code&amp;raquo;&lt;/em&gt; &lt;em&gt;“มีปัญหาพิกัด ราคา พบพนักงานศุลกากร ที่ด่านศุลกากรที่นำเข้า”&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;ในการจัดทำข้อมูลใบขนสินค้าขาเข้าตาม (1) หรือ (2) ให้ระบุค่า &lt;em&gt;&amp;ldquo;Y&amp;rdquo;&lt;/em&gt; ในช่อง &lt;em&gt;&amp;ldquo;Assessment Request Code&amp;rdquo;&lt;/em&gt; &lt;em&gt;“มีปัญหาพิกัด ราคา พบพนักงานศุลกากร ที่ด่านศุลกากรที่นำเข้า”&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;ระบบคอมพิวเตอร์ของศุลกากรจะสั่งการตรวจใบขนสินค้าขาเข้าเป็น &lt;em&gt;&amp;laquo;เปิดตรวจ&amp;raquo;&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;ระบบคอมพิวเตอร์ของศุลกากรจะสั่งการตรวจใบขนสินค้าขาเข้าเป็น &lt;em&gt;&amp;ldquo;เปิดตรวจ&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;พบพนักงานศุลกากร ณ หน่วยบริการศุลกากร ที่นำของเข้า เพื่อยื่นหลักฐานหรือเอกสารมาแสดง หรือร้องขอให้พนักงานศุลกากรพิจารณาดำเนินการใด ๆ&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
@@ -695,10 +695,10 @@
     
     <item>
       <title>รหัสสกุลเงินตราและอัตราแลกเปลี่ยน</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/currency-code-exchange-rate/</link>
+      <link>/KM/customs/customs/import/guide/currency-code-exchange-rate/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/currency-code-exchange-rate/</guid>
+      <guid>/KM/customs/customs/import/guide/currency-code-exchange-rate/</guid>
       <description>
 
 &lt;h2 id=&#34;รห-สสก-ลเง-นตรา-currency-code&#34;&gt;รหัสสกุลเงินตรา (Currency Code)&lt;/h2&gt;
@@ -745,10 +745,10 @@
     
     <item>
       <title>หลักการรวมรายการสินค้า</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/merge-item/</link>
+      <link>/KM/customs/customs/import/guide/merge-item/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/merge-item/</guid>
+      <guid>/KM/customs/customs/import/guide/merge-item/</guid>
       <description>
 
 &lt;ol&gt;
@@ -805,10 +805,10 @@
     
     <item>
       <title>ราคาของในการจัดทำข้อมูลใบขนสินค้าขาเข้า</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/cif-value/</link>
+      <link>/KM/customs/customs/import/guide/cif-value/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/cif-value/</guid>
+      <guid>/KM/customs/customs/import/guide/cif-value/</guid>
       <description>
 
 &lt;ul&gt;
@@ -940,10 +940,10 @@
     
     <item>
       <title>International Commercial Terms</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/incoterms/</link>
+      <link>/KM/customs/customs/import/guide/incoterms/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/incoterms/</guid>
+      <guid>/KM/customs/customs/import/guide/incoterms/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;Incoterms (International Commercial Terms)&lt;/strong&gt; เป็นข้อกำหนดการส่งมอบสินค้า (Term of Shipment) ระหว่างผู้ซื้อกับผู้ขายที่เป็นสากล ซึ่งกำหนดขึ้นโดยสภาหอการค้านานาชาติ (International Chamber of Commerce) ได้มีการประชุมบรรดาสมาชิกสภาหอการค้าระหว่างประเทศ &lt;strong&gt;ทุก 10 ปี&lt;/strong&gt; เพื่อวางหลักเกณฑ์ข้อตกลงในการส่งมอบสินค้าระหว่างประเทศ เริ่มใช้ในปี ค.ศ. 1963 ฉบับปัจจุบันปรับปรุงแก้ไขเมื่อ ค.ศ. 2010 ประกาศใช้เมื่อ 1 มกราคม ค.ศ. 2011 เพื่อให้กฎเกณฑ์ดังกล่าวสอดคล้องกับหลักปฏิบัติทางการค้าระหว่างประเทศและในประเทศในปัจจุบัน โดยกําหนดให้ขอบเขตของ Incoterms @ 2010 จํากัดอยู่เฉพาะเรื่องที่เกี่ยวข้องกับสิทธิและหน้าที่ของคู่สัญญาซื้อขาย ในเรื่องการสส่งมอบสินค้าที่ขาย ว่าโดยนัยของสินค้า &lt;strong&gt;ที่จับต้องได้&lt;/strong&gt; (Tangible Goods) เท่านั้น ไม่รวมถึง &lt;strong&gt;ที่จับต้องไม่ได้&lt;/strong&gt;&lt;/p&gt;
@@ -1013,10 +1013,10 @@
     
     <item>
       <title>ภาค 4 ของที่ได้รับยกเว้นอากร</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/part-4/</link>
+      <link>/KM/customs/customs/import/guide/part-4/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/part-4/</guid>
+      <guid>/KM/customs/customs/import/guide/part-4/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;http://th.customs.go.th/data_files/1607131431341649716888.png&#34; alt=&#34;การยกเว้นอากรตามภาค 4&#34; /&gt;&lt;/p&gt;
@@ -1101,7 +1101,7 @@
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
-    &lt;p&gt;&lt;em&gt;&amp;laquo;การวางเป็นสัญญาประกันทัณฑ์บนเพื่อการปฏิบัติพิธีการ&amp;raquo;&lt;/em&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;em&gt;&amp;ldquo;การวางเป็นสัญญาประกันทัณฑ์บนเพื่อการปฏิบัติพิธีการ&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;โดยให้คำนวณเงินเพิ่มอีกร้อยละ 20 ของเงินภาษีอากรที่ได้ประเมินไว้  การวางประกันรูปแบบนี้ ปัจจุบันยังไม่สามารถบันทึกในระบบใบขนสินค้าขาเข้าได้ การวางประกันผู้นำเข้าต้องติดต่อหน่วยงานศุลกากร ณ ด่านศุลกากร ที่นำของเข้า&lt;/p&gt;
 
@@ -1455,10 +1455,10 @@
     
     <item>
       <title>สิทธิประโยชน์ทางภาษีอากร</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/tax-incentives/</link>
+      <link>/KM/customs/customs/import/guide/tax-incentives/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/tax-incentives/</guid>
+      <guid>/KM/customs/customs/import/guide/tax-incentives/</guid>
       <description>
 
 &lt;h2 id=&#34;ส-ทธ-ขอค-นอากรตามมาตรา-29&#34;&gt;สิทธิขอคืนอากรตามมาตรา 29&lt;/h2&gt;
@@ -1645,10 +1645,10 @@
     
     <item>
       <title>การขอวางประกันโต้แย้งพิกัดอัตราศุลกากร/.การวางประกัน</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/guarantee-argumentative/</link>
+      <link>/KM/customs/customs/import/guide/guarantee-argumentative/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/guarantee-argumentative/</guid>
+      <guid>/KM/customs/customs/import/guide/guarantee-argumentative/</guid>
       <description>
 
 &lt;h2 id=&#34;การขอวางประก-น-ม-ป-ญหาเก-ยวก-บจำนวนค-าอากร&#34;&gt;การขอวางประกัน มีปัญหาเกี่ยวกับจำนวนค่าอากร&lt;/h2&gt;
@@ -1702,10 +1702,10 @@
     
     <item>
       <title>การขอวางประกันกองทุนน้ำมันเชื้อเพลิงและเงินกองทุนเพื่อส่งเสริมการอนุรักษ์พลังงาน</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/guarantee-fuel-fund/</link>
+      <link>/KM/customs/customs/import/guide/guarantee-fuel-fund/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/guarantee-fuel-fund/</guid>
+      <guid>/KM/customs/customs/import/guide/guarantee-fuel-fund/</guid>
       <description>&lt;p&gt;หลักการสำแดงข้อมูลใบขนสินค้าขาเข้า  &lt;strong&gt;กรณีขอวางประกันกองทุนน้ำมันเชื้อเพลิงและเงินกองทุนเพื่อส่งเสริมการอนุรักษ์พลังงาน&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/KnowledgeCenter/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page110.png&#34; alt=&#34;enter image description here&#34; /&gt;
@@ -1715,10 +1715,10 @@
     
     <item>
       <title>การขอชำระหรือวางประกันอากรตอบโต้การทุ่มตลาดและการอุดหนุน</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/gurantee-anti-dumping/</link>
+      <link>/KM/customs/customs/import/guide/gurantee-anti-dumping/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/gurantee-anti-dumping/</guid>
+      <guid>/KM/customs/customs/import/guide/gurantee-anti-dumping/</guid>
       <description>&lt;p&gt;หลักการสำแดงข้อมูลใบขนสินค้าขาเข้า  &lt;strong&gt;กรณีมีค่าอากรตอบโต้การทุ่มตลาดและการอุดหนุนต้องชำระ&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/KnowledgeCenter/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page112.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
@@ -1738,10 +1738,10 @@
     
     <item>
       <title>หลักการบันทึกค่าภาษีอากรและวางประกัน</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/input-duty/</link>
+      <link>/KM/customs/customs/import/guide/input-duty/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/input-duty/</guid>
+      <guid>/KM/customs/customs/import/guide/input-duty/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/img/deposit.jpg&#34; alt=&#34; หลักการบันทึกค่าภาษีอากรและวางประกัน&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;หมายเหตุ&lt;/strong&gt;&lt;/p&gt;
@@ -1764,10 +1764,10 @@
     
     <item>
       <title>Payment Method and Guarantee Method Guideline</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/payment-method/</link>
+      <link>/KM/customs/customs/import/guide/payment-method/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/payment-method/</guid>
+      <guid>/KM/customs/customs/import/guide/payment-method/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/img/Payment-Method.png&#34; alt=&#34;Payment Method and Guarantee Method Guideline&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;หมายเหตุ&lt;/strong&gt;&lt;/p&gt;
@@ -1799,20 +1799,20 @@
     
     <item>
       <title>รหัสเหตุผลการโต้แย้ง (Argumentative Reason Code)</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/argumentative-reason-code/</link>
+      <link>/KM/customs/customs/import/guide/argumentative-reason-code/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/argumentative-reason-code/</guid>
+      <guid>/KM/customs/customs/import/guide/argumentative-reason-code/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/KnowledgeCenter/raw/master/KnowledgeCenter/e-Customs/e-Import/e-Import-manual/img/e-Import_2018png_Page121.png&#34; alt=&#34;รหัสเหตุผลการโต้แย้ง&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ประเภทค่าภาษีอากรที่ต้องชำระและ/หรือวางประกัน  (Duty Type)</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/type-duty/</link>
+      <link>/KM/customs/customs/import/guide/type-duty/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/type-duty/</guid>
+      <guid>/KM/customs/customs/import/guide/type-duty/</guid>
       <description>
 
 &lt;h1 id=&#34;ประเภทค-าภาษ-อากรท-ต-องชำระและ-หร-อวางประก-น-duty-type&#34;&gt;ประเภทค่าภาษีอากรที่ต้องชำระและ/หรือวางประกัน  (Duty Type)&lt;/h1&gt;
@@ -1823,10 +1823,10 @@
     
     <item>
       <title>เลขประจำตัวผู้เสียภาษีของหน่วยงานผู้ออกใบอนุญาต</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/permit-issue-authority/</link>
+      <link>/KM/customs/customs/import/guide/permit-issue-authority/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/permit-issue-authority/</guid>
+      <guid>/KM/customs/customs/import/guide/permit-issue-authority/</guid>
       <description>&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -2036,10 +2036,10 @@
     
     <item>
       <title>การตัดบัญชีใบขนสินค้ากับรายงานการนำของเข้า</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/checking-mainfest/</link>
+      <link>/KM/customs/customs/import/guide/checking-mainfest/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/checking-mainfest/</guid>
+      <guid>/KM/customs/customs/import/guide/checking-mainfest/</guid>
       <description>
 
 &lt;h2 id=&#34;การตรวจสอบข-อม-ล&#34;&gt;การตรวจสอบข้อมูล&lt;/h2&gt;
@@ -2335,10 +2335,10 @@
     
     <item>
       <title>รหัสสิทธิพิเศษ ตามข้อผูกพันสัญญาหรือความตกลงระหว่างประเทศ</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/privilege/</link>
+      <link>/KM/customs/customs/import/guide/privilege/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/privilege/</guid>
+      <guid>/KM/customs/customs/import/guide/privilege/</guid>
       <description>&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -2613,10 +2613,10 @@
     
     <item>
       <title>การปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า</title>
-      <link>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/direct_main/</link>
+      <link>/KM/customs/customs/import/guide/direct_main/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/knowledge-center/customs/customs/import/guide/direct_main/</guid>
+      <guid>/KM/customs/customs/import/guide/direct_main/</guid>
       <description>&lt;script&gt;
    var files = &#39;/knowledge-center/customs/customs/import/index.html&#39;
    //document.location = files
