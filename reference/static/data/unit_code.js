@@ -1,6 +1,5 @@
 var dataSet = [
 
-['GT006', 'ARTHIT FIELD', 'ARTHIT FIELD', 'THSGZ', 'สงขลา', 'แปลงอาทิตย์', '20180101', 'ข้อมูลปกติ'],
 ['1', '04', 'SMALL SPRAY'],
 ['2', '05', 'LIFT'],
 ['3', '06', 'SMALL SPRAY'],
@@ -2189,15 +2188,15 @@ $(document).ready(function () {
   $("#table-ref").DataTable({
     data: dataSet,
     columns: [
-      { title: "ลำดับ" },
-      { title: "รหัสหน่วยสินค้า" },
+      { title: "ลำดับ", className: "txt-center" },
+      { title: "รหัสหน่วยสินค้า", className: "txt-center" },
       { title: "ชื่อหน่วยสินค้า" },
     ],
     responsive: true,
     scroller: true,
-    scrollY: 650,
-    scrollX: true,
+   
+    
   });
 
-  dataTable.FixedHeader(table);
+  
 });
