@@ -24,7 +24,7 @@
 &lt;p&gt;&lt;img src=&#34;img.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./safeguard-measure.pdf&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;1000&#34; allowfullscreen=&#34;true&#34;
+  &lt;iframe src=&#34;./safeguard-measure.pdf&#34; frameborder=&#34;0&#34; width=&#34;1000&#34; height=&#34;1200&#34; allowfullscreen=&#34;true&#34;
     mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
@@ -91,7 +91,7 @@
 &lt;/ul&gt;
 
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./attached.pdf&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;1000&#34; allowfullscreen=&#34;true&#34;
+  &lt;iframe src=&#34;./attached.pdf&#34; frameborder=&#34;0&#34; width=&#34;1000&#34; height=&#34;1200&#34; allowfullscreen=&#34;true&#34;
     mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
@@ -118,7 +118,7 @@
 &lt;p&gt;ข้อ 3 ประกาศนี้ ให้มีผลใช้บังคับ ตั้งแต่&lt;strong&gt;วันที่ 1 มิถุนายน 2563 เป็นต้นไป&lt;/strong&gt;&lt;/p&gt;
 
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./attached.pdf&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;1000&#34; allowfullscreen=&#34;true&#34;
+  &lt;iframe src=&#34;./attached.pdf&#34; frameborder=&#34;0&#34; width=&#34;1000&#34; height=&#34;1200&#34; allowfullscreen=&#34;true&#34;
     mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>

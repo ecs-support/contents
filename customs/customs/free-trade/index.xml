@@ -20,38 +20,6 @@
       <guid>https://ecs-support.github.io/KM/customs/customs/free-trade/checklist/</guid>
       <description>
 
-&lt;h2 id=&#34;template-faq&#34;&gt;Template FAQ&lt;/h2&gt;
-
-&lt;div class=&#34;book-expand&#34;&gt;
-  &lt;label&gt;
-    &lt;div class=&#34;book-expand-head d-flex flex-column justify-between&#34;&gt;
-      &lt;span&gt;การปฏิบัติพิธีการในการนำของที่ผลิตในประเทศเข้าไปบรรจุในเขตปลอดอากร/เขตประกอบการเสรีและขอใช้สิทธิชดเชย&lt;/span&gt;
-      &lt;span&gt;&amp;#43;&lt;/span&gt;
-    &lt;/div&gt;
-    &lt;input type=&#34;checkbox&#34; class=&#34;hidden&#34; /&gt;
-    &lt;div class=&#34;book-expand-content markdown-inner&#34;&gt;
-      &lt;h2 id=&#34;การปฏ-บ-ต-พ-ธ-การในการนำของท-ผล-ตในประเทศเข-าไปบรรจ-ในเขตปลอดอากร-เขตประกอบการเสร-และขอใช-ส-ทธ-ชดเชยค-าภาษ-อากรเม-อส-งออก&#34;&gt;การปฏิบัติพิธีการในการนำของที่ผลิตในประเทศเข้าไปบรรจุในเขตปลอดอากร/เขตประกอบการเสรีและขอใช้สิทธิชดเชยค่าภาษีอากรเมื่อส่งออก&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;คำตอบ :&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;ที่มา : &lt;a href=&#34;http://ccc.customs.go.th/cont_strc_faq.php?current_id=14232a324149505f47&amp;amp;left_menu=interesting_article&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;วันที่ปรับปรุงล่าสุด : 4 ตุลาคม 2562&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-    &lt;/div&gt;
-  &lt;/label&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-success&#34;&gt;
-  &lt;div&gt;
-    &lt;strong&gt;สอบถามข้อมูลเพิ่มเติมได้ที่&lt;/strong&gt; : ส่วนกฎว่าด้วยถิ่นกำเนิดสินค้า (สกก.) กองพิกัดอัตราศุลกากร (กพก.)
-กรมศุลกากร เลขที่ 1 ถ.สุนทรโกษา คลองเตย กทม. 10110
-หมายเลขโทรศัพท์ : 0-2667-7014 หรือ 0-2667-6459
-อีเมล์ : 80150000@customs.go.th
-  &lt;/div&gt;
-&lt;/div&gt;
-
 
 
 
@@ -65,12 +33,6 @@
 &lt;img src=&#34;../img/checklist_ftapng_Page1.png&#34; &gt;
 &lt;/a&gt;
 
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;A caption&lt;/h4&gt;
-  
-&lt;/figcaption&gt;
-
 &lt;/figure&gt;
 
 
@@ -82,23 +44,20 @@
 
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://github.com/ecs-support/ECS_contents/raw/master/ECS_Academia/content/customs/free-trade/img/checklist_ftapng_Page1.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../img/checklist_ftapng_Page2.png&#34; &gt;
 
-&lt;img src=&#34;https://github.com/ecs-support/ECS_contents/raw/master/ECS_Academia/content/customs/free-trade/img/checklist_ftapng_Page1.png&#34; &gt;
+&lt;img src=&#34;../img/checklist_ftapng_Page2.png&#34; &gt;
 &lt;/a&gt;
-
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; class=&#34;numbered&#34;&gt;
-  &lt;h4&gt;A caption&lt;/h4&gt;
-  
-&lt;/figcaption&gt;
 
 &lt;/figure&gt;
 
 
-&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/ECS_contents/raw/master/ECS_Academia/content/customs/free-trade/img/checklist_ftapng_Page1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;download-pdf-file&#34;&gt;Download PDF file&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/ECS_contents/raw/master/ECS_Academia/content/customs/free-trade/img/checklist_ftapng_Page2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;../files/checklist_fta.pdf&#34; frameborder=&#34;0&#34; width=&#34;1000&#34; height=&#34;1200&#34; allowfullscreen=&#34;true&#34;
+    mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/list_strc_download.php?ini_content=fta_and_wto_160809_01_160809_04&amp;amp;ini_menu=menu_interest_and_law_160421_03&amp;amp;lang=th&amp;amp;root_left_menu=menu_interest_and_law_160421_03&amp;amp;left_menu=menu_interest_and_law_160421_03_160928_02&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;.&lt;br /&gt;
@@ -525,7 +484,19 @@
 &lt;li&gt;สินค้าโควตา ผูกพันภายใต้ WTO ในตอนที่ 01 - 08 จำนวน 16 ประเภทย่อย หรือร้อยละ 0.19 ปัจจุบันอัตราอากร ในโควตา เป็นร้อยละ 0 ส่วนที่เหลือ ยังเจรจาไม่เสร็จสิ้น&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14223132414c505e4f464b46464b4a&#34; target=&#34;_blank&#34;&gt;-  ตรวจสอบอัตราอากรขาเข้า และประเทศที่ได้รับสิทธิประโยชน์แยกตามพิกัด&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;อ-ตราอากร-และประเทศท-ได-ร-บการยกเว-น&#34;&gt;อัตราอากร และประเทศที่ได้รับการยกเว้น&lt;/h2&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;../files/asean-china-product.pdf&#34; frameborder=&#34;0&#34; width=&#34;1100&#34; height=&#34;1000&#34; allowfullscreen=&#34;true&#34;
+    mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14223132414c505e4f464b46464b4a&#34; target=&#34;_blank&#34;&gt;- ดาวน์โหลดประกาศฉบับเต็ม&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;h4 id=&#34;rules-of-origin&#34;&gt;Rules of Origin&lt;/h4&gt;
 
