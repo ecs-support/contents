@@ -1,0 +1,793 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academia 4.3.1">
+  <meta name="generator" content="Hugo 0.59.1" />
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Little Dragon">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="สภาหอการค้านานาชาติ (International Chamber of Commerce :ICC) เป็นผู้กำหนดคำเฉพาะทางการค้า (Trade term) เป็นคำเฉพาะ ที่ใช้ระบุในสัญญาซื้อขาย สินค้าระหว่างประเทศ ที่สามารถกำหนดหน้าที่ความรับผิดชอบในการจัดส่ง การขนส่ง การประกันภัยการรับมอบสินค้าที่ตกลงซื้อขาย ระหว่างผู้ซื้อ และผู้ขาย ตลอดจนความเสี่ยงภัยของสินค้าที่ผู้ขายรับผิดชอบ จะเปลี่ยนไปเป็นความรับผิดชอบของผู้ซื้อเมื่อใด ที่เรียกว่า Incoterms. โดยไม่ต้องมีข้อความบรรยาย หน้าที่ความรับผิดชอบ ระหว่างคู่สัญญาไว้อย่างละเอียดยาว ๆ เพื่ออำนวยความสะดวกในการทำสัญญาซื้อขายสินค้าระหว่างประเทศ ในบางกรณีการตกลงซื้อขายสินค้าภายในประเทศ ก็อาจมีการนำ Incoterms. มาใช้ก็ได้
+ICC เป็นผู้กำหนดคำและจัดพิมพ์ Incoterms ครั้งแรก พ.ศ.2479 (ค.ศ.1936) และมีการปรับปรุงให้เหมาะสมกับสถานการณ์และภาวะการค้าของโลกมาตลอด ทุก ๆ 10 ปี จะมีการแก้ไขปรับปรุงที่สำคัญหนึ่งครั้ง และได้มีการแก้ไขเพิ่มเติมอีกหลายครั้ง ตั้งแต่ปี ค.ศ. 1953, 1967, 1980, 1990, 2000, 2010 และฉบับปัจจุบัน ปรับปรุงแก้ไขเพิ่มเติมเมื่อปี ค.ศ. 2019 (เริ่มใช้เมื่อ 1 มกราคม 2020) เพื่อให้กฎเกณฑ์ดังกล่าวสอดคล้องกับหลักปฏิบัติทางการค้าเทคโนโลยี การสื่อสารทางอิเล็กทรอนิกส์ และระบบ Logistic and Supply Chain ที่พัฒนาและเปลี่ยนแปลงไป Incoterms®2020 ได้จัดให้มีการรองรับความต้องการของตลาด ที่เกี่ยวกับใบตราส่งที่จดแจ้งว่าสินค้าได้ถูกบรรทุกแล้ว (Bills of Lading: BL with an on-board notation) สำหรับกฎ FCA (Free Carrier) การวางแนวทางของความคุ้มครองประกันภัยในระดับที่แตกต่างกัน สำหรับกฎ CIF (Cost Insurance and Freight) และ CIP (Carriage and Insurance Paid To) การเปิดโอกาสให้เลือกใช้พาหนะขนส่งของตนเองสำหรับกฎ FCA, DAP (Delivery at Place), DPU (Delivery at Place Unloaded) และ DDP (Delivered Duty Paid) การเปลี่ยนแปลงตัวย่อ 3 ตัวสำหรับกฎ DAT (Delivered at Terminal) เป็น DPU และได้เพิ่มข้อกำหนด ด้านความปลอดภัย ภายใต้ภาระหน้าที่และค่าใช้จ่ายที่เกี่ยวกับการขนส่งอีกด้วย">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://ecs-support.github.io/KM/customs/customs/price/incoterm-2020/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#fc6f5c">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mitr:400,700|Roboto:400,400italic,700|Sarabun:400,400italic,700|Roboto+Mono&display=swap">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/KM/customs/css/academia.min.7604626d11417d8d7eb5d3245bd0216c.css">
+
+  
+
+  
+  
+  
+
+  
+
+  <link rel="manifest" href="/KM/customs/site.webmanifest">
+  <link rel="icon" type="image/png" href="/KM/customs/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/KM/customs/img/icon-192.png">
+
+  <link rel="canonical" href="https://ecs-support.github.io/KM/customs/customs/price/incoterm-2020/">
+
+  
+  
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="ECS">
+  <meta property="og:url" content="https://ecs-support.github.io/KM/customs/customs/price/incoterm-2020/">
+  <meta property="og:title" content="ข้อตกลงในการส่งมอบสินค้าระหว่างประเทศ (Incoterms®2020) | ECS">
+  <meta property="og:description" content="สภาหอการค้านานาชาติ (International Chamber of Commerce :ICC) เป็นผู้กำหนดคำเฉพาะทางการค้า (Trade term) เป็นคำเฉพาะ ที่ใช้ระบุในสัญญาซื้อขาย สินค้าระหว่างประเทศ ที่สามารถกำหนดหน้าที่ความรับผิดชอบในการจัดส่ง การขนส่ง การประกันภัยการรับมอบสินค้าที่ตกลงซื้อขาย ระหว่างผู้ซื้อ และผู้ขาย ตลอดจนความเสี่ยงภัยของสินค้าที่ผู้ขายรับผิดชอบ จะเปลี่ยนไปเป็นความรับผิดชอบของผู้ซื้อเมื่อใด ที่เรียกว่า Incoterms. โดยไม่ต้องมีข้อความบรรยาย หน้าที่ความรับผิดชอบ ระหว่างคู่สัญญาไว้อย่างละเอียดยาว ๆ เพื่ออำนวยความสะดวกในการทำสัญญาซื้อขายสินค้าระหว่างประเทศ ในบางกรณีการตกลงซื้อขายสินค้าภายในประเทศ ก็อาจมีการนำ Incoterms. มาใช้ก็ได้
+ICC เป็นผู้กำหนดคำและจัดพิมพ์ Incoterms ครั้งแรก พ.ศ.2479 (ค.ศ.1936) และมีการปรับปรุงให้เหมาะสมกับสถานการณ์และภาวะการค้าของโลกมาตลอด ทุก ๆ 10 ปี จะมีการแก้ไขปรับปรุงที่สำคัญหนึ่งครั้ง และได้มีการแก้ไขเพิ่มเติมอีกหลายครั้ง ตั้งแต่ปี ค.ศ. 1953, 1967, 1980, 1990, 2000, 2010 และฉบับปัจจุบัน ปรับปรุงแก้ไขเพิ่มเติมเมื่อปี ค.ศ. 2019 (เริ่มใช้เมื่อ 1 มกราคม 2020) เพื่อให้กฎเกณฑ์ดังกล่าวสอดคล้องกับหลักปฏิบัติทางการค้าเทคโนโลยี การสื่อสารทางอิเล็กทรอนิกส์ และระบบ Logistic and Supply Chain ที่พัฒนาและเปลี่ยนแปลงไป Incoterms®2020 ได้จัดให้มีการรองรับความต้องการของตลาด ที่เกี่ยวกับใบตราส่งที่จดแจ้งว่าสินค้าได้ถูกบรรทุกแล้ว (Bills of Lading: BL with an on-board notation) สำหรับกฎ FCA (Free Carrier) การวางแนวทางของความคุ้มครองประกันภัยในระดับที่แตกต่างกัน สำหรับกฎ CIF (Cost Insurance and Freight) และ CIP (Carriage and Insurance Paid To) การเปิดโอกาสให้เลือกใช้พาหนะขนส่งของตนเองสำหรับกฎ FCA, DAP (Delivery at Place), DPU (Delivery at Place Unloaded) และ DDP (Delivered Duty Paid) การเปลี่ยนแปลงตัวย่อ 3 ตัวสำหรับกฎ DAT (Delivered at Terminal) เป็น DPU และได้เพิ่มข้อกำหนด ด้านความปลอดภัย ภายใต้ภาระหน้าที่และค่าใช้จ่ายที่เกี่ยวกับการขนส่งอีกด้วย"><meta property="og:image" content="https://ecs-support.github.io/KM/customs/img/icon-192.png">
+  <meta property="twitter:image" content="https://ecs-support.github.io/KM/customs/img/icon-192.png"><meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2020-06-21T00:00:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2020-06-21T00:00:00&#43;00:00">
+  
+
+  
+
+
+  
+
+
+
+
+
+  <title>ข้อตกลงในการส่งมอบสินค้าระหว่างประเทศ (Incoterms®2020) | ECS</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" class="dark">
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/KM/customs/"><img src="/KM/customs/img/logo.png" alt="ECS"></a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation"><span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/#hero"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>พิธีการศุลกากร</span><span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu">
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/customs/import-export/import/"><span>การนำเข้า</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/customs/import-export/export/"><span>การส่งออก</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/customs/import-export/transit/"><span>สินค้าถ่ายลำ/ผ่านแดน</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/customs/tax-incentive/"><span>สิทธิประโยชน์ทางภาษี</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/customs/free-trade/"><span>สิทธิพิเศษทางการค้า</span></a>
+            </li>
+            
+          </ul>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>เรื่องน่ารู้</span><span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu">
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/customs/restricted-goods/"><span>ใบอนุญาต/ใบรับรอง</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/customs/customs-tariff/"><span>พิกัดศุลกากร</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/customs/price/"><span>ราคาศุลกากร</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="https://ecs-support.github.io/KM/reference/"><span>Reference data</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/customs/company/"><span>ผู้ประกอบการ</span></a>
+            </li>
+            
+          </ul>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/post/"><span>ข่าวสารและบทความ</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/customs/faq/"><span>FAQ</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  
+
+<div class="container-fluid docs">
+  <div class="row flex-xl-nowrap">
+    <div class="col-12 col-md-3 col-xl-2 docs-sidebar">
+      
+
+
+
+
+
+<form class="docs-search d-flex align-items-center">
+  <button class="btn docs-toggle d-md-none p-0 mr-3"  data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    <span><i class="fas fa-bars"></i></span>
+  </button>
+
+  
+  <input name="q" type="search" class="form-control" id="search-query" placeholder="Search..." autocomplete="off">
+  
+</form>
+
+<nav class="docs-links" id="docs-nav">
+  
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/customs/price/">ราคาศุลกากร</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/KM/customs/customs/price/gatt_valuation/">ระบบราคาแกตต์</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/customs/price/wooden_goods/">ราคาศุลกากรสำหรับสินค้าไม้</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/customs/price/incoterm-2020/">Incoterms</a>
+    <ul class="nav docs-sidenav">
+      
+      <li class="active">
+        <a href="/KM/customs/customs/price/incoterm-2020/">Incoterms®2020</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/customs/price/incoterms-2010/">Incoterms®2010</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  
+</nav>
+
+    </div>
+
+    
+    <div class="d-none d-xl-block col-xl-2 docs-toc">
+      <ul class="nav toc-top">
+        <li><a href="#" id="back_to_top" class="docs-toc-title">Contents</a></li>
+      </ul>
+
+      <nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#incoterms-2020-ประกอบด-วยข-อตกลงอะไรบ-าง">Incoterms®2020 ประกอบด้วยข้อตกลงอะไรบ้าง?</a></li>
+<li><a href="#การเปล-ยนแปลงท-สำค-ญ">การเปลี่ยนแปลงที่สำคัญ</a></li>
+<li><a href="#คำแนะนำจากผ-เช-ยวชาญ">คำแนะนำจากผู้เชี่ยวชาญ</a></li>
+</ul></li>
+</ul>
+</nav>
+
+      
+    </div>
+    
+
+    <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
+
+      <article class="article" itemscope itemtype="http://schema.org/Article">
+
+        <div class="docs-article-container">
+          <h1 itemprop="name">ข้อตกลงในการส่งมอบสินค้าระหว่างประเทศ (Incoterms®2020)</h1>
+
+          <div class="article-style" itemprop="articleBody">
+            
+
+<p>สภาหอการค้านานาชาติ (International Chamber of Commerce :ICC) เป็นผู้กำหนดคำเฉพาะทางการค้า (Trade term) เป็นคำเฉพาะ ที่ใช้ระบุในสัญญาซื้อขาย สินค้าระหว่างประเทศ ที่สามารถกำหนดหน้าที่ความรับผิดชอบในการจัดส่ง การขนส่ง การประกันภัยการรับมอบสินค้าที่ตกลงซื้อขาย ระหว่างผู้ซื้อ และผู้ขาย ตลอดจนความเสี่ยงภัยของสินค้าที่ผู้ขายรับผิดชอบ จะเปลี่ยนไปเป็นความรับผิดชอบของผู้ซื้อเมื่อใด ที่เรียกว่า <strong>Incoterms.</strong> โดยไม่ต้องมีข้อความบรรยาย หน้าที่ความรับผิดชอบ ระหว่างคู่สัญญาไว้อย่างละเอียดยาว ๆ เพื่ออำนวยความสะดวกในการทำสัญญาซื้อขายสินค้าระหว่างประเทศ ในบางกรณีการตกลงซื้อขายสินค้าภายในประเทศ ก็อาจมีการนำ <strong>Incoterms.</strong> มาใช้ก็ได้</p>
+
+<p>ICC เป็นผู้กำหนดคำและจัดพิมพ์ Incoterms ครั้งแรก พ.ศ.2479 (ค.ศ.1936) และมีการปรับปรุงให้เหมาะสมกับสถานการณ์และภาวะการค้าของโลกมาตลอด ทุก ๆ <em>10 ปี</em> จะมีการแก้ไขปรับปรุงที่สำคัญหนึ่งครั้ง และได้มีการแก้ไขเพิ่มเติมอีกหลายครั้ง ตั้งแต่ปี ค.ศ. 1953, 1967, 1980, 1990, 2000, 2010 และฉบับปัจจุบัน ปรับปรุงแก้ไขเพิ่มเติมเมื่อปี ค.ศ. 2019 (เริ่มใช้เมื่อ 1 มกราคม 2020) เพื่อให้กฎเกณฑ์ดังกล่าวสอดคล้องกับหลักปฏิบัติทางการค้าเทคโนโลยี การสื่อสารทางอิเล็กทรอนิกส์ และระบบ Logistic and Supply Chain ที่พัฒนาและเปลี่ยนแปลงไป Incoterms®2020 ได้จัดให้มีการรองรับความต้องการของตลาด ที่เกี่ยวกับใบตราส่งที่จดแจ้งว่าสินค้าได้ถูกบรรทุกแล้ว (Bills of Lading: BL with an on-board notation) สำหรับกฎ FCA (Free Carrier) การวางแนวทางของความคุ้มครองประกันภัยในระดับที่แตกต่างกัน สำหรับกฎ CIF (Cost Insurance and Freight) และ CIP (Carriage and Insurance Paid To) การเปิดโอกาสให้เลือกใช้พาหนะขนส่งของตนเองสำหรับกฎ FCA, DAP (Delivery at Place), DPU (Delivery at Place Unloaded) และ DDP (Delivered Duty Paid) การเปลี่ยนแปลงตัวย่อ 3 ตัวสำหรับกฎ DAT (Delivered at Terminal) เป็น DPU และได้เพิ่มข้อกำหนด ด้านความปลอดภัย ภายใต้ภาระหน้าที่และค่าใช้จ่ายที่เกี่ยวกับการขนส่งอีกด้วย</p>
+
+<p><img src="https://github.com/ecs-support/knowledge-center/raw/master/img/Incoterms2020.png" alt="" /></p>
+
+<h2 id="incoterms-2020-ประกอบด-วยข-อตกลงอะไรบ-าง">Incoterms®2020 ประกอบด้วยข้อตกลงอะไรบ้าง?</h2>
+
+<p><strong>Incoterms®2020</strong> ประกอบด้วย <strong>11 ข้อตกลง</strong> ได้แก่</p>
+
+<ul>
+<li>EXW (Ex works)<br /></li>
+<li>FCA (Free Carrier)<br /></li>
+<li>CPT(Carriage Paid To)<br /></li>
+<li>CIP (Carriage and insurance Paid To)<br /></li>
+<li>DAP (Delivered at Place )<br /></li>
+<li><em>DPU (Delivered at Place Unload)</em><br /></li>
+<li>DDP (Delivered DutyPaid)<br /></li>
+<li>FAS(Free Alongside Ship)<br /></li>
+<li>FOB(Free on Board)<br /></li>
+<li>CFR (Cost and Freight)<br /></li>
+<li>CIF (Cost Insurance and Freight )</li>
+</ul>
+
+<h2 id="การเปล-ยนแปลงท-สำค-ญ">การเปลี่ยนแปลงที่สำคัญ</h2>
+
+<p>Incoterms®2020 มีการเปลี่ยนแปลงจาก Incoterms®2010 ที่สำคัญคือ</p>
+
+<ol>
+<li><p>เทอม DAT (Delivered at Terminal) ของ Incoterms®2010 สลับหน้าที่มาเป็นเทอม DAP ของ Incoterms®2020 และเทอม DAT ของ Incoterms®2010 เปลี่ยนและเรียกชื่อเป็น DPU ของ Incoterms®2020 เนื่องจากที่ผ่านมาผู้ขายและผู้ซื้อประสงค์ให้มีการส่งมอบและรับมอบสินค้ากัน ณ สถานที่อื่นมากกว่าระบุเพียงที่สถานีปลายทาง เพื่อให้ยืดหยุ่นขึ้น</p></li>
+
+<li><p>ในการทำสัญญาซื้อขาย เทอม FCA ที่ผู้ขายต้องบรรทุกสินค้าขึ้นหรือลงในยานพาหนะที่ผู้ซื้อจัดหา ในกรณีที่ไม่ใช่บรรทุกลงเรือใหญ่โดยตรง ต้องบรรทุกขึ้นรถหรือลงเรือโป๊ะไปถ่ายลงเรือใหญ่อีกทอดหนึ่ง ในกรณีเป็นการชำระเงินโดย L/C ซึ่งธนาคารกำหนดให้ต้องนำ B/L ไปแสดงจึงจะจ่ายเงินตาม L/C ให้ผู้ขาย มีปัญหาเกิดขึ้นคือสายการเดินเรือ จะยังไม่ออก B/L ให้จนกว่าสินค้าที่บรรทุกในรถหรือเรือโป๊ะ จะบรรทุกลงเรือใหญ่ เพื่อแก้ปัญหาดังกล่าวข้างต้น ตาม Incoterms®2020 ในเทอม FCA ได้เปิดช่องให้ คู่สัญญาสามารถทำความตกลงกันในสัญญาซื้อขาย กำหนดให้ผู้ซื้อที่เป็นผู้จัดหาเรือ ต้องมีข้อกำหนดให้สายการเดินเรือออก B/L และเอกสารที่เกี่ยวกับการบรรทุกให้ผู้ขายในกรณีดังกล่าวข้างต้น</p></li>
+
+<li><p>การครอบคลุมของการประกันภัยในระดับที่สูงขึ้น ในการซื้อขายเทอม CIF และเทอม CIP เป็นหน้าที่ของผู้ขาย ต้องรับผิดชอบในการประกันภัยสินค้า ระหว่างการขนส่งไปส่งมอบให้ผู้ซื้อตาม Incoterms®2010 สัญญาประกันภัยอาจครอบคลุมช่วงใดช่วงหนึ่งของการขนส่ง แต่ตาม Incoterms®2020 ผู้ขาย ต้องซื้อประกันภัยที่ครอบคลุมสูงขึ้นจากเดิม</p></li>
+</ol>
+
+<h2 id="คำแนะนำจากผ-เช-ยวชาญ">คำแนะนำจากผู้เชี่ยวชาญ</h2>
+
+<p>สำหรับสัญญาซื้อขายสินค้าระหว่างประเทศที่ทำขึ้นก่อน Incoterms®2020 จะมีผลใช้บังคับ ยังคงบังคับใช้ตาม Incoterms®2010 ต่อไป แม้จะมีการปฏิบัติตามสัญญาหรือส่งมอบสินค้าตามสัญญาซื้อขายหลังวันที่ 1 มกราคม 2563 เว้นแต่ในสัญญาซื้อขาย จะระบุไว้เป็นอย่างอื่น แต่การทำสัญญาซื้อขายสินค้าระหว่างประเทศ ภายหลัง Incoterms®2020 มีผลใช้บังคับ ผู้เชี่ยวชาญให้ความเห็นว่า หากมีข้อพิพาทเกี่ยวกับเทอมการส่งมอบสินค้าเกิดขึ้น คาดว่าศาลที่มีเขตอำนาจหรือคณะอนุญาโตตุลาการคงยึดถือตาม Incoterms®2020 เว้นแต่จะมีพยานหลักฐานชัดแจ้งว่าคู่สัญญาไม่ได้มีเจตนาหรือความประสงค์ให้ใช้ Incoterms® 2020</p>
+
+<p>แม้เมื่อ Incoterms®2020 มีผลใช้บังคับแล้ว หากคู่สัญญายังประสงค์จะใช้ Incoterms®2010 บังคับใช้กับสัญญาซื้อขายที่ทำขึ้นใหม่ ก็สามารถกระทำได้ แต่ต้องระบุให้ชัดเจนในสัญญาว่า <strong>&ldquo;ให้ใช้ Incoterms® 2010&rdquo;</strong> เพื่อป้องกันปัญหาข้อพิพาทที่อาจเกิดขึ้น ในหนังสือ Incoterms®2020 ที่ ICC จัดพิมพ์ขึ้น ได้ให้คำแนะนำวิธีที่ดีที่สุดในการทำสัญญาซื้อขายระหว่างประเทศโดยใช้ Incoterms®2020 ให้ชัดเจนซึ่งจะป้องกันข้อพิพาทที่อาจเกิดขึ้นไว้หลายประการ เช่น ให้ระบุ <strong>Incoterms®2020</strong> ต่อท้ายเทอมที่จะระบุในสัญญาซื้อขาย เช่นเทอม CIF กรุงเทพ หรือ FOB กรุงเทพ ให้ระบุในสัญญา <strong>&ldquo;CIF Bangkok Incoterms®2020&rdquo;</strong> หรือ <strong>&ldquo;FOB Bangkok Incoterms®2020&rdquo;</strong></p>
+
+<p>นอกจากนี้ยังมีข้อแนะนำในการทำสัญญาซื้อขาย โดยใช้หรืออิง Incoterms เพื่อไม่ให้เกิดความไม่ชัดเจนหรือข้อสงสัย ที่อาจนำไปสู่การเกิดข้อพิพาทได้ เช่นการทำสัญญาซื้อขายโดยเป็นเทอม FOB ซึ่งเคยมีปัญหาเกิดความไม่ชัดเจนและมีข้อสงสัยระหว่างคู่สัญญา ว่า ท่าเรือท่าไหน ที่ผู้ขายต้องจัดส่งเรือไปจอดรับสินค้าจากผู้ขาย ส่วนผู้ขายก็เกิดข้อสงสัยว่า ท่าเรือท่าไหนหรือสถานที่ใดที่ผู้ขายมีหน้าที่จัดส่งสินค้าลงเรือ อันจะทำให้ความเสี่ยงภัยของสินค้านั้นเปลี่ยนจากผู้ขายไปอยู่ในความรับผิดชอบของผู้ซื้อ เนื่องจากความไม่ชัดเจนของการระบุชื่อท่า หรือสถานที่ เพื่อหลีกเลี่ยงปัญหาดังกล่าว มีข้อแนะนำให้ระบุ ชื่อตำบลที่ตั้งทางภูมิศาสตร์ให้เจาะจง คือชื่อท่าเรือ สถานที่หรือจุดที่ส่งมอบและรับมอบสินค้าให้ชัดเจน</p>
+
+<div class="alert alert-note">
+  <div>
+    <p><strong>สรุป Incoterms®2020 (เริ่มใช้เมื่อ 1 มกราคม 2020)</strong></p>
+
+<ol>
+<li><p>ในส่วนที่เกี่ยวข้องกับระบบ ECS มีในส่วนที่ Incoterms®2020 <em>เพิ่ม Term DPU</em> ขึ้นมาใหม่ และ <em>ตัด Term DAT</em> ออก</p>
+
+<ul>
+<li>เราทดสอบส่ง Term DPU ทั้งขาเข้า-ขาออก ไม่ติด Error กรมศุลฯ จึงรองรับ Term ดังกล่าวแล้ว</li>
+<li>แจ้งโปรแกรมเมอร์เพิ่ม Term DPU ในระบบแล้ว</li>
+</ul></li>
+
+<li><p>Incoterms เป็นข้อตกลง ระหว่างผู้ซื้อ และผู้ขาย ในการซื้อขายสินค้าระหว่างประเทศ เพื่อกำหนดหน้าที่ความรับผิดชอบในการจัดส่ง การขนส่ง การประกันภัยการรับมอบสินค้า ทุก ๆ 10 ปี จะมีการแก้ไขปรับปรุงที่สำคัญหนึ่งครั้ง</p></li>
+
+<li><p>แม้เมื่อ Incoterms®2020 มีผลใช้บังคับแล้ว หากคู่สัญญายังประสงค์จะใช้ Incoterms®2010 บังคับใช้กับสัญญาซื้อขายที่ทำขึ้นใหม่ ก็สามารถกระทำได้ (Incoterms®2000 เช่น C&amp;I ปัจจุบันก็ยังมีผู้ใช้) ระบบเราจึงยังคง DAT และ Term อื่น ๆ ที่นอกเหนือจาก Incoterms®2020 ไว้</p></li>
+
+<li><p>การเปลี่ยนแปลงครั้งนี้ ส่่วนใหญ่จะเป็นการปรับปรุงรายละเอียดในการกำหนดหน้าที่ความรับผิดชอบในการจัดส่ง การขนส่ง การประกันภัยการรับมอบสินค้าที่ตกลงซื้อขาย ระหว่างผู้ซื้อ และผู้ขาย ตลอดจนความเสี่ยงภัยของสินค้า เพื่อให้สอดคล้องกับหลักปฏิบัติทางการค้าเทคโนโลยี การสื่อสารทางอิเล็กทรอนิกส์ และระบบ Logistic and Supply Chain ที่พัฒนาและเปลี่ยนแปลงไป</p></li>
+</ol>
+
+  </div>
+</div>
+
+<blockquote>
+<p>ปรับปรุงล่าสุด : 3 ม.ค. 2563</p>
+</blockquote>
+
+<p><strong>Reference :</strong><br />
+- <a href="https://www.bangkokbiznews.com/blog/detail/649081" target="_blank">https://www.bangkokbiznews.com/blog/detail/649081</a><br />
+- <a href="https://www.dachser.co.th/th/mediaroom/market-information-3028" target="_blank">https://www.dachser.co.th/th/mediaroom/market-information-3028</a><br />
+- <a href="https://www.dachser.co.th/th/mediaroom/downloads/Hong%20Kong/Incoterms2020.pdf" target="_blank">https://www.dachser.co.th/th/mediaroom/downloads/Hong%20Kong/Incoterms2020.pdf</a></p>
+
+          </div>
+
+          
+
+
+
+          
+          <div class="article-widget">
+            
+<div class="post-nav">
+  
+  
+  
+  <div class="post-nav-item box ">
+    <div class="meta-nav meta-prev">Previous <br>
+    <a href="/KM/customs/customs/price/wooden_goods/" rel="next">กำหนดราคาศุลกากรสำหรับสินค้าไม้เป็นเกณฑ์ประเมินเงินอากรขาออก</a></div>
+  </div>
+  
+  
+  
+  <div class="post-nav-item box">
+    <div class="meta-nav meta-next" >Next <br>
+    <a href="/KM/customs/customs/price/incoterms-2010/" rel="prev">ข้อตกลงในการส่งมอบสินค้าระหว่างประเทศ (Incoterms®2010)</a></div>
+  </div>
+  
+  <br>
+  <br>
+</div>
+
+          </div>
+          
+        </div>
+
+        <div class="body-footer">
+          Last updated on Jun 21, 2020
+        </div>
+
+      </article>
+
+      <footer class="site-footer">
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        
+        <p>
+          ECS@Support&copy;2020 &middot; 
+          Powered by
+          <a href="https://themefisher.com" target="_blank" rel="noopener">themefisher</a> for
+          <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+        </p>
+      </div>
+      <div class="col-md-6">
+        <ul class="list-inline network-icon text-right">
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+            <a href="https://twitter.com/Twitter" target="_blank" rel="noopener" title="DM Me"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+            <a href="skype:echo123?call"  title="Skype Me"><i class="fab fa-skype" aria-hidden="true"></i></a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+            <a href="https://keybase.io/" target="_blank" rel="noopener" title="Chat on Keybase"><i class="fab fa-keybase" aria-hidden="true"></i></a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+            <a href="https://discourse.gohugo.io" target="_blank" rel="noopener" title="Discuss on Forum"><i class="fas fa-comments" aria-hidden="true"></i></a>
+          </li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+
+    </main>
+  </div>
+</div>
+
+
+      
+
+    
+    
+    
+    <script src="/KM/customs/js/mathjax-config.js"></script>
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/python.min.js"></script>
+        
+      
+
+      
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/KM/customs/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.1/anchor.min.js" integrity="sha256-pB/deHc9CGfFpJRjC43imB29Rse8tak+5eXqntO94ck=" crossorigin="anonymous"></script>
+    <script>
+      anchors.add();
+    </script>
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+      
+    
+    
+    
+    <script src="/KM/customs/js/academia.min.a853a16903966ddb51cc6b4caa48b3e9.js"></script>
+
+    
+
+
+
+
+
+
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

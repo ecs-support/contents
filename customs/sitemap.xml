@@ -3,8 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/faq/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/company/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/customs-tariff/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/price/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/restricted-goods/</loc>
-    <lastmod>2020-06-10T17:56:06+07:00</lastmod>
+    <lastmod>2020-06-17T17:51:17+07:00</lastmod>
   </url>
   
   <url>
@@ -80,6 +100,29 @@
   <url>
     <loc>https://ecs-support.github.io/KM/customs/courses/example/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/customs-tariff/measure-covid-19/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/customs-tariff/measure-covid-19/except-duty-mask/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/customs-tariff/part-4/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/company/broker/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/price/gatt_valuation/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -163,6 +206,20 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/customs-tariff/measure-covid-19/machinery/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/company/register_expire/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/price/wooden_goods/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/restricted-goods/dangerous_goods/</loc>
     <lastmod>2020-06-12T17:39:17+07:00</lastmod>
   </url>
@@ -218,6 +275,20 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/customs-tariff/measure-covid-19/prevent/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/price/incoterm-2020/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/company/aeo/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/restricted-goods/announce/</loc>
     <lastmod>2020-06-12T17:39:17+07:00</lastmod>
   </url>
@@ -255,6 +326,11 @@
   <url>
     <loc>https://ecs-support.github.io/KM/customs/book/deus/deus-4/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/price/incoterms-2010/</loc>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -563,13 +639,13 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/KM/customs/customs/tax-incentive/guide/1.guide/</loc>
-    <lastmod>2020-06-16T15:44:48+07:00</lastmod>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/guarantee-fuel-fund/</loc>
+    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/guarantee-fuel-fund/</loc>
-    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
+    <loc>https://ecs-support.github.io/KM/customs/customs/tax-incentive/guide/1.guide/</loc>
+    <lastmod>2020-06-16T15:44:48+07:00</lastmod>
   </url>
   
   <url>
@@ -809,7 +885,7 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/</loc>
-    <lastmod>2020-06-17T14:19:00+07:00</lastmod>
+    <lastmod>2020-06-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1098,11 +1174,6 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/KM/customs/post/</loc>
-    <lastmod>2020-06-02T17:33:06+07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecs-support.github.io/KM/customs/publication/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
@@ -1120,6 +1191,11 @@
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/</loc>
     <lastmod>2020-06-04T17:06:36+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/post/</loc>
+    <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
 </urlset>
