@@ -600,5 +600,19 @@ Reference Declaration Line Number = รายการในใบขนสิ�
 </description>
     </item>
     
+    <item>
+      <title>&lt;--กลับไปเมนูหลัก</title>
+      <link>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tax-incentive.3/direct_main/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tax-incentive.3/direct_main/</guid>
+      <description>&lt;script&gt;
+   var files = &#39;/KM/customs/customs/tax-incentive/&#39;
+   //document.location = files
+   location.replace(files)
+&lt;/script&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
