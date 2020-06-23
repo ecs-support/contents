@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>สินค้าถ่ายลำ/ผ่านแดน on ECS</title>
+    <title>พิธีการสำหรับสินค้าถ่ายลำ/ผ่านแดน on ECS</title>
     <link>https://ecs-support.github.io/KM/customs/customs/import-export/transit/</link>
-    <description>Recent content in สินค้าถ่ายลำ/ผ่านแดน on ECS</description>
+    <description>Recent content in พิธีการสำหรับสินค้าถ่ายลำ/ผ่านแดน on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
@@ -18,7 +18,39 @@
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/customs/import-export/transit/transit-aticles/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;บทความทางวิชาการเรื่อง &amp;ldquo;การผ่านแดนตามพระราชบัญญัติศุลกากร พ.ศ. 2560&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;blockquote class=&#34;book-hint success&#34;&gt;
+  info: #003366,
+warning: #FF6600,
+danger: red,
+success: green,
+&lt;/blockquote&gt;
+
+
+&lt;blockquote class=&#34;book-hint info&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;ตรวจสอบค่า Port สถานที่ตรวจปล่อยที่ยื่นทำใบขนสินค้าถ่ายลำ/ผ่านแดน  และใบเคลื่อนย้ายของผ่านแดน ต้องมีค่า  Indicator สอดคล้องกับค่า  Area Code ใน  Reference File ที่กรมศุลกากรกำหนดว่า  Port Code นั้นเป็นสถานที่ตรวจปล่อยขาเข้า หรือขาออก หากค่าที่ส่งมานั้นไม่ถูกต้องระบบจะทำการ  Reject&lt;/li&gt;
+&lt;li&gt;ตรวจสอบการหมดอายุของการวางค้ำประกันแบบหนังสือ สำหรับพิธีการถ่ายลำผ่านแดน หากหนังสือการวางค้ำประกันหมดอายุจะไม่สามารถส่งข้อมูลใบขนสินค้าถ่ายลำผ่าน ผ่านแดนได้&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+
+&lt;blockquote class=&#34;book-hint warning&#34;&gt;
+  info: #003366,
+warning: #FF6600,
+danger: red,
+success: green,
+&lt;/blockquote&gt;
+
+
+&lt;blockquote class=&#34;book-hint danger&#34;&gt;
+  info: #003366,
+warning: #FF6600,
+danger: red,
+success: green,
+&lt;/blockquote&gt;
+
+
+&lt;p&gt;&lt;strong&gt;บทความทางวิชาการเรื่อง &amp;ldquo;การผ่านแดนตามพระราชบัญญัติศุลกากร พ.ศ. 2560&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;./img/book/transitjpg_Page1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
