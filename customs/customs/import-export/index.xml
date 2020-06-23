@@ -12,42 +12,6 @@
     
     
     <item>
-      <title>การปฏิบัติพิธีการศุลกากรสำหรับการส่งออก (Export)</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/import-export/export/</link>
-      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/export/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;img/export.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;การส่งออก (Export) การจัดส่งสินค้าและบริการจากต้นทางสู่ปลายทางในทางบก ทางน้ำหรือทางอากาศ โดยผู้ส่งสินค้าหรือบริการออกเรียกว่า &amp;ldquo;ผู่ส่งออก&amp;rdquo; ส่วนในทางการค้าระหว่างประเทศ การส่งออกหมายถึง การขายสินค้าและบริการในประเทศไปสู่ตลาดอื่น (ตลาดสากล) ในการส่งออกและนำเข้าซึ่งสินค้าจะต้องมีหน่วยงานที่ต้องเกี่ยวข้องด้วยคือ กรมศุลกากร แม้ว่าจะเป็นการนำเข้า หรือส่งออกผ่านทางระบบอินเทอร์เน็ตเองก็จำเป็นต้องเกี่ยวข้องกับกรมศุลการกรด้วย และที่สำคัญต้องอยู่ภายใต้กฎหมายการนำเข้าและส่งออกของประเทศนั้น ๆ&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>การนำเข้าสินค้า (Import)</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/</link>
-      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;img/import.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;การนำเข้า (mport) หมายถึง การนำเข้าสินค้าเข้ามาจากต่างประเทศ โดยสินค้าที่นำเข้ามักเป็นสินค้าที่ไม่มีหรือผลิตในประเทศไม่ได้ เช่น ยารักษาโรค  เครื่องจักรต่าง ๆ ที่ใช้ในอุตสาหกรรมการผลิต สินค้าเกษตรบางชนิด สินค้าที่ประเทศไทยมักนำเข้ามาจากต่างประเทศคือ สินค้าประเภทวัตถุดิบ,เคมีภัณฑ์, เชื้อเพลิง, ยานยนต์และส่วนประกอบ เป็นต้น ในการนำเข้าสินค้า ผู้นำเข้าจะต้องปฏิบัติตามกฎหมาย ระเบียบ และประกาศที่กรมศุลกากรและหน่วยงานอื่น ๆ ที่เกี่ยวข้องในการนำเข้าอาทิ กระทรวงพาณิชย์ สำนักงานคณะกรรมการอาหารและยา กรมปศุสัตว์ ฯลฯ ที่กำหนดไว้ให้ครบถ้วน รวมถึงจัดเตรียมเอกสารและศึกษาขั้นตอนพิธีการศุลกากรในการนำเข้าสินค้า&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;เอกสารสำหรับการนำเข้าสินค้า&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;ใบขนสินค้าขาเข้า (Import Declaration)&lt;/li&gt;
-&lt;li&gt;ใบตราส่งสินค้าทางเรือ (B/L-Bill of Lading), ทางอากาศ (AWB-Air Way Bill)&lt;/li&gt;
-&lt;li&gt;บัญชีราคาสินค้า (Invoice)&lt;/li&gt;
-&lt;li&gt;บัญชีรายละเอียดบรรจุหีบห่อ (Packing List)&lt;/li&gt;
-&lt;li&gt;ใบอนุญาตหรือหนังสืออนุญาตสำหรับสินค้าควบคุมการนำเข้า (ถ้ามี) (Import License)&lt;/li&gt;
-&lt;li&gt;ใบรับรองแหล่งกำเนิดสินค้า (กรณีขอลดอัตราอากร) (Certificates of Origin)&lt;/li&gt;
-&lt;li&gt;เอกสารอื่น ๆ เช่น แคตตาล็อก เอกสารแสดงส่วนผสม ฯลฯ&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
       <title>สินค้าถ่ายลำ/ผ่านแดน</title>
       <link>https://ecs-support.github.io/KM/customs/customs/import-export/transit/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
@@ -56,8 +20,6 @@
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/cover/transit.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;น-ยาม&#34;&gt;นิยาม&lt;/h2&gt;
 
 &lt;h3 id=&#34;การผ-านแดน&#34;&gt;การผ่านแดน&lt;/h3&gt;
 
@@ -124,26 +86,6 @@
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;บทความทางว-ชาการ&#34;&gt;บทความทางวิชาการ&lt;/h2&gt;
-
-&lt;h3 id=&#34;การผ-านแดนตามพระราชบ-ญญ-ต-ศ-ลกากร-พ-ศ-2560&#34;&gt;การผ่านแดนตามพระราชบัญญัติศุลกากร พ.ศ. 2560&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;บทความทางวิชาการเรื่อง &amp;ldquo;การผ่านแดนตามพระราชบัญญัติศุลกากร พ.ศ. 2560&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/book/transitjpg_Page1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/transit/transitjpg_Page2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/transit/transitjpg_Page3.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/transit/transitjpg_Page4.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/transit/transitjpg_Page5.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/transit/transitjpg_Page6.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
 &lt;div class=&#34;alert alert-note_success&#34;&gt;
   &lt;div&gt;
     &lt;ul&gt;
@@ -161,6 +103,42 @@
 &lt;li&gt;วันที่ปรับปรุงล่าสุด : 6 กรกฎาคม 2561&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>การปฏิบัติพิธีการศุลกากรสำหรับการส่งออก (Export)</title>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/export/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/export/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;img/export.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;การส่งออก (Export) การจัดส่งสินค้าและบริการจากต้นทางสู่ปลายทางในทางบก ทางน้ำหรือทางอากาศ โดยผู้ส่งสินค้าหรือบริการออกเรียกว่า &amp;ldquo;ผู่ส่งออก&amp;rdquo; ส่วนในทางการค้าระหว่างประเทศ การส่งออกหมายถึง การขายสินค้าและบริการในประเทศไปสู่ตลาดอื่น (ตลาดสากล) ในการส่งออกและนำเข้าซึ่งสินค้าจะต้องมีหน่วยงานที่ต้องเกี่ยวข้องด้วยคือ กรมศุลกากร แม้ว่าจะเป็นการนำเข้า หรือส่งออกผ่านทางระบบอินเทอร์เน็ตเองก็จำเป็นต้องเกี่ยวข้องกับกรมศุลการกรด้วย และที่สำคัญต้องอยู่ภายใต้กฎหมายการนำเข้าและส่งออกของประเทศนั้น ๆ&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>การนำเข้าสินค้า (Import)</title>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;img/import.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;การนำเข้า (mport) หมายถึง การนำเข้าสินค้าเข้ามาจากต่างประเทศ โดยสินค้าที่นำเข้ามักเป็นสินค้าที่ไม่มีหรือผลิตในประเทศไม่ได้ เช่น ยารักษาโรค  เครื่องจักรต่าง ๆ ที่ใช้ในอุตสาหกรรมการผลิต สินค้าเกษตรบางชนิด สินค้าที่ประเทศไทยมักนำเข้ามาจากต่างประเทศคือ สินค้าประเภทวัตถุดิบ,เคมีภัณฑ์, เชื้อเพลิง, ยานยนต์และส่วนประกอบ เป็นต้น ในการนำเข้าสินค้า ผู้นำเข้าจะต้องปฏิบัติตามกฎหมาย ระเบียบ และประกาศที่กรมศุลกากรและหน่วยงานอื่น ๆ ที่เกี่ยวข้องในการนำเข้าอาทิ กระทรวงพาณิชย์ สำนักงานคณะกรรมการอาหารและยา กรมปศุสัตว์ ฯลฯ ที่กำหนดไว้ให้ครบถ้วน รวมถึงจัดเตรียมเอกสารและศึกษาขั้นตอนพิธีการศุลกากรในการนำเข้าสินค้า&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;เอกสารสำหรับการนำเข้าสินค้า&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;ใบขนสินค้าขาเข้า (Import Declaration)&lt;/li&gt;
+&lt;li&gt;ใบตราส่งสินค้าทางเรือ (B/L-Bill of Lading), ทางอากาศ (AWB-Air Way Bill)&lt;/li&gt;
+&lt;li&gt;บัญชีราคาสินค้า (Invoice)&lt;/li&gt;
+&lt;li&gt;บัญชีรายละเอียดบรรจุหีบห่อ (Packing List)&lt;/li&gt;
+&lt;li&gt;ใบอนุญาตหรือหนังสืออนุญาตสำหรับสินค้าควบคุมการนำเข้า (ถ้ามี) (Import License)&lt;/li&gt;
+&lt;li&gt;ใบรับรองแหล่งกำเนิดสินค้า (กรณีขอลดอัตราอากร) (Certificates of Origin)&lt;/li&gt;
+&lt;li&gt;เอกสารอื่น ๆ เช่น แคตตาล็อก เอกสารแสดงส่วนผสม ฯลฯ&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     
