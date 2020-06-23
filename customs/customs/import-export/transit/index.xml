@@ -12,5 +12,27 @@
 	    <atom:link href="https://ecs-support.github.io/KM/customs/customs/import-export/transit/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>การผ่านแดนตามพระราชบัญญัติศุลกากร พ.ศ. 2560</title>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/transit/transit-aticles/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/transit/transit-aticles/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;บทความทางวิชาการเรื่อง &amp;ldquo;การผ่านแดนตามพระราชบัญญัติศุลกากร พ.ศ. 2560&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/book/transitjpg_Page1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/transit/transitjpg_Page2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/transit/transitjpg_Page3.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/transit/transitjpg_Page4.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/transit/transitjpg_Page5.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/transit/transitjpg_Page6.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
