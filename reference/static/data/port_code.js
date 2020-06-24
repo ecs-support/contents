@@ -43662,9 +43662,8 @@ $(document).ready(function () {
     ],
     responsive: true,
     scroller: true,
-    scrollY: 600,
-    scrollX: 700,
+
   });
 
-  dataTable.FixedHeader(table);
+  
 });
