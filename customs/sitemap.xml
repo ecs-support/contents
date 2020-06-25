@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/customs-dept/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/faq/</loc>
     <lastmod>2020-06-22T02:20:07+07:00</lastmod>
   </url>
@@ -118,6 +123,11 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/customs-dept/service/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/transit/transit-aticles/</loc>
     <lastmod>2020-06-24T01:51:10+07:00</lastmod>
   </url>
@@ -223,6 +233,11 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/customs-dept/e-tracking/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/company/register_expire/</loc>
     <lastmod>2020-06-22T02:20:07+07:00</lastmod>
   </url>
@@ -293,6 +308,11 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/customs-dept/service/payment/payment/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/price/incoterm-2020/</loc>
     <lastmod>2020-06-22T02:20:07+07:00</lastmod>
   </url>
@@ -343,6 +363,11 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/customs-dept/service/payment/bank_payment/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/price/incoterms-2010/</loc>
     <lastmod>2020-06-22T02:20:07+07:00</lastmod>
   </url>
@@ -385,6 +410,11 @@
   <url>
     <loc>https://ecs-support.github.io/KM/customs/book/deus/deus-5/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/customs-dept/service/payment/bank_e-bill/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -608,6 +638,11 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/customs-dept/thai-nsw/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/incoterms/</loc>
     <lastmod>2020-06-15T16:40:45+07:00</lastmod>
   </url>
@@ -650,6 +685,11 @@
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/export/guide/1.guide/</loc>
     <lastmod>2020-06-16T15:44:48+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/customs-dept/customs-information-contact/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -704,7 +744,7 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/payment-method/</loc>
-    <lastmod>2020-06-15T16:40:45+07:00</lastmod>
+    <lastmod>2020-06-25T03:06:28+07:00</lastmod>
   </url>
   
   <url>
@@ -809,7 +849,7 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/excise/price_structure/</loc>
-    <lastmod>2020-06-16T02:03:31+07:00</lastmod>
+    <lastmod>2020-06-25T03:06:28+07:00</lastmod>
   </url>
   
   <url>
@@ -824,17 +864,17 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/excise/government-funded/</loc>
-    <lastmod>2020-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-25T03:06:28+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/excise/excise_announcement_product_list/</loc>
-    <lastmod>2020-06-16T02:03:31+07:00</lastmod>
+    <lastmod>2020-06-25T03:06:28+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/excise/excise_announcement_list/</loc>
-    <lastmod>2020-06-16T02:03:31+07:00</lastmod>
+    <lastmod>2020-06-25T03:06:28+07:00</lastmod>
   </url>
   
   <url>
@@ -844,7 +884,7 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tranfer/2.bond/</loc>
-    <lastmod>2020-06-16T15:44:48+07:00</lastmod>
+    <lastmod>2020-06-25T03:06:28+07:00</lastmod>
   </url>
   
   <url>
@@ -854,7 +894,7 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tranfer/4.boi/</loc>
-    <lastmod>2020-06-16T15:44:48+07:00</lastmod>
+    <lastmod>2020-06-25T03:06:28+07:00</lastmod>
   </url>
   
   <url>
@@ -864,7 +904,7 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tranfer/6.i-eat/</loc>
-    <lastmod>2020-06-16T15:44:48+07:00</lastmod>
+    <lastmod>2020-06-25T03:06:28+07:00</lastmod>
   </url>
   
   <url>
@@ -899,7 +939,7 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/</loc>
-    <lastmod>2020-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -948,6 +988,31 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/KM/customs/post/postal-guide/</loc>
+    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%82%E0%B8%B2%E0%B8%AD%E0%B8%AD%E0%B8%81/</loc>
+    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%82%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B2/</loc>
+    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/categories/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A7%E0%B8%8A%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3/</loc>
+    <lastmod>2020-06-12T17:39:17+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B9%84%E0%B8%9B%E0%B8%A3%E0%B8%A9%E0%B8%93%E0%B8%A2/</loc>
+    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/KM/customs/categories/mail/</loc>
     <lastmod>2020-06-12T17:39:17+07:00</lastmod>
   </url>
@@ -964,11 +1029,6 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/post/controlling-goods-movement/</loc>
-    <lastmod>2020-06-12T17:39:17+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/KM/customs/categories/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A7%E0%B8%8A%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3/</loc>
     <lastmod>2020-06-12T17:39:17+07:00</lastmod>
   </url>
   
@@ -1028,6 +1088,16 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%A2%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2/</loc>
+    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/post/process-modification-e_import-system/</loc>
+    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8/</loc>
     <lastmod>2020-06-12T17:39:17+07:00</lastmod>
   </url>
@@ -1040,6 +1110,41 @@
   <url>
     <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2/</loc>
     <lastmod>2020-06-12T17:39:17+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/categories/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1/</loc>
+    <lastmod>2020-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%9B%E0%B8%94%E0%B8%97%E0%B8%A8%E0%B8%99%E0%B8%A2%E0%B8%A1/</loc>
+    <lastmod>2020-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%A0%E0%B8%B2%E0%B8%A9/</loc>
+    <lastmod>2020-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/post/rounding-decimal/</loc>
+    <lastmod>2020-06-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%9E%E0%B8%B2%E0%B8%93%E0%B8%8A%E0%B8%A2%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%81%E0%B8%97%E0%B8%A3%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%AA/</loc>
+    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%A9/</loc>
+    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/post/duty-e_commercepng/</loc>
+    <lastmod>2020-05-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1065,6 +1170,21 @@
   <url>
     <loc>https://ecs-support.github.io/KM/customs/tags/source-themes/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%82%E0%B8%B2%E0%B8%A7/</loc>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/post/rice-export/</loc>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/categories/%E0%B8%AA%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%81/</loc>
+    <lastmod>2020-05-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1133,12 +1253,12 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/KM/customs/tags/robotics/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/project/robotics/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/KM/customs/project/robotics/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/tags/robotics/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
