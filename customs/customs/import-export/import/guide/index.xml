@@ -1824,27 +1824,25 @@
 &lt;p&gt;&lt;strong&gt;หมายเหตุ&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;ถ้า &lt;strong&gt;Total Payment Amount&lt;/strong&gt;  มีค่าต้องระบุ ข้อมูลดังต่อไปนี้ด้วย
-&lt;div class=&#34;alert alert-warning&#34;&gt;
-  &lt;div&gt;
-    &lt;ul&gt;
+&lt;blockquote class=&#34;book-hint warning&#34;&gt;
+  &lt;ul&gt;
 &lt;li&gt;Bank Code&lt;/li&gt;
 &lt;li&gt;Bank Branch Code&lt;/li&gt;
 &lt;li&gt;Bank Account Number&lt;/li&gt;
 &lt;li&gt;Customs Bank Code&lt;/li&gt;
 &lt;/ul&gt;
-  &lt;/div&gt;
-&lt;/div&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/p&gt;
 
 &lt;p&gt;ถ้า &lt;strong&gt;Total Deposit Amount&lt;/strong&gt; มีค่าต้องระบุ ข้อมูลดังต่อไปนี้ด้วย
-&lt;div class=&#34;alert alert-danger&#34;&gt;
-  &lt;div&gt;
-    &lt;ul&gt;
+&lt;blockquote class=&#34;book-hint danger&#34;&gt;
+  &lt;ul&gt;
 &lt;li&gt;Guarantee Bank Code&lt;/li&gt;
 &lt;li&gt;Guarantee Bank Branch Code&lt;/li&gt;
 &lt;li&gt;Guarantee Bank Account Number (ถ้ามี)&lt;/li&gt;
 &lt;/ul&gt;
-  &lt;/div&gt;
-&lt;/div&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/p&gt;
 </description>
     </item>
     

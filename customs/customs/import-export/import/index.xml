@@ -712,7 +712,7 @@
 &lt;/ol&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/KnowledgeCenter/raw/master/img/price-structure.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/price-structure.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;ที่มา : กรมสรรพสามิต
@@ -847,6 +847,53 @@
 &lt;p&gt;การระบุ EXEMPT กรณีของที่นำเข้าคลังทัณฑ์บน เขตปลอดอากร เขตประกอบการเสรี และของที่ได้รับยกเว้นอากรตามภาค 4 รวมทั้งของที่โอนย้ายระหว่างคลังสินค้าทัณฑ์บน เขตปลอดอากร เขตประกอบการเสรี&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/excise/exempt/exempt-01.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>การจัดเก็บ การส่งเงิน การยกเว้น และการขอคืนเงินบํารุงกองทุน</title>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/excise/government-funded/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/excise/government-funded/</guid>
+      <description>
+
+&lt;p&gt;ระเบียบกระทรวงการคลังว่าด้วยการจัดเก็บ การส่งเงิน การยกเว้น และการขอคืนเงินบํารุงกองทุน ไว้ชัดเจน ดําเนินการจัดเก็บภาษีสรรพสามิตเพิ่มในอัตราที่กําหนดไว้ตามพระราชบัญญัติเพื่อนํารายได้จากการจัดเก็บ ภาษีสรรพสามิตจากสินค้าสุราและยาสูบ นําส่งเข้ากองทุนตามอัตราส่วนที่กําหนดไว้ในระเบียบ ประกอบด้วย&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;เงินบํารุงกองทุนสนับสนุน&lt;em&gt;การสร้างเสริมสุขภาพ (สสส.) 2%&lt;/em&gt; ของภาษีสุราและยาสูบ&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;เงินบํารุง กองทุน&lt;em&gt;พัฒนาการกีฬา (กกท.) 2%&lt;/em&gt; ของภาษีสุราและยาสูบ&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;เงินบํารุง&lt;em&gt;องค์การกระจายเสียงและแพร่ภาพ สาธารณะแห่งประเทศไทย (Thai PBS) 1.5 %&lt;/em&gt; ของภาษีสุราและยาสูบ แต่ไม่เกิน 2,000 ล้านบาท&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;เงินบํารุงกองทุน&lt;em&gt;ผู้สูงอายุ 2%&lt;/em&gt; ของภาษีสุราและยาสูบ แต่ไม่เกิน 4,000 ล้านบาท&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;ทําให้ผู้ที่บริโภคสุราและ ยาสูบต้องจ่ายเงินบํารุงกองทุน หรือ “Earmarked Tax” เพิ่มขึ้นรวมทั้งสิ้นประมาณ 7.5% ของภาษีสุรา และยาสูบ ซึ่งพอสรุปขั้นตอนในการดําเนินการจัดสรรเงินนําส่งกองทุน ดังนี้&lt;/p&gt;
+
+&lt;h2 id=&#34;การจ-ดสรรเง-นบ-าร-งกองท-น-องค-การท-จ-ดเก-บจากภาษ-ส-ราและยาส-บ&#34;&gt;การจัดสรรเงินบํารุงกองทุน/องค์การที่จัดเก็บจากภาษีสุราและยาสูบ&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;สสส.&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;กกท.&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Thai PBS&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;กองทุนผู้สูงอายุ&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;อัตราภาษี สุรา/ยาสูบ (ร้อยละ)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;2&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;2&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;em&gt;1.5&lt;/em&gt;   (ไม่เกิน 2,000 ลา้นบาท)&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;strong&gt;2&lt;/strong&gt;   (ไม่เกิน 4,000 ลา้นบาท)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;กรณีที่ผู้มีหน้าที่เสียภาษีไม่ได้ชําระภาษีเงินบํารุงกองทุน/องค์การ หรือส่งเงินบํารุงกองทุน/องค์การไม่ครบตามจํานวน หรือส่งภายหลังระยะเวลาที่กําหนด ให้เสียเงินเพิ่มในอัตราร้อยละ 2 ต่อเดือนของจํานวนเงินที่ไม่ได้ชําระ หรือจํานวนเงินที่ส่งขาดไป หรือส่งภายหลังระยะเวลาที่กําหนด แล้วแต่กรณีโดยให้ชําระใหครบตามจำนวน&lt;/p&gt;
 </description>
     </item>
     
