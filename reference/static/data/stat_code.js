@@ -10360,7 +10360,7 @@ var dataSet = [
 ['63079070', '000', 'พัดที่พับได้และพับไม่ได้', 'Fans and handscreens', 'KGM', '20170101'],
 ['63079080', '000', 'เชือกผูกสำหรับรองเท้า รองเท้าบูท คอร์เซ็ท และของที่คล้ายกัน', 'Laces for shoes, boots, corsets and the like', 'KGM', '20170101'],
 ['63079090', '001', 'หน้ากากกรองฝุ่น หมอกควันหรือสารพิษ บรรดาที่เป็นอุปกรณ์เพื่อปลอดภัย', 'Safety masks for preventing dust, smoke or toxic substance', 'KGM', '20170101'],
-['63079090', '002', 'หน้ากากทางการแพทย์ นอกจากหน้ากากชนิดที่ใช้ในห้องผ่าตัด', 'Medical masks , other than surgical masks', 'KGM', '20170101'],
+['63079090', '002', 'หน้ากากทางการแพทย์ นอกจากหน้ากากชนิดที่ใช้ในห้องผ่าตัด', 'Medical masks , other than surgical masks', 'KGM', '20200701'],
 ['63079090', '090', 'อื่น ๆ', 'Other', 'KGM', '20170101'],
 ['63080000', '000', 'ของเป็นชุดที่ประกอบด้วยผ้าทอและด้าย จะมีอุปกรณ์ประกอบหรือไม่ก็ตาม สำหรับจัดทำเป็นพรมผืน เทเพสทรี ผ้าปักที่ทำเป็นผ้าปูโต๊ะหรือผ้าเช็ดมือ หรือจัดทำเป็นของทำด้วยสิ่งทอที่คล้ายกัน บรรจุภาชนะเพื่อการขายปลีก', 'Sets consisting of woven fabric and yarn, whether or not with accessories, for making up into rugs, tapestries, embroidered table cloths or serviettes, or similar textile articles, put up in packings for retail sale.', 'KGM', '20170101'],
 ['63090000', '000', 'เสื้อผ้าที่ใช้แล้วและของอื่น ๆ ที่ใช้แล้ว', 'Worn clothing and other worn articles.', 'KGM', '20170101'],
