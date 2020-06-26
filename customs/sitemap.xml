@@ -988,8 +988,18 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/KM/customs/categories/e-mail/</loc>
+    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/KM/customs/post/postal-guide/</loc>
     <lastmod>2020-06-26T01:44:02+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/post/orphan-drugs/</loc>
+    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1005,6 +1015,11 @@
   <url>
     <loc>https://ecs-support.github.io/KM/customs/categories/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A7%E0%B8%8A%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3/</loc>
     <lastmod>2020-06-26T01:44:02+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%B3%E0%B8%9E%E0%B8%A3%E0%B8%B2/</loc>
+    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1148,6 +1163,11 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/KM/customs/post/interesting-facts/</loc>
+    <lastmod>2020-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/KM/customs/authors/admin/</loc>
     <lastmod>2020-06-26T01:44:02+07:00</lastmod>
   </url>
@@ -1253,12 +1273,12 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/KM/customs/tags/robotics/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/project/robotics/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/KM/customs/project/robotics/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/tags/robotics/</loc>
     <lastmod>2020-06-02T17:33:06+07:00</lastmod>
   </url>
   
