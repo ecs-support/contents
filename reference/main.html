@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <title>Sider Menu Bar CSS</title>
+    <link rel="stylesheet" href="static/css/main_page.css">
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+</head>
+
+<style>
+   .logo_ecs {
+   width: 5.5em;
+
+   cursor: pointer;
+
+   }
+
+   /* Position text in the top-left corner */
+   .top_left {
+   position: absolute;
+   bottom: 15px;
+   right: 25px;
+   }
+</style>
+
+<body>
+
+     
+
+    <input type="checkbox" id="check">
+    <label for="check">
+        <i class="fas fa-bars" id="btn"></i>
+        <i class="fas fa-times" id="cancel"></i>
+    </label>
+    <div class="sidebar">
+        
+        <header>Reference data</header>
+        <ul>
+            <li><a href="main.html"><i class="fas fa-qrcode"></i>Dashboard</a></li>
+            <li><a onclick= "document.getElementById('show_pages').src=('exchange_rate.html')"><i
+                        class="fas fa-link"></i>อัตราแลกเปลี่ยน</a></li>
+            
+            <li><a onclick="document.getElementById('show_pages').src=('permission.html')"><i
+                        class="fas fa-stream"></i>ใบอนุญาต/ใบรับรอง</a></li>
+
+            <li><a onclick="document.getElementById('show_pages').src=('exampt.html')"><i
+                        class="far fa-envelope"></i>รหัสยกเว้น</a></li>
+
+            <li><a onclick="document.getElementById('show_pages').src=('stat_code.html')"><i
+                        class="fas fa-sliders-h"></i>รหัสสถิติสินค้า</a></li>
+                
+            <li><a onclick="document.getElementById('show_pages').src=('unit_code.html')"><i
+                        class="fas fa-calendar-week"></i>รหัสหน่วยสินค้า</a></li>
+            
+            <li><a onclick="document.getElementById('show_pages').src=('package_code.html')"><i
+                        class="fas fa-sliders-h"></i>รหัสลักษณะหีบห่อ</a></li>
+
+                <li><a onclick="document.getElementById('show_pages').src=('area_code.html')"><i
+                            class="far fa-envelope"></i>รหัสสถานที่</a></li>
+
+            <li><a href="#"><i class="fas fa-calendar-week"></i>Events</a></li>
+            <li><a href="#"><i class="far fa-question-circle"></i>About</a></li>
+            <li><a href="#"><i class="fas fa-sliders-h"></i>Services</a></li>
+            <li><a href="#"><i class="far fa-envelope"></i>Contact</a></li>
+        </ul>
+    </div>
+    <section>
+<img src="static/img/ECS_Logo_2020.png" class="top_left logo_ecs" id="logo" onclick="newDoc()">
+
+<iframe id="show_pages"  style="width:100%;border:none;height:100%">
+    </section>
+
+</body>
+
+</html>
