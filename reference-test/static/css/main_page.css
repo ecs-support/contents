@@ -28,10 +28,12 @@ body {
   margin-left:15px;
 }
 .sidebar ul a{
+  font-family: 'Kanit',
+  sans-serif;
   display: block;
   height: 100%;
   width: 100%;
-  line-height: 25px;
+  line-height: 30px;
   font-size: 16px;
   color: white;
   padding-left: 15px;
@@ -41,22 +43,6 @@ body {
   transition: .4s;
 }
 
-/* Style the sidenav links and the dropdown button */
-.sidebar a,
-.dropdown-btn {
- display: block;
- height: 100%;
- width: 100%;
- line-height: 25px;
- font-size: 18px;
- color: white;
- padding-left: 15px;
- box-sizing: border-box;
- border-bottom: 1px solid black;
- border-top: 1px solid rgba(255, 255, 255, .1);
- transition: .4s;
- background: #063146;
-}
 
 /* On mouse-over */
 .sidebar a:hover,
