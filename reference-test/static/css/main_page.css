@@ -25,6 +25,8 @@ body {
   line-height: 50px;
   letter-spacing: 1.5px;
   font-weight: 500;
+  transition: all .5s ease;
+  z-index: 2111;
 }
 
 
@@ -115,13 +117,40 @@ label #btn{
   padding: 6px 12px;
   transition: all .5s;
 }
+
+.logo_ecs {
+  width: 5em;
+  cursor: pointer;
+  position: absolute;
+  right:30px;
+  top:10px;
+  
+  transition: all .5s;
+
+}
+
+.row.top_right {
+  cursor: pointer;
+  position: absolute;
+
+  right:90px;
+  top:30px;
+  
+  transition: all .5s;
+
+}
+
+label #btn:hover {
+  color: red;
+  cursor: pointer;
+}
 label #cancel{
   z-index: 1111;
   left: -195px;
-  top: 17px;
+  top: 10px;
   font-size: 30px;
   color: red;
-  padding: 4px 9px;
+  padding: 4px 14px;
   transition: all .5s ease;
 }
 #check:checked ~ .sidebar{
@@ -139,7 +168,7 @@ label #cancel{
   margin-left: 250px;
 }
 section{
-  background: url(../img/night-flight.jpg) no-repeat;
+  background: url(https://cdn.pixabay.com/photo/2020/03/14/21/00/transport-4931786_960_720.jpg) no-repeat;
 
  
   background-position: center;
