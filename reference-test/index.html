@@ -9,6 +9,7 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 </head>
 
 <style>
@@ -29,7 +30,7 @@
 
 <body>
 
-
+    <h1 id="main-tittle" ></h1>
 
     <input type="checkbox" id="check">
     <label for="check">
@@ -92,16 +93,59 @@
         </ul>
     </div>
     <section>
-        <img src="static/img/ECS_Logo_2020.png" class="top_left logo_ecs" id="logo" onclick="newDoc()">
+        <img src="static/img/ECS_Logo_2020.png" class="logo_ecs" id="logo" onclick="newDoc()">
 
-        <h1 id="main-tittle" >Reference Data</h1>
+        
 
    
 
         <iframe id="show_pages" style="width:100%;border:none;height:100%">
     </section>
 
+<<<<<<< HEAD
    
+=======
+    <script>
+        $(document).ready(function(){
+
+            $("#main-tittle").show();
+
+         
+
+                $("ul li").click(function(){
+                    $("#main-tittle").hide(1000);
+                  });
+          
+          });
+
+          newDoc() {
+            <a href ="../index.html"></a>
+
+          };
+    </script>
+
+    <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a
+            href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+    <div>Icons made by <a href="https://www.flaticon.com/authors/gregor-cresnar" title="Gregor Cresnar">Gregor
+            Cresnar</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+    <div>Icons made by <a href="https://www.flaticon.com/authors/good-ware" title="Good Ware">Good Ware</a> from <a
+            href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+    <div>Icons made by <a href="https://www.flaticon.com/authors/turkkub" title="turkkub">turkkub</a> from <a
+            href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+    <div>Icons made by <a href="https://www.flaticon.com/authors/smartline" title="Smartline">Smartline</a> from <a
+            href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+    <div>Icons made by <a href="https://www.flaticon.com/authors/monkik" title="monkik">monkik</a> from <a
+            href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+    <div>Icons made by <a href="https://www.flaticon.com/authors/geotatah" title="geotatah">geotatah</a> from <a
+            href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+    <div>Icons made by <a href="https://www.flaticon.com/authors/smalllikeart" title="smalllikeart">smalllikeart</a>
+        from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+    <div>Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a
+            href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+    <div>Icons made by <a href="https://www.flaticon.com/authors/flat-icons" title="Flat Icons">Flat Icons</a> from <a
+            href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+
+>>>>>>> 29045d26a56e392eb441dd40458ff4fcf3a011ab
 </body>
 
 </html>
