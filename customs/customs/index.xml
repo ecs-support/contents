@@ -666,8 +666,10 @@
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/cover/ECS-Cover-permission-goods.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;h2&gt;Table of Contents&lt;/h2&gt;
-HAHAHUGOSHORTCODE-TOC0-HBHB&lt;/p&gt;
+&lt;div class=&#34;toc-contents&#34;&gt;
+    &lt;h2&gt;Contents&lt;/h2&gt;
+HAHAHUGOSHORTCODE-TOC0-HBHB
+&lt;/div&gt;
 
 &lt;h2 id=&#34;ของต-องห-าม&#34;&gt;ของต้องห้าม&lt;/h2&gt;
 
