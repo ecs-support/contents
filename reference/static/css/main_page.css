@@ -144,6 +144,10 @@ label #btn{
 label #btn:hover {
   color: red;
   cursor: pointer;
+  transition: .4s;
+  background-color: rgba(0, 0 ,0, .05);
+  border: 2.5px solid red;
+  border-radius: 10px;
 }
 label #cancel{
   z-index: 1111;
