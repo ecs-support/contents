@@ -417,12 +417,7 @@
     &lt;p&gt;&lt;strong&gt;สรุป Incoterms®2020 (เริ่มใช้เมื่อ 1 มกราคม 2020)&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;&lt;p&gt;ในส่วนที่เกี่ยวข้องกับระบบ ECS มีในส่วนที่ Incoterms®2020 &lt;em&gt;เพิ่ม Term DPU&lt;/em&gt; ขึ้นมาใหม่ และ &lt;em&gt;ตัด Term DAT&lt;/em&gt; ออก&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;เราทดสอบส่ง Term DPU ทั้งขาเข้า-ขาออก ไม่ติด Error กรมศุลฯ จึงรองรับ Term ดังกล่าวแล้ว&lt;/li&gt;
-&lt;li&gt;แจ้งโปรแกรมเมอร์เพิ่ม Term DPU ในระบบแล้ว&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Incoterms®2020 &lt;em&gt;เพิ่ม Term DPU&lt;/em&gt; ขึ้นมาใหม่ และ &lt;em&gt;ตัด Term DAT&lt;/em&gt; ออก&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;Incoterms เป็นข้อตกลง ระหว่างผู้ซื้อ และผู้ขาย ในการซื้อขายสินค้าระหว่างประเทศ เพื่อกำหนดหน้าที่ความรับผิดชอบในการจัดส่ง การขนส่ง การประกันภัยการรับมอบสินค้า ทุก ๆ 10 ปี จะมีการแก้ไขปรับปรุงที่สำคัญหนึ่งครั้ง&lt;/p&gt;&lt;/li&gt;
 
