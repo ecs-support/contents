@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500');
+@import url('https://fonts.googleapis.com/css?family=Roboto:100');
 *{
   padding: 0;
   margin: 0;
@@ -173,7 +173,7 @@ label #cancel{
   margin-left: 250px;
 }
 section{
-  background: url(https://cdn.pixabay.com/photo/2020/03/14/21/00/transport-4931786_960_720.jpg) no-repeat;
+  background: url(https://cdn.pixabay.com/photo/2018/05/15/23/02/football-stadium-3404535_960_720.jpg) no-repeat;
 
  
   background-position: center;

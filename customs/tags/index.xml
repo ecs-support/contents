@@ -7,10 +7,37 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
-    <lastBuildDate>Mon, 13 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ecs-support.github.io/KM/customs/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>กองพิกัดอัตราศุลกากร</title>
+      <link>https://ecs-support.github.io/KM/customs/tags/%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%81%E0%B8%94%E0%B8%AD%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/tags/%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%81%E0%B8%94%E0%B8%AD%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>หนังสือรับรองถิ่นกำเนิดสินค้า</title>
+      <link>https://ecs-support.github.io/KM/customs/tags/%E0%B8%AB%E0%B8%99%E0%B8%87%E0%B8%AA%E0%B8%AD%E0%B8%A3%E0%B8%9A%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%96%E0%B8%99%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%94%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/tags/%E0%B8%AB%E0%B8%99%E0%B8%87%E0%B8%AA%E0%B8%AD%E0%B8%A3%E0%B8%9A%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%96%E0%B8%99%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%94%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>อินเดีย</title>
+      <link>https://ecs-support.github.io/KM/customs/tags/%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%A2/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/tags/%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%A2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>กรมศุลกากร</title>
@@ -328,7 +355,7 @@
     </item>
     
     <item>
-      <title>Robotics</title>
+      <title>robotics</title>
       <link>https://ecs-support.github.io/KM/customs/tags/robotics/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       

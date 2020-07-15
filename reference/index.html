@@ -11,6 +11,16 @@
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 </head>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+    $(document).ready(function () {
+        
+        $("#show_pages").ischange(function () {
+            $("#header-img").hide();
+        });
+       
+    });
+</script>
 
 <style>
     .logo_ecs {
@@ -25,6 +35,16 @@
         position: absolute;
         bottom: 15px;
         right: 25px;
+    }
+    .claim {
+    color: #dbdbdb;
+    font-size: 4em;
+    top: 40%;
+    left: 50%;
+    position: absolute;
+    text-align: center;
+    letter-spacing: 2px;
+
     }
 </style>
 
@@ -95,6 +115,7 @@
     <section>
         <img src="static/img/ECS_Logo_2020.png" class="logo_ecs" id="logo" onclick="newDoc()">
 
+  <!--  <p id = "header-img" class="claim">Customs Reference Data</p>  -->
         
 
    
