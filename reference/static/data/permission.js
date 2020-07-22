@@ -47609,7 +47609,7 @@ var dataSet = [
   [
     "72254090",
     "031",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "มีคาร์บอนน้อยกว่าร้อยละ 0.6 โดยน้ำหนัก สำหรับการใช้งานอื่นๆ เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีธาตุเจือ ธาตุอื่นที่ถึงเกณฑ์การเป็นเหล็กกล้าเจืออื่นๆ และมีความหนาเกิน 50 มิลลิเมตร และมีความกว้างเกิน 3048 มม.",
     "Containing by weight less than 0.6% of carbon , for general use, containing by weight 0.3% or more of chromium without other alloyed , of a thickness exceeding 50 mm and of a width exceeding 3048 mm",
@@ -47618,7 +47618,7 @@ var dataSet = [
   [
     "72254090",
     "031",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "มีคาร์บอนน้อยกว่าร้อยละ 0.6 โดยน้ำหนัก สำหรับการใช้งานอื่นๆ เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีธาตุเจือ ธาตุอื่นที่ถึงเกณฑ์การเป็นเหล็กกล้าเจืออื่นๆ และมีความหนาเกิน 50 มิลลิเมตร และมีความกว้างเกิน 3048 มม.",
     "Containing by weight less than 0.6% of carbon , for general use, containing by weight 0.3% or more of chromium without other alloyed , of a thickness exceeding 50 mm and of a width exceeding 3048 mm",
@@ -47645,7 +47645,7 @@ var dataSet = [
   [
     "72254090",
     "033",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "มีคาร์บอนน้อยกว่าร้อยละ 0.6 โดยน้ำหนัก สำหรับการใช้งานอื่นๆ เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีธาตุเจือ ธาตุอื่นที่ถึงเกณฑ์การเป็นเหล็กกล้าเจืออื่นๆ และ มีความหนาไม่เกิน 50 มิลลิเมตร และมีความกว้างเกิน 3048 มม.",
     "Containing by weight less than 0.6% of carbon , for general use, containing by weight 0.3% or more of chromium without other alloyed, of a thickness not exceeding 50 mm and of a width exceeding 3048 mm",
@@ -47654,7 +47654,7 @@ var dataSet = [
   [
     "72254090",
     "033",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "มีคาร์บอนน้อยกว่าร้อยละ 0.6 โดยน้ำหนัก สำหรับการใช้งานอื่นๆ เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีธาตุเจือ ธาตุอื่นที่ถึงเกณฑ์การเป็นเหล็กกล้าเจืออื่นๆ และ มีความหนาไม่เกิน 50 มิลลิเมตร และมีความกว้างเกิน 3048 มม.",
     "Containing by weight less than 0.6% of carbon , for general use, containing by weight 0.3% or more of chromium without other alloyed, of a thickness not exceeding 50 mm and of a width exceeding 3048 mm",
@@ -47699,7 +47699,7 @@ var dataSet = [
   [
     "72255090",
     "010",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ไม่ผ่านการอบอ่อน ที่มีคาร์บอนน้อยกว่าร้อยละ 0.01 โดยน้ำหนัก",
     "Containing by weight 0.0008 % or more of boron without other alloyed, unanneal, contaning by weight less than 0.01% of carbon",
@@ -47708,7 +47708,7 @@ var dataSet = [
   [
     "72255090",
     "010",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ไม่ผ่านการอบอ่อน ที่มีคาร์บอนน้อยกว่าร้อยละ 0.01 โดยน้ำหนัก",
     "Containing by weight 0.0008 % or more of boron without other alloyed, unanneal, contaning by weight less than 0.01% of carbon",
@@ -47717,7 +47717,7 @@ var dataSet = [
   [
     "72255090",
     "013",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ไม่ผ่านการอบอ่อน ที่มีคาร์บอนตั้งแต่ร้อยละ 0.01 แต่ไม่เกินร้อยละ 0.10 โดยน้ำหนัก และมีความกว้างเกิน 1550 มิลลิเมตร",
     "Containing by weight 0.0008 % or more of boron without other alloyed, unanneal, contaning by weight 0.01% or more but not more than 0.10% of carbon and of a width exceeding 1550 mm",
@@ -47726,7 +47726,7 @@ var dataSet = [
   [
     "72255090",
     "013",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ไม่ผ่านการอบอ่อน ที่มีคาร์บอนตั้งแต่ร้อยละ 0.01 แต่ไม่เกินร้อยละ 0.10 โดยน้ำหนัก และมีความกว้างเกิน 1550 มิลลิเมตร",
     "Containing by weight 0.0008 % or more of boron without other alloyed, unanneal, contaning by weight 0.01% or more but not more than 0.10% of carbon and of a width exceeding 1550 mm",
@@ -47807,7 +47807,7 @@ var dataSet = [
   [
     "72255090",
     "018",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ไม่ผ่านการอบอ่อน ที่มีคาร์บอนมากกว่าร้อยละ 0.18 แต่น้อยกว่าร้อยละ 0.25 โดยน้ำหนัก และมีความกว้างไม่เกิน 1550 มิลลิเมตร",
     "Containing by weight 0.0008 % or more of boron without other alloyed, unanneal, contaning by weight more than 0.18% but less than 0.25% of carbon and of a width not exceeding 1550 mm",
@@ -47816,7 +47816,7 @@ var dataSet = [
   [
     "72255090",
     "018",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ไม่ผ่านการอบอ่อน ที่มีคาร์บอนมากกว่าร้อยละ 0.18 แต่น้อยกว่าร้อยละ 0.25 โดยน้ำหนัก และมีความกว้างไม่เกิน 1550 มิลลิเมตร",
     "Containing by weight 0.0008 % or more of boron without other alloyed, unanneal, contaning by weight more than 0.18% but less than 0.25% of carbon and of a width not exceeding 1550 mm",
@@ -47825,7 +47825,7 @@ var dataSet = [
   [
     "72255090",
     "019",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ไม่ผ่านการอบอ่อน ที่มีคาร์บอนตั้งแต่ร้อยละ 0.25 โดยน้ำหนัก และมีความกว้างไม่เกิน 1550 มิลลิเมตร",
     "Containing by weight 0.0008 % or more of boron without other alloyed, unanneal, contaning by weight 0.25% or more of carbon and of a width not exceeding 1550 mm",
@@ -47834,7 +47834,7 @@ var dataSet = [
   [
     "72255090",
     "019",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ไม่ผ่านการอบอ่อน ที่มีคาร์บอนตั้งแต่ร้อยละ 0.25 โดยน้ำหนัก และมีความกว้างไม่เกิน 1550 มิลลิเมตร",
     "Containing by weight 0.0008 % or more of boron without other alloyed, unanneal, contaning by weight 0.25% or more of carbon and of a width not exceeding 1550 mm",
@@ -47843,7 +47843,7 @@ var dataSet = [
   [
     "72255090",
     "021",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน มีความต้านแรงดึงน้อยกว่า 340 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ที่มีคาร์บอนน้อยกว่าร้อยละ 0.01 โดยน้ำหนัก และมีความกว้างเกิน 1550 มิลลิเมตร",
     "Containing by weight 0.0008 % or more of boron without other alloyed, anneal, tensile strength less than 340 MPa(N/mm2), containing by weight less than 0.01% of carbon and of a width exceeding 1550 mm",
@@ -47852,7 +47852,7 @@ var dataSet = [
   [
     "72255090",
     "021",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน มีความต้านแรงดึงน้อยกว่า 340 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ที่มีคาร์บอนน้อยกว่าร้อยละ 0.01 โดยน้ำหนัก และมีความกว้างเกิน 1550 มิลลิเมตร",
     "Containing by weight 0.0008 % or more of boron without other alloyed, anneal, tensile strength less than 340 MPa(N/mm2), containing by weight less than 0.01% of carbon and of a width exceeding 1550 mm",
@@ -47861,7 +47861,7 @@ var dataSet = [
   [
     "72255090",
     "022",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน มีความต้านแรงดึงน้อยกว่า 340 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ที่มีคาร์บอนน้อยกว่าร้อยละ 0.01 โดยน้ำหนัก และมีความกว้างไม่เกิน 1550 มิลลิเมตร",
     "Containing by weight 0.0008 % or more of boron without other alloyed, anneal, tensile strength less than 340 MPa(N/mm2), containing by weight less than 0.01% of carbon and of a width not exceeding 1550 mm",
@@ -47870,7 +47870,7 @@ var dataSet = [
   [
     "72255090",
     "022",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน มีความต้านแรงดึงน้อยกว่า 340 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ที่มีคาร์บอนน้อยกว่าร้อยละ 0.01 โดยน้ำหนัก และมีความกว้างไม่เกิน 1550 มิลลิเมตร",
     "Containing by weight 0.0008 % or more of boron without other alloyed, anneal, tensile strength less than 340 MPa(N/mm2), containing by weight less than 0.01% of carbon and of a width not exceeding 1550 mm",
@@ -47897,7 +47897,7 @@ var dataSet = [
   [
     "72255090",
     "024",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน มีความต้านแรงดึงน้อยกว่า 340 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ที่มีคาร์บอนตั้งแต่ร้อยละ 0.01 แต่ไม่เกินร้อยละ 0.10 โดยน้ำหนัก และมีความกว้างไม่เกิน 1550 มิลลิเมตร",
     "Containing by weight 0.0008 % or more of boron without other alloyed, anneal, tensile strength less than 340 MPa(N/mm2), containing by weight 0.01% or more but not more than 0.10% of carbon and of a width not exceeding 1550 mm",
@@ -47906,19 +47906,10 @@ var dataSet = [
   [
     "72255090",
     "024",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน มีความต้านแรงดึงน้อยกว่า 340 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ที่มีคาร์บอนตั้งแต่ร้อยละ 0.01 แต่ไม่เกินร้อยละ 0.10 โดยน้ำหนัก และมีความกว้างไม่เกิน 1550 มิลลิเมตร",
     "Containing by weight 0.0008 % or more of boron without other alloyed, anneal, tensile strength less than 340 MPa(N/mm2), containing by weight 0.01% or more but not more than 0.10% of carbon and of a width not exceeding 1550 mm",
-    "20190801",
-  ],
-  [
-    "72255090",
-    "031",
-    "ส่งออก",
-    "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
-    "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน เหล็กความต้านแรงดึงสูง มีความต้านแรงดึงตั้งแต่ 340 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ขึ้นไป แต่น้อยกว่า 590 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ที่มีคาร์บอนน้อยกว่าร้อยละ 0.",
-    "Containing by weight 0.0008 % or more of boron without other alloyed, anneal, high tensile of tensile strength 340 MPa(N/mm2), or more but less than 590 MPa(N/mm2), containing by weight  less than 0.01% of carbon and of a width exceeding 1550 mm",
     "20190801",
   ],
   [
@@ -47932,11 +47923,11 @@ var dataSet = [
   ],
   [
     "72255090",
-    "032",
-    "นำเข้า",
+    "031",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
-    "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน เหล็กความต้านแรงดึงสูง มีความต้านแรงดึงตั้งแต่ 340 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ขึ้นไป แต่น้อยกว่า 590 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ที่มีคาร์บอนน้อยกว่าร้อยละ 0.01 และมีความกว้างไม่เกิน 1550 มิลลิเมตร",
-    "Containing by weight 0.0008 % or more of boron without other alloyed, anneal, high tensile of tensile strength 440 MPa(N/mm2), or more but less than 590 MPa(N/mm2), containing by weight  less than 0.01% of carbon and of a width not exceeding 1550 mm",
+    "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน เหล็กความต้านแรงดึงสูง มีความต้านแรงดึงตั้งแต่ 340 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ขึ้นไป แต่น้อยกว่า 590 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ที่มีคาร์บอนน้อยกว่าร้อยละ 0.",
+    "Containing by weight 0.0008 % or more of boron without other alloyed, anneal, high tensile of tensile strength 340 MPa(N/mm2), or more but less than 590 MPa(N/mm2), containing by weight  less than 0.01% of carbon and of a width exceeding 1550 mm",
     "20190801",
   ],
   [
@@ -47945,6 +47936,15 @@ var dataSet = [
     "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน เหล็กความต้านแรงดึงสูง มีความต้านแรงดึงตั้งแต่ 340 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ขึ้นไป แต่น้อยกว่า 590 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ที่มีคาร์บอนน้อยกว่าร้อยละ 0.",
+    "Containing by weight 0.0008 % or more of boron without other alloyed, anneal, high tensile of tensile strength 440 MPa(N/mm2), or more but less than 590 MPa(N/mm2), containing by weight  less than 0.01% of carbon and of a width not exceeding 1550 mm",
+    "20190801",
+  ],
+  [
+    "72255090",
+    "032",
+    "นำเข้า",
+    "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
+    "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน เหล็กความต้านแรงดึงสูง มีความต้านแรงดึงตั้งแต่ 340 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ขึ้นไป แต่น้อยกว่า 590 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ที่มีคาร์บอนน้อยกว่าร้อยละ 0.01 และมีความกว้างไม่เกิน 1550 มิลลิเมตร",
     "Containing by weight 0.0008 % or more of boron without other alloyed, anneal, high tensile of tensile strength 440 MPa(N/mm2), or more but less than 590 MPa(N/mm2), containing by weight  less than 0.01% of carbon and of a width not exceeding 1550 mm",
     "20190801",
   ],
@@ -47969,19 +47969,19 @@ var dataSet = [
   [
     "72255090",
     "034",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
-    "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน เหล็กความต้านแรงดึงสูง มีความต้านแรงดึงตั้งแต่ 340 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ขึ้นไป แต่น้อยกว่า 590 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ที่มีคาร์บอนตั้งแต่ร้อยละ 0.01 แต่ไม่เกินร้อยละ 0.10 โดยน้ำหนัก และมีความกว้างไม่เกิน 1550 มิลลิเมตร",
-    "Containing by weight 0.0008 % or more of boron without other alloyed, anneal, high tensile of tensile strength 340 MPa(N/mm2), or more but less than 590 MPa(N/mm2), containing by weight 0.01% or more but not more than 0.10% of carbon and of a width not exceeding 1550 mm",
+    "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน เหล็กความต้านแรงดึงสูง มีความต้านแรงดึงตั้งแต่ 340 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ขึ้นไป แต่น้อยกว่า 590 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ที่มีคาร์บอนตั้งแต่ร้อยละ 0.0",
+    "Containing by weight 0.0008 % or more of boron without other alloyed, anneal, high tensile of tensile strength 340 MPa(N/mm2), or more but less than 590 MPa(N/mm2), containing by weight 0.01% or more but not more than 0.10% of carbon and of a width not ex",
     "20190801",
   ],
   [
     "72255090",
     "034",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
-    "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน เหล็กความต้านแรงดึงสูง มีความต้านแรงดึงตั้งแต่ 340 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ขึ้นไป แต่น้อยกว่า 590 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ที่มีคาร์บอนตั้งแต่ร้อยละ 0.0",
-    "Containing by weight 0.0008 % or more of boron without other alloyed, anneal, high tensile of tensile strength 340 MPa(N/mm2), or more but less than 590 MPa(N/mm2), containing by weight 0.01% or more but not more than 0.10% of carbon and of a width not ex",
+    "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน เหล็กความต้านแรงดึงสูง มีความต้านแรงดึงตั้งแต่ 340 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ขึ้นไป แต่น้อยกว่า 590 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ที่มีคาร์บอนตั้งแต่ร้อยละ 0.01 แต่ไม่เกินร้อยละ 0.10 โดยน้ำหนัก และมีความกว้างไม่เกิน 1550 มิลลิเมตร",
+    "Containing by weight 0.0008 % or more of boron without other alloyed, anneal, high tensile of tensile strength 340 MPa(N/mm2), or more but less than 590 MPa(N/mm2), containing by weight 0.01% or more but not more than 0.10% of carbon and of a width not exceeding 1550 mm",
     "20190801",
   ],
   [
@@ -48023,7 +48023,7 @@ var dataSet = [
   [
     "72255090",
     "037",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน เหล็กความต้านแรงดึงสูง มีความต้านแรงดึงตั้งแต่ 590 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ขึ้นไป และมีความกว้างเกิน 1550มิลลิเมตร",
     "Containing by weight 0.0008 % or more of boron without other alloyed, anneal, high tensile of tensile strength 590 MPa(N/mm2), or more and of a width exceeding 1550 mm",
@@ -48032,7 +48032,7 @@ var dataSet = [
   [
     "72255090",
     "037",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน เหล็กความต้านแรงดึงสูง มีความต้านแรงดึงตั้งแต่ 590 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ขึ้นไป และมีความกว้างเกิน 1550มิลลิเมตร",
     "Containing by weight 0.0008 % or more of boron without other alloyed, anneal, high tensile of tensile strength 590 MPa(N/mm2), or more and of a width exceeding 1550 mm",
@@ -48041,7 +48041,7 @@ var dataSet = [
   [
     "72255090",
     "038",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน เหล็กความต้านแรงดึงสูง มีความต้านแรงดึงตั้งแต่ 590 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ขึ้นไป และมีความกว้างไม่เกิน 1550 มิลลิเมตร",
     "Containing by weight 0.0008 % or more of boron without other alloyed, anneal, high tensile of tensile strength 590 MPa(N/mm2), or more and of a width not exceeding 1550 mm",
@@ -48050,7 +48050,7 @@ var dataSet = [
   [
     "72255090",
     "038",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน เหล็กความต้านแรงดึงสูง มีความต้านแรงดึงตั้งแต่ 590 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ขึ้นไป และมีความกว้างไม่เกิน 1550 มิลลิเมตร",
     "Containing by weight 0.0008 % or more of boron without other alloyed, anneal, high tensile of tensile strength 590 MPa(N/mm2), or more and of a width not exceeding 1550 mm",
@@ -48059,7 +48059,7 @@ var dataSet = [
   [
     "72255090",
     "041",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน มีคาร์บอนมากกว่าร้อยละ 0.18 ขึ้นไป แต่น้อยกว่าร้อยละ 0.25 โดยน้ำหนัก และมีความกว้างเกิน 1550 มิลลิเมตร",
     "Containing by weight 0.0008 % or more of boron without other alloyed, anneal, containing by weight more than 0.18% but less than 0.25% of carbon and of a width exceeding 1550 mm",
@@ -48068,7 +48068,7 @@ var dataSet = [
   [
     "72255090",
     "041",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน มีคาร์บอนมากกว่าร้อยละ 0.18 ขึ้นไป แต่น้อยกว่าร้อยละ 0.25 โดยน้ำหนัก และมีความกว้างเกิน 1550 มิลลิเมตร",
     "Containing by weight 0.0008 % or more of boron without other alloyed, anneal, containing by weight more than 0.18% but less than 0.25% of carbon and of a width exceeding 1550 mm",
@@ -48095,7 +48095,7 @@ var dataSet = [
   [
     "72255090",
     "043",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน มีคาร์บอนตั้งแต่ร้อยละ 0.25 ขึ้นไป โดยน้ำหนัก และมีความกว้างไม่เกิน 1550 มิลลิเมตร",
     "Containing by weight 0.0008 % or more of boron without other alloyed, anneal, containing by weight 0.25% or more of carbon and of a width not exceeding 1550 mm",
@@ -48104,7 +48104,7 @@ var dataSet = [
   [
     "72255090",
     "043",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน มีคาร์บอนตั้งแต่ร้อยละ 0.25 ขึ้นไป โดยน้ำหนัก และมีความกว้างไม่เกิน 1550 มิลลิเมตร",
     "Containing by weight 0.0008 % or more of boron without other alloyed, anneal, containing by weight 0.25% or more of carbon and of a width not exceeding 1550 mm",
@@ -48113,7 +48113,7 @@ var dataSet = [
   [
     "72255090",
     "049",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "อื่นๆ ที่เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ",
     "Other, containing by weight 0.0008 % or more of boron without other alloyed",
@@ -48122,7 +48122,7 @@ var dataSet = [
   [
     "72255090",
     "049",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "อื่นๆ ที่เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ",
     "Other, containing by weight 0.0008 % or more of boron without other alloyed",
@@ -48149,7 +48149,7 @@ var dataSet = [
   [
     "72255090",
     "052",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ไม่ผ่านการอบอ่อน ที่มีคาร์บอนน้อยกว่าร้อยละ 0.01 โดยน้ำหนัก และมีความกว้างไม่เกิน 1550 มิลลิเมตร",
     "Containing by weight 0.3 % or more of chromium without other alloyed, unanneal, contaning by weight less than 0.01% of carbon and of a width not exceeding 1550 mm",
@@ -48158,7 +48158,7 @@ var dataSet = [
   [
     "72255090",
     "052",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ไม่ผ่านการอบอ่อน ที่มีคาร์บอนน้อยกว่าร้อยละ 0.01 โดยน้ำหนัก และมีความกว้างไม่เกิน 1550 มิลลิเมตร",
     "Containing by weight 0.3 % or more of chromium without other alloyed, unanneal, contaning by weight less than 0.01% of carbon and of a width not exceeding 1550 mm",
@@ -48203,7 +48203,7 @@ var dataSet = [
   [
     "72255090",
     "055",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ไม่ผ่านการอบอ่อน ที่มีคาร์บอนมากกว่าร้อยละ 0.10 แต่ไม่เกินร้อยละ 0.18 โดยน้ำหนัก และมีความกว้างเกิน 1550 มิลลิเมตร",
     "Containing by weight 0.3 % or more of chromium without other alloyed, unanneal, contaning by weight 0.10% or more but not exceeding 0.18% of carbon and of a width exceeding 1550 mm",
@@ -48212,7 +48212,7 @@ var dataSet = [
   [
     "72255090",
     "055",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ไม่ผ่านการอบอ่อน ที่มีคาร์บอนมากกว่าร้อยละ 0.10 แต่ไม่เกินร้อยละ 0.18 โดยน้ำหนัก และมีความกว้างเกิน 1550 มิลลิเมตร",
     "Containing by weight 0.3 % or more of chromium without other alloyed, unanneal, contaning by weight 0.10% or more but not exceeding 0.18% of carbon and of a width exceeding 1550 mm",
@@ -48239,7 +48239,7 @@ var dataSet = [
   [
     "72255090",
     "057",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ไม่ผ่านการอบอ่อน ที่มีคาร์บอนมากกว่าร้อยละ 0.18 แต่น้อยกว่าร้อยละ 0.25 โดยน้ำหนัก และมีความกว้างไม่เกิน 1550 มิลลิเมตร",
     "Containing by weight 0.3 % or more of chromium without other alloyed, unanneal, contaning by weight more than 0.18% but less than 0.25% of carbon and of a width not exceeding 1550 mm",
@@ -48248,7 +48248,7 @@ var dataSet = [
   [
     "72255090",
     "057",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ไม่ผ่านการอบอ่อน ที่มีคาร์บอนมากกว่าร้อยละ 0.18 แต่น้อยกว่าร้อยละ 0.25 โดยน้ำหนัก และมีความกว้างไม่เกิน 1550 มิลลิเมตร",
     "Containing by weight 0.3 % or more of chromium without other alloyed, unanneal, contaning by weight more than 0.18% but less than 0.25% of carbon and of a width not exceeding 1550 mm",
@@ -48293,7 +48293,7 @@ var dataSet = [
   [
     "72255090",
     "062",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน มีความต้านแรงดึงน้อยกว่า 340 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ที่มีคาร์บอนน้อยกว่าร้อยละ 0.01 โดยน้ำหนัก และมีความกว้างไม่เกิน 1550 มิลลิเมตร",
     "Containing by weight 0.3 % or more of chromium without other alloyed, anneal, tensile strength less than 340 MPa(N/mm2), containing by weight less than 0.01% of carbon and of a width not exceeding 1550 mm",
@@ -48302,7 +48302,7 @@ var dataSet = [
   [
     "72255090",
     "062",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน มีความต้านแรงดึงน้อยกว่า 340 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ที่มีคาร์บอนน้อยกว่าร้อยละ 0.01 โดยน้ำหนัก และมีความกว้างไม่เกิน 1550 มิลลิเมตร",
     "Containing by weight 0.3 % or more of chromium without other alloyed, anneal, tensile strength less than 340 MPa(N/mm2), containing by weight less than 0.01% of carbon and of a width not exceeding 1550 mm",
@@ -48311,7 +48311,7 @@ var dataSet = [
   [
     "72255090",
     "063",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน มีความต้านแรงดึงน้อยกว่า 340 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ที่มีคาร์บอนตั้งแต่ร้อยละ 0.01 แต่ไม่เกินร้อยละ 0.10 โดยน้ำหนัก และมีความกว้างเกิน 1550 มิลลิเมตร",
     "Containing by weight 0.3 % or more of chromium without other alloyed, anneal, tensile strength less than 340 MPa(N/mm2), containing by weight 0.01% or more but not more than 0.10% of carbon and of a width exceeding 1550 mm",
@@ -48320,7 +48320,7 @@ var dataSet = [
   [
     "72255090",
     "063",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน มีความต้านแรงดึงน้อยกว่า 340 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ที่มีคาร์บอนตั้งแต่ร้อยละ 0.01 แต่ไม่เกินร้อยละ 0.10 โดยน้ำหนัก และมีความกว้างเกิน 1550 มิลลิเมตร",
     "Containing by weight 0.3 % or more of chromium without other alloyed, anneal, tensile strength less than 340 MPa(N/mm2), containing by weight 0.01% or more but not more than 0.10% of carbon and of a width exceeding 1550 mm",
@@ -48347,18 +48347,18 @@ var dataSet = [
   [
     "72255090",
     "071",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
-    "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน เหล็กความต้านแรงดึงสูง มีความต้านแรงดึงตั้งแต่ 340 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ขึ้นไป แต่น้อยกว่า 590 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ที่มีคาร์บอนน้อยกว่าร้อยละ 0.01 และมีความกว้างเกิน 1550 มิลลิเมตร",
+    "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน เหล็กความต้านแรงดึงสูง มีความต้านแรงดึงตั้งแต่ 340 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ขึ้นไป แต่น้อยกว่า 590 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ที่มีคาร์บอนน้อยกว่าร้อยละ 0.",
     "Containing by weight 0.3 % or more of chromium without other alloyed, anneal, high tensile of tensile strength 340 MPa(N/mm2), or more but less than 590 MPa(N/mm2), containing by weight  less than 0.01% of carbon and of a width exceeding 1550 mm",
     "20190801",
   ],
   [
     "72255090",
     "071",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
-    "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน เหล็กความต้านแรงดึงสูง มีความต้านแรงดึงตั้งแต่ 340 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ขึ้นไป แต่น้อยกว่า 590 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ที่มีคาร์บอนน้อยกว่าร้อยละ 0.",
+    "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน เหล็กความต้านแรงดึงสูง มีความต้านแรงดึงตั้งแต่ 340 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ขึ้นไป แต่น้อยกว่า 590 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ที่มีคาร์บอนน้อยกว่าร้อยละ 0.01 และมีความกว้างเกิน 1550 มิลลิเมตร",
     "Containing by weight 0.3 % or more of chromium without other alloyed, anneal, high tensile of tensile strength 340 MPa(N/mm2), or more but less than 590 MPa(N/mm2), containing by weight  less than 0.01% of carbon and of a width exceeding 1550 mm",
     "20190801",
   ],
@@ -48401,19 +48401,19 @@ var dataSet = [
   [
     "72255090",
     "074",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
-    "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน เหล็กความต้านแรงดึงสูง มีความต้านแรงดึงตั้งแต่ 340 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ขึ้นไป แต่น้อยกว่า 590 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ที่มีคาร์บอนตั้งแต่ร้อยละ 0.01 แต่ไม่เกินร้อยละ 0.10 โดยน้ำหนัก และมีความกว้างไม่เกิน 1550 มิลลิเมตร",
-    "Containing by weight 0.3 % or more of chromium without other alloyed, anneal,high tensile of tensile strength 340 MPa(N/mm2), or more but less than 590 MPa(N/mm2), containing by weight 0.01% or more but not more than 0.10% of carbon and of a width not exceeding 1550 mm",
+    "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน เหล็กความต้านแรงดึงสูง มีความต้านแรงดึงตั้งแต่ 340 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ขึ้นไป แต่น้อยกว่า 590 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ที่มีคาร์บอนตั้งแต่ร้อยละ 0.0",
+    "Containing by weight 0.3 % or more of chromium without other alloyed, anneal,high tensile of tensile strength 340 MPa(N/mm2), or more but less than 590 MPa(N/mm2), containing by weight 0.01% or more but not more than 0.10% of carbon and of a width not exc",
     "20190801",
   ],
   [
     "72255090",
     "074",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
-    "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน เหล็กความต้านแรงดึงสูง มีความต้านแรงดึงตั้งแต่ 340 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ขึ้นไป แต่น้อยกว่า 590 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ที่มีคาร์บอนตั้งแต่ร้อยละ 0.0",
-    "Containing by weight 0.3 % or more of chromium without other alloyed, anneal,high tensile of tensile strength 340 MPa(N/mm2), or more but less than 590 MPa(N/mm2), containing by weight 0.01% or more but not more than 0.10% of carbon and of a width not exc",
+    "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน เหล็กความต้านแรงดึงสูง มีความต้านแรงดึงตั้งแต่ 340 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ขึ้นไป แต่น้อยกว่า 590 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ที่มีคาร์บอนตั้งแต่ร้อยละ 0.01 แต่ไม่เกินร้อยละ 0.10 โดยน้ำหนัก และมีความกว้างไม่เกิน 1550 มิลลิเมตร",
+    "Containing by weight 0.3 % or more of chromium without other alloyed, anneal,high tensile of tensile strength 340 MPa(N/mm2), or more but less than 590 MPa(N/mm2), containing by weight 0.01% or more but not more than 0.10% of carbon and of a width not exceeding 1550 mm",
     "20190801",
   ],
   [
@@ -48473,7 +48473,7 @@ var dataSet = [
   [
     "72255090",
     "078",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน เหล็กความต้านแรงดึงสูง มีความต้านแรงดึงตั้งแต่ 590 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ขึ้นไป และมีความกว้างไม่เกิน 1550 มิลลิเมตร",
     "Containing by weight 0.3 % or more of chromium without other alloyed, anneal,high tensile of tensile strength 590 MPa(N/mm2), or more and of a width not exceeding 1550 mm",
@@ -48482,7 +48482,7 @@ var dataSet = [
   [
     "72255090",
     "078",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน เหล็กความต้านแรงดึงสูง มีความต้านแรงดึงตั้งแต่ 590 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ขึ้นไป และมีความกว้างไม่เกิน 1550 มิลลิเมตร",
     "Containing by weight 0.3 % or more of chromium without other alloyed, anneal,high tensile of tensile strength 590 MPa(N/mm2), or more and of a width not exceeding 1550 mm",
@@ -48491,7 +48491,7 @@ var dataSet = [
   [
     "72255090",
     "081",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน มีคาร์บอนมากกว่าร้อยละ 0.18 ขึ้นไป แต่น้อยกว่าร้อยละ 0.25 โดยน้ำหนัก และมีความกว้างเกิน 1550 มิลลิเมตร",
     "Containing by weight 0.3 % or more of chromium without other alloyed, anneal,containing by weight more than 0.18% but less than 0.25% of carbon and of a width exceeding 1550 mm",
@@ -48500,7 +48500,7 @@ var dataSet = [
   [
     "72255090",
     "081",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน มีคาร์บอนมากกว่าร้อยละ 0.18 ขึ้นไป แต่น้อยกว่าร้อยละ 0.25 โดยน้ำหนัก และมีความกว้างเกิน 1550 มิลลิเมตร",
     "Containing by weight 0.3 % or more of chromium without other alloyed, anneal,containing by weight more than 0.18% but less than 0.25% of carbon and of a width exceeding 1550 mm",
@@ -48509,7 +48509,7 @@ var dataSet = [
   [
     "72255090",
     "082",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน มีคาร์บอนมากกว่าร้อยละ 0.18 ขึ้นไป แต่น้อยกว่าร้อยละ 0.25 โดยน้ำหนัก และมีความกว้างไม่เกิน 1550 มิลลิเมตร",
     "Containing by weight 0.3 % or more of chromium without other alloyed, anneal,containing by weight more than 0.18% but less than 0.25% of carbon and of a width not exceeding 1550 mm",
@@ -48518,7 +48518,7 @@ var dataSet = [
   [
     "72255090",
     "082",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน มีคาร์บอนมากกว่าร้อยละ 0.18 ขึ้นไป แต่น้อยกว่าร้อยละ 0.25 โดยน้ำหนัก และมีความกว้างไม่เกิน 1550 มิลลิเมตร",
     "Containing by weight 0.3 % or more of chromium without other alloyed, anneal,containing by weight more than 0.18% but less than 0.25% of carbon and of a width not exceeding 1550 mm",
@@ -48527,7 +48527,7 @@ var dataSet = [
   [
     "72255090",
     "083",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน มีคาร์บอนตั้งแต่ร้อยละ 0.25 ขึ้นไป โดยน้ำหนัก และมีความกว้างเกิน 1550 มิลลิเมตร",
     "Containing by weight 0.3 % or more of chromium without other alloyed, anneal,containing by weight 0.25% or more of carbon and of a width exceeding 1550 mm",
@@ -48536,7 +48536,7 @@ var dataSet = [
   [
     "72255090",
     "083",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน มีคาร์บอนตั้งแต่ร้อยละ 0.25 ขึ้นไป โดยน้ำหนัก และมีความกว้างเกิน 1550 มิลลิเมตร",
     "Containing by weight 0.3 % or more of chromium without other alloyed, anneal,containing by weight 0.25% or more of carbon and of a width exceeding 1550 mm",
@@ -48545,7 +48545,7 @@ var dataSet = [
   [
     "72255090",
     "084",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน มีคาร์บอนตั้งแต่ร้อยละ 0.25 ขึ้นไป โดยน้ำหนัก และมีความกว้างไม่เกิน 1550 มิลลิเมตร",
     "Containing by weight 0.3 % or more of chromium without other alloyed, anneal,containing by weight 0.25% or more of carbon and of a width not exceeding 1550 mm",
@@ -48554,7 +48554,7 @@ var dataSet = [
   [
     "72255090",
     "084",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน มีคาร์บอนตั้งแต่ร้อยละ 0.25 ขึ้นไป โดยน้ำหนัก และมีความกว้างไม่เกิน 1550 มิลลิเมตร",
     "Containing by weight 0.3 % or more of chromium without other alloyed, anneal,containing by weight 0.25% or more of carbon and of a width not exceeding 1550 mm",
@@ -48626,7 +48626,7 @@ var dataSet = [
   [
     "72269110",
     "031",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "มีคาร์บอนน้อยกว่าร้อยละ 0.6 โดยน้ำหนัก สำหรับการใช้งานอื่นๆ เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีธาตุเจือ ธาตุอื่นที่ถึงเกณฑ์การเป็นเหล็กกล้าเจืออื่นๆ และมีความหนาเกิน 50 มิลลิเมตร ขึ้นไป",
     "Containing by weight less than 0.6% of carbon , for general use, containing by weight 0.0008% or more of boron without other alloyed and of a thickness exceeding 50 mm",
@@ -48635,7 +48635,7 @@ var dataSet = [
   [
     "72269110",
     "031",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "มีคาร์บอนน้อยกว่าร้อยละ 0.6 โดยน้ำหนัก สำหรับการใช้งานอื่นๆ เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีธาตุเจือ ธาตุอื่นที่ถึงเกณฑ์การเป็นเหล็กกล้าเจืออื่นๆ และมีความหนาเกิน 50 มิลลิเมตร ขึ้นไป",
     "Containing by weight less than 0.6% of carbon , for general use, containing by weight 0.0008% or more of boron without other alloyed and of a thickness exceeding 50 mm",
@@ -48779,7 +48779,7 @@ var dataSet = [
   [
     "72269290",
     "013",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ไม่ผ่านการอบอ่อน ที่มีคาร์บอนมากกว่าร้อยละ 0.10 แต่ไม่เกินร้อยละ 0.18 โดยน้ำหนัก",
     "Containing by weight 0.0008 % or more of boron without other alloyed, unanneal, contaning by weight 0.10% or more but not exceeding 0.18% of carbon",
@@ -48788,7 +48788,7 @@ var dataSet = [
   [
     "72269290",
     "013",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ไม่ผ่านการอบอ่อน ที่มีคาร์บอนมากกว่าร้อยละ 0.10 แต่ไม่เกินร้อยละ 0.18 โดยน้ำหนัก",
     "Containing by weight 0.0008 % or more of boron without other alloyed, unanneal, contaning by weight 0.10% or more but not exceeding 0.18% of carbon",
@@ -48797,7 +48797,7 @@ var dataSet = [
   [
     "72269290",
     "014",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ไม่ผ่านการอบอ่อน ที่มีคาร์บอนมากกว่าร้อยละ 0.18 แต่น้อยกว่าร้อยละ 0.25 โดยน้ำหนัก",
     "Containing by weight 0.0008 % or more of boron without other alloyed, unanneal, contaning by weight more than 0.18% but less than 0.25% of carbon",
@@ -48806,7 +48806,7 @@ var dataSet = [
   [
     "72269290",
     "014",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ไม่ผ่านการอบอ่อน ที่มีคาร์บอนมากกว่าร้อยละ 0.18 แต่น้อยกว่าร้อยละ 0.25 โดยน้ำหนัก",
     "Containing by weight 0.0008 % or more of boron without other alloyed, unanneal, contaning by weight more than 0.18% but less than 0.25% of carbon",
@@ -48815,7 +48815,7 @@ var dataSet = [
   [
     "72269290",
     "015",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ไม่ผ่านการอบอ่อน ที่มีคาร์บอนตั้งแต่ร้อยละ 0.25 โดยน้ำหนัก",
     "Containing by weight 0.0008 % or more of boron without other alloyed, unanneal, contaning by weight 0.25% or more of carbon",
@@ -48824,7 +48824,7 @@ var dataSet = [
   [
     "72269290",
     "015",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ไม่ผ่านการอบอ่อน ที่มีคาร์บอนตั้งแต่ร้อยละ 0.25 โดยน้ำหนัก",
     "Containing by weight 0.0008 % or more of boron without other alloyed, unanneal, contaning by weight 0.25% or more of carbon",
@@ -48851,7 +48851,7 @@ var dataSet = [
   [
     "72269290",
     "022",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน มีความต้านแรงดึงน้อยกว่า 340 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ที่มีคาร์บอนตั้งแต่ร้อยละ 0.01 แต่ไม่เกินร้อยละ 0.10 โดยน้ำหนัก",
     "Containing by weight 0.0008 % or more of boron without other alloyed, anneal, tensile strength less than 340 MPa(N/mm2), containing by weight 0.01% or more but not more than 0.10% of carbon",
@@ -48860,7 +48860,7 @@ var dataSet = [
   [
     "72269290",
     "022",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน มีความต้านแรงดึงน้อยกว่า 340 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ที่มีคาร์บอนตั้งแต่ร้อยละ 0.01 แต่ไม่เกินร้อยละ 0.10 โดยน้ำหนัก",
     "Containing by weight 0.0008 % or more of boron without other alloyed, anneal, tensile strength less than 340 MPa(N/mm2), containing by weight 0.01% or more but not more than 0.10% of carbon",
@@ -48941,7 +48941,7 @@ var dataSet = [
   [
     "72269290",
     "027",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน มีคาร์บอนมากกว่าร้อยละ 0.18 ขึ้นไป แต่น้อยกว่าร้อยละ 0.25 โดยน้ำหนัก",
     "Containing by weight 0.0008 % or more of boron without other alloyed, anneal, containing by weight more than 0.18% but less than 0.25% of carbon",
@@ -48950,7 +48950,7 @@ var dataSet = [
   [
     "72269290",
     "027",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน มีคาร์บอนมากกว่าร้อยละ 0.18 ขึ้นไป แต่น้อยกว่าร้อยละ 0.25 โดยน้ำหนัก",
     "Containing by weight 0.0008 % or more of boron without other alloyed, anneal, containing by weight more than 0.18% but less than 0.25% of carbon",
@@ -48959,7 +48959,7 @@ var dataSet = [
   [
     "72269290",
     "028",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน มีคาร์บอนตั้งแต่ร้อยละ 0.25 ขึ้นไป โดยน้ำหนัก",
     "Containing by weight 0.0008 % or more of boron without other alloyed, anneal, containing by weight 0.25% or more of carbon",
@@ -48968,7 +48968,7 @@ var dataSet = [
   [
     "72269290",
     "028",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน มีคาร์บอนตั้งแต่ร้อยละ 0.25 ขึ้นไป โดยน้ำหนัก",
     "Containing by weight 0.0008 % or more of boron without other alloyed, anneal, containing by weight 0.25% or more of carbon",
@@ -48977,7 +48977,7 @@ var dataSet = [
   [
     "72269290",
     "029",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "อื่นๆ ที่เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ",
     "Other, containing by weight 0.0008 % or more of boron without other alloyed",
@@ -48986,7 +48986,7 @@ var dataSet = [
   [
     "72269290",
     "029",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "อื่นๆ ที่เจือโบรอนตั้งแต่ร้อยละ 0.0008 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ",
     "Other, containing by weight 0.0008 % or more of boron without other alloyed",
@@ -48995,7 +48995,7 @@ var dataSet = [
   [
     "72269290",
     "031",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ไม่ผ่านการอบอ่อน ที่มีคาร์บอนน้อยกว่าร้อยละ 0.01 โดยน้ำหนัก",
     "Containing by weight 0.3 % or more of chromium without other alloyed, unanneal, contaning by weight less than 0.01% of carbon",
@@ -49004,7 +49004,7 @@ var dataSet = [
   [
     "72269290",
     "031",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ไม่ผ่านการอบอ่อน ที่มีคาร์บอนน้อยกว่าร้อยละ 0.01 โดยน้ำหนัก",
     "Containing by weight 0.3 % or more of chromium without other alloyed, unanneal, contaning by weight less than 0.01% of carbon",
@@ -49049,7 +49049,7 @@ var dataSet = [
   [
     "72269290",
     "034",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ไม่ผ่านการอบอ่อน ที่มีคาร์บอนมากกว่าร้อยละ 0.18 แต่น้อยกว่าร้อยละ 0.25 โดยน้ำหนัก",
     "Containing by weight 0.3 % or more of chromium without other alloyed, unanneal, contaning by weight more than 0.18% but less than 0.25% of carbon",
@@ -49058,7 +49058,7 @@ var dataSet = [
   [
     "72269290",
     "034",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ไม่ผ่านการอบอ่อน ที่มีคาร์บอนมากกว่าร้อยละ 0.18 แต่น้อยกว่าร้อยละ 0.25 โดยน้ำหนัก",
     "Containing by weight 0.3 % or more of chromium without other alloyed, unanneal, contaning by weight more than 0.18% but less than 0.25% of carbon",
@@ -49067,7 +49067,7 @@ var dataSet = [
   [
     "72269290",
     "035",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ไม่ผ่านการอบอ่อน ที่มีคาร์บอนตั้งแต่ร้อยละ 0.25 โดยน้ำหนัก",
     "Containing by weight 0.3 % or more of chromium without other alloyed, unanneal, contaning by weight 0.25% or more of carbon",
@@ -49076,7 +49076,7 @@ var dataSet = [
   [
     "72269290",
     "035",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ไม่ผ่านการอบอ่อน ที่มีคาร์บอนตั้งแต่ร้อยละ 0.25 โดยน้ำหนัก",
     "Containing by weight 0.3 % or more of chromium without other alloyed, unanneal, contaning by weight 0.25% or more of carbon",
@@ -49085,7 +49085,7 @@ var dataSet = [
   [
     "72269290",
     "041",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน มีความต้านแรงดึงน้อยกว่า 340 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ที่มีคาร์บอนน้อยกว่าร้อยละ 0.01 โดยน้ำหนัก",
     "Containing by weight 0.3 % or more of chromium without other alloyed, anneal, tensile strength less than 340 MPa(N/mm2), containing by weight less than 0.01% of carbon",
@@ -49094,7 +49094,7 @@ var dataSet = [
   [
     "72269290",
     "041",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน มีความต้านแรงดึงน้อยกว่า 340 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ที่มีคาร์บอนน้อยกว่าร้อยละ 0.01 โดยน้ำหนัก",
     "Containing by weight 0.3 % or more of chromium without other alloyed, anneal, tensile strength less than 340 MPa(N/mm2), containing by weight less than 0.01% of carbon",
@@ -49103,7 +49103,7 @@ var dataSet = [
   [
     "72269290",
     "042",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน มีความต้านแรงดึงน้อยกว่า 340 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ที่มีคาร์บอนตั้งแต่ร้อยละ 0.01 แต่ไม่เกินร้อยละ 0.10 โดยน้ำหนัก",
     "Containing by weight 0.3 % or more of chromium without other alloyed, anneal, tensile strength less than 340 MPa(N/mm2), containing by weight 0.01% or more but not more than 0.10% of carbon",
@@ -49112,7 +49112,7 @@ var dataSet = [
   [
     "72269290",
     "042",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
     "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน มีความต้านแรงดึงน้อยกว่า 340 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ที่มีคาร์บอนตั้งแต่ร้อยละ 0.01 แต่ไม่เกินร้อยละ 0.10 โดยน้ำหนัก",
     "Containing by weight 0.3 % or more of chromium without other alloyed, anneal, tensile strength less than 340 MPa(N/mm2), containing by weight 0.01% or more but not more than 0.10% of carbon",
@@ -49121,18 +49121,18 @@ var dataSet = [
   [
     "72269290",
     "043",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
-    "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน เหล็กความต้านแรงดึงสูง มีความต้านแรงดึงตั้งแต่ 340 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ขึ้นไป แต่น้อยกว่า 590 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ที่มีคาร์บอนน้อยกว่าร้อยละ 0.",
+    "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน เหล็กความต้านแรงดึงสูง มีความต้านแรงดึงตั้งแต่ 340 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ขึ้นไป แต่น้อยกว่า 590 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ที่มีคาร์บอนน้อยกว่าร้อยละ 0.01",
     "Containing by weight 0.3 % or more of chromium without other alloyed, anneal, high tensile of tensile strength 340 MPa(N/mm2), or more but less than 590 MPa(N/mm2), containing by weight  less than 0.01% of carbon",
     "20190801",
   ],
   [
     "72269290",
     "043",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
-    "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน เหล็กความต้านแรงดึงสูง มีความต้านแรงดึงตั้งแต่ 340 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ขึ้นไป แต่น้อยกว่า 590 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ที่มีคาร์บอนน้อยกว่าร้อยละ 0.01",
+    "เจือโครเมียมตั้งแต่ร้อยละ 0.3 ขึ้นไป โดยไม่มีการเจือธาตุอื่น ๆ ที่ผ่านการอบอ่อน เหล็กความต้านแรงดึงสูง มีความต้านแรงดึงตั้งแต่ 340 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ขึ้นไป แต่น้อยกว่า 590 เมกะพาสคัล(นิวตันต่อตารางมิลลิเมตร) ที่มีคาร์บอนน้อยกว่าร้อยละ 0.",
     "Containing by weight 0.3 % or more of chromium without other alloyed, anneal, high tensile of tensile strength 340 MPa(N/mm2), or more but less than 590 MPa(N/mm2), containing by weight  less than 0.01% of carbon",
     "20190801",
   ],
@@ -49954,6 +49954,15 @@ var dataSet = [
     "อืนๆ",
     "Other",
     "20170101",
+  ],
+  [
+    "84158291",
+    "090",
+    "นำเข้า",
+    "สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม",
+    "อื่น ๆ",
+    "Other",
+    "20200720",
   ],
   [
     "84181011",
@@ -54356,7 +54365,6 @@ var dataSet = [
     "- - - Smoked",
     "20150901",
   ],
-
   [
     "03072120",
     "000",
@@ -54834,7 +54842,6 @@ var dataSet = [
     "- - - Smoked",
     "20150901",
   ],
-
   [
     "03082120",
     "000",
@@ -59302,7 +59309,7 @@ var dataSet = [
   [
     "13021190",
     "000",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เดกซ์โตรโพรพอกซีฟีน (ไอเอ็นเอ็น) และเกลือของเดกซ์โตรโพรพอกซีฟีน",
     "Other",
@@ -59311,7 +59318,7 @@ var dataSet = [
   [
     "13021190",
     "000",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เดกซ์โตรโพรพอกซีฟีน (ไอเอ็นเอ็น) และเกลือของเดกซ์โตรโพรพอกซีฟีน",
     "Other",
@@ -65332,7 +65339,7 @@ var dataSet = [
   [
     "29333300",
     "000",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เอฟีดรีน และเกลือของเอฟีดรีน",
     "Alfentanil (INN), anileridine (INN), bezitramide (INN), bromazepam (INN), difenoxin (INN), diphenoxylate (INN), dipipanone (INN), fentanyl (INN), ketobemidone (INN), methylphenidate (INN), pentazocine (INN), pethidine (INN), pethidine (INN) intermediate A, phencyclidine (INN) (PCP), phenoperidine (INN), pipradrol (INN), piritramide (INN), propiram (INN) and trimeperidine (INN); salts thereof",
@@ -65341,7 +65348,7 @@ var dataSet = [
   [
     "29333300",
     "000",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เอฟีดรีน และเกลือของเอฟีดรีน",
     "Alfentanil (INN), anileridine (INN), bezitramide (INN), bromazepam (INN), difenoxin (INN), diphenoxylate (INN), dipipanone (INN), fentanyl (INN), ketobemidone (INN), methylphenidate (INN), pentazocine (INN), pethidine (INN), pethidine (INN) intermediate A, phencyclidine (INN) (PCP), phenoperidine (INN), pipradrol (INN), piritramide (INN), propiram (INN) and trimeperidine (INN); salts thereof",
@@ -65422,7 +65429,7 @@ var dataSet = [
   [
     "29335500",
     "000",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "นอร์เอฟีดรีนและเกลือของนอร์เอฟีดรีน",
     "Loprazolam (INN), mecloqualone (INN), methaqualone (INN) and zipeprol (INN); salts thereof",
@@ -65431,7 +65438,7 @@ var dataSet = [
   [
     "29335500",
     "000",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "นอร์เอฟีดรีนและเกลือของนอร์เอฟีดรีน",
     "Loprazolam (INN), mecloqualone (INN), methaqualone (INN) and zipeprol (INN); salts thereof",
@@ -65620,7 +65627,7 @@ var dataSet = [
   [
     "29337200",
     "000",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฟเนทิลลีน (ไอเอ็นเอ็น) และเกลือของเฟเนทิลลีน",
     "Clobazam (INN) and methyprylon (INN)",
@@ -65629,7 +65636,7 @@ var dataSet = [
   [
     "29337200",
     "000",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฟเนทิลลีน (ไอเอ็นเอ็น) และเกลือของเฟเนทิลลีน",
     "Clobazam (INN) and methyprylon (INN)",
@@ -65764,7 +65771,7 @@ var dataSet = [
   [
     "29349100",
     "000",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เออโกทามีน (ไอเอ็นเอ็น) และเกลือของเออโกทามีน",
     "Aminorex (INN), brotizolam (INN), clotiazepam (INN), cloxazolam (INN), dextromoramide (INN), haloxazolam (INN), ketazolam (INN), mesocarb (INN), oxazolam (INN), pemoline (INN), phendimetrazine (INN), phenmetrazine (INN) and sufentanil (INN); salts thereof",
@@ -65773,7 +65780,7 @@ var dataSet = [
   [
     "29349100",
     "000",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เออโกทามีน (ไอเอ็นเอ็น) และเกลือของเออโกทามีน",
     "Aminorex (INN), brotizolam (INN), clotiazepam (INN), cloxazolam (INN), dextromoramide (INN), haloxazolam (INN), ketazolam (INN), mesocarb (INN), oxazolam (INN), pemoline (INN), phendimetrazine (INN), phenmetrazine (INN) and sufentanil (INN); salts thereof",
@@ -68194,7 +68201,7 @@ var dataSet = [
   [
     "30044100",
     "000",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "- - ที่มีเอฟีดรีนหรือเกลือของเอฟีดรีน",
     "- - Containing ephedrine or its salts",
@@ -68203,7 +68210,7 @@ var dataSet = [
   [
     "30044100",
     "000",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "- - ที่มีเอฟีดรีนหรือเกลือของเอฟีดรีน",
     "- - Containing ephedrine or its salts",
@@ -69589,7 +69596,7 @@ var dataSet = [
   [
     "38085910",
     "003",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คลอร์เดน (ไอเอสโอ)",
     "- - - Insecticides",
@@ -69598,7 +69605,7 @@ var dataSet = [
   [
     "38085910",
     "003",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คลอร์เดน (ไอเอสโอ)",
     "- - - Insecticides",
@@ -69607,7 +69614,7 @@ var dataSet = [
   [
     "38085910",
     "004",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ดีดีที (ไอเอสโอ) (คลอพีโนเทน (ไอเอ็นเอ็น) 1,1,1-ไตรคลอโร-2,2-บิส DDT (ISO) (CLOFENOTANE(INN) 1,1,1-TRICHLORO-2,2-bis (พารา-คลอโรฟีนิล)อีเทน)",
     "DDT (ISO) (CLOFENOTANE(INN) 1,1,1-TRICHLORO-2,2-bis p-CHLOROPHENYL)ETHANE)",
@@ -69616,7 +69623,7 @@ var dataSet = [
   [
     "38085910",
     "004",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ดีดีที (ไอเอสโอ) (คลอพีโนเทน (ไอเอ็นเอ็น) 1,1,1-ไตรคลอโร-2,2-บิส DDT (ISO) (CLOFENOTANE(INN) 1,1,1-TRICHLORO-2,2-bis (พารา-คลอโรฟีนิล)อีเทน)",
     "DDT (ISO) (CLOFENOTANE(INN) 1,1,1-TRICHLORO-2,2-bis p-CHLOROPHENYL)ETHANE)",
@@ -69661,7 +69668,7 @@ var dataSet = [
   [
     "38085910",
     "007",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เพนตะคลอโรฟีนอล (ไอเอสโอ)",
     "PENTACHLOROPHENOL (ISO)",
@@ -69670,7 +69677,7 @@ var dataSet = [
   [
     "38085910",
     "007",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เพนตะคลอโรฟีนอล (ไอเอสโอ)",
     "PENTACHLOROPHENOL (ISO)",
@@ -69733,7 +69740,7 @@ var dataSet = [
   [
     "38085910",
     "011",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไทแรม",
     "THIRAM",
@@ -69742,7 +69749,7 @@ var dataSet = [
   [
     "38085910",
     "011",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไทแรม",
     "THIRAM",
@@ -69751,7 +69758,7 @@ var dataSet = [
   [
     "38085910",
     "013",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เบโนมิล",
     "BENOMYL",
@@ -69760,7 +69767,7 @@ var dataSet = [
   [
     "38085910",
     "013",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เบโนมิล",
     "BENOMYL",
@@ -69769,7 +69776,7 @@ var dataSet = [
   [
     "38085910",
     "090",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อื่น ๆ",
     "OTHER",
@@ -69778,7 +69785,7 @@ var dataSet = [
   [
     "38085910",
     "090",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อื่น ๆ",
     "OTHER",
@@ -69805,7 +69812,7 @@ var dataSet = [
   [
     "38085910",
     "400",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "สารประกอบของปรอท",
     "MERCURY COMPOUNDS",
@@ -69814,7 +69821,7 @@ var dataSet = [
   [
     "38085910",
     "400",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "สารประกอบของปรอท",
     "MERCURY COMPOUNDS",
@@ -69841,7 +69848,7 @@ var dataSet = [
   [
     "38085921",
     "000",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "- - - - ที่บรรจุภาชนะที่มีเครื่องฉีดพ่นด้วยความดันซึ่งอัดไว้ในตัว",
     "- - - - In aerosol containers",
@@ -69850,7 +69857,7 @@ var dataSet = [
   [
     "38085921",
     "000",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "- - - - ที่บรรจุภาชนะที่มีเครื่องฉีดพ่นด้วยความดันซึ่งอัดไว้ในตัว",
     "- - - - In aerosol containers",
@@ -69859,7 +69866,7 @@ var dataSet = [
   [
     "38085960",
     "001",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฉพาะที่บรรจุกระป๋องที่มีเครื่องฉีดด้วยความดันซึ่งอัดไว้ในตัว",
     "In aerosol containers",
@@ -69868,7 +69875,7 @@ var dataSet = [
   [
     "38085960",
     "001",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฉพาะที่บรรจุกระป๋องที่มีเครื่องฉีดด้วยความดันซึ่งอัดไว้ในตัว",
     "In aerosol containers",
@@ -69895,7 +69902,7 @@ var dataSet = [
   [
     "38085991",
     "001",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฉพาะที่บรรจุกระป๋องที่มีเครื่องฉีดด้วยความดันซึ่งอัดไว้ในตัว",
     "In aerosol containers",
@@ -69904,7 +69911,7 @@ var dataSet = [
   [
     "38085991",
     "001",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฉพาะที่บรรจุกระป๋องที่มีเครื่องฉีดด้วยความดันซึ่งอัดไว้ในตัว",
     "In aerosol containers",
@@ -69913,7 +69920,7 @@ var dataSet = [
   [
     "38085991",
     "090",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อื่นๆ",
     "Other",
@@ -69922,7 +69929,7 @@ var dataSet = [
   [
     "38085991",
     "090",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อื่นๆ",
     "Other",
@@ -69931,7 +69938,7 @@ var dataSet = [
   [
     "38085999",
     "001",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฉพาะสารเบื่อหนู",
     "Rat poisons",
@@ -69940,7 +69947,7 @@ var dataSet = [
   [
     "38085999",
     "001",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฉพาะสารเบื่อหนู",
     "Rat poisons",
@@ -69949,7 +69956,7 @@ var dataSet = [
   [
     "38085999",
     "003",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไบนาพาคริล (ไอเอสโอ)",
     "BINAPACRYL (ISO)",
@@ -69958,7 +69965,7 @@ var dataSet = [
   [
     "38085999",
     "003",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไบนาพาคริล (ไอเอสโอ)",
     "BINAPACRYL (ISO)",
@@ -69967,7 +69974,7 @@ var dataSet = [
   [
     "38085999",
     "004",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คลอร์ไดมีฟอร์ม (ไอเอสโอ)",
     "CHLORDIMEFORM (ISO)",
@@ -69976,7 +69983,7 @@ var dataSet = [
   [
     "38085999",
     "004",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คลอร์ไดมีฟอร์ม (ไอเอสโอ)",
     "CHLORDIMEFORM (ISO)",
@@ -70003,7 +70010,7 @@ var dataSet = [
   [
     "38085999",
     "006",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เอทิลีนไดโบรไมด์ (ไอเอสโอ) (1,2-ไดโบรโมอีเทน)",
     "ETHYLENE DIBROMIDE (ISO) (1,2-DIBROMOETHANE)",
@@ -70012,7 +70019,7 @@ var dataSet = [
   [
     "38085999",
     "006",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เอทิลีนไดโบรไมด์ (ไอเอสโอ) (1,2-ไดโบรโมอีเทน)",
     "ETHYLENE DIBROMIDE (ISO) (1,2-DIBROMOETHANE)",
@@ -70039,7 +70046,7 @@ var dataSet = [
   [
     "38085999",
     "400",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "สารประกอบของปรอท",
     "MERCURY COMPOUNDS",
@@ -70048,7 +70055,7 @@ var dataSet = [
   [
     "38085999",
     "400",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "สารประกอบของปรอท",
     "MERCURY COMPOUNDS",
@@ -70597,7 +70604,7 @@ var dataSet = [
   [
     "38089120",
     "117",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เอนโดซัลแฟน",
     "METOLCARB",
@@ -70606,7 +70613,7 @@ var dataSet = [
   [
     "38089120",
     "117",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เอนโดซัลแฟน",
     "METOLCARB",
@@ -70633,7 +70640,7 @@ var dataSet = [
   [
     "38089120",
     "119",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เบตา-เอนโดซัลแฟน",
     "OXAMYL",
@@ -70642,7 +70649,7 @@ var dataSet = [
   [
     "38089120",
     "119",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เบตา-เอนโดซัลแฟน",
     "OXAMYL",
@@ -70669,7 +70676,7 @@ var dataSet = [
   [
     "38089120",
     "121",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ออร์โท-ไดคลอโรเบนซีน",
     "PROMECARB",
@@ -70678,7 +70685,7 @@ var dataSet = [
   [
     "38089120",
     "121",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ออร์โท-ไดคลอโรเบนซีน",
     "PROMECARB",
@@ -70687,7 +70694,7 @@ var dataSet = [
   [
     "38089120",
     "122",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โพรพอกเซอร์",
     "PROPOXUR",
@@ -70696,7 +70703,7 @@ var dataSet = [
   [
     "38089120",
     "122",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โพรพอกเซอร์",
     "PROPOXUR",
@@ -70705,7 +70712,7 @@ var dataSet = [
   [
     "38089120",
     "123",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ทีดีอีหรือดีดีดี (เตตระคลอโรไดฟีนิลอีเทน หรือ 1,1-ไดคลอโร-2,2-บิส(4-คลอโรฟีนิล)อีเทน )",
     "THIODICARB",
@@ -70714,7 +70721,7 @@ var dataSet = [
   [
     "38089120",
     "123",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ทีดีอีหรือดีดีดี (เตตระคลอโรไดฟีนิลอีเทน หรือ 1,1-ไดคลอโร-2,2-บิส(4-คลอโรฟีนิล)อีเทน )",
     "THIODICARB",
@@ -70741,7 +70748,7 @@ var dataSet = [
   [
     "38089120",
     "125",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "สโตรเบน  (โพลิคลอโรเทอร์พีน)",
     "XMC(3,5-XYLYLMETHYL CARBAMATE)",
@@ -70750,7 +70757,7 @@ var dataSet = [
   [
     "38089120",
     "125",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "สโตรเบน  (โพลิคลอโรเทอร์พีน)",
     "XMC(3,5-XYLYLMETHYL CARBAMATE)",
@@ -70759,7 +70766,7 @@ var dataSet = [
   [
     "38089120",
     "126",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คาร์บาเมตรอื่นๆ",
     "OTHER CARBAMATE",
@@ -70768,7 +70775,7 @@ var dataSet = [
   [
     "38089120",
     "126",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คาร์บาเมตรอื่นๆ",
     "OTHER CARBAMATE",
@@ -70795,7 +70802,7 @@ var dataSet = [
   [
     "38089120",
     "128",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อัลฟา-เอนโดซัลแฟน",
     "alpha-ENDOSULFAN",
@@ -70804,7 +70811,7 @@ var dataSet = [
   [
     "38089120",
     "128",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อัลฟา-เอนโดซัลแฟน",
     "alpha-ENDOSULFAN",
@@ -70831,7 +70838,7 @@ var dataSet = [
   [
     "38089120",
     "130",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เอนดริน",
     "ENDRIN",
@@ -70840,7 +70847,7 @@ var dataSet = [
   [
     "38089120",
     "130",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เอนดริน",
     "ENDRIN",
@@ -70849,7 +70856,7 @@ var dataSet = [
   [
     "38089120",
     "131",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เมทอกซิคลอร์",
     "METHOXYCHLOR",
@@ -70858,7 +70865,7 @@ var dataSet = [
   [
     "38089120",
     "131",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เมทอกซิคลอร์",
     "METHOXYCHLOR",
@@ -70867,7 +70874,7 @@ var dataSet = [
   [
     "38089120",
     "132",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เพนติคลอโรฟิเนตโซเดียม (เพนตะคลอโรฟีนอกไซด์โซเดียม)",
     "PENTACHLOROPHENATESODIUM (PENTACHLOROPHENOXIDESODIUM)",
@@ -70876,7 +70883,7 @@ var dataSet = [
   [
     "38089120",
     "132",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เพนติคลอโรฟิเนตโซเดียม (เพนตะคลอโรฟีนอกไซด์โซเดียม)",
     "PENTACHLOROPHENATESODIUM (PENTACHLOROPHENOXIDESODIUM)",
@@ -70885,7 +70892,7 @@ var dataSet = [
   [
     "38089120",
     "133",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ออร์โท-ไดคลอโรเบนซีน",
     "o-DICHLOROBENZENE",
@@ -70894,7 +70901,7 @@ var dataSet = [
   [
     "38089120",
     "133",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ออร์โท-ไดคลอโรเบนซีน",
     "o-DICHLOROBENZENE",
@@ -70957,7 +70964,7 @@ var dataSet = [
   [
     "38089120",
     "137",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ทีดีอีหรือดีดีดี (เตตระคลอโรไดฟีนิลอีเทน หรือ 1,1-ไดคลอโร-2,2-บิส(4-คลอโรฟีนิล)อีเทน)",
     "TDE OR DDD (TETRACHLORODIPHENYLETHANEOR 1,1-DICHLORO-2, 2-bis (4-CHLOROPHENYL) ETHANE)",
@@ -70966,7 +70973,7 @@ var dataSet = [
   [
     "38089120",
     "137",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ทีดีอีหรือดีดีดี (เตตระคลอโรไดฟีนิลอีเทน หรือ 1,1-ไดคลอโร-2,2-บิส(4-คลอโรฟีนิล)อีเทน)",
     "TDE OR DDD (TETRACHLORODIPHENYLETHANEOR 1,1-DICHLORO-2, 2-bis (4-CHLOROPHENYL) ETHANE)",
@@ -71245,7 +71252,7 @@ var dataSet = [
   [
     "38089120",
     "315",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไดเมโทเอต",
     "CYANOPHOS",
@@ -71254,7 +71261,7 @@ var dataSet = [
   [
     "38089120",
     "315",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไดเมโทเอต",
     "CYANOPHOS",
@@ -71263,7 +71270,7 @@ var dataSet = [
   [
     "38089120",
     "316",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไดออกซะเบนโซฟอส (ซาลิไทออน)",
     "DEMEPHION",
@@ -71272,7 +71279,7 @@ var dataSet = [
   [
     "38089120",
     "316",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไดออกซะเบนโซฟอส (ซาลิไทออน)",
     "DEMEPHION",
@@ -71371,7 +71378,7 @@ var dataSet = [
   [
     "38089120",
     "322",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไดคลอเฟนไทออน",
     "DICHLOFENTHION",
@@ -71380,7 +71387,7 @@ var dataSet = [
   [
     "38089120",
     "322",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไดคลอเฟนไทออน",
     "DICHLOFENTHION",
@@ -71389,7 +71396,7 @@ var dataSet = [
   [
     "38089120",
     "323",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฟนซัลโฟไทออน",
     "DICHLORVOS",
@@ -71398,7 +71405,7 @@ var dataSet = [
   [
     "38089120",
     "323",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฟนซัลโฟไทออน",
     "DICHLORVOS",
@@ -71407,7 +71414,7 @@ var dataSet = [
   [
     "38089120",
     "324",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฟนไทออน",
     "DICROTOPHOS",
@@ -71416,7 +71423,7 @@ var dataSet = [
   [
     "38089120",
     "324",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฟนไทออน",
     "DICROTOPHOS",
@@ -71425,7 +71432,7 @@ var dataSet = [
   [
     "38089120",
     "325",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โฟโนฟอส",
     "DIMETHOATE",
@@ -71434,7 +71441,7 @@ var dataSet = [
   [
     "38089120",
     "325",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โฟโนฟอส",
     "DIMETHOATE",
@@ -71443,7 +71450,7 @@ var dataSet = [
   [
     "38089120",
     "326",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ฟอร์โมไทออน",
     "DIOXABENZOFOS (SALITHION)",
@@ -71452,7 +71459,7 @@ var dataSet = [
   [
     "38089120",
     "326",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ฟอร์โมไทออน",
     "DIOXABENZOFOS (SALITHION)",
@@ -71461,7 +71468,7 @@ var dataSet = [
   [
     "38089120",
     "327",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฮพเทโนฟอส",
     "DIOXATHION",
@@ -71470,7 +71477,7 @@ var dataSet = [
   [
     "38089120",
     "327",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฮพเทโนฟอส",
     "DIOXATHION",
@@ -71497,7 +71504,7 @@ var dataSet = [
   [
     "38089120",
     "329",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไอโซคาร์โบฟอส",
     "ETHION",
@@ -71506,7 +71513,7 @@ var dataSet = [
   [
     "38089120",
     "329",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไอโซคาร์โบฟอส",
     "ETHION",
@@ -71515,7 +71522,7 @@ var dataSet = [
   [
     "38089120",
     "330",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไอโซเฟนฟอส",
     "ETRIMFOS",
@@ -71524,7 +71531,7 @@ var dataSet = [
   [
     "38089120",
     "330",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไอโซเฟนฟอส",
     "ETRIMFOS",
@@ -71533,7 +71540,7 @@ var dataSet = [
   [
     "38089120",
     "331",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไอซอกซะไทออน",
     "FENCHLORPHOS",
@@ -71542,7 +71549,7 @@ var dataSet = [
   [
     "38089120",
     "331",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไอซอกซะไทออน",
     "FENCHLORPHOS",
@@ -71551,7 +71558,7 @@ var dataSet = [
   [
     "38089120",
     "332",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "จ๊อดเฟนฟอส",
     "FENITROTHION",
@@ -71560,7 +71567,7 @@ var dataSet = [
   [
     "38089120",
     "332",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "จ๊อดเฟนฟอส",
     "FENITROTHION",
@@ -71569,7 +71576,7 @@ var dataSet = [
   [
     "38089120",
     "333",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เลพโตฟอส",
     "FENSULFOTHION",
@@ -71578,7 +71585,7 @@ var dataSet = [
   [
     "38089120",
     "333",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เลพโตฟอส",
     "FENSULFOTHION",
@@ -72361,7 +72368,7 @@ var dataSet = [
   [
     "38089120",
     "402",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เดลตาเมทริน",
     "d-ALLETHRIN",
@@ -72370,7 +72377,7 @@ var dataSet = [
   [
     "38089120",
     "402",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เดลตาเมทริน",
     "d-ALLETHRIN",
@@ -72379,7 +72386,7 @@ var dataSet = [
   [
     "38089120",
     "403",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไบเฟนทวิน",
     "BIFENTHRIN",
@@ -72388,7 +72395,7 @@ var dataSet = [
   [
     "38089120",
     "403",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไบเฟนทวิน",
     "BIFENTHRIN",
@@ -72397,7 +72404,7 @@ var dataSet = [
   [
     "38089120",
     "404",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อีโตเฟนพรอกซ์",
     "BIOALLETHRIN",
@@ -72406,7 +72413,7 @@ var dataSet = [
   [
     "38089120",
     "404",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อีโตเฟนพรอกซ์",
     "BIOALLETHRIN",
@@ -72415,7 +72422,7 @@ var dataSet = [
   [
     "38089120",
     "405",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฟนวาเลอเรต",
     "BIORESMETHRIN",
@@ -72424,7 +72431,7 @@ var dataSet = [
   [
     "38089120",
     "405",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฟนวาเลอเรต",
     "BIORESMETHRIN",
@@ -72541,7 +72548,7 @@ var dataSet = [
   [
     "38089120",
     "412",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ดี-ฟีโนทริน",
     "CYPHENOTHRIN",
@@ -72550,7 +72557,7 @@ var dataSet = [
   [
     "38089120",
     "412",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ดี-ฟีโนทริน",
     "CYPHENOTHRIN",
@@ -72649,7 +72656,7 @@ var dataSet = [
   [
     "38089120",
     "418",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไพรีทรอยด์อื่นๆ",
     "FLUMETHRIN",
@@ -72658,7 +72665,7 @@ var dataSet = [
   [
     "38089120",
     "418",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไพรีทรอยด์อื่นๆ",
     "FLUMETHRIN",
@@ -72703,7 +72710,7 @@ var dataSet = [
   [
     "38089120",
     "421",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เพอร์เมทริน",
     "PERMETHRIN",
@@ -72712,7 +72719,7 @@ var dataSet = [
   [
     "38089120",
     "421",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เพอร์เมทริน",
     "PERMETHRIN",
@@ -72721,7 +72728,7 @@ var dataSet = [
   [
     "38089120",
     "422",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อะซาดิราชติน",
     "d-PHENOTHRIN",
@@ -72730,7 +72737,7 @@ var dataSet = [
   [
     "38089120",
     "422",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อะซาดิราชติน",
     "d-PHENOTHRIN",
@@ -72757,7 +72764,7 @@ var dataSet = [
   [
     "38089120",
     "424",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "กรดโบริก (กรดโบราสิก กรดออร์โท-โบริก)",
     "PYRETHRINS",
@@ -72766,7 +72773,7 @@ var dataSet = [
   [
     "38089120",
     "424",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "กรดโบริก (กรดโบราสิก กรดออร์โท-โบริก)",
     "PYRETHRINS",
@@ -73171,7 +73178,7 @@ var dataSet = [
   [
     "38089120",
     "519",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เมทิลโบรไมด์(โบรโมมีเทน)",
     "EMAMECTIN BENZOATE",
@@ -73180,7 +73187,7 @@ var dataSet = [
   [
     "38089120",
     "519",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เมทิลโบรไมด์(โบรโมมีเทน)",
     "EMAMECTIN BENZOATE",
@@ -73495,7 +73502,7 @@ var dataSet = [
   [
     "38089120",
     "537",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไซโคลเฮกซิลอะซีโตอะซีเทต",
     "TEFLUBENZURON",
@@ -73504,7 +73511,7 @@ var dataSet = [
   [
     "38089120",
     "537",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไซโคลเฮกซิลอะซีโตอะซีเทต",
     "TEFLUBENZURON",
@@ -74017,7 +74024,7 @@ var dataSet = [
   [
     "38089120",
     "566",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อินโดซาคาร์บ",
     "P-(N-PROPOXY)BENZALDEHYDE",
@@ -74026,7 +74033,7 @@ var dataSet = [
   [
     "38089120",
     "566",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อินโดซาคาร์บ",
     "P-(N-PROPOXY)BENZALDEHYDE",
@@ -74053,7 +74060,7 @@ var dataSet = [
   [
     "38089120",
     "568",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "พารา-ไอโซโพรพิลฟีนิลเอทิล แอลกอฮอล์",
     "RYANIA",
@@ -74062,7 +74069,7 @@ var dataSet = [
   [
     "38089120",
     "568",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "พารา-ไอโซโพรพิลฟีนิลเอทิล แอลกอฮอล์",
     "RYANIA",
@@ -74071,7 +74078,7 @@ var dataSet = [
   [
     "38089120",
     "569",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ตะกั่วอาร์เซเนต",
     "SULFLURAMID",
@@ -74080,7 +74087,7 @@ var dataSet = [
   [
     "38089120",
     "569",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ตะกั่วอาร์เซเนต",
     "SULFLURAMID",
@@ -74089,7 +74096,7 @@ var dataSet = [
   [
     "38089120",
     "570",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "พารา-เมทอกซิเบนซิล แอลกอฮอล์",
     "1,2,3,4-TETRAHYDRO-2-NAPHTHOL (TETRALOL)",
@@ -74098,7 +74105,7 @@ var dataSet = [
   [
     "38089120",
     "570",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "พารา-เมทอกซิเบนซิล แอลกอฮอล์",
     "1,2,3,4-TETRAHYDRO-2-NAPHTHOL (TETRALOL)",
@@ -74107,7 +74114,7 @@ var dataSet = [
   [
     "38089120",
     "571",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เมทอกซิเฟนโนไซด์",
     "THALLIUM SULFATE",
@@ -74116,7 +74123,7 @@ var dataSet = [
   [
     "38089120",
     "571",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เมทอกซิเฟนโนไซด์",
     "THALLIUM SULFATE",
@@ -74161,7 +74168,7 @@ var dataSet = [
   [
     "38089120",
     "574",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไอโซเบนแซน",
     "CHLORMEPHOS",
@@ -74170,7 +74177,7 @@ var dataSet = [
   [
     "38089120",
     "574",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไอโซเบนแซน",
     "CHLORMEPHOS",
@@ -74179,7 +74186,7 @@ var dataSet = [
   [
     "38089120",
     "575",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คีลีแวน",
     "HEXAHYDROPHTHALATE DIETHYL",
@@ -74188,7 +74195,7 @@ var dataSet = [
   [
     "38089120",
     "575",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คีลีแวน",
     "HEXAHYDROPHTHALATE DIETHYL",
@@ -74197,7 +74204,7 @@ var dataSet = [
   [
     "38089120",
     "576",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อาร์เซนิก และสารประกอบอาร์เซนิก",
     "INDOXACARB",
@@ -74206,7 +74213,7 @@ var dataSet = [
   [
     "38089120",
     "576",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อาร์เซนิก และสารประกอบอาร์เซนิก",
     "INDOXACARB",
@@ -74215,7 +74222,7 @@ var dataSet = [
   [
     "38089120",
     "577",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เบต้า-ไซเพอร์เมทริน",
     "ISOPROPYL CINNAMATE",
@@ -74224,7 +74231,7 @@ var dataSet = [
   [
     "38089120",
     "577",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เบต้า-ไซเพอร์เมทริน",
     "ISOPROPYL CINNAMATE",
@@ -74233,7 +74240,7 @@ var dataSet = [
   [
     "38089120",
     "578",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไทอะมีโทแซม",
     "P-ISOPROPYLPHENYLETHYL ALCOHOL",
@@ -74242,7 +74249,7 @@ var dataSet = [
   [
     "38089120",
     "578",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไทอะมีโทแซม",
     "P-ISOPROPYLPHENYLETHYL ALCOHOL",
@@ -74251,7 +74258,7 @@ var dataSet = [
   [
     "38089120",
     "579",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อื่น ๆ ที่มีส่วนประกอบของสารออกฤทธิ์สารเดียว",
     "LEAD ARSENATE",
@@ -74260,7 +74267,7 @@ var dataSet = [
   [
     "38089120",
     "579",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อื่น ๆ ที่มีส่วนประกอบของสารออกฤทธิ์สารเดียว",
     "LEAD ARSENATE",
@@ -74287,7 +74294,7 @@ var dataSet = [
   [
     "38089120",
     "581",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โซเดียม ฟลูออไรด์",
     "METHOXYFENOZIDE",
@@ -74296,7 +74303,7 @@ var dataSet = [
   [
     "38089120",
     "581",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โซเดียม ฟลูออไรด์",
     "METHOXYFENOZIDE",
@@ -74359,7 +74366,7 @@ var dataSet = [
   [
     "38089120",
     "585",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อะมิโนคาร์บ",
     "KELEVAN",
@@ -74368,7 +74375,7 @@ var dataSet = [
   [
     "38089120",
     "585",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อะมิโนคาร์บ",
     "KELEVAN",
@@ -74395,7 +74402,7 @@ var dataSet = [
   [
     "38089120",
     "587",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เบนฟิวราคาร์บ",
     "BETA-CYPERMETHRIN",
@@ -74404,7 +74411,7 @@ var dataSet = [
   [
     "38089120",
     "587",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เบนฟิวราคาร์บ",
     "BETA-CYPERMETHRIN",
@@ -74449,7 +74456,7 @@ var dataSet = [
   [
     "38089120",
     "590",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คาร์โบซัลแฟน",
     "POLYALKYLENE GLYCOL STEARATE",
@@ -74458,7 +74465,7 @@ var dataSet = [
   [
     "38089120",
     "590",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คาร์โบซัลแฟน",
     "POLYALKYLENE GLYCOL STEARATE",
@@ -74773,7 +74780,7 @@ var dataSet = [
   [
     "38089140",
     "102",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อะมิโนคาร์บ",
     "AMINOCARB",
@@ -74782,7 +74789,7 @@ var dataSet = [
   [
     "38089140",
     "102",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อะมิโนคาร์บ",
     "AMINOCARB",
@@ -74791,7 +74798,7 @@ var dataSet = [
   [
     "38089140",
     "104",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เบนไดโอคาร์บ",
     "BENDIOCARB",
@@ -74800,7 +74807,7 @@ var dataSet = [
   [
     "38089140",
     "104",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เบนไดโอคาร์บ",
     "BENDIOCARB",
@@ -74809,7 +74816,7 @@ var dataSet = [
   [
     "38089140",
     "105",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เบนฟิวราคาร์บ",
     "BENFURACARB",
@@ -74818,7 +74825,7 @@ var dataSet = [
   [
     "38089140",
     "105",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เบนฟิวราคาร์บ",
     "BENFURACARB",
@@ -74845,7 +74852,7 @@ var dataSet = [
   [
     "38089140",
     "107",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คาร์บาริล",
     "CARBARYL",
@@ -74854,7 +74861,7 @@ var dataSet = [
   [
     "38089140",
     "107",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คาร์บาริล",
     "CARBARYL",
@@ -74935,7 +74942,7 @@ var dataSet = [
   [
     "38089140",
     "112",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ฟอร์เมทาเนต",
     "FORMETANATE",
@@ -74944,7 +74951,7 @@ var dataSet = [
   [
     "38089140",
     "112",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ฟอร์เมทาเนต",
     "FORMETANATE",
@@ -74953,7 +74960,7 @@ var dataSet = [
   [
     "38089140",
     "113",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ฟอร์เมทาเนตไฮโดรคลอไรด์",
     "FORMETANATE HYDROCHLORIDE",
@@ -74962,7 +74969,7 @@ var dataSet = [
   [
     "38089140",
     "113",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ฟอร์เมทาเนตไฮโดรคลอไรด์",
     "FORMETANATE HYDROCHLORIDE",
@@ -74971,7 +74978,7 @@ var dataSet = [
   [
     "38089140",
     "114",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ฟิวราไทโอคาร์บ",
     "FURATHIOCARB",
@@ -74980,7 +74987,7 @@ var dataSet = [
   [
     "38089140",
     "114",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ฟิวราไทโอคาร์บ",
     "FURATHIOCARB",
@@ -74989,7 +74996,7 @@ var dataSet = [
   [
     "38089140",
     "115",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไอโซโพรคาร์บ (เอ็มไอพีซี)",
     "ISOPROCARB (MIPC)",
@@ -74998,7 +75005,7 @@ var dataSet = [
   [
     "38089140",
     "115",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไอโซโพรคาร์บ (เอ็มไอพีซี)",
     "ISOPROCARB (MIPC)",
@@ -75007,7 +75014,7 @@ var dataSet = [
   [
     "38089140",
     "116",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เมโทมิล",
     "METHOMYL",
@@ -75016,7 +75023,7 @@ var dataSet = [
   [
     "38089140",
     "116",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เมโทมิล",
     "METHOMYL",
@@ -75061,7 +75068,7 @@ var dataSet = [
   [
     "38089140",
     "119",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ออกซามิล",
     "OXAMYL",
@@ -75070,7 +75077,7 @@ var dataSet = [
   [
     "38089140",
     "119",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ออกซามิล",
     "OXAMYL",
@@ -75115,7 +75122,7 @@ var dataSet = [
   [
     "38089140",
     "122",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โพรพอกเซอร์",
     "PROPOXUR",
@@ -75124,7 +75131,7 @@ var dataSet = [
   [
     "38089140",
     "122",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โพรพอกเซอร์",
     "PROPOXUR",
@@ -75169,7 +75176,7 @@ var dataSet = [
   [
     "38089140",
     "125",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เอ็กซ์เอ็มซี (3,5-ซิลิลเมทิลคาร์บาเมต)",
     "XMC(3,5-XYLYLMETHYL CARBAMATE)",
@@ -75178,7 +75185,7 @@ var dataSet = [
   [
     "38089140",
     "125",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เอ็กซ์เอ็มซี (3,5-ซิลิลเมทิลคาร์บาเมต)",
     "XMC(3,5-XYLYLMETHYL CARBAMATE)",
@@ -75187,7 +75194,7 @@ var dataSet = [
   [
     "38089140",
     "199",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คาร์บาเมตอื่นๆ",
     "OTHER CARBAMATE",
@@ -75196,7 +75203,7 @@ var dataSet = [
   [
     "38089140",
     "199",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คาร์บาเมตอื่นๆ",
     "OTHER CARBAMATE",
@@ -75961,7 +75968,7 @@ var dataSet = [
   [
     "38089140",
     "331",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฟนคลอร์ฟอส",
     "FENCHLORPHOS",
@@ -75970,7 +75977,7 @@ var dataSet = [
   [
     "38089140",
     "331",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฟนคลอร์ฟอส",
     "FENCHLORPHOS",
@@ -76834,7 +76841,7 @@ var dataSet = [
   [
     "38089140",
     "405",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไบโอเรสเมทริน",
     "BIORESMETHRIN",
@@ -76843,7 +76850,7 @@ var dataSet = [
   [
     "38089140",
     "405",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไบโอเรสเมทริน",
     "BIORESMETHRIN",
@@ -76852,7 +76859,7 @@ var dataSet = [
   [
     "38089140",
     "406",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไซฟลูทริน",
     "CYFLUTHRIN",
@@ -76861,7 +76868,7 @@ var dataSet = [
   [
     "38089140",
     "406",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไซฟลูทริน",
     "CYFLUTHRIN",
@@ -76951,7 +76958,7 @@ var dataSet = [
   [
     "38089140",
     "412",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไซฟีโนทริน",
     "CYPHENOTHRIN",
@@ -76960,7 +76967,7 @@ var dataSet = [
   [
     "38089140",
     "412",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไซฟีโนทริน",
     "CYPHENOTHRIN",
@@ -76969,7 +76976,7 @@ var dataSet = [
   [
     "38089140",
     "413",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เดลตาเมทริน",
     "DELTAMETHRIN",
@@ -76978,7 +76985,7 @@ var dataSet = [
   [
     "38089140",
     "413",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เดลตาเมทริน",
     "DELTAMETHRIN",
@@ -77005,7 +77012,7 @@ var dataSet = [
   [
     "38089140",
     "415",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อีโตเฟนพรอกซ์",
     "ETOFENPROX",
@@ -77014,7 +77021,7 @@ var dataSet = [
   [
     "38089140",
     "415",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อีโตเฟนพรอกซ์",
     "ETOFENPROX",
@@ -77023,7 +77030,7 @@ var dataSet = [
   [
     "38089140",
     "416",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฟนวาเลอเรต",
     "FENVALERATE",
@@ -77032,7 +77039,7 @@ var dataSet = [
   [
     "38089140",
     "416",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฟนวาเลอเรต",
     "FENVALERATE",
@@ -77059,7 +77066,7 @@ var dataSet = [
   [
     "38089140",
     "418",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ฟลูเมทริน",
     "FLUMETHRIN",
@@ -77068,7 +77075,7 @@ var dataSet = [
   [
     "38089140",
     "418",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ฟลูเมทริน",
     "FLUMETHRIN",
@@ -77077,7 +77084,7 @@ var dataSet = [
   [
     "38089140",
     "419",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เทา-ฟลูวาลิเนต ฟลูวาลิเนต (ดีแอล-ไอโซเมอร์)",
     "tau-FLUVALINATE; FLUVALINATE (DL-ISOMER)",
@@ -77086,7 +77093,7 @@ var dataSet = [
   [
     "38089140",
     "419",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เทา-ฟลูวาลิเนต ฟลูวาลิเนต (ดีแอล-ไอโซเมอร์)",
     "tau-FLUVALINATE; FLUVALINATE (DL-ISOMER)",
@@ -77113,7 +77120,7 @@ var dataSet = [
   [
     "38089140",
     "421",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เพอร์เมทริน",
     "PERMETHRIN",
@@ -77122,7 +77129,7 @@ var dataSet = [
   [
     "38089140",
     "421",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เพอร์เมทริน",
     "PERMETHRIN",
@@ -77167,7 +77174,7 @@ var dataSet = [
   [
     "38089140",
     "424",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไพเรทริน",
     "PYRETHRINS",
@@ -77176,7 +77183,7 @@ var dataSet = [
   [
     "38089140",
     "424",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไพเรทริน",
     "PYRETHRINS",
@@ -77185,7 +77192,7 @@ var dataSet = [
   [
     "38089140",
     "425",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เรสเมทริน",
     "RESMETHRIN",
@@ -77194,7 +77201,7 @@ var dataSet = [
   [
     "38089140",
     "425",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เรสเมทริน",
     "RESMETHRIN",
@@ -78175,7 +78182,7 @@ var dataSet = [
   [
     "38089140",
     "552",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เอ็น,เอ็น-ไดโพรพิลซัคซินามิกแอซิด-เอทิล",
     "N,N-DIPROPYL SUCCINAMIC ACID-ETHYL",
@@ -78184,7 +78191,7 @@ var dataSet = [
   [
     "38089140",
     "552",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เอ็น,เอ็น-ไดโพรพิลซัคซินามิกแอซิด-เอทิล",
     "N,N-DIPROPYL SUCCINAMIC ACID-ETHYL",
@@ -79183,7 +79190,7 @@ var dataSet = [
   [
     "38089150",
     "115",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เมโทมิล",
     "METHOMYL",
@@ -79192,7 +79199,7 @@ var dataSet = [
   [
     "38089150",
     "115",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เมโทมิล",
     "METHOMYL",
@@ -79219,7 +79226,7 @@ var dataSet = [
   [
     "38089150",
     "117",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เมกซะคาร์เบต",
     "MEXACARBATE",
@@ -79228,7 +79235,7 @@ var dataSet = [
   [
     "38089150",
     "117",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เมกซะคาร์เบต",
     "MEXACARBATE",
@@ -79237,7 +79244,7 @@ var dataSet = [
   [
     "38089150",
     "118",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ออกซามิล",
     "OXAMYL",
@@ -79246,7 +79253,7 @@ var dataSet = [
   [
     "38089150",
     "118",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ออกซามิล",
     "OXAMYL",
@@ -79273,7 +79280,7 @@ var dataSet = [
   [
     "38089150",
     "120",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โพรเมคาร์บ",
     "PROMECARB",
@@ -79282,7 +79289,7 @@ var dataSet = [
   [
     "38089150",
     "120",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โพรเมคาร์บ",
     "PROMECARB",
@@ -79309,7 +79316,7 @@ var dataSet = [
   [
     "38089150",
     "122",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไทโอไดคาร์บ",
     "THIODICARB",
@@ -79318,7 +79325,7 @@ var dataSet = [
   [
     "38089150",
     "122",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไทโอไดคาร์บ",
     "THIODICARB",
@@ -79327,7 +79334,7 @@ var dataSet = [
   [
     "38089150",
     "123",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไทโอฟานอกซ์",
     "THIOFANOX",
@@ -79336,7 +79343,7 @@ var dataSet = [
   [
     "38089150",
     "123",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไทโอฟานอกซ์",
     "THIOFANOX",
@@ -79345,7 +79352,7 @@ var dataSet = [
   [
     "38089150",
     "124",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เอ็กซ์เอ็มซี (3,5-ซิลิลเมทิลคาร์บาเมต)",
     "XMC(3,5-XYLYLMETHYL CARBAMATE)",
@@ -79354,7 +79361,7 @@ var dataSet = [
   [
     "38089150",
     "124",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เอ็กซ์เอ็มซี (3,5-ซิลิลเมทิลคาร์บาเมต)",
     "XMC(3,5-XYLYLMETHYL CARBAMATE)",
@@ -79399,7 +79406,7 @@ var dataSet = [
   [
     "38089150",
     "208",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อัลฟา-เอนโดซัลแฟน",
     "alpha-ENDOSULFAN",
@@ -79408,7 +79415,7 @@ var dataSet = [
   [
     "38089150",
     "208",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อัลฟา-เอนโดซัลแฟน",
     "alpha-ENDOSULFAN",
@@ -79417,7 +79424,7 @@ var dataSet = [
   [
     "38089150",
     "209",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เบตา-เอนโดซัลแฟน",
     "beta-ENDOSULFAN",
@@ -79426,7 +79433,7 @@ var dataSet = [
   [
     "38089150",
     "209",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เบตา-เอนโดซัลแฟน",
     "beta-ENDOSULFAN",
@@ -79471,7 +79478,7 @@ var dataSet = [
   [
     "38089150",
     "214",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เพนตะคลอโรฟีเนตโซเดียม(เพนตะคลอโรฟีนอกไซด์โซเดียม)",
     "PENTACHLOROPHENATE SODIUM (PENTACHLOROPHENOXIDE SODIUM)",
@@ -79480,7 +79487,7 @@ var dataSet = [
   [
     "38089150",
     "214",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เพนตะคลอโรฟีเนตโซเดียม(เพนตะคลอโรฟีนอกไซด์โซเดียม)",
     "PENTACHLOROPHENATE SODIUM (PENTACHLOROPHENOXIDE SODIUM)",
@@ -79507,7 +79514,7 @@ var dataSet = [
   [
     "38089150",
     "218",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "พารา-ไดคลอโรเบนซีน",
     "p-DICHLOROBENZENE",
@@ -79516,7 +79523,7 @@ var dataSet = [
   [
     "38089150",
     "218",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "พารา-ไดคลอโรเบนซีน",
     "p-DICHLOROBENZENE",
@@ -79615,7 +79622,7 @@ var dataSet = [
   [
     "38089150",
     "302",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อะซาเมไทฟอส",
     "AZAMETHIPHOS",
@@ -79624,7 +79631,7 @@ var dataSet = [
   [
     "38089150",
     "302",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อะซาเมไทฟอส",
     "AZAMETHIPHOS",
@@ -79651,7 +79658,7 @@ var dataSet = [
   [
     "38089150",
     "304",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อะซินฟอส-เมทิล",
     "AZINPHOS-METHYL",
@@ -79660,7 +79667,7 @@ var dataSet = [
   [
     "38089150",
     "304",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อะซินฟอส-เมทิล",
     "AZINPHOS-METHYL",
@@ -79705,7 +79712,7 @@ var dataSet = [
   [
     "38089150",
     "308",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คาร์โบฟีโนไทออน",
     "CARBOPHENOTHION",
@@ -79714,7 +79721,7 @@ var dataSet = [
   [
     "38089150",
     "308",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คาร์โบฟีโนไทออน",
     "CARBOPHENOTHION",
@@ -79723,7 +79730,7 @@ var dataSet = [
   [
     "38089150",
     "309",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คลอร์เฟนวินฟอส",
     "CHLORFENVINPHOS",
@@ -79732,7 +79739,7 @@ var dataSet = [
   [
     "38089150",
     "309",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คลอร์เฟนวินฟอส",
     "CHLORFENVINPHOS",
@@ -79759,7 +79766,7 @@ var dataSet = [
   [
     "38089150",
     "311",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คลอร์ไพริฟอส-เมทิล",
     "CHLORPYRIFOS-METHYL",
@@ -79768,7 +79775,7 @@ var dataSet = [
   [
     "38089150",
     "311",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คลอร์ไพริฟอส-เมทิล",
     "CHLORPYRIFOS-METHYL",
@@ -79813,7 +79820,7 @@ var dataSet = [
   [
     "38089150",
     "314",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โครทอกซิฟอส",
     "CROTOXYPHOS",
@@ -79822,7 +79829,7 @@ var dataSet = [
   [
     "38089150",
     "314",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โครทอกซิฟอส",
     "CROTOXYPHOS",
@@ -79885,7 +79892,7 @@ var dataSet = [
   [
     "38089150",
     "318",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เดเมทอน",
     "DEMETON",
@@ -79894,7 +79901,7 @@ var dataSet = [
   [
     "38089150",
     "318",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เดเมทอน",
     "DEMETON",
@@ -79903,7 +79910,7 @@ var dataSet = [
   [
     "38089150",
     "319",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เดเมทอน-โอ",
     "DEMETON-O",
@@ -79912,7 +79919,7 @@ var dataSet = [
   [
     "38089150",
     "319",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เดเมทอน-โอ",
     "DEMETON-O",
@@ -79939,7 +79946,7 @@ var dataSet = [
   [
     "38089150",
     "321",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไดอะลิฟอส (ไดอะลิฟอร์)",
     "DIALIFOS (DIALIFOR)",
@@ -79948,7 +79955,7 @@ var dataSet = [
   [
     "38089150",
     "321",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไดอะลิฟอส (ไดอะลิฟอร์)",
     "DIALIFOS (DIALIFOR)",
@@ -80047,7 +80054,7 @@ var dataSet = [
   [
     "38089150",
     "327",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไดออกซะเบนโซฟอส (ซาลิไทออน)",
     "DIOXABENZOFOS (SALITHION)",
@@ -80056,7 +80063,7 @@ var dataSet = [
   [
     "38089150",
     "327",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไดออกซะเบนโซฟอส (ซาลิไทออน)",
     "DIOXABENZOFOS (SALITHION)",
@@ -80101,7 +80108,7 @@ var dataSet = [
   [
     "38089150",
     "330",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อีไทออน",
     "ETHION",
@@ -80110,7 +80117,7 @@ var dataSet = [
   [
     "38089150",
     "330",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อีไทออน",
     "ETHION",
@@ -80119,7 +80126,7 @@ var dataSet = [
   [
     "38089150",
     "331",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เอตริมฟอส",
     "ETRIMFOS",
@@ -80128,7 +80135,7 @@ var dataSet = [
   [
     "38089150",
     "331",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เอตริมฟอส",
     "ETRIMFOS",
@@ -81577,7 +81584,7 @@ var dataSet = [
   [
     "38089150",
     "508",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "บูโพรฟีซิน",
     "BUPROFEZIN",
@@ -81586,7 +81593,7 @@ var dataSet = [
   [
     "38089150",
     "508",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "บูโพรฟีซิน",
     "BUPROFEZIN",
@@ -81595,7 +81602,7 @@ var dataSet = [
   [
     "38089150",
     "509",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คาร์แทพ",
     "CARTAP",
@@ -81604,7 +81611,7 @@ var dataSet = [
   [
     "38089150",
     "509",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คาร์แทพ",
     "CARTAP",
@@ -81667,7 +81674,7 @@ var dataSet = [
   [
     "38089150",
     "513",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คลอร์ฟลูอะซูรอน",
     "CHLORFLUAZURON",
@@ -81676,7 +81683,7 @@ var dataSet = [
   [
     "38089150",
     "513",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คลอร์ฟลูอะซูรอน",
     "CHLORFLUAZURON",
@@ -81685,7 +81692,7 @@ var dataSet = [
   [
     "38089150",
     "514",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คลอโรพิคริน  (ไตรคลอโรไนโตรมีเทน)",
     "CHLOROPICRIN  (TRICHLORONITROMETHANE)",
@@ -81694,7 +81701,7 @@ var dataSet = [
   [
     "38089150",
     "514",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คลอโรพิคริน  (ไตรคลอโรไนโตรมีเทน)",
     "CHLOROPICRIN  (TRICHLORONITROMETHANE)",
@@ -81703,7 +81710,7 @@ var dataSet = [
   [
     "38089150",
     "515",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โครมาเฟโนไซด์",
     "CHROMAFENOZIDE",
@@ -81712,7 +81719,7 @@ var dataSet = [
   [
     "38089150",
     "515",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โครมาเฟโนไซด์",
     "CHROMAFENOZIDE",
@@ -81721,7 +81728,7 @@ var dataSet = [
   [
     "38089150",
     "516",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไซโรมาซีน",
     "CYROMAZINE",
@@ -81730,7 +81737,7 @@ var dataSet = [
   [
     "38089150",
     "516",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไซโรมาซีน",
     "CYROMAZINE",
@@ -82081,7 +82088,7 @@ var dataSet = [
   [
     "38089150",
     "536",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เทบูเฟโนไซด์",
     "TEBUFENOZIDE",
@@ -82090,7 +82097,7 @@ var dataSet = [
   [
     "38089150",
     "536",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เทบูเฟโนไซด์",
     "TEBUFENOZIDE",
@@ -82099,7 +82106,7 @@ var dataSet = [
   [
     "38089150",
     "537",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เทฟลูเบนซูรอน",
     "TEFLUBENZURON",
@@ -82108,7 +82115,7 @@ var dataSet = [
   [
     "38089150",
     "537",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เทฟลูเบนซูรอน",
     "TEFLUBENZURON",
@@ -82117,7 +82124,7 @@ var dataSet = [
   [
     "38089150",
     "538",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไทโอไซแคลม",
     "THIOCYCLAM",
@@ -82126,7 +82133,7 @@ var dataSet = [
   [
     "38089150",
     "538",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไทโอไซแคลม",
     "THIOCYCLAM",
@@ -82297,7 +82304,7 @@ var dataSet = [
   [
     "38089150",
     "548",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ซิโตรเนลลาออย",
     "CITRONELLA OIL",
@@ -82306,7 +82313,7 @@ var dataSet = [
   [
     "38089150",
     "548",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ซิโตรเนลลาออย",
     "CITRONELLA OIL",
@@ -82315,7 +82322,7 @@ var dataSet = [
   [
     "38089150",
     "549",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไดบิวทิลฟทาเลท",
     "DIBUTYL PHTHALATE",
@@ -82324,7 +82331,7 @@ var dataSet = [
   [
     "38089150",
     "549",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไดบิวทิลฟทาเลท",
     "DIBUTYL PHTHALATE",
@@ -82333,7 +82340,7 @@ var dataSet = [
   [
     "38089150",
     "550",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อัลฟา,อัลฟา-ไดเมทิล-อัลฟา-คาร์โบบิวทอกซิ-ไดไฮโดร-แกมมา-ไพโรน",
     "ALPHA,ALPHA-DIMETHYL-ALPHA-CARBOBUTOXY-DIHYDRO-GAMMA-PYRONE",
@@ -82342,7 +82349,7 @@ var dataSet = [
   [
     "38089150",
     "550",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อัลฟา,อัลฟา-ไดเมทิล-อัลฟา-คาร์โบบิวทอกซิ-ไดไฮโดร-แกมมา-ไพโรน",
     "ALPHA,ALPHA-DIMETHYL-ALPHA-CARBOBUTOXY-DIHYDRO-GAMMA-PYRONE",
@@ -82405,7 +82412,7 @@ var dataSet = [
   [
     "38089150",
     "554",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เอทิลเฮกซิลีนไกลคอล(เอทิลเฮกเซนไดออล    อีโทเฮกซะไดออล)",
     "ETHYLHEXYLENEGLYCOL(ETHYLHEXANEDIOL, ETHOHEXADIOL)",
@@ -82414,7 +82421,7 @@ var dataSet = [
   [
     "38089150",
     "554",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เอทิลเฮกซิลีนไกลคอล(เอทิลเฮกเซนไดออล    อีโทเฮกซะไดออล)",
     "ETHYLHEXYLENEGLYCOL(ETHYLHEXANEDIOL, ETHOHEXADIOL)",
@@ -82495,7 +82502,7 @@ var dataSet = [
   [
     "38089150",
     "559",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "2-ไนโตร-2-เมทิล-1,3-โพรเพนไดออล",
     "2-NITRO-2-METHYL-1,3-PROPANEDIOL",
@@ -82504,7 +82511,7 @@ var dataSet = [
   [
     "38089150",
     "559",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "2-ไนโตร-2-เมทิล-1,3-โพรเพนไดออล",
     "2-NITRO-2-METHYL-1,3-PROPANEDIOL",
@@ -82531,7 +82538,7 @@ var dataSet = [
   [
     "38089150",
     "561",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เพนตะเมทิลีนไดโพรไพโอเนต",
     "PENTAMETHYLENE DIPROPIONATE",
@@ -82540,7 +82547,7 @@ var dataSet = [
   [
     "38089150",
     "561",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เพนตะเมทิลีนไดโพรไพโอเนต",
     "PENTAMETHYLENE DIPROPIONATE",
@@ -82567,7 +82574,7 @@ var dataSet = [
   [
     "38089150",
     "563",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไพเพอโรนิลไซโคลเฮกซีโนน",
     "PIPERONYL CYCLOHEXENONE",
@@ -82576,7 +82583,7 @@ var dataSet = [
   [
     "38089150",
     "563",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไพเพอโรนิลไซโคลเฮกซีโนน",
     "PIPERONYL CYCLOHEXENONE",
@@ -82603,7 +82610,7 @@ var dataSet = [
   [
     "38089150",
     "565",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "พลิฟีเนต",
     "PLIFENATE",
@@ -82612,7 +82619,7 @@ var dataSet = [
   [
     "38089150",
     "565",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "พลิฟีเนต",
     "PLIFENATE",
@@ -82621,7 +82628,7 @@ var dataSet = [
   [
     "38089150",
     "566",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "พารา-(นอร์มัล-โพรพอกซิ)เบนซัลดีไฮด์",
     "P-(N-PROPOXY)BENZALDEHYDE",
@@ -82630,7 +82637,7 @@ var dataSet = [
   [
     "38089150",
     "566",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "พารา-(นอร์มัล-โพรพอกซิ)เบนซัลดีไฮด์",
     "P-(N-PROPOXY)BENZALDEHYDE",
@@ -82639,7 +82646,7 @@ var dataSet = [
   [
     "38089150",
     "567",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "นอร์มัล-โพรพิลซินนะเมต",
     "N-PROPYL CINNAMATE",
@@ -82648,7 +82655,7 @@ var dataSet = [
   [
     "38089150",
     "567",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "นอร์มัล-โพรพิลซินนะเมต",
     "N-PROPYL CINNAMATE",
@@ -82693,7 +82700,7 @@ var dataSet = [
   [
     "38089150",
     "570",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "1,2,3,4-เตตระไฮโดร-2-แนฟทอล (เตตระลอล)",
     "1,2,3,4-TETRAHYDRO-2-NAPHTHOL (TETRALOL)",
@@ -82702,7 +82709,7 @@ var dataSet = [
   [
     "38089150",
     "570",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "1,2,3,4-เตตระไฮโดร-2-แนฟทอล (เตตระลอล)",
     "1,2,3,4-TETRAHYDRO-2-NAPHTHOL (TETRALOL)",
@@ -82729,7 +82736,7 @@ var dataSet = [
   [
     "38089150",
     "572",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ทาไนต์(ไอโซบอร์นิลไทโอไซยาโนอะซีเทต)",
     "THANITE(ISOBORNYL THIOCYANOACETATE)",
@@ -82738,7 +82745,7 @@ var dataSet = [
   [
     "38089150",
     "572",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ทาไนต์(ไอโซบอร์นิลไทโอไซยาโนอะซีเทต)",
     "THANITE(ISOBORNYL THIOCYANOACETATE)",
@@ -82747,7 +82754,7 @@ var dataSet = [
   [
     "38089150",
     "573",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ที่มีสารโบรโมมีเทน(เมทิลโบรไมด์)หรือโบรโมคลอโรมีเทน",
     "CONTAINING BROMOMETHANE(METHYLBROMIDE)OR BROMOCHLOROMETHANE",
@@ -82756,7 +82763,7 @@ var dataSet = [
   [
     "38089150",
     "573",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ที่มีสารโบรโมมีเทน(เมทิลโบรไมด์)หรือโบรโมคลอโรมีเทน",
     "CONTAINING BROMOMETHANE(METHYLBROMIDE)OR BROMOCHLOROMETHANE",
@@ -82765,7 +82772,7 @@ var dataSet = [
   [
     "38089150",
     "574",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คลอร์มีฟอส",
     "CHLORMEPHOS",
@@ -82774,7 +82781,7 @@ var dataSet = [
   [
     "38089150",
     "574",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คลอร์มีฟอส",
     "CHLORMEPHOS",
@@ -82837,7 +82844,7 @@ var dataSet = [
   [
     "38089150",
     "578",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "พารา-ไอโซโพรพิลฟีนิลเอทิล แอลกอฮอล์",
     "P-ISOPROPYLPHENYLETHYL ALCOHOL",
@@ -82846,7 +82853,7 @@ var dataSet = [
   [
     "38089150",
     "578",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "พารา-ไอโซโพรพิลฟีนิลเอทิล แอลกอฮอล์",
     "P-ISOPROPYLPHENYLETHYL ALCOHOL",
@@ -82873,7 +82880,7 @@ var dataSet = [
   [
     "38089150",
     "580",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "พารา-เมทอกซิเบนซิล แอลกอฮอล์",
     "P-METHOXYBENZYL ALCOHOL",
@@ -82882,7 +82889,7 @@ var dataSet = [
   [
     "38089150",
     "580",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "พารา-เมทอกซิเบนซิล แอลกอฮอล์",
     "P-METHOXYBENZYL ALCOHOL",
@@ -82909,7 +82916,7 @@ var dataSet = [
   [
     "38089150",
     "582",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "สปีโนแซด",
     "SPINOSAD",
@@ -82918,7 +82925,7 @@ var dataSet = [
   [
     "38089150",
     "582",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "สปีโนแซด",
     "SPINOSAD",
@@ -82927,7 +82934,7 @@ var dataSet = [
   [
     "38089150",
     "583",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไทอะโคลพริด",
     "THIACLOPRID",
@@ -82936,7 +82943,7 @@ var dataSet = [
   [
     "38089150",
     "583",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไทอะโคลพริด",
     "THIACLOPRID",
@@ -82999,7 +83006,7 @@ var dataSet = [
   [
     "38089150",
     "587",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เบต้า-ไซเพอร์เมทริน",
     "BETA-CYPERMETHRIN",
@@ -83008,7 +83015,7 @@ var dataSet = [
   [
     "38089150",
     "587",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เบต้า-ไซเพอร์เมทริน",
     "BETA-CYPERMETHRIN",
@@ -83035,7 +83042,7 @@ var dataSet = [
   [
     "38089150",
     "589",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อื่น ๆ ที่มีส่วนประกอบของสารออกฤทธิ์สารเดียว",
     "OTHER,CONTAINING 1 ACTIVE INGREDIENT",
@@ -83044,7 +83051,7 @@ var dataSet = [
   [
     "38089150",
     "589",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อื่น ๆ ที่มีส่วนประกอบของสารออกฤทธิ์สารเดียว",
     "OTHER,CONTAINING 1 ACTIVE INGREDIENT",
@@ -83071,7 +83078,7 @@ var dataSet = [
   [
     "38089150",
     "591",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โซเดียม ฟลูออไรด์",
     "SODIUM FLUORIDE",
@@ -83080,7 +83087,7 @@ var dataSet = [
   [
     "38089150",
     "591",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โซเดียม ฟลูออไรด์",
     "SODIUM FLUORIDE",
@@ -83161,7 +83168,7 @@ var dataSet = [
   [
     "38089190",
     "104",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เบนไดโอคาร์บ",
     "BENDIOCARB",
@@ -83170,7 +83177,7 @@ var dataSet = [
   [
     "38089190",
     "104",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เบนไดโอคาร์บ",
     "BENDIOCARB",
@@ -83197,7 +83204,7 @@ var dataSet = [
   [
     "38089190",
     "106",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "บิวโตคาร์บอกซิม",
     "BUTOCARBOXIM",
@@ -83206,7 +83213,7 @@ var dataSet = [
   [
     "38089190",
     "106",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "บิวโตคาร์บอกซิม",
     "BUTOCARBOXIM",
@@ -83215,7 +83222,7 @@ var dataSet = [
   [
     "38089190",
     "107",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คาร์บาริล",
     "CARBARYL",
@@ -83224,7 +83231,7 @@ var dataSet = [
   [
     "38089190",
     "107",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คาร์บาริล",
     "CARBARYL",
@@ -83251,7 +83258,7 @@ var dataSet = [
   [
     "38089190",
     "109",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คาร์โบซัลแฟน",
     "CARBOSULFAN",
@@ -83260,7 +83267,7 @@ var dataSet = [
   [
     "38089190",
     "109",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คาร์โบซัลแฟน",
     "CARBOSULFAN",
@@ -83269,7 +83276,7 @@ var dataSet = [
   [
     "38089190",
     "110",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไดออกซะคาร์บ",
     "DIOXACARB",
@@ -83278,7 +83285,7 @@ var dataSet = [
   [
     "38089190",
     "110",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไดออกซะคาร์บ",
     "DIOXACARB",
@@ -83305,7 +83312,7 @@ var dataSet = [
   [
     "38089190",
     "112",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฟนอกซิคาร์บ",
     "FENOXYCARB",
@@ -83314,7 +83321,7 @@ var dataSet = [
   [
     "38089190",
     "112",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฟนอกซิคาร์บ",
     "FENOXYCARB",
@@ -83359,7 +83366,7 @@ var dataSet = [
   [
     "38089190",
     "115",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ฟิวราไทโอคาร์บ",
     "FURATHIOCARB",
@@ -83368,7 +83375,7 @@ var dataSet = [
   [
     "38089190",
     "115",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ฟิวราไทโอคาร์บ",
     "FURATHIOCARB",
@@ -83413,7 +83420,7 @@ var dataSet = [
   [
     "38089190",
     "118",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เมทอลคาร์บ",
     "METOLCARB",
@@ -83422,7 +83429,7 @@ var dataSet = [
   [
     "38089190",
     "118",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เมทอลคาร์บ",
     "METOLCARB",
@@ -83431,7 +83438,7 @@ var dataSet = [
   [
     "38089190",
     "119",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เมกซะคาร์เบต",
     "MEXACARBATE",
@@ -83440,7 +83447,7 @@ var dataSet = [
   [
     "38089190",
     "119",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เมกซะคาร์เบต",
     "MEXACARBATE",
@@ -83467,7 +83474,7 @@ var dataSet = [
   [
     "38089190",
     "121",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "พิริมิคาร์บ",
     "PIRIMICARB",
@@ -83476,7 +83483,7 @@ var dataSet = [
   [
     "38089190",
     "121",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "พิริมิคาร์บ",
     "PIRIMICARB",
@@ -83485,7 +83492,7 @@ var dataSet = [
   [
     "38089190",
     "122",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โพรเมคาร์บ",
     "PROMECARB",
@@ -83494,7 +83501,7 @@ var dataSet = [
   [
     "38089190",
     "122",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โพรเมคาร์บ",
     "PROMECARB",
@@ -83503,7 +83510,7 @@ var dataSet = [
   [
     "38089190",
     "123",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โพรพอกเซอร์",
     "PROPOXUR",
@@ -83512,7 +83519,7 @@ var dataSet = [
   [
     "38089190",
     "123",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โพรพอกเซอร์",
     "PROPOXUR",
@@ -83539,7 +83546,7 @@ var dataSet = [
   [
     "38089190",
     "125",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไทโอฟานอกซ์",
     "THIOFANOX",
@@ -83548,7 +83555,7 @@ var dataSet = [
   [
     "38089190",
     "125",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไทโอฟานอกซ์",
     "THIOFANOX",
@@ -83557,7 +83564,7 @@ var dataSet = [
   [
     "38089190",
     "126",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เอ็กซ์เอ็มซี (3,5-ซิลิลเมทิลคาร์บาเมต)",
     "XMC(3,5-XYLYLMETHYL CARBAMATE)",
@@ -83566,7 +83573,7 @@ var dataSet = [
   [
     "38089190",
     "126",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เอ็กซ์เอ็มซี (3,5-ซิลิลเมทิลคาร์บาเมต)",
     "XMC(3,5-XYLYLMETHYL CARBAMATE)",
@@ -83575,7 +83582,7 @@ var dataSet = [
   [
     "38089190",
     "199",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คาร์บาเมตอื่นๆ",
     "OTHER CARBAMATE",
@@ -83584,7 +83591,7 @@ var dataSet = [
   [
     "38089190",
     "199",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คาร์บาเมตอื่นๆ",
     "OTHER CARBAMATE",
@@ -83593,7 +83600,7 @@ var dataSet = [
   [
     "38089190",
     "207",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เอนโดซัลแฟน",
     "ENDOSULFAN",
@@ -83602,7 +83609,7 @@ var dataSet = [
   [
     "38089190",
     "207",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เอนโดซัลแฟน",
     "ENDOSULFAN",
@@ -83629,7 +83636,7 @@ var dataSet = [
   [
     "38089190",
     "209",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เบตา-เอนโดซัลแฟน",
     "beta-ENDOSULFAN",
@@ -83638,7 +83645,7 @@ var dataSet = [
   [
     "38089190",
     "209",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เบตา-เอนโดซัลแฟน",
     "beta-ENDOSULFAN",
@@ -83665,7 +83672,7 @@ var dataSet = [
   [
     "38089190",
     "211",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เมทอกซิคลอร์",
     "METHOXYCHLOR",
@@ -83674,7 +83681,7 @@ var dataSet = [
   [
     "38089190",
     "211",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เมทอกซิคลอร์",
     "METHOXYCHLOR",
@@ -83737,7 +83744,7 @@ var dataSet = [
   [
     "38089190",
     "215",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไมเรกซ์",
     "MIREX",
@@ -83746,7 +83753,7 @@ var dataSet = [
   [
     "38089190",
     "215",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไมเรกซ์",
     "MIREX",
@@ -83773,7 +83780,7 @@ var dataSet = [
   [
     "38089190",
     "217",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ทีดีอีหรือดีดีดี (เตตระคลอโรไดฟีนิลอีเทน หรือ 1,1-ไดคลอโร-2,2-บิส(4-คลอโรฟีนิล)อีเทน  )",
     "TDE OR DDD (TETRACHLORODIPHENYLETHANE OR 1,1-DICHLORO-2, 2-bis(4-CHLOROPHENYL)ETHANE)",
@@ -83782,7 +83789,7 @@ var dataSet = [
   [
     "38089190",
     "217",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ทีดีอีหรือดีดีดี (เตตระคลอโรไดฟีนิลอีเทน หรือ 1,1-ไดคลอโร-2,2-บิส(4-คลอโรฟีนิล)อีเทน  )",
     "TDE OR DDD (TETRACHLORODIPHENYLETHANE OR 1,1-DICHLORO-2, 2-bis(4-CHLOROPHENYL)ETHANE)",
@@ -83827,7 +83834,7 @@ var dataSet = [
   [
     "38089190",
     "302",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อะซาเมไทฟอส",
     "AZAMETHIPHOS",
@@ -83836,7 +83843,7 @@ var dataSet = [
   [
     "38089190",
     "302",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อะซาเมไทฟอส",
     "AZAMETHIPHOS",
@@ -83899,7 +83906,7 @@ var dataSet = [
   [
     "38089190",
     "306",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โบรโมฟอส-เอทิล",
     "BROMOPHOS-ETHYL",
@@ -83908,7 +83915,7 @@ var dataSet = [
   [
     "38089190",
     "306",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โบรโมฟอส-เอทิล",
     "BROMOPHOS-ETHYL",
@@ -83917,7 +83924,7 @@ var dataSet = [
   [
     "38089190",
     "307",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คาร์โบฟีโนไทออน",
     "CARBOPHENOTHION",
@@ -83926,7 +83933,7 @@ var dataSet = [
   [
     "38089190",
     "307",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คาร์โบฟีโนไทออน",
     "CARBOPHENOTHION",
@@ -83935,7 +83942,7 @@ var dataSet = [
   [
     "38089190",
     "308",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คลอร์เฟนวินฟอส",
     "CHLORFENVINPHOS",
@@ -83944,7 +83951,7 @@ var dataSet = [
   [
     "38089190",
     "308",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คลอร์เฟนวินฟอส",
     "CHLORFENVINPHOS",
@@ -83953,7 +83960,7 @@ var dataSet = [
   [
     "38089190",
     "309",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คลอร์ไพริฟอส",
     "CHLORPYRIFOS",
@@ -83962,7 +83969,7 @@ var dataSet = [
   [
     "38089190",
     "309",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คลอร์ไพริฟอส",
     "CHLORPYRIFOS",
@@ -83989,7 +83996,7 @@ var dataSet = [
   [
     "38089190",
     "311",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คลอร์ไทโอฟอส",
     "CHLORTHIOPHOS",
@@ -83998,7 +84005,7 @@ var dataSet = [
   [
     "38089190",
     "311",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คลอร์ไทโอฟอส",
     "CHLORTHIOPHOS",
@@ -84007,7 +84014,7 @@ var dataSet = [
   [
     "38089190",
     "312",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คูมาฟอส",
     "COUMAPHOS",
@@ -84016,7 +84023,7 @@ var dataSet = [
   [
     "38089190",
     "312",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คูมาฟอส",
     "COUMAPHOS",
@@ -84025,7 +84032,7 @@ var dataSet = [
   [
     "38089190",
     "313",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โครทอกซิฟอส",
     "CROTOXYPHOS",
@@ -84034,7 +84041,7 @@ var dataSet = [
   [
     "38089190",
     "313",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โครทอกซิฟอส",
     "CROTOXYPHOS",
@@ -84061,7 +84068,7 @@ var dataSet = [
   [
     "38089190",
     "315",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไซยาโนฟอส",
     "CYANOPHOS",
@@ -84070,7 +84077,7 @@ var dataSet = [
   [
     "38089190",
     "315",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไซยาโนฟอส",
     "CYANOPHOS",
@@ -84097,7 +84104,7 @@ var dataSet = [
   [
     "38089190",
     "317",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เดเมทอน",
     "DEMETON",
@@ -84106,7 +84113,7 @@ var dataSet = [
   [
     "38089190",
     "317",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เดเมทอน",
     "DEMETON",
@@ -84115,7 +84122,7 @@ var dataSet = [
   [
     "38089190",
     "318",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เดเมทอน-โอ",
     "DEMETON-O",
@@ -84124,7 +84131,7 @@ var dataSet = [
   [
     "38089190",
     "318",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เดเมทอน-โอ",
     "DEMETON-O",
@@ -84151,7 +84158,7 @@ var dataSet = [
   [
     "38089190",
     "320",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไดอะลิฟอส (ไดอะลิฟอร์)",
     "DIALIFOS (DIALIFOR)",
@@ -84160,7 +84167,7 @@ var dataSet = [
   [
     "38089190",
     "320",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไดอะลิฟอส (ไดอะลิฟอร์)",
     "DIALIFOS (DIALIFOR)",
@@ -84223,7 +84230,7 @@ var dataSet = [
   [
     "38089190",
     "324",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไดโครโตฟอส",
     "DICROTOPHOS",
@@ -84232,7 +84239,7 @@ var dataSet = [
   [
     "38089190",
     "324",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไดโครโตฟอส",
     "DICROTOPHOS",
@@ -84241,7 +84248,7 @@ var dataSet = [
   [
     "38089190",
     "325",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไดเมโทเอต",
     "DIMETHOATE",
@@ -84250,7 +84257,7 @@ var dataSet = [
   [
     "38089190",
     "325",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไดเมโทเอต",
     "DIMETHOATE",
@@ -84259,7 +84266,7 @@ var dataSet = [
   [
     "38089190",
     "326",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไดออกซะเบนโซฟอส (ซาลิไทออน)",
     "DIOXABENZOFOS (SALITHION)",
@@ -84268,7 +84275,7 @@ var dataSet = [
   [
     "38089190",
     "326",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไดออกซะเบนโซฟอส (ซาลิไทออน)",
     "DIOXABENZOFOS (SALITHION)",
@@ -84313,7 +84320,7 @@ var dataSet = [
   [
     "38089190",
     "329",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อีไทออน",
     "ETHION",
@@ -84322,7 +84329,7 @@ var dataSet = [
   [
     "38089190",
     "329",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อีไทออน",
     "ETHION",
@@ -84349,7 +84356,7 @@ var dataSet = [
   [
     "38089190",
     "331",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฟนคลอร์ฟอส",
     "FENCHLORPHOS",
@@ -84358,7 +84365,7 @@ var dataSet = [
   [
     "38089190",
     "331",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฟนคลอร์ฟอส",
     "FENCHLORPHOS",
@@ -84385,7 +84392,7 @@ var dataSet = [
   [
     "38089190",
     "333",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฟนซัลโฟไทออน",
     "FENSULFOTHION",
@@ -84394,7 +84401,7 @@ var dataSet = [
   [
     "38089190",
     "333",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฟนซัลโฟไทออน",
     "FENSULFOTHION",
@@ -84403,7 +84410,7 @@ var dataSet = [
   [
     "38089190",
     "334",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฟนไทออน",
     "FENTHION",
@@ -84412,7 +84419,7 @@ var dataSet = [
   [
     "38089190",
     "334",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฟนไทออน",
     "FENTHION",
@@ -84421,7 +84428,7 @@ var dataSet = [
   [
     "38089190",
     "335",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โฟโนฟอส",
     "FONOFOS",
@@ -84430,7 +84437,7 @@ var dataSet = [
   [
     "38089190",
     "335",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โฟโนฟอส",
     "FONOFOS",
@@ -84439,7 +84446,7 @@ var dataSet = [
   [
     "38089190",
     "336",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ฟอร์โมไทออน",
     "FORMOTHION",
@@ -84448,7 +84455,7 @@ var dataSet = [
   [
     "38089190",
     "336",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ฟอร์โมไทออน",
     "FORMOTHION",
@@ -84529,7 +84536,7 @@ var dataSet = [
   [
     "38089190",
     "341",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไอซอกซะไทออน",
     "ISOXATHION",
@@ -84538,7 +84545,7 @@ var dataSet = [
   [
     "38089190",
     "341",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไอซอกซะไทออน",
     "ISOXATHION",
@@ -84565,7 +84572,7 @@ var dataSet = [
   [
     "38089190",
     "343",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เลพโตฟอส",
     "LEPTOPHOS",
@@ -84574,7 +84581,7 @@ var dataSet = [
   [
     "38089190",
     "343",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เลพโตฟอส",
     "LEPTOPHOS",
@@ -84655,7 +84662,7 @@ var dataSet = [
   [
     "38089190",
     "348",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เมวินฟอส",
     "MEVINPHOS",
@@ -84664,7 +84671,7 @@ var dataSet = [
   [
     "38089190",
     "348",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เมวินฟอส",
     "MEVINPHOS",
@@ -84763,7 +84770,7 @@ var dataSet = [
   [
     "38089190",
     "354",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โฟเรต",
     "PHORATE",
@@ -84772,7 +84779,7 @@ var dataSet = [
   [
     "38089190",
     "354",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โฟเรต",
     "PHORATE",
@@ -84799,7 +84806,7 @@ var dataSet = [
   [
     "38089190",
     "356",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ฟอสเมต",
     "PHOSMET",
@@ -84808,7 +84815,7 @@ var dataSet = [
   [
     "38089190",
     "356",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ฟอสเมต",
     "PHOSMET",
@@ -84835,7 +84842,7 @@ var dataSet = [
   [
     "38089190",
     "358",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "พิริมิฟอส-เมทิล",
     "PIRIMIPHOS-METHYL",
@@ -84844,7 +84851,7 @@ var dataSet = [
   [
     "38089190",
     "358",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "พิริมิฟอส-เมทิล",
     "PIRIMIPHOS-METHYL",
@@ -84871,7 +84878,7 @@ var dataSet = [
   [
     "38089190",
     "360",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โพรไทโอฟอส",
     "PROTHIOFOS",
@@ -84880,7 +84887,7 @@ var dataSet = [
   [
     "38089190",
     "360",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โพรไทโอฟอส",
     "PROTHIOFOS",
@@ -84889,7 +84896,7 @@ var dataSet = [
   [
     "38089190",
     "361",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไพราโคลฟอส",
     "PYRACLOFOS",
@@ -84898,7 +84905,7 @@ var dataSet = [
   [
     "38089190",
     "361",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไพราโคลฟอส",
     "PYRACLOFOS",
@@ -84907,7 +84914,7 @@ var dataSet = [
   [
     "38089190",
     "362",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไพริดาเฟนไทออน",
     "PYRIDAPHENTHION",
@@ -84916,7 +84923,7 @@ var dataSet = [
   [
     "38089190",
     "362",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไพริดาเฟนไทออน",
     "PYRIDAPHENTHION",
@@ -84925,7 +84932,7 @@ var dataSet = [
   [
     "38089190",
     "363",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ควินาลฟอส",
     "QUINALPHOS",
@@ -84934,7 +84941,7 @@ var dataSet = [
   [
     "38089190",
     "363",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ควินาลฟอส",
     "QUINALPHOS",
@@ -84997,7 +85004,7 @@ var dataSet = [
   [
     "38089190",
     "367",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เทเมฟอส",
     "TEMEPHOS",
@@ -85006,7 +85013,7 @@ var dataSet = [
   [
     "38089190",
     "367",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เทเมฟอส",
     "TEMEPHOS",
@@ -85015,7 +85022,7 @@ var dataSet = [
   [
     "38089190",
     "368",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ทีอีพีพี",
     "TEPP",
@@ -85024,7 +85031,7 @@ var dataSet = [
   [
     "38089190",
     "368",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ทีอีพีพี",
     "TEPP",
@@ -85069,7 +85076,7 @@ var dataSet = [
   [
     "38089190",
     "371",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไตรอะโซฟอส",
     "TRIAZOPHOS",
@@ -85078,7 +85085,7 @@ var dataSet = [
   [
     "38089190",
     "371",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไตรอะโซฟอส",
     "TRIAZOPHOS",
@@ -85123,7 +85130,7 @@ var dataSet = [
   [
     "38089190",
     "374",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เมทาคริฟอส",
     "METHACRIFOS",
@@ -85132,7 +85139,7 @@ var dataSet = [
   [
     "38089190",
     "374",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เมทาคริฟอส",
     "METHACRIFOS",
@@ -85177,7 +85184,7 @@ var dataSet = [
   [
     "38089190",
     "402",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ดี-อัลเลทริน",
     "d-ALLETHRIN",
@@ -85186,7 +85193,7 @@ var dataSet = [
   [
     "38089190",
     "402",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ดี-อัลเลทริน",
     "d-ALLETHRIN",
@@ -85195,7 +85202,7 @@ var dataSet = [
   [
     "38089190",
     "403",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไบเฟนทริน",
     "BIFENTHRIN",
@@ -85204,7 +85211,7 @@ var dataSet = [
   [
     "38089190",
     "403",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไบเฟนทริน",
     "BIFENTHRIN",
@@ -85213,7 +85220,7 @@ var dataSet = [
   [
     "38089190",
     "404",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไบโออัลเลทริน",
     "BIOALLETHRIN",
@@ -85222,7 +85229,7 @@ var dataSet = [
   [
     "38089190",
     "404",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไบโออัลเลทริน",
     "BIOALLETHRIN",
@@ -85231,7 +85238,7 @@ var dataSet = [
   [
     "38089190",
     "405",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไบโอเรสเมทริน",
     "BIORESMETHRIN",
@@ -85240,7 +85247,7 @@ var dataSet = [
   [
     "38089190",
     "405",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไบโอเรสเมทริน",
     "BIORESMETHRIN",
@@ -85312,7 +85319,7 @@ var dataSet = [
   [
     "38089190",
     "411",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อัลฟา-ไซเพอร์เมทริน",
     "alpha-CYPERMETHRIN",
@@ -85321,7 +85328,7 @@ var dataSet = [
   [
     "38089190",
     "411",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อัลฟา-ไซเพอร์เมทริน",
     "alpha-CYPERMETHRIN",
@@ -85330,7 +85337,7 @@ var dataSet = [
   [
     "38089190",
     "412",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไซฟีโนทริน",
     "CYPHENOTHRIN",
@@ -85339,7 +85346,7 @@ var dataSet = [
   [
     "38089190",
     "412",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไซฟีโนทริน",
     "CYPHENOTHRIN",
@@ -85348,7 +85355,7 @@ var dataSet = [
   [
     "38089190",
     "413",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เดลตาเมทริน",
     "DELTAMETHRIN",
@@ -85357,7 +85364,7 @@ var dataSet = [
   [
     "38089190",
     "413",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เดลตาเมทริน",
     "DELTAMETHRIN",
@@ -85366,7 +85373,7 @@ var dataSet = [
   [
     "38089190",
     "414",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เอสเฟนวาเลอเรต",
     "ESFENVALERATE",
@@ -85375,7 +85382,7 @@ var dataSet = [
   [
     "38089190",
     "414",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เอสเฟนวาเลอเรต",
     "ESFENVALERATE",
@@ -85384,7 +85391,7 @@ var dataSet = [
   [
     "38089190",
     "415",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อีโตเฟนพรอกซ์",
     "ETOFENPROX",
@@ -85393,7 +85400,7 @@ var dataSet = [
   [
     "38089190",
     "415",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อีโตเฟนพรอกซ์",
     "ETOFENPROX",
@@ -85402,7 +85409,7 @@ var dataSet = [
   [
     "38089190",
     "416",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฟนวาเลอเรต",
     "FENVALERATE",
@@ -85411,7 +85418,7 @@ var dataSet = [
   [
     "38089190",
     "416",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฟนวาเลอเรต",
     "FENVALERATE",
@@ -85438,7 +85445,7 @@ var dataSet = [
   [
     "38089190",
     "418",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ฟลูเมทริน",
     "FLUMETHRIN",
@@ -85447,7 +85454,7 @@ var dataSet = [
   [
     "38089190",
     "418",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ฟลูเมทริน",
     "FLUMETHRIN",
@@ -85474,7 +85481,7 @@ var dataSet = [
   [
     "38089190",
     "420",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อิมิโพรทริน",
     "IMIPROTHRIN",
@@ -85483,7 +85490,7 @@ var dataSet = [
   [
     "38089190",
     "420",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อิมิโพรทริน",
     "IMIPROTHRIN",
@@ -85510,7 +85517,7 @@ var dataSet = [
   [
     "38089190",
     "422",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ดี-ฟีโนทริน",
     "d-PHENOTHRIN",
@@ -85519,7 +85526,7 @@ var dataSet = [
   [
     "38089190",
     "422",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ดี-ฟีโนทริน",
     "d-PHENOTHRIN",
@@ -85528,7 +85535,7 @@ var dataSet = [
   [
     "38089190",
     "423",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "พราลเลทริน",
     "PRALLETHRIN",
@@ -85537,7 +85544,7 @@ var dataSet = [
   [
     "38089190",
     "423",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "พราลเลทริน",
     "PRALLETHRIN",
@@ -85564,7 +85571,7 @@ var dataSet = [
   [
     "38089190",
     "425",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เรสเมทริน",
     "RESMETHRIN",
@@ -85573,7 +85580,7 @@ var dataSet = [
   [
     "38089190",
     "425",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เรสเมทริน",
     "RESMETHRIN",
@@ -85654,7 +85661,7 @@ var dataSet = [
   [
     "38089190",
     "502",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อะเซทามิพริด",
     "ACETAMIPRID",
@@ -85663,7 +85670,7 @@ var dataSet = [
   [
     "38089190",
     "502",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อะเซทามิพริด",
     "ACETAMIPRID",
@@ -85672,7 +85679,7 @@ var dataSet = [
   [
     "38089190",
     "503",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อลูมิเนียมฟอสไฟด์",
     "ALUMINIUM PHOSPHIDE",
@@ -85681,7 +85688,7 @@ var dataSet = [
   [
     "38089190",
     "503",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อลูมิเนียมฟอสไฟด์",
     "ALUMINIUM PHOSPHIDE",
@@ -85690,7 +85697,7 @@ var dataSet = [
   [
     "38089190",
     "504",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อะซาดิราชติน",
     "AZADIRACHTIN",
@@ -85699,7 +85706,7 @@ var dataSet = [
   [
     "38089190",
     "504",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อะซาดิราชติน",
     "AZADIRACHTIN",
@@ -85708,7 +85715,7 @@ var dataSet = [
   [
     "38089190",
     "505",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เบนซัลแทพ",
     "BENSULTAP",
@@ -85717,7 +85724,7 @@ var dataSet = [
   [
     "38089190",
     "505",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เบนซัลแทพ",
     "BENSULTAP",
@@ -85744,7 +85751,7 @@ var dataSet = [
   [
     "38089190",
     "507",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โบรโมไซเคลน",
     "BROMOCYCLEN",
@@ -85753,7 +85760,7 @@ var dataSet = [
   [
     "38089190",
     "507",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โบรโมไซเคลน",
     "BROMOCYCLEN",
@@ -85762,7 +85769,7 @@ var dataSet = [
   [
     "38089190",
     "508",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "บูโพรฟีซิน",
     "BUPROFEZIN",
@@ -85771,7 +85778,7 @@ var dataSet = [
   [
     "38089190",
     "508",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "บูโพรฟีซิน",
     "BUPROFEZIN",
@@ -85780,7 +85787,7 @@ var dataSet = [
   [
     "38089190",
     "509",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คาร์แทพ",
     "CARTAP",
@@ -85789,7 +85796,7 @@ var dataSet = [
   [
     "38089190",
     "509",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คาร์แทพ",
     "CARTAP",
@@ -85798,7 +85805,7 @@ var dataSet = [
   [
     "38089190",
     "510",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คาร์แทพไฮโดรคลอไรด์ (คาร์แทพโมโนไฮโดรคลอไรด์)",
     "CARTAP HYDROCHLORIDE (CARTAP MONOHYDROCHLORIDE)",
@@ -85807,7 +85814,7 @@ var dataSet = [
   [
     "38089190",
     "510",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คาร์แทพไฮโดรคลอไรด์ (คาร์แทพโมโนไฮโดรคลอไรด์)",
     "CARTAP HYDROCHLORIDE (CARTAP MONOHYDROCHLORIDE)",
@@ -85888,7 +85895,7 @@ var dataSet = [
   [
     "38089190",
     "515",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โครมาเฟโนไซด์",
     "CHROMAFENOZIDE",
@@ -85897,7 +85904,7 @@ var dataSet = [
   [
     "38089190",
     "515",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โครมาเฟโนไซด์",
     "CHROMAFENOZIDE",
@@ -85906,7 +85913,7 @@ var dataSet = [
   [
     "38089190",
     "516",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไซโรมาซีน",
     "CHROMAFENOZIDE",
@@ -85915,7 +85922,7 @@ var dataSet = [
   [
     "38089190",
     "516",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไซโรมาซีน",
     "CHROMAFENOZIDE",
@@ -85942,7 +85949,7 @@ var dataSet = [
   [
     "38089190",
     "518",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไดฟลูเบนซูรอน",
     "DIFLUBENZURON",
@@ -85951,7 +85958,7 @@ var dataSet = [
   [
     "38089190",
     "518",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไดฟลูเบนซูรอน",
     "DIFLUBENZURON",
@@ -85960,7 +85967,7 @@ var dataSet = [
   [
     "38089190",
     "519",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อีมาเมกตินเบนโซเอต",
     "EMAMECTIN BENZOATE",
@@ -85969,7 +85976,7 @@ var dataSet = [
   [
     "38089190",
     "519",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อีมาเมกตินเบนโซเอต",
     "EMAMECTIN BENZOATE",
@@ -85996,7 +86003,7 @@ var dataSet = [
   [
     "38089190",
     "521",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ฟลูเฟนอกซูรอน",
     "FLUFENOXURON",
@@ -86005,7 +86012,7 @@ var dataSet = [
   [
     "38089190",
     "521",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ฟลูเฟนอกซูรอน",
     "FLUFENOXURON",
@@ -86050,7 +86057,7 @@ var dataSet = [
   [
     "38089190",
     "524",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อิมิดาโคลพริด",
     "IMIDACLOPRID",
@@ -86059,7 +86066,7 @@ var dataSet = [
   [
     "38089190",
     "524",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อิมิดาโคลพริด",
     "IMIDACLOPRID",
@@ -86104,7 +86111,7 @@ var dataSet = [
   [
     "38089190",
     "527",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "แมกนีเซียมฟอสไฟด์",
     "MAGNESIUM PHOSPHIDE",
@@ -86113,7 +86120,7 @@ var dataSet = [
   [
     "38089190",
     "527",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "แมกนีเซียมฟอสไฟด์",
     "MAGNESIUM PHOSPHIDE",
@@ -86122,7 +86129,7 @@ var dataSet = [
   [
     "38089190",
     "528",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เมโทพรีน",
     "METHOPRENE",
@@ -86131,7 +86138,7 @@ var dataSet = [
   [
     "38089190",
     "528",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เมโทพรีน",
     "METHOPRENE",
@@ -86140,7 +86147,7 @@ var dataSet = [
   [
     "38089190",
     "529",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เมทิลโบรไมด์(โบรโมมีเทน)",
     "METHYL BROMIDE(BROMOMETHANE)",
@@ -86149,7 +86156,7 @@ var dataSet = [
   [
     "38089190",
     "529",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เมทิลโบรไมด์(โบรโมมีเทน)",
     "METHYL BROMIDE(BROMOMETHANE)",
@@ -86158,7 +86165,7 @@ var dataSet = [
   [
     "38089190",
     "530",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "นิโคตินซัลเฟต",
     "NICOTINE SULFATE",
@@ -86167,7 +86174,7 @@ var dataSet = [
   [
     "38089190",
     "530",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "นิโคตินซัลเฟต",
     "NICOTINE SULFATE",
@@ -86194,7 +86201,7 @@ var dataSet = [
   [
     "38089190",
     "532",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ปารีสกรีน(ทองแดงอะซีโตอาร์เซไนต์)",
     "PARIS GREEN ( COPPER ACETOARSENITE )",
@@ -86203,7 +86210,7 @@ var dataSet = [
   [
     "38089190",
     "532",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ปารีสกรีน(ทองแดงอะซีโตอาร์เซไนต์)",
     "PARIS GREEN ( COPPER ACETOARSENITE )",
@@ -86212,7 +86219,7 @@ var dataSet = [
   [
     "38089190",
     "533",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ฟีนาซีนออกไซด์ (เฟนเซน-5-ออกไซด์)",
     "PHENAZINE OXIDE (PHENZAIN-5-OXIDE)",
@@ -86221,7 +86228,7 @@ var dataSet = [
   [
     "38089190",
     "533",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ฟีนาซีนออกไซด์ (เฟนเซน-5-ออกไซด์)",
     "PHENAZINE OXIDE (PHENZAIN-5-OXIDE)",
@@ -86266,7 +86273,7 @@ var dataSet = [
   [
     "38089190",
     "536",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เทบูเฟโนไซด์",
     "TEBUFENOZIDE",
@@ -86275,7 +86282,7 @@ var dataSet = [
   [
     "38089190",
     "536",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เทบูเฟโนไซด์",
     "TEBUFENOZIDE",
@@ -86338,7 +86345,7 @@ var dataSet = [
   [
     "38089190",
     "540",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไตรฟลูมูรอน",
     "TRIFLUMURON",
@@ -86347,7 +86354,7 @@ var dataSet = [
   [
     "38089190",
     "540",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไตรฟลูมูรอน",
     "TRIFLUMURON",
@@ -86392,7 +86399,7 @@ var dataSet = [
   [
     "38089190",
     "544",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เอ็น-เซคัลดารี-บิวทิลฟทาลิไมด์",
     "N-sec-BUTYL PHTHALIMIDE",
@@ -86401,7 +86408,7 @@ var dataSet = [
   [
     "38089190",
     "544",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เอ็น-เซคัลดารี-บิวทิลฟทาลิไมด์",
     "N-sec-BUTYL PHTHALIMIDE",
@@ -86464,7 +86471,7 @@ var dataSet = [
   [
     "38089190",
     "548",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ซิโตรเนลลาออย",
     "CITRONELLA OIL",
@@ -86473,7 +86480,7 @@ var dataSet = [
   [
     "38089190",
     "548",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ซิโตรเนลลาออย",
     "CITRONELLA OIL",
@@ -86482,7 +86489,7 @@ var dataSet = [
   [
     "38089190",
     "549",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไดบิวทิลฟทาเลท",
     "DIBUTYL PHTHALATE",
@@ -86491,7 +86498,7 @@ var dataSet = [
   [
     "38089190",
     "549",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไดบิวทิลฟทาเลท",
     "DIBUTYL PHTHALATE",
@@ -86500,7 +86507,7 @@ var dataSet = [
   [
     "38089190",
     "550",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อัลฟา,อัลฟา-ไดเมทิล-อัลฟา-คาร์โบบิวทอกซิ-ไดไฮโดร-แกมมา-ไพโรน",
     "alpha,alpha-DIMETHYL-alpha-CARBOBUTOXY-DIHYDRO-gamma-PYRONE",
@@ -86509,7 +86516,7 @@ var dataSet = [
   [
     "38089190",
     "550",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อัลฟา,อัลฟา-ไดเมทิล-อัลฟา-คาร์โบบิวทอกซิ-ไดไฮโดร-แกมมา-ไพโรน",
     "alpha,alpha-DIMETHYL-alpha-CARBOBUTOXY-DIHYDRO-gamma-PYRONE",
@@ -86518,7 +86525,7 @@ var dataSet = [
   [
     "38089190",
     "551",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เอ็น,เอ็น-ไดเอทิลซัคซินาไมด์-นอร์มัล-โพรพิล",
     "N,N-DIETHYL SUCCINAMIDE-n-PROPYL",
@@ -86527,7 +86534,7 @@ var dataSet = [
   [
     "38089190",
     "551",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เอ็น,เอ็น-ไดเอทิลซัคซินาไมด์-นอร์มัล-โพรพิล",
     "N,N-DIETHYL SUCCINAMIDE-n-PROPYL",
@@ -86536,7 +86543,7 @@ var dataSet = [
   [
     "38089190",
     "552",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เอ็น,เอ็น-ไดโพรพิลซัคซินามิกแอซิด-เอทิล",
     "N,N-DIPROPYL SUCCINAMIC ACID-ETHYL",
@@ -86545,7 +86552,7 @@ var dataSet = [
   [
     "38089190",
     "552",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เอ็น,เอ็น-ไดโพรพิลซัคซินามิกแอซิด-เอทิล",
     "N,N-DIPROPYL SUCCINAMIC ACID-ETHYL",
@@ -86554,7 +86561,7 @@ var dataSet = [
   [
     "38089190",
     "553",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เอทิลไซยาโนไซโคลเฮกซิลอะซีเทต",
     "ETHYLCYANOCYCLOHEXYL ACETATE",
@@ -86563,7 +86570,7 @@ var dataSet = [
   [
     "38089190",
     "553",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เอทิลไซยาโนไซโคลเฮกซิลอะซีเทต",
     "ETHYLCYANOCYCLOHEXYL ACETATE",
@@ -86590,7 +86597,7 @@ var dataSet = [
   [
     "38089190",
     "555",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เอทิลเอสเทอร์ของอีพอกซิเมทิลฟีนิลอะคริลิกเอซิด",
     "ETHYL ESTER OF EPOXY METHYLPHENYL ACRYLIC ACID",
@@ -86599,7 +86606,7 @@ var dataSet = [
   [
     "38089190",
     "555",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เอทิลเอสเทอร์ของอีพอกซิเมทิลฟีนิลอะคริลิกเอซิด",
     "ETHYL ESTER OF EPOXY METHYLPHENYL ACRYLIC ACID",
@@ -86608,7 +86615,7 @@ var dataSet = [
   [
     "38089190",
     "556",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไฮดราคริเลต-เบตา-ฟีนิลเอทิล",
     "HYDRACRYLATE-beta-PHENYL ETHYL",
@@ -86617,7 +86624,7 @@ var dataSet = [
   [
     "38089190",
     "556",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไฮดราคริเลต-เบตา-ฟีนิลเอทิล",
     "HYDRACRYLATE-beta-PHENYL ETHYL",
@@ -86626,7 +86633,7 @@ var dataSet = [
   [
     "38089190",
     "557",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "1-(พารา-เมทอกซิฟีนิล)-2-เมทิล-1,3-โพรเพนไดออลเมทิลีนอีเทอร์",
     "1-(p-METHOXYPHENYL)-2-METHYL-1,3- PROPANEDIOL-METHYLENE ETHER",
@@ -86635,7 +86642,7 @@ var dataSet = [
   [
     "38089190",
     "557",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "1-(พารา-เมทอกซิฟีนิล)-2-เมทิล-1,3-โพรเพนไดออลเมทิลีนอีเทอร์",
     "1-(p-METHOXYPHENYL)-2-METHYL-1,3- PROPANEDIOL-METHYLENE ETHER",
@@ -86698,7 +86705,7 @@ var dataSet = [
   [
     "38089190",
     "561",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เพนตะเมทิลีนไดโพรไพโอเนต",
     "PENTAMETHYLENE DIPROPIONATE",
@@ -86707,7 +86714,7 @@ var dataSet = [
   [
     "38089190",
     "561",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เพนตะเมทิลีนไดโพรไพโอเนต",
     "PENTAMETHYLENE DIPROPIONATE",
@@ -86716,7 +86723,7 @@ var dataSet = [
   [
     "38089190",
     "562",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไพเพอโรนิลบิวทอกไซด์ (ไพเพอโรนิลอีเทอร์บิวทอกไซด์)",
     "PIPERONYL BUTOXIDE (PIPERONYL ETHER BUTOXIDE)",
@@ -86725,7 +86732,7 @@ var dataSet = [
   [
     "38089190",
     "562",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไพเพอโรนิลบิวทอกไซด์ (ไพเพอโรนิลอีเทอร์บิวทอกไซด์)",
     "PIPERONYL BUTOXIDE (PIPERONYL ETHER BUTOXIDE)",
@@ -86734,7 +86741,7 @@ var dataSet = [
   [
     "38089190",
     "563",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไพเพอโรนิลไซโคลเฮกซีโนน",
     "PIPERONYL CYCLOHEXENONE",
@@ -86743,7 +86750,7 @@ var dataSet = [
   [
     "38089190",
     "563",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไพเพอโรนิลไซโคลเฮกซีโนน",
     "PIPERONYL CYCLOHEXENONE",
@@ -86788,7 +86795,7 @@ var dataSet = [
   [
     "38089190",
     "566",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "พารา-(นอร์มัล-โพรพอกซิ)เบนซัลดีไฮด์",
     "p-(n-PROPOXY)BENZALDEHYDE",
@@ -86797,7 +86804,7 @@ var dataSet = [
   [
     "38089190",
     "566",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "พารา-(นอร์มัล-โพรพอกซิ)เบนซัลดีไฮด์",
     "p-(n-PROPOXY)BENZALDEHYDE",
@@ -86806,7 +86813,7 @@ var dataSet = [
   [
     "38089190",
     "567",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "นอร์มัล-โพรพิลซินนะเมต",
     "n-PROPYL CINNAMATE",
@@ -86815,7 +86822,7 @@ var dataSet = [
   [
     "38089190",
     "567",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "นอร์มัล-โพรพิลซินนะเมต",
     "n-PROPYL CINNAMATE",
@@ -86824,7 +86831,7 @@ var dataSet = [
   [
     "38089190",
     "568",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไรยาเนีย",
     "RYANIA",
@@ -86833,7 +86840,7 @@ var dataSet = [
   [
     "38089190",
     "568",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไรยาเนีย",
     "RYANIA",
@@ -86842,7 +86849,7 @@ var dataSet = [
   [
     "38089190",
     "569",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ซัลฟลูรามิด",
     "SULFLURAMID",
@@ -86851,7 +86858,7 @@ var dataSet = [
   [
     "38089190",
     "569",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ซัลฟลูรามิด",
     "SULFLURAMID",
@@ -86968,7 +86975,7 @@ var dataSet = [
   [
     "38089190",
     "576",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อินโดซาคาร์บ",
     "INDOXACARB",
@@ -86977,7 +86984,7 @@ var dataSet = [
   [
     "38089190",
     "576",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อินโดซาคาร์บ",
     "INDOXACARB",
@@ -87220,7 +87227,7 @@ var dataSet = [
   [
     "38089190",
     "590",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โพลิอัลคิลีน ไกลคอล สเตียเรต",
     "POLYALKYLENE GLYCOL STEARATE",
@@ -87229,7 +87236,7 @@ var dataSet = [
   [
     "38089190",
     "590",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โพลิอัลคิลีน ไกลคอล สเตียเรต",
     "POLYALKYLENE GLYCOL STEARATE",
@@ -87238,7 +87245,7 @@ var dataSet = [
   [
     "38089190",
     "591",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อื่น ๆ ที่มีส่วนประกอบของสารออกฤทธิ์สารเดียว",
     "OTHER,CONTAINING 1 ACTIVE INGREDIENT",
@@ -87247,7 +87254,7 @@ var dataSet = [
   [
     "38089190",
     "591",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อื่น ๆ ที่มีส่วนประกอบของสารออกฤทธิ์สารเดียว",
     "OTHER,CONTAINING 1 ACTIVE INGREDIENT",
@@ -87274,7 +87281,7 @@ var dataSet = [
   [
     "38089190",
     "600",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ประเภทคาร์บาเมต และ ออร์แกโนคลอรีน",
     "CARBAMATE AND ORGANOCHLORINE",
@@ -87283,7 +87290,7 @@ var dataSet = [
   [
     "38089190",
     "600",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ประเภทคาร์บาเมต และ ออร์แกโนคลอรีน",
     "CARBAMATE AND ORGANOCHLORINE",
@@ -87292,7 +87299,7 @@ var dataSet = [
   [
     "38089190",
     "610",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ประเภทคาร์บาเมต และ ออร์แกโนฟอสฟอรัส",
     "CARBAMATE AND ORGANOPHOSPHORUS",
@@ -87301,7 +87308,7 @@ var dataSet = [
   [
     "38089190",
     "610",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ประเภทคาร์บาเมต และ ออร์แกโนฟอสฟอรัส",
     "CARBAMATE AND ORGANOPHOSPHORUS",
@@ -87328,7 +87335,7 @@ var dataSet = [
   [
     "38089190",
     "630",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ประเภทออร์แกโนคลอรีน และไพรีทรอยด์",
     "ORGANOCHLORINE AND PYRETHROID",
@@ -87337,7 +87344,7 @@ var dataSet = [
   [
     "38089190",
     "630",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ประเภทออร์แกโนคลอรีน และไพรีทรอยด์",
     "ORGANOCHLORINE AND PYRETHROID",
@@ -87346,7 +87353,7 @@ var dataSet = [
   [
     "38089190",
     "640",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ประเภทออร์แกโนฟอสฟอรัส และ ออร์แกโนฟอสฟอรัส",
     "ORGANOPHOSPHORUS AND ORGANOPHOSPHORUS",
@@ -87355,7 +87362,7 @@ var dataSet = [
   [
     "38089190",
     "640",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ประเภทออร์แกโนฟอสฟอรัส และ ออร์แกโนฟอสฟอรัส",
     "ORGANOPHOSPHORUS AND ORGANOPHOSPHORUS",
@@ -87400,7 +87407,7 @@ var dataSet = [
   [
     "38089190",
     "699",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อื่นๆที่มีสารออกฤทธิ์ 2 ชนิด",
     "OTHER,CONTAINING 2 ACTIVE INGREDIENTS",
@@ -87409,7 +87416,7 @@ var dataSet = [
   [
     "38089190",
     "699",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อื่นๆที่มีสารออกฤทธิ์ 2 ชนิด",
     "OTHER,CONTAINING 2 ACTIVE INGREDIENTS",
@@ -87436,7 +87443,7 @@ var dataSet = [
   [
     "38089190",
     "800",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "สารจุลินทรีย์กำจัดตัวอ่อนแมลง",
     "MICROBIAL LARVICIDES",
@@ -87445,7 +87452,7 @@ var dataSet = [
   [
     "38089190",
     "800",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "สารจุลินทรีย์กำจัดตัวอ่อนแมลง",
     "MICROBIAL LARVICIDES",
@@ -87472,7 +87479,7 @@ var dataSet = [
   [
     "38089190",
     "910",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อื่นๆ",
     "Other",
@@ -87481,7 +87488,7 @@ var dataSet = [
   [
     "38089190",
     "910",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อื่นๆ",
     "Other",
@@ -87508,7 +87515,7 @@ var dataSet = [
   [
     "38089490",
     "401",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คลอโรฟีนอล",
     "CHLOROPHENOLS",
@@ -87517,7 +87524,7 @@ var dataSet = [
   [
     "38089490",
     "401",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คลอโรฟีนอล",
     "CHLOROPHENOLS",
@@ -87562,7 +87569,7 @@ var dataSet = [
   [
     "38089490",
     "404",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "แซฟโรล",
     "SAFROLE",
@@ -87571,7 +87578,7 @@ var dataSet = [
   [
     "38089490",
     "404",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "แซฟโรล",
     "SAFROLE",
@@ -87598,7 +87605,7 @@ var dataSet = [
   [
     "38089490",
     "406",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โซเดียม ไฮดรอกไซด์ น้อยกว่าหรือเท่ากับร้อยละ 20 โดยน้ำหนัก",
     "SODIUM HYPOCHLORITE <=20% W/W",
@@ -87607,7 +87614,7 @@ var dataSet = [
   [
     "38089490",
     "406",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โซเดียม ไฮดรอกไซด์ น้อยกว่าหรือเท่ากับร้อยละ 20 โดยน้ำหนัก",
     "SODIUM HYPOCHLORITE <=20% W/W",
@@ -87616,7 +87623,7 @@ var dataSet = [
   [
     "38089490",
     "407",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โซเดียม ไฮดรอกไซด์ มากกว่าร้อยละ 20 โดยน้ำหนัก",
     "SODIUM HYPOCHLORITE > 20% W/W",
@@ -87625,7 +87632,7 @@ var dataSet = [
   [
     "38089490",
     "407",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โซเดียม ไฮดรอกไซด์ มากกว่าร้อยละ 20 โดยน้ำหนัก",
     "SODIUM HYPOCHLORITE > 20% W/W",
@@ -87652,7 +87659,7 @@ var dataSet = [
   [
     "38089490",
     "409",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "สารกลุ่มฟีนอล และสารประกอบฟีโนลิก",
     "PHENOLS AND PHENOLIC COMPOUNDS",
@@ -87661,7 +87668,7 @@ var dataSet = [
   [
     "38089490",
     "409",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "สารกลุ่มฟีนอล และสารประกอบฟีโนลิก",
     "PHENOLS AND PHENOLIC COMPOUNDS",
@@ -87670,7 +87677,7 @@ var dataSet = [
   [
     "38089490",
     "410",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ของผสมที่มีสารลดแรงดึงผิว ชนิดไม่มีประจุ",
     "PREPARATION CONTAIN NONONIC SURF ACTANT",
@@ -87679,7 +87686,7 @@ var dataSet = [
   [
     "38089490",
     "410",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ของผสมที่มีสารลดแรงดึงผิว ชนิดไม่มีประจุ",
     "PREPARATION CONTAIN NONONIC SURF ACTANT",
@@ -87706,7 +87713,7 @@ var dataSet = [
   [
     "38089490",
     "940",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อื่นๆ",
     "OTHER",
@@ -87715,7 +87722,7 @@ var dataSet = [
   [
     "38089490",
     "940",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อื่นๆ",
     "OTHER",
@@ -87724,7 +87731,7 @@ var dataSet = [
   [
     "38089910",
     "001",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฉพาะที่บรรจุกระป๋องที่มีเครื่องฉีดด้วยความดันซึ่งอัดไว้ในตัว",
     "In aerosol containers",
@@ -87733,7 +87740,7 @@ var dataSet = [
   [
     "38089910",
     "001",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฉพาะที่บรรจุกระป๋องที่มีเครื่องฉีดด้วยความดันซึ่งอัดไว้ในตัว",
     "In aerosol containers",
@@ -87742,7 +87749,7 @@ var dataSet = [
   [
     "38089910",
     "090",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อื่นๆ",
     "Other",
@@ -87751,7 +87758,7 @@ var dataSet = [
   [
     "38089910",
     "090",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อื่นๆ",
     "Other",
@@ -87760,7 +87767,7 @@ var dataSet = [
   [
     "38089990",
     "001",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฉพาะสารเบื่อหนู",
     "Rat poisons",
@@ -87769,7 +87776,7 @@ var dataSet = [
   [
     "38089990",
     "001",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฉพาะสารเบื่อหนู",
     "Rat poisons",
@@ -87832,7 +87839,7 @@ var dataSet = [
   [
     "38089990",
     "005",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ยาทากันแมลง",
     "Insect repellents",
@@ -87841,7 +87848,7 @@ var dataSet = [
   [
     "38089990",
     "005",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ยาทากันแมลง",
     "Insect repellents",
@@ -87850,7 +87857,7 @@ var dataSet = [
   [
     "38089990",
     "201",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อะครินาทริน",
     "ACRINATRIN",
@@ -87859,7 +87866,7 @@ var dataSet = [
   [
     "38089990",
     "201",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อะครินาทริน",
     "ACRINATRIN",
@@ -87904,7 +87911,7 @@ var dataSet = [
   [
     "38089990",
     "204",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เอเอ็นทียู (อัลฟา-แนฟทิลไทโอยูเรีย)",
     "ANTU (alpha-NAPHTHYL THIOUREA)",
@@ -87913,7 +87920,7 @@ var dataSet = [
   [
     "38089990",
     "204",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เอเอ็นทียู (อัลฟา-แนฟทิลไทโอยูเรีย)",
     "ANTU (alpha-NAPHTHYL THIOUREA)",
@@ -87922,7 +87929,7 @@ var dataSet = [
   [
     "38089990",
     "205",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อะราไมต์",
     "ARAMITE",
@@ -87931,7 +87938,7 @@ var dataSet = [
   [
     "38089990",
     "205",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อะราไมต์",
     "ARAMITE",
@@ -87940,7 +87947,7 @@ var dataSet = [
   [
     "38089990",
     "207",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อะโซไซโคลติน",
     "AZOCYCLOTIN",
@@ -87949,7 +87956,7 @@ var dataSet = [
   [
     "38089990",
     "207",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อะโซไซโคลติน",
     "AZOCYCLOTIN",
@@ -87994,7 +88001,7 @@ var dataSet = [
   [
     "38089990",
     "210",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โบรดิฟาคูม",
     "BRODIFACOUM",
@@ -88003,7 +88010,7 @@ var dataSet = [
   [
     "38089990",
     "210",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โบรดิฟาคูม",
     "BRODIFACOUM",
@@ -88030,7 +88037,7 @@ var dataSet = [
   [
     "38089990",
     "212",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โบรโมโพรไพเลต",
     "BROMOPROPYLATE",
@@ -88039,7 +88046,7 @@ var dataSet = [
   [
     "38089990",
     "212",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โบรโมโพรไพเลต",
     "BROMOPROPYLATE",
@@ -88048,7 +88055,7 @@ var dataSet = [
   [
     "38089990",
     "213",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คาดูซาฟอส",
     "CADUSAFOS",
@@ -88057,7 +88064,7 @@ var dataSet = [
   [
     "38089990",
     "213",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "คาดูซาฟอส",
     "CADUSAFOS",
@@ -88066,7 +88073,7 @@ var dataSet = [
   [
     "38089990",
     "214",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ซิโนเมไทโอเนต",
     "CHINOMETHIONAT",
@@ -88075,7 +88082,7 @@ var dataSet = [
   [
     "38089990",
     "214",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ซิโนเมไทโอเนต",
     "CHINOMETHIONAT",
@@ -88102,7 +88109,7 @@ var dataSet = [
   [
     "38089990",
     "218",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ทองแดงซัลเฟต",
     "COPPER SULFATE",
@@ -88111,7 +88118,7 @@ var dataSet = [
   [
     "38089990",
     "218",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ทองแดงซัลเฟต",
     "COPPER SULFATE",
@@ -88192,7 +88199,7 @@ var dataSet = [
   [
     "38089990",
     "223",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไดโคฟอล",
     "DICOFOL",
@@ -88201,7 +88208,7 @@ var dataSet = [
   [
     "38089990",
     "223",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไดโคฟอล",
     "DICOFOL",
@@ -88318,7 +88325,7 @@ var dataSet = [
   [
     "38089990",
     "231",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อีโทโพรฟอส",
     "ETHOPROPHOS",
@@ -88327,7 +88334,7 @@ var dataSet = [
   [
     "38089990",
     "231",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "อีโทโพรฟอส",
     "ETHOPROPHOS",
@@ -88372,7 +88379,7 @@ var dataSet = [
   [
     "38089990",
     "234",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฟนบิวตาตินออกไซด์",
     "FUNBUTATIN OXIDE",
@@ -88381,7 +88388,7 @@ var dataSet = [
   [
     "38089990",
     "234",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฟนบิวตาตินออกไซด์",
     "FUNBUTATIN OXIDE",
@@ -88408,7 +88415,7 @@ var dataSet = [
   [
     "38089990",
     "236",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฟนโพรพาทริน",
     "FENPROPATHRIN",
@@ -88417,7 +88424,7 @@ var dataSet = [
   [
     "38089990",
     "236",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เฟนโพรพาทริน",
     "FENPROPATHRIN",
@@ -88444,7 +88451,7 @@ var dataSet = [
   [
     "38089990",
     "238",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โฟลคูมาเฟน",
     "FLOCOUMAFEN",
@@ -88453,7 +88460,7 @@ var dataSet = [
   [
     "38089990",
     "238",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โฟลคูมาเฟน",
     "FLOCOUMAFEN",
@@ -88462,7 +88469,7 @@ var dataSet = [
   [
     "38089990",
     "240",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ฟลูออโรอะซีเทตโซเดียม",
     "FLUOROACETATE SODIUM",
@@ -88471,7 +88478,7 @@ var dataSet = [
   [
     "38089990",
     "240",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ฟลูออโรอะซีเทตโซเดียม",
     "FLUOROACETATE SODIUM",
@@ -88480,7 +88487,7 @@ var dataSet = [
   [
     "38089990",
     "241",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ฮาลเฟนพรอกซ์",
     "HALFENPROX",
@@ -88489,7 +88496,7 @@ var dataSet = [
   [
     "38089990",
     "241",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ฮาลเฟนพรอกซ์",
     "HALFENPROX",
@@ -88534,7 +88541,7 @@ var dataSet = [
   [
     "38089990",
     "244",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เมไทโอคาร์บ",
     "METHIOCARB",
@@ -88543,7 +88550,7 @@ var dataSet = [
   [
     "38089990",
     "244",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เมไทโอคาร์บ",
     "METHIOCARB",
@@ -88552,7 +88559,7 @@ var dataSet = [
   [
     "38089990",
     "245",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "นิโคลซาไมด์",
     "NOCLOSAMIDE",
@@ -88561,7 +88568,7 @@ var dataSet = [
   [
     "38089990",
     "245",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "นิโคลซาไมด์",
     "NOCLOSAMIDE",
@@ -88570,7 +88577,7 @@ var dataSet = [
   [
     "38089990",
     "246",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "พินโดน",
     "PINDONE",
@@ -88579,7 +88586,7 @@ var dataSet = [
   [
     "38089990",
     "246",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "พินโดน",
     "PINDONE",
@@ -88588,7 +88595,7 @@ var dataSet = [
   [
     "38089990",
     "247",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โพรพาร์ไกต์",
     "PROPARGITE",
@@ -88597,7 +88604,7 @@ var dataSet = [
   [
     "38089990",
     "247",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "โพรพาร์ไกต์",
     "PROPARGITE",
@@ -88642,7 +88649,7 @@ var dataSet = [
   [
     "38089990",
     "250",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ซิค์ลลิโรไซด์",
     "SCILLROSIDE",
@@ -88651,7 +88658,7 @@ var dataSet = [
   [
     "38089990",
     "250",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ซิค์ลลิโรไซด์",
     "SCILLROSIDE",
@@ -88696,7 +88703,7 @@ var dataSet = [
   [
     "38089990",
     "253",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เทบูเฟนไพราด",
     "TEBUFENPYRAD",
@@ -88705,7 +88712,7 @@ var dataSet = [
   [
     "38089990",
     "253",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เทบูเฟนไพราด",
     "TEBUFENPYRAD",
@@ -88840,7 +88847,7 @@ var dataSet = [
   [
     "38089990",
     "261",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไพรินิวรอน (ไพริมินิล วาคอร์)",
     "PYRINURON (PYRIMINIL, VACOR)",
@@ -88849,7 +88856,7 @@ var dataSet = [
   [
     "38089990",
     "261",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไพรินิวรอน (ไพริมินิล วาคอร์)",
     "PYRINURON (PYRIMINIL, VACOR)",
@@ -88876,7 +88883,7 @@ var dataSet = [
   [
     "38089990",
     "263",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไตรฟลูมูรอน",
     "TRIFLUMURON",
@@ -88885,7 +88892,7 @@ var dataSet = [
   [
     "38089990",
     "263",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "ไตรฟลูมูรอน",
     "TRIFLUMURON",
@@ -88894,7 +88901,7 @@ var dataSet = [
   [
     "38089990",
     "264",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เรด สควิล",
     "RED SQUILL",
@@ -88903,7 +88910,7 @@ var dataSet = [
   [
     "38089990",
     "264",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "เรด สควิล",
     "RED SQUILL",
@@ -88930,7 +88937,7 @@ var dataSet = [
   [
     "38089990",
     "299",
-    "นำเข้า",
+    "ส่งออก",
     "สำนักงานคณะกรรมการอาหารและยา",
     "สารกำจัดศัตรูพืชและสัตว์อื่นๆ",
     "OTHER PESTICIDES",
@@ -88939,7 +88946,7 @@ var dataSet = [
   [
     "38089990",
     "299",
-    "ส่งออก",
+    "นำเข้า",
     "สำนักงานคณะกรรมการอาหารและยา",
     "สารกำจัดศัตรูพืชและสัตว์อื่นๆ",
     "OTHER PESTICIDES",
@@ -89169,6 +89176,15 @@ var dataSet = [
     "- - หน้ากากชนิดที่ใช้ในห้องผ่าตัด",
     "- - Surgical masks",
     "20190916",
+  ],
+  [
+    "63079090",
+    "002",
+    "นำเข้า",
+    "สำนักงานคณะกรรมการอาหารและยา",
+    "หน้ากากทางการแพทย์ นอกจากหน้ากากชนิดที่ใช้ในห้องผ่าตัด",
+    "Medical masks , other than surgical masks",
+    "20200801",
   ],
   [
     "66020000",
