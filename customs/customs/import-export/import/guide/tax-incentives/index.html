@@ -75,13 +75,13 @@
 
   
   
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mitr:400,700|Roboto:400,400italic,700|Sarabun:400,400italic,700|Roboto+Mono&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kanit:400,700|Roboto:400,400italic,700|Sarabun:400,400italic,700|Roboto+Mono&display=swap">
   
 
   
   
   
-  <link rel="stylesheet" href="/KM/customs/css/academia.min.d5c09286b23baa3267356117a99b9973.css">
+  <link rel="stylesheet" href="/KM/customs/css/academia.min.6d1bf0bb685933796a01cd4cdb7cad11.css">
 
   
 
@@ -378,20 +378,22 @@
 
 
 <form class="docs-search d-flex align-items-center">
-  <button class="btn docs-toggle d-md-none p-0 mr-3"  data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+  <button class="btn docs-toggle d-md-none p-0 mr-3" type="button" data-toggle="collapse" data-target="#docs-nav"
+    aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
     <span><i class="fas fa-bars"></i></span>
   </button>
 
   
-  <input name="q" type="search" class="form-control" id="search-query" placeholder="Search..." autocomplete="off">
+  <input name="q" type="search" class="form-control" id="search-query" placeholder="Search..."
+    autocomplete="off">
   
 </form>
 
-<nav class="docs-links" id="docs-nav">
+<nav class="collapse docs-links" id="docs-nav">
   
   
   <div class="docs-toc-item">
-    <a class="docs-toc-link" href="/KM/customs/customs/import-export/import/guide/data-structure/">คู่มือพิธีการนำเข้า</a>
+    <a class="docs-toc-link" href="/KM/customs/customs/import-export/import/guide/data-structure/" >คู่มือพิธีการนำเข้า</a>
     <ul class="nav docs-sidenav">
       
       <li >
@@ -458,7 +460,7 @@
         <a href="/KM/customs/customs/import-export/import/guide/part-4/">ภาค 4 ของที่ได้รับยกเว้นอากร</a>
       </li>
       
-      <li class="active">
+      <li class="active" >
         <a href="/KM/customs/customs/import-export/import/guide/tax-incentives/">สิทธิประโยชน์ทางภาษี</a>
       </li>
       
@@ -508,7 +510,7 @@
   </div>
   
   <div class="docs-toc-item">
-    <a class="docs-toc-link" href="/KM/customs/customs/import-export/import/guide/direct_main/">เมนู</a>
+    <a class="docs-toc-link" href="/KM/customs/customs/import-export/import/guide/direct_main/" >เมนู</a>
     <ul class="nav docs-sidenav">
       
       <li >
@@ -531,16 +533,7 @@
         <li><a href="#" id="back_to_top" class="docs-toc-title">Contents</a></li>
       </ul>
 
-      <nav id="TableOfContents">
-<ul>
-<li><a href="#ขอค-นอากรตามมาตรา-29">ขอคืนอากรตามมาตรา 29</a></li>
-<li><a href="#คล-งส-นค-าท-ณฑ-บน">คลังสินค้าทัณฑ์บน</a></li>
-<li><a href="#เขตปลอดอากร">เขตปลอดอากร</a></li>
-<li><a href="#เขตประกอบการเสร">เขตประกอบการเสรี</a></li>
-<li><a href="#ส-งเสร-มการลงท-น-boi">ส่งเสริมการลงทุน (BOI)</a></li>
-<li><a href="#re-export">Re-Export</a></li>
-</ul>
-</nav>
+      
 
       
     </div>
@@ -554,7 +547,10 @@
           <h1 itemprop="name">สิทธิประโยชน์ทางภาษีอากร</h1>
 
           <div class="article-style" itemprop="articleBody">
-            
+            <div class="book-collapsible">
+<button class="collapsible">ขอคืนอากรตามมาตรา 29</button>
+<div class="content">
+  <p><br></p>
 
 <h1 id="ขอค-นอากรตามมาตรา-29">ขอคืนอากรตามมาตรา 29</h1>
 
@@ -592,7 +588,7 @@
 <li>วางประกันตามมาตรา 30 สำหรับของนำเข้าตามมาตรา 29  ให้บันทึกการวางประกัน โดย <strong>ระบุรหัสเหตุผลการวางประกันมาในช่อง Deposit Reason Code (D09)</strong>  ที่ส่วนรายการในใบขนสินค้า (Deposit)  ระบุจำนวนเงินวางประกันมาในช่อง Deposit Amount ที่ส่วนรายการในใบขนสินค้า (Duty) และที่ส่วนรายการในใบขนสินค้า (Deposit)</li>
 </ul>
 
-<div class="alert alert-note_success">
+<div class="alert alert-note">
   <div>
     <ul>
 <li>อากรศุลกากร ให้ยกยอดจากอากรศุลกากรที่ตรวจสอบกับหลักการ มาวางประกัน</li>
@@ -601,9 +597,15 @@
 <li><strong>การวางประกันให้</strong> <strong>ปัดเศษของสตางค์ (ทศนิยมหลักที่ 3) ตามหลักสากล</strong></li>
 </ul>
   </div>
+</div></p>
+</div>
 </div>
 
-<hr />
+
+<div class="book-collapsible">
+<button class="collapsible">คลังสินค้าทัณฑ์บน (Bonded Warehouse)</button>
+<div class="content">
+  <p><br></p>
 
 <h1 id="คล-งส-นค-าท-ณฑ-บน">คลังสินค้าทัณฑ์บน</h1>
 
@@ -620,15 +622,19 @@
 <li><strong>ระบุรหัสสถานที่ตรวจปล่อย (Release Port) ให้บันทึกข้อมูลรหัสสถานที่ตรวจปล่อย (Release Port) เป็น ด่านศุลกากร ที่นำของเข้า (First Port)</strong><br /></li>
 </ul>
   </div>
+</div></p>
+</div>
 </div>
 
-<hr />
 
-<h1 id="เขตปลอดอากร">เขตปลอดอากร</h1>
+<div class="book-collapsible">
+<button class="collapsible">เขตปลอดอากร (Freezone) </button>
+<div class="content">
+  <p><h1 id="เขตปลอดอากร">เขตปลอดอากร</h1>
 
 <p><strong>เขตปลอดอากร (Free Zone)</strong></p>
 
-<div class="alert alert-note_success">
+<div class="alert alert-note">
   <div>
     <ul>
 <li>ระบุ Free Zone = Y ที่ส่วนรายการในใบขนสินค้า</li>
@@ -643,11 +649,15 @@
 <br /></li>
 </ul>
   </div>
+</div></p>
+</div>
 </div>
 
-<hr />
 
-<h1 id="เขตประกอบการเสร">เขตประกอบการเสรี</h1>
+<div class="book-collapsible">
+<button class="collapsible">เขตประกอบการเสรี (Freetrade Zone)</button>
+<div class="content">
+  <p><h1 id="เขตประกอบการเสร">เขตประกอบการเสรี</h1>
 
 <p><strong>เขตประกอบการเสรี (นิคมอุตสาหกรรม)</strong></p>
 
@@ -665,11 +675,15 @@
 <li>ระบุรหัสสถานที่ตรวจปล่อย (Release Port) ให้บันทึกข้อมูลรหัสสถานที่ตรวจปล่อย (Release Port) เป็น ด่านศุลกากร ที่นำของเข้า (First Port)</li>
 </ul>
   </div>
+</div></p>
+</div>
 </div>
 
-<hr />
 
-<h1 id="ส-งเสร-มการลงท-น-boi">ส่งเสริมการลงทุน (BOI)</h1>
+<div class="book-collapsible">
+<button class="collapsible">ส่งเสริมการลงทุน (BOI)</button>
+<div class="content">
+  <p><h1 id="ส-งเสร-มการลงท-น-boi">ส่งเสริมการลงทุน (BOI)</h1>
 
 <div class="alert alert-note">
   <div>
@@ -698,11 +712,15 @@
 <li><em>ภาษีสรรพสามิตและภาษีเพื่อมหาดไทย ต้องชำระเต็ม เท่านั้น</em></li>
 </ul>
   </div>
+</div></p>
+</div>
 </div>
 
-<hr />
 
-<h1 id="re-export">Re-Export</h1>
+<div class="book-collapsible">
+<button class="collapsible">Re-Export</button>
+<div class="content">
+  <p><h1 id="re-export">Re-Export</h1>
 
 <p><strong>สิทธิคืนอากรของส่งกลับไปยังต่างประเทศ (Re-Export) ตามมาตรา  28</strong> แห่งพระราชบัญญัติศุลกากร</p>
 
@@ -719,7 +737,7 @@
 </ul></li>
 
 <li><p>กรณีของที่จะส่งกลับออกไปนอกราชอาณาจักรยังมิได้มีการปล่อยออกไปจากอารักขาของศุลกากร
-<div class="alert alert-note_success">
+<div class="alert alert-note">
 <div>
 <ul>
 <li><strong>ระบุ Re-Export  = Y ที่ส่วนรายการในใบขนสินค้าทุกรายการ</strong></li>
@@ -736,7 +754,7 @@
 
 <p><img src="https://github.com/yosarawut/KnowledgeCenter/raw/master/img/e-Import-105-2.png" alt="enter image description here" /></p>
 
-<div class="alert alert-note_success">
+<div class="alert alert-note">
   <div>
     <ul>
 <li>ให้<strong>จัดทำใบขนสินค้าขาเข้าก่อน</strong> และนำ เลขที่ใบขนสินค้าขาเข้าพร้อมรายการไปบันทึกไว้ในใบขนสินค้าขาออก</li>
@@ -752,6 +770,10 @@
 </ul>
   </div>
 </div>
+</p>
+</div>
+</div>
+
 
           </div>
 
