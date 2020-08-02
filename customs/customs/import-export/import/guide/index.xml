@@ -1493,7 +1493,10 @@
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/tax-incentives/</guid>
-      <description>
+      <description>&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;ขอคืนอากรตามมาตรา 29&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;h1 id=&#34;ขอค-นอากรตามมาตรา-29&#34;&gt;ขอคืนอากรตามมาตรา 29&lt;/h1&gt;
 
@@ -1531,7 +1534,7 @@
 &lt;li&gt;วางประกันตามมาตรา 30 สำหรับของนำเข้าตามมาตรา 29  ให้บันทึกการวางประกัน โดย &lt;strong&gt;ระบุรหัสเหตุผลการวางประกันมาในช่อง Deposit Reason Code (D09)&lt;/strong&gt;  ที่ส่วนรายการในใบขนสินค้า (Deposit)  ระบุจำนวนเงินวางประกันมาในช่อง Deposit Amount ที่ส่วนรายการในใบขนสินค้า (Duty) และที่ส่วนรายการในใบขนสินค้า (Deposit)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&#34;alert alert-note_success&#34;&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     &lt;ul&gt;
 &lt;li&gt;อากรศุลกากร ให้ยกยอดจากอากรศุลกากรที่ตรวจสอบกับหลักการ มาวางประกัน&lt;/li&gt;
@@ -1540,9 +1543,15 @@
 &lt;li&gt;&lt;strong&gt;การวางประกันให้&lt;/strong&gt; &lt;strong&gt;ปัดเศษของสตางค์ (ทศนิยมหลักที่ 3) ตามหลักสากล&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
   &lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;hr /&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;คลังสินค้าทัณฑ์บน (Bonded Warehouse)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;h1 id=&#34;คล-งส-นค-าท-ณฑ-บน&#34;&gt;คลังสินค้าทัณฑ์บน&lt;/h1&gt;
 
@@ -1559,15 +1568,19 @@
 &lt;li&gt;&lt;strong&gt;ระบุรหัสสถานที่ตรวจปล่อย (Release Port) ให้บันทึกข้อมูลรหัสสถานที่ตรวจปล่อย (Release Port) เป็น ด่านศุลกากร ที่นำของเข้า (First Port)&lt;/strong&gt;&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
   &lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;hr /&gt;
 
-&lt;h1 id=&#34;เขตปลอดอากร&#34;&gt;เขตปลอดอากร&lt;/h1&gt;
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;เขตปลอดอากร (Freezone) &lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;h1 id=&#34;เขตปลอดอากร&#34;&gt;เขตปลอดอากร&lt;/h1&gt;
 
 &lt;p&gt;&lt;strong&gt;เขตปลอดอากร (Free Zone)&lt;/strong&gt;&lt;/p&gt;
 
-&lt;div class=&#34;alert alert-note_success&#34;&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     &lt;ul&gt;
 &lt;li&gt;ระบุ Free Zone = Y ที่ส่วนรายการในใบขนสินค้า&lt;/li&gt;
@@ -1582,11 +1595,15 @@
 &lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
   &lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;hr /&gt;
 
-&lt;h1 id=&#34;เขตประกอบการเสร&#34;&gt;เขตประกอบการเสรี&lt;/h1&gt;
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;เขตประกอบการเสรี (Freetrade Zone)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;h1 id=&#34;เขตประกอบการเสร&#34;&gt;เขตประกอบการเสรี&lt;/h1&gt;
 
 &lt;p&gt;&lt;strong&gt;เขตประกอบการเสรี (นิคมอุตสาหกรรม)&lt;/strong&gt;&lt;/p&gt;
 
@@ -1604,11 +1621,15 @@
 &lt;li&gt;ระบุรหัสสถานที่ตรวจปล่อย (Release Port) ให้บันทึกข้อมูลรหัสสถานที่ตรวจปล่อย (Release Port) เป็น ด่านศุลกากร ที่นำของเข้า (First Port)&lt;/li&gt;
 &lt;/ul&gt;
   &lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;hr /&gt;
 
-&lt;h1 id=&#34;ส-งเสร-มการลงท-น-boi&#34;&gt;ส่งเสริมการลงทุน (BOI)&lt;/h1&gt;
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;ส่งเสริมการลงทุน (BOI)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;h1 id=&#34;ส-งเสร-มการลงท-น-boi&#34;&gt;ส่งเสริมการลงทุน (BOI)&lt;/h1&gt;
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -1637,11 +1658,15 @@
 &lt;li&gt;&lt;em&gt;ภาษีสรรพสามิตและภาษีเพื่อมหาดไทย ต้องชำระเต็ม เท่านั้น&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
   &lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;hr /&gt;
 
-&lt;h1 id=&#34;re-export&#34;&gt;Re-Export&lt;/h1&gt;
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;Re-Export&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;h1 id=&#34;re-export&#34;&gt;Re-Export&lt;/h1&gt;
 
 &lt;p&gt;&lt;strong&gt;สิทธิคืนอากรของส่งกลับไปยังต่างประเทศ (Re-Export) ตามมาตรา  28&lt;/strong&gt; แห่งพระราชบัญญัติศุลกากร&lt;/p&gt;
 
@@ -1658,7 +1683,7 @@
 &lt;/ul&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;กรณีของที่จะส่งกลับออกไปนอกราชอาณาจักรยังมิได้มีการปล่อยออกไปจากอารักขาของศุลกากร
-&lt;div class=&#34;alert alert-note_success&#34;&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
 &lt;div&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;ระบุ Re-Export  = Y ที่ส่วนรายการในใบขนสินค้าทุกรายการ&lt;/strong&gt;&lt;/li&gt;
@@ -1675,7 +1700,7 @@
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/KnowledgeCenter/raw/master/img/e-Import-105-2.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
 
-&lt;div class=&#34;alert alert-note_success&#34;&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     &lt;ul&gt;
 &lt;li&gt;ให้&lt;strong&gt;จัดทำใบขนสินค้าขาเข้าก่อน&lt;/strong&gt; และนำ เลขที่ใบขนสินค้าขาเข้าพร้อมรายการไปบันทึกไว้ในใบขนสินค้าขาออก&lt;/li&gt;
@@ -1691,6 +1716,10 @@
 &lt;/ul&gt;
   &lt;/div&gt;
 &lt;/div&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     
