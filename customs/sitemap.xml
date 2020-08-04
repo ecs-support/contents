@@ -699,7 +699,7 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/</loc>
-    <lastmod>2020-08-04T02:21:52+07:00</lastmod>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -710,6 +710,31 @@
   <url>
     <loc>https://ecs-support.github.io/KM/customs/talk/synthesizing/</loc>
     <lastmod>2020-07-31T14:29:35+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/tags/a.t.a-carnet/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/project/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/tags/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/project/ata-carnet/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%9E%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</loc>
+    <lastmod>2020-08-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -729,11 +754,6 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/tags/e-drawback/</loc>
-    <lastmod>2020-08-03T16:57:52+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/KM/customs/tags/</loc>
     <lastmod>2020-08-03T16:57:52+07:00</lastmod>
   </url>
   
@@ -1198,11 +1218,6 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/KM/customs/project/</loc>
-    <lastmod>2020-07-31T14:29:35+07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecs-support.github.io/KM/customs/project/robotics/</loc>
     <lastmod>2020-07-31T14:29:35+07:00</lastmod>
   </url>
@@ -1244,11 +1259,6 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/courses/</loc>
-    <lastmod>2020-07-31T14:29:35+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/KM/customs/pages/</loc>
     <lastmod>2020-07-31T14:29:35+07:00</lastmod>
   </url>
   
