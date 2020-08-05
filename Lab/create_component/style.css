@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css?family=Kanit:300,300i,400,400i,500,700|Sarabun:300,400,400i,600,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Sarabun:300,300i,400,400i,500,700|Sarabun:300,400,400i,600,700&display=swap');
+
+
+
+
+.logo_ecs {
+        width: 8em;
+        margin-top: 1em;
+      
+}
+.table {
+    table-layout: auto;
+    
+}
+.dataTables_length {
+    margin-top: .5em;
+    margin-bottom: .5em;
+    font-size: 1.2em;
+}
+
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
+  }
+
+.topleft {
+    position: absolute;
+    top: 0;
+    left: 16px;
+}
+
+.top_right {
+    position: absolute;
+    top: 2%;
+    left: 90%;
+}
+
+.top_right a {
+
+    color: #264E36;
+    font-weight: 500;
+}
+
+
+.top_right a:hover {
+    color: rgb(255, 56, 96);
+    cursor: pointer;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#showme {
+    position: absolute;
+    width: 0px;
+    height: 0px;    
+    margin: -1px;
+    overflow: hidden;
+   
+    
+}
+
+
+.container-fluid {
+    max-width: 100%;
+    margin-top: 1em;  
+
+}
+
+
+
+thead th {
+    vertical-align: middle;
+    font-size: 1em;
+    font-weight: 500;
+    background-color: #003366;
+    color: white;
+    text-align: center;
+    
+    }
+    
+
+
+
+
+th,
+td {
+    vertical-align: middle;
+
+    text-rendering: optimizeLegibility;
+  /* Ensure long words do not overflow into content. */
+/*  overflow-wrap: anywhere;*/
+  
+  word-break: keep-all;
+  
+
+  /* Add a hyphen where the word breaks (use `&shy;` to insert a soft-hyphen in a word). */
+  -webkit-hyphens: manual;
+  -ms-hyphens: manual;
+  hyphens: manual;
+    padding: .8em;
+}
+
+
+tr {
+    font-size: 1em;
+    vertical-align: middle;
+}
+
+tr:hover {
+    background-color: #e0e0e0;
+}
+
+h2 {
+    font-family: "Kanit", sans-serif;
+    letter-spacing: .22px;
+    font-size: 2.5em;
+    font-weight: 500;
+    color: #3F69AA;
+    text-align: center;
+    margin-top: 1em;
+
+}
+
+.txt-update {
+    font-size: 1.2em;
+    font-weight: 600;
+    color: #E32934;
+}
+
+.txt-center {
+    text-align: center;
+}
