@@ -29,7 +29,7 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/price/</loc>
-    <lastmod>2020-07-31T14:29:35+07:00</lastmod>
+    <lastmod>2020-08-05T17:57:42+07:00</lastmod>
   </url>
   
   <url>
@@ -54,7 +54,7 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/free-trade/</loc>
-    <lastmod>2020-07-31T14:29:35+07:00</lastmod>
+    <lastmod>2020-08-05T17:57:42+07:00</lastmod>
   </url>
   
   <url>
@@ -129,7 +129,7 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/price/gatt_valuation/</loc>
-    <lastmod>2020-07-31T14:29:35+07:00</lastmod>
+    <lastmod>2020-08-05T17:57:42+07:00</lastmod>
   </url>
   
   <url>
@@ -139,7 +139,7 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/tax-incentive/section_29/</loc>
-    <lastmod>2020-07-31T14:29:35+07:00</lastmod>
+    <lastmod>2020-08-05T17:57:42+07:00</lastmod>
   </url>
   
   <url>
@@ -194,7 +194,7 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/price/wooden_goods/</loc>
-    <lastmod>2020-07-31T14:29:35+07:00</lastmod>
+    <lastmod>2020-08-05T17:57:42+07:00</lastmod>
   </url>
   
   <url>
@@ -244,7 +244,7 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/price/incoterm-2020/</loc>
-    <lastmod>2020-07-31T14:29:35+07:00</lastmod>
+    <lastmod>2020-08-05T17:57:42+07:00</lastmod>
   </url>
   
   <url>
@@ -284,7 +284,7 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/price/incoterms-2010/</loc>
-    <lastmod>2020-07-31T14:29:35+07:00</lastmod>
+    <lastmod>2020-08-05T17:57:42+07:00</lastmod>
   </url>
   
   <url>
@@ -588,17 +588,12 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/export/guide/10.goods-control-list-structure/</loc>
-    <lastmod>2020-07-31T14:29:35+07:00</lastmod>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/export/guide/10.counter-service/</loc>
+    <lastmod>2020-05-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/excise/excise/</loc>
-    <lastmod>2020-07-31T14:29:35+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/export/guide/11.prepare-goods-control-list/</loc>
     <lastmod>2020-07-31T14:29:35+07:00</lastmod>
   </url>
   
@@ -688,6 +683,16 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/export/guide/10.goods-control-list-structure/</loc>
+    <lastmod>2020-07-31T14:29:35+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/customs/import-export/export/guide/11.prepare-goods-control-list/</loc>
+    <lastmod>2020-07-31T14:29:35+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/direct_main/</loc>
     <lastmod>2020-07-31T14:29:35+07:00</lastmod>
   </url>
@@ -699,7 +704,7 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/</loc>
-    <lastmod>2020-08-05T02:03:07+07:00</lastmod>
+    <lastmod>2020-08-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -713,8 +718,23 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/KM/customs/authors/admin/</loc>
+    <lastmod>2020-08-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/KM/customs/tags/a.t.a-carnet/</loc>
     <lastmod>2020-08-04T17:55:13+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/authors/</loc>
+    <lastmod>2020-08-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/categories/</loc>
+    <lastmod>2020-08-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -724,7 +744,7 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/tags/</loc>
-    <lastmod>2020-08-04T17:55:13+07:00</lastmod>
+    <lastmod>2020-08-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -733,57 +753,47 @@
   </url>
   
   <url>
+    <loc>https://ecs-support.github.io/KM/customs/post/announcement/customs/2563-127/</loc>
+    <lastmod>2020-08-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</loc>
+    <lastmod>2020-08-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%9E%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</loc>
     <lastmod>2020-08-04T17:55:13+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/KM/customs/authors/admin/</loc>
-    <lastmod>2020-08-03T16:57:52+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/KM/customs/authors/</loc>
-    <lastmod>2020-08-03T16:57:52+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/KM/customs/categories/</loc>
-    <lastmod>2020-08-03T16:57:52+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/KM/customs/tags/e-drawback/</loc>
-    <lastmod>2020-08-03T16:57:52+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/KM/customs/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</loc>
-    <lastmod>2020-08-03T16:57:52+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%B2-29/</loc>
-    <lastmod>2020-08-03T16:57:52+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/KM/customs/post/announcement/customs/2563-126/</loc>
-    <lastmod>2020-08-03T16:57:52+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/KM/customs/post/announcement/customs/2563-125/</loc>
-    <lastmod>2020-07-31T18:06:41+07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%AA%E0%B8%B3%E0%B8%99%E0%B8%81%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%9C%E0%B8%A5%E0%B8%95%E0%B8%A0%E0%B8%93%E0%B8%91%E0%B8%AD%E0%B8%95%E0%B8%AA%E0%B8%B2%E0%B8%AB%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1/</loc>
-    <lastmod>2020-07-31T18:06:41+07:00</lastmod>
+    <lastmod>2020-08-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B9%83%E0%B8%9A%E0%B8%AD%E0%B8%99%E0%B8%8D%E0%B8%B2%E0%B8%95/</loc>
+    <lastmod>2020-08-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/tags/e-drawback/</loc>
+    <lastmod>2020-08-05T17:57:42+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%B2-29/</loc>
+    <lastmod>2020-08-05T17:57:42+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/post/announcement/customs/2563-126/</loc>
+    <lastmod>2020-08-05T17:57:42+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/post/announcement/customs/2563-125/</loc>
     <lastmod>2020-07-31T18:06:41+07:00</lastmod>
   </url>
   
@@ -1179,12 +1189,12 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%8A%E0%B8%81%E0%B8%95%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%87/</loc>
-    <lastmod>2017-11-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-06T03:02:14+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/post/announcement/customs/2560-173/</loc>
-    <lastmod>2017-11-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-08-06T03:02:14+07:00</lastmod>
   </url>
   
   <url>
