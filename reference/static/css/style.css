@@ -135,3 +135,17 @@ h2 {
 .txt-center {
     text-align: center;
 }
+
+.top_right a {
+
+    color: #264E36;
+    font-weight: 500;
+}
+
+
+.top_right a:hover {
+    color: rgb(255, 56, 96);
+    cursor: pointer;
+    text-decoration: none;
+    font-weight: bold;
+}
