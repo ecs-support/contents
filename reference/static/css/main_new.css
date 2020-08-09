@@ -19,7 +19,7 @@ body {
 }
 .sidebar header {
   font-size: 22px;
-  color: white;
+  color: green;
   line-height: 70px;
   text-align: center;
   background: #063146;
@@ -31,7 +31,7 @@ body {
   width: 100%;
   line-height: 65px;
   font-size: 20px;
-  color: white;
+  color: green;
   padding-left: 40px;
   box-sizing: border-box;
   border-bottom: 1px solid black;
@@ -57,7 +57,7 @@ label #btn{
   left: 50px;
   top: 25px;
   font-size: 35px;
-  color: white;
+  color: green;
   padding: 6px 12px;
   transition: all .5s;
   cursor: pointer;
