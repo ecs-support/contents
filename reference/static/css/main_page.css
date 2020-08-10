@@ -7,6 +7,7 @@
 }
 body {
   font-family: 'Roboto', sans-serif;
+  transition-delay: 2s;
 }
 #icons {
   width: 16px;
