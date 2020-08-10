@@ -8,11 +8,7 @@ body {
     letter-spacing: .22px;
 }
 
-.logo_ecs {
-        width: 8em;
-        margin-top: 1em;
-      
-}
+
 .table {
     table-layout: auto;
     
@@ -68,6 +64,7 @@ table.center {
 .container-fluid {
     max-width: 100%;
     margin-top: 1em;  
+    z-index: 5;
 
 }
 
@@ -80,6 +77,8 @@ thead th {
     background-color: #003366;
     color: white;
     text-align: center;
+    z-index: 10;
+
     
     }
     

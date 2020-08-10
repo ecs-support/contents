@@ -183,3 +183,27 @@ section{
   height: 100vh;
   transition: all .5s;
 }
+.logo_ecs {
+  width: 5.5em;
+
+  cursor: pointer;
+
+}
+
+/* Position text in the top-left corner */
+.top_left {
+  position: absolute;
+  bottom: 15px;
+  right: 25px;
+}
+
+.claim {
+  color: #dbdbdb;
+  font-size: 3em;
+  top: 40%;
+  left: 48%;
+  position: absolute;
+  text-align: center;
+  letter-spacing: 2px;
+
+}

@@ -16,7 +16,9 @@
       <script src="https://kit.fontawesome.com/a076d05399.js"></script>
     <script src="static/data/berth_no.js"></script>
     <script src="static/js/script.js"></script>
-    
+    <!--add w3-->
+    <script src="https://www.w3schools.com/lib/w3.js"></script>
+<!--add w3-->
     <style>
         thead th {
             font-size:.9em;
@@ -30,6 +32,10 @@
 </head>
 
 <body>
+     <!--add sidebar-->
+     <div class = 'div-side' w3-include-html="sidebar.html"></div>    
+     <section>
+ <!--add sidebar-->
      <div class="row top_right">
          <a href="static/files/birth_code.xlsx" target="_blank">
              <i class=" fas fa-file-excel" style="font-size:30px;color:#264E36;"></i>
@@ -40,10 +46,18 @@
     <div class='container-fluid'>
 
         <h2>รหัสท่าเทียบเรือ (Berth No.)</h2>
-         <table id="table-ref" class="table table-striped table-bordered" style="width:100%">
+         <table id="table-ref" class="table table-striped table-bordered table-striped" style="width:100%">
         </table>
         <p class='txt-update'>อัพเดทข้มูลล่าสุด : 1 มิ.ย. 2563</p>
     </div>
+     <!--add script-->
+    </section>
+  
+    
+    <script>
+        w3.includeHTML();
+    </script>
+    <!--add script-->
     </div>
 </body>
 

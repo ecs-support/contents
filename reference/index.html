@@ -5,115 +5,41 @@
     <meta charset="utf-8">
     <title>Sider Menu Bar CSS</title>
     <link rel="stylesheet" href="static/css/main_page.css">
+    <link rel="stylesheet" href="static/css/fadein-text.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-
+    <script src="https://kit.fontawesome.com/aa09fdd343.js"></script>
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 </head>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://www.w3schools.com/lib/w3.js"></script>
 <script src="static/js/script.js"></script>
-<script>
-    $(document).ready(function () {
-
-        $("#show_pages").ischange(function () {
-            $("#header-img").hide();
-        });
-
-    });
-</script>
-
-<style>
-    .logo_ecs {
-        width: 5.5em;
-
-        cursor: pointer;
-
-    }
-
-    /* Position text in the top-left corner */
-    .top_left {
-        position: absolute;
-        bottom: 15px;
-        right: 25px;
-    }
-
-    .claim {
-        color: #dbdbdb;
-        font-size: 3em;
-        top: 40%;
-        left: 48%;
-        position: absolute;
-        text-align: center;
-        letter-spacing: 2px;
-
-    }
-</style>
-
 
 <body>
-
-    <h1 id="main-tittle"></h1>
-
-    <input type="checkbox" id="check">
-    <label for="check">
-        <i class="fas fa-bars" id="btn"></i>
-        <i class="fas fa-times" id="cancel"></i>
-    </label>
-    <div class="sidebar">
-
-        <header>Reference data</header>
-        <ul>
-            <li><a href="index.html"><i class="fas fa-home"></i>หน้าแรก</a></li>
-            <li><a onclick="displayPage('exchange_rate.html')"><i class="far fa-money-bill-alt"></i>อัตราแลกเปลี่ยน</a>
-            </li>
-
-            <li><a onclick="displayPage('permission.html')"><i class="far fa-file-alt"></i>ใบอนุญาต/ใบรับรอง </a> </li>
-
-            <li><a onclick="displayPage('exampt.html')"><i
-                        class="far fa-calendar-check"></i>รหัสยกเว้นไม่ต้องมีใบอนุญาต</a></li>
-
-            <li><a onclick="displayPage('stat_code.html')"><i class="fas fa-sliders-h"></i>รหัสสถิติสินค้า</a></li>
-
-            <li><a onclick="displayPage('unit_code.html')"><i class=" fa fa-cubes"></i>รหัสหน่วยสินค้า</a></li>
-
-            <li><a onclick="displayPage('package_code.html')"><i class="fa fa-cube"></i>รหัสลักษณะหีบห่อ</a></li>
-
-            <li><a onclick="displayPage('area_code.html')"><i class="fas fa-map-marker-alt"></i>รหัสสถานที่</a></li>
-            <li><a onclick="displayPage('port_code.html')"><i class=" fa fa-ship fas fa-anchor"></i>รหัสท่า (ISO Port
-                    Code)</a></li>
-
-            <li><a onclick="displayPage('berth_no.html')"><i class=" fa fa-anchor"></i>รหัสท่าเทียบเรือ</a></li>
-            <li><a onclick="displayPage('part4_code.html')"><i class="fas fa-tasks"></i>พิกัดศุลกากรภาค 4 </a></li>
-
-            <li><a onclick="displayPage('privilege_code.html')"><i class="far fa-address-card"></i>รหัสสิทธิพิเศษ</a>
-            </li>
-            <li><a onclick="displayPage('export_duty_rate.html')"><i class="fas fa-plane"></i>พิกัดอัตราอากรขาออก</a>
-            </li>
-
-            <li><a onclick="displayPage('country_code.html')"><i class="fas fa-globe"></i>รหัสประเทศ</a></li>
-            <li><a onclick="displayPage('container_size.html')">
-                    <i class="fas fa-expand"></i>ขนาดและประเภทตู้สินค้า
-                </a></li>
-
-            <li><a onclick="displayPage('cartype_code.html')"><i class="fas fa-truck"></i>รหัสประเภทรถ</a></li>
-            <li><a onclick="displayPage('province_code.html')"><i
-                        class="material-icons">account_balance</i>รหัสจังหวัด</a></li>
-            <li><a onclick="newDoc()"><i class="fas fa-external-link-alt"></i>กลับหน้าหลัก</a></li>
-        </ul>
-    </div>
+    <div class='div-side' w3-include-html="sidebar.html"></div>
     <section>
-        <img src="static/img/ECS_Logo_2020.png" class="logo_ecs" id="logo" onclick="newDoc()">
+      
+        <div class="container">
+            <div class="box">
 
-        <p id="header-img" class="claim">Customs Reference Data</p>
+                <div class="title">
+                    <span class="block"></span>
+                    <h1>Reference Data<span></span></h1>
+                </div>
 
+                <div class="role">
+                    <div class="block"></div>
+                    <p>Support@ECS</p>
+                </div>
 
-
-
-        <iframe id="show_pages" style="width:100%;border:none;height:100%">
+            </div>
+        </div>
     </section>
 
-
+    <script>
+        w3.includeHTML();
+    </script>
 </body>
 
 </html>

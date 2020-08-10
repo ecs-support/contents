@@ -16,7 +16,9 @@
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
     <script src="static/data/port_code.js"></script>
     <script src="static/js/script.js"></script>
-
+<!--add w3-->
+<script src="https://www.w3schools.com/lib/w3.js"></script>
+<!--add w3-->
     <style>
         thead th {
             font-size: 1em;
@@ -26,25 +28,16 @@
             font-size: .9em;
         }
 
-        .top_right a {
-
-            color: #264E36;
-            font-weight: 500;
-        }
-
-
-        .top_right a:hover {
-            color: rgb(255, 56, 96);
-            cursor: pointer;
-            text-decoration: none;
-            font-weight: bold;
-        }
+       
     </style>
    
 </head>
 
 <body>
-
+  <!--add sidebar-->
+  <div class = 'div-side' w3-include-html="sidebar.html"></div>    
+  <section>
+<!--add sidebar-->
  
 
      <div class="row top_right">
@@ -55,10 +48,16 @@
      </div>
     <div class='container-fluid'>
         <h2>รหัสท่า (ISO PORT CODE)</h2>
-          <table id="table-ref" class="table center table-bordered" style="width:75%;">
+          <table id="table-ref" class="table center table-bordered table-striped" style="width:75%;">
           </table>
         <p class='txt-update'>อัพเดทข้มูลล่าสุด : 8 ก.ค. 2563</p>
     </div>
+      <!--add script-->
+    </section>       
+    <script>
+        w3.includeHTML();
+    </script>
+    <!--add script-->
 </body>
 
 </html>

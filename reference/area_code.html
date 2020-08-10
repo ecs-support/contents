@@ -16,6 +16,9 @@
       <script src="https://kit.fontawesome.com/a076d05399.js"></script>
     <script src="static/data/area_code.js"></script>
     <script src="static/js/script.js"></script>
+    <!--add w3-->
+    <script src="https://www.w3schools.com/lib/w3.js"></script>
+<!--add w3-->
 
     <style>
         thead th {
@@ -31,22 +34,31 @@
 </head>
 
 <body>
-    <div class="row top_right">
-        <a href="static/files/area_code.xlsx" target="_blank">
-            <i class=" fas fa-file-excel" style="font-size:30px;color:#264E36;"></i>
-        </a>
-
-    </div>
+       <!--add sidebar-->
+       <div class = 'div-side' w3-include-html="sidebar.html"></div>
+       <!--add sidebar-->
+           <section>
+    
 
     <div class='container-fluid'>
 
         <h2>รหัสสถานที่กรมศุลกากร (Area Code)</h2>
-        <table id="table-ref" class="table center display table-bordered" style="width:100%">
+        <table id="table-ref" class="table center display table-bordered table-striped" style="width:100%">
         </table>
         <p class='txt-update'>อัพเดทข้มูลล่าสุด : 4 ส.ค. 2563</p>
 
     </div>
-
+</section>
+<div class="row top_right">
+    <a href="static/files/permission_goods.xlsx" target="_blank">
+        <i class=" fas fa-file-excel" style="font-size:30px;color:#264E36;"></i>
+    </a>
+</div>
+ <!--add script-->
+<script>
+    w3.includeHTML();
+</script>
+<!--add script-->
 
 
 

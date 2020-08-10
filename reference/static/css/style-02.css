@@ -1,0 +1,22 @@
+.con-nav-tabs {
+    padding-left: 10%;
+        
+}
+.nav-item a {
+    font-weight:500;
+    color:#2A4B7C;
+    
+}  
+.nav-item>a:hover {
+    color:#f5f5f5;    
+    border-bottom: 3px solid red;
+    transition: .4s;
+    background-color: #2A4B7C;        
+}
+
+  .nav-item>li:active {
+  color:#da532c;
+  transition: .4s;
+  background-color: #2A4B7C;
+  border-bottom: ;
+  }

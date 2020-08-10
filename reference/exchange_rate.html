@@ -18,6 +18,9 @@
      <script src="https://kit.fontawesome.com/a076d05399.js"></script>
     <script src="static/js/table_script.js"></script>
     <script src="static/js/script.js"></script>
+    <!--add w3-->
+    <script src="https://www.w3schools.com/lib/w3.js"></script>
+<!--add w3-->
 </head>
 
  <style>
@@ -31,7 +34,10 @@
  </style>
 
 <body>
-    
+        <!--add sidebar-->
+        <div class = 'div-side' w3-include-html="sidebar.html"></div>    
+        <section>
+    <!--add sidebar-->
 
     <div class='container-fluid'>
         <h2>อัตราแลกเปลี่ยนกรมศุลกากรประจำเดือนสิงหาคม 2563</h2>
@@ -42,7 +48,8 @@
             </a>
         </div>
 
-      <table id="table_ref" class="table table-striped table-bordered" data-page-length='50' style="width:95%">
+      <table id="table_ref" class="table table-striped table-bordered table-striped" data-page-length='50'
+          style="width:95%">
             <thead>
                 <tr>
                     <th align="center">No</th>
@@ -508,6 +515,13 @@
 
 
     </div>
+    
+        <!--add script-->
+    </section>       
+    <script>
+        w3.includeHTML();
+    </script>
+    <!--add script-->
 </body>
 
 </html>

@@ -13,7 +13,12 @@
     <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
     <script src="https://cdn.datatables.net/1.10.21/js/jquery.dataTables.min.js"></script>
     <script src="https://cdn.datatables.net/1.10.21/js/dataTables.bootstrap4.min.js"></script>
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
     <script src="static/js/script.js"></script>
+
+    <!--add w3-->
+    <script src="https://www.w3schools.com/lib/w3.js"></script>
+<!--add w3-->
 
 </head>
 <style>
@@ -42,11 +47,15 @@
 </script>
 
 <body>
+     <!--add sidebar-->
+     <div class = 'div-side' w3-include-html="sidebar.html"></div>    
+     <section>
+ <!--add sidebar-->
 
     <div class='container-fluid'>
         <h2>รหัสประเทศ (Country Code)</h2>
 
-        <table id="table_ref" class="table center table-bordered" style="width:70%">
+        <table id="table_ref" class="table center table-bordered table-striped" style="width:70%">
             <thead>
                <tr>
                    <th align="center">รหัสประเทศ</th>
@@ -1580,6 +1589,12 @@
 
 
     </div>
+    <!--add script-->
+</section>       
+<script>
+    w3.includeHTML();
+</script>
+<!--add script-->
 </body>
 
 </html>
