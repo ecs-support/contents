@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100');
-*{
+
+* {
   padding: 0;
   margin: 0;
   list-style: none;
@@ -9,17 +10,17 @@
 #icons {
   width: 16px;
   cursor: pointer;
-  background:white;
-  margin-right:10px;
+  background: white;
+  margin-right: 10px;
 }
 
 #main-tittle {
-  color:#f5f5f5;
+  color: #f5f5f5;
   position: absolute;
   text-align: center;
-  font-size:5vw;
-  left:25%;
-  margin-top:5.5em;
+  font-size: 5vw;
+  left: 25%;
+  margin-top: 5.5em;
   line-height: 50px;
   letter-spacing: 1.5px;
   font-weight: 500;
@@ -28,13 +29,13 @@
 }
 
 .div-side {
-  top:0;
+  top: 0;
 }
 
-/*  Sidebar start */ 
+/*  Sidebar start */
 .sidebar {
   position: fixed;
-  top:0;
+  top: 0;
   left: -270px;
   width: 270px;
   height: 100%;
@@ -44,44 +45,32 @@
 
 
 }
+
 .sidebar header {
-<<<<<<< Updated upstream
-  font-size: 22px;
-  color: green;
-  line-height: 70px;
-  text-align: center;
-=======
   font-size: 21px;
   color: white;
   line-height: 50px;
   text-align: left;
->>>>>>> Stashed changes
   background: #063146;
   user-select: none;
-  margin-left:15px;
-  
+  margin-left: 15px;
+
 
 }
-.sidebar ul a{
+
+.sidebar ul a {
   font-family: 'Kanit',
-  sans-serif;
+    sans-serif;
   display: block;
   height: 100%;
   width: 100%;
-<<<<<<< Updated upstream
-  line-height: 65px;
-  font-size: 20px;
-  color: green;
-  padding-left: 40px;
-=======
   line-height: 35px;
   font-size: 16px;
   color: white;
   padding-left: 15px;
->>>>>>> Stashed changes
   box-sizing: border-box;
   border-bottom: 1px solid black;
-  border-top: 1px solid rgba(255,255,255,.1);
+  border-top: 1px solid rgba(255, 255, 255, .1);
   transition: .4s;
 
 
@@ -93,7 +82,7 @@
 .dropdown-btn:hover {
   color: red;
   cursor: pointer;
-  
+
 }
 
 /* Add an active class to the active dropdown button */
@@ -102,7 +91,7 @@
 /* Dropdown container (hidden by default). Optional: add a lighter background color and some left padding to change the design of the dropdown content */
 .dropdown-container {
   display: none;
-  
+
   padding-left: 8px;
 }
 
@@ -115,33 +104,34 @@
 /*  Sidebar end */
 
 
-ul li:hover a{
+ul li:hover a {
   padding-left: 30px;
   background-color: #f5f5f5;
   font-weight: bold;
 }
-.sidebar ul a i{
+
+.sidebar ul a i {
   margin-right: 16px;
 }
-#check{
+
+#check {
   display: none;
 }
-label #btn,label #cancel{
+
+label #btn,
+label #cancel {
   position: absolute;
-  
+
   border-radius: 3px;
   cursor: pointer;
 }
-label #btn{
+
+label #btn {
   left: 40px;
   top: 25px;
   font-size: 35px;
-<<<<<<< Updated upstream
-  color: green;
-=======
   color: #f5f5f5;
   background: #042331;
->>>>>>> Stashed changes
   padding: 6px 12px;
   transition: all .5s;
 }
@@ -150,9 +140,9 @@ label #btn{
   width: 5em;
   cursor: pointer;
   position: absolute;
-  right:30px;
-  top:10px;
-  
+  right: 30px;
+  top: 10px;
+
   transition: all .5s;
 
 }
@@ -161,9 +151,9 @@ label #btn{
   cursor: pointer;
   position: absolute;
 
-  right:90px;
-  top:30px;
-  
+  right: 90px;
+  top: 30px;
+
   transition: all .5s;
 
 }
@@ -172,11 +162,12 @@ label #btn:hover {
   color: red;
   cursor: pointer;
   transition: .4s;
-  background-color: rgba(0, 0 ,0, .05);
+  background-color: rgba(0, 0, 0, .05);
   border: 2.5px solid red;
   border-radius: 10px;
 }
-label #cancel{
+
+label #cancel {
   z-index: 1111;
   left: -195px;
   top: 10px;
@@ -185,25 +176,30 @@ label #cancel{
   padding: 4px 14px;
   transition: all .5s ease;
 }
-#check:checked ~ .sidebar{
+
+#check:checked~.sidebar {
   left: 0;
 }
-#check:checked ~ label #btn{
+
+#check:checked~label #btn {
   left: 250px;
   opacity: 0;
   pointer-events: none;
 }
-#check:checked ~ label #cancel{
+
+#check:checked~label #cancel {
   left: 195px;
 }
-#check:checked ~ section{
+
+#check:checked~section {
   margin-left: 250px;
 }
-section{
+
+section {
 
   background-position: center;
   background-size: cover;
-  
+
   height: 100vh;
   transition: all .5s;
   z-index: 1;
