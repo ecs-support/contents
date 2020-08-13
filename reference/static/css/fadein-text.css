@@ -1,15 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Lato:300,400|Poppins:300,400,800&display=swap");
 
 
-.container1 {
-    width: 100%;
-    height: 100vh;
-    
-    display: flex;
-    justify-content: center;
-    align-items: center;
-   
-}
+
 
 .container .box {
     left: 30%;
