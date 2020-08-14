@@ -127,11 +127,17 @@ h2 {
 }
 
 .txt-update {
-    font-size: 1.2em;
-    font-weight: 600;
-    color: #E32934;
+    font-size: 1em;
+    font-weight: 600;    
 }
-
+.txt-update span {
+    background-color: #da532c;
+    border: 1px solid rgba(0, 0, 0, .3);
+  border-radius: 3px;
+  padding: 2px 2px;
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
+  color:#f5f5f5;
+}
 .txt-center {
     text-align: center;
 }
