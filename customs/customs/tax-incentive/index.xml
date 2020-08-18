@@ -1959,7 +1959,7 @@
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/customs/tax-incentive/guide/8.assessment-request/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;&amp;laquo;Assessment Request Code&amp;raquo;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&amp;laquo;มีปัญหาพิกัด ราคา พบพนักงานศุลกากร ที่ ด่านศุลกากร ที่นำเข้า&amp;raquo;&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;“Assessment Request Code”&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;“มีปัญหาพิกัด ราคา พบพนักงานศุลกากร ที่ ด่านศุลกากร ที่นำเข้า”&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;กรณีมีปัญหาและต้องการพบพนักงานศุลกากร  ณ  คลังสินค้าทัณฑ์บน (Bond Port) เขตปลอดอากร  (FreeZone Port) เขตประกอบการเสรี (IEAT Freezone Port)
@@ -1975,8 +1975,8 @@
 &lt;li&gt;ของเก่าใช้แล้ว&lt;/li&gt;
 &lt;li&gt;ของด้อยสภาพ&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;ในการจัดทำข้อมูลใบขนสินค้าขาเข้าตาม (1) หรือ (2) ให้ระบุค่า &lt;strong&gt;&amp;laquo;Y&amp;raquo;&lt;/strong&gt; ในช่อง &lt;strong&gt;&lt;em&gt;&amp;laquo;Assessment Request Code&amp;raquo;&lt;/em&gt; “มีปัญหาพิกัด ราคา พบพนักงานศุลกากร ที่ด่านศุลกากรที่นำเข้า”&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;ระบบคอมพิวเตอร์ของศุลกากรจะสั่งการตรวจใบขนสินค้าขาเข้าเป็น &lt;strong&gt;&amp;laquo;เปิดตรวจ&amp;raquo;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;ในการจัดทำข้อมูลใบขนสินค้าขาเข้าตาม (1) หรือ (2) ให้ระบุค่า &lt;strong&gt;&lt;em&gt;“Y”&lt;/em&gt;&lt;/strong&gt; ในช่อง  &lt;strong&gt;&lt;em&gt;“Assessment Request Code”&lt;/em&gt; “มีปัญหาพิกัด ราคา พบพนักงานศุลกากร ที่ด่านศุลกากรที่นำเข้า”&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;ระบบคอมพิวเตอร์ของศุลกากรจะสั่งการตรวจใบขนสินค้าขาเข้าเป็น &lt;strong&gt;“เปิดตรวจ”&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;พบพนักงานศุลกากร ณ หน่วยบริการศุลกากรที่นำของเข้า เพื่อยื่นหลักฐานหรือเอกสารมาแสดง หรือร้องขอให้พนักงานศุลกากรพิจารณาดำเนินการใด ๆ&lt;br /&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
