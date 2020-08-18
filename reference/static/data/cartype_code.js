@@ -317,7 +317,7 @@ $(document).ready(function () {
     data: dataSet,
     columns: [
       { title: "ลำดับ", className: "txt-center" },
-      { title: "รหัส", className: "txt-center" },
+      { title: "รหัสประเภทรถ", className: "txt-center" },
       { title: "ประเภทรถ"},
     
     ],

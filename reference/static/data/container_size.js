@@ -412,9 +412,9 @@ $(document).ready(function () {
   $("#table-ref").DataTable({
     data: dataSet,
     columns: [
-      { title: "ContainerCode", className: "txt-center" },
-      { title: "Description" },
-      { title: "ContainerSize", className: "txt-center" },
+      { title: "รหัสตู้สินค้า", className: "txt-center" },
+      { title: "รายละเอียดตู้สินค้า" },
+      { title: "ขนาดตู้สินค้า", className: "txt-center" },
     ],
     responsive: true,
     scroller: true,
