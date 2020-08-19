@@ -18,17 +18,31 @@
       <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/announcement/ministry/2563-08-new-zealand/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+      <description>
 
-&lt;p&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากนิวซีแลนด์ (ฉบับที่ 2 ) &lt;em&gt;ตั้งแต่วันที่ 26 มีนาคม พ.ศ. 2563 ถึงวันที่ 30 กันยายน พ.ศ. 2563&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;ประกาศกระทรวงการคล-ง-เร-อง-การยกเว-นอากรและลดอ-ตราอากรศ-ลกากรสำหร-บของท-ม-ถ-นกำเน-ดจากน-วซ-แลนด-ฉบ-บท-2&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากนิวซีแลนด์ (ฉบับที่ 2 )&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&#34;./img/imgjpg_Page1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;./img/imgjpg_Page2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;./new-zealand.pdf&#34; target=&#34;_blank&#34;&gt;ดาวน์โหลดประกาศ
-                &lt;i class=&#34; fas fa-file-pdf&#34; style=&#34;font-size:30px; color: red;&#34;&gt;&lt;/i&gt;
+&lt;p&gt;&lt;a href=&#34;./new-zealand.pdf&#34; target=&#34;_blank&#34; id=&#34;download_files&#34;&gt;ดาวน์โหลดประกาศ
+                &lt;i class=&#34; fas fa-file-pdf&#34; style=&#34;font-size:30px; color: red;&#34; id=&#34;icon_download&#34;&gt;&lt;/i&gt;
             &lt;/a&gt;&lt;/p&gt;
+
+&lt;style&gt;
+
+#download_files:hover,
+#icon_downlad:hover {
+  color: #2A4B7C; 
+  font-weight:bold;
+  text-decoration: none;
+  transition: color 0.4s ease;
+}
+
+&lt;/style&gt;
 </description>
     </item>
     
