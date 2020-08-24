@@ -18,7 +18,32 @@
       <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/customs/faq/import/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;img src=&#34;deducted.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;การบันทึกข้อมูล ราคาขายปลีกแนะนำในใบขนสินค้า&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;h2 id=&#34;การบ-นท-กข-อม-ลราคาขายปล-กแนะนำในใบขนส-นค-า&#34;&gt;การบันทึกข้อมูลราคาขายปลีกแนะนำในใบขนสินค้า&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;คำตอบ :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;ให้ระบุราคาขายปลีกแนะนำ ตามแบบแจ้งราคาขายปลีกแนะนำ (ภส.02-01) ในช่อง Deducted Amount ยกเว้นกรณี&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;กรณีที่อัตราภาษีสรรพสามิตกำหนด&lt;strong&gt;อัตราภาษีตามปริมาณเพียงอย่างเดียว&lt;/strong&gt; ให้ระบุ &lt;strong&gt;&lt;em&gt;0.1&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;กรณีของ&lt;strong&gt;นำเข้าคลังสินค้าทัณฑ์บน เขตปลอดอากร เขตประกอบการเสรี&lt;/strong&gt; และของที่&lt;strong&gt;ได้รับยกเว้นอากรตามภาค 4&lt;/strong&gt;รวมทั้งของที่&lt;strong&gt;โอนย้ายระหว่างคลังสินค้าทัณฑ์บน เขตปลอดอากร เขตประกอบการเสรีให้ระบุ&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;0.2&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/deducted-amount.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;ที่มา : กรมสรรพสามิต&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</description>
     </item>
     
   </channel>
