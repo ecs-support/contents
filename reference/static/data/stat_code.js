@@ -1,6 +1,5 @@
-var dataSet = [
-
-    ['01012100', '000', 'สำหรับทำพันธุ์', 'Pure-bred breeding animals', 'C62', '20170101'],
+ var dataSet = [ 
+['01012100', '000', 'สำหรับทำพันธุ์', 'Pure-bred breeding animals', 'C62', '20170101'],
 ['01012900', '000', 'อื่น ๆ', 'Other', 'C62', '20170101'],
 ['01013010', '000', 'สำหรับทำพันธุ์', 'Pure-bred breeding animals', 'C62', '20170101'],
 ['01013090', '000', 'อื่น ๆ', 'Other', 'C62', '20170101'],
@@ -2466,8 +2465,8 @@ var dataSet = [
 ['25010050', '000', 'น้ำทะเล', 'Sea water', 'KGM', '20170101'],
 ['25010091', '000', 'ที่มีโซเดียมคลอไรด์เกินร้อยละ 60 แต่น้อยกว่าร้อยละ 97 โดยน้ำหนัก เมื่อคำนวณในสภาพแห้งและเติมด้วยไอโอดีน', 'With sodium chloride content more than 60 % but less than 97 %, calculated on a dry basis, fortified with iodine', 'KGM', '20170101'],
 ['25010092', '000', 'อื่น ๆ ที่มีโซเดียมคลอไรด์ตั้งแต่ร้อยละ 97 ขึ้นไป แต่น้อยกว่าร้อยละ 99.9 โดยน้ำหนัก เมื่อคำนวณในสภาพแห้ง', 'Other, with sodium chloride content 97 % or more but less than 99.9 %, calculated on a dry basis', 'KGM', '20170101'],
-['25010099', '001', 'เกลือทะเล', 'Sea salt', 'KGM', '20170101'],
-['25010099', '002', 'โซเดียมคลอไรด์บริสุทธิ์', 'Pure sodium chloride', 'KGM', '20170101'],
+['25010099', '003', 'เกลือสำหรับอุตสาหกรรมอาหารหรืออุตสาหกรรมยา', 'Salt for the food industry or Pharmaceutical industry', 'KGM', '20170101'],
+['25010099', '004', 'เกลือสำหรับอุตสาหกรรมอื่น ๆ', 'Salt for other industries', 'KGM', '20170101'],
 ['25010099', '090', 'อื่น ๆ', 'Other', 'KGM', '20170101'],
 ['25020000', '000', 'ไอออนไพไรต์ ที่ไม่ได้ย่างหรืออบ', 'Unroasted iron pyrites.', 'KGM', '20170101'],
 ['25030000', '000', 'กำมะถันทุกชนิด นอกจากชนิดระเหิด ชนิดตกตะกอน และชนิดคอลลอยด์', 'Sulphur of all kinds, other than sublimed sulphur, precipitated sulphur and colloidal sulphur.', 'KGM', '20170101'],
@@ -10360,7 +10359,7 @@ var dataSet = [
 ['63079070', '000', 'พัดที่พับได้และพับไม่ได้', 'Fans and handscreens', 'KGM', '20170101'],
 ['63079080', '000', 'เชือกผูกสำหรับรองเท้า รองเท้าบูท คอร์เซ็ท และของที่คล้ายกัน', 'Laces for shoes, boots, corsets and the like', 'KGM', '20170101'],
 ['63079090', '001', 'หน้ากากกรองฝุ่น หมอกควันหรือสารพิษ บรรดาที่เป็นอุปกรณ์เพื่อปลอดภัย', 'Safety masks for preventing dust, smoke or toxic substance', 'KGM', '20170101'],
-['63079090', '002', 'หน้ากากทางการแพทย์ นอกจากหน้ากากชนิดที่ใช้ในห้องผ่าตัด', 'Medical masks , other than surgical masks', 'KGM', '20200701'],
+['63079090', '002', 'หน้ากากทางการแพทย์ นอกจากหน้ากากชนิดที่ใช้ในห้องผ่าตัด', 'Medical masks , other than surgical masks', 'KGM', '20170101'],
 ['63079090', '090', 'อื่น ๆ', 'Other', 'KGM', '20170101'],
 ['63080000', '000', 'ของเป็นชุดที่ประกอบด้วยผ้าทอและด้าย จะมีอุปกรณ์ประกอบหรือไม่ก็ตาม สำหรับจัดทำเป็นพรมผืน เทเพสทรี ผ้าปักที่ทำเป็นผ้าปูโต๊ะหรือผ้าเช็ดมือ หรือจัดทำเป็นของทำด้วยสิ่งทอที่คล้ายกัน บรรจุภาชนะเพื่อการขายปลีก', 'Sets consisting of woven fabric and yarn, whether or not with accessories, for making up into rugs, tapestries, embroidered table cloths or serviettes, or similar textile articles, put up in packings for retail sale.', 'KGM', '20170101'],
 ['63090000', '000', 'เสื้อผ้าที่ใช้แล้วและของอื่น ๆ ที่ใช้แล้ว', 'Worn clothing and other worn articles.', 'KGM', '20170101'],
@@ -20229,15 +20228,13 @@ var dataSet = [
 ['97050010', '001', 'ซากดึกดำบรรพ์', 'Fossil', 'KGM', '20170101'],
 ['97050010', '090', 'อื่น ๆ', 'Other', 'KGM', '20170101'],
 ['97050090', '000', 'อื่น ๆ', 'Other', 'KGM', '20170101'],
-['97060000', '000', 'โบราณวัตถุที่มีอายุเกิน 100 ปี', 'Antiques of an age exceeding one hundred years.', 'KGM', '20170101']
-
-];
-
+['97060000', '000', 'โบราณวัตถุที่มีอายุเกิน 100 ปี', 'Antiques of an age exceeding one hundred years.', 'KGM', '20170101'],
+ ];
 $(document).ready(function () {
   $("#table-ref").DataTable({
     data: dataSet,
     columns: [
-      { title: "TariffClass", className: "txt-center" },
+    { title: "TariffClass", className: "txt-center" },
       { title: "StatCode", className: "txt-center" },
       { title: "StatDescThai" },
       { title: "StatDescEng" },
@@ -20246,7 +20243,8 @@ $(document).ready(function () {
     ],
     responsive: true,
     scroller: true,
+    scrollY: 650,
+    scrollX: true,
   });
-
-  
+  dataTable.FixedHeader(table);
 });
