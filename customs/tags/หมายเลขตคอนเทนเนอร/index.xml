@@ -7,68 +7,52 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
-    <lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ecs-support.github.io/KM/customs/tags/%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%A5%E0%B8%82%E0%B8%95%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%AD%E0%B8%A3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>ความหมายของหมายเลขตู้คอนเทนเนอร์</title>
+      <title>ความหมายของรหัสและข้อมูลต่าง ๆ บนตู้คอนเทรนเนอร์</title>
       <link>https://ecs-support.github.io/KM/customs/post/knowledge/container-no/</link>
-      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/knowledge/container-no/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;1. รหัสเจ้าของตู้&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. รหัสเจ้าของตู้ (HPC)&lt;/strong&gt; เป็นอักษรแทนชื่อบริษัทเจ้าของตู้ เช่น HPC,TNY, CMA, EGS, TCL เป็นต้น&lt;/p&gt;
 
-&lt;p&gt;เป็นอักษรแทนชื่อบริษัทเจ้าของตู้ เช่น TNY, CMA, EGS และ TCL&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2. รหัสระบุประเภท&lt;/strong&gt; จะมีเพียง 1 ตัวที่อยู่ท้ายอักษรรหัสเจ้าของตู้ จากรูปภาพคือตัวอักษร U มีความหมายคือ ตู้คอนเทนเนอร์&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3. รหัสการจดทะเบียนตู้คอนเทนเนอร์&lt;/strong&gt; มีระบุอยู่ 6 ตัว จากตัวอย่างคือ 759933&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;4. รหัสตรวจสอบความถูกต้อง&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;รหัสที่ตรวจสอบว่าเจ้าของตู้ ประเภทตู้และการจดทะเบียนตู้คอนเทนเนอร์นั้นถูกต้องหรือไม่&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;5. ขนาดและชนิดของตู้&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;ขนาดของตู้คอนเทนเนอร์จะมีอยู่ 4 ตัว ในที่นี้คือ 45G1&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. รหัสระบุประเภท (U)&lt;/strong&gt; จะมีเพียง 1 ตัวที่อยู่ท้าย รหัสเจ้าของตู้ จากรูปภาพคือตัวอักษร &lt;strong&gt;U&lt;/strong&gt; มีความหมายคือ ตู้คอนเทนเนอร์ มีรายละเอียดประเภทดังนี้&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;หมายเลข &lt;strong&gt;4&lt;/strong&gt; ตัวแรก คือ ความยาวเท่ากับ 40 ฟุต&lt;/li&gt;
-&lt;li&gt;หมายเลข &lt;strong&gt;5&lt;/strong&gt; ตัวถัด คือ ความสูงเท่ากับ 9 ฟุต 6 นิ้ว&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;G1&lt;/strong&gt; คือ ชนิดตู้คอนเทนเนอร์ที่บรรจุสินค้าทั่วไป&lt;/li&gt;
+&lt;li&gt;U สำหรับตู้คอนเทนเนอร์สินค้าทั้งหมด&lt;/li&gt;
+&lt;li&gt;J สำหรับอุปกรณ์ที่เกี่ยวข้องกับตู้คอนเทนเนอร์ขนส่งสินค้าแบบถอดได้&lt;/li&gt;
+&lt;li&gt;Z สำหรับรถพ่วงและแชสซี&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;ตู้คอนเทนเนอร์ (ในการขนส่ง) จะแบ่งออกเป็น 4 ชนิดหลักๆ คือ&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3. รหัสการจดทะเบียนตู้คอนเทนเนอร์ (200436)&lt;/strong&gt; มีขนาด 6 หลัก จากตัวอย่างคือ &lt;strong&gt;200463&lt;/strong&gt;&lt;/p&gt;
 
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Dry Cargoes ตู้คอนเทนเนอร์สำหรับบรรจุสินค้าทั่วไปที่มีการบรรจุหีบห่อหรือภาชนะ โดยต้องเป็นสินค้าที่ไม่ต้องรักษาอุณหภูมิ สินค้าที่เข้าตู้แล้วจะต้องมีการจัดทำที่กั้นไม่ให้มีสินค้าเลื่อนหรือขยับ หากใช้เป็นเชือกไนลอนรัดหน้าตู้ เรียกว่า Lashing&lt;/p&gt;&lt;/li&gt;
+&lt;p&gt;&lt;strong&gt;4. รหัสตรวจสอบความถูกต้อง (1)&lt;/strong&gt; รหัสที่ตรวจสอบว่าเจ้าของตู้ ประเภทตู้และการจดทะเบียนตู้คอนเทนเนอร์ ถูกต้องหรือไม่ จากตัวอย่างคือเลข &lt;strong&gt;1&lt;/strong&gt;&lt;/p&gt;
 
-&lt;li&gt;&lt;p&gt;Refrigerator Cargoes เป็นตู้สินค้าที่มีเครื่องปรับอากาศในตัว จะต้องสามารถปรับอุณหภูมิได้อย่างน้อย –18 องศาเซลเซียสโดยเครื่องทำความเย็นนี้อาจติดอยู่กับตู้หรือมีปลั๊กเสียบจากนอกตู้และจะต้องมีที่วัดอุณหภูมิแสดงสถานะของอุณหภูมิของตู้สินค้า&lt;/p&gt;&lt;/li&gt;
+&lt;p&gt;&lt;strong&gt;5. ขนาดและชนิดของตู้ (45G1)&lt;/strong&gt; ขนาดและชนิดของตู้คอนเทนเนอร์จะมีอยู่ 4 ตัว จากตัวอย่างคือ &lt;strong&gt;45G1&lt;/strong&gt;&lt;/p&gt;
 
-&lt;li&gt;&lt;p&gt;Open Top ตู้คอนเทนเนอร์แบบเปิดหลังคา ส่วนใหญ่มีขนาด 40 ฟุต ใช้สำหรับใช้ในการวางสินค้าขนาดใหญ่ที่มีรูปทรงไม่แน่นอน เช่น เครื่องจักร อุปกรณ์ก่อสร้างขนาดใหญ่ เป็นต้น ซึ่งตู้ประเภทนี้จะไม่สามารถวางเรียงซ้อนกันได้&lt;/p&gt;&lt;/li&gt;
+&lt;ul&gt;
+&lt;li&gt;หมายเลข &lt;strong&gt;4&lt;/strong&gt; ตัวแรก คือ บอกความยาวตู้ จากตัวอย่างเท่ากับ&lt;strong&gt;ยาว 40 ฟุต&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;หมายเลข &lt;strong&gt;5&lt;/strong&gt; ตัวถัด คือ บอกความสูงและความกว้างของตู้ จากตัวอย่างเท่ากับ &lt;strong&gt;สูง 9 ฟุต 6 นิ้ว (High-cube) กว้าง 2.44 เมตร&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;สองหลักสุดท้ายคือ &lt;strong&gt;G1&lt;/strong&gt; จะบอกชนิดของตู้คอนเทนเนอร์ จากตัวอย่างคือ &lt;strong&gt;ตู้คอนเทนเนอร์ที่บรรจุสินค้าทั่วไป&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;li&gt;&lt;p&gt;Flat-rack ตู้คอนเทนเนอร์ที่มีพื้นราบ มีขนาดกว้างและยาวตามขนาดของตู้สินค้ามาตรฐาน แต่จะเปิดโล่งทั้งด้านบนและด้านข้าง ใช้บรรจุสินค้าที่มีลักษณะพิเศษและไม่สามารถบรรจุด้วยตู้ขนาดมาตรฐานได้ เช่น เครื่องยนต์อุตสาหกรรม แท่งหิน หัวรถจักร เครื่องจักรประติมากรรม รถแทรกเตอร์ขนาดใหญ่ ท่อชนิดต่างๆ เป็นต้น&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;สามารถศึกษารายละเอียดเพิ่มเติมเกี่ยวกับ &lt;strong&gt;ขนาดและชนิดของตู้คอนเทนเนอร์ (Container Size &amp;amp; Type Code)&lt;/strong&gt; ได้&lt;a href=&#34;../container-size-and-type/&#34;&gt;&lt;strong&gt;ที่นี่&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;&lt;strong&gt;6. พิกัดรับน้ำหนัก MAX. GROSS&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;6. MAX. WT. น้ำหนักสูงสุดที่สามารถรับได้&lt;/strong&gt;  คือ น้ำหนักของตู้คอนเทนเนอร์เปล่าที่รวมกับน้ำหนักของสินค้า (TARE WT. + PAYLOAD) ที่ตู้คอนเทนเนอร์สามารถรับได้สูงสุด อาจจะแสดงข้อความ MAX. GROSS WGT., MX GR, MAX.GR. และ MAX.WT.&lt;/p&gt;
 
-&lt;p&gt;น้ำหนักของตู้คอนเทนเนอร์เปล่าที่รวมกับน้ำหนักของสินค้าที่ตู้คอนเทนเนอร์สามารถรับได้สูงสุด อาจจะแสดงข้อความ MAX. GROSS WGT., MX GR, MAX.GR. และ MAX.WT.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;7. TARE WT. น้ำหนักของตู้เปล่า&lt;/strong&gt;  ที่ยังไม่ได้บรรจุสินค้าลงไป&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;7. TARE&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;8. PAYLOAD น้ำหนักสินค้าสูงสุดที่สามารถบรรจุได้&lt;/strong&gt; โดยอาจเขียนว่า N.W., NET WEIGHT, MAX CARGO WGT และ PAYLOAD หมายถึงน้ำหนักของสินค้าสูงสุดที่สามารถบรรจุใส่ตู้คอนเทนเนอร์นั้นได้&lt;/p&gt;
 
-&lt;p&gt;น้ำหนักของตู้เปล่า ที่ยังไม่ได้บรรจุสินค้าลงไป&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;8. น้ำหนักสินค้าที่ตู้รองรับได้&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;โดยอาจเขียนว่า N.W., NET WEIGHT, MAX CARGO WGT และ PAYLOAD หมายถึงน้ำหนักของสินค้าสูงสุดที่สามารถบรรจุใส่ตู้คอนเทนเนอร์นั้นได้&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;9. CUBE หรือ CU CAP.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;ปริมาตรสุทธิของตู้คอนเทนเนอร์&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;9. CUBE หรือ CU CAP.&lt;/strong&gt; ปริมาตรสุทธิของตู้คอนเทนเนอร์&lt;/p&gt;
 </description>
     </item>
     
