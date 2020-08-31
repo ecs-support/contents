@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>ใบกำกับการขนย้ายสินค้า</title>
+      <link>https://ecs-support.github.io/KM/customs/tags/%E0%B9%83%E0%B8%9A%E0%B8%81%E0%B8%B3%E0%B8%81%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%82%E0%B8%99%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/tags/%E0%B9%83%E0%B8%9A%E0%B8%81%E0%B8%B3%E0%B8%81%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%82%E0%B8%99%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ภาษีสรรพสามิต</title>
       <link>https://ecs-support.github.io/KM/customs/tags/%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%95/</link>
       <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
@@ -310,11 +319,11 @@
     </item>
     
     <item>
-      <title>SG</title>
-      <link>https://ecs-support.github.io/KM/customs/tags/sg/</link>
+      <title>Safeguard Measure</title>
+      <link>https://ecs-support.github.io/KM/customs/tags/safeguard-measure/</link>
       <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/tags/sg/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/tags/safeguard-measure/</guid>
       <description></description>
     </item>
     
@@ -328,20 +337,20 @@
     </item>
     
     <item>
-      <title>ขาออก</title>
-      <link>https://ecs-support.github.io/KM/customs/tags/%E0%B8%82%E0%B8%B2%E0%B8%AD%E0%B8%AD%E0%B8%81/</link>
+      <title>การนำเข้า</title>
+      <link>https://ecs-support.github.io/KM/customs/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%82%E0%B8%B2/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/tags/%E0%B8%82%E0%B8%B2%E0%B8%AD%E0%B8%AD%E0%B8%81/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%82%E0%B8%B2/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ขาเข้า</title>
-      <link>https://ecs-support.github.io/KM/customs/tags/%E0%B8%82%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B2/</link>
+      <title>การส่งออก</title>
+      <link>https://ecs-support.github.io/KM/customs/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%81/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/tags/%E0%B8%82%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B2/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%81/</guid>
       <description></description>
     </item>
     
@@ -598,7 +607,7 @@
     </item>
     
     <item>
-      <title>robotics</title>
+      <title>Robotics</title>
       <link>https://ecs-support.github.io/KM/customs/tags/robotics/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
