@@ -11259,9 +11259,6 @@ $(document).ready(function () {
     ],
     responsive: true,
     scroller: true,
-    scrollY: 650,
-    scrollX: true,
-   
   });
 
   dataTable.FixedHeader(table);

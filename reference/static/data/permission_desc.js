@@ -1,4 +1,4 @@
-var dataSet = [
+var dataDesc = [
   [
     "1",
     "72104912",
@@ -102,8 +102,8 @@ var dataSet = [
 ];
 
 $(document).ready(function () {
-  $("#table-ref").DataTable({
-    data: dataSet,
+  $("#table-desc").DataTable({
+    data: dataDesc,
     columns: [
       { title: "พิกัด", className: "txt-center" },
       { title: "รหัสสถิติ", className: "txt-center" },
@@ -115,9 +115,6 @@ $(document).ready(function () {
     ],
     responsive: true,
     scroller: true,
-    scrollY: 650,
-    scrollX: true,
-   
   });
 
   dataTable.FixedHeader(table);
