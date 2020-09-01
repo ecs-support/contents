@@ -734,7 +734,7 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/</loc>
-    <lastmod>2020-08-31T15:18:02+07:00</lastmod>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -749,52 +749,67 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/authors/admin/</loc>
-    <lastmod>2020-08-31T15:18:02+07:00</lastmod>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/tags/aeo/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/tags/aeo-mra/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/authors/</loc>
-    <lastmod>2020-08-31T15:18:02+07:00</lastmod>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/categories/</loc>
-    <lastmod>2020-08-31T15:18:02+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/KM/customs/tags/ocp/</loc>
-    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/KM/customs/tags/</loc>
-    <lastmod>2020-08-31T15:18:02+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/KM/customs/categories/%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</loc>
-    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/KM/customs/categories/%E0%B8%82%E0%B8%B2%E0%B8%A7/</loc>
-    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/KM/customs/post/news/2563-08-31/</loc>
-    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%AB%E0%B8%99%E0%B8%87%E0%B8%AA%E0%B8%AD%E0%B8%A3%E0%B8%9A%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%96%E0%B8%99%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%94%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2/</loc>
-    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/categories/knowledge/</loc>
-    <lastmod>2020-08-31T15:18:02+07:00</lastmod>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/tags/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/post/knowledge/aeo_mra/</loc>
+    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/tags/ocp/</loc>
+    <lastmod>2020-08-31T17:44:03+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/categories/%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</loc>
+    <lastmod>2020-08-31T17:44:03+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/categories/%E0%B8%82%E0%B8%B2%E0%B8%A7/</loc>
+    <lastmod>2020-08-31T17:44:03+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/post/news/2563-08-31/</loc>
+    <lastmod>2020-08-31T17:44:03+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%AB%E0%B8%99%E0%B8%87%E0%B8%AA%E0%B8%AD%E0%B8%A3%E0%B8%9A%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%96%E0%B8%99%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%94%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2/</loc>
+    <lastmod>2020-08-31T17:44:03+07:00</lastmod>
   </url>
   
   <url>
