@@ -254,7 +254,7 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/company/aeo/</loc>
-    <lastmod>2020-07-31T14:29:35+07:00</lastmod>
+    <lastmod>2020-09-01T17:03:44+07:00</lastmod>
   </url>
   
   <url>
@@ -634,7 +634,7 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/import-export/import/excise/price_structure/</loc>
-    <lastmod>2020-08-24T17:50:32+07:00</lastmod>
+    <lastmod>2020-09-02T17:43:13+07:00</lastmod>
   </url>
   
   <url>
@@ -734,7 +734,7 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-02T17:43:13+07:00</lastmod>
   </url>
   
   <url>
@@ -749,42 +749,57 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/authors/admin/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/KM/customs/tags/aeo/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/KM/customs/tags/aeo-mra/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-02T17:43:13+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/authors/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-02T17:43:13+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/categories/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-02T17:43:13+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/categories/knowledge/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-02T17:43:13+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/tags/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-02T17:43:13+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%95/</loc>
+    <lastmod>2020-09-02T17:43:13+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B8%A2%E0%B8%9B%E0%B8%A5%E0%B8%81%E0%B9%81%E0%B8%99%E0%B8%B0%E0%B8%99%E0%B8%B3/</loc>
+    <lastmod>2020-09-02T17:43:13+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/post/knowledge/retail-price/</loc>
+    <lastmod>2020-09-02T17:43:13+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/tags/aeo/</loc>
+    <lastmod>2020-09-01T17:03:44+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/tags/aeo-mra/</loc>
+    <lastmod>2020-09-01T17:03:44+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/post/knowledge/aeo_mra/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-01T17:03:44+07:00</lastmod>
   </url>
   
   <url>
@@ -829,11 +844,6 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%95/</loc>
-    <lastmod>2020-08-31T15:18:02+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%95/</loc>
     <lastmod>2020-08-31T15:18:02+07:00</lastmod>
   </url>
   
