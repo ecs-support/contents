@@ -5,8 +5,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Reference file</title>
+
+     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
     <link rel="stylesheet" href="static/css/table_style.css">
     <link rel="stylesheet" href="static/css/style.css">
+   
 
 
     <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
@@ -31,6 +35,13 @@
          font-size: 1.1em;
          font-weight: 400;
      }
+     #download_file {
+         font-size:30px; 
+         color: red;
+     }
+     #download_file:hover {
+         color:green;
+     }
  </style>
 
 <body>
@@ -44,7 +55,7 @@
 
         <div class="row top_right">
             <a href="static/files/exchange-rate.pdf" target="_blank">
-                <i class=" fas fa-file-pdf" style="font-size:30px; color: red;"></i>
+                <i id="download_file" class=" fas fa-file-pdf" ></i>
             </a>
         </div>
 <table id="table-ref" class="table center table-bordered table-striped" data-page-length='50'  style="width:70%">
