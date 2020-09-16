@@ -9,6 +9,6 @@
 	],
 	"settings": {
 		"liveServer.settings.port": 5501,
-		"liveServer.settings.multiRootWorkspaceName": "uploads_ecs"
+		"liveServer.settings.multiRootWorkspaceName": "upload_git"
 	}
 }
