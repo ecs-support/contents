@@ -1,0 +1,23 @@
+.footerpolicy {
+	position: fixed;
+	z-index: 999999;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: #2F4F4F;
+	color: white;
+	text-align: center;
+  font-size:12px;
+  padding-top: 10px;
+}
+.footerpolicy p{
+	font-size:12px;
+	
+}
+.footerpolicy a{
+	font-size:12px;
+}
+.footerpolicy span{
+	cursor:pointer;
+	color:#ccc;
+}
