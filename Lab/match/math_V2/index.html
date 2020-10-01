@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+   
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <script src="onloads.js"></script>
+
+</head>
+<script src='https://kit.fontawesome.com/a076d05399.js'></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="style.css">
+
+
+<body onload = GetDefault()>
+    <div class="w3-container">
+                <!--splite screen-->
+        <div class="flex-container-grow bg-info_dark text-light">
+            <div style="flex-grow: 4">
+                <div class="w3-bar  w3-large">
+                    <a href="#" class="w3-bar-item w3-button"><i class="material-icons" style="font-size:36px"
+                            onclick="document.getElementById('id01').style.display= 'block' ">settings</i></a>
+                </div>
+            </div>
+            <!--score center-->
+            <div style="flex-grow: 4">
+                <div id="box-score">
+                    <br>
+                    <h3 id="my_score" class="score warning"></h3>
+                </div>
+            </div>
+            <!--stop watch-->
+            <div style="flex-grow: 4">
+                <div id="stop_watch">
+                    <h5 class="green"><time></time></h5>
+                </div>
+            </div>
+        </div>
+        <div class="flex-container-grow">
+            <!--Left form-->
+            <div style="flex-grow: 6">
+                <div class="flex-container-center">
+                    <h1>Math Exercises Generator</h1>
+                    <div id="number_first"></div>
+                    <p id="symbol">+</p>
+                    <div id="number_second"></div>
+                </div>              
+                <div class="flex-container-row">
+      <!--     <input type="text" id="result" name="myInput" autocomplete="off"> -->
+
+
+
+       <!-- third digit-->
+       <div class="w3-container" style="width:10%">                       
+        <button  id = "btn_a3"  class="w3-button w3-block  btn-add" onclick= "add_digit('third_digit')">+</button>
+        <div class="w3-container">
+            <h2 id = "third_digit"></h2>                     
+        </div>
+       <button  id = "btn_m3" class="w3-button w3-block  btn-minus" onclick= "minus_digit('third_digit')">-</button>
+    </div>
+<!-- third digit-->
+
+      <!-- second digit-->
+      <div class="w3-container" style="width:10%">                       
+        <button  id = "btn_a2" class="w3-button w3-block  btn-add" onclick= "add_digit('second_digit')">+</button>
+        <div class="w3-container">
+            <h2 id = "second_digit"></h2>                     
+        </div>
+       <button  id = "btn_m2"  class="w3-button w3-block  btn-minus" onclick= "minus_digit('second_digit')">-</button>
+    </div>
+<!-- second digit-->
+
+            <!-- first digit-->
+                    <div class="w3-container" style="width:10%">                       
+                        <button id = "btn_a1" class="w3-button w3-block btn-add" onclick= "add_digit('first_digit')">+</button>
+                        <div class="w3-container">
+                            <h2 id = "first_digit"></h2>                     
+                        </div>
+                       <button  id = "btn_m1"  class="w3-button w3-block  btn-minus" onclick= "minus_digit('first_digit')">-</button>
+                    </div>
+                <!-- first digit-->
+
+                    <button id="myBtn" class="btn  btn-outline-success" onclick="myStart()">Start</button>
+                    <button id="BtnPause" class="btn btn-outline-danger" onclick="CheckResult()">Pause</button>
+                </div>              
+            </div>
+            <!--Right form-->
+            <div style="flex-grow: 6">
+                <table id="myTable" class="table table-bordered table-striped">
+                    <thead>
+                        <tr>
+                            <th>ลำดับ</th>
+                            <th>รายละเอียด</th>
+                            <th>เวลา</th>
+                            <th>ผลลัพธ์</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!--modal-->
+        <!---->
+        <div id="id01" class="w3-modal w3-animate-opacity">
+            <div class="w3-modal-content w3-card-4">
+                <header class="w3-container w3-red">
+                    <span onclick="document.getElementById('id01').style.display='none'"
+                        class="w3-button w3-large w3-display-topright">&times;</span>
+                    <h2>Setting</h2>
+                </header>
+                <div class="w3-container">
+                    <div class="controls">
+                        <p>Min</p>
+                        <input id="number_min" type="number" />
+                        <p>Max</p>
+                        <input id="number_max" type="number" />
+
+                    </div>
+                </div>
+                <br>
+                <footer class="w3-container w3-red">
+                    <br>
+                    <button type="button" class="btn btn-danger" data-dismiss="modal" onclick="SaveData()"
+                        >Save</button>
+                </footer>
+            </div>
+        </div>
+
+
+
+
+
+
+
+        <script src="script.js"></script>
+</body>
+
+</html>

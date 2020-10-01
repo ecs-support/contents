@@ -32,24 +32,8 @@
 &lt;p&gt;&lt;img src=&#34;exempt100.png&#34; alt=&#34;&#34; /&gt;
 &lt;br&gt;
  &lt;a href=&#34;./EXEMPT100.pdf&#34; target=&#34;_blank&#34; id=&#34;download_files&#34;&gt;ดาวน์โหลดเอกสาร
-                &lt;i class=&#34; fas fa-file-pdf&#34; style=&#34;font-size:30px; color: red;&#34; id=&#34;icon_download&#34;&gt;&lt;/i&gt;
+                &lt;i class=&#34; fas fa-file-pdf&#34; &gt;&lt;/i&gt;
             &lt;/a&gt;&lt;/p&gt;
-
-&lt;style&gt;
-
-#download_files:hover  {
-  color: #2A4B7C; 
-  font-weight:bold;
-  text-decoration: none;
-  transition: color 0.4s ease;
-}
-
-#icon_downlad:hover {
-  color:green;
-  transition: color 0.4s ease;
-}
-
-&lt;/style&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;สอบถามปัญหาในการใช้งานระบบ :   ศูนย์บริการ TISI NSW 0 2202 3304 , 0 2354 3266 e-Mail : nsw@tisi.mail.go.th&lt;/p&gt;

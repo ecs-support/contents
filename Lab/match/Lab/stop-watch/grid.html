@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - Tic Tac Toe</title>
+  <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans+Condensed|Montserrat" rel="stylesheet"><link rel="stylesheet" href="./style.css">
+
+  <style>
+    .item1 { grid-area: number_1; }
+    .item2 { grid-area: number_2; }
+    .item3 { grid-area: symbols; }
+   
+    
+    .grid {
+      display: grid;
+      grid-template-areas:
+      'number_1 symbols'
+      'number_2 symbols';
+      
+      grid-gap: 10px;
+      background-color: green;
+      padding: 10px;
+      align-content: center;
+      justify-content: center;
+      vertical-align: center;
+        width: 400px;
+        height: 250px;
+        line-height: 75px;
+    }
+    
+    .grid > div {
+      background-color: yellow;
+      text-align: center;
+      padding: 20px auto;
+      font-size: 30px;
+      vertical-align: center;
+      justify-content: center;
+      align-content: center;
+    
+  align-items: center;
+
+    }
+
+    .item3 {
+        vertical-align: center;
+      justify-content: center;
+      align-content: center;
+      text-align: center;
+    
+        align-items: center;
+        color:red;
+        font-size: 30px;
+        margin-top:2em;
+
+
+    }
+    </style>
+
+
+
+</head>
+<body>
+
+
+
+
+
+    <div class="grid">
+        <div class="item1">856</div>
+        <div class="item2">357</div>
+        <div class="item3">+</div>  
+       
+      </div>
+      
+
+
+</body>
+</html>

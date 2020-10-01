@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="random_2.css">
+</head>
+
+<body>
+
+  <nav class="navbar navbar-expand-md bg-dark navbar-dark">
+    <a class="navbar-brand" href="#">Navbar</a>
+
+    <div id="stop_watch">
+      <h5 class="white"><time ></time></h5>
+    </div>
+
+    <button class="navbar-toggler" type="button" data-toggle="modal" data-target="#myModal">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+   
+    <li class="clearfix">
+      <span class="float-left">Float left</span>
+      <span class="float-right">Float right</span>
+    </li>
+  </nav>
+  <br>
+  
+  <div class="container">
+    <div class="row">
+
+      <div class="clearfix">
+        <span class="float-left">Float left</span>
+        <span class="float-right">Float right</span>
+      </div>
+
+  <div class="container-fluid">
+   
+      <div class="col-sm-6" style="background-color:lavender;">
+
+        <div class="flex-container-center">
+          <h1>Match Exercises Generator</h1>
+          <div id="number_first"></div>
+          <p id="symbol">+</p>
+          <div id="number_second"></div>
+        </div>
+
+        <div class="flex-container-row">
+          <input type="text" id="result" name="myInput" autocomplete="off">
+          <button id="myBtn" class="btn  btn-outline-success" onclick="myStart()">Start</button>
+          <button id="BtnPause" class="btn btn-outline-danger" onclick="CheckResult()">Pause</button>
+        </div>
+      </div>
+
+
+      <div class="col-sm-6">
+        <div class="container mt-3">
+          <div class="d-flex mb-3">
+            <div class="p-2 flex-fill">
+              <div class="flex-container">
+              <div id = "my_score" class = "score info_dask">  </div>
+              
+              <div id="stop_watch">
+                <h5 class="success"><time ></time></h5>
+              </div>
+            </div>
+        
+                <table id="myTable" class="table table-bordered table-striped">
+                  <thead>
+                    <tr>
+                      <th>ลำดับ</th>
+                      <th>รายละเอียด</th>
+                      <th>เวลา</th>
+                      <th>ผลลัพธ์</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+
+                    </tr>
+
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      </div>
+
+
+
+
+      <div class="container">
+
+        <!-- Button to Open the Modal -->
+
+        <!-- The Modal -->
+        <div class="modal" id="myModal">
+          <div class="modal-dialog">
+            <div class="modal-content">
+
+              <!-- Modal Header -->
+              <div class="modal-header">
+                <h4 class="modal-title">Setting</h4>
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+              </div>
+
+              <!-- Modal body -->
+              <div class="controls">
+                <p>Min</p>
+                <input id="number_min" type="number" value="1" />
+                <p>Max</p>
+                <input id="number_max" type="number" value="99" />
+
+              </div>
+
+              <!-- Modal footer -->
+              <div class="modal-footer">
+                <button type="button" class="btn btn-danger" data-dismiss="modal">Save</button>
+              </div>
+
+            </div>
+          </div>
+        </div>
+
+
+
+
+
+
+
+
+        <script src="random_2.js"></script>
+
+</body>
+
+</html>

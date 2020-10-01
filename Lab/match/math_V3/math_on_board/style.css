@@ -1,0 +1,108 @@
+/* Google Fonts */
+@import url(https://fonts.googleapis.com/css?family=Anonymous+Pro);
+
+/* Global */
+html {
+    
+    overflow: hidden;
+}
+
+body {
+    
+
+    color: rgba(255, 255, 255, .75);
+    font-family: 'Anonymous Pro', monospace;
+
+}
+
+.w3-btn  {
+    margin-bottom:10px;
+    width:100px;
+}
+
+
+.center-top85 {
+    position: absolute;
+    top: 85%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+
+    width: 24em;
+
+    border-right: 2px solid rgba(255, 255, 255, .75);
+    font-size: 200%;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.w3-button {
+    width:250px;
+    top: 80%;
+}
+
+.bg {
+    /* The image used */
+    background-image: url("black_board.png");
+
+    /* Full height */
+    height: 100%;
+    width:auto;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* Animation */
+.anim-typewriter {
+    -webkit-animation: typewriter 4s steps(44) 1s 1 normal both,
+        blinkTextCursor 500ms steps(44) infinite normal;
+    animation: typewriter 4s steps(44) 1s 1 normal both,
+        blinkTextCursor 500ms steps(44) infinite normal;
+}
+
+#numbers {
+    font-size:3.5em;
+
+@-webkit-keyframes typewriter {
+    from {
+        width: 0;
+    }
+
+    to {
+        width: 24em;
+    }
+}
+
+@keyframes typewriter {
+    from {
+        width: 0;
+    }
+
+    to {
+        width: 24em;
+    }
+}
+
+@-webkit-keyframes blinkTextCursor {
+    from {
+        border-right-color: rgba(255, 255, 255, .75);
+    }
+
+    to {
+        border-right-color: transparent;
+    }
+}
+
+@keyframes blinkTextCursor {
+    from {
+        border-right-color: rgba(255, 255, 255, .75);
+    }
+
+    to {
+        border-right-color: transparent;
+    }
+}
