@@ -13,6 +13,38 @@
     
     
     <item>
+      <title>An example title</title>
+      <link>https://ecs-support.github.io/KM/customs/example/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/example/</guid>
+      <description>
+
+&lt;h2 id=&#34;การปฏ-บ-ต-พ-ธ-การ-a-t-a-carnet-กรณ-นำเข-าทางคล-งส-นค-า&#34;&gt;การปฏิบัติพิธีการ A.T.A. CARNET กรณีนำเข้าทางคลังสินค้า&lt;/h2&gt;
+
+&lt;p&gt;เอกสารค้ำประกันเอ.ที.เอ คาร์เนท์ (A.T.A. CARNET) หมายถึงเอกสารศุลกากรระหว่างประเทศ ที่ใช้ใน การผ่านพิธีการศุลกากรแทนใบขนสินค้าขาเข้า ใบขนสินค้าขาออก ใบสุทธิสำหรับนำกลับเข้ามา เอกสารผ่านแดนควบคุมการส่งของจากด่านศุลกากรแห่งหนึ่งไปยังด่านศุลกากรอีกแห่งหนึ่งภายในประเทศ และเป็นเอกสารค้ำประกันค่าภาษีอากรสำหรับของที่นำเข้ามาชั่วคราวโดยได้รับการยกเว้นอากรภายใต้อนุสัญญาเอ.ที.เอ คาร์เนท์&lt;/p&gt;
+
+&lt;p&gt;เอกสารค้ำประกัน (A.T.A. CARNET) 1 ชุด ประกอบด้วย 4 ส่วน คือ.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ปกหน้าและปกหลัง (สีเขียว) และใบต่อ (สีขาว)&lt;/li&gt;
+&lt;li&gt;แบบส่งออกและแบบนำกลับเข้ามาในราชอาณาจักร (สีเหลือง)&lt;/li&gt;
+&lt;li&gt;แบบนำเข้าและแบบส่งกลับออกไปนอกราชอาณาจักร (สีขาว) และ&lt;/li&gt;
+&lt;li&gt;แบบผ่านแดนขาเข้าและแบบผ่านแดนขาออก (สีฟ้า)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Landing Page</title>
+      <link>https://ecs-support.github.io/KM/customs/landing/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/landing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Terms</title>
       <link>https://ecs-support.github.io/KM/customs/term/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
