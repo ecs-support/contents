@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>General on ECS</title>
-    <link>https://ecs-support.github.io/KM/customs/customs/faq/</link>
+    <link>https://example.com/customs/faq/</link>
     <description>Recent content in General on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
     <lastBuildDate>Sun, 21 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://ecs-support.github.io/KM/customs/customs/faq/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://example.com/customs/faq/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>FAQ. (Frequently asked questions)</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/faq/import/</link>
+      <link>https://example.com/customs/faq/import/</link>
       <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/customs/faq/import/</guid>
+      <guid>https://example.com/customs/faq/import/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;http://www.taladtool.com/wp-content/uploads/2018/02/faq.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -70,10 +70,10 @@
     
     <item>
       <title>FAQ. (Frequently asked questions)</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/faq/export/</link>
+      <link>https://example.com/customs/faq/export/</link>
       <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/customs/faq/export/</guid>
+      <guid>https://example.com/customs/faq/export/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;http://www.taladtool.com/wp-content/uploads/2018/02/faq.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;

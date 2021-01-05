@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ประวัติกรมศุลกากร on ECS</title>
-    <link>https://ecs-support.github.io/KM/customs/customs/customs-dept/</link>
+    <link>https://example.com/customs/customs-dept/</link>
     <description>Recent content in ประวัติกรมศุลกากร on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
     <lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://ecs-support.github.io/KM/customs/customs/customs-dept/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://example.com/customs/customs-dept/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>บริการ (Service)</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/customs-dept/service/</link>
+      <link>https://example.com/customs/customs-dept/service/</link>
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/customs/customs-dept/service/</guid>
+      <guid>https://example.com/customs/customs-dept/service/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/service.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ระบบติดตามสถานะ การผ่านพิธีการศุลกากรทางอินเตอร์เน็ต (e-Tracking)</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/customs-dept/e-tracking/</link>
+      <link>https://example.com/customs/customs-dept/e-tracking/</link>
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/customs/customs-dept/e-tracking/</guid>
+      <guid>https://example.com/customs/customs-dept/e-tracking/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tracking/e-trackingjpg_Page1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -114,10 +114,10 @@
     
     <item>
       <title>การชำระค่าภาษีอากร ค่าธรรมเนียมศุลกากร รายได้อื่น และ/หรือเงินประกันของกรมศุลกากร</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/customs-dept/service/payment/payment/</link>
+      <link>https://example.com/customs/customs-dept/service/payment/payment/</link>
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/customs/customs-dept/service/payment/payment/</guid>
+      <guid>https://example.com/customs/customs-dept/service/payment/payment/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;การชำระค่าภาษีอากร ค่าธรรมเนียมศุลกากร รายได้อื่น และ/หรือเงินประกันของกรมศุลกากรมี 3 วิธี&lt;/strong&gt;&lt;/p&gt;
@@ -258,10 +258,10 @@
     
     <item>
       <title>รายชื่อธนาคารที่ให้บริการชำระเงินทางอิเล็กทรอนิกส์ (e-Payment)</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/customs-dept/service/payment/bank_payment/</link>
+      <link>https://example.com/customs/customs-dept/service/payment/bank_payment/</link>
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/customs/customs-dept/service/payment/bank_payment/</guid>
+      <guid>https://example.com/customs/customs-dept/service/payment/bank_payment/</guid>
       <description>&lt;p&gt;
 
 
@@ -302,10 +302,10 @@
     
     <item>
       <title>รายชื่อธนาคารที่ให้บริการชำระเงินทางอิเล็กทรอนิกส์ (Bill Payment)</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/customs-dept/service/payment/bank_e-bill/</link>
+      <link>https://example.com/customs/customs-dept/service/payment/bank_e-bill/</link>
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/customs/customs-dept/service/payment/bank_e-bill/</guid>
+      <guid>https://example.com/customs/customs-dept/service/payment/bank_e-bill/</guid>
       <description>&lt;p&gt;
 
 
@@ -332,10 +332,10 @@
     
     <item>
       <title>ระบบ National Single Window (NSW)</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/customs-dept/thai-nsw/</link>
+      <link>https://example.com/customs/customs-dept/thai-nsw/</link>
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/customs/customs-dept/thai-nsw/</guid>
+      <guid>https://example.com/customs/customs-dept/thai-nsw/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/NationalSingleWindow.png&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
@@ -458,10 +458,10 @@
     
     <item>
       <title>NSW e-Tracking on Mobile</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/customs-dept/nsw-tracking/</link>
+      <link>https://example.com/customs/customs-dept/nsw-tracking/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/customs/customs-dept/nsw-tracking/</guid>
+      <guid>https://example.com/customs/customs-dept/nsw-tracking/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./img/overview.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;ระบบติดตามสถานะการรับส่งข้อมูล ผู้นำเข้า ส่งออก โลจิสติกส์ เป็นบริการเพื่อให้ผู้นำเข้า/ส่งออกสินค้า สามารถตรวจสอบและติดตามสถานะของข้อมูล ที่รับส่งผ่านทางระบบ Thailand NSW ได้ด้วยตัวเอง เพื่ออำนวยความสะดวกแก่ผู้ใช้บริการ รองรับการอ่าน QR Code เพื่อสะดวกในการค้นหาข้อมูลด้วยเลขอ้างอิงที่ขนาดข้อมูลมีความยาว สำหรับการจัดเก็บข้อมูลส่วนบุคคลนั้น เพื่อใช้ในการแจ้งเตือนข่าวสาร และสนับสนุนการใช้งานแอปพลิเคชั่น ประกอบไปด้วย&lt;/p&gt;
@@ -515,10 +515,10 @@
     
     <item>
       <title>ข้อมูลติดต่อด่านศุลกากร/สำนักงาน</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/customs-dept/customs-information-contact/</link>
+      <link>https://example.com/customs/customs-dept/customs-information-contact/</link>
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/customs/customs-dept/customs-information-contact/</guid>
+      <guid>https://example.com/customs/customs-dept/customs-information-contact/</guid>
       <description>&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;

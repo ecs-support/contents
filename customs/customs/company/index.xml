@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ผู้ประกอบการ on ECS</title>
-    <link>https://ecs-support.github.io/KM/customs/customs/company/</link>
+    <link>https://example.com/customs/company/</link>
     <description>Recent content in ผู้ประกอบการ on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
     <lastBuildDate>Sun, 21 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://ecs-support.github.io/KM/customs/customs/company/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://example.com/customs/company/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ตัวแทนออกของและผู้ปฏิบัติงานเกี่ยวกับการออกของ</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/company/broker/</link>
+      <link>https://example.com/customs/company/broker/</link>
       <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/customs/company/broker/</guid>
+      <guid>https://example.com/customs/company/broker/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../broker.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;“ตัวแทนออกของ”&lt;/strong&gt; หมายความถึง ผู้รับมอบอำนาจจากผู้นำของเข้า ผู้ส่งของออก หรือผู้นำของผ่านแดน หรือผู้ขอถ่ายลำ เพื่อปฏิบัติพิธีการศุลกากรทางอิเล็กทรอนิกส์ที่เป็นนิติบุคคลหรือบุคคลธรรมดา&lt;/p&gt;
@@ -52,10 +52,10 @@
     
     <item>
       <title>รายชื่อตัวแทนออกของและผู้ปฏิบัติงานเกี่ยวกับการออกของ ที่จะหมดอายุในปี พ.ศ. 2564</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/company/register_expire/</link>
+      <link>https://example.com/customs/company/register_expire/</link>
       <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/customs/company/register_expire/</guid>
+      <guid>https://example.com/customs/company/register_expire/</guid>
       <description>
 
 &lt;p&gt;กรมศุลกากรเผยแพร่ข้อมูล รายชื่อตัวแทนออกของและผู้ปฏิบัติงานเกี่ยวกับการออกของ ที่จะ&lt;em&gt;หมดอายุในปี พ.ศ. 2564&lt;/em&gt; เพื่อใช้ในการตรวจสอบและเตรียมความพร้อมในการต่ออายุ เพื่อความต่อเนื่องในการปฏิบัติงาน มีรายละเอียดดังนี้&lt;/p&gt;
@@ -114,10 +114,10 @@
     
     <item>
       <title>รายชื่อตัวแทนออกของและผู้ปฏิบัติงานเกี่ยวกับการออกของ ที่จะหมดอายุในปี พ.ศ. 2563</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/company/register_expire_2563/</link>
+      <link>https://example.com/customs/company/register_expire_2563/</link>
       <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/customs/company/register_expire_2563/</guid>
+      <guid>https://example.com/customs/company/register_expire_2563/</guid>
       <description>
 
 &lt;p&gt;กรมศุลกากรเผยแพร่ข้อมูล รายชื่อตัวแทนออกของและผู้ปฏิบัติงานเกี่ยวกับการออกของ ที่จะ&lt;em&gt;หมดอายุในปี พ.ศ. 2563&lt;/em&gt; เพื่อใช้ในการตรวจสอบและเตรียมความพร้อมในการต่ออายุ เพื่อความต่อเนื่องในการปฏิบัติงาน มีรายละเอียดดังนี้&lt;/p&gt;
@@ -176,10 +176,10 @@
     
     <item>
       <title>ผู้ประกอบการระดับมาตรฐานเออีโอ (Authorized Economic Operator - AEO)</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/company/aeo/</link>
+      <link>https://example.com/customs/company/aeo/</link>
       <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/customs/company/aeo/</guid>
+      <guid>https://example.com/customs/company/aeo/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/KnowledgeCenter/raw/master/img/AEO.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -293,10 +293,10 @@
     
     <item>
       <title>Example Page 1</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/company/test/</link>
+      <link>https://example.com/customs/company/test/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/customs/company/test/</guid>
+      <guid>https://example.com/customs/company/test/</guid>
       <description>
 
 &lt;p&gt;Pages
@@ -325,219 +325,223 @@ You can create as many pages as your need. Each page should have a title, and a 
 
 &lt;ul class=&#34;list-unstyled&#34;&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/1-%E0%B8%A0%E0%B8%B2%E0%B8%84-4/&#34;&gt;1 ภาค 4&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/1-%E0%B8%A0%E0%B8%B2%E0%B8%84-4/&#34;&gt;1 ภาค 4&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/19-%E0%B8%A0%E0%B8%B2%E0%B8%84-4/&#34;&gt;19 ภาค 4&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/19-%E0%B8%A0%E0%B8%B2%E0%B8%84-4/&#34;&gt;19 ภาค 4&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/acn/&#34;&gt;ACN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/acn/&#34;&gt;ACN&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/acts/&#34;&gt;ACTS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/acts/&#34;&gt;ACTS&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/aeo/&#34;&gt;AEO&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/aeo/&#34;&gt;AEO&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/aeo-mra/&#34;&gt;AEO MRA&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/aeo-mra/&#34;&gt;AEO MRA&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/ahk/&#34;&gt;AHK&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/ahk/&#34;&gt;AHK&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/ain/&#34;&gt;AIN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/ain/&#34;&gt;AIN&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/anti-dumping/&#34;&gt;Anti-Dumping&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/anti-dumping/&#34;&gt;Anti-Dumping&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/asean/&#34;&gt;ASEAN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/asean/&#34;&gt;ASEAN&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/atiga/&#34;&gt;ATIGA&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/atiga/&#34;&gt;ATIGA&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/awsc/&#34;&gt;AWSC&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/awsc/&#34;&gt;AWSC&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/boi/&#34;&gt;BOI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/boi/&#34;&gt;BOI&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/certified-exporter-code/&#34;&gt;Certified Exporter Code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/certified-exporter-code/&#34;&gt;Certified Exporter Code&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/dfqf/&#34;&gt;DFQF&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/dfqf/&#34;&gt;DFQF&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/exempt100/&#34;&gt;EXEMPT100&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/exempt100/&#34;&gt;EXEMPT100&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/import/&#34;&gt;import&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/import/&#34;&gt;import&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/nato-phonetic-alphabet/&#34;&gt;NATO phonetic alphabet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/nato-phonetic-alphabet/&#34;&gt;NATO phonetic alphabet&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/ocp/&#34;&gt;OCP&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/ocp/&#34;&gt;OCP&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/re-export/&#34;&gt;Re-export&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/re-export/&#34;&gt;Re-export&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/rmts-online/&#34;&gt;RMTS Online&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/rmts-online/&#34;&gt;RMTS Online&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/safeguard-measure/&#34;&gt;Safeguard Measure&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/safeguard-measure/&#34;&gt;Safeguard Measure&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/shipping-mark/&#34;&gt;Shipping Mark&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/shipping-mark/&#34;&gt;Shipping Mark&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/spelling-alphabet/&#34;&gt;Spelling Alphabet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/spelling-alphabet/&#34;&gt;Spelling Alphabet&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/status/&#34;&gt;status&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/status/&#34;&gt;status&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/tnz/&#34;&gt;TNZ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/tnz/&#34;&gt;TNZ&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/wto/&#34;&gt;WTO&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/&#34;&gt;การคืนอากร&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%A7%E0%B8%9A%E0%B8%84%E0%B8%A1/&#34;&gt;การควบคุม&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/&#34;&gt;การคืนอากร&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%87%E0%B8%94%E0%B8%A3%E0%B8%9A%E0%B8%9B%E0%B8%8F%E0%B8%9A%E0%B8%95%E0%B8%9E%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/&#34;&gt;การงดรับปฏิบัติพิธีการศุลกากร&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%A7%E0%B8%9A%E0%B8%84%E0%B8%A1/&#34;&gt;การควบคุม&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%8A%E0%B8%81%E0%B8%95%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%87/&#34;&gt;การชักตัวอย่าง&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%87%E0%B8%94%E0%B8%A3%E0%B8%9A%E0%B8%9B%E0%B8%8F%E0%B8%9A%E0%B8%95%E0%B8%9E%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/&#34;&gt;การงดรับปฏิบัติพิธีการศุลกากร&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%A2%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2/&#34;&gt;การตรวจปล่อยสินค้า&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%8A%E0%B8%81%E0%B8%95%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%87/&#34;&gt;การชักตัวอย่าง&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%82%E0%B8%B2/&#34;&gt;การนำเข้า&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%A2%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2/&#34;&gt;การตรวจปล่อยสินค้า&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%81%E0%B8%9B%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%95%E0%B8%AD%E0%B8%9A%E0%B9%82%E0%B8%95%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B2/&#34;&gt;การปกป้องและตอบโต้ทางการค้า&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%82%E0%B8%B2/&#34;&gt;การนำเข้า&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%9A%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%96%E0%B8%99%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%94%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2%E0%B8%94%E0%B8%A7%E0%B8%A2%E0%B8%95%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B8%87/&#34;&gt;การรับรองถิ่นกำเนิดสินค้าด้วยตนเอง&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%81%E0%B8%9B%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%95%E0%B8%AD%E0%B8%9A%E0%B9%82%E0%B8%95%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B2/&#34;&gt;การปกป้องและตอบโต้ทางการค้า&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%81/&#34;&gt;การส่งออก&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%9A%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%96%E0%B8%99%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%94%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2%E0%B8%94%E0%B8%A7%E0%B8%A2%E0%B8%95%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B8%87/&#34;&gt;การรับรองถิ่นกำเนิดสินค้าด้วยตนเอง&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%8A%E0%B8%AD%E0%B8%A1%E0%B9%82%E0%B8%A2%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%A1%E0%B8%A5%E0%B9%83%E0%B8%9A%E0%B8%AD%E0%B8%99%E0%B8%8D%E0%B8%B2%E0%B8%95/&#34;&gt;การเชื่อมโยงข้อมูลใบอนุญาต&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%81/&#34;&gt;การส่งออก&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%97%E0%B8%95%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2/&#34;&gt;ขนาดและประเภทตู้สินค้า&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%8A%E0%B8%AD%E0%B8%A1%E0%B9%82%E0%B8%A2%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%A1%E0%B8%A5%E0%B9%83%E0%B8%9A%E0%B8%AD%E0%B8%99%E0%B8%8D%E0%B8%B2%E0%B8%95/&#34;&gt;การเชื่อมโยงข้อมูลใบอนุญาต&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%87%E0%B8%94%E0%B8%A7%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%9A%E0%B8%81/&#34;&gt;ของเร่งด่วนทางบก&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%82%E0%B8%99%E0%B8%B2%E0%B8%94%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%97%E0%B8%95%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2/&#34;&gt;ขนาดและประเภทตู้สินค้า&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%82%E0%B8%B2%E0%B8%A7/&#34;&gt;ข้าว&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%87%E0%B8%94%E0%B8%A7%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%9A%E0%B8%81/&#34;&gt;ของเร่งด่วนทางบก&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%82%E0%B8%B2%E0%B8%AD%E0%B8%AD%E0%B8%81/&#34;&gt;ขาออก&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%82%E0%B8%B2%E0%B8%A7/&#34;&gt;ข้าว&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%A5%E0%B8%82%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%AB%E0%B8%9A%E0%B8%AB%E0%B8%AD/&#34;&gt;ครื่องหมายและเลขหมายหีบห่อ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%82%E0%B8%B2%E0%B8%AD%E0%B8%AD%E0%B8%81/&#34;&gt;ขาออก&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%84%E0%B8%A5%E0%B8%87%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2%E0%B8%97%E0%B8%93%E0%B8%91%E0%B8%9A%E0%B8%99/&#34;&gt;คลังสินค้าทัณฑ์บน&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%A5%E0%B8%82%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%AB%E0%B8%9A%E0%B8%AB%E0%B8%AD/&#34;&gt;ครื่องหมายและเลขหมายหีบห่อ&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%84%E0%B8%B2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%99%E0%B8%A2%E0%B8%A1/&#34;&gt;ค่าธรรมเนียม&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%84%E0%B8%A5%E0%B8%87%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2%E0%B8%97%E0%B8%93%E0%B8%91%E0%B8%9A%E0%B8%99/&#34;&gt;คลังสินค้าทัณฑ์บน&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%8A%E0%B8%94%E0%B9%80%E0%B8%8A%E0%B8%A2%E0%B8%84%E0%B8%B2%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/&#34;&gt;ชดเชยค่าภาษีอากร&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%84%E0%B8%B2%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B9%80%E0%B8%99%E0%B8%A2%E0%B8%A1/&#34;&gt;ค่าธรรมเนียม&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%95%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%AD%E0%B8%A3/&#34;&gt;ตู้คอนเทนเนอร์&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%8A%E0%B8%94%E0%B9%80%E0%B8%8A%E0%B8%A2%E0%B8%84%E0%B8%B2%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/&#34;&gt;ชดเชยค่าภาษีอากร&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%A2%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2/&#34;&gt;ตรวจปล่อยสินค้า&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%95%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%AD%E0%B8%A3/&#34;&gt;ตู้คอนเทนเนอร์&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%96%E0%B8%87%E0%B8%A1%E0%B8%AD%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%A5%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1/&#34;&gt;ถุงมือสำหรับการศัลยกรรม&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%A2%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2/&#34;&gt;ตรวจปล่อยสินค้า&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%96%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B3/&#34;&gt;ถ่ายลำ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%96%E0%B8%87%E0%B8%A1%E0%B8%AD%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%A5%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1/&#34;&gt;ถุงมือสำหรับการศัลยกรรม&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%96%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B3-%E0%B8%9C%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99/&#34;&gt;ถ่ายลำ-ผ่านแดน&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%96%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B3/&#34;&gt;ถ่ายลำ&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%99%E0%B8%A7%E0%B8%8B%E0%B9%81%E0%B8%A5%E0%B8%99%E0%B8%94/&#34;&gt;นิวซีแลนด์&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%96%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B3-%E0%B8%9C%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99/&#34;&gt;ถ่ายลำ-ผ่านแดน&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%99%E0%B8%B3%E0%B8%A1%E0%B8%99%E0%B9%80%E0%B8%8A%E0%B8%AD%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%9A%E0%B8%99%E0%B9%84%E0%B8%AD%E0%B8%9E%E0%B8%99/&#34;&gt;น้ำมันเชื้อเพลิงสำหรับเครื่องบินไอพ่น&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%99%E0%B8%A7%E0%B8%8B%E0%B9%81%E0%B8%A5%E0%B8%99%E0%B8%94/&#34;&gt;นิวซีแลนด์&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%9A%E0%B8%AB%E0%B8%A3%E0%B8%8B%E0%B8%81%E0%B8%B2%E0%B9%81%E0%B8%A3%E0%B8%95/&#34;&gt;บุหรี่ซิกาแรต&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%99%E0%B8%B3%E0%B8%A1%E0%B8%99%E0%B9%80%E0%B8%8A%E0%B8%AD%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%9A%E0%B8%99%E0%B9%84%E0%B8%AD%E0%B8%9E%E0%B8%99/&#34;&gt;น้ำมันเชื้อเพลิงสำหรับเครื่องบินไอพ่น&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%9B%E0%B8%94%E0%B8%97%E0%B8%A8%E0%B8%99%E0%B8%A2%E0%B8%A1/&#34;&gt;ปัดทศนิยม&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%9A%E0%B8%AB%E0%B8%A3%E0%B8%8B%E0%B8%81%E0%B8%B2%E0%B9%81%E0%B8%A3%E0%B8%95/&#34;&gt;บุหรี่ซิกาแรต&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8/&#34;&gt;ประกาศ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%9B%E0%B8%94%E0%B8%97%E0%B8%A8%E0%B8%99%E0%B8%A2%E0%B8%A1/&#34;&gt;ปัดทศนิยม&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%88%E0%B8%99/&#34;&gt;ประเทศจีน&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8/&#34;&gt;ประกาศ&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%9E%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B8%97%E0%B8%AA%E0%B8%94/&#34;&gt;ประเทศพัฒนาน้อยที่สุด&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%88%E0%B8%99/&#34;&gt;ประเทศจีน&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%A5%E0%B8%B2%E0%B8%A7/&#34;&gt;ประเทศลาว&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%9E%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B8%97%E0%B8%AA%E0%B8%94/&#34;&gt;ประเทศพัฒนาน้อยที่สุด&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%9C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B8%87%E0%B8%B2%E0%B8%99/&#34;&gt;ผู้ประสานงาน&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%A5%E0%B8%B2%E0%B8%A7/&#34;&gt;ประเทศลาว&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%9C%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99/&#34;&gt;ผ่านแดน&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%9C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B8%99%E0%B8%87%E0%B8%B2%E0%B8%99/&#34;&gt;ผู้ประสานงาน&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%9C%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%A2%E0%B8%99/&#34;&gt;ผ่านแดนอาเซียน&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%9C%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99/&#34;&gt;ผ่านแดน&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%9E%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/&#34;&gt;พิธีการศุลกากร&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%9C%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%A2%E0%B8%99/&#34;&gt;ผ่านแดนอาเซียน&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%9E%E0%B8%B2%E0%B8%93%E0%B8%8A%E0%B8%A2%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%81%E0%B8%97%E0%B8%A3%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%AA/&#34;&gt;พาณิชย์อิเล็กทรอนิกส์&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%9E%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/&#34;&gt;พิธีการศุลกากร&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%A0%E0%B8%B2%E0%B8%A9/&#34;&gt;ภาษี&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%9E%E0%B8%B2%E0%B8%93%E0%B8%8A%E0%B8%A2%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%81%E0%B8%97%E0%B8%A3%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%AA/&#34;&gt;พาณิชย์อิเล็กทรอนิกส์&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%95/&#34;&gt;ภาษีสรรพสามิต&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%A0%E0%B8%B2%E0%B8%A9/&#34;&gt;ภาษี&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%B2-29/&#34;&gt;มาตรา 29&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%95/&#34;&gt;ภาษีสรรพสามิต&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%A2%E0%B8%81%E0%B9%80%E0%B8%A7%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/&#34;&gt;ยกเว้นอากร&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%B2-29/&#34;&gt;มาตรา 29&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%B3%E0%B8%9E%E0%B8%A3%E0%B8%B2/&#34;&gt;ยากำพร้า &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%A2%E0%B8%81%E0%B9%80%E0%B8%A7%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/&#34;&gt;ยกเว้นอากร&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%A2%E0%B8%B2%E0%B9%80%E0%B8%AA%E0%B8%99/&#34;&gt;ยาเส้น&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%B3%E0%B8%9E%E0%B8%A3%E0%B8%B2/&#34;&gt;ยากำพร้า &lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%A3%E0%B8%96%E0%B8%88%E0%B8%81%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B8%A2%E0%B8%99%E0%B8%95/&#34;&gt;รถจักรยานยนต์&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%A2%E0%B8%B2%E0%B9%80%E0%B8%AA%E0%B8%99/&#34;&gt;ยาเส้น&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%A3%E0%B8%96%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%99%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B8%AD/&#34;&gt;รถยนต์นั่งสามล้อ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%A3%E0%B8%96%E0%B8%88%E0%B8%81%E0%B8%A3%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B8%A2%E0%B8%99%E0%B8%95/&#34;&gt;รถจักรยานยนต์&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%A3%E0%B8%AB%E0%B8%AA%E0%B8%AA%E0%B8%96%E0%B8%95/&#34;&gt;รหัสสถิติ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%A3%E0%B8%96%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B8%99%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B8%AD/&#34;&gt;รถยนต์นั่งสามล้อ&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%A3%E0%B8%AB%E0%B8%AA%E0%B8%AA%E0%B8%96%E0%B8%95%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2/&#34;&gt;รหัสสถิติสินค้า&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%A3%E0%B8%AB%E0%B8%AA%E0%B8%AA%E0%B8%96%E0%B8%95/&#34;&gt;รหัสสถิติ&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%A9/&#34;&gt;ระบบภาษี&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%A3%E0%B8%AB%E0%B8%AA%E0%B8%AA%E0%B8%96%E0%B8%95%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2/&#34;&gt;รหัสสถิติสินค้า&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B8%A2%E0%B8%9B%E0%B8%A5%E0%B8%81%E0%B9%81%E0%B8%99%E0%B8%B0%E0%B8%99%E0%B8%B3/&#34;&gt;ราคาขายปลีกแนะนำ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%A9/&#34;&gt;ระบบภาษี&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%A5%E0%B8%94%E0%B8%AD%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/&#34;&gt;ลดอัตราอากร&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B8%A2%E0%B8%9B%E0%B8%A5%E0%B8%81%E0%B9%81%E0%B8%99%E0%B8%B0%E0%B8%99%E0%B8%B3/&#34;&gt;ราคาขายปลีกแนะนำ&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%A7%E0%B8%95%E0%B8%96%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2/&#34;&gt;วัตถุอันตราย&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%A5%E0%B8%94%E0%B8%AD%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/&#34;&gt;ลดอัตราอากร&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%AA%E0%B8%97%E0%B8%98%E0%B8%99%E0%B8%B3%E0%B8%81%E0%B8%A5%E0%B8%9A/&#34;&gt;สุทธินำกลับ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%A7%E0%B8%95%E0%B8%96%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2/&#34;&gt;วัตถุอันตราย&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%AA%E0%B8%97%E0%B8%98%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9/&#34;&gt;สิทธิประโยชน์ทางภาษี&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%AA%E0%B8%97%E0%B8%98%E0%B8%99%E0%B8%B3%E0%B8%81%E0%B8%A5%E0%B8%9A/&#34;&gt;สุทธินำกลับ&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%AA%E0%B8%97%E0%B8%98%E0%B8%9E%E0%B9%80%E0%B8%A8%E0%B8%A9%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%95%E0%B8%81%E0%B8%A5%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B2%E0%B9%80%E0%B8%AA%E0%B8%A3/&#34;&gt;สิทธิพิเศษความตกลงการค้าเสรี&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%AA%E0%B8%97%E0%B8%98%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9/&#34;&gt;สิทธิประโยชน์ทางภาษี&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%AA%E0%B8%97%E0%B8%98%E0%B8%9E%E0%B9%80%E0%B8%A8%E0%B8%A9%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B2/&#34;&gt;สิทธิพิเศษทางการค้า&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%AA%E0%B8%97%E0%B8%98%E0%B8%9E%E0%B9%80%E0%B8%A8%E0%B8%A9%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%95%E0%B8%81%E0%B8%A5%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B2%E0%B9%80%E0%B8%AA%E0%B8%A3/&#34;&gt;สิทธิพิเศษความตกลงการค้าเสรี&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2/&#34;&gt;สินค้าอันตราย&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%AA%E0%B8%97%E0%B8%98%E0%B8%9E%E0%B9%80%E0%B8%A8%E0%B8%A9%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B2/&#34;&gt;สิทธิพิเศษทางการค้า&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%AA%E0%B8%A1%E0%B8%AD/&#34;&gt;สมอ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2/&#34;&gt;สินค้าอันตราย&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%AA%E0%B8%B3%E0%B8%99%E0%B8%81%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%9C%E0%B8%A5%E0%B8%95%E0%B8%A0%E0%B8%93%E0%B8%91%E0%B8%AD%E0%B8%95%E0%B8%AA%E0%B8%B2%E0%B8%AB%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1/&#34;&gt;สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%AA%E0%B8%A1%E0%B8%AD/&#34;&gt;สมอ&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%AA%E0%B8%B3%E0%B8%99%E0%B8%81%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A2%E0%B8%B2/&#34;&gt;สำนักงานอาหารและยา&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%AA%E0%B8%B3%E0%B8%99%E0%B8%81%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%9C%E0%B8%A5%E0%B8%95%E0%B8%A0%E0%B8%93%E0%B8%91%E0%B8%AD%E0%B8%95%E0%B8%AA%E0%B8%B2%E0%B8%AB%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1/&#34;&gt;สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%AB%E0%B8%99%E0%B8%87%E0%B8%AA%E0%B8%AD%E0%B8%A3%E0%B8%9A%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%96%E0%B8%99%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%94%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2/&#34;&gt;หนังสือรับรองถิ่นกำเนิดสินค้า&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%AA%E0%B8%B3%E0%B8%99%E0%B8%81%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A2%E0%B8%B2/&#34;&gt;สำนักงานอาหารและยา&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%9E%E0%B8%97%E0%B8%A2/&#34;&gt;หน้ากากทางการแพทย์&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%AB%E0%B8%99%E0%B8%87%E0%B8%AA%E0%B8%AD%E0%B8%A3%E0%B8%9A%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%96%E0%B8%99%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%94%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2/&#34;&gt;หนังสือรับรองถิ่นกำเนิดสินค้า&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%A2/&#34;&gt;หน้ากากอนามัย&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%9E%E0%B8%97%E0%B8%A2/&#34;&gt;หน้ากากทางการแพทย์&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%A5%E0%B8%82%E0%B8%95%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%AD%E0%B8%A3/&#34;&gt;หมายเลขตู้คอนเทนเนอร์&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%AD%E0%B8%99%E0%B8%B2%E0%B8%A1%E0%B8%A2/&#34;&gt;หน้ากากอนามัย&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%AD%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/&#34;&gt;อัตราอากร&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%A5%E0%B8%82%E0%B8%95%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%AD%E0%B8%A3/&#34;&gt;หมายเลขตู้คอนเทนเนอร์&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A2%E0%B8%B2/&#34;&gt;อาหารและยา&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B2%E0%B9%82%E0%B8%A5%E0%B8%81/&#34;&gt;องค์การการค้าโลก&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%A2%E0%B8%99/&#34;&gt;อาเซียน&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%AD%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/&#34;&gt;อัตราอากร&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%A2%E0%B8%99-%E0%B8%88%E0%B8%99/&#34;&gt;อาเซียน - จีน&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A2%E0%B8%B2/&#34;&gt;อาหารและยา&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%A2%E0%B8%99-%E0%B8%AE%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%87/&#34;&gt;อาเซียน-ฺฮ่องกง&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%A2%E0%B8%99/&#34;&gt;อาเซียน&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B8%AD/&#34;&gt;เกลือ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%A2%E0%B8%99-%E0%B8%88%E0%B8%99/&#34;&gt;อาเซียน - จีน&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%AA%E0%B8%A3/&#34;&gt;เขตประกอบการเสรี&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%A2%E0%B8%99-%E0%B8%AE%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%87/&#34;&gt;อาเซียน-ฮ่องกง&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/&#34;&gt;เขตปลอดอากร&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B8%AD/&#34;&gt;เกลือ&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B9%80%E0%B8%9E%E0%B8%AD%E0%B8%9A%E0%B8%A3%E0%B8%88%E0%B8%B2%E0%B8%84/&#34;&gt;เพื่อบริจาค&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%AA%E0%B8%A3/&#34;&gt;เขตประกอบการเสรี&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%81%E0%B8%A5%E0%B8%A7%E0%B8%94%E0%B8%84%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%AD%E0%B8%99%E0%B8%AA%E0%B8%87/&#34;&gt;เหล็กลวดคาร์บอนสูง&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/&#34;&gt;เขตปลอดอากร&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%81%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%A3%E0%B8%94%E0%B9%80%E0%B8%A2%E0%B8%99%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B8%AD%E0%B8%9A%E0%B8%AA%E0%B8%87%E0%B8%81%E0%B8%B0%E0%B8%AA%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%88%E0%B8%A1%E0%B8%A3%E0%B8%AD%E0%B8%99/&#34;&gt;เหล็กแผ่นรีดเย็นเคลือบสังกะสีแบบจุ่มร้อน&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B9%80%E0%B8%9E%E0%B8%AD%E0%B8%9A%E0%B8%A3%E0%B8%88%E0%B8%B2%E0%B8%84/&#34;&gt;เพื่อบริจาค&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%A1%E0%B8%A1%E0%B8%99%E0%B8%B2/&#34;&gt;เอกสารประกอบการสัมมนา&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%81%E0%B8%A5%E0%B8%A7%E0%B8%94%E0%B8%84%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%AD%E0%B8%99%E0%B8%AA%E0%B8%87/&#34;&gt;เหล็กลวดคาร์บอนสูง&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B9%82%E0%B8%84%E0%B8%A7%E0%B8%94-19/&#34;&gt;โควิด-19&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%81%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%A3%E0%B8%94%E0%B9%80%E0%B8%A2%E0%B8%99%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B8%AD%E0%B8%9A%E0%B8%AA%E0%B8%87%E0%B8%81%E0%B8%B0%E0%B8%AA%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%88%E0%B8%A1%E0%B8%A3%E0%B8%AD%E0%B8%99/&#34;&gt;เหล็กแผ่นรีดเย็นเคลือบสังกะสีแบบจุ่มร้อน&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B9%83%E0%B8%9A%E0%B8%81%E0%B8%B3%E0%B8%81%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%82%E0%B8%99%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2/&#34;&gt;ใบกำกับการขนย้ายสินค้า&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B9%80%E0%B8%AD%E0%B8%81%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%A1%E0%B8%A1%E0%B8%99%E0%B8%B2/&#34;&gt;เอกสารประกอบการสัมมนา&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B9%83%E0%B8%9A%E0%B8%A3%E0%B8%9A%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%96%E0%B8%99%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%94/&#34;&gt;ใบรับรองถิ่นกำเนิด&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B9%82%E0%B8%84%E0%B8%A7%E0%B8%94-19/&#34;&gt;โควิด-19&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%A2/&#34;&gt;ไทย-อินเดีย&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B9%83%E0%B8%9A%E0%B8%81%E0%B8%B3%E0%B8%81%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%82%E0%B8%99%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2/&#34;&gt;ใบกำกับการขนย้ายสินค้า&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B9%84%E0%B8%9B%E0%B8%A3%E0%B8%A9%E0%B8%93%E0%B8%A2/&#34;&gt;ไปรษณีย์ &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B9%83%E0%B8%9A%E0%B8%A3%E0%B8%9A%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%96%E0%B8%99%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%94/&#34;&gt;ใบรับรองถิ่นกำเนิด&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B9%84%E0%B8%A7%E0%B8%A3%E0%B8%AA%E0%B9%82%E0%B8%84%E0%B9%82%E0%B8%A3%E0%B8%99%E0%B8%B2-2019/&#34;&gt;ไวรัสโคโรนา 2019&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%A2/&#34;&gt;ไทย-อินเดีย&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B9%84%E0%B8%9B%E0%B8%A3%E0%B8%A9%E0%B8%93%E0%B8%A2/&#34;&gt;ไปรษณีย์ &lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&#34;https://example.com/tags/%E0%B9%84%E0%B8%A7%E0%B8%A3%E0%B8%AA%E0%B9%82%E0%B8%84%E0%B9%82%E0%B8%A3%E0%B8%99%E0%B8%B2-2019/&#34;&gt;ไวรัสโคโรนา 2019&lt;/a&gt;&lt;/li&gt;
   
 &lt;/ul&gt;
 
@@ -547,57 +551,57 @@ You can create as many pages as your need. Each page should have a title, and a 
 
 &lt;ul class=&#34;list-unstyled&#34;&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/atiga/&#34;&gt;ATIGA&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/categories/atiga/&#34;&gt;ATIGA&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/customsclearance/&#34;&gt;CustomsClearance&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/categories/customsclearance/&#34;&gt;CustomsClearance&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/import/&#34;&gt;import&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/categories/import/&#34;&gt;import&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/knowledge/&#34;&gt;Knowledge&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/categories/knowledge/&#34;&gt;Knowledge&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/news/&#34;&gt;News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/categories/news/&#34;&gt;News&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/taxincentive/&#34;&gt;TaxIncentive&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/categories/taxincentive/&#34;&gt;TaxIncentive&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/%E0%B8%81%E0%B8%8E%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87/&#34;&gt;กฎกระทรวง&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/categories/%E0%B8%81%E0%B8%8E%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87/&#34;&gt;กฎกระทรวง&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/categories/%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B8%81%E0%B9%80%E0%B8%A7%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%A0%E0%B8%B2%E0%B8%84-4/&#34;&gt;การยกเว้นอากรตามภาค 4&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/categories/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B8%81%E0%B9%80%E0%B8%A7%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%A0%E0%B8%B2%E0%B8%84-4/&#34;&gt;การยกเว้นอากรตามภาค 4&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%8A%E0%B8%AD%E0%B8%A1%E0%B9%82%E0%B8%A2%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%A1%E0%B8%A5%E0%B9%83%E0%B8%9A%E0%B8%AD%E0%B8%99%E0%B8%8D%E0%B8%B2%E0%B8%95/&#34;&gt;การเชื่อมโยงข้อมูลใบอนุญาต&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/categories/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%8A%E0%B8%AD%E0%B8%A1%E0%B9%82%E0%B8%A2%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%A1%E0%B8%A5%E0%B9%83%E0%B8%9A%E0%B8%AD%E0%B8%99%E0%B8%8D%E0%B8%B2%E0%B8%95/&#34;&gt;การเชื่อมโยงข้อมูลใบอนุญาต&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%A1-%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B3%E0%B8%81%E0%B8%94/&#34;&gt;ของต้องห้าม-ต้องกำกัด&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/categories/%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%A1-%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B3%E0%B8%81%E0%B8%94/&#34;&gt;ของต้องห้าม-ต้องกำกัด&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/%E0%B8%96%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B3/%E0%B8%9C%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99/&#34;&gt;ถ่ายลำ/ผ่านแดน&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/categories/%E0%B8%96%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B3/%E0%B8%9C%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99/&#34;&gt;ถ่ายลำ/ผ่านแดน&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A7%E0%B8%8A%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3/&#34;&gt;บทความทางวิชาการ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/categories/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A7%E0%B8%8A%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3/&#34;&gt;บทความทางวิชาการ&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8/&#34;&gt;ประกาศ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8/&#34;&gt;ประกาศ&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8/%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2/&#34;&gt;ประกาศ/กฎหมาย&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8/%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2/&#34;&gt;ประกาศ/กฎหมาย&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/&#34;&gt;ประกาศกรมศุลกากร&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/&#34;&gt;ประกาศกรมศุลกากร&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%95/&#34;&gt;ประกาศกรมสรรพสามิต&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%95/&#34;&gt;ประกาศกรมสรรพสามิต&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%A5%E0%B8%87/&#34;&gt;ประกาศกระทรวงการคลัง&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%A5%E0%B8%87/&#34;&gt;ประกาศกระทรวงการคลัง&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B8%AA%E0%B8%82/&#34;&gt;ประกาศกระทรวงสาธารณสุข&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B8%AA%E0%B8%82/&#34;&gt;ประกาศกระทรวงสาธารณสุข&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B8%AD%E0%B8%95%E0%B8%AA%E0%B8%B2%E0%B8%AB%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1/&#34;&gt;ประกาศกระทรวงอุตสาหกรรม&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B8%AD%E0%B8%95%E0%B8%AA%E0%B8%B2%E0%B8%AB%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1/&#34;&gt;ประกาศกระทรวงอุตสาหกรรม&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%81%E0%B8%94%E0%B8%AD%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/&#34;&gt;ประกาศกองพิกัดอัตราศุลกากร&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%9E%E0%B8%81%E0%B8%94%E0%B8%AD%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/&#34;&gt;ประกาศกองพิกัดอัตราศุลกากร&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/%E0%B8%9E%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/&#34;&gt;พิธีการศุลกากร&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/categories/%E0%B8%9E%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/&#34;&gt;พิธีการศุลกากร&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%9A%E0%B8%8D%E0%B8%8D%E0%B8%95%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/&#34;&gt;พระราชบัญญัติศุลกากร&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/categories/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%9A%E0%B8%8D%E0%B8%8D%E0%B8%95%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/&#34;&gt;พระราชบัญญัติศุลกากร&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/%E0%B8%AA%E0%B8%97%E0%B8%98%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B2/&#34;&gt;สิทธิประโยชน์ทางการค้า&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/categories/%E0%B8%AA%E0%B8%97%E0%B8%98%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B2/&#34;&gt;สิทธิประโยชน์ทางการค้า&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/%E0%B8%AA%E0%B8%97%E0%B8%98%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9/&#34;&gt;สิทธิประโยชน์ทางภาษี&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/categories/%E0%B8%AA%E0%B8%97%E0%B8%98%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9/&#34;&gt;สิทธิประโยชน์ทางภาษี&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/%E0%B8%AA%E0%B8%97%E0%B8%98%E0%B8%9E%E0%B9%80%E0%B8%A8%E0%B8%A9%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B2/&#34;&gt;สิทธิพิเศษทางการค้า&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://example.com/categories/%E0%B8%AA%E0%B8%97%E0%B8%98%E0%B8%9E%E0%B9%80%E0%B8%A8%E0%B8%A9%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B2/&#34;&gt;สิทธิพิเศษทางการค้า&lt;/a&gt;&lt;/li&gt;
   
 &lt;/ul&gt;
 </description>

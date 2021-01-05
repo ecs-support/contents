@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>import on ECS</title>
-    <link>https://ecs-support.github.io/KM/customs/categories/import/</link>
+    <link>https://example.com/categories/import/</link>
     <description>Recent content in import on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
     <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://ecs-support.github.io/KM/customs/categories/import/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://example.com/categories/import/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>การแก้ไขข้อมูลใบขนสินค้าขาเข้า</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/correction-import-decl/</link>
+      <link>https://example.com/customs/import-export/import/guide/correction-import-decl/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/correction-import-decl/</guid>
+      <guid>https://example.com/customs/import-export/import/guide/correction-import-decl/</guid>
       <description>
 
 &lt;h2 id=&#34;กรณ-ก-อนร-บของจากอาร-กขาศ-ลกากร-พบว-าข-อม-ลท-เข-าส-ระบบคอมพ-วเตอร-ของศ-ลกากรแล-วม-ความผ-ดพลาด-คลาดเคล-อนไม-ตรงตามความจร-ง&#34;&gt;กรณีก่อนรับของจากอารักขาศุลกากร พบว่าข้อมูลที่เข้าสู่ระบบคอมพิวเตอร์ของศุลกากรแล้วมีความผิดพลาด คลาดเคลื่อนไม่ตรงตามความจริง&lt;/h2&gt;
@@ -59,10 +59,10 @@
     
     <item>
       <title>การบันทึกข้อมูลราคาขายปลีกแนะนำในใบขนสินค้า</title>
-      <link>https://ecs-support.github.io/KM/customs/talk/import/import-01/</link>
+      <link>https://example.com/talk/import/import-01/</link>
       <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/talk/import/import-01/</guid>
+      <guid>https://example.com/talk/import/import-01/</guid>
       <description>&lt;p&gt;ให้ระบุราคาขายปลีกแนะนำ ตามแบบแจ้งราคาขายปลีกแนะนำ (ภส.02-01) ในช่อง Deducted Amount ยกเว้นกรณี&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;../talk/import/static/img/deducted-amount.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -80,10 +80,10 @@
     
     <item>
       <title>ต้องการทราบว่ากรณีสินค้าที่ผลิตในราชอาณาจักรแล้วส่งออกไปเก็บไว้ยังต่างประเทศ หากนำเข้ามาขายในประเทศไทยจะได้รับยกเว้นอากรหรือไม่</title>
-      <link>https://ecs-support.github.io/KM/customs/talk/import/import-02/</link>
+      <link>https://example.com/talk/import/import-02/</link>
       <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/talk/import/import-02/</guid>
+      <guid>https://example.com/talk/import/import-02/</guid>
       <description>&lt;p&gt;พ.ร.ก.พิกัดอัตราศุลกากร พ.ศ.2530 ภาค 4 ประเภท 1  บัญญัติให้ยกเว้นอากรขาเข้ากับสินค้านำเข้าที่พิสูจน์ได้ว่า  เป็นสินค้าที่ผลิตในราชอาณาจักรและไม่ได้ใช้สิทธิประโยชน์ทางภาษีอากรใดๆที่ได้ส่งออกไปต่างประเทศและนำกลับเข้ามาโดยไม่เปลี่ยนแปลงลักษณะหรือรูป หรือเป็นสินค้าต่างประเทศ ที่ได้เคยนำเข้ามาในประเทศไทย และชำระค่าภาษีอากร และได้ส่งออกไปต่างประเทศ โดยไม่ได้ขอคืนอากรขาเข้า และได้นำกลับเข้ามา โดยไม่เปลี่ยนแปลงลักษณะหรือรูปร่าง     ดังนั้นหากสินค้าของท่าน เป็นไปตามข้อกำหนดดังกล่าว โดยสามารถพิสูจน์ตามหลักเกณฑ์เงื่อนไขที่กรมศุลกากรกำหนด    การนำกลับเข้ามาขายในประเทศ จะไม่ต้องเสียภาษีอากรขาเข้า  แต่หากไม่เป็นไปตามหลักเกณฑ์ดังกล่าว  ของนั้นต้องชำระค่าภาษีอากร&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -97,10 +97,10 @@
     
     <item>
       <title>การตรวจสอบรายงานบัญชีสินค้าทางเรือ (Manifest)</title>
-      <link>https://ecs-support.github.io/KM/customs/talk/import/import-03/</link>
+      <link>https://example.com/talk/import/import-03/</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/talk/import/import-03/</guid>
+      <guid>https://example.com/talk/import/import-03/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;สามารถเข้าไปตรวจสอบได้ที่เว็บไซต์กรมศุลกากร ระบบ e-tracking (&lt;a href=&#34;http://e-tracking.customs.go.th/ETS/index.jsp?lang=th&amp;amp;left_menu=nmenu_esevice_002&#34; target=&#34;_blank&#34;&gt;http://e-tracking.customs.go.th/ETS/index.jsp?lang=th&amp;amp;left_menu=nmenu_esevice_002&lt;/a&gt;)&lt;/p&gt;&lt;/li&gt;
 

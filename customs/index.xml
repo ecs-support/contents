@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ECS</title>
-    <link>https://ecs-support.github.io/KM/customs/</link>
+    <link>https://example.com/</link>
     <description>Recent content on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
-    <lastBuildDate>Tue, 29 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Dec 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://ecs-support.github.io/KM/customs/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://ecs-support.github.io/KM/customs/display/</link>
+      <link>https://example.com/display/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/display/</guid>
+      <guid>https://example.com/display/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://ecs-support.github.io/KM/customs/faq/</link>
+      <link>https://example.com/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/faq/</guid>
+      <guid>https://example.com/faq/</guid>
       <description></description>
     </item>
     
@@ -41,39 +41,39 @@
     
     <item>
       <title>FAQ.</title>
-      <link>https://ecs-support.github.io/KM/customs/talk/</link>
+      <link>https://example.com/talk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/talk/</guid>
+      <guid>https://example.com/talk/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://www.taladtool.com/wp-content/uploads/2018/02/faq.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Talk</title>
-      <link>https://ecs-support.github.io/KM/customs/term/</link>
+      <link>https://example.com/term/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/term/</guid>
+      <guid>https://example.com/term/</guid>
       <description></description>
     </item>
     
     <item>
       <title>การปฏิบัติพิธีการศุลกากร</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/</link>
+      <link>https://example.com/customs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/customs/</guid>
+      <guid>https://example.com/customs/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/knowledge-center.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ข่าวสารและบทความ</title>
-      <link>https://ecs-support.github.io/KM/customs/post/</link>
+      <link>https://example.com/post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/</guid>
+      <guid>https://example.com/post/</guid>
       <description></description>
     </item>
     
