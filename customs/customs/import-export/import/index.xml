@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>การนำเข้าสินค้า (Import) on ECS</title>
-    <link>https://example.com/customs/import-export/import/</link>
+    <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/</link>
     <description>Recent content in การนำเข้าสินค้า (Import) on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
     <lastBuildDate>Tue, 12 May 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://example.com/customs/import-export/import/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://ecs-support.github.io/KM/customs/customs/import-export/import/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>พิธีการการนำเข้าสินค้า (Import)</title>
-      <link>https://example.com/customs/import-export/import/customs-clearance/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/customs-clearance/</link>
       <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/customs/import-export/import/customs-clearance/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/customs-clearance/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/cover/import-Customs-clearance.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 
@@ -354,10 +354,10 @@
     
     <item>
       <title>คู่มือการปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า (e-Import)</title>
-      <link>https://example.com/customs/import-export/import/guide/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/customs/import-export/import/guide/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/guide/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/cover/import-Customs-clearance-handbook.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;คู่มือการปฏิบัติพิธีการศุลกากรทางอิเล็กทรอนิกส์ว่าด้วยกระบวนการทางศุลกากรสำหรับการนำเข้า    (e-Import) กำหนดขึ้นเพื่อประโยชน์ในการนำของเข้ามาในราชอาณาจักร ให้การปฏิบัติพิธีการศุลกากรสามารถกระทำโดยวิธีการทางอิเล็กทรอนิกส์ โดยให้ใช้บังคับเป็นการทั่วไปสำหรับการนำของเข้ามาในราชอาณาจักร
@@ -385,10 +385,10 @@
     
     <item>
       <title>การนำเข้ารถยนต์สำเร็จรูป</title>
-      <link>https://example.com/customs/import-export/import/import-car/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/import-car/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/customs/import-export/import/import-car/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/import-car/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/cover/import-car.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -396,7 +396,7 @@
 &lt;h2 id=&#34;ประกาศท-เก-ยวข-อง&#34;&gt;ประกาศที่เกี่ยวข้อง&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://example.com/knowledge-center/customs-clearance/docs/import/import_car/customs_106-2561/&#34;&gt;ประกาศกรมศุลกากร ที่ 106/ 2561 เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการปฏิบัติพิธีการศุลกากรนำเข้าทางอิเล็กทรอนิกส์ว่าด้วยรถยนต์สำเร็จรูป&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/knowledge-center/customs-clearance/docs/import/import_car/customs_106-2561/&#34;&gt;ประกาศกรมศุลกากร ที่ 106/ 2561 เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการปฏิบัติพิธีการศุลกากรนำเข้าทางอิเล็กทรอนิกส์ว่าด้วยรถยนต์สำเร็จรูป&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/ecs-support/knowledge-center/raw/master/data/moc/used_car.pdf&#34; target=&#34;_blank&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง กำหนดให้รถยนต์ใช้แล้วเป็นสินค้าที่ต้องห้ามหรือต้องขออนุญาตในการนำเข้ามาในราชอาณาจักร พ.ศ. 2562&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -451,10 +451,10 @@
     
     <item>
       <title>การสงวนสิทธิขอคืนอากร เกี่ยวกับปัญหาพิกัดศุลกากร</title>
-      <link>https://example.com/customs/import-export/import/reverve/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/reverve/</link>
       <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/customs/import-export/import/reverve/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/reverve/</guid>
       <description>&lt;p&gt;&lt;strong&gt;การปฏิบัติพิธีการศุลกากรกรณีผู้นำของเข้าแจ้งความสงวนสิทธิขอคืนอากรและการวางประกันเกี่ยวกับ ปัญหาพิกัดศุลกากร&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;เนื่องจากภายหลังพระราชบัญญัติศุลกากร พ.ศ. 2560 มีผลบังคับ กรมศุลกากรยังไม่มีประกาศแนวทางปฏิบัติ สำหรับกรณีที่ผู้นำของเข้าไม่แน่ใจ ในประเภทพิกัดที่จะสำแดง จึงขอวางประกัน/แจ้งความสงวนสิทธิคืนอากร เพื่อขอให้กรมศุลกากรพิจำรณาว่าจัดเข้าพิกัดใด แต่ปัจจุบันยังไม่มีแนวทางปฏิบัติให้ผู้ประกอบการ และเจ้าหน้าที่ดำเนินการ แนวทางการแก้ไขปัญหา กรมศุลกากรจึงกำหนดแนวทางให้หน่วยงานที่เกี่ยวข้องไปดำเนินการกำหนดแนวทางการปฏิบัติ และออกเป็นประกาศกรมศุลกากร สำหรับเรื่องดังกล่าว&lt;/p&gt;
@@ -479,10 +479,10 @@
     
     <item>
       <title>ของตกค้าง</title>
-      <link>https://example.com/customs/import-export/import/overtime/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/overtime/</link>
       <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/customs/import-export/import/overtime/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/overtime/</guid>
       <description>
 
 &lt;p&gt;เนื่องจากในปัจจุบันมีใบขนสินค้าผ่านแดน ที่ส่งข้อมูลหลังจากวันนำเข้า&lt;em&gt;เกิน 60 วัน&lt;/em&gt; ทำให้ระบบกรมศุลกากรได้ Lock ไม่ให้ส่งข้อมูลใบขนสินค้าผ่านแดน ทำให้มีคำถามกลับเข้ามาถึงกฎหมายที่เกี่ยวข้อง และขั้นตอนการปฏิบัติพิธีการศุลกากร สำหร้ับเรื่องดังกล่าว ในส่วนของโปรแกรม เราจำเป็นต้องทราบว่าระบบหลังบ้านกรมศุลกากร จะทำการตรวจสอบและ lock สินค้าที่อยู่ในอารักขาของศุลกากร&lt;em&gt;เกิน 60 วัน&lt;/em&gt; นับแต่วันที่นําเข้า โดย&lt;em&gt;ไม่มีการยื่นใบขนสินค้า&lt;/em&gt; หรือ &lt;em&gt;ไม่ได้เสียอากรหรือวางประกันค่าอากรที่ศุลกากรเรียกเก็บ&lt;/em&gt; ไม่สามารถส่งข้อมูลทางอิเล็กทรอนิกส์ได้ เราจึงรวบรวมข้อกฎหมายและขั้นตอนการปฏิบัติของหน่วยงานต่าง ๆ ที่เกี่ยวข้องกับของตกค้าง เพื่อใช้ประกอบทำความเข้าใจ และใช้เป็นแนวทางในการแก้ปัญหาในเรื่องดังกล่าวดังนี้&lt;/p&gt;
@@ -543,10 +543,10 @@
     
     <item>
       <title>ภาษีสรรพสามิต</title>
-      <link>https://example.com/customs/import-export/import/excise/excise/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/excise/excise/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/customs/import-export/import/excise/excise/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/excise/excise/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LlVhH2uMzkQQNM73WMS%2F-LsZj7zJJapJJjs5Zg2J%2F-LsZjQ1QhWpRqEz35NyG%2Fexcise_logo.jpg?alt=media&amp;amp;token=c2a0d657-ef4c-45e7-8b22-3b2d4eee8cfd&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
@@ -589,10 +589,10 @@
     
     <item>
       <title>สืบค้นรหัสสินค้าสรรพสามิต</title>
-      <link>https://example.com/customs/import-export/import/excise/search_by_product/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/excise/search_by_product/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/customs/import-export/import/excise/search_by_product/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/excise/search_by_product/</guid>
       <description>&lt;p&gt;&lt;strong&gt;สืบค้นรหัสสินค้าสรรพสามิตสำหรับระบบแลกเปลี่ยนข้อมูลอิเล็กทรอนิกส์ตามชนิดสินค้า&lt;/strong&gt;&lt;/p&gt;
 
 &lt;table&gt;
@@ -695,10 +695,10 @@
     
     <item>
       <title>โครงสร้างราคาขายปลีกแนะนำ</title>
-      <link>https://example.com/customs/import-export/import/excise/price_structure/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/excise/price_structure/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/customs/import-export/import/excise/price_structure/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/excise/price_structure/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;ต้นทุนการผลิต&lt;/strong&gt;&lt;/p&gt;
 
@@ -726,10 +726,10 @@
     
     <item>
       <title>หลักเกณฑ์ วิธีการ แจ้งราคาขายปลีกแนะนำ</title>
-      <link>https://example.com/customs/import-export/import/excise/notifications_price/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/excise/notifications_price/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/customs/import-export/import/excise/notifications_price/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/excise/notifications_price/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;หลักเกณฑ์ วิธีการ แจ้งราคาขายปลีกแนะนำและคำนวนภาษีสรรพสามิต&lt;/strong&gt;&lt;/p&gt;
@@ -744,10 +744,10 @@
     
     <item>
       <title>ตัวอย่างการคำนวณภาษีสินค้าสรรพสามิต</title>
-      <link>https://example.com/customs/import-export/import/excise/calculate_excise/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/excise/calculate_excise/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/customs/import-export/import/excise/calculate_excise/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/excise/calculate_excise/</guid>
       <description>
 
 &lt;p&gt;การคำนวณภาษีสินค้าสรรพสามิต ในกรณีสินค้าทั่วไป (&lt;strong&gt;ยกเว้นสินค้าในหมวด สุรา ยาสูบ และเครื่องดื่ม&lt;/strong&gt;) เมื่อกำหนดพิกัดสรรพสามิตและบันทึกข้อมูลตามปกติ โปรแกรมจะคำนวณภาษีสรรพสามิต และภาษีเพื่อมหาดไทยให้โดยอัตโนมัติ&lt;/p&gt;
@@ -860,10 +860,10 @@
     
     <item>
       <title>การจัดเก็บ การส่งเงิน การยกเว้น และการขอคืนเงินบํารุงกองทุน</title>
-      <link>https://example.com/customs/import-export/import/excise/government-funded/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/excise/government-funded/</link>
       <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/customs/import-export/import/excise/government-funded/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/excise/government-funded/</guid>
       <description>
 
 &lt;p&gt;ระเบียบกระทรวงการคลังว่าด้วยการจัดเก็บ การส่งเงิน การยกเว้น และการขอคืนเงินบํารุงกองทุน ไว้ชัดเจน ดําเนินการจัดเก็บภาษีสรรพสามิตเพิ่มในอัตราที่กําหนดไว้ตามพระราชบัญญัติเพื่อนํารายได้จากการจัดเก็บ ภาษีสรรพสามิตจากสินค้าสุราและยาสูบ นําส่งเข้ากองทุนตามอัตราส่วนที่กําหนดไว้ในระเบียบ ประกอบด้วย&lt;/p&gt;
@@ -907,10 +907,10 @@
     
     <item>
       <title>ประกาศกรมสรรพสามิต แยกตามประเภทสินค้าและบริการ</title>
-      <link>https://example.com/customs/import-export/import/excise/excise_announcement_product_list/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/excise/excise_announcement_product_list/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/customs/import-export/import/excise/excise_announcement_product_list/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/excise/excise_announcement_product_list/</guid>
       <description>
 
 &lt;h2 id=&#34;ประกาศกรมสรรพสาม-ตท-ออกตามความในกฎกระทรวงกำหนดพ-ก-ดอ-ตราภาษ-สรรพสาม-ต-พ-ศ-2560-และท-แก-ไขเพ-มเต-ม-รวมถ-งประกาศ-ระเบ-ยบ-คำส-งอ-น-ๆ-ท-เก-ยวข-อง-แยกตามประเภทส-นค-าและบร-การ&#34;&gt;ประกาศกรมสรรพสามิตที่ออกตามความในกฎกระทรวงกำหนดพิกัดอัตราภาษีสรรพสามิต พ.ศ. 2560 และที่แก้ไขเพิ่มเติม รวมถึงประกาศ/ระเบียบ/คำสั่งอื่น ๆ ที่เกี่ยวข้อง แยกตามประเภทสินค้าและบริการ&lt;/h2&gt;
@@ -1060,10 +1060,10 @@
     
     <item>
       <title>คู่มือสำหรับประชาชนของกรมสรรพสามิต</title>
-      <link>https://example.com/customs/import-export/import/excise/excise_announcement_list/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/excise/excise_announcement_list/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/customs/import-export/import/excise/excise_announcement_list/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/excise/excise_announcement_list/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;คู่มือสำหรับประชาชนของกรมสรรพสามิต ตามพระราชบัญญัติภาษีสรรพสามิต พ.ศ. 2560 (6 งาน 65 กระบวนงาน)&lt;/strong&gt;&lt;/p&gt;
@@ -1174,10 +1174,10 @@
     
     <item>
       <title>มาตรการปกป้องและตอบโต้ทางการค้า</title>
-      <link>https://example.com/customs/import-export/import/trade-protection/main/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/trade-protection/main/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/customs/import-export/import/trade-protection/main/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/trade-protection/main/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/trade-protection.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;การค้าเป็นสิ่งคัญที่ทุกประเทศจะนำมาใช้ในการพัฒนาประเทศให้เจริญรุ่งเรือง และเป็นกลไก สำคัญที่จะพัฒนาประเทศ แต่เนื่องจากการผลิตสินค้าในประเทศนั้น อาจมีค่าแรงสูงและกระบวนการผลิตที่ทำให้สินค้ามีราคาสูงจึงเป็นเรื่องปกติที่คนในประเทศจะใช้สินค้านำเข้าราคาถูกจากประเทศอื่น เช่น จีน หรือเวียดนาม ที่มีค่าแรงขั้นต่ำราคาถูก ที่มาโจมตีสินค้าภายในประเทศได้ กรณีนี้จึงต้องมีมาตรการป้องกันเศรษฐกิจและสินค้าภายในประเทศตนเอง เพื่อให้คนในประเทศหันมาอุดหนุนสินค้าของประเทศตนเอง โดยองค์การการค้าโลกได้มีวิธีที่จะให้ประเทศสมาชิกใช้มาตรการต่าง ๆ เพื่อป้องกันการทุ่มตลาดจากประเทศอื่น ๆ ได้เช่น  มาตรการตอบโต้การทุ่มตลาด (Anti-dumping: AD) และมาตรการตอบโต้การอุดหนุน (Countervailing Duty: CVD), มาตรการสนับสนุนของรัฐ รวมทั้งใช้เป็นมาตรการทางการค้า ที่ประเทศผู้นำเข้าใช้เพื่อปกป้องอุตสาหกรรมภายในที่ได้รับความเสียหาย หรือมีแนวโน้มที่จะได้รับความเสียหาย อันเกิดจากการนำเข้าสินค้าจากต่างประเทศที่ไม่เป็นธรรม&lt;/p&gt;
@@ -1186,10 +1186,10 @@
     
     <item>
       <title>มาตรการตอบโต้การทุ่มตลาด (Anti-dumping)</title>
-      <link>https://example.com/customs/import-export/import/trade-protection/1.ad/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/trade-protection/1.ad/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/customs/import-export/import/trade-protection/1.ad/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/trade-protection/1.ad/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/anti-dumping.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
@@ -1402,10 +1402,10 @@
     
     <item>
       <title>มาตรการตอบโต้การอุดหนุน (Countervailing Duty)</title>
-      <link>https://example.com/customs/import-export/import/trade-protection/2.cvd/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/trade-protection/2.cvd/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/customs/import-export/import/trade-protection/2.cvd/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/trade-protection/2.cvd/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/CVD.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
@@ -1616,10 +1616,10 @@
     
     <item>
       <title>มาตรการปกป้องการนำเข้าสินค้าที่เพิ่มขึ้น (Safeguard Measure)</title>
-      <link>https://example.com/customs/import-export/import/trade-protection/3.sg/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/trade-protection/3.sg/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/customs/import-export/import/trade-protection/3.sg/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/trade-protection/3.sg/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/SG.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;

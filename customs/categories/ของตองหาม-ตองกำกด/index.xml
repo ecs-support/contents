@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ของต้องห้าม-ต้องกำกัด on ECS</title>
-    <link>https://example.com/categories/%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%A1-%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B3%E0%B8%81%E0%B8%94/</link>
+    <link>https://ecs-support.github.io/KM/customs/categories/%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%A1-%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B3%E0%B8%81%E0%B8%94/</link>
     <description>Recent content in ของต้องห้าม-ต้องกำกัด on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
     <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://example.com/categories/%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%A1-%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B3%E0%B8%81%E0%B8%94/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://ecs-support.github.io/KM/customs/categories/%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%A1-%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B3%E0%B8%81%E0%B8%94/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>สินค้าอันตราย (Dangerous Goods)</title>
-      <link>https://example.com/customs/restricted-goods/dangerous_goods/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/restricted-goods/dangerous_goods/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/customs/restricted-goods/dangerous_goods/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/restricted-goods/dangerous_goods/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://ecs-support.github.io/knowledge-center/customs-clearance/docs/restricted-goods/dangerous-goods/img/DANGEROUS_GOODS.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -157,10 +157,10 @@
     
     <item>
       <title>ประกาศที่เกี่ยวข้อง</title>
-      <link>https://example.com/customs/restricted-goods/announce/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/restricted-goods/announce/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/customs/restricted-goods/announce/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/restricted-goods/announce/</guid>
       <description>
 
 &lt;h1 id=&#34;การปฏ-บ-ต-พ-ธ-การศ-ลกากร&#34;&gt;การปฏิบัติพิธีการศุลกากร&lt;/h1&gt;
@@ -205,10 +205,10 @@
     
     <item>
       <title>รายชื่อผู้ประสานงาน - หน่วยงานภาครัฐ</title>
-      <link>https://example.com/customs/restricted-goods/oga_contact/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/restricted-goods/oga_contact/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/customs/restricted-goods/oga_contact/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/restricted-goods/oga_contact/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/announce/131-2561/OGA_contactjpg_Page1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/announce/131-2561/OGA_contactjpg_Page2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;

@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FAQ. on ECS</title>
-    <link>https://example.com/talk/</link>
+    <link>https://ecs-support.github.io/KM/customs/talk/</link>
     <description>Recent content in FAQ. on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
     
-	    <atom:link href="https://example.com/talk/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://ecs-support.github.io/KM/customs/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Customs Clearance.</title>
-      <link>https://example.com/talk/clearance/</link>
+      <link>https://ecs-support.github.io/KM/customs/talk/clearance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/talk/clearance/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/talk/clearance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Export.</title>
-      <link>https://example.com/talk/export/</link>
+      <link>https://ecs-support.github.io/KM/customs/talk/export/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/talk/export/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/talk/export/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Import.</title>
-      <link>https://example.com/talk/import/</link>
+      <link>https://ecs-support.github.io/KM/customs/talk/import/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/talk/import/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/talk/import/</guid>
       <description></description>
     </item>
     
     <item>
       <title>สิทธิประโยชน์ทางภาษี</title>
-      <link>https://example.com/talk/incentive/</link>
+      <link>https://ecs-support.github.io/KM/customs/talk/incentive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/talk/incentive/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/talk/incentive/</guid>
       <description></description>
     </item>
     
