@@ -709,66 +709,81 @@
   
   <url>
     <loc>https://example.com/authors/admin/</loc>
-    <lastmod>2021-01-05T13:15:42+07:00</lastmod>
+    <lastmod>2021-01-05T14:12:31+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/authors/</loc>
-    <lastmod>2021-01-05T13:15:42+07:00</lastmod>
+    <lastmod>2021-01-05T14:12:31+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/categories/</loc>
-    <lastmod>2021-01-05T13:15:42+07:00</lastmod>
+    <lastmod>2021-01-05T14:12:31+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/</loc>
-    <lastmod>2021-01-05T13:15:42+07:00</lastmod>
+    <lastmod>2021-01-05T14:12:31+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/tags/</loc>
-    <lastmod>2021-01-05T13:15:42+07:00</lastmod>
+    <lastmod>2021-01-05T14:12:31+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/wto/</loc>
-    <lastmod>2021-01-05T13:15:42+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/post/announcement/ministry/2563-12-30-wto-04/</loc>
-    <lastmod>2021-01-05T13:15:42+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/post/announcement/ministry/2563-12-30-wto-05/</loc>
-    <lastmod>2021-01-05T13:15:42+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8/%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2/</loc>
-    <lastmod>2021-01-05T13:15:42+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%A5%E0%B8%87/</loc>
-    <lastmod>2021-01-05T13:15:42+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B2%E0%B9%82%E0%B8%A5%E0%B8%81/</loc>
-    <lastmod>2021-01-05T13:15:42+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/post/announcement/customs/2563-203/</loc>
-    <lastmod>2020-12-29T16:26:10+07:00</lastmod>
+    <loc>https://example.com/tags/%E0%B8%95%E0%B8%A7%E0%B9%81%E0%B8%97%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%82%E0%B8%AD%E0%B8%87/</loc>
+    <lastmod>2021-01-05T14:12:31+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</loc>
+    <lastmod>2021-01-05T14:12:31+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/%E0%B8%9E%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</loc>
+    <lastmod>2021-01-05T14:12:31+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/post/announcement/customs/2563-204/</loc>
+    <lastmod>2021-01-05T14:12:31+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/wto/</loc>
+    <lastmod>2021-01-05T14:12:31+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/post/announcement/ministry/2563-12-30-wto-05/</loc>
+    <lastmod>2021-01-05T14:12:31+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8/%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2/</loc>
+    <lastmod>2021-01-05T14:12:31+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%A5%E0%B8%87/</loc>
+    <lastmod>2021-01-05T14:12:31+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B2%E0%B9%82%E0%B8%A5%E0%B8%81/</loc>
+    <lastmod>2021-01-05T14:12:31+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/post/announcement/ministry/2563-12-30-wto-04/</loc>
+    <lastmod>2021-01-05T14:12:31+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/post/announcement/customs/2563-203/</loc>
     <lastmod>2020-12-29T16:26:10+07:00</lastmod>
   </url>
   
@@ -954,11 +969,6 @@
   
   <url>
     <loc>https://example.com/tags/%E0%B8%9C%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%A2%E0%B8%99/</loc>
-    <lastmod>2020-12-21T11:34:05+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/categories/%E0%B8%9E%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</loc>
     <lastmod>2020-12-21T11:34:05+07:00</lastmod>
   </url>
   
