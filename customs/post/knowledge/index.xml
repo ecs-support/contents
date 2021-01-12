@@ -23,8 +23,6 @@
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;./img/bill-paymentjpg_Page1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
 &lt;p&gt;&lt;img src=&#34;./img/bill-paymentjpg_Page2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;./img/bill-paymentjpg_Page3.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -45,15 +43,6 @@
 &lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232832414d505e4e464b4d464b4b&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>News</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/news/</link>
-      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/news/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -1648,6 +1637,15 @@
 &lt;p&gt;ที่มาบทความ : &lt;a href=&#34;https://www.bangkokbiznews.com/blog/detail/646778&#34; target=&#34;_blank&#34;&gt;กรุงเทพธุรกิจ&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://ecs-support.github.io/KM/customs/post/knowledge/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/news/</guid>
+      <description></description>
     </item>
     
   </channel>
