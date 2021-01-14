@@ -1,0 +1,2567 @@
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+	Python File I/O :: DocPort Documentation
+</title>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="revised" content="2021-01-15T01:47:23 &#43;07">
+<meta name="description" content="">
+
+
+
+<title>Python File I/O :: DocPort Documentation</title>
+
+<link rel="shortcut icon" href='/images/favicon.png' type="image/x-icon" />
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.css">
+
+<script src='https://code.jquery.com/jquery-3.5.1.min.js'></script>
+
+<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel="stylesheet">
+
+
+
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/layout.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/css/style.main.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/css/style.menu.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/notice.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/tabs.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/panel.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/columns.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/children.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/attachments.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/alert.css'>
+<link rel="stylesheet" type="text/css" href='/css/docport.css'>
+
+<script src='/js/docport.js'></script>
+<script type="text/javascript">
+      var baseurl = "https:\/\/example.com";
+</script>
+
+
+
+
+    
+  </head>
+
+  <body data-url="/tutorials/python/learn_python/files/file_operations/"
+
+  class="">
+
+<style type="text/css">
+  #debug{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    line-height: 3.5rem;
+    margin-bottom: .35rem;
+    padding: 0 2rem;
+    position: fixed;
+    left: 0;      right: 0;     top: 0;
+   
+    top:0px;
+    
+    min-height: 150px;
+
+    background-color: white;
+    border: 3px solid red;
+    z-index: 10000 ;
+    word-wrap: all;
+    overflow: auto;
+  }
+</style>
+ 
+
+
+    
+    
+    <header style="">
+        <div>
+    
+    <div class="burger ">
+        <a href="javascript:void(0);" style="font-size:15px;" onclick="$('article > aside').toggleClass('responsive')">&#9776;</a>
+    </div>
+    
+
+    <div>
+
+		
+	
+			
+		
+	    	<a class='baselink' href='https://example.com'>DocPort Documentation</a>
+	  	
+	</div>
+    <nav class="shortcuts">
+            <li class="" role="">
+                <a href="https://github.com/vjeantet/hugo-theme-docport"  rel="noopener">
+                  Github
+                </a>
+            </li>
+            <li class="" role="">
+                <a href="https://github.com/vjeantet/hugo-theme-docport/archive/master.zip"  rel="noopener">
+                  Download
+                </a>
+            </li>
+            <li class="" role="">
+                <a href="https://gohugo.io/"  rel="noopener">
+                  Hugo Documentation
+                </a>
+            </li>
+            <li class="" role="">
+                <a href="/docport-theme/credits/"  rel="noopener">
+                  Credits
+                </a>
+            </li>
+    </nav>
+
+</div>
+    </header>
+    
+
+    <article>
+      
+      <aside class="">
+        
+<div class="search">
+	<div class="searchbox">
+	  <input data-search-input id="search-by" type="text" placeholder="Type to search...">
+	</div>
+	<script type="text/javascript" src="/vendor/lunr/lunr.min.js"></script>
+	<script type="text/javascript" src="/vendor/auto-complete/auto-complete.js"></script>
+	<link href="/vendor/auto-complete/auto-complete.css" rel="stylesheet">
+	<script type="text/javascript">
+	  
+	      var baseurl = "https:\/\/example.com";
+	  
+	</script>
+	<script type="text/javascript" src="/js/search.js"></script>
+</div>
+
+		
+	
+			
+		
+	    	
+	    
+	<div id="close_menu">
+  <a href="javascript:void(0);" style="font-size:15px;" onclick="$('article > aside').toggleClass('responsive')">
+      <i class="fa fa-lg fa-times"></i>
+  </a>
+</div>
+
+<ul class="menu">
+
+    <li data-nav-id="https://example.com/tutorials/" class="dd-item parent haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <i class="fas fa-chevron-down ddexp"></i>
+        
+      
+          <a href="/tutorials/">Tutorial</a>
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/">Python by MascusCode</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/0_intro/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/0_intro/">Introduction</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/3_structure/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/3_structure/">3. โครงสร้างของภาษา Python</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/4_type/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/4_type/">4. ตัวแปรและประเภทข้อมูล</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/9_function/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/9_function/">9. ฟังก์ชัน (Function)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/10_string/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/10_string/">10. String</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/11_string_methods/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/11_string_methods/">11. String methods</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/12_list/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/12_list/">12. List (ลิสต์)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/13_list_methods/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/13_list_methods/">13. List Methods (ลิสต์ เมธอด)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/15_dictionary/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/15_dictionary/">15. Dictionary</a>
+      
+        
+      
+    </li>
+              
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/20_classes/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/20_classes/">21. Classes &amp; Objects</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/21_inheritance/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/21_inheritance/">22. Inheritance</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/22_thread/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/22_thread/">23. Thread</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/24_date-time/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/24_date-time/">24. Date &amp; Time (วันที่และเวลา)</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/">Pandas</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/cookbook/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/cookbook/">Pandas Cookbook</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/short_introduction/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/short_introduction/">Short Introduction</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/short_introduction/10-minutes/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/short_introduction/10-minutes/">10 minutes to pandas</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/short_introduction/essential_snippets/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/short_introduction/essential_snippets/">19 Essential Snippets in Pandas</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/short_introduction/basic-to-beyond/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/short_introduction/basic-to-beyond/">Basics to Beyond</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/short_introduction/cheatsheet-pandas/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/short_introduction/cheatsheet-pandas/">Cheatsheet Pandas</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/tutorial-geeksforgeeks/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/tutorial-geeksforgeeks/">Tutorial (GeeksforGeeks)</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/tutorial-geeksforgeeks/selection/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/tutorial-geeksforgeeks/selection/">Selection</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/tutorial-geeksforgeeks/selection/dealing-with-rows-and-columns/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/tutorial-geeksforgeeks/selection/dealing-with-rows-and-columns/">Dealing with Rows and Columns</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/tutorial-geeksforgeeks/selection/extracting-rows-using-loc/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/tutorial-geeksforgeeks/selection/extracting-rows-using-loc/">Extracting rows using .loc[]</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/tutorial-geeksforgeeks/selection/extracting-rows-using-pandas-iloc/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/tutorial-geeksforgeeks/selection/extracting-rows-using-pandas-iloc/">Extracting rows using .iloc[]</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/" class="dd-item parent haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/">Python</a>
+      
+          <i class="fas fa-chevron-down ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/" class="dd-item parent haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/">Learn Python</a>
+      
+          <i class="fas fa-chevron-down ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/function/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/function/">Function</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/function/function_arguments/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/function/function_arguments/">Function Arguments</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/function/lambda_functions/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/function/lambda_functions/">Anonymous/Lambda Function</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/function/global_variables/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/function/global_variables/">Global, Local and variables</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/data_type/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/data_type/">Data Type</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/data_type/list/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/data_type/list/">Python: List</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/data_type/tuble/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/data_type/tuble/">Python: Tuble</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/data_type/string/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/data_type/string/">Python: String</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/data_type/set/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/data_type/set/">Python: Set</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/data_type/dictionary/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/data_type/dictionary/">Python: Dictionary</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/" class="dd-item parent haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/">Files</a>
+      
+          <i class="fas fa-chevron-down ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/intro/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/intro/">Page Index</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/file_operations/" class="dd-item parent active
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/file_operations/">Python File I/O</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/directory/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/directory/">Python: Directory</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/exceptions/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/exceptions/">Python Exceptions</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/exception-handling/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/exception-handling/">Exception Handling</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/user-defined-exception/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/user-defined-exception/">Custom Exceptions</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/objects_class/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/objects_class/">Object &amp; Class</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/objects_class/oop/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/objects_class/oop/">Object Oriented Programming (OOP)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/objects_class/class/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/objects_class/class/">Objects and Classes</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/objects_class/inheritance/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/objects_class/inheritance/">Python Inheritance</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/advance_topic/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/advance_topic/">Advance Topics</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/advance_topic/iterators/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/advance_topic/iterators/">Iterators</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/advance_topic/generators/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/advance_topic/generators/">Generators</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/">Date and Time</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/datetime_module/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/datetime_module/">datetime() Module</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/strftime/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/strftime/">strftime()</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/strptime/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/strptime/">strptime()</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/current-datetime/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/current-datetime/">Get Current Date and Time</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/timestamp_datetime/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/timestamp_datetime/">Timestamp to Datetime</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/time_module/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/time_module/">Time Module</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/sleep/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/sleep/">Time Sleep()</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/">phyblas</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/">ผู้เริ่มต้น (Beginer)</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/basic_functin/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/basic_functin/">ฟังก์ชันพื้นฐาน</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/string_output/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/string_output/">การแสดงผลตัวอักษร</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/string_format/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/string_format/">การจัดการกับสายอักขระ</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/list/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/list/">การจัดการกับลิสต์ (List)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/dictionary/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/dictionary/">ดิกชันนารี (Dictionary)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/module/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/module/">การเรียกใช้มอดูล (Module)</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/">ระดับกลาง(Intermediate)</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/read_files/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/read_files/">การอ่านข้อมูลจากไฟล์</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/write_files/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/write_files/">การเขียนข้อมูลลงไฟล์</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/create_function/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/create_function/">การสร้างฟังก์ชัน</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/recursive_function/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/recursive_function/">ฟังก์ชันเวียนเกิด</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/lambda/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/lambda/">คำสั่งพิเศษที่เกี่ยวข้องกับฟังก์ชัน</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/inheritance/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/inheritance/">การรับทอด</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/advance/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/advance/">ระดับสูง(Advance)</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/w3resource/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/w3resource/">Python Tutorial (w3resource)</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/w3resource/bytes/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/w3resource/bytes/">Python: Bytes, Bytearray</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/w3resource/regular_expression/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/w3resource/regular_expression/">Python: Regular Expression</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/quick_guide/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/quick_guide/">Python: Quick Guide</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/quick_guide/a-81-python-code-snippet/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/quick_guide/a-81-python-code-snippet/">81 Python Code Snippets</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/resources/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/resources/">Resources</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/resources/quick_reference_cards/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/resources/quick_reference_cards/">Quick Reference Card</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/pythonstandardlibrary/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/pythonstandardlibrary/">Standard Library</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/pythonstandardlibrary/text/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/pythonstandardlibrary/text/">Text</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/pythonstandardlibrary/text/string/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/pythonstandardlibrary/text/string/">String</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/">Tutorials</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/basic_syntax/" class="dd-item alwaysopen
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/basic_syntax/">Basic Syntax</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/date-time/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/date-time/">Date &amp; Time</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/date-time/pendulum/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/date-time/pendulum/">pendulum</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/date-time/overview/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/date-time/overview/">การจัดการวันเวลา</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/date-time/center/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/date-time/center/">Date &amp; Time tutorial</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/date-time/time-delta-striftime/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/date-time/time-delta-striftime/">TimeDelta, Strftime(Format)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/date-time/time-module/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/date-time/time-module/">Time Module</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/list/" class="dd-item alwaysopen
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/list/">List</a>
+      
+        
+      
+    </li>
+              
+<hr/>
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/dictionary/" class="dd-item alwaysopen haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/dictionary/">Dictionary&nbsp;👋</a>
+      
+          <i class="fas fa-chevron-down ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/dictionary/dict_beginner/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/dictionary/dict_beginner/">Beginners Tutorial</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/dictionary/merge-two-dictionaries/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/dictionary/merge-two-dictionaries/">Merge two Dictionaries</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/beginner/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/beginner/">Python for beginners</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+    
+
+
+
+</ul>
+
+		
+	
+			
+		
+	    	<center>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/vjeantet/hugo-theme-docport/archive/master.zip" data-icon="octicon-cloud-download" aria-label="Download vjeantet/hugo-theme-docport on GitHub">Download</a>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/vjeantet/hugo-theme-docport" data-icon="octicon-star" data-show-count="false" aria-label="Star vjeantet/hugo-theme-docport on GitHub">Star</a>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/vjeantet/hugo-theme-docport/fork" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork vjeantet/hugo-theme-docport on GitHub">Fork</a>
+</center>
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+	    
+	
+      </aside>
+      
+
+      <section class="page ">
+      
+	
+		
+    
+    
+    <nav id="ariane" aria-label="breadcrumb">
+      <ol class="ariane">
+        
+  
+  	
+		
+  
+  	
+		
+  
+  	
+		
+  
+  	
+		
+  
+  	
+	<li >
+      <a class="text-link" href="https://example.com">
+        Home
+      </a>
+    </li>
+	
+  
+    <li class="">
+      <a class="text-link" href="/tutorials/">
+        Tutorial
+      </a>
+    </li>
+	
+  	
+  
+    <li class="">
+      <a class="text-link" href="/tutorials/python/">
+        Python
+      </a>
+    </li>
+	
+  	
+  
+    <li class="">
+      <a class="text-link" href="/tutorials/python/learn_python/">
+        Learn Python
+      </a>
+    </li>
+	
+  	
+  
+    <li class="">
+      <a class="text-link" href="/tutorials/python/learn_python/files/">
+        Files
+      </a>
+    </li>
+	
+  	
+  
+    <li class="active">
+      
+        Python File I/O
+      
+    </li>
+
+      </ol>
+    </nav>
+    
+    
+
+    
+		
+        
+		
+		
+		
+		
+		
+		
+		
+
+		
+			<h1>Python File I/O</h1>
+        
+
+		
+										
+		
+
+		
+	
+
+	
+	
+	<div class="jump-to-section">
+		<span onclick="$h = $(this);$h.next('nav').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('nav').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
+  			<span class="fas fa-align-right"></span>
+  			Jump to Section
+  			<i style=";" class="fas fa-chevron-right"></i>
+		</span>
+		<nav id="TableOfContents">
+  <ul>
+    <li><a href="#files">Files</a></li>
+    <li><a href="#opening-files-in-python">Opening Files in Python</a></li>
+    <li><a href="#closing-files-in-python">Closing Files in Python</a></li>
+    <li><a href="#writing-to-files-in-python">Writing to Files in Python</a></li>
+    <li><a href="#reading-files-in-python">Reading Files in Python</a></li>
+    <li><a href="#python-file-methods">Python File Methods</a></li>
+  </ul>
+</nav>
+	</div>
+	
+	
+
+
+
+
+
+
+	<div class="content">
+	    <p>In this tutorial, you&rsquo;ll learn about Python file operations. More specifically, opening a file, reading from it, writing into it, closing it, and various file methods that you should be aware of.</p>
+<h2 ref="files" >Files</h2><a class="anchor" id="files"></a>
+<p>Files are named locations on disk to store related information. They are used to permanently store data in a non-volatile memory (e.g. hard disk).</p>
+<p>Since Random Access Memory (RAM) is volatile (which loses its data when the computer is turned off), we use files for future use of the data by permanently storing them.</p>
+<p>When we want to read from or write to a file, we need to open it first. When we are done, it needs to be closed so that the resources that are tied with the file are freed.</p>
+<p>Hence, in Python, a file operation takes place in the following order:</p>
+<ol>
+<li>Open a file</li>
+<li>Read or write (perform operation)</li>
+<li>Close the file</li>
+</ol>
+<hr>
+<h2 ref="opening-files-in-python" >Opening Files in Python</h2><a class="anchor" id="opening-files-in-python"></a>
+<p>Python has a built-in  <code>open()</code>  function to open a file. This function returns a file object, also called a handle, as it is used to read or modify the file accordingly.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> f <span style="color:#f92672">=</span> open(<span style="color:#e6db74">&#34;test.txt&#34;</span>)    <span style="color:#75715e"># open file in current directory</span>
+ f <span style="color:#f92672">=</span> open(<span style="color:#e6db74">&#34;C:/Python38/README.txt&#34;</span>)  <span style="color:#75715e"># specifying full path</span>
+</code></pre></div><p>We can specify the mode while opening a file. In mode, we specify whether we want to read  <code>r</code>, write  <code>w</code>  or append  <code>a</code>  to the file. We can also specify if we want to open the file in text mode or binary mode.</p>
+<p>The default is reading in text mode. In this mode, we get strings when reading from the file.</p>
+<p>On the other hand, binary mode returns bytes and this is the mode to be used when dealing with non-text files like images or executable files.</p>
+<table>
+<thead>
+<tr>
+<th align="center">Mode</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">r</td>
+<td>Opens a file for reading. (default)</td>
+</tr>
+<tr>
+<td align="center">w</td>
+<td>Opens a file for writing. Creates a new file if it does not exist or truncates the file if it exists.</td>
+</tr>
+<tr>
+<td align="center">x</td>
+<td>Opens a file for exclusive creation. If the file already exists, the operation fails.</td>
+</tr>
+<tr>
+<td align="center">a</td>
+<td>Opens a file for appending at the end of the file without truncating it. Creates a new file if it does not exist.</td>
+</tr>
+<tr>
+<td align="center">t</td>
+<td>Opens in text mode. (default)</td>
+</tr>
+<tr>
+<td align="center">b</td>
+<td>Opens in binary mode.</td>
+</tr>
+<tr>
+<td align="center">+</td>
+<td>Opens a file for updating (reading and writing)</td>
+</tr>
+</tbody>
+</table>
+<p>Opens a file for updating (reading and writing)</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">f <span style="color:#f92672">=</span> open(<span style="color:#e6db74">&#34;test.txt&#34;</span>)      <span style="color:#75715e"># equivalent to &#39;r&#39; or &#39;rt&#39;</span>
+f <span style="color:#f92672">=</span> open(<span style="color:#e6db74">&#34;test.txt&#34;</span>,<span style="color:#e6db74">&#39;w&#39;</span>)  <span style="color:#75715e"># write in text mode</span>
+f <span style="color:#f92672">=</span> open(<span style="color:#e6db74">&#34;img.bmp&#34;</span>,<span style="color:#e6db74">&#39;r+b&#39;</span>) <span style="color:#75715e"># read and write in binary mode</span>
+</code></pre></div><p>Unlike other languages, the character  <code>a</code>  does not imply the number 97 until it is encoded using  <code>ASCII</code>  (or other equivalent encodings).</p>
+<p>Moreover, the default encoding is platform dependent. In windows, it is  <code>cp1252</code>  but  <code>utf-8</code>  in Linux.</p>
+<p>So, we must not also rely on the default encoding or else our code will behave differently in different platforms.</p>
+<p>Hence, when working with files in text mode, it is highly recommended to specify the encoding type.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">f <span style="color:#f92672">=</span> open(<span style="color:#e6db74">&#34;test.txt&#34;</span>, mode<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;r&#39;</span>, encoding<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;utf-8&#39;</span>)
+</code></pre></div><hr>
+<h2 ref="closing-files-in-python" >Closing Files in Python</h2><a class="anchor" id="closing-files-in-python"></a>
+<p>When we are done with performing operations on the file, we need to properly close the file.</p>
+<p>Closing a file will free up the resources that were tied with the file. It is done using the  <code>close()</code>  method available in Python.</p>
+<p>Python has a garbage collector to clean up unreferenced objects but we must not rely on it to close the file.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">f <span style="color:#f92672">=</span> open(<span style="color:#e6db74">&#34;test.txt&#34;</span>, encoding <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;utf-8&#39;</span>)
+<span style="color:#75715e"># perform file operations</span>
+f<span style="color:#f92672">.</span>close()
+</code></pre></div><p>This method is not entirely safe. If an exception occurs when we are performing some operation with the file, the code exits without closing the file.</p>
+<p>A safer way is to use a  <a href="https://www.programiz.com/python-programming/exception-handling">try&hellip;finally</a>  block.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#66d9ef">try</span>:
+   f <span style="color:#f92672">=</span> open(<span style="color:#e6db74">&#34;test.txt&#34;</span>, encoding <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;utf-8&#39;</span>)
+   <span style="color:#75715e"># perform file operations</span>
+<span style="color:#66d9ef">finally</span>:
+   f<span style="color:#f92672">.</span>close()
+</code></pre></div><p>This way, we are guaranteeing that the file is properly closed even if an exception is raised that causes program flow to stop.</p>
+<p>The best way to close a file is by using the  <code>with</code>  statement. This ensures that the file is closed when the block inside the  <code>with</code>  statement is exited.</p>
+<p>We don&rsquo;t need to explicitly call the  <code>close()</code>  method. It is done internally.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#66d9ef">with</span> open(<span style="color:#e6db74">&#34;test.txt&#34;</span>, encoding <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;utf-8&#39;</span>) <span style="color:#66d9ef">as</span> f:
+   <span style="color:#75715e"># perform file operations</span>
+</code></pre></div><hr>
+<h2 ref="writing-to-files-in-python" >Writing to Files in Python</h2><a class="anchor" id="writing-to-files-in-python"></a>
+<p>In order to write into a file in Python, we need to open it in write  <code>w</code>, append  <code>a</code>  or exclusive creation  <code>x</code>  mode.</p>
+<p>We need to be careful with the  <code>w</code>  mode, as it will overwrite into the file if it already exists. Due to this, all the previous data are erased.</p>
+<p>Writing a string or sequence of bytes (for binary files) is done using the  <code>write()</code>  method. This method returns the number of characters written to the file.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#66d9ef">with</span> open(<span style="color:#e6db74">&#34;test.txt&#34;</span>,<span style="color:#e6db74">&#39;w&#39;</span>,encoding <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;utf-8&#39;</span>) <span style="color:#66d9ef">as</span> f:
+   f<span style="color:#f92672">.</span>write(<span style="color:#e6db74">&#34;my first file</span><span style="color:#ae81ff">\n</span><span style="color:#e6db74">&#34;</span>)
+   f<span style="color:#f92672">.</span>write(<span style="color:#e6db74">&#34;This file</span><span style="color:#ae81ff">\n\n</span><span style="color:#e6db74">&#34;</span>)
+   f<span style="color:#f92672">.</span>write(<span style="color:#e6db74">&#34;contains three lines</span><span style="color:#ae81ff">\n</span><span style="color:#e6db74">&#34;</span>)
+</code></pre></div><p>This program will create a new file named  <code>test.txt</code>  in the current directory if it does not exist. If it does exist, it is overwritten.</p>
+<p>We must include the newline characters ourselves to distinguish the different lines.</p>
+<hr>
+<h2 ref="reading-files-in-python" >Reading Files in Python</h2><a class="anchor" id="reading-files-in-python"></a>
+<p>To read a file in Python, we must open the file in reading  <code>r</code>  mode.</p>
+<p>There are various methods available for this purpose. We can use the  <code>read(size)</code>  method to read in the  size  number of data. If the  size  parameter is not specified, it reads and returns up to the end of the file.</p>
+<p>We can read the  <code>text.txt</code>  file we wrote in the above section in the following way:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> f <span style="color:#f92672">=</span> open(<span style="color:#e6db74">&#34;test.txt&#34;</span>,<span style="color:#e6db74">&#39;r&#39;</span>,encoding <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;utf-8&#39;</span>)
+ f<span style="color:#f92672">.</span>read(<span style="color:#ae81ff">4</span>)    <span style="color:#75715e"># read the first 4 data</span>
+<span style="color:#e6db74">&#39;This&#39;</span>
+
+ f<span style="color:#f92672">.</span>read(<span style="color:#ae81ff">4</span>)    <span style="color:#75715e"># read the next 4 data</span>
+<span style="color:#e6db74">&#39; is &#39;</span>
+
+ f<span style="color:#f92672">.</span>read()     <span style="color:#75715e"># read in the rest till end of file</span>
+<span style="color:#e6db74">&#39;my first file</span><span style="color:#ae81ff">\n</span><span style="color:#e6db74">This file</span><span style="color:#ae81ff">\n</span><span style="color:#e6db74">contains three lines</span><span style="color:#ae81ff">\n</span><span style="color:#e6db74">&#39;</span>
+
+ f<span style="color:#f92672">.</span>read()  <span style="color:#75715e"># further reading returns empty sting</span>
+<span style="color:#e6db74">&#39;&#39;</span>
+</code></pre></div><p>We can see that the  <code>read()</code>  method returns a newline as  <code>'\n'</code>. Once the end of the file is reached, we get an empty string on further reading.</p>
+<p>We can change our current file cursor (position) using the  <code>seek()</code>  method. Similarly, the  <code>tell()</code>  method returns our current position (in number of bytes).</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> f<span style="color:#f92672">.</span>tell()    <span style="color:#75715e"># get the current file position</span>
+<span style="color:#ae81ff">56</span>
+
+ f<span style="color:#f92672">.</span>seek(<span style="color:#ae81ff">0</span>)   <span style="color:#75715e"># bring file cursor to initial position</span>
+<span style="color:#ae81ff">0</span>
+
+ <span style="color:#66d9ef">print</span>(f<span style="color:#f92672">.</span>read())  <span style="color:#75715e"># read the entire file</span>
+This <span style="color:#f92672">is</span> my first file
+This file
+contains three lines
+</code></pre></div><p>We can read a file line-by-line using a  <a href="https://www.programiz.com/python-programming/for-loop">for loop</a>. This is both efficient and fast.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#66d9ef">for</span> line <span style="color:#f92672">in</span> f:
+<span style="color:#f92672">...</span>     <span style="color:#66d9ef">print</span>(line, end <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;&#39;</span>)
+<span style="color:#f92672">...</span>
+This <span style="color:#f92672">is</span> my first file
+This file
+contains three lines
+</code></pre></div><p>In this program, the lines in the file itself include a newline character  <code>\n</code>. So, we use the end parameter of the  <code>print()</code>  function to avoid two newlines when printing.</p>
+<p>Alternatively, we can use the  <code>readline()</code>  method to read individual lines of a file. This method reads a file till the newline, including the newline character.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> f<span style="color:#f92672">.</span>readline()
+<span style="color:#e6db74">&#39;This is my first file</span><span style="color:#ae81ff">\n</span><span style="color:#e6db74">&#39;</span>
+
+ f<span style="color:#f92672">.</span>readline()
+<span style="color:#e6db74">&#39;This file</span><span style="color:#ae81ff">\n</span><span style="color:#e6db74">&#39;</span>
+
+ f<span style="color:#f92672">.</span>readline()
+<span style="color:#e6db74">&#39;contains three lines</span><span style="color:#ae81ff">\n</span><span style="color:#e6db74">&#39;</span>
+
+ f<span style="color:#f92672">.</span>readline()
+<span style="color:#e6db74">&#39;&#39;</span>
+</code></pre></div><p>Lastly, the  <code>readlines()</code>  method returns a list of remaining lines of the entire file. All these reading methods return empty values when the end of file (EOF) is reached.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> f<span style="color:#f92672">.</span>readlines()
+[<span style="color:#e6db74">&#39;This is my first file</span><span style="color:#ae81ff">\n</span><span style="color:#e6db74">&#39;</span>, <span style="color:#e6db74">&#39;This file</span><span style="color:#ae81ff">\n</span><span style="color:#e6db74">&#39;</span>, <span style="color:#e6db74">&#39;contains three lines</span><span style="color:#ae81ff">\n</span><span style="color:#e6db74">&#39;</span>]
+</code></pre></div><hr>
+<h2 ref="python-file-methods" >Python File Methods</h2><a class="anchor" id="python-file-methods"></a>
+<p>There are various methods available with the file object. Some of them have been used in the above examples.</p>
+<p>Here is the complete list of methods in text mode with a brief description:</p>
+<table>
+<thead>
+<tr>
+<th align="center">Method</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">close()</td>
+<td>Closes an opened file. It has no effect if the file is already closed.</td>
+</tr>
+<tr>
+<td align="center">detach()</td>
+<td>Separates the underlying binary buffer from the TextIOBase and returns it.</td>
+</tr>
+<tr>
+<td align="center">fileno()</td>
+<td>Returns an integer number (file descriptor) of the file.</td>
+</tr>
+<tr>
+<td align="center">flush()</td>
+<td>Flushes the write buffer of the file stream.</td>
+</tr>
+<tr>
+<td align="center">isatty()</td>
+<td>Returns True if the file stream is interactive.</td>
+</tr>
+<tr>
+<td align="center">read(n)</td>
+<td>Reads at most n characters from the file. Reads till end of file if it is negative or None.</td>
+</tr>
+<tr>
+<td align="center">readable()</td>
+<td>Returns True if the file stream can be read from.</td>
+</tr>
+<tr>
+<td align="center">readline(n=-1)</td>
+<td>Reads and returns one line from the file. Reads in at most n bytes if specified.</td>
+</tr>
+<tr>
+<td align="center">readlines(n=-1)</td>
+<td>Reads and returns a list of lines from the file. Reads in at most n bytes/characters if specified.</td>
+</tr>
+<tr>
+<td align="center">seek(offset,from=SEEK_SET)</td>
+<td>Changes the file position to offset bytes, in reference to from (start, current, end).</td>
+</tr>
+<tr>
+<td align="center">seekable()</td>
+<td>Returns True if the file stream supports random access.</td>
+</tr>
+<tr>
+<td align="center">tell()</td>
+<td>Returns the current file location.</td>
+</tr>
+<tr>
+<td align="center">truncate(size=None)</td>
+<td>Resizes the file stream to size bytes. If size is not specified, resizes to current location.</td>
+</tr>
+<tr>
+<td align="center">writable()</td>
+<td>Returns True if the file stream can be written to.</td>
+</tr>
+<tr>
+<td align="center">write(s)</td>
+<td>Writes the string s to the file and returns the number of characters written.</td>
+</tr>
+<tr>
+<td align="center">writelines(lines)</td>
+<td>Writes a list of lines to the file.</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>Source : <a href="https://www.programiz.com/python-programming/file-operation">https://www.programiz.com/python-programming/file-operation</a></p>
+</blockquote>
+
+		</div>
+
+
+
+
+
+
+	 
+	<div class="chevrons">
+		<a class="next" href="/tutorials/python/learn_python/files/directory/" title="Python: Directory" style="margin-right: 0px;">
+            <div>
+                <p>Next page</p>
+                <label>Python: Directory</label>
+            </div>
+            <i class="fas fa-arrow-right" style="font-size: 1.7em"></i></a>
+	</div>
+	
+	
+
+      </section>
+
+      
+      
+      <section class="right-menu ">
+      
+	
+
+		
+	
+			
+		
+	    	
+	  	
+	<div class="TableOfContents">
+    <label><i class="fas fa-align-right"></i>&nbsp;&nbsp;What&#39;s on this page</label>
+    <nav>
+        <ul >
+            <li><a href="/tutorials/python/learn_python/files/file_operations/">Python File I/O</a></li>
+        </ul>
+    </nav>
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#files">Files</a></li>
+    <li><a href="#opening-files-in-python">Opening Files in Python</a></li>
+    <li><a href="#closing-files-in-python">Closing Files in Python</a></li>
+    <li><a href="#writing-to-files-in-python">Writing to Files in Python</a></li>
+    <li><a href="#reading-files-in-python">Reading Files in Python</a></li>
+    <li><a href="#python-file-methods">Python File Methods</a></li>
+  </ul>
+</nav>
+</div>
+
+		
+	
+			
+		
+	    	
+	    
+	<div class="Actions">
+	<nav>
+		<ul>
+				
+		    
+		    
+		    
+		    <li>
+		    	
+		        <a href="https://example.comadmin/#/collections/pages/entries/tutorials/python/learn_python/files/file_operations/_index" target="blank">
+		        <i class="fab fa-github"></i>
+		        Improve this page</a>
+		    </li>
+		    
+		    
+			
+		    
+
+    	</ul>
+	</nav>
+    
+</div>
+
+      </section>
+      
+    </article>
+    
+    
+    <footer>
+      
+
+		
+	
+			
+		
+	    	<style type="text/css">
+
+.footer-gray {
+  width: 100%;
+  color: #888;
+}
+
+.footer-custom {
+  font: normal normal 12px/1.4 sans-serif;
+  /*max-width: 1008px;*/
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+.footer-custom:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.footer-lists:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.ftr-hdr {
+  color: white;
+  font: 22px/1.4  sans-serif;
+  margin: 1em 0 0;
+}
+
+@media only screen and (min-width: 768px) {
+  .ftr-hdr {
+    font-size: 18px;
+  }
+}
+
+.footer-list-wrap {
+  width: 50%;
+  float: left;
+  box-sizing: border-box;
+}
+
+@media only screen and (min-width: 568px) {
+  .footer-list-wrap {
+    width: 33.3333%;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .footer-list-wrap {
+    width: 25%;
+  }
+}
+
+.ftr-links-sub {
+  padding: 0;
+  margin: 0;
+}
+
+.ftr-links-sub:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.ftr-links-sub li {
+  display: block;
+  list-style-type: none;
+  margin: 0;
+  padding: 3px 0;
+  color: #888;
+  font: normal normal 12px sans-serif;
+  text-transform: uppercase;
+  /*width: 150px;*/
+}
+
+.footer-custom a,
+.footer-custom a:link,
+.footer-custom a:visited,
+.ftr-links-sub li .link {
+  text-decoration: none;
+  color: #888;
+  padding: 5px 0;
+  display: block;
+}
+
+.footer-custom .footer-legal a {
+  display: inline;
+}
+
+.footer-custom a:hover,
+.footer-custom a:active,
+.ftr-links-sub li .link:hover {
+  text-decoration: underline;
+  color: #888;
+  cursor: pointer;
+}
+
+@media only screen and (min-width: 768px) {
+  .footer-custom a, .footer-custom a:link, .footer-custom a:visited, .ftr-links-sub li .link {
+    padding: 0;
+  }
+}
+/* BEGIN EMAIL CAPTURE STYLES*/
+
+.footer-email {
+  text-align: center;
+}
+
+#ftrEmailForm {
+  height: 44px;
+}
+
+#ftrEmailForm .error {
+  display: none;
+  color: red;
+  text-align: left;
+}
+
+#ftrEmailForm #ftrEmailInput {
+  background: none repeat scroll 0 0 #FFF;
+  border: 1px solid #D6D6D6;
+  box-sizing: border-box;
+  color: #888;
+  float: left;
+  font: normal normal 14px/1.4 sans-serif;
+  padding: 5px;
+  width: 70%;
+  height: 100%;
+}
+
+#ftrEmailForm #ftrEmailInput:hover {
+  border: 1px solid #888;
+}
+
+#ftrEmailForm #ftrEmailInput:focus {
+  border: 1px solid #ef9223;
+  outline: #ef9223 auto 5px;
+}
+
+#ftrEmailForm .button {
+  width: 30%;
+  height: 100%;
+  padding: 5px;
+  float: left;
+  border: 1px solid #DFDFDF;
+  box-sizing: border-box;
+  color: #000;
+  font: normal bold 18px/1 sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  background: #FFF;
+  background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJod…EiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, white), color-stop(100%, #e1e1e1));
+  background: -webkit-linear-gradient(top, white 0, #e1e1e1 100%);
+  background: -moz-linear-gradient(top, white 0, #e1e1e1 100%);
+  background: -ms-linear-gradient(top, white 0, #e1e1e1 100%);
+  background: -o-linear-gradient(top, white 0, #e1e1e1 100%);
+  background: linear-gradient(to bottom, white 0, #e1e1e1 100%);
+  cursor: pointer;
+  vertical-align: middle;
+  outline: none;
+}
+
+#ftrEmailForm .button:hover,
+#ftrEmailForm .button:active {
+  background: black;
+  color: #FFF;
+  outline: none;
+}
+/* BEGIN SOCIAL STYLES*/
+
+.footer-social {
+  text-align: center;
+}
+
+.footer-social ul {
+  padding: 0;
+  display: inline-block;
+  list-style-type: none;
+}
+
+.footer-social ul:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.footer-social li {
+  float: left;
+  margin: 0 15px 0 0;
+  padding: 0;
+}
+
+@media only screen and (min-width: 768px) {
+  .footer-lists {
+    width: 100%;
+  }
+  .footer-email {
+    width: 50%;
+    float: left;
+    text-align: left;
+  }
+  .footer-social {
+    width: 45%;
+    margin-left: 5%;
+    float: left;
+    text-align: left;
+  }
+}
+
+@media only screen and (min-width: 1008px) {
+  .footer-lists {
+    width: 66.6666%;
+    float: left;
+  }
+  .footer-email {
+    width: 33.3333%;
+  }
+  .footer-social {
+    width: 33.3333%;
+    float: right;
+    margin-left: 0;
+  }
+}
+
+.footer-legal {
+  padding: 15px 0 0;
+  clear: left;
+}
+
+.footer-payment {
+  text-align: center;
+}
+
+@media only screen and (min-width: 768px) {
+  .footer-legal {
+    width: 66.6666%;
+    float: left;
+  }
+  .footer-payment {
+    width: 33.3333%;
+    float: left;
+  }
+}
+
+@media only screen and (min-width: 1008px) {
+  .footer-payment {
+    text-align: left;
+  }
+}
+
+.footer-payment ul {
+  padding: 0;
+  display: inline-block;
+  list-style-type: none;
+}
+
+.footer-payment ul li {
+  display: inline-block;
+  margin: 0 6px;
+}
+
+@media only screen and (min-width: 1008px) {
+  .footer-payment ul li.ftr-stella {
+    margin-left: 0;
+  }
+}
+
+
+</style>
+  <div class="footer-gray">
+    <div class="footer-custom">
+      <div class="footer-lists">
+        <div class="footer-list-wrap">
+          <h6 class="ftr-hdr">Order Something</h6>
+          <ul class="ftr-links-sub">
+            <li>800-123-4567</li>
+          </ul>
+          <h6 class="ftr-hdr">International</h6>
+          <ul class="ftr-links-sub">
+            <li><a href="#" rel="nofollow">France</a></li>
+            <li><a href="#" rel="nofollow">Cape Verde</a></li>
+          </ul>
+        </div>
+        <div class="footer-list-wrap">
+          <h6 class="ftr-hdr">Customer Service</h6>
+          <ul class="ftr-links-sub">
+            <li><a href="#" rel="nofollow">Contact Us</a></li>
+            <li><a href="#" rel="nofollow">Ordering</a></li>
+            <li><a href="#" rel="nofollow">Shipping &amp; Delivery</a></li>
+            <li><a href="#" rel="nofollow">Returns</a></li>
+            <li><a href="#" rel="nofollow">Gift Cards</a></li>
+            <li><a href="#" rel="nofollow">FAQs</a></li>
+          </ul>
+        </div>
+        <div class="footer-list-wrap">
+          <h6 class="ftr-hdr">About DocPort</h6>
+          <ul class="ftr-links-sub">
+            <li><a href="#" rel="nofollow">Our Company</a></li>
+            <li><a href="#" rel="nofollow">Careers</a></li>
+            <li><a href="#" rel="nofollow">Affiliate Program</a></li>
+            <li><a href="#" rel="nofollow"><strong>Shop Our Catalog</strong></a></li>
+            <li><a href="#" rel="nofollow">DocPort BLOG</a></li>
+          </ul>
+        </div>
+        <div class="footer-list-wrap">
+          <h6 class="ftr-hdr">My Account</h6>
+          <ul class="ftr-links-sub">
+            <art:content rule="!loggedin">
+              <li class="ftr-Login"><span class="link login-trigger">Access My Account</span></li>
+              <li><span class="link">Track My Order</span></li>
+            </art:content>
+            <art:content rule="loggedin">
+              <li class="ftr-Login"><span class="link ftr-access-my-account">Access My Account</span></li>
+              <li><span class="link">Track My Order</span></li>
+            </art:content>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-email">
+        <h6 class="ftr-hdr">Sign up for exclusive offers and inspiration</h6>
+        <div id="ftr-email" class="ftr-email-form">
+          <form id="ftrEmailForm" method="post" action="#">
+            <div class="error">Please enter a valid email address</div>
+            <input type="text" name="email_address_" id="ftrEmailInput" class="input" placeholder="Enter email address"/>
+          </form>
+        </div>
+        <div class="ftr-email-privacy-policy"></div>
+      </div>
+      <div class="footer-social">
+        <h6 class="ftr-hdr">Follow Us</h6>
+        <ul>
+          <li>
+            <a href="#" title="Facebook">
+              <img width="24" height="24" alt="Like us on Facebook" src="/images/fb.png">
+            </a>
+          </li>
+          <li>
+            <a href="#" title="Google+">
+              <img width="24" height="24" alt="Follow us on Google+" src="/images/gplus.png">
+            </a>
+          </li>
+          <li>
+            <a href="#" target="_blank">
+              <img width="24" height="24" alt="Follow us on Pinterest" src="/images/pin-badge.png">
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="#">
+              <img width="24" height="24" alt="Follow us on Instagram" src="/images/instagram-badge.png">
+            </a>
+          </li>
+          <li>
+            <a href="#" title="Twitter">
+              <img width="67" alt="Follow us on Twitter" src="/images/twitter.png">
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="footer-legal">
+        <p>&copy; Docport MIT Licence. | <a href="#" rel="nofollow">Privacy Policy</a> | <a href="#" rel="nofollow">Terms of Use</a> | <a href="#" rel="nofollow">Terms of Sale</a></p>
+        <p>Docport is free Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+        <p>Various aspects of this website are ...blablabla</p>
+      </div>
+    </div>
+  </div>
+  <!--/.footer-gray-->
+	    
+	
+    </footer>
+    
+
+
+
+  </body>
+</html>

@@ -1,0 +1,2554 @@
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+	การจัดการวันเวลา :: DocPort Documentation
+</title>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="revised" content="2021-01-15T01:47:24 &#43;07">
+<meta name="description" content="">
+
+
+
+<title>การจัดการวันเวลา :: DocPort Documentation</title>
+
+<link rel="shortcut icon" href='/images/favicon.png' type="image/x-icon" />
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.css">
+
+<script src='https://code.jquery.com/jquery-3.5.1.min.js'></script>
+
+<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel="stylesheet">
+
+
+
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/layout.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/css/style.main.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/css/style.menu.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/notice.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/tabs.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/panel.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/columns.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/children.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/attachments.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/alert.css'>
+<link rel="stylesheet" type="text/css" href='/css/docport.css'>
+
+<script src='/js/docport.js'></script>
+<script type="text/javascript">
+      var baseurl = "https:\/\/example.com";
+</script>
+
+
+
+
+    
+  </head>
+
+  <body data-url="/tutorials/python/tutorials/date-time/overview/"
+
+  class="">
+
+<style type="text/css">
+  #debug{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    line-height: 3.5rem;
+    margin-bottom: .35rem;
+    padding: 0 2rem;
+    position: fixed;
+    left: 0;      right: 0;     top: 0;
+   
+    top:0px;
+    
+    min-height: 150px;
+
+    background-color: white;
+    border: 3px solid red;
+    z-index: 10000 ;
+    word-wrap: all;
+    overflow: auto;
+  }
+</style>
+ 
+
+
+    
+    
+    <header style="">
+        <div>
+    
+    <div class="burger ">
+        <a href="javascript:void(0);" style="font-size:15px;" onclick="$('article > aside').toggleClass('responsive')">&#9776;</a>
+    </div>
+    
+
+    <div>
+
+		
+	
+			
+		
+	    	<a class='baselink' href='https://example.com'>DocPort Documentation</a>
+	  	
+	</div>
+    <nav class="shortcuts">
+            <li class="" role="">
+                <a href="https://github.com/vjeantet/hugo-theme-docport"  rel="noopener">
+                  Github
+                </a>
+            </li>
+            <li class="" role="">
+                <a href="https://github.com/vjeantet/hugo-theme-docport/archive/master.zip"  rel="noopener">
+                  Download
+                </a>
+            </li>
+            <li class="" role="">
+                <a href="https://gohugo.io/"  rel="noopener">
+                  Hugo Documentation
+                </a>
+            </li>
+            <li class="" role="">
+                <a href="/docport-theme/credits/"  rel="noopener">
+                  Credits
+                </a>
+            </li>
+    </nav>
+
+</div>
+    </header>
+    
+
+    <article>
+      
+      <aside class="">
+        
+<div class="search">
+	<div class="searchbox">
+	  <input data-search-input id="search-by" type="text" placeholder="Type to search...">
+	</div>
+	<script type="text/javascript" src="/vendor/lunr/lunr.min.js"></script>
+	<script type="text/javascript" src="/vendor/auto-complete/auto-complete.js"></script>
+	<link href="/vendor/auto-complete/auto-complete.css" rel="stylesheet">
+	<script type="text/javascript">
+	  
+	      var baseurl = "https:\/\/example.com";
+	  
+	</script>
+	<script type="text/javascript" src="/js/search.js"></script>
+</div>
+
+		
+	
+			
+		
+	    	
+	    
+	<div id="close_menu">
+  <a href="javascript:void(0);" style="font-size:15px;" onclick="$('article > aside').toggleClass('responsive')">
+      <i class="fa fa-lg fa-times"></i>
+  </a>
+</div>
+
+<ul class="menu">
+
+    <li data-nav-id="https://example.com/tutorials/" class="dd-item parent haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <i class="fas fa-chevron-down ddexp"></i>
+        
+      
+          <a href="/tutorials/">Tutorial</a>
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/">Python by MascusCode</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/0_intro/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/0_intro/">Introduction</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/3_structure/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/3_structure/">3. โครงสร้างของภาษา Python</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/4_type/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/4_type/">4. ตัวแปรและประเภทข้อมูล</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/9_function/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/9_function/">9. ฟังก์ชัน (Function)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/10_string/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/10_string/">10. String</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/11_string_methods/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/11_string_methods/">11. String methods</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/12_list/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/12_list/">12. List (ลิสต์)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/13_list_methods/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/13_list_methods/">13. List Methods (ลิสต์ เมธอด)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/15_dictionary/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/15_dictionary/">15. Dictionary</a>
+      
+        
+      
+    </li>
+              
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/20_classes/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/20_classes/">21. Classes &amp; Objects</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/21_inheritance/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/21_inheritance/">22. Inheritance</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/22_thread/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/22_thread/">23. Thread</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/24_date-time/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/24_date-time/">24. Date &amp; Time (วันที่และเวลา)</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/">Pandas</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/cookbook/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/cookbook/">Pandas Cookbook</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/short_introduction/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/short_introduction/">Short Introduction</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/short_introduction/10-minutes/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/short_introduction/10-minutes/">10 minutes to pandas</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/short_introduction/essential_snippets/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/short_introduction/essential_snippets/">19 Essential Snippets in Pandas</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/short_introduction/basic-to-beyond/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/short_introduction/basic-to-beyond/">Basics to Beyond</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/short_introduction/cheatsheet-pandas/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/short_introduction/cheatsheet-pandas/">Cheatsheet Pandas</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/tutorial-geeksforgeeks/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/tutorial-geeksforgeeks/">Tutorial (GeeksforGeeks)</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/tutorial-geeksforgeeks/selection/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/tutorial-geeksforgeeks/selection/">Selection</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/tutorial-geeksforgeeks/selection/dealing-with-rows-and-columns/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/tutorial-geeksforgeeks/selection/dealing-with-rows-and-columns/">Dealing with Rows and Columns</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/tutorial-geeksforgeeks/selection/extracting-rows-using-loc/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/tutorial-geeksforgeeks/selection/extracting-rows-using-loc/">Extracting rows using .loc[]</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/tutorial-geeksforgeeks/selection/extracting-rows-using-pandas-iloc/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/tutorial-geeksforgeeks/selection/extracting-rows-using-pandas-iloc/">Extracting rows using .iloc[]</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/" class="dd-item parent haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/">Python</a>
+      
+          <i class="fas fa-chevron-down ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/">Learn Python</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/function/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/function/">Function</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/function/function_arguments/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/function/function_arguments/">Function Arguments</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/function/lambda_functions/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/function/lambda_functions/">Anonymous/Lambda Function</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/function/global_variables/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/function/global_variables/">Global, Local and variables</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/data_type/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/data_type/">Data Type</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/data_type/list/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/data_type/list/">Python: List</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/data_type/tuble/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/data_type/tuble/">Python: Tuble</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/data_type/string/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/data_type/string/">Python: String</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/data_type/set/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/data_type/set/">Python: Set</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/data_type/dictionary/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/data_type/dictionary/">Python: Dictionary</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/">Files</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/intro/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/intro/">Page Index</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/file_operations/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/file_operations/">Python File I/O</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/directory/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/directory/">Python: Directory</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/exceptions/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/exceptions/">Python Exceptions</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/exception-handling/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/exception-handling/">Exception Handling</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/user-defined-exception/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/user-defined-exception/">Custom Exceptions</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/objects_class/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/objects_class/">Object &amp; Class</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/objects_class/oop/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/objects_class/oop/">Object Oriented Programming (OOP)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/objects_class/class/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/objects_class/class/">Objects and Classes</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/objects_class/inheritance/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/objects_class/inheritance/">Python Inheritance</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/advance_topic/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/advance_topic/">Advance Topics</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/advance_topic/iterators/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/advance_topic/iterators/">Iterators</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/advance_topic/generators/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/advance_topic/generators/">Generators</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/">Date and Time</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/datetime_module/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/datetime_module/">datetime() Module</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/strftime/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/strftime/">strftime()</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/strptime/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/strptime/">strptime()</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/current-datetime/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/current-datetime/">Get Current Date and Time</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/timestamp_datetime/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/timestamp_datetime/">Timestamp to Datetime</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/time_module/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/time_module/">Time Module</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/sleep/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/sleep/">Time Sleep()</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/">phyblas</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/">ผู้เริ่มต้น (Beginer)</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/basic_functin/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/basic_functin/">ฟังก์ชันพื้นฐาน</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/string_output/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/string_output/">การแสดงผลตัวอักษร</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/string_format/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/string_format/">การจัดการกับสายอักขระ</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/list/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/list/">การจัดการกับลิสต์ (List)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/dictionary/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/dictionary/">ดิกชันนารี (Dictionary)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/module/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/module/">การเรียกใช้มอดูล (Module)</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/">ระดับกลาง(Intermediate)</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/read_files/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/read_files/">การอ่านข้อมูลจากไฟล์</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/write_files/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/write_files/">การเขียนข้อมูลลงไฟล์</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/create_function/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/create_function/">การสร้างฟังก์ชัน</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/recursive_function/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/recursive_function/">ฟังก์ชันเวียนเกิด</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/lambda/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/lambda/">คำสั่งพิเศษที่เกี่ยวข้องกับฟังก์ชัน</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/inheritance/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/inheritance/">การรับทอด</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/advance/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/advance/">ระดับสูง(Advance)</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/w3resource/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/w3resource/">Python Tutorial (w3resource)</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/w3resource/bytes/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/w3resource/bytes/">Python: Bytes, Bytearray</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/w3resource/regular_expression/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/w3resource/regular_expression/">Python: Regular Expression</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/quick_guide/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/quick_guide/">Python: Quick Guide</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/quick_guide/a-81-python-code-snippet/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/quick_guide/a-81-python-code-snippet/">81 Python Code Snippets</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/resources/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/resources/">Resources</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/resources/quick_reference_cards/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/resources/quick_reference_cards/">Quick Reference Card</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/pythonstandardlibrary/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/pythonstandardlibrary/">Standard Library</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/pythonstandardlibrary/text/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/pythonstandardlibrary/text/">Text</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/pythonstandardlibrary/text/string/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/pythonstandardlibrary/text/string/">String</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/" class="dd-item parent haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/">Tutorials</a>
+      
+          <i class="fas fa-chevron-down ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/basic_syntax/" class="dd-item alwaysopen
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/basic_syntax/">Basic Syntax</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/date-time/" class="dd-item parent haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/date-time/">Date &amp; Time</a>
+      
+          <i class="fas fa-chevron-down ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/date-time/pendulum/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/date-time/pendulum/">pendulum</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/date-time/overview/" class="dd-item parent active
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/date-time/overview/">การจัดการวันเวลา</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/date-time/center/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/date-time/center/">Date &amp; Time tutorial</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/date-time/time-delta-striftime/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/date-time/time-delta-striftime/">TimeDelta, Strftime(Format)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/date-time/time-module/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/date-time/time-module/">Time Module</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/list/" class="dd-item alwaysopen
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/list/">List</a>
+      
+        
+      
+    </li>
+              
+<hr/>
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/dictionary/" class="dd-item alwaysopen haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/dictionary/">Dictionary&nbsp;👋</a>
+      
+          <i class="fas fa-chevron-down ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/dictionary/dict_beginner/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/dictionary/dict_beginner/">Beginners Tutorial</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/dictionary/merge-two-dictionaries/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/dictionary/merge-two-dictionaries/">Merge two Dictionaries</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/beginner/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/beginner/">Python for beginners</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+    
+
+
+
+</ul>
+
+		
+	
+			
+		
+	    	<center>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/vjeantet/hugo-theme-docport/archive/master.zip" data-icon="octicon-cloud-download" aria-label="Download vjeantet/hugo-theme-docport on GitHub">Download</a>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/vjeantet/hugo-theme-docport" data-icon="octicon-star" data-show-count="false" aria-label="Star vjeantet/hugo-theme-docport on GitHub">Star</a>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/vjeantet/hugo-theme-docport/fork" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork vjeantet/hugo-theme-docport on GitHub">Fork</a>
+</center>
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+	    
+	
+      </aside>
+      
+
+      <section class="page ">
+      
+	
+		
+    
+    
+    <nav id="ariane" aria-label="breadcrumb">
+      <ol class="ariane">
+        
+  
+  	
+		
+  
+  	
+		
+  
+  	
+		
+  
+  	
+		
+  
+  	
+	<li >
+      <a class="text-link" href="https://example.com">
+        Home
+      </a>
+    </li>
+	
+  
+    <li class="">
+      <a class="text-link" href="/tutorials/">
+        Tutorial
+      </a>
+    </li>
+	
+  	
+  
+    <li class="">
+      <a class="text-link" href="/tutorials/python/">
+        Python
+      </a>
+    </li>
+	
+  	
+  
+    <li class="">
+      <a class="text-link" href="/tutorials/python/tutorials/">
+        Tutorials
+      </a>
+    </li>
+	
+  	
+  
+    <li class="">
+      <a class="text-link" href="/tutorials/python/tutorials/date-time/">
+        Date &amp; Time
+      </a>
+    </li>
+	
+  	
+  
+    <li class="active">
+      
+        การจัดการวันเวลา
+      
+    </li>
+
+      </ol>
+    </nav>
+    
+    
+
+    
+		
+        
+		
+		
+		
+		
+		
+		
+		
+
+		
+			<h1>การจัดการวันเวลา</h1>
+        
+
+		
+										
+		
+
+		
+	
+
+	
+	
+	<div class="jump-to-section">
+		<span onclick="$h = $(this);$h.next('nav').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('nav').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
+  			<span class="fas fa-align-right"></span>
+  			Jump to Section
+  			<i style=";" class="fas fa-chevron-right"></i>
+		</span>
+		<nav id="TableOfContents">
+  <ul>
+    <li><a href="#ออบเจกตพเศษใน-datetime"><strong>ออบเจ็กต์พิเศษใน datetime</strong></a></li>
+  </ul>
+</nav>
+	</div>
+	
+	
+
+
+
+
+
+
+	<div class="content">
+	    <blockquote>
+<p>เขียนเมื่อ 2016/06/21 19:35</p>
+</blockquote>
+<p>มอดูล datetime เป็นหนึ่งในมอดูลภายในตัวของไพธอน มีหน้าที่จัดการเกี่ยวกับเรื่องวันเดือนปีและเวลาต่างๆ  หน้าที่มีความคล้ายคลึงกับมอดูล time (อ่านรายละเอียดใน  <a href="https://phyblas.hinaboshi.com/20160610">https://phyblas.hinaboshi.com/20160610</a>) แต่ก็มีความต่างกันอยู่ บางครั้งก็อาจใช้ร่วมกัน  datetime มักถูกใช้เมื่อต้องการจัดการกับข้อมูลที่อยู่ในรูปของวันเดือนปีหรือเวลาชั่วโมงนาทีวินาที  เวลาและวันเดือนปีนั้นเป็นปริมาณที่ใช้หน่วยหลากหลายในการอธิบาย และการแปลงหน่วยก็มีความยุ่งยากเพราะมีความไม่สม่ำเสมอ เช่นจำนวนวันในหนึ่งปีหรือหนึ่งเดือนเป็นต้น</p>
+<p>การใช้ออบเจ็กต์พิเศษของ datetime จะทำให้การคำนวณทำได้โดยง่ายขึ้น อีกทั้งยังสามารถปรับเปลี่ยนรูปแบบการแสดงผลให้เป็นไปตามที่ต้องการได้ง่ายด้วย  การใช้มอดูลนี้ก่อนอื่นต้องเริ่มจากทำการ import เรียกใช้ก่อน</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#f92672">import</span>  datetime
+</code></pre></div><h2 ref="ออบเจกตพเศษใน-datetime" ><strong>ออบเจ็กต์พิเศษใน datetime</strong></h2><a class="anchor" id="ออบเจกตพเศษใน-datetime"></a>
+<p>มอดูล datetime นั้นมีการนิยามคลาสของออบเจ็กต์สำหรับเก็บค่าวันเดือนปีและเวลาโดยเฉพาะ มีอยู่ ๔ ชนิดคือ</p>
+<ul>
+<li><code>datetime.date</code>	ออบเจ็กต์เก็บค่าวันเดือนปี</li>
+<li><code>datetime.time</code>	ออบเจ็กต์เก็บค่าเวลา</li>
+<li><code>datetime.datetime</code>	เป็นออบเจ็กต์ที่เอา datetime.date กับ datetime.time มารวมกัน เก็บค่าทั้งวันเดือนปีและเวลา</li>
+<li><code>datetime.timedelta</code>	ออบเจ็กต์เก็บค่าระยะห่างระหว่างเวลาซึ่งมีหน่วยเป็นวันและวินาที</li>
+</ul>
+<p><code>datetime.date</code> จะเก็บค่าตัวเลขปี เดือน วัน ทั้งหมดเป็นจำนวนเต็มเอาไว้ ในการสร้าง <code>datetime.date</code> จะต้องใส่ค่าปี, เดือน, วัน ตามลำดับ เช่น</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">datetime<span style="color:#f92672">.</span>date(<span style="color:#ae81ff">1905</span>, <span style="color:#ae81ff">6</span>, <span style="color:#ae81ff">1</span>)
+</code></pre></div><p>เมื่อใช้คำสั่ง print จะแสดงผลเป็น  <em>ปี-เดือน-วัน</em></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#66d9ef">print</span>(datetime<span style="color:#f92672">.</span>date(<span style="color:#ae81ff">1905</span>, <span style="color:#ae81ff">6</span>, <span style="color:#ae81ff">1</span>))  <span style="color:#75715e"># ได้ 1905-06-01</span>
+</code></pre></div><p>ค่าเดือนจะใส่ได้แค่ 1 ถึง 12 และค่าวันจะใส่ได้แค่ไหนขึ้นอยู่กับจำนวนวันในเดือนนั้น และทั้งหมดต้องเป็นจำนวนเต็มเท่านั้น จะมีทศนิยมไม่ได้ ถ้าใส่ค่าที่ไม่อยู่ในขอบเขตที่กำหนดจะเกิดข้อผิดพลาดทันที เช่น</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">datetime<span style="color:#f92672">.</span>date(<span style="color:#ae81ff">1911</span>,<span style="color:#ae81ff">2</span>,<span style="color:#ae81ff">29</span>)  <span style="color:#75715e"># ได้ ValueError: day is out of range for month  </span>
+datetime<span style="color:#f92672">.</span>date(<span style="color:#ae81ff">1911</span>,<span style="color:#ae81ff">0</span>,<span style="color:#ae81ff">28</span>)  <span style="color:#75715e"># ได้ ValueError: month must be in 1..12  </span>
+datetime<span style="color:#f92672">.</span>date(<span style="color:#ae81ff">1911</span>,<span style="color:#ae81ff">2</span>,<span style="color:#ae81ff">27.1</span>)  <span style="color:#75715e"># ได้ TypeError: integer argument expected, got float</span>
+</code></pre></div><p>ส่วน <code>datetime.time</code>จะเก็บค่าเวลาในหน่วยชั่วโมง, นาที, วินาที และไมโครวินาที การสร้าง <code>datetime.time</code> จะต้องใส่ค่า ชั่วโมง, นาที, วินาที และไมโครวินาที เรียงตามลำดับ โดยจะใส่แต่ค่าชั่วโมงอย่างเดียวก็ได้ ค่าที่เหลือจะเป็น 0 เช่น</p>
+<p><code>datetime.time(1)</code>  # คือ 1 ชั่วโมง 0 นาที 0 วินาที 0 ไมโครวินาที<br>
+<code>datetime.time(23, 59, 59, 999999)</code>  # คือ 23 ชั่วโมง 59 นาที 59 วินาที 999999 ไมโครวินาที</p>
+<p>เมื่อสั่ง print จะแสดงผลเป็น  <em>ชั่วโมง:นาที:วินาที.ไมโครวินาที</em></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#66d9ef">print</span>(datetime<span style="color:#f92672">.</span>time(<span style="color:#ae81ff">23</span>, <span style="color:#ae81ff">59</span>, <span style="color:#ae81ff">59</span>, <span style="color:#ae81ff">999999</span>))  
+<span style="color:#75715e"># ได้ 23:59:59.999999</span>
+</code></pre></div><p>ค่าชั่วโมงจะต้องอยู่ในช่วง 0 ถึง 23 นาทีและวินาทีเป็น 0 ถึง 60 ส่วนไมโครวินาทีตั้งแต่ 0 ถึง 999999 ค่าทั้งหมดต้องเป็นจำนวนเต็มเท่านั้น</p>
+<p>ส่วนออบเจ็กต์ชนิด datetime.datetime นั้นเป็นตัวที่รวม datetime.date กับ datetime.time เข้าด้วยกัน คือจะเก็บค่า ปี, เดือน, วัน, ชั่วโมง, นาที, วินาที, ไมโครวินาที</p>
+<p>เวลาที่สร้าง <code>datetime.datetime</code> ขึ้นมาก็ใส่ค่าเรียงไล่ตั้งแต่ปีไปจนถึงไมโครวินาที โดยอาจใส่แค่ปีเดือนวัน ๓ ตัวเท่านั้นส่วนที่เหลือละไว้ก็ได้ เช่น</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">datetime<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2016</span>,<span style="color:#ae81ff">6</span>,<span style="color:#ae81ff">21</span>)  
+<span style="color:#75715e"># 21 มิ.ย. 2016 เวลา 0:00:00:000000 น.</span>
+</code></pre></div><p>เมื่อสั่ง print จะแสดงผลเป็น  <em>ปี-เดือน-วัน ชั่วโมง:นาที:วินาที.ไมโครวินาที</em></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#66d9ef">print</span>(datetime<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2016</span>,<span style="color:#ae81ff">6</span>,<span style="color:#ae81ff">21</span>,<span style="color:#ae81ff">17</span>,<span style="color:#ae81ff">35</span>,<span style="color:#ae81ff">30</span>,<span style="color:#ae81ff">115421</span>))  
+<span style="color:#75715e"># ได้ 2016-06-21 17:35:30.115421</span>
+</code></pre></div><p>ส่วน datetime.timedelta นั้นจะเก็บค่าช่วงระยะเวลา โดยเก็บในรูปของวัน, วินาที และ ไมโครวินาทีเท่านั้น โดย 1 วันมีค่าเท่ากับ 60<em>60</em>24 = 86400 วินาที</p>
+<p>การสร้าง datetime.timedelta นั้นต้องใส่ค่าเป็น วัน, วินาที และไมโครวินาที ตามลำดับ โดยสามารถละตัวหลังแล้วใส่แต่ตัวแรกๆก็ได้ เช่น</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">datetime<span style="color:#f92672">.</span>timedelta(<span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">60</span>)  
+<span style="color:#75715e"># คือ 1 วัน 60 วินาที (1 นาที)</span>
+</code></pre></div><p>ค่าวันและวินาทีจะเป็นทศนิยมก็ได้ ถ้าใส่เป็นทศนิยมค่าจะถูกแปลงไปเป็นตัวหลังแทน เช่น</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">datetime<span style="color:#f92672">.</span>timedelta(<span style="color:#ae81ff">1.1</span>)  
+<span style="color:#75715e"># กลายเป็น datetime.timedelta(1, 8640)  </span>
+datetime<span style="color:#f92672">.</span>timedelta(<span style="color:#ae81ff">1.1111111111</span>)  
+<span style="color:#75715e"># กลายเป็น datetime.timedelta(1, 9599, 999999)</span>
+</code></pre></div><p>ในทางกลับกันหากใส่ค่าวินาทีเกิน 86400 ก็จะถูกแปลงเป็นวัน และหากใส่ไมโครวินาทีเกิน 1 ล้านก็จะถูกแปลงเป็นวินาที</p>
+<p>ค่าที่ใส่จะติดลบก็ได้ ถ้าหากวินาทีหรือไมโครวินาทีติดลบจะถูกนำไปหักจากวันและวินาทีตามลำดับ เช่น</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">datetime<span style="color:#f92672">.</span>timedelta(<span style="color:#ae81ff">1</span>,<span style="color:#f92672">-</span><span style="color:#ae81ff">1</span>,<span style="color:#f92672">-</span><span style="color:#ae81ff">1</span>)  
+<span style="color:#75715e"># กลายเป็น datetime.timedelta(0, 86398, 999999)</span>
+</code></pre></div><p>เรายังอาจสร้าง <code>datetime.timedelta</code> โดยกำหนดระยะเวลาเป็นมิลลิวินาที, นาที, ชั่วโมง, หรือสัปดาห์ได้ด้วย โดยใส่ในรูปคีย์เวิร์ด เวลาจะถูกแปลงเป็นหน่วยวัน, วินาที และไมโครวินาทีโดยอัตโนมัติ</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">datetime<span style="color:#f92672">.</span>timedelta(weeks<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>,hours<span style="color:#f92672">=</span><span style="color:#ae81ff">17</span>,minutes<span style="color:#f92672">=</span><span style="color:#ae81ff">2</span>,milliseconds<span style="color:#f92672">=</span><span style="color:#ae81ff">999</span>)  
+<span style="color:#75715e"># ได้ datetime.timedelta(7, 61320, 999000)</span>
+</code></pre></div><p>เมื่อสั่ง print จะอยู่ในรูปของ  <em>วัน days, ชั่วโมง:นาที:วินาที.ไมโครวินาที</em></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#66d9ef">print</span>(datetime<span style="color:#f92672">.</span>timedelta(<span style="color:#ae81ff">111.9999999</span>))  
+<span style="color:#75715e"># ได้ 111 days, 23:59:59.991360</span>
+</code></pre></div><p><strong>การคำนวณของ datetime.datetime และ datetime.timedelta</strong><br>
+เมื่อนำ <code>datetime.datetime</code> มาลบกันจะได้ผลออกมาเป็น <code>datetime.timedelta </code>ซึ่งเก็บค่าระยะเวลาระหว่างสองเวลาที่เอามาลบกันนั้น เช่น</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">datetime<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2016</span>,<span style="color:#ae81ff">6</span>,<span style="color:#ae81ff">21</span>)<span style="color:#f92672">-</span>datetime<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2016</span>,<span style="color:#ae81ff">6</span>,<span style="color:#ae81ff">20</span>)  
+<span style="color:#75715e"># ได้ datetime.timedelta(1)</span>
+</code></pre></div><p>เนื่องจากหน่วยที่เก็บใน datetime.timedelta นั้นใหญ่สุดเป็นวัน และรองลงมาเป็นวินาที ดังนั้นหน่วยอื่นก็จะถูกแปลงเป็นวันและวินาทีหมด</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">datetime<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2016</span>,<span style="color:#ae81ff">6</span>,<span style="color:#ae81ff">21</span>,<span style="color:#ae81ff">7</span>)<span style="color:#f92672">-</span>datetime<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2016</span>,<span style="color:#ae81ff">6</span>,<span style="color:#ae81ff">21</span>,<span style="color:#ae81ff">3</span>)  
+<span style="color:#75715e"># ได้ datetime.timedelta(0, 14400)  </span>
+datetime<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2016</span>,<span style="color:#ae81ff">6</span>,<span style="color:#ae81ff">21</span>)<span style="color:#f92672">-</span>datetime<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">1905</span>,<span style="color:#ae81ff">6</span>,<span style="color:#ae81ff">21</span>)  
+<span style="color:#75715e"># ได้ datetime.timedelta(40543)</span>
+</code></pre></div><p>นอกจากการลบกันแล้ว datetime.datetime และ datetime.datetime ด้วยกันไม่สามารถนำมาคำนวณอย่างอื่นได้เลย ทั้งบวก, คูณ, และยกกำลัง</p>
+<p>แต่ datetime.datetime สามารถนำมาบวกหรือลบกับ datetime.timedelta ได้ ซึ่งก็จะได้ผลเป็น datetime.datetime ตัวใหม่ เช่น</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">datetime<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2016</span>,<span style="color:#ae81ff">6</span>,<span style="color:#ae81ff">21</span>)<span style="color:#f92672">+</span>datetime<span style="color:#f92672">.</span>timedelta(<span style="color:#ae81ff">0.71</span>)  <span style="color:#75715e"># ได้ datetime.datetime(2016, 6, 21, 17, 2, 24)  </span>
+datetime<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2016</span>,<span style="color:#ae81ff">6</span>,<span style="color:#ae81ff">21</span>)<span style="color:#f92672">-</span>datetime<span style="color:#f92672">.</span>timedelta(<span style="color:#ae81ff">1</span>,<span style="color:#ae81ff">1</span>,<span style="color:#ae81ff">1</span>)  <span style="color:#75715e"># ได้ datetime.datetime(2016, 6, 19, 23, 59, 58, 999999)</span>
+</code></pre></div><p>ส่วน datetime.timedelta นั้นสามารถเอามาคูณหรือหารกับตัวเลขได้ แต่ไม่สามารถบวกหรือลบหรือยกกำลังได้</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">datetime<span style="color:#f92672">.</span>timedelta(<span style="color:#ae81ff">1</span>,<span style="color:#ae81ff">1</span>,<span style="color:#ae81ff">1</span>)<span style="color:#f92672">*</span><span style="color:#ae81ff">2</span> 
+<span style="color:#75715e"># ได้ datetime.timedelta(2, 2, 2)  </span>
+datetime<span style="color:#f92672">.</span>timedelta(<span style="color:#ae81ff">1</span>,<span style="color:#ae81ff">1</span>,<span style="color:#ae81ff">1</span>)<span style="color:#f92672">/</span><span style="color:#ae81ff">2</span>  
+<span style="color:#75715e"># ได้ datetime.timedelta(0, 43200, 500000)</span>
+</code></pre></div><p>datetime.timedelta กับ datetime.timedelta สามารถนำมาบวกหรือลบกันได้ แต่ไม่สามารถคูณหรือยกกำลังกันได้</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">datetime<span style="color:#f92672">.</span>timedelta(<span style="color:#ae81ff">1</span>,<span style="color:#ae81ff">1</span>)<span style="color:#f92672">+</span>datetime<span style="color:#f92672">.</span>timedelta(<span style="color:#ae81ff">0</span>,<span style="color:#ae81ff">0</span>,<span style="color:#ae81ff">111</span>)  
+<span style="color:#75715e"># ได้ datetime.timedelta(1, 1, 111)  </span>
+datetime<span style="color:#f92672">.</span>timedelta(<span style="color:#ae81ff">1</span>,<span style="color:#ae81ff">1</span>,<span style="color:#ae81ff">1</span>)<span style="color:#f92672">-</span>datetime<span style="color:#f92672">.</span>timedelta(<span style="color:#ae81ff">1</span>,<span style="color:#ae81ff">1</span>,<span style="color:#ae81ff">1</span>)  
+<span style="color:#75715e"># ได้ datetime.timedelta(0)</span>
+</code></pre></div><p>และสามารถหารกันได้ ผลที่ได้คือค่าจำนวนเท่าของระยะเวลา</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">datetime<span style="color:#f92672">.</span>timedelta(<span style="color:#ae81ff">1</span>,<span style="color:#ae81ff">1</span>,<span style="color:#ae81ff">1</span>)<span style="color:#f92672">/</span>datetime<span style="color:#f92672">.</span>timedelta(<span style="color:#ae81ff">1</span>)  
+<span style="color:#75715e"># ได้ 1.0000115740856481</span>
+</code></pre></div><p>และสามารถหารเอาเศษได้</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">datetime<span style="color:#f92672">.</span>timedelta(<span style="color:#ae81ff">7</span>,<span style="color:#ae81ff">1</span>,<span style="color:#ae81ff">1</span>)<span style="color:#f92672">%</span>datetime<span style="color:#f92672">.</span>timedelta(<span style="color:#ae81ff">1</span>)  
+<span style="color:#75715e"># ได้ datetime.timedelta(0, 1, 1)  </span>
+datetime<span style="color:#f92672">.</span>timedelta(<span style="color:#ae81ff">7</span>,<span style="color:#ae81ff">2</span>,<span style="color:#ae81ff">1</span>)<span style="color:#f92672">%</span>datetime<span style="color:#f92672">.</span>timedelta(<span style="color:#ae81ff">0</span>,<span style="color:#ae81ff">0</span>,<span style="color:#ae81ff">999999</span>)  
+<span style="color:#75715e"># ได้ datetime.timedelta(0, 0, 604803)</span>
+</code></pre></div><p>สำหรับการเปรียบเทียบระหว่างเวลานั้น datetime.datetime นึงจะมากกว่าอีก datetime.datetime หนึ่งเมื่อเป็นเวลาช้ากว่า ส่วน datetime.timedelta ก็เทียบตามความยาวของเวลา</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">datetime<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2016</span>,<span style="color:#ae81ff">6</span>,<span style="color:#ae81ff">21</span>)<span style="color:#f92672">&gt;</span>datetime<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2016</span>,<span style="color:#ae81ff">6</span>,<span style="color:#ae81ff">20</span>)  
+<span style="color:#75715e"># ได้ True</span>
+</code></pre></div><p><strong>แอตทริบิวต์และเมธอดของ datetime.timedelta</strong><br>
+ค่าของวัน, วินาที และไมโครวินาที ถูกเก็บอยู่ในแอตทริบิวต์ <code>days, seconds และ microseconds</code> ตามลำดับ</p>
+<p>สามารถแสดงค่าทั้งหมดเป็นวินาทีได้ด้วยเมธอด <code>total_seconds()</code></p>
+<p>ตัวอย่าง</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">tdt <span style="color:#f92672">=</span> datetime<span style="color:#f92672">.</span>timedelta(<span style="color:#ae81ff">3</span>,<span style="color:#ae81ff">70000</span>,<span style="color:#ae81ff">400000</span>)  
+<span style="color:#66d9ef">print</span>(tdt<span style="color:#f92672">.</span>days)  <span style="color:#75715e"># ได้ 3  </span>
+<span style="color:#66d9ef">print</span>(tdt<span style="color:#f92672">.</span>seconds)  <span style="color:#75715e"># ได้ 70000  </span>
+<span style="color:#66d9ef">print</span>(tdt<span style="color:#f92672">.</span>microseconds)  <span style="color:#75715e"># ได้ 400000  </span>
+<span style="color:#66d9ef">print</span>(tdt<span style="color:#f92672">.</span>total_seconds())  <span style="color:#75715e"># ได้ 329200.4</span>
+</code></pre></div><p><strong>แอตทริบิวต์และเมธอดของ datetime.datetime</strong><br>
+ภายในออบเจ็กต์ datetime.datetime นั้นเก็บข้อมูลของปี, เดือน, วัน, ชั่วโมง, นาที, วินาที, ไมโครวินาที เอาไว้โดยสามารถดูค่าแต่ละค่าได้ที่แอตทริบิวต์ <code>year, month, day, hour, minute, second, microsecond</code></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">dtdt <span style="color:#f92672">=</span> datetime<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2016</span>,<span style="color:#ae81ff">6</span>,<span style="color:#ae81ff">21</span>,<span style="color:#ae81ff">17</span>,<span style="color:#ae81ff">35</span>,<span style="color:#ae81ff">30</span>,<span style="color:#ae81ff">115421</span>)  
+<span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>year)  <span style="color:#75715e"># ได้ 2016  </span>
+<span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>month)  <span style="color:#75715e"># ได้ 6  </span>
+<span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>day)  <span style="color:#75715e"># ได้ 21  </span>
+<span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>hour)  <span style="color:#75715e"># ได้ 17  </span>
+<span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>minute)  <span style="color:#75715e"># ได้ 35  </span>
+<span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>second)  <span style="color:#75715e"># ได้ 30  </span>
+<span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>microsecond)  <span style="color:#75715e"># ได้ 115421</span>
+</code></pre></div><p>datetime.datetime ยังประกอบด้วยเมธอดต่างๆที่ใช้แสดงผลข้อมูลส่วนต่างๆในรูปแบบต่างๆ ได้แก่</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">date()	<span style="color:#960050;background-color:#1e0010">แสดงส่วนวันเดือนปีในรูป</span> datetime<span style="color:#f92672">.</span>date
+time()	<span style="color:#960050;background-color:#1e0010">แสดงส่วนเวลาในรูป</span> datetime<span style="color:#f92672">.</span>time
+weekday()	<span style="color:#960050;background-color:#1e0010">แสดงเลขวันในสัปดาห์</span> <span style="color:#960050;background-color:#1e0010">โดยวันจันทร์เป็น</span> <span style="color:#ae81ff">0</span> <span style="color:#960050;background-color:#1e0010">วันอาทิตย์เป็น</span> <span style="color:#ae81ff">6</span>
+isoweekday()	<span style="color:#960050;background-color:#1e0010">แสดงเลขวันในสัปดาห์</span> <span style="color:#960050;background-color:#1e0010">โดยวันจันทร์เป็น</span> <span style="color:#ae81ff">1</span> <span style="color:#960050;background-color:#1e0010">วันอาทิตย์เป็น</span> <span style="color:#ae81ff">7</span>
+isocalendar()	<span style="color:#960050;background-color:#1e0010">แสดงผลวันเดือนปีในรูปแบบทูเพิล</span>
+ctime()	<span style="color:#960050;background-color:#1e0010">แสดงวันเวลาในรูป</span>  _วันในสัปดาห์ <span style="color:#960050;background-color:#1e0010">เดือน</span> <span style="color:#960050;background-color:#1e0010">วัน</span> <span style="color:#960050;background-color:#1e0010">ชั่วโมง</span>:<span style="color:#960050;background-color:#1e0010">นาที</span>:<span style="color:#960050;background-color:#1e0010">วินาที</span> <span style="color:#960050;background-color:#1e0010">ปี</span>_
+timetuple()	<span style="color:#960050;background-color:#1e0010">แสดงวันเวลาในรูปออบเจ็กต์</span> time<span style="color:#f92672">.</span>struct_time
+timestamp()	<span style="color:#960050;background-color:#1e0010">แสดงเวลาในรูปของจำนวนวินาทีนับจากเที่ยงคืนเวลา</span> UTC <span style="color:#960050;background-color:#1e0010">ของวันที่</span> <span style="color:#ae81ff">1</span> <span style="color:#960050;background-color:#1e0010">ม</span><span style="color:#f92672">.</span><span style="color:#960050;background-color:#1e0010">ค</span><span style="color:#f92672">.</span> <span style="color:#ae81ff">1970</span>
+isoformat()	<span style="color:#960050;background-color:#1e0010">แสดงวันเวลาในรูป</span>  _ปี<span style="color:#f92672">-</span><span style="color:#960050;background-color:#1e0010">เดือน</span><span style="color:#f92672">-</span><span style="color:#960050;background-color:#1e0010">วัน</span>Tชั่วโมง:<span style="color:#960050;background-color:#1e0010">นาที</span>:<span style="color:#960050;background-color:#1e0010">วินาที</span><span style="color:#f92672">.</span><span style="color:#960050;background-color:#1e0010">ไมโครวินาที</span>_
+</code></pre></div><p>สำหรับ isoformat ถ้าใส่อาร์กิวเมนต์ลงไปจะเป็นตัวคั่นระหว่างวันกับชั่วโมงแทนตัว T</p>
+<p>ตัวอย่างเมธอดต่างๆ</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">dtdt <span style="color:#f92672">=</span> datetime<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2016</span>,<span style="color:#ae81ff">6</span>,<span style="color:#ae81ff">21</span>,<span style="color:#ae81ff">17</span>,<span style="color:#ae81ff">35</span>,<span style="color:#ae81ff">30</span>,<span style="color:#ae81ff">115421</span>)  
+<span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>date())  <span style="color:#75715e"># ได้ 2016-06-21  </span>
+<span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>time())  <span style="color:#75715e"># ได้ 17:35:30.115421  </span>
+<span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>weekday())  <span style="color:#75715e"># ได้ 1  </span>
+<span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>isoweekday())  <span style="color:#75715e"># ได้ 2  </span>
+<span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>isocalendar())  <span style="color:#75715e"># ได้ (2016, 25, 2)  </span>
+<span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>ctime())  <span style="color:#75715e"># ได้ Tue Jun 21 17:35:30 2016  </span>
+<span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>timetuple())  <span style="color:#75715e"># ได้ time.struct_time(tm_year=2016, tm_mon=6, tm_mday=21, tm_hour=17, tm_min=35, tm_sec=30, tm_wday=1, tm_yday=173, tm_isdst=-1)  </span>
+<span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>isoformat())  <span style="color:#75715e"># ได้ 2016-06-21T17:35:30.115421  </span>
+<span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>isoformat(<span style="color:#e6db74">&#39; &#39;</span>))  <span style="color:#75715e"># ได้ 2016-06-21 17:35:30.115421</span>
+</code></pre></div><p>สำหรับ <code>timestamp()</code> ค่าจะเป็น 0 ที่เวลา 7 โมงเช้าของวันที่ <code>1 ม.ค. 1970</code> เนื่องจากไทยอยู่เขตเวลา +7</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>timestamp())  
+<span style="color:#75715e"># ได้ 1466505330.115421  </span>
+<span style="color:#66d9ef">print</span>(datetime<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">1970</span>,<span style="color:#ae81ff">1</span>,<span style="color:#ae81ff">1</span>,<span style="color:#ae81ff">0</span>,<span style="color:#ae81ff">0</span>,<span style="color:#ae81ff">0</span>)<span style="color:#f92672">.</span>timestamp())  
+<span style="color:#75715e"># ได้ -25200.0  </span>
+<span style="color:#66d9ef">print</span>(datetime<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">1970</span>,<span style="color:#ae81ff">1</span>,<span style="color:#ae81ff">1</span>,<span style="color:#ae81ff">7</span>,<span style="color:#ae81ff">0</span>,<span style="color:#ae81ff">0</span>)<span style="color:#f92672">.</span>timestamp())  
+<span style="color:#75715e"># ได้ 0.0</span>
+
+</code></pre></div><p><strong>การแก้ค่าวันเวลาใน datetime.datetime</strong><br>
+ใน datetime.datetime มีเมธอด replace ซึ่งใช้แก้ไขค่าต่างๆภายใน datetime.datetime โดยอาร์กิวเมนต์ที่ต้องใส่นั้นเหมือนกับตอนสร้าง datetime.datetime เพียงแต่ว่าจะใส่แค่บางค่าในรูปคีย์เวิร์ดเฉพาะค่าที่ต้องการแก้เท่านั้น  เพียงแต่ว่าเมธอดนี้ไม่ได้ทำการเปลี่ยนแปลงตัว datetime.datetime แค่คืนค่าของ datetime.datetime ที่ถูกแก้แล้วกลับมาเท่านั้น</p>
+<p><strong>ตัวอย่าง</strong></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">dtdt <span style="color:#f92672">=</span> datetime<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2016</span>,<span style="color:#ae81ff">6</span>,<span style="color:#ae81ff">21</span>,<span style="color:#ae81ff">17</span>,<span style="color:#ae81ff">35</span>,<span style="color:#ae81ff">30</span>,<span style="color:#ae81ff">115421</span>)  
+dtdt<span style="color:#f92672">.</span>replace(<span style="color:#ae81ff">2015</span>)  
+<span style="color:#75715e"># ได้ datetime.datetime(2015, 6, 21, 17, 35, 30, 115421)  </span>
+dtdt<span style="color:#f92672">.</span>replace(month<span style="color:#f92672">=</span><span style="color:#ae81ff">7</span>)  
+<span style="color:#75715e"># ได้ datetime.datetime(2016, 7, 21, 17, 35, 30, 115421)  </span>
+dtdt<span style="color:#f92672">.</span>replace(second<span style="color:#f92672">=</span><span style="color:#ae81ff">0</span>,microsecond<span style="color:#f92672">=</span><span style="color:#ae81ff">0</span>)  
+<span style="color:#75715e"># ได้ datetime.datetime(2016, 6, 21, 17, 35)</span>
+</code></pre></div><p><strong>การแสดงผลวันเวลาตามที่ต้องการ</strong><br>
+นอกจาก การแสดงผล datetime.datetime ด้วยเมธอดตามที่กล่าวมาข้างต้น เราสามารถให้แสดงผลวันเวลาในรูปแบบตามที่ต้องการซึ่งกำหนดเองได้โดยใช้เมธอด <code>strftime</code> อาร์กิวเมนต์ที่ต้องใส่คือสายอักขระที่ประกอบไปด้วย <code>%</code> ตามด้วยอักษร ซึ่งแทนค่าในส่วนต่างๆในรูปแบบต่างๆของวันเวลา ซึ่งสรุปได้ตามนี้</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#f92672">%</span>a	<span style="color:#960050;background-color:#1e0010">วันในสัปดาห์ในรูปย่อ</span>
+<span style="color:#f92672">%</span>A	<span style="color:#960050;background-color:#1e0010">วันในสัปดาห์เป็นชื่อเต็ม</span>
+<span style="color:#f92672">%</span>w	<span style="color:#960050;background-color:#1e0010">วันในสัปดาห์เป็นตัวเลข</span> <span style="color:#960050;background-color:#1e0010">อาทิตย์เป็น</span> <span style="color:#ae81ff">0</span> <span style="color:#960050;background-color:#1e0010">เสาร์เป็น</span> <span style="color:#ae81ff">6</span>	
+<span style="color:#f92672">%</span>d	<span style="color:#960050;background-color:#1e0010">วันที่ในรูปเลขสองหลัก</span> (<span style="color:#960050;background-color:#1e0010">เติม</span> <span style="color:#ae81ff">0</span> <span style="color:#960050;background-color:#1e0010">เมื่อมีหลักเดียว</span>)
+<span style="color:#f92672">%</span>b	<span style="color:#960050;background-color:#1e0010">ชื่อเดือนในรูปย่อ</span>
+<span style="color:#f92672">%</span>B	<span style="color:#960050;background-color:#1e0010">ชื่อเดือนเป็นชื่อเต็ม</span>
+<span style="color:#f92672">%</span>m	<span style="color:#960050;background-color:#1e0010">เลขเดือนเป็นเลขสองหลัก</span> (<span style="color:#960050;background-color:#1e0010">เติม</span> <span style="color:#ae81ff">0</span> <span style="color:#960050;background-color:#1e0010">เมื่อมีหลักเดียว</span>)
+<span style="color:#f92672">%</span>y	<span style="color:#960050;background-color:#1e0010">เลขปีในรูปเลขสองหลักสุดท้าย</span>
+<span style="color:#f92672">%</span>Y	<span style="color:#960050;background-color:#1e0010">เลขปีในรูปเลขสี่หลัก</span> (<span style="color:#960050;background-color:#1e0010">เติม</span> <span style="color:#ae81ff">0</span> <span style="color:#960050;background-color:#1e0010">เมื่อมีไม่ถึงสี่หลัก</span>)
+<span style="color:#f92672">%</span>H	<span style="color:#960050;background-color:#1e0010">เวลาชั่วโมงเป็นเลขสองหลักถึง</span> <span style="color:#ae81ff">24</span> (<span style="color:#960050;background-color:#1e0010">เติม</span> <span style="color:#ae81ff">0</span> <span style="color:#960050;background-color:#1e0010">เมื่อมีหลักเดียว</span>)
+<span style="color:#f92672">%</span>I	<span style="color:#960050;background-color:#1e0010">เวลาชั่วโมงเป็นเลขสองหลักไม่เกิน</span> <span style="color:#ae81ff">12</span> (<span style="color:#960050;background-color:#1e0010">เติม</span> <span style="color:#ae81ff">0</span> <span style="color:#960050;background-color:#1e0010">เมื่อมีหลักเดียว</span>)
+<span style="color:#f92672">%</span>p	<span style="color:#960050;background-color:#1e0010">เวลา</span> AM <span style="color:#960050;background-color:#1e0010">หรือ</span> PM
+<span style="color:#f92672">%</span>M	<span style="color:#960050;background-color:#1e0010">เวลานาทีเป็นเลขสองหลัก</span> (<span style="color:#960050;background-color:#1e0010">เติม</span> <span style="color:#ae81ff">0</span> <span style="color:#960050;background-color:#1e0010">เมื่อมีหลักเดียว</span>)
+<span style="color:#f92672">%</span>S	<span style="color:#960050;background-color:#1e0010">เวลาวินาทีเป็นเลขสองหลัก</span> (<span style="color:#960050;background-color:#1e0010">เติม</span> <span style="color:#ae81ff">0</span> <span style="color:#960050;background-color:#1e0010">เมื่อมีหลักเดียว</span>)
+<span style="color:#f92672">%</span>f	<span style="color:#960050;background-color:#1e0010">เวลาไมโครวินาทีเป็นเลขหกหลัก</span> (<span style="color:#960050;background-color:#1e0010">เติม</span> <span style="color:#ae81ff">0</span> <span style="color:#960050;background-color:#1e0010">เมื่อมีไม่ถึงหกหลัก</span>)
+<span style="color:#f92672">%</span>j	<span style="color:#960050;background-color:#1e0010">เลขลำดับวันในปี</span> (<span style="color:#ae81ff">1</span> <span style="color:#960050;background-color:#1e0010">ถึง</span> <span style="color:#ae81ff">366</span>)
+<span style="color:#f92672">%</span>U	<span style="color:#960050;background-color:#1e0010">หรือ</span> <span style="color:#f92672">%</span>W <span style="color:#960050;background-color:#1e0010">ลำดับของสัปดาห์ภายในปี</span>
+<span style="color:#f92672">%</span>c	<span style="color:#960050;background-color:#1e0010">แสดงวันเวลาในรูปแบบเดียวกับ</span> ctime()
+<span style="color:#f92672">%</span>x	<span style="color:#960050;background-color:#1e0010">เดือน</span><span style="color:#f92672">/</span><span style="color:#960050;background-color:#1e0010">ปี</span><span style="color:#f92672">/</span><span style="color:#960050;background-color:#1e0010">วัน</span>
+<span style="color:#f92672">%</span>X	<span style="color:#960050;background-color:#1e0010">ชั่วโมง</span>:<span style="color:#960050;background-color:#1e0010">นาที</span>:<span style="color:#960050;background-color:#1e0010">วินาที</span>
+</code></pre></div><p><strong>ตัวอย่าง</strong></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">dtdt <span style="color:#f92672">=</span> datetime<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2016</span>,<span style="color:#ae81ff">6</span>,<span style="color:#ae81ff">21</span>,<span style="color:#ae81ff">17</span>,<span style="color:#ae81ff">35</span>,<span style="color:#ae81ff">30</span>,<span style="color:#ae81ff">115421</span>)  
+<span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>strftime(<span style="color:#e6db74">&#39;%a&#39;</span>))  <span style="color:#75715e"># ได้ Tue  </span>
+<span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>strftime(<span style="color:#e6db74">&#39;%A&#39;</span>))  <span style="color:#75715e"># ได้ Tuesday  </span>
+<span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>strftime(<span style="color:#e6db74">&#39;%w&#39;</span>))  <span style="color:#75715e"># ได้ 2  </span>
+<span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>strftime(<span style="color:#e6db74">&#39;</span><span style="color:#e6db74">%d</span><span style="color:#e6db74">&#39;</span>))  <span style="color:#75715e"># ได้ 21  </span>
+<span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>strftime(<span style="color:#e6db74">&#39;%b&#39;</span>))  <span style="color:#75715e"># ได้ Jun  </span>
+<span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>strftime(<span style="color:#e6db74">&#39;%B&#39;</span>))  <span style="color:#75715e"># ได้ June  </span>
+<span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>strftime(<span style="color:#e6db74">&#39;%m&#39;</span>))  <span style="color:#75715e"># ได้ 06  </span>
+<span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>strftime(<span style="color:#e6db74">&#39;%y&#39;</span>))  <span style="color:#75715e"># ได้ 16  </span>
+<span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>strftime(<span style="color:#e6db74">&#39;%Y&#39;</span>))  <span style="color:#75715e"># ได้ 2016  </span>
+<span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>strftime(<span style="color:#e6db74">&#39;%H&#39;</span>))  <span style="color:#75715e"># ได้ 17  </span>
+<span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>strftime(<span style="color:#e6db74">&#39;%I&#39;</span>))  <span style="color:#75715e"># ได้ 05  </span>
+<span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>strftime(<span style="color:#e6db74">&#39;%p&#39;</span>))  <span style="color:#75715e"># ได้ PM  </span>
+<span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>strftime(<span style="color:#e6db74">&#39;%M&#39;</span>))  <span style="color:#75715e"># ได้ 35  </span>
+<span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>strftime(<span style="color:#e6db74">&#39;%S&#39;</span>))  <span style="color:#75715e"># ได้ 30  </span>
+<span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>strftime(<span style="color:#e6db74">&#39;</span><span style="color:#e6db74">%f</span><span style="color:#e6db74">&#39;</span>))  <span style="color:#75715e"># ได้ 115421  </span>
+<span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>strftime(<span style="color:#e6db74">&#39;%j&#39;</span>))  <span style="color:#75715e"># ได้ 173  </span>
+<span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>strftime(<span style="color:#e6db74">&#39;%U&#39;</span>))  <span style="color:#75715e"># ได้ 25  </span>
+<span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>strftime(<span style="color:#e6db74">&#39;%W&#39;</span>))  <span style="color:#75715e"># ได้ 25  </span>
+<span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>strftime(<span style="color:#e6db74">&#39;</span><span style="color:#e6db74">%c</span><span style="color:#e6db74">&#39;</span>))  <span style="color:#75715e"># ได้ Tue Jun 21 17:35:30 2016  </span>
+<span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>strftime(<span style="color:#e6db74">&#39;</span><span style="color:#e6db74">%x</span><span style="color:#e6db74">&#39;</span>))  <span style="color:#75715e"># ได้ 06/21/16  </span>
+<span style="color:#66d9ef">print</span>(dtdt<span style="color:#f92672">.</span>strftime(<span style="color:#e6db74">&#39;</span><span style="color:#e6db74">%X</span><span style="color:#e6db74">&#39;</span>))  <span style="color:#75715e"># ได้ 17:35:30</span>
+</code></pre></div><p><strong>การสร้าง datetime.datetime จากเมธอดของคลาส</strong><br>
+เราสามารถสร้าง datetime.datetime ขึ้นมาจากเมธอดของคลาส datetime.datetime เองได้ด้วย  เมธอดเหล่านั้นได้แก่</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">now()	<span style="color:#960050;background-color:#1e0010">สร้าง</span> datetime<span style="color:#f92672">.</span>datetime <span style="color:#960050;background-color:#1e0010">ขึ้นจากเวลาขณะนี้</span>
+utcnow()	<span style="color:#960050;background-color:#1e0010">สร้าง</span> datetime<span style="color:#f92672">.</span>datetime <span style="color:#960050;background-color:#1e0010">ขึ้นจากเวลาขณะนี้ในเขตเวลาสากล</span>
+fromtimestamp()	<span style="color:#960050;background-color:#1e0010">สร้าง</span> datetime<span style="color:#f92672">.</span>datetime <span style="color:#960050;background-color:#1e0010">ขึ้นจาก</span> timestamp <span style="color:#960050;background-color:#1e0010">โดยอิงเวลาท้องถิ่น</span>
+utcfromtimestamp()	<span style="color:#960050;background-color:#1e0010">สร้าง</span> datetime<span style="color:#f92672">.</span>datetime <span style="color:#960050;background-color:#1e0010">ขึ้นจาก</span> timestamp <span style="color:#960050;background-color:#1e0010">โดยอิงเวลาสากล</span>
+combine()	<span style="color:#960050;background-color:#1e0010">สร้าง</span> datetime<span style="color:#f92672">.</span>datetime <span style="color:#960050;background-color:#1e0010">โดยใช้</span> datetime<span style="color:#f92672">.</span>date <span style="color:#960050;background-color:#1e0010">และ</span> datetime<span style="color:#f92672">.</span>time <span style="color:#960050;background-color:#1e0010">มารวมกัน</span>
+strptime()	<span style="color:#960050;background-color:#1e0010">สร้าง</span> datetime<span style="color:#f92672">.</span>datetime <span style="color:#960050;background-color:#1e0010">ขึ้นจากกระบวนการตรงข้ามกับ</span> strftime
+</code></pre></div><p><strong>ตัวอย่าง</strong></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#66d9ef">print</span>(datetime<span style="color:#f92672">.</span>datetime<span style="color:#f92672">.</span>now())  <span style="color:#75715e"># ได้เวลาปัจจุบัน  </span>
+<span style="color:#66d9ef">print</span>(datetime<span style="color:#f92672">.</span>datetime<span style="color:#f92672">.</span>utcnow())  <span style="color:#75715e"># ได้เวลาปัจจุบันลบ 7 ชั่วโมง  </span>
+<span style="color:#66d9ef">print</span>(datetime<span style="color:#f92672">.</span>datetime<span style="color:#f92672">.</span>fromtimestamp(<span style="color:#ae81ff">0</span>))  <span style="color:#75715e"># ได้ 1970-01-01 07:00:00  </span>
+<span style="color:#66d9ef">print</span>(datetime<span style="color:#f92672">.</span>datetime<span style="color:#f92672">.</span>utcfromtimestamp(<span style="color:#ae81ff">0</span>))  <span style="color:#75715e"># ได้ 1970-01-01 00:00:00  </span>
+dtd <span style="color:#f92672">=</span> datetime<span style="color:#f92672">.</span>date(<span style="color:#ae81ff">2016</span>,<span style="color:#ae81ff">6</span>,<span style="color:#ae81ff">21</span>)  
+dtt <span style="color:#f92672">=</span> datetime<span style="color:#f92672">.</span>time(<span style="color:#ae81ff">17</span>,<span style="color:#ae81ff">35</span>,<span style="color:#ae81ff">30</span>,<span style="color:#ae81ff">115421</span>)  
+<span style="color:#66d9ef">print</span>(datetime<span style="color:#f92672">.</span>datetime<span style="color:#f92672">.</span>combine(dtd,dtt))  <span style="color:#75715e"># ได้ 2016-06-21 17:35:30.115421</span>
+</code></pre></div><p>เมธอด <code>strptime</code> นั้นเป็นกระบวนการที่ตรงกันข้ามกันกับ strftime ใช้แปลงสายอักขระที่มีรูปแบบตามที่กำหนดให้กลายเป็น datetime.datetime   ในการใช้ให้ใส่สายอักขระที่จะแปลง ตามด้วยสายอักขระที่เขียนรูปแบบที่กำหนดการแปลง</p>
+<p><strong>ตัวอย่าง</strong></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#66d9ef">print</span>(datetime<span style="color:#f92672">.</span>datetime<span style="color:#f92672">.</span>strptime(<span style="color:#e6db74">&#39;11:11:11.1111&#39;</span>,<span style="color:#e6db74">&#39;</span><span style="color:#e6db74">%X</span><span style="color:#e6db74">.</span><span style="color:#e6db74">%f</span><span style="color:#e6db74">&#39;</span>))  
+<span style="color:#75715e"># ได้ 1900-01-01 11:11:11.111100  </span>
+<span style="color:#66d9ef">print</span>(datetime<span style="color:#f92672">.</span>datetime<span style="color:#f92672">.</span>strptime(<span style="color:#e6db74">&#39;02&#39;</span>,<span style="color:#e6db74">&#39;%H&#39;</span>))  
+<span style="color:#75715e"># ได้ 1900-01-01 02:00:00  </span>
+<span style="color:#66d9ef">print</span>(datetime<span style="color:#f92672">.</span>datetime<span style="color:#f92672">.</span>strptime(<span style="color:#e6db74">&#39;7/6/1991&#39;</span>,<span style="color:#e6db74">&#39;</span><span style="color:#e6db74">%d</span><span style="color:#e6db74">/%m/%Y&#39;</span>))  
+<span style="color:#75715e"># ได้ 1991-06-07 00:00:00  </span>
+r <span style="color:#f92672">=</span>  <span style="color:#e6db74">u</span><span style="color:#e6db74">&#39;1842-11-5 เวลา 8 โมง 41 นาที 32 วินาที&#39;</span>  
+fmt <span style="color:#f92672">=</span>  <span style="color:#e6db74">u</span><span style="color:#e6db74">&#39;%Y-%m-</span><span style="color:#e6db74">%d</span><span style="color:#e6db74"> เวลา %I โมง %M นาที %S วินาที&#39;</span>  
+<span style="color:#66d9ef">print</span>(datetime<span style="color:#f92672">.</span>datetime<span style="color:#f92672">.</span>strptime(r,fmt))  
+<span style="color:#75715e"># ได้ 1842-11-05 08:41:32</span>
+</code></pre></div><p><strong>อ้างอิง</strong></p>
+<p><a href="http://docs.python.jp/3/library/datetime.html">http://docs.python.jp/3/library/datetime.html</a><br>
+<a href="http://nkmk.github.io/blog/python-datetime">http://nkmk.github.io/blog/python-datetime</a></p>
+<blockquote>
+<p><a href="https://phyblas.hinaboshi.com/20160621">Source : </a></p>
+</blockquote>
+
+		</div>
+
+
+
+
+
+
+	 
+	<div class="chevrons">
+		<a class="next" href="/tutorials/python/tutorials/date-time/center/" title="Date &amp; Time tutorial" style="margin-right: 0px;">
+            <div>
+                <p>Next page</p>
+                <label>Date &amp; Time tutorial</label>
+            </div>
+            <i class="fas fa-arrow-right" style="font-size: 1.7em"></i></a>
+	</div>
+	
+	
+
+      </section>
+
+      
+      
+      <section class="right-menu ">
+      
+	
+
+		
+	
+			
+		
+	    	
+	  	
+	<div class="TableOfContents">
+    <label><i class="fas fa-align-right"></i>&nbsp;&nbsp;What&#39;s on this page</label>
+    <nav>
+        <ul >
+            <li><a href="/tutorials/python/tutorials/date-time/overview/">การจัดการวันเวลา</a></li>
+        </ul>
+    </nav>
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#ออบเจกตพเศษใน-datetime"><strong>ออบเจ็กต์พิเศษใน datetime</strong></a></li>
+  </ul>
+</nav>
+</div>
+
+		
+	
+			
+		
+	    	
+	    
+	<div class="Actions">
+	<nav>
+		<ul>
+				
+		    
+		    
+		    
+		    <li>
+		    	
+		        <a href="https://example.comadmin/#/collections/pages/entries/tutorials/python/tutorials/date-time/overview/_index" target="blank">
+		        <i class="fab fa-github"></i>
+		        Improve this page</a>
+		    </li>
+		    
+		    
+			
+		    
+
+    	</ul>
+	</nav>
+    
+</div>
+
+      </section>
+      
+    </article>
+    
+    
+    <footer>
+      
+
+		
+	
+			
+		
+	    	<style type="text/css">
+
+.footer-gray {
+  width: 100%;
+  color: #888;
+}
+
+.footer-custom {
+  font: normal normal 12px/1.4 sans-serif;
+  /*max-width: 1008px;*/
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+.footer-custom:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.footer-lists:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.ftr-hdr {
+  color: white;
+  font: 22px/1.4  sans-serif;
+  margin: 1em 0 0;
+}
+
+@media only screen and (min-width: 768px) {
+  .ftr-hdr {
+    font-size: 18px;
+  }
+}
+
+.footer-list-wrap {
+  width: 50%;
+  float: left;
+  box-sizing: border-box;
+}
+
+@media only screen and (min-width: 568px) {
+  .footer-list-wrap {
+    width: 33.3333%;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .footer-list-wrap {
+    width: 25%;
+  }
+}
+
+.ftr-links-sub {
+  padding: 0;
+  margin: 0;
+}
+
+.ftr-links-sub:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.ftr-links-sub li {
+  display: block;
+  list-style-type: none;
+  margin: 0;
+  padding: 3px 0;
+  color: #888;
+  font: normal normal 12px sans-serif;
+  text-transform: uppercase;
+  /*width: 150px;*/
+}
+
+.footer-custom a,
+.footer-custom a:link,
+.footer-custom a:visited,
+.ftr-links-sub li .link {
+  text-decoration: none;
+  color: #888;
+  padding: 5px 0;
+  display: block;
+}
+
+.footer-custom .footer-legal a {
+  display: inline;
+}
+
+.footer-custom a:hover,
+.footer-custom a:active,
+.ftr-links-sub li .link:hover {
+  text-decoration: underline;
+  color: #888;
+  cursor: pointer;
+}
+
+@media only screen and (min-width: 768px) {
+  .footer-custom a, .footer-custom a:link, .footer-custom a:visited, .ftr-links-sub li .link {
+    padding: 0;
+  }
+}
+/* BEGIN EMAIL CAPTURE STYLES*/
+
+.footer-email {
+  text-align: center;
+}
+
+#ftrEmailForm {
+  height: 44px;
+}
+
+#ftrEmailForm .error {
+  display: none;
+  color: red;
+  text-align: left;
+}
+
+#ftrEmailForm #ftrEmailInput {
+  background: none repeat scroll 0 0 #FFF;
+  border: 1px solid #D6D6D6;
+  box-sizing: border-box;
+  color: #888;
+  float: left;
+  font: normal normal 14px/1.4 sans-serif;
+  padding: 5px;
+  width: 70%;
+  height: 100%;
+}
+
+#ftrEmailForm #ftrEmailInput:hover {
+  border: 1px solid #888;
+}
+
+#ftrEmailForm #ftrEmailInput:focus {
+  border: 1px solid #ef9223;
+  outline: #ef9223 auto 5px;
+}
+
+#ftrEmailForm .button {
+  width: 30%;
+  height: 100%;
+  padding: 5px;
+  float: left;
+  border: 1px solid #DFDFDF;
+  box-sizing: border-box;
+  color: #000;
+  font: normal bold 18px/1 sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  background: #FFF;
+  background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJod…EiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, white), color-stop(100%, #e1e1e1));
+  background: -webkit-linear-gradient(top, white 0, #e1e1e1 100%);
+  background: -moz-linear-gradient(top, white 0, #e1e1e1 100%);
+  background: -ms-linear-gradient(top, white 0, #e1e1e1 100%);
+  background: -o-linear-gradient(top, white 0, #e1e1e1 100%);
+  background: linear-gradient(to bottom, white 0, #e1e1e1 100%);
+  cursor: pointer;
+  vertical-align: middle;
+  outline: none;
+}
+
+#ftrEmailForm .button:hover,
+#ftrEmailForm .button:active {
+  background: black;
+  color: #FFF;
+  outline: none;
+}
+/* BEGIN SOCIAL STYLES*/
+
+.footer-social {
+  text-align: center;
+}
+
+.footer-social ul {
+  padding: 0;
+  display: inline-block;
+  list-style-type: none;
+}
+
+.footer-social ul:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.footer-social li {
+  float: left;
+  margin: 0 15px 0 0;
+  padding: 0;
+}
+
+@media only screen and (min-width: 768px) {
+  .footer-lists {
+    width: 100%;
+  }
+  .footer-email {
+    width: 50%;
+    float: left;
+    text-align: left;
+  }
+  .footer-social {
+    width: 45%;
+    margin-left: 5%;
+    float: left;
+    text-align: left;
+  }
+}
+
+@media only screen and (min-width: 1008px) {
+  .footer-lists {
+    width: 66.6666%;
+    float: left;
+  }
+  .footer-email {
+    width: 33.3333%;
+  }
+  .footer-social {
+    width: 33.3333%;
+    float: right;
+    margin-left: 0;
+  }
+}
+
+.footer-legal {
+  padding: 15px 0 0;
+  clear: left;
+}
+
+.footer-payment {
+  text-align: center;
+}
+
+@media only screen and (min-width: 768px) {
+  .footer-legal {
+    width: 66.6666%;
+    float: left;
+  }
+  .footer-payment {
+    width: 33.3333%;
+    float: left;
+  }
+}
+
+@media only screen and (min-width: 1008px) {
+  .footer-payment {
+    text-align: left;
+  }
+}
+
+.footer-payment ul {
+  padding: 0;
+  display: inline-block;
+  list-style-type: none;
+}
+
+.footer-payment ul li {
+  display: inline-block;
+  margin: 0 6px;
+}
+
+@media only screen and (min-width: 1008px) {
+  .footer-payment ul li.ftr-stella {
+    margin-left: 0;
+  }
+}
+
+
+</style>
+  <div class="footer-gray">
+    <div class="footer-custom">
+      <div class="footer-lists">
+        <div class="footer-list-wrap">
+          <h6 class="ftr-hdr">Order Something</h6>
+          <ul class="ftr-links-sub">
+            <li>800-123-4567</li>
+          </ul>
+          <h6 class="ftr-hdr">International</h6>
+          <ul class="ftr-links-sub">
+            <li><a href="#" rel="nofollow">France</a></li>
+            <li><a href="#" rel="nofollow">Cape Verde</a></li>
+          </ul>
+        </div>
+        <div class="footer-list-wrap">
+          <h6 class="ftr-hdr">Customer Service</h6>
+          <ul class="ftr-links-sub">
+            <li><a href="#" rel="nofollow">Contact Us</a></li>
+            <li><a href="#" rel="nofollow">Ordering</a></li>
+            <li><a href="#" rel="nofollow">Shipping &amp; Delivery</a></li>
+            <li><a href="#" rel="nofollow">Returns</a></li>
+            <li><a href="#" rel="nofollow">Gift Cards</a></li>
+            <li><a href="#" rel="nofollow">FAQs</a></li>
+          </ul>
+        </div>
+        <div class="footer-list-wrap">
+          <h6 class="ftr-hdr">About DocPort</h6>
+          <ul class="ftr-links-sub">
+            <li><a href="#" rel="nofollow">Our Company</a></li>
+            <li><a href="#" rel="nofollow">Careers</a></li>
+            <li><a href="#" rel="nofollow">Affiliate Program</a></li>
+            <li><a href="#" rel="nofollow"><strong>Shop Our Catalog</strong></a></li>
+            <li><a href="#" rel="nofollow">DocPort BLOG</a></li>
+          </ul>
+        </div>
+        <div class="footer-list-wrap">
+          <h6 class="ftr-hdr">My Account</h6>
+          <ul class="ftr-links-sub">
+            <art:content rule="!loggedin">
+              <li class="ftr-Login"><span class="link login-trigger">Access My Account</span></li>
+              <li><span class="link">Track My Order</span></li>
+            </art:content>
+            <art:content rule="loggedin">
+              <li class="ftr-Login"><span class="link ftr-access-my-account">Access My Account</span></li>
+              <li><span class="link">Track My Order</span></li>
+            </art:content>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-email">
+        <h6 class="ftr-hdr">Sign up for exclusive offers and inspiration</h6>
+        <div id="ftr-email" class="ftr-email-form">
+          <form id="ftrEmailForm" method="post" action="#">
+            <div class="error">Please enter a valid email address</div>
+            <input type="text" name="email_address_" id="ftrEmailInput" class="input" placeholder="Enter email address"/>
+          </form>
+        </div>
+        <div class="ftr-email-privacy-policy"></div>
+      </div>
+      <div class="footer-social">
+        <h6 class="ftr-hdr">Follow Us</h6>
+        <ul>
+          <li>
+            <a href="#" title="Facebook">
+              <img width="24" height="24" alt="Like us on Facebook" src="/images/fb.png">
+            </a>
+          </li>
+          <li>
+            <a href="#" title="Google+">
+              <img width="24" height="24" alt="Follow us on Google+" src="/images/gplus.png">
+            </a>
+          </li>
+          <li>
+            <a href="#" target="_blank">
+              <img width="24" height="24" alt="Follow us on Pinterest" src="/images/pin-badge.png">
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="#">
+              <img width="24" height="24" alt="Follow us on Instagram" src="/images/instagram-badge.png">
+            </a>
+          </li>
+          <li>
+            <a href="#" title="Twitter">
+              <img width="67" alt="Follow us on Twitter" src="/images/twitter.png">
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="footer-legal">
+        <p>&copy; Docport MIT Licence. | <a href="#" rel="nofollow">Privacy Policy</a> | <a href="#" rel="nofollow">Terms of Use</a> | <a href="#" rel="nofollow">Terms of Sale</a></p>
+        <p>Docport is free Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+        <p>Various aspects of this website are ...blablabla</p>
+      </div>
+    </div>
+  </div>
+  <!--/.footer-gray-->
+	    
+	
+    </footer>
+    
+
+
+
+  </body>
+</html>

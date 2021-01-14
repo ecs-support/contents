@@ -1,0 +1,3740 @@
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+	pendulum :: DocPort Documentation
+</title>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="revised" content="2021-01-15T01:47:24 &#43;07">
+<meta name="description" content="">
+
+
+
+<title>pendulum :: DocPort Documentation</title>
+
+<link rel="shortcut icon" href='/images/favicon.png' type="image/x-icon" />
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.css">
+
+<script src='https://code.jquery.com/jquery-3.5.1.min.js'></script>
+
+<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel="stylesheet">
+
+
+
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/layout.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/css/style.main.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/css/style.menu.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/notice.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/tabs.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/panel.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/columns.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/children.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/attachments.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/alert.css'>
+<link rel="stylesheet" type="text/css" href='/css/docport.css'>
+
+<script src='/js/docport.js'></script>
+<script type="text/javascript">
+      var baseurl = "https:\/\/example.com";
+</script>
+
+
+
+
+    
+  </head>
+
+  <body data-url="/tutorials/python/tutorials/date-time/pendulum/"
+
+  class="">
+
+<style type="text/css">
+  #debug{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    line-height: 3.5rem;
+    margin-bottom: .35rem;
+    padding: 0 2rem;
+    position: fixed;
+    left: 0;      right: 0;     top: 0;
+   
+    top:0px;
+    
+    min-height: 150px;
+
+    background-color: white;
+    border: 3px solid red;
+    z-index: 10000 ;
+    word-wrap: all;
+    overflow: auto;
+  }
+</style>
+ 
+
+
+    
+    
+    <header style="">
+        <div>
+    
+    <div class="burger ">
+        <a href="javascript:void(0);" style="font-size:15px;" onclick="$('article > aside').toggleClass('responsive')">&#9776;</a>
+    </div>
+    
+
+    <div>
+
+		
+	
+			
+		
+	    	<a class='baselink' href='https://example.com'>DocPort Documentation</a>
+	  	
+	</div>
+    <nav class="shortcuts">
+            <li class="" role="">
+                <a href="https://github.com/vjeantet/hugo-theme-docport"  rel="noopener">
+                  Github
+                </a>
+            </li>
+            <li class="" role="">
+                <a href="https://github.com/vjeantet/hugo-theme-docport/archive/master.zip"  rel="noopener">
+                  Download
+                </a>
+            </li>
+            <li class="" role="">
+                <a href="https://gohugo.io/"  rel="noopener">
+                  Hugo Documentation
+                </a>
+            </li>
+            <li class="" role="">
+                <a href="/docport-theme/credits/"  rel="noopener">
+                  Credits
+                </a>
+            </li>
+    </nav>
+
+</div>
+    </header>
+    
+
+    <article>
+      
+      <aside class="">
+        
+<div class="search">
+	<div class="searchbox">
+	  <input data-search-input id="search-by" type="text" placeholder="Type to search...">
+	</div>
+	<script type="text/javascript" src="/vendor/lunr/lunr.min.js"></script>
+	<script type="text/javascript" src="/vendor/auto-complete/auto-complete.js"></script>
+	<link href="/vendor/auto-complete/auto-complete.css" rel="stylesheet">
+	<script type="text/javascript">
+	  
+	      var baseurl = "https:\/\/example.com";
+	  
+	</script>
+	<script type="text/javascript" src="/js/search.js"></script>
+</div>
+
+		
+	
+			
+		
+	    	
+	    
+	<div id="close_menu">
+  <a href="javascript:void(0);" style="font-size:15px;" onclick="$('article > aside').toggleClass('responsive')">
+      <i class="fa fa-lg fa-times"></i>
+  </a>
+</div>
+
+<ul class="menu">
+
+    <li data-nav-id="https://example.com/tutorials/" class="dd-item parent haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <i class="fas fa-chevron-down ddexp"></i>
+        
+      
+          <a href="/tutorials/">Tutorial</a>
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/">Python by MascusCode</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/0_intro/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/0_intro/">Introduction</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/3_structure/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/3_structure/">3. โครงสร้างของภาษา Python</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/4_type/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/4_type/">4. ตัวแปรและประเภทข้อมูล</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/9_function/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/9_function/">9. ฟังก์ชัน (Function)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/10_string/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/10_string/">10. String</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/11_string_methods/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/11_string_methods/">11. String methods</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/12_list/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/12_list/">12. List (ลิสต์)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/13_list_methods/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/13_list_methods/">13. List Methods (ลิสต์ เมธอด)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/15_dictionary/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/15_dictionary/">15. Dictionary</a>
+      
+        
+      
+    </li>
+              
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/20_classes/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/20_classes/">21. Classes &amp; Objects</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/21_inheritance/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/21_inheritance/">22. Inheritance</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/22_thread/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/22_thread/">23. Thread</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/24_date-time/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/24_date-time/">24. Date &amp; Time (วันที่และเวลา)</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/">Pandas</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/cookbook/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/cookbook/">Pandas Cookbook</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/short_introduction/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/short_introduction/">Short Introduction</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/short_introduction/10-minutes/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/short_introduction/10-minutes/">10 minutes to pandas</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/short_introduction/essential_snippets/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/short_introduction/essential_snippets/">19 Essential Snippets in Pandas</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/short_introduction/basic-to-beyond/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/short_introduction/basic-to-beyond/">Basics to Beyond</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/short_introduction/cheatsheet-pandas/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/short_introduction/cheatsheet-pandas/">Cheatsheet Pandas</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/tutorial-geeksforgeeks/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/tutorial-geeksforgeeks/">Tutorial (GeeksforGeeks)</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/tutorial-geeksforgeeks/selection/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/tutorial-geeksforgeeks/selection/">Selection</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/tutorial-geeksforgeeks/selection/dealing-with-rows-and-columns/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/tutorial-geeksforgeeks/selection/dealing-with-rows-and-columns/">Dealing with Rows and Columns</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/tutorial-geeksforgeeks/selection/extracting-rows-using-loc/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/tutorial-geeksforgeeks/selection/extracting-rows-using-loc/">Extracting rows using .loc[]</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/tutorial-geeksforgeeks/selection/extracting-rows-using-pandas-iloc/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/tutorial-geeksforgeeks/selection/extracting-rows-using-pandas-iloc/">Extracting rows using .iloc[]</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/" class="dd-item parent haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/">Python</a>
+      
+          <i class="fas fa-chevron-down ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/">Learn Python</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/function/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/function/">Function</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/function/function_arguments/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/function/function_arguments/">Function Arguments</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/function/lambda_functions/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/function/lambda_functions/">Anonymous/Lambda Function</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/function/global_variables/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/function/global_variables/">Global, Local and variables</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/data_type/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/data_type/">Data Type</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/data_type/list/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/data_type/list/">Python: List</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/data_type/tuble/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/data_type/tuble/">Python: Tuble</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/data_type/string/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/data_type/string/">Python: String</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/data_type/set/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/data_type/set/">Python: Set</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/data_type/dictionary/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/data_type/dictionary/">Python: Dictionary</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/">Files</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/intro/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/intro/">Page Index</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/file_operations/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/file_operations/">Python File I/O</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/directory/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/directory/">Python: Directory</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/exceptions/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/exceptions/">Python Exceptions</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/exception-handling/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/exception-handling/">Exception Handling</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/user-defined-exception/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/user-defined-exception/">Custom Exceptions</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/objects_class/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/objects_class/">Object &amp; Class</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/objects_class/oop/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/objects_class/oop/">Object Oriented Programming (OOP)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/objects_class/class/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/objects_class/class/">Objects and Classes</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/objects_class/inheritance/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/objects_class/inheritance/">Python Inheritance</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/advance_topic/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/advance_topic/">Advance Topics</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/advance_topic/iterators/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/advance_topic/iterators/">Iterators</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/advance_topic/generators/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/advance_topic/generators/">Generators</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/">Date and Time</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/datetime_module/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/datetime_module/">datetime() Module</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/strftime/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/strftime/">strftime()</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/strptime/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/strptime/">strptime()</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/current-datetime/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/current-datetime/">Get Current Date and Time</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/timestamp_datetime/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/timestamp_datetime/">Timestamp to Datetime</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/time_module/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/time_module/">Time Module</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/sleep/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/sleep/">Time Sleep()</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/">phyblas</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/">ผู้เริ่มต้น (Beginer)</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/basic_functin/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/basic_functin/">ฟังก์ชันพื้นฐาน</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/string_output/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/string_output/">การแสดงผลตัวอักษร</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/string_format/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/string_format/">การจัดการกับสายอักขระ</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/list/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/list/">การจัดการกับลิสต์ (List)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/dictionary/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/dictionary/">ดิกชันนารี (Dictionary)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/module/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/module/">การเรียกใช้มอดูล (Module)</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/">ระดับกลาง(Intermediate)</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/read_files/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/read_files/">การอ่านข้อมูลจากไฟล์</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/write_files/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/write_files/">การเขียนข้อมูลลงไฟล์</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/create_function/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/create_function/">การสร้างฟังก์ชัน</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/recursive_function/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/recursive_function/">ฟังก์ชันเวียนเกิด</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/lambda/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/lambda/">คำสั่งพิเศษที่เกี่ยวข้องกับฟังก์ชัน</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/inheritance/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/inheritance/">การรับทอด</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/advance/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/advance/">ระดับสูง(Advance)</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/w3resource/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/w3resource/">Python Tutorial (w3resource)</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/w3resource/bytes/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/w3resource/bytes/">Python: Bytes, Bytearray</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/w3resource/regular_expression/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/w3resource/regular_expression/">Python: Regular Expression</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/quick_guide/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/quick_guide/">Python: Quick Guide</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/quick_guide/a-81-python-code-snippet/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/quick_guide/a-81-python-code-snippet/">81 Python Code Snippets</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/resources/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/resources/">Resources</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/resources/quick_reference_cards/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/resources/quick_reference_cards/">Quick Reference Card</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/pythonstandardlibrary/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/pythonstandardlibrary/">Standard Library</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/pythonstandardlibrary/text/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/pythonstandardlibrary/text/">Text</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/pythonstandardlibrary/text/string/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/pythonstandardlibrary/text/string/">String</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/" class="dd-item parent haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/">Tutorials</a>
+      
+          <i class="fas fa-chevron-down ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/basic_syntax/" class="dd-item alwaysopen
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/basic_syntax/">Basic Syntax</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/date-time/" class="dd-item parent haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/date-time/">Date &amp; Time</a>
+      
+          <i class="fas fa-chevron-down ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/date-time/pendulum/" class="dd-item parent active
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/date-time/pendulum/">pendulum</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/date-time/overview/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/date-time/overview/">การจัดการวันเวลา</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/date-time/center/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/date-time/center/">Date &amp; Time tutorial</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/date-time/time-delta-striftime/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/date-time/time-delta-striftime/">TimeDelta, Strftime(Format)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/date-time/time-module/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/date-time/time-module/">Time Module</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/list/" class="dd-item alwaysopen
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/list/">List</a>
+      
+        
+      
+    </li>
+              
+<hr/>
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/dictionary/" class="dd-item alwaysopen haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/dictionary/">Dictionary&nbsp;👋</a>
+      
+          <i class="fas fa-chevron-down ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/dictionary/dict_beginner/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/dictionary/dict_beginner/">Beginners Tutorial</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/dictionary/merge-two-dictionaries/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/dictionary/merge-two-dictionaries/">Merge two Dictionaries</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/beginner/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/beginner/">Python for beginners</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+    
+
+
+
+</ul>
+
+		
+	
+			
+		
+	    	<center>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/vjeantet/hugo-theme-docport/archive/master.zip" data-icon="octicon-cloud-download" aria-label="Download vjeantet/hugo-theme-docport on GitHub">Download</a>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/vjeantet/hugo-theme-docport" data-icon="octicon-star" data-show-count="false" aria-label="Star vjeantet/hugo-theme-docport on GitHub">Star</a>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/vjeantet/hugo-theme-docport/fork" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork vjeantet/hugo-theme-docport on GitHub">Fork</a>
+</center>
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+	    
+	
+      </aside>
+      
+
+      <section class="page ">
+      
+	
+		
+    
+    
+    <nav id="ariane" aria-label="breadcrumb">
+      <ol class="ariane">
+        
+  
+  	
+		
+  
+  	
+		
+  
+  	
+		
+  
+  	
+		
+  
+  	
+	<li >
+      <a class="text-link" href="https://example.com">
+        Home
+      </a>
+    </li>
+	
+  
+    <li class="">
+      <a class="text-link" href="/tutorials/">
+        Tutorial
+      </a>
+    </li>
+	
+  	
+  
+    <li class="">
+      <a class="text-link" href="/tutorials/python/">
+        Python
+      </a>
+    </li>
+	
+  	
+  
+    <li class="">
+      <a class="text-link" href="/tutorials/python/tutorials/">
+        Tutorials
+      </a>
+    </li>
+	
+  	
+  
+    <li class="">
+      <a class="text-link" href="/tutorials/python/tutorials/date-time/">
+        Date &amp; Time
+      </a>
+    </li>
+	
+  	
+  
+    <li class="active">
+      
+        pendulum
+      
+    </li>
+
+      </ol>
+    </nav>
+    
+    
+
+    
+		
+        
+		
+		
+		
+		
+		
+		
+		
+
+		
+			<h1>pendulum</h1>
+        
+
+		
+										
+		
+
+		
+	
+
+	
+	
+	<div class="jump-to-section">
+		<span onclick="$h = $(this);$h.next('nav').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('nav').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
+  			<span class="fas fa-align-right"></span>
+  			Jump to Section
+  			<i style=";" class="fas fa-chevron-right"></i>
+		</span>
+		<nav id="TableOfContents">
+  <ul>
+    <li><a href="#rfc-3339httpspendulumeustaceiodocsrfc-3339-permanent-link">RFC 3339<a href="https://pendulum.eustace.io/docs/#rfc-3339" title="Permanent link"></a></a></li>
+    <li><a href="#iso-8601httpspendulumeustaceiodocsiso-8601-permanent-link">ISO 8601<a href="https://pendulum.eustace.io/docs/#iso-8601" title="Permanent link"></a></a>
+      <ul>
+        <li><a href="#datetimehttpspendulumeustaceiodocsdatetime-permanent-link">Datetime<a href="https://pendulum.eustace.io/docs/#datetime" title="Permanent link"></a></a></li>
+        <li><a href="#datehttpspendulumeustaceiodocsdate-permanent-link">Date<a href="https://pendulum.eustace.io/docs/#date" title="Permanent link"></a></a></li>
+        <li><a href="#ordinal-dayhttpspendulumeustaceiodocsordinal-day-permanent-link">Ordinal day<a href="https://pendulum.eustace.io/docs/#ordinal-day" title="Permanent link"></a></a></li>
+        <li><a href="#week-numberhttpspendulumeustaceiodocsweek-number-permanent-link">Week number<a href="https://pendulum.eustace.io/docs/#week-number" title="Permanent link"></a></a></li>
+        <li><a href="#timehttpspendulumeustaceiodocstime-permanent-link">Time<a href="https://pendulum.eustace.io/docs/#time" title="Permanent link"></a></a></li>
+        <li><a href="#intervalshttpspendulumeustaceiodocsintervals-permanent-link">Intervals<a href="https://pendulum.eustace.io/docs/#intervals" title="Permanent link"></a></a></li>
+      </ul>
+    </li>
+  </ul>
+
+  <ul>
+    <li><a href="#common-formatshttpspendulumeustaceiodocscommon-formats-permanent-link">Common Formats<a href="https://pendulum.eustace.io/docs/#common-formats" title="Permanent link"></a></a></li>
+    <li><a href="#formatterhttpspendulumeustaceiodocsformatter-permanent-link">Formatter<a href="https://pendulum.eustace.io/docs/#formatter" title="Permanent link"></a></a>
+      <ul>
+        <li><a href="#tokenshttpspendulumeustaceiodocstokens-permanent-link">Tokens<a href="https://pendulum.eustace.io/docs/#tokens" title="Permanent link"></a></a></li>
+        <li><a href="#localized-formatshttpspendulumeustaceiodocslocalized-formats-permanent-link">Localized Formats<a href="https://pendulum.eustace.io/docs/#localized-formats" title="Permanent link"></a></a></li>
+        <li><a href="#escaping-charactershttpspendulumeustaceiodocsescaping-characters-permanent-link">Escaping Characters<a href="https://pendulum.eustace.io/docs/#escaping-characters" title="Permanent link"></a></a></li>
+      </ul>
+    </li>
+  </ul>
+
+  <ul>
+    <li><a href="#difference-for-humanshttpspendulumeustaceiodocsdifference-for-humans-permanent-link">Difference for Humans<a href="https://pendulum.eustace.io/docs/#difference-for-humans" title="Permanent link"></a></a></li>
+  </ul>
+
+  <ul>
+    <li><a href="#normalizationhttpspendulumeustaceiodocsnormalization-permanent-link">Normalization<a href="https://pendulum.eustace.io/docs/#normalization" title="Permanent link"></a></a></li>
+    <li><a href="#shifting-time-to-transitionhttpspendulumeustaceiodocsshifting-time-to-transition-permanent-link">Shifting time to transition<a href="https://pendulum.eustace.io/docs/#shifting-time-to-transition" title="Permanent link"></a></a></li>
+    <li><a href="#switching-timezoneshttpspendulumeustaceiodocsswitching-timezones-permanent-link">Switching timezones<a href="https://pendulum.eustace.io/docs/#switching-timezones" title="Permanent link"></a></a></li>
+    <li><a href="#using-the-timezone-library-directlyhttpspendulumeustaceiodocsusing-the-timezone-library-directly-permanent-link">Using the timezone library directly<a href="https://pendulum.eustace.io/docs/#using-the-timezone-library-directly" title="Permanent link"></a></a></li>
+  </ul>
+
+  <ul>
+    <li><a href="#instantiationhttpspendulumeustaceiodocsinstantiation_1-permanent-link">Instantiation<a href="https://pendulum.eustace.io/docs/#instantiation_1" title="Permanent link"></a></a></li>
+    <li><a href="#properties-and-duration-methodshttpspendulumeustaceiodocsproperties-and-duration-methods-permanent-link">Properties and Duration Methods<a href="https://pendulum.eustace.io/docs/#properties-and-duration-methods" title="Permanent link"></a></a></li>
+  </ul>
+
+  <ul>
+    <li><a href="#instantiationhttpspendulumeustaceiodocsinstantiation_2-permanent-link">Instantiation<a href="https://pendulum.eustace.io/docs/#instantiation_2" title="Permanent link"></a></a></li>
+    <li><a href="#rangehttpspendulumeustaceiodocsrange-permanent-link">Range<a href="https://pendulum.eustace.io/docs/#range" title="Permanent link"></a></a></li>
+  </ul>
+</nav>
+	</div>
+	
+	
+
+
+
+
+
+
+	<div class="content">
+	    <p>Installing  <code>pendulum</code>  is quite simple:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#960050;background-color:#1e0010">$</span> pip install pendulum
+</code></pre></div><p>or, if you are using  <a href="https://poetry.eustace.io/">poetry</a>:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-fallback" data-lang="fallback">$ poetry add pendulum
+</code></pre></div><h1 ref="introductionhttpspendulumeustaceiodocsintroduction-permanent-link" >Introduction<a href="https://pendulum.eustace.io/docs/#introduction" title="Permanent link"></a></h1><a class="anchor" id="introductionhttpspendulumeustaceiodocsintroduction-permanent-link"></a>
+<p>Pendulum is a Python package to ease datetimes manipulation.</p>
+<p>It provides classes that are drop-in replacements for the native ones (they inherit from them).</p>
+<p>Special care has been taken to ensure timezones are handled correctly, and are based on the underlying  <code>tzinfo</code>  implementation. For example all comparisons are done in  <code>UTC</code>  or in the timezone of the datetime being used.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">import</span> pendulum
+
+ dt_toronto <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2012</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">1</span>, tz<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;America/Toronto&#39;</span>)
+ dt_vancouver <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2012</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">1</span>, tz<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;America/Vancouver&#39;</span>)
+
+ <span style="color:#66d9ef">print</span>(dt_vancouver<span style="color:#f92672">.</span>diff(dt_toronto)<span style="color:#f92672">.</span>in_hours())
+
+<span style="color:#75715e">#3</span>
+</code></pre></div><p>The default timezone, except when using the  <code>now()</code>, method will always be  <code>UTC</code>.</p>
+<h1 ref="instantiationhttpspendulumeustaceiodocsinstantiation-permanent-link" >Instantiation<a href="https://pendulum.eustace.io/docs/#instantiation" title="Permanent link"></a></h1><a class="anchor" id="instantiationhttpspendulumeustaceiodocsinstantiation-permanent-link"></a>
+<p>There are several different methods available to create a new  <code>DateTime</code>  instance.</p>
+<p>First there is the main  <code>datetime()</code>  helper.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">import</span> pendulum
+
+ dt <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2015</span>, <span style="color:#ae81ff">2</span>, <span style="color:#ae81ff">5</span>)
+ isinstance(dt, datetime)
+
+<span style="color:#75715e">#True</span>
+</code></pre></div><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> dt<span style="color:#f92672">.</span>timezone<span style="color:#f92672">.</span>name
+
+<span style="color:#75715e">#&#39;UTC&#39;</span>
+</code></pre></div><p><code>datetime()</code>  sets the time to  <code>00:00:00</code>  if it&rsquo;s not specified, and the timezone (the  <code>tz</code>  keyword argument) to  <code>UTC</code>. It otherwise can be a  <code>Timezone</code>  instance or simply a string timezone value.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">import</span> pendulum
+
+ pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2015</span>, <span style="color:#ae81ff">2</span>, <span style="color:#ae81ff">5</span>, tz<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;Europe/Paris&#39;</span>)
+ tz <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>timezone(<span style="color:#e6db74">&#39;Europe/Paris&#39;</span>)
+ pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2015</span>, <span style="color:#ae81ff">2</span>, <span style="color:#ae81ff">5</span>, tz<span style="color:#f92672">=</span>tz)
+</code></pre></div><p>Supported strings for timezones are the one provided by the  <a href="https://www.iana.org/time-zones%3E">IANA time zone database</a>.</p>
+<p>The special  <code>local</code>  string is also supported and will return your current timezone.</p>
+<p>The  <code>tz</code>  argument is keyword-only, unlike in version  <code>1.x</code></p>
+<p>The  <code>local()</code>  helper is similar to  <code>datetime()</code>  but automatically sets the timezone to the local timezone.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">import</span> pendulum
+
+ dt <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>local(<span style="color:#ae81ff">2015</span>, <span style="color:#ae81ff">2</span>, <span style="color:#ae81ff">5</span>)
+ <span style="color:#66d9ef">print</span>(dt<span style="color:#f92672">.</span>timezone<span style="color:#f92672">.</span>name)
+
+<span style="color:#75715e">#&#39;America/Toronto&#39;</span>
+</code></pre></div><p><code>local()</code>  is just an alias for  <code>datetime(..., tz='local')</code>.</p>
+<p>There is also the  <code>now()</code>  method.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">import</span> pendulum
+
+ now <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>now()
+
+ now_in_london_tz <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>now(<span style="color:#e6db74">&#39;Europe/London&#39;</span>)
+ now_in_london_tz<span style="color:#f92672">.</span>timezone_name
+
+<span style="color:#75715e">#&#39;Europe/London&#39;</span>
+</code></pre></div><p>To accompany  <code>now()</code>, a few other static instantiation helpers exist to create known instances. The only thing to really notice here is that  <code>today()</code>,  <code>tomorrow()</code>  and  <code>yesterday()</code>, besides behaving as expected, all accept a timezone parameter and each has their time value set to  <code>00:00:00</code>.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">now <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>now()
+<span style="color:#66d9ef">print</span>(now)
+
+<span style="color:#75715e">#2016-06-28T16:51:45.978473-05:00</span>
+</code></pre></div><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">today <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>today()
+<span style="color:#66d9ef">print</span>(today)
+
+<span style="color:#75715e">#&#39;2016-06-28T00:00:00-05:00&#39;</span>
+</code></pre></div><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">tomorrow <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>tomorrow(<span style="color:#e6db74">&#39;Europe/London&#39;</span>)
+<span style="color:#66d9ef">print</span>(tomorrow)
+
+<span style="color:#75715e">#&#39;2016-06-29T00:00:00+01:00&#39;</span>
+</code></pre></div><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">yesterday <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>yesterday()
+<span style="color:#66d9ef">print</span>(yesterday)
+
+<span style="color:#75715e">#&#39;2016-06-27T00:00:00-05:00&#39;</span>
+</code></pre></div><p>Pendulum enforces timezone aware datetimes, and using them is the preferred and recommended way of using the library, however is you really need a  <strong>naive</strong>  <code>DateTime</code>  object, the  <code>naive()</code>  helper is there for you.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-fallback" data-lang="fallback"> import pendulum
+
+ naive = pendulum.naive(2015, 2, 5)
+ naive.timezone
+
+#None
+</code></pre></div><p>The next helper,  <code>from_format()</code>, is similar to the native  <code>datetime.strptime()</code>  function but uses custom tokens to create a  <code>DateTime</code>  instance.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> dt <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>from_format(<span style="color:#e6db74">&#39;1975-05-21 22&#39;</span>, <span style="color:#e6db74">&#39;YYYY-MM-DD HH&#39;</span>)
+ <span style="color:#66d9ef">print</span>(dt)
+ 
+<span style="color:#75715e">#&#39;1975-05-21T22:00:00+00:00&#39;</span>
+</code></pre></div><p>To see all the available tokens, you can check the  <a href="https://pendulum.eustace.io/docs/#formatter">Formatter</a>  section.</p>
+<p>It also accepts a  <code>tz</code>  keyword argument to specify the timezone:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> dt <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>from_format(<span style="color:#e6db74">&#39;1975-05-21 22&#39;</span>, <span style="color:#e6db74">&#39;YYYY-MM-DD HH&#39;</span>, tz<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;Europe/London&#39;</span>)
+ 
+<span style="color:#75715e">#&#39;1975-05-21T22:00:00+01:00&#39;</span>
+</code></pre></div><p>The final helper is for working with unix timestamps.  <code>from_timestamp()</code>  will create a  <code>DateTime</code>  instance equal to the given timestamp and will set the timezone as well or default it to  <code>UTC</code>.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> dt <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>from_timestamp(<span style="color:#f92672">-</span><span style="color:#ae81ff">1</span>)
+ <span style="color:#66d9ef">print</span>(dt)
+ 
+<span style="color:#75715e">#&#39;1969-12-31T23:59:59+00:00&#39;</span>
+</code></pre></div><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> dt  <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>from_timestamp(<span style="color:#f92672">-</span><span style="color:#ae81ff">1</span>, tz<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;Europe/London&#39;</span>)
+ <span style="color:#66d9ef">print</span>(dt)
+ 
+<span style="color:#75715e">#&#39;1970-01-01T00:59:59+01:00&#39;</span>
+</code></pre></div><p>Finally, if you find yourself inheriting a  <code>DateTime</code>  instance, you can create a  <code>DateTime</code>  instance via the  <code>instance()</code>  function.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> dt <span style="color:#f92672">=</span> datetime(<span style="color:#ae81ff">2008</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">1</span>)
+ p <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>instance(dt)
+ <span style="color:#66d9ef">print</span>(p)
+ 
+<span style="color:#75715e">#&#39;2008-01-01T00:00:00+00:00&#39;</span>
+</code></pre></div><h1 ref="parsinghttpspendulumeustaceiodocsparsing-permanent-link" >Parsing<a href="https://pendulum.eustace.io/docs/#parsing" title="Permanent link"></a></h1><a class="anchor" id="parsinghttpspendulumeustaceiodocsparsing-permanent-link"></a>
+<p>The library natively supports the RFC 3339 format, most ISO 8601 formats and some other common formats.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">import</span> pendulum
+
+ dt <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>parse(<span style="color:#e6db74">&#39;1975-05-21T22:00:00&#39;</span>)
+ <span style="color:#66d9ef">print</span>(dt)
+ 
+<span style="color:#75715e">#&#39;1975-05-21T22:00:00+00:00</span>
+
+<span style="color:#75715e"># You can pass a tz keyword to specify the timezone</span>
+ dt <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>parse(<span style="color:#e6db74">&#39;1975-05-21T22:00:00&#39;</span>, tz<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;Europe/Paris&#39;</span>)
+ <span style="color:#66d9ef">print</span>(dt)
+<span style="color:#75715e">#&#39;1975-05-21T22:00:00+01:00&#39;</span>
+
+<span style="color:#75715e"># Not ISO 8601 compliant but common</span>
+ dt <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>parse(<span style="color:#e6db74">&#39;1975-05-21 22:00:00&#39;</span>)
+</code></pre></div><p>If you pass a non-standard or more complicated string, it will raise an exception so it is advised to use the  <code>from_format()</code>  helper instead.</p>
+<p>However, if you want the library to fallback on the  <a href="https://dateutil.readthedocs.io/">dateutil</a>  parser, you have to pass  <code>strict=False</code>.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">import</span> pendulum
+
+ dt <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>parse(<span style="color:#e6db74">&#39;31-01-01&#39;</span>)
+Traceback (most recent call last):
+<span style="color:#f92672">...</span>
+<span style="color:#75715e">#ParserError: Unable to parse string [31-01-01]</span>
+</code></pre></div><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> dt <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>parse(<span style="color:#e6db74">&#39;31-01-01&#39;</span>, strict<span style="color:#f92672">=</span>False)
+ <span style="color:#66d9ef">print</span>(dt)
+ 
+<span style="color:#75715e">#&#39;2031-01-01T00:00:00+00:00&#39;</span>
+</code></pre></div><h2 ref="rfc-3339httpspendulumeustaceiodocsrfc-3339-permanent-link" >RFC 3339<a href="https://pendulum.eustace.io/docs/#rfc-3339" title="Permanent link"></a></h2><a class="anchor" id="rfc-3339httpspendulumeustaceiodocsrfc-3339-permanent-link"></a>
+<p>STRING</p>
+<p>OUTPUT</p>
+<p>1996-12-19T16:39:57-08:00</p>
+<p>1996-12-19T16:39:57-08:00</p>
+<p>1990-12-31T23:59:59Z</p>
+<p>1990-12-31T23:59:59+00:00</p>
+<h2 ref="iso-8601httpspendulumeustaceiodocsiso-8601-permanent-link" >ISO 8601<a href="https://pendulum.eustace.io/docs/#iso-8601" title="Permanent link"></a></h2><a class="anchor" id="iso-8601httpspendulumeustaceiodocsiso-8601-permanent-link"></a>
+<h3 ref="datetimehttpspendulumeustaceiodocsdatetime-permanent-link" >Datetime<a href="https://pendulum.eustace.io/docs/#datetime" title="Permanent link"></a></h3><a class="anchor" id="datetimehttpspendulumeustaceiodocsdatetime-permanent-link"></a>
+<p>STRING</p>
+<p>OUTPUT</p>
+<p>20161001T143028+0530</p>
+<p>2016-10-01T14:30:28+05:30</p>
+<p>20161001T14</p>
+<p>2016-10-01T14:00:00+00:00</p>
+<h3 ref="datehttpspendulumeustaceiodocsdate-permanent-link" >Date<a href="https://pendulum.eustace.io/docs/#date" title="Permanent link"></a></h3><a class="anchor" id="datehttpspendulumeustaceiodocsdate-permanent-link"></a>
+<p>STRING</p>
+<p>OUTPUT</p>
+<p>2012</p>
+<p>2012-01-01T00:00:00+00:00</p>
+<p>2012-05-03</p>
+<p>2012-05-03T00:00:00+00:00</p>
+<p>20120503</p>
+<p>2012-05-03T00:00:00+00:00</p>
+<p>2012-05</p>
+<p>2012-05-01T00:00:00+00:00</p>
+<h3 ref="ordinal-dayhttpspendulumeustaceiodocsordinal-day-permanent-link" >Ordinal day<a href="https://pendulum.eustace.io/docs/#ordinal-day" title="Permanent link"></a></h3><a class="anchor" id="ordinal-dayhttpspendulumeustaceiodocsordinal-day-permanent-link"></a>
+<p>STRING</p>
+<p>OUTPUT</p>
+<p>2012-007</p>
+<p>2012-01-07T00:00:00+00:00</p>
+<p>2012007</p>
+<p>2012-01-07T00:00:00+00:00</p>
+<h3 ref="week-numberhttpspendulumeustaceiodocsweek-number-permanent-link" >Week number<a href="https://pendulum.eustace.io/docs/#week-number" title="Permanent link"></a></h3><a class="anchor" id="week-numberhttpspendulumeustaceiodocsweek-number-permanent-link"></a>
+<p>STRING</p>
+<p>OUTPUT</p>
+<p>2012-W05</p>
+<p>2012-01-30T00:00:00+00:00</p>
+<p>2012W05</p>
+<p>2012-01-30T00:00:00+00:00</p>
+<p>2012-W05-5</p>
+<p>2012-02-03T00:00:00+00:00</p>
+<p>2012W055</p>
+<p>2012-02-03T00:00:00+00:00</p>
+<h3 ref="timehttpspendulumeustaceiodocstime-permanent-link" >Time<a href="https://pendulum.eustace.io/docs/#time" title="Permanent link"></a></h3><a class="anchor" id="timehttpspendulumeustaceiodocstime-permanent-link"></a>
+<p>When passing only time information the date will default to today.</p>
+<p>STRING</p>
+<p>OUTPUT</p>
+<p>00:00</p>
+<p>2016-12-17T00:00:00+00:00</p>
+<p>12:04:23</p>
+<p>2016-12-17T12:04:23+00:00</p>
+<p>120423</p>
+<p>2016-12-17T12:04:23+00:00</p>
+<p>12:04:23.45</p>
+<p>2016-12-17T12:04:23.450000+00:00</p>
+<h3 ref="intervalshttpspendulumeustaceiodocsintervals-permanent-link" >Intervals<a href="https://pendulum.eustace.io/docs/#intervals" title="Permanent link"></a></h3><a class="anchor" id="intervalshttpspendulumeustaceiodocsintervals-permanent-link"></a>
+<p>STRING</p>
+<p>OUTPUT</p>
+<p>2007-03-01T13:00:00Z/2008-05-11T15:30:00Z</p>
+<p>2007-03-01T13:00:00+00:00 -&gt; 2008-05-11T15:30:00+00:00</p>
+<p>2008-05-11T15:30:00Z/P1Y2M10DT2H30M</p>
+<p>2008-05-11T15:30:00+00:00 -&gt; 2009-07-21T18:00:00+00:00</p>
+<p>P1Y2M10DT2H30M/2008-05-11T15:30:00Z</p>
+<p>2007-03-01T13:00:00+00:00 -&gt; 2008-05-11T15:30:00+00:00</p>
+<p>You can pass the  <code>exact</code>  keyword argument to  <code>parse()</code>  to get the exact type that the string represents:</p>
+<p>import pendulum</p>
+<p>pendulum.parse(&lsquo;2012-05-03&rsquo;, exact=True)
+Date(2012, 05, 03)</p>
+<p>pendulum.parse(&lsquo;12:04:23&rsquo;, exact=True)
+Time(12, 04, 23)</p>
+<h1 ref="localizationhttpspendulumeustaceiodocslocalization-permanent-link" >Localization<a href="https://pendulum.eustace.io/docs/#localization" title="Permanent link"></a></h1><a class="anchor" id="localizationhttpspendulumeustaceiodocslocalization-permanent-link"></a>
+<p>Localization occurs when using the  <code>format()</code>  method which accepts a  <code>locale</code>  keyword.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">import</span> pendulum
+
+ dt <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">1975</span>, <span style="color:#ae81ff">5</span>, <span style="color:#ae81ff">21</span>)
+ dt<span style="color:#f92672">.</span>format(<span style="color:#e6db74">&#39;dddd DD MMMM YYYY&#39;</span>, locale<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;de&#39;</span>)
+
+<span style="color:#75715e">#&#39;Mittwoch 21 Mai 1975&#39;</span>
+
+ dt<span style="color:#f92672">.</span>format(<span style="color:#e6db74">&#39;dddd DD MMMM YYYY&#39;</span>)
+
+<span style="color:#75715e">#&#39;Wednesday 21 May 1975&#39;</span>
+</code></pre></div><p><code>diff_for_humans()</code>  is also localized, you can set the locale by using  <code>pendulum.set_locale()</code>.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">import</span> pendulum
+
+ pendulum<span style="color:#f92672">.</span>set_locale(<span style="color:#e6db74">&#39;de&#39;</span>)
+ pendulum<span style="color:#f92672">.</span>now()<span style="color:#f92672">.</span>add(years<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>)<span style="color:#f92672">.</span>diff_for_humans()
+<span style="color:#75715e">#&#39;in 1 Jahr&#39;</span>
+ pendulum<span style="color:#f92672">.</span>set_locale(<span style="color:#e6db74">&#39;en&#39;</span>)
+</code></pre></div><p>However, you might not want to set the locale globally. The  <code>diff_for_humans()</code>  method accept a  <code>locale</code>  keyword argument to use a locale for a specific call.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> pendulum<span style="color:#f92672">.</span>set_locale(<span style="color:#e6db74">&#39;de&#39;</span>)
+ dt <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>now()<span style="color:#f92672">.</span>add(years<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>)
+ dt<span style="color:#f92672">.</span>diff_for_humans(locale<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;fr&#39;</span>)
+<span style="color:#75715e">#&#39;dans 1 an&#39;</span>
+</code></pre></div><h1 ref="attributes-and-propertieshttpspendulumeustaceiodocsattributes-and-properties-permanent-link" >Attributes and Properties<a href="https://pendulum.eustace.io/docs/#attributes-and-properties" title="Permanent link"></a></h1><a class="anchor" id="attributes-and-propertieshttpspendulumeustaceiodocsattributes-and-properties-permanent-link"></a>
+<p>Pendulum gives access to more attributes and properties than the default  <code>datetime</code>  class.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">import</span> pendulum
+
+ dt <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>parse(<span style="color:#e6db74">&#39;2012-09-05T23:26:11.123789&#39;</span>)
+
+<span style="color:#75715e"># These properties specifically return integers</span>
+<span style="color:#e6db74">``</span><span style="color:#960050;background-color:#1e0010">`</span>py
+ dt<span style="color:#f92672">.</span>year
+<span style="color:#ae81ff">2012</span>
+ dt<span style="color:#f92672">.</span>month
+<span style="color:#ae81ff">9</span>
+ dt<span style="color:#f92672">.</span>day
+<span style="color:#ae81ff">5</span>
+ dt<span style="color:#f92672">.</span>hour
+<span style="color:#ae81ff">23</span>
+ dt<span style="color:#f92672">.</span>minute
+<span style="color:#ae81ff">26</span>
+ dt<span style="color:#f92672">.</span>second
+<span style="color:#ae81ff">11</span>
+ dt<span style="color:#f92672">.</span>microsecond
+<span style="color:#ae81ff">123789</span>
+ dt<span style="color:#f92672">.</span>day_of_week
+<span style="color:#ae81ff">3</span>
+ dt<span style="color:#f92672">.</span>day_of_year
+<span style="color:#ae81ff">248</span>
+ dt<span style="color:#f92672">.</span>week_of_month
+<span style="color:#ae81ff">1</span>
+ dt<span style="color:#f92672">.</span>week_of_year
+<span style="color:#ae81ff">36</span>
+ dt<span style="color:#f92672">.</span>days_in_month
+<span style="color:#ae81ff">30</span>
+ dt<span style="color:#f92672">.</span>timestamp()
+<span style="color:#ae81ff">1346887571.123789</span>
+ dt<span style="color:#f92672">.</span>float_timestamp
+<span style="color:#ae81ff">1346887571.123789</span>
+ dt<span style="color:#f92672">.</span>int_timestamp
+<span style="color:#ae81ff">1346887571</span>
+
+ pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">1975</span>, <span style="color:#ae81ff">5</span>, <span style="color:#ae81ff">21</span>)<span style="color:#f92672">.</span>age
+<span style="color:#ae81ff">41</span>  <span style="color:#75715e"># calculated vs now in the same tz</span>
+ dt<span style="color:#f92672">.</span>quarter
+<span style="color:#ae81ff">3</span>
+
+<span style="color:#75715e"># Returns an int of seconds difference from UTC (+/- sign included)</span>
+ pendulum<span style="color:#f92672">.</span>from_timestamp(<span style="color:#ae81ff">0</span>)<span style="color:#f92672">.</span>offset
+<span style="color:#ae81ff">0</span>
+ pendulum<span style="color:#f92672">.</span>from_timestamp(<span style="color:#ae81ff">0</span>, <span style="color:#e6db74">&#39;America/Toronto&#39;</span>)<span style="color:#f92672">.</span>offset
+<span style="color:#f92672">-</span><span style="color:#ae81ff">18000</span>
+
+<span style="color:#75715e"># Returns a float of hours difference from UTC (+/- sign included)</span>
+ pendulum<span style="color:#f92672">.</span>from_timestamp(<span style="color:#ae81ff">0</span>, <span style="color:#e6db74">&#39;America/Toronto&#39;</span>)<span style="color:#f92672">.</span>offset_hours
+<span style="color:#f92672">-</span><span style="color:#ae81ff">5.0</span>
+ pendulum<span style="color:#f92672">.</span>from_timestamp(<span style="color:#ae81ff">0</span>, <span style="color:#e6db74">&#39;Australia/Adelaide&#39;</span>)<span style="color:#f92672">.</span>offset_hours
+<span style="color:#ae81ff">9.5</span>
+
+<span style="color:#75715e"># Gets the timezone instance</span>
+ pendulum<span style="color:#f92672">.</span>now()<span style="color:#f92672">.</span>timezone
+ pendulum<span style="color:#f92672">.</span>now()<span style="color:#f92672">.</span>tz
+
+<span style="color:#75715e"># Gets the timezone name</span>
+ pendulum<span style="color:#f92672">.</span>now()<span style="color:#f92672">.</span>timezone_name
+
+<span style="color:#75715e"># Indicates if daylight savings time is on</span>
+ dt <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2012</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">1</span>, tz<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;America/Toronto&#39;</span>)
+ dt<span style="color:#f92672">.</span>is_dst()
+False
+ dt <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2012</span>, <span style="color:#ae81ff">9</span>, <span style="color:#ae81ff">1</span>, tz<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;America/Toronto&#39;</span>)
+ dt<span style="color:#f92672">.</span>is_dst()
+True
+
+<span style="color:#75715e"># Indicates if the instance is in the same timezone as the local timezone</span>
+ pendulum<span style="color:#f92672">.</span>now()<span style="color:#f92672">.</span>is_local()
+True
+ pendulum<span style="color:#f92672">.</span>now(<span style="color:#e6db74">&#39;Europe/London&#39;</span>)<span style="color:#f92672">.</span>is_local()
+False
+
+<span style="color:#75715e"># Indicates if the instance is in the UTC timezone</span>
+ pendulum<span style="color:#f92672">.</span>now()<span style="color:#f92672">.</span>is_utc()
+False
+ pendulum<span style="color:#f92672">.</span>now(<span style="color:#e6db74">&#39;Europe/London&#39;</span>)<span style="color:#f92672">.</span>is_local()
+False
+ pendulum<span style="color:#f92672">.</span>now(<span style="color:#e6db74">&#39;UTC&#39;</span>)<span style="color:#f92672">.</span>is_utc()
+True
+</code></pre></div><h1 ref="fluent-helpershttpspendulumeustaceiodocsfluent-helpers-permanent-link" >Fluent helpers<a href="https://pendulum.eustace.io/docs/#fluent-helpers" title="Permanent link"></a></h1><a class="anchor" id="fluent-helpershttpspendulumeustaceiodocsfluent-helpers-permanent-link"></a>
+<p>Pendulum provides helpers that returns a new instance with some attributes modified compared to the original instance. However, none of these helpers, with the exception of explicitely setting the timezone, will change the timezone of the instance. Specifically, setting the timestamp will not set the corresponding timezone to UTC.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">import</span> pendulum
+
+ dt <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>now()
+
+ dt<span style="color:#f92672">.</span>set(year<span style="color:#f92672">=</span><span style="color:#ae81ff">1975</span>, month<span style="color:#f92672">=</span><span style="color:#ae81ff">5</span>, day<span style="color:#f92672">=</span><span style="color:#ae81ff">21</span>)<span style="color:#f92672">.</span>to_datetime_string()
+<span style="color:#e6db74">&#39;1975-05-21 13:45:18&#39;</span>
+
+ dt<span style="color:#f92672">.</span>set(hour<span style="color:#f92672">=</span><span style="color:#ae81ff">22</span>, minute<span style="color:#f92672">=</span><span style="color:#ae81ff">32</span>, second<span style="color:#f92672">=</span><span style="color:#ae81ff">5</span>)<span style="color:#f92672">.</span>to_datetime_string()
+<span style="color:#e6db74">&#39;2016-11-16 22:32:05&#39;</span>
+
+You can also use the  <span style="color:#e6db74">`on()`</span>  <span style="color:#f92672">and</span>  <span style="color:#e6db74">`at()`</span>  methods to change the date <span style="color:#f92672">and</span> the time respectively
+
+ dt<span style="color:#f92672">.</span>on(<span style="color:#ae81ff">1975</span>, <span style="color:#ae81ff">5</span>, <span style="color:#ae81ff">21</span>)<span style="color:#f92672">.</span>at(<span style="color:#ae81ff">22</span>, <span style="color:#ae81ff">32</span>, <span style="color:#ae81ff">5</span>)<span style="color:#f92672">.</span>to_datetime_string()
+<span style="color:#e6db74">&#39;1975-05-21 22:32:05&#39;</span>
+
+ dt<span style="color:#f92672">.</span>at(<span style="color:#ae81ff">10</span>)<span style="color:#f92672">.</span>to_datetime_string()
+<span style="color:#e6db74">&#39;2016-11-16 10:00:00&#39;</span>
+
+ dt<span style="color:#f92672">.</span>at(<span style="color:#ae81ff">10</span>, <span style="color:#ae81ff">30</span>)<span style="color:#f92672">.</span>to_datetime_string()
+<span style="color:#e6db74">&#39;2016-11-16 10:30:00&#39;</span>
+</code></pre></div><p>You can also modify the timezone.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> dt<span style="color:#f92672">.</span>set(tz<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;Europe/London&#39;</span>)
+</code></pre></div><p>Setting the timezone just modify the timezone information without making any conversion while  <code>in_timezone()</code>  (or  <code>in_tz()</code>) converts the time in the appropriate timezone.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">import</span> pendulum
+
+ dt <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2013</span>, <span style="color:#ae81ff">3</span>, <span style="color:#ae81ff">31</span>, <span style="color:#ae81ff">2</span>, <span style="color:#ae81ff">30</span>)
+ <span style="color:#66d9ef">print</span>(dt)
+<span style="color:#e6db74">&#39;2013-03-31T02:30:00+00:00&#39;</span>
+
+ dt <span style="color:#f92672">=</span> dt<span style="color:#f92672">.</span>set(tz<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;Europe/Paris&#39;</span>)
+ <span style="color:#66d9ef">print</span>(dt)
+<span style="color:#e6db74">&#39;2013-03-31T03:30:00+02:00&#39;</span>
+
+ dt <span style="color:#f92672">=</span> dt<span style="color:#f92672">.</span>in_tz(<span style="color:#e6db74">&#39;Europe/Paris&#39;</span>)
+ <span style="color:#66d9ef">print</span>(dt)
+<span style="color:#e6db74">&#39;2013-03-31T04:30:00+02:00&#39;</span>
+
+ dt <span style="color:#f92672">=</span> dt<span style="color:#f92672">.</span>set(tz<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;Europe/Paris&#39;</span>)<span style="color:#f92672">.</span>set(tz<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;UTC&#39;</span>)
+ <span style="color:#66d9ef">print</span>(dt)
+<span style="color:#e6db74">&#39;2013-03-31T03:30:00+00:00&#39;</span>
+
+ dt <span style="color:#f92672">=</span> dt<span style="color:#f92672">.</span>in_tz(<span style="color:#e6db74">&#39;Europe/Paris&#39;</span>)<span style="color:#f92672">.</span>in_tz(<span style="color:#e6db74">&#39;UTC&#39;</span>)
+ <span style="color:#66d9ef">print</span>(dt)
+<span style="color:#e6db74">&#39;2013-03-31T02:30:00+00:00&#39;</span>
+</code></pre></div><h1 ref="string-formattinghttpspendulumeustaceiodocsstring-formatting-permanent-link" >String formatting<a href="https://pendulum.eustace.io/docs/#string-formatting" title="Permanent link"></a></h1><a class="anchor" id="string-formattinghttpspendulumeustaceiodocsstring-formatting-permanent-link"></a>
+<p>The  <code>__str__</code>  magic method is defined which allows  <code>DateTime</code>  instances to be printed as a pretty date string when used in a string context.</p>
+<p>The default string representation is the same as the one returned by the  <code>isoformat()</code>  method.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">import</span> pendulum
+
+ dt <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">1975</span>, <span style="color:#ae81ff">12</span>, <span style="color:#ae81ff">25</span>, <span style="color:#ae81ff">14</span>, <span style="color:#ae81ff">15</span>, <span style="color:#ae81ff">16</span>)
+ <span style="color:#66d9ef">print</span>(dt)
+<span style="color:#e6db74">&#39;1975-12-25T14:15:16+00:00&#39;</span>
+
+ dt<span style="color:#f92672">.</span>to_date_string()
+<span style="color:#e6db74">&#39;1975-12-25&#39;</span>
+
+ dt<span style="color:#f92672">.</span>to_formatted_date_string()
+<span style="color:#e6db74">&#39;Dec 25, 1975&#39;</span>
+
+ dt<span style="color:#f92672">.</span>to_time_string()
+<span style="color:#e6db74">&#39;14:15:16&#39;</span>
+
+ dt<span style="color:#f92672">.</span>to_datetime_string()
+<span style="color:#e6db74">&#39;1975-12-25 14:15:16&#39;</span>
+
+ dt<span style="color:#f92672">.</span>to_day_datetime_string()
+<span style="color:#e6db74">&#39;Thu, Dec 25, 1975 2:15 PM&#39;</span>
+
+<span style="color:#75715e"># You can also use the format() method</span>
+ dt<span style="color:#f92672">.</span>format(<span style="color:#e6db74">&#39;dddd Do [of] MMMM YYYY HH:mm:ss A&#39;</span>)
+<span style="color:#e6db74">&#39;Thursday 25th of December 1975 02:15:16 PM&#39;</span>
+
+<span style="color:#75715e"># Of course, the strftime method is still available</span>
+ dt<span style="color:#f92672">.</span>strftime(<span style="color:#e6db74">&#39;%A </span><span style="color:#e6db74">%-d</span><span style="color:#e6db74">%t of %B %Y %I:%M:%S %p&#39;</span>)
+<span style="color:#e6db74">&#39;Thursday 25th of December 1975 02:15:16 PM&#39;</span>
+</code></pre></div><p>For localization support see the  <a href="https://pendulum.eustace.io/docs/#localization">Localization</a>  section.</p>
+<h2 ref="common-formatshttpspendulumeustaceiodocscommon-formats-permanent-link" >Common Formats<a href="https://pendulum.eustace.io/docs/#common-formats" title="Permanent link"></a></h2><a class="anchor" id="common-formatshttpspendulumeustaceiodocscommon-formats-permanent-link"></a>
+<p>The following are methods to display a  <code>DateTime</code>  instance as a common format:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">import</span> pendulum
+
+ dt <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>now()
+
+ dt<span style="color:#f92672">.</span>to_atom_string()
+<span style="color:#e6db74">&#39;1975-12-25T14:15:16-05:00&#39;</span>
+
+ dt<span style="color:#f92672">.</span>to_cookie_string()
+<span style="color:#e6db74">&#39;Thursday, 25-Dec-1975 14:15:16 EST&#39;</span>
+
+ dt<span style="color:#f92672">.</span>to_iso8601_string()
+<span style="color:#e6db74">&#39;1975-12-25T14:15:16-0500&#39;</span>
+
+ dt<span style="color:#f92672">.</span>to_rfc822_string()
+<span style="color:#e6db74">&#39;Thu, 25 Dec 75 14:15:16 -0500&#39;</span>
+
+ dt<span style="color:#f92672">.</span>to_rfc850_string()
+<span style="color:#e6db74">&#39;Thursday, 25-Dec-75 14:15:16 EST&#39;</span>
+
+ dt<span style="color:#f92672">.</span>to_rfc1036_string()
+<span style="color:#e6db74">&#39;Thu, 25 Dec 75 14:15:16 -0500&#39;</span>
+
+ dt<span style="color:#f92672">.</span>to_rfc1123_string()
+<span style="color:#e6db74">&#39;Thu, 25 Dec 1975 14:15:16 -0500&#39;</span>
+
+ dt<span style="color:#f92672">.</span>to_rfc2822_string()
+<span style="color:#e6db74">&#39;Thu, 25 Dec 1975 14:15:16 -0500&#39;</span>
+
+ dt<span style="color:#f92672">.</span>to_rfc3339_string()
+<span style="color:#e6db74">&#39;1975-12-25T14:15:16-05:00&#39;</span>
+
+ dt<span style="color:#f92672">.</span>to_rss_string()
+<span style="color:#e6db74">&#39;Thu, 25 Dec 1975 14:15:16 -0500&#39;</span>
+
+ dt<span style="color:#f92672">.</span>to_w3c_string()
+<span style="color:#e6db74">&#39;1975-12-25T14:15:16-05:00&#39;</span>
+</code></pre></div><h2 ref="formatterhttpspendulumeustaceiodocsformatter-permanent-link" >Formatter<a href="https://pendulum.eustace.io/docs/#formatter" title="Permanent link"></a></h2><a class="anchor" id="formatterhttpspendulumeustaceiodocsformatter-permanent-link"></a>
+<p>Pendulum uses its own formatter when using the  <code>format()</code>  method.</p>
+<p>This format is more intuitive to use than the one used with  <code>strftime()</code>  and supports more directives.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">import</span> pendulum
+
+ dt <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">1975</span>, <span style="color:#ae81ff">12</span>, <span style="color:#ae81ff">25</span>, <span style="color:#ae81ff">14</span>, <span style="color:#ae81ff">15</span>, <span style="color:#ae81ff">16</span>)
+ dt<span style="color:#f92672">.</span>format(<span style="color:#e6db74">&#39;YYYY-MM-DD HH:mm:ss&#39;</span>)
+<span style="color:#e6db74">&#39;1975-12-25 14:15:16&#39;</span>
+</code></pre></div><h3 ref="tokenshttpspendulumeustaceiodocstokens-permanent-link" >Tokens<a href="https://pendulum.eustace.io/docs/#tokens" title="Permanent link"></a></h3><a class="anchor" id="tokenshttpspendulumeustaceiodocstokens-permanent-link"></a>
+<p>The following tokens are currently supported:</p>
+<p>TOKEN</p>
+<p>OUTPUT</p>
+<p><strong>YEAR</strong></p>
+<p>YYYY</p>
+<p>2000, 2001, 2002 &hellip; 2012, 2013</p>
+<p>YY</p>
+<p>00, 01, 02 &hellip; 12, 13</p>
+<p><strong>QUARTER</strong></p>
+<p>Q</p>
+<p>1 2 3 4</p>
+<p>Qo</p>
+<p>1st 2nd 3rd 4th</p>
+<p><strong>MONTH</strong></p>
+<p>MMMM</p>
+<p>January, February, March &hellip;</p>
+<p>MMM</p>
+<p>Jan, Feb, Mar &hellip;</p>
+<p>MM</p>
+<p>01, 02, 03 &hellip; 11, 12</p>
+<p>M</p>
+<p>1, 2, 3 &hellip; 11, 12</p>
+<p>Mo</p>
+<p>1st 2nd &hellip; 11th 12th</p>
+<p><strong>DAY OF YEAR</strong></p>
+<p>DDDD</p>
+<p>001, 002, 003 &hellip; 364, 365</p>
+<p>DDD</p>
+<p>1, 2, 3 &hellip; 4, 5</p>
+<p><strong>DAY OF MONTH</strong></p>
+<p>DD</p>
+<p>01, 02, 03 &hellip; 30, 31</p>
+<p>D</p>
+<p>1, 2, 3 &hellip; 30, 31</p>
+<p>Do</p>
+<p>1st, 2nd, 3rd &hellip; 30th, 31st</p>
+<p><strong>DAY OF WEEK</strong></p>
+<p>dddd</p>
+<p>Monday, Tuesday, Wednesday &hellip;</p>
+<p>ddd</p>
+<p>Mon, Tue, Wed &hellip;</p>
+<p>dd</p>
+<p>Mo, Tu, We &hellip;</p>
+<p>d</p>
+<p>0, 1, 2 &hellip; 6</p>
+<p><strong>DAYS OF ISO WEEK</strong></p>
+<p>E</p>
+<p>1, 2, 3 &hellip; 7</p>
+<p><strong>HOUR</strong></p>
+<p>HH</p>
+<p>00, 01, 02 &hellip; 23, 24</p>
+<p>H</p>
+<p>0, 1, 2 &hellip; 23, 24</p>
+<p>hh</p>
+<p>01, 02, 03 &hellip; 11, 12</p>
+<p>h</p>
+<p>1, 2, 3 &hellip; 11, 12</p>
+<p><strong>MINUTE</strong></p>
+<p>mm</p>
+<p>00, 01, 02 &hellip; 58, 59</p>
+<p>m</p>
+<p>0, 1, 2 &hellip; 58, 59</p>
+<p><strong>SECOND</strong></p>
+<p>ss</p>
+<p>00, 01, 02 &hellip; 58, 59</p>
+<p>s</p>
+<p>0, 1, 2 &hellip; 58, 59</p>
+<p><strong>FRACTIONAL SECOND</strong></p>
+<p>S</p>
+<p>0 1 &hellip; 8 9</p>
+<p>SS</p>
+<p>00, 01, 02 &hellip; 98, 99</p>
+<p>SSS</p>
+<p>000 001 &hellip; 998 999</p>
+<p>SSSS &hellip;</p>
+<p>000[0..] 001[0..] &hellip; 998[0..] 999[0..]</p>
+<p>SSSSSS</p>
+<p><strong>AM / PM</strong></p>
+<p>A</p>
+<p>AM, PM</p>
+<p><strong>TIMEZONE</strong></p>
+<p>Z</p>
+<p>-07:00, -06:00 &hellip; +06:00, +07:00</p>
+<p>ZZ</p>
+<p>-0700, -0600 &hellip; +0600, +0700</p>
+<p>z</p>
+<p>Asia/Baku, Europe/Warsaw, GMT &hellip;</p>
+<p>zz</p>
+<p>EST CST &hellip; MST PST</p>
+<p><strong>SECONDS TIMESTAMP</strong></p>
+<p>X</p>
+<p>1381685817, 1234567890.123</p>
+<p><strong>MICROSECONDS TIMESTAMP</strong></p>
+<p>x</p>
+<p>1234567890123</p>
+<h3 ref="localized-formatshttpspendulumeustaceiodocslocalized-formats-permanent-link" >Localized Formats<a href="https://pendulum.eustace.io/docs/#localized-formats" title="Permanent link"></a></h3><a class="anchor" id="localized-formatshttpspendulumeustaceiodocslocalized-formats-permanent-link"></a>
+<p>Because preferred formatting differs based on locale, there are a few tokens that can be used to format an instance based on its locale.</p>
+<p><strong>TIME</strong></p>
+<p>LT</p>
+<p>8:30 PM</p>
+<p><strong>TIME WITH SECONDS</strong></p>
+<p>LTS</p>
+<p>8:30:25 PM</p>
+<p><strong>MONTH NUMERAL, DAY OF MONTH, YEAR</strong></p>
+<p>L</p>
+<p>09/04/1986</p>
+<p><strong>MONTH NAME, DAY OF MONTH, YEAR</strong></p>
+<p>LL</p>
+<p>September 4 1986</p>
+<p><strong>MONTH NAME, DAY OF MONTH, YEAR, TIME</strong></p>
+<p>LLL</p>
+<p>September 4 1986 8:30 PM</p>
+<p><strong>MONTH NAME, DAY OF MONTH, DAY OF WEEK, YEAR, TIME</strong></p>
+<p>LLLL</p>
+<p>Thursday, September 4 1986 8:30 PM</p>
+<h3 ref="escaping-charactershttpspendulumeustaceiodocsescaping-characters-permanent-link" >Escaping Characters<a href="https://pendulum.eustace.io/docs/#escaping-characters" title="Permanent link"></a></h3><a class="anchor" id="escaping-charactershttpspendulumeustaceiodocsescaping-characters-permanent-link"></a>
+<p>To escape characters in format strings, you can wrap the characters in square brackets.</p>
+<p>import pendulum</p>
+<p>dt = pendulum.now()
+dt.format('[today] dddd&rsquo;, formatter='alternative&rsquo;)
+&lsquo;today Sunday&rsquo;</p>
+<h1 ref="comparisonhttpspendulumeustaceiodocscomparison-permanent-link" >Comparison<a href="https://pendulum.eustace.io/docs/#comparison" title="Permanent link"></a></h1><a class="anchor" id="comparisonhttpspendulumeustaceiodocscomparison-permanent-link"></a>
+<p>Simple comparison is offered up via the basic operators. Remember that the comparison is done in the UTC timezone so things aren&rsquo;t always as they seem.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">import</span> pendulum
+
+ first <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2012</span>, <span style="color:#ae81ff">9</span>, <span style="color:#ae81ff">5</span>, <span style="color:#ae81ff">23</span>, <span style="color:#ae81ff">26</span>, <span style="color:#ae81ff">11</span>, <span style="color:#ae81ff">0</span>, tz<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;America/Toronto&#39;</span>)
+ second <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2012</span>, <span style="color:#ae81ff">9</span>, <span style="color:#ae81ff">5</span>, <span style="color:#ae81ff">20</span>, <span style="color:#ae81ff">26</span>, <span style="color:#ae81ff">11</span>, <span style="color:#ae81ff">0</span>, tz<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;America/Vancouver&#39;</span>)
+
+ first<span style="color:#f92672">.</span>to_datetime_string()
+<span style="color:#e6db74">&#39;2012-09-05 23:26:11&#39;</span>
+ first<span style="color:#f92672">.</span>timezone_name
+<span style="color:#e6db74">&#39;America/Toronto&#39;</span>
+ second<span style="color:#f92672">.</span>to_datetime_string()
+<span style="color:#e6db74">&#39;2012-09-05 20:26:11&#39;</span>
+ second<span style="color:#f92672">.</span>timezone_name
+<span style="color:#e6db74">&#39;America/Vancouver&#39;</span>
+
+ first <span style="color:#f92672">==</span> second
+True
+ first <span style="color:#f92672">!=</span> second
+False
+ first <span style="color:#f92672">&gt;</span> second
+False
+ first <span style="color:#f92672">&gt;=</span> second
+True
+ first <span style="color:#f92672">&lt;</span> second
+False
+ first <span style="color:#f92672">&lt;=</span> second
+True
+
+ first <span style="color:#f92672">=</span> first<span style="color:#f92672">.</span>on(<span style="color:#ae81ff">2012</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">1</span>)<span style="color:#f92672">.</span>at(<span style="color:#ae81ff">0</span>, <span style="color:#ae81ff">0</span>, <span style="color:#ae81ff">0</span>)
+ second <span style="color:#f92672">=</span> second<span style="color:#f92672">.</span>on(<span style="color:#ae81ff">2012</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">1</span>)<span style="color:#f92672">.</span>at(<span style="color:#ae81ff">0</span>, <span style="color:#ae81ff">0</span>, <span style="color:#ae81ff">0</span>)
+<span style="color:#75715e"># tz is still America/Vancouver for second</span>
+
+ first <span style="color:#f92672">==</span> second
+False
+ first <span style="color:#f92672">!=</span> second
+True
+ first <span style="color:#f92672">&gt;</span> second
+False
+ first <span style="color:#f92672">&gt;=</span> second
+False
+ first <span style="color:#f92672">&lt;</span> second
+True
+ first <span style="color:#f92672">&lt;=</span> second
+True
+</code></pre></div><p>To handle the most used cases there are some simple helper functions. For the methods that compare to  <code>now()</code>  (ex.  <code>is_today()</code>) in some manner the  <code>now()</code>  is created in the same timezone as the instance.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">import</span> pendulum
+
+ dt <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>now()
+
+ dt<span style="color:#f92672">.</span>is_past()
+ dt<span style="color:#f92672">.</span>is_leap_year()
+
+ born <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">1987</span>, <span style="color:#ae81ff">4</span>, <span style="color:#ae81ff">23</span>)
+ not_birthday <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2014</span>, <span style="color:#ae81ff">9</span>, <span style="color:#ae81ff">26</span>)
+ birthday <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2014</span>, <span style="color:#ae81ff">2</span>, <span style="color:#ae81ff">23</span>)
+ past_birthday <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>now()<span style="color:#f92672">.</span>subtract(years<span style="color:#f92672">=</span><span style="color:#ae81ff">50</span>)
+
+ born<span style="color:#f92672">.</span>is_birthday(not_birthday)
+False
+ born<span style="color:#f92672">.</span>is_birthday(birthday)
+True
+ past_birthday<span style="color:#f92672">.</span>is_birthday()
+<span style="color:#75715e"># Compares to now by default</span>
+True
+
+<span style="color:#75715e"># Addition and Subtraction[](https://pendulum.eustace.io/docs/#addition-and-subtraction &#34;Permanent link&#34;)</span>
+</code></pre></div><p>To easily adding and subtracting time, you can use the  <code>add()</code>  and  <code>subtract()</code>  methods. Each method returns a new  <code>DateTime</code>  instance.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">import</span> pendulum
+
+ dt <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2012</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">31</span>)
+
+ dt<span style="color:#f92672">.</span>to_datetime_string()
+<span style="color:#e6db74">&#39;2012-01-31 00:00:00&#39;</span>
+
+ dt <span style="color:#f92672">=</span> dt<span style="color:#f92672">.</span>add(years<span style="color:#f92672">=</span><span style="color:#ae81ff">5</span>)
+<span style="color:#e6db74">&#39;2017-01-31 00:00:00&#39;</span>
+ dt <span style="color:#f92672">=</span> dt<span style="color:#f92672">.</span>add(years<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>)
+<span style="color:#e6db74">&#39;2018-01-31 00:00:00&#39;</span>
+ dt <span style="color:#f92672">=</span> dt<span style="color:#f92672">.</span>subtract(years<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>)
+<span style="color:#e6db74">&#39;2017-01-31 00:00:00&#39;</span>
+ dt <span style="color:#f92672">=</span> dt<span style="color:#f92672">.</span>subtract(years<span style="color:#f92672">=</span><span style="color:#ae81ff">5</span>)
+<span style="color:#e6db74">&#39;2012-01-31 00:00:00&#39;</span>
+
+ dt <span style="color:#f92672">=</span> dt<span style="color:#f92672">.</span>add(months<span style="color:#f92672">=</span><span style="color:#ae81ff">60</span>)
+<span style="color:#e6db74">&#39;2017-01-31 00:00:00&#39;</span>
+ dt <span style="color:#f92672">=</span> dt<span style="color:#f92672">.</span>add(months<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>)
+<span style="color:#e6db74">&#39;2017-02-28 00:00:00&#39;</span>
+ dt <span style="color:#f92672">=</span> dt<span style="color:#f92672">.</span>subtract(months<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>)
+<span style="color:#e6db74">&#39;2017-01-28 00:00:00&#39;</span>
+ dt <span style="color:#f92672">=</span> dt<span style="color:#f92672">.</span>subtract(months<span style="color:#f92672">=</span><span style="color:#ae81ff">60</span>)
+<span style="color:#e6db74">&#39;2012-01-28 00:00:00&#39;</span>
+
+ dt <span style="color:#f92672">=</span> dt<span style="color:#f92672">.</span>add(days<span style="color:#f92672">=</span><span style="color:#ae81ff">29</span>)
+<span style="color:#e6db74">&#39;2012-02-26 00:00:00&#39;</span>
+ dt <span style="color:#f92672">=</span> dt<span style="color:#f92672">.</span>add(days<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>)
+<span style="color:#e6db74">&#39;2012-02-27 00:00:00&#39;</span>
+ dt <span style="color:#f92672">=</span> dt<span style="color:#f92672">.</span>subtract(days<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>)
+<span style="color:#e6db74">&#39;2012-02-26 00:00:00&#39;</span>
+ dt <span style="color:#f92672">=</span> dt<span style="color:#f92672">.</span>subtract(days<span style="color:#f92672">=</span><span style="color:#ae81ff">29</span>)
+<span style="color:#e6db74">&#39;2012-01-28 00:00:00&#39;</span>
+
+ dt <span style="color:#f92672">=</span> dt<span style="color:#f92672">.</span>add(weeks<span style="color:#f92672">=</span><span style="color:#ae81ff">3</span>)
+<span style="color:#e6db74">&#39;2012-02-18 00:00:00&#39;</span>
+ dt <span style="color:#f92672">=</span> dt<span style="color:#f92672">.</span>add(weeks<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>)
+<span style="color:#e6db74">&#39;2012-02-25 00:00:00&#39;</span>
+ dt <span style="color:#f92672">=</span> dt<span style="color:#f92672">.</span>subtract(weeks<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>)
+<span style="color:#e6db74">&#39;2012-02-18 00:00:00&#39;</span>
+ dt <span style="color:#f92672">=</span> dt<span style="color:#f92672">.</span>subtract(weeks<span style="color:#f92672">=</span><span style="color:#ae81ff">3</span>)
+<span style="color:#e6db74">&#39;2012-01-28 00:00:00&#39;</span>
+
+ dt <span style="color:#f92672">=</span> dt<span style="color:#f92672">.</span>add(hours<span style="color:#f92672">=</span><span style="color:#ae81ff">24</span>)
+<span style="color:#e6db74">&#39;2012-01-29 00:00:00&#39;</span>
+ dt <span style="color:#f92672">=</span> dt<span style="color:#f92672">.</span>add(hours<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>)
+<span style="color:#e6db74">&#39;2012-02-25 01:00:00&#39;</span>
+ dt <span style="color:#f92672">=</span> dt<span style="color:#f92672">.</span>subtract(hours<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>)
+<span style="color:#e6db74">&#39;2012-02-29 00:00:00&#39;</span>
+ dt <span style="color:#f92672">=</span> dt<span style="color:#f92672">.</span>subtract(hours<span style="color:#f92672">=</span><span style="color:#ae81ff">24</span>)
+<span style="color:#e6db74">&#39;2012-01-28 00:00:00&#39;</span>
+
+ dt <span style="color:#f92672">=</span> dt<span style="color:#f92672">.</span>add(minutes<span style="color:#f92672">=</span><span style="color:#ae81ff">61</span>)
+<span style="color:#e6db74">&#39;2012-01-28 01:01:00&#39;</span>
+ dt <span style="color:#f92672">=</span> dt<span style="color:#f92672">.</span>add(minutes<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>)
+<span style="color:#e6db74">&#39;2012-01-28 01:02:00&#39;</span>
+ dt <span style="color:#f92672">=</span> dt<span style="color:#f92672">.</span>subtract(minutes<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>)
+<span style="color:#e6db74">&#39;2012-01-28 01:01:00&#39;</span>
+ dt <span style="color:#f92672">=</span> dt<span style="color:#f92672">.</span>subtract(minutes<span style="color:#f92672">=</span><span style="color:#ae81ff">24</span>)
+<span style="color:#e6db74">&#39;2012-01-28 00:00:00&#39;</span>
+
+ dt <span style="color:#f92672">=</span> dt<span style="color:#f92672">.</span>add(seconds<span style="color:#f92672">=</span><span style="color:#ae81ff">61</span>)
+<span style="color:#e6db74">&#39;2012-01-28 00:01:01&#39;</span>
+ dt <span style="color:#f92672">=</span> dt<span style="color:#f92672">.</span>add(seconds<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>)
+<span style="color:#e6db74">&#39;2012-01-28 00:01:02&#39;</span>
+ dt <span style="color:#f92672">=</span> dt<span style="color:#f92672">.</span>subtract(seconds<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>)
+<span style="color:#e6db74">&#39;2012-01-28 00:01:01&#39;</span>
+ dt <span style="color:#f92672">=</span> dt<span style="color:#f92672">.</span>subtract(seconds<span style="color:#f92672">=</span><span style="color:#ae81ff">61</span>)
+<span style="color:#e6db74">&#39;2012-01-28 00:00:00&#39;</span>
+
+ dt <span style="color:#f92672">=</span> dt<span style="color:#f92672">.</span>add(years<span style="color:#f92672">=</span><span style="color:#ae81ff">3</span>, months<span style="color:#f92672">=</span><span style="color:#ae81ff">2</span>, days<span style="color:#f92672">=</span><span style="color:#ae81ff">6</span>, hours<span style="color:#f92672">=</span><span style="color:#ae81ff">12</span>, minutes<span style="color:#f92672">=</span><span style="color:#ae81ff">31</span>, seconds<span style="color:#f92672">=</span><span style="color:#ae81ff">43</span>)
+<span style="color:#e6db74">&#39;2015-04-03 12:31:43&#39;</span>
+ dt <span style="color:#f92672">=</span> dt<span style="color:#f92672">.</span>subtract(years<span style="color:#f92672">=</span><span style="color:#ae81ff">3</span>, months<span style="color:#f92672">=</span><span style="color:#ae81ff">2</span>, days<span style="color:#f92672">=</span><span style="color:#ae81ff">6</span>, hours<span style="color:#f92672">=</span><span style="color:#ae81ff">12</span>, minutes<span style="color:#f92672">=</span><span style="color:#ae81ff">31</span>, seconds<span style="color:#f92672">=</span><span style="color:#ae81ff">43</span>)
+<span style="color:#e6db74">&#39;2012-01-28 00:00:00&#39;</span>
+
+<span style="color:#75715e"># You can also add or remove a timedelta</span>
+ dt<span style="color:#f92672">.</span>add_timedelta(timedelta(hours<span style="color:#f92672">=</span><span style="color:#ae81ff">3</span>, minutes<span style="color:#f92672">=</span><span style="color:#ae81ff">4</span>, seconds<span style="color:#f92672">=</span><span style="color:#ae81ff">5</span>))
+<span style="color:#e6db74">&#39;2012-01-28 03:04:05&#39;</span>
+ dt<span style="color:#f92672">.</span>sub_timedelta(timedelta(hours<span style="color:#f92672">=</span><span style="color:#ae81ff">3</span>, minutes<span style="color:#f92672">=</span><span style="color:#ae81ff">4</span>, seconds<span style="color:#f92672">=</span><span style="color:#ae81ff">5</span>))
+<span style="color:#e6db74">&#39;2012-01-28 00:00:00&#39;</span>
+</code></pre></div><p>Passing negative values to  <code>add()</code>  is also possible and will act exactly like  <code>subtract()</code></p>
+<h1 ref="differencehttpspendulumeustaceiodocsdifference-permanent-link" >Difference<a href="https://pendulum.eustace.io/docs/#difference" title="Permanent link"></a></h1><a class="anchor" id="differencehttpspendulumeustaceiodocsdifference-permanent-link"></a>
+<p>The  <code>diff()</code>  method returns a  <a href="https://pendulum.eustace.io/docs/#period">Period</a>  instance that represents the total duration between two  <code>DateTime</code>  instances. This interval can be then expressed in various units. These interval methods always return  <em>the total difference expressed</em>  in the specified time requested. All values are truncated and not rounded.</p>
+<p>The  <code>diff()</code>  method has a default first parameter which is the  <code>DateTime</code>  instance to compare to, or  <code>None</code>  if you want to use  <code>now()</code>. The 2nd parameter is optional and indicates if you want the return value to be the absolute value or a relative value that might have a  <code>-</code>  (negative) sign if the passed in date is less than the current instance. This will default to  <code>True</code>, return the absolute value.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">import</span> pendulum
+
+ dt_ottawa <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2000</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">1</span>, tz<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;America/Toronto&#39;</span>)
+ dt_vancouver <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2000</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">1</span>, tz<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;America/Vancouver&#39;</span>)
+
+ dt_ottawa<span style="color:#f92672">.</span>diff(dt_vancouver)<span style="color:#f92672">.</span>in_hours()
+<span style="color:#ae81ff">3</span>
+ dt_ottawa<span style="color:#f92672">.</span>diff(dt_vancouver, False)<span style="color:#f92672">.</span>in_hours()
+<span style="color:#ae81ff">3</span>
+ dt_vancouver<span style="color:#f92672">.</span>diff(dt_ottawa, False)<span style="color:#f92672">.</span>in_hours()
+<span style="color:#f92672">-</span><span style="color:#ae81ff">3</span>
+
+ dt <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2012</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">31</span>, <span style="color:#ae81ff">0</span>)
+ dt<span style="color:#f92672">.</span>diff(dt<span style="color:#f92672">.</span>add(months<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>))<span style="color:#f92672">.</span>in_days()
+<span style="color:#ae81ff">29</span>
+ dt<span style="color:#f92672">.</span>diff(dt<span style="color:#f92672">.</span>subtract(months<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>), False)<span style="color:#f92672">.</span>in_days()
+<span style="color:#f92672">-</span><span style="color:#ae81ff">31</span>
+
+ dt <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2012</span>, <span style="color:#ae81ff">4</span>, <span style="color:#ae81ff">30</span>, <span style="color:#ae81ff">0</span>)
+ dt<span style="color:#f92672">.</span>diff(dt<span style="color:#f92672">.</span>add(months<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>))<span style="color:#f92672">.</span>in_days()
+<span style="color:#ae81ff">30</span>
+ dt<span style="color:#f92672">.</span>diff(dt<span style="color:#f92672">.</span>add(weeks<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>))<span style="color:#f92672">.</span>in_days()
+<span style="color:#ae81ff">7</span>
+
+ dt <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2012</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">0</span>)
+ dt<span style="color:#f92672">.</span>diff(dt<span style="color:#f92672">.</span>add(seconds<span style="color:#f92672">=</span><span style="color:#ae81ff">59</span>))<span style="color:#f92672">.</span>in_minutes()
+<span style="color:#ae81ff">0</span>
+ dt<span style="color:#f92672">.</span>diff(dt<span style="color:#f92672">.</span>add(seconds<span style="color:#f92672">=</span><span style="color:#ae81ff">60</span>))<span style="color:#f92672">.</span>in_minutes()
+<span style="color:#ae81ff">1</span>
+ dt<span style="color:#f92672">.</span>diff(dt<span style="color:#f92672">.</span>add(seconds<span style="color:#f92672">=</span><span style="color:#ae81ff">119</span>))<span style="color:#f92672">.</span>in_minutes()
+<span style="color:#ae81ff">1</span>
+ dt<span style="color:#f92672">.</span>diff(dt<span style="color:#f92672">.</span>add(seconds<span style="color:#f92672">=</span><span style="color:#ae81ff">120</span>))<span style="color:#f92672">.</span>in_minutes()
+<span style="color:#ae81ff">2</span>
+</code></pre></div><h2 ref="difference-for-humanshttpspendulumeustaceiodocsdifference-for-humans-permanent-link" >Difference for Humans<a href="https://pendulum.eustace.io/docs/#difference-for-humans" title="Permanent link"></a></h2><a class="anchor" id="difference-for-humanshttpspendulumeustaceiodocsdifference-for-humans-permanent-link"></a>
+<p>The  <code>diff_for_humans()</code>  method will add a phrase after the difference value relative to the instance and the passed in instance. There are 4 possibilities:</p>
+<ul>
+<li>
+<p>When comparing a value in the past to default now:</p>
+<ul>
+<li>1 hour ago</li>
+<li>5 months ago</li>
+</ul>
+</li>
+<li>
+<p>When comparing a value in the future to default now:</p>
+<ul>
+<li>1 hour from now</li>
+<li>5 months from now</li>
+</ul>
+</li>
+<li>
+<p>When comparing a value in the past to another value:</p>
+<ul>
+<li>1 hour before</li>
+<li>5 months before</li>
+</ul>
+</li>
+<li>
+<p>When comparing a value in the future to another value:</p>
+<ul>
+<li>1 hour after</li>
+<li>5 months after</li>
+</ul>
+</li>
+</ul>
+<p>You may also pass  <code>True</code>  as a 2nd parameter to remove the modifiers  <code>ago</code>,  <code>from now</code>, etc.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">import</span> pendulum
+
+<span style="color:#75715e"># The most typical usage is for comments</span>
+<span style="color:#75715e"># The instance is the date the comment was created</span>
+<span style="color:#75715e"># and its being compared to default now()</span>
+ pendulum<span style="color:#f92672">.</span>now()<span style="color:#f92672">.</span>subtract(days<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>)<span style="color:#f92672">.</span>diff_for_humans()
+<span style="color:#e6db74">&#39;5 days ago&#39;</span>
+
+ pendulum<span style="color:#f92672">.</span>now()<span style="color:#f92672">.</span>diff_for_humans(pendulum<span style="color:#f92672">.</span>now()<span style="color:#f92672">.</span>subtract(years<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>))
+<span style="color:#e6db74">&#39;1 year after&#39;</span>
+
+ dt <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2011</span>, <span style="color:#ae81ff">8</span>, <span style="color:#ae81ff">1</span>)
+ dt<span style="color:#f92672">.</span>diff_for_humans(dt<span style="color:#f92672">.</span>add(months<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>))
+<span style="color:#e6db74">&#39;1 month before&#39;</span>
+ dt<span style="color:#f92672">.</span>diff_for_humans(dt<span style="color:#f92672">.</span>subtract(months<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>))
+<span style="color:#e6db74">&#39;1 month after&#39;</span>
+
+ pendulum<span style="color:#f92672">.</span>now()<span style="color:#f92672">.</span>add(seconds<span style="color:#f92672">=</span><span style="color:#ae81ff">5</span>)<span style="color:#f92672">.</span>diff_for_humans()
+<span style="color:#e6db74">&#39;5 seconds from now&#39;</span>
+
+ pendulum<span style="color:#f92672">.</span>now()<span style="color:#f92672">.</span>subtract(days<span style="color:#f92672">=</span><span style="color:#ae81ff">24</span>)<span style="color:#f92672">.</span>diff_for_humans()
+<span style="color:#e6db74">&#39;3 weeks ago&#39;</span>
+
+ pendulum<span style="color:#f92672">.</span>now()<span style="color:#f92672">.</span>subtract(days<span style="color:#f92672">=</span><span style="color:#ae81ff">24</span>)<span style="color:#f92672">.</span>diff_for_humans(absolute<span style="color:#f92672">=</span>True)
+<span style="color:#e6db74">&#39;3 weeks&#39;</span>
+</code></pre></div><p>You can also change the locale of the string either globally by using  <code>pendulum.set_locale('fr')</code>  before the  <code>diff_for_humans()</code>  call or specifically for the call by passing the  <code>locale</code>  keyword argument. See the  <a href="https://pendulum.eustace.io/docs/#localization">Localization</a>  section for more detail.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">import</span> pendulum
+
+ pendulum<span style="color:#f92672">.</span>set_locale(<span style="color:#e6db74">&#39;de&#39;</span>)
+ pendulum<span style="color:#f92672">.</span>now()<span style="color:#f92672">.</span>add(years<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>)<span style="color:#f92672">.</span>diff_for_humans()
+<span style="color:#e6db74">&#39;in 1 Jahr&#39;</span>
+ pendulum<span style="color:#f92672">.</span>now()<span style="color:#f92672">.</span>add(years<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>)<span style="color:#f92672">.</span>diff_for_humans(locale<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;fr&#39;</span>)
+<span style="color:#e6db74">&#39;dans 1 an&#39;</span>
+</code></pre></div><h1 ref="modifiershttpspendulumeustaceiodocsmodifiers-permanent-link" >Modifiers<a href="https://pendulum.eustace.io/docs/#modifiers" title="Permanent link"></a></h1><a class="anchor" id="modifiershttpspendulumeustaceiodocsmodifiers-permanent-link"></a>
+<p>These group of methods perform helpful modifications to a copy of the current instance. You&rsquo;ll notice that the  <code>start_of()</code>,  <code>next()</code>  and  <code>previous()</code>  methods set the time to  <code>00:00:00</code>  and the  <code>end_of()</code>  methods set the time to  <code>23:59:59.999999</code>.</p>
+<p>The only one slightly different is the  <code>average()</code>  method. It returns the middle date between itself and the provided  <code>DateTime</code>  argument.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">import</span> pendulum
+
+ dt <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2012</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">31</span>, <span style="color:#ae81ff">12</span>, <span style="color:#ae81ff">0</span>, <span style="color:#ae81ff">0</span>)
+
+ dt<span style="color:#f92672">.</span>start_of(<span style="color:#e6db74">&#39;day&#39;</span>)
+<span style="color:#e6db74">&#39;2012-01-31 00:00:00&#39;</span>
+
+ dt<span style="color:#f92672">.</span>end_of(<span style="color:#e6db74">&#39;day&#39;</span>)
+<span style="color:#e6db74">&#39;2012-01-31 23:59:59&#39;</span>
+
+ dt<span style="color:#f92672">.</span>start_of(<span style="color:#e6db74">&#39;month&#39;</span>)
+<span style="color:#e6db74">&#39;2012-01-01 00:00:00&#39;</span>
+
+ dt<span style="color:#f92672">.</span>end_of(<span style="color:#e6db74">&#39;month&#39;</span>)
+<span style="color:#e6db74">&#39;2012-01-31 23:59:59&#39;</span>
+
+ dt<span style="color:#f92672">.</span>start_of(<span style="color:#e6db74">&#39;year&#39;</span>)
+<span style="color:#e6db74">&#39;2012-01-01 00:00:00&#39;</span>
+
+ dt<span style="color:#f92672">.</span>end_of(<span style="color:#e6db74">&#39;year&#39;</span>)
+<span style="color:#e6db74">&#39;2012-01-31 23:59:59&#39;</span>
+
+ dt<span style="color:#f92672">.</span>start_of(<span style="color:#e6db74">&#39;decade&#39;</span>)
+<span style="color:#e6db74">&#39;2010-01-01 00:00:00&#39;</span>
+
+ dt<span style="color:#f92672">.</span>end_of(<span style="color:#e6db74">&#39;decade&#39;</span>)
+<span style="color:#e6db74">&#39;2019-01-31 23:59:59&#39;</span>
+
+ dt<span style="color:#f92672">.</span>start_of(<span style="color:#e6db74">&#39;century&#39;</span>)
+<span style="color:#e6db74">&#39;2000-01-01 00:00:00&#39;</span>
+
+ dt<span style="color:#f92672">.</span>end_of(<span style="color:#e6db74">&#39;century&#39;</span>)
+<span style="color:#e6db74">&#39;2099-12-31 23:59:59&#39;</span>
+
+ dt<span style="color:#f92672">.</span>start_of(<span style="color:#e6db74">&#39;week&#39;</span>)
+<span style="color:#e6db74">&#39;2012-01-30 00:00:00&#39;</span>
+ dt<span style="color:#f92672">.</span>day_of_week <span style="color:#f92672">==</span> pendulum<span style="color:#f92672">.</span>MONDAY
+True <span style="color:#75715e"># ISO8601 week starts on Monday</span>
+
+ dt<span style="color:#f92672">.</span>end_of(<span style="color:#e6db74">&#39;week&#39;</span>)
+<span style="color:#e6db74">&#39;2012-02-05 23:59:59&#39;</span>
+ dt<span style="color:#f92672">.</span>day_of_week <span style="color:#f92672">==</span> pendulum<span style="color:#f92672">.</span>SUNDAY
+True <span style="color:#75715e"># ISO8601 week ends on SUNDAY</span>
+
+ dt<span style="color:#f92672">.</span>next(pendulum<span style="color:#f92672">.</span>WEDNESDAY)
+<span style="color:#e6db74">&#39;2012-02-01 00:00:00&#39;</span>
+ dt<span style="color:#f92672">.</span>day_of_week <span style="color:#f92672">==</span> pendulum<span style="color:#f92672">.</span>WEDNESDAY
+True
+
+ dt <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2012</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">12</span>, <span style="color:#ae81ff">0</span>, <span style="color:#ae81ff">0</span>)
+dt<span style="color:#f92672">.</span>next()
+<span style="color:#e6db74">&#39;2012-01-08 00:00:00&#39;</span>
+ dt<span style="color:#f92672">.</span>next(keep_time<span style="color:#f92672">=</span>True)
+<span style="color:#e6db74">&#39;2012-01-08T12:00:00+00:00&#39;</span>
+
+ dt <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2012</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">31</span>, <span style="color:#ae81ff">12</span>, <span style="color:#ae81ff">0</span>, <span style="color:#ae81ff">0</span>)
+ dt<span style="color:#f92672">.</span>previous(pendulum<span style="color:#f92672">.</span>WEDNESDAY)
+<span style="color:#e6db74">&#39;2012-01-25 00:00:00&#39;</span>
+ dt<span style="color:#f92672">.</span>day_of_week <span style="color:#f92672">==</span> pendulum<span style="color:#f92672">.</span>WEDNESDAY
+True
+
+ dt <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2012</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">12</span>, <span style="color:#ae81ff">0</span>, <span style="color:#ae81ff">0</span>)
+ dt<span style="color:#f92672">.</span>previous()
+<span style="color:#e6db74">&#39;2011-12-25 00:00:00&#39;</span>
+ dt<span style="color:#f92672">.</span>previous(keep_time<span style="color:#f92672">=</span>True)
+<span style="color:#e6db74">&#39;2011-12-25 12:00:00&#39;</span>
+
+ start <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2014</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">1</span>)
+ end <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2014</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">30</span>)
+ start<span style="color:#f92672">.</span>average(end)
+<span style="color:#e6db74">&#39;2014-01-15 12:00:00&#39;</span>
+
+<span style="color:#75715e"># others that are defined that are similar</span>
+<span style="color:#75715e"># and tha accept month, quarter and year units</span>
+<span style="color:#75715e"># first_of(), last_of(), nth_of()</span>
+</code></pre></div><h1 ref="timezoneshttpspendulumeustaceiodocstimezones-permanent-link" >Timezones<a href="https://pendulum.eustace.io/docs/#timezones" title="Permanent link"></a></h1><a class="anchor" id="timezoneshttpspendulumeustaceiodocstimezones-permanent-link"></a>
+<p>Timezones are an important part of every datetime library and  <code>pendulum</code>  tries to provide an easy and accurate system to handle them properly.</p>
+<p>The timezone system works best inside the  <code>pendulum</code>  ecosystem but can also be used with the standard  <code>datetime</code>  library with a few limitations. See  <a href="https://pendulum.eustace.io/docs/#using-the-timezone-library-directly">Using the timezone library directly</a>.</p>
+<h2 ref="normalizationhttpspendulumeustaceiodocsnormalization-permanent-link" >Normalization<a href="https://pendulum.eustace.io/docs/#normalization" title="Permanent link"></a></h2><a class="anchor" id="normalizationhttpspendulumeustaceiodocsnormalization-permanent-link"></a>
+<p>When you create a  <code>DateTime</code>  instance, the library will normalize it for the given timezone to properly handle any transition that might have occurred.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">import</span> pendulum
+
+ pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2013</span>, <span style="color:#ae81ff">3</span>, <span style="color:#ae81ff">31</span>, <span style="color:#ae81ff">2</span>, <span style="color:#ae81ff">30</span>, tz<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;Europe/Paris&#39;</span>)
+<span style="color:#75715e"># 2:30 for the 31th of March 2013 does not exist</span>
+<span style="color:#75715e"># so pendulum will return the actual time which is 3:30+02:00</span>
+<span style="color:#e6db74">&#39;2013-03-31T03:30:00+02:00&#39;</span>
+
+ pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2013</span>, <span style="color:#ae81ff">10</span>, <span style="color:#ae81ff">27</span>, <span style="color:#ae81ff">2</span>, <span style="color:#ae81ff">30</span>, tz<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;Europe/Paris&#39;</span>)
+<span style="color:#75715e"># Here, 2:30 exists twice in the day so pendulum will</span>
+<span style="color:#75715e"># assume that the transition already occurred</span>
+<span style="color:#e6db74">&#39;2013-10-27T02:30:00+01:00&#39;</span>
+</code></pre></div><p>You can, however, control the normalization behavior:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">import</span> pendulum
+
+ pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2013</span>, <span style="color:#ae81ff">3</span>, <span style="color:#ae81ff">31</span>, <span style="color:#ae81ff">2</span>, <span style="color:#ae81ff">30</span>, <span style="color:#ae81ff">0</span>, <span style="color:#ae81ff">0</span>, tz<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;Europe/Paris&#39;</span>,
+                      dst_rule<span style="color:#f92672">=</span>pendulum<span style="color:#f92672">.</span>PRE_TRANSITION)
+<span style="color:#e6db74">&#39;2013-03-31T01:30:00+01:00&#39;</span>
+ pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2013</span>, <span style="color:#ae81ff">10</span>, <span style="color:#ae81ff">27</span>, <span style="color:#ae81ff">2</span>, <span style="color:#ae81ff">30</span>, <span style="color:#ae81ff">0</span>, <span style="color:#ae81ff">0</span>, tz<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;Europe/Paris&#39;</span>,
+                      dst_rule<span style="color:#f92672">=</span>pendulum<span style="color:#f92672">.</span>PRE_TRANSITION)
+<span style="color:#e6db74">&#39;2013-10-27T02:30:00+02:00&#39;</span>
+
+ pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2013</span>, <span style="color:#ae81ff">3</span>, <span style="color:#ae81ff">31</span>, <span style="color:#ae81ff">2</span>, <span style="color:#ae81ff">30</span>, <span style="color:#ae81ff">0</span>, <span style="color:#ae81ff">0</span>, tz<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;Europe/Paris&#39;</span>,
+                      dst_rule<span style="color:#f92672">=</span>pendulum<span style="color:#f92672">.</span>TRANSITION_ERROR)
+<span style="color:#75715e"># NonExistingTime: The datetime 2013-03-31 02:30:00 does not exist</span>
+ pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2013</span>, <span style="color:#ae81ff">10</span>, <span style="color:#ae81ff">27</span>, <span style="color:#ae81ff">2</span>, <span style="color:#ae81ff">30</span>, <span style="color:#ae81ff">0</span>, <span style="color:#ae81ff">0</span>, tz<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;Europe/Paris&#39;</span>,
+                      dst_rule<span style="color:#f92672">=</span>pendulum<span style="color:#f92672">.</span>TRANSITION_ERROR)
+<span style="color:#75715e"># AmbiguousTime: The datetime 2013-10-27 02:30:00 is ambiguous.</span>
+</code></pre></div><p>Note that it only affects instances at creation time. Shifting time around transition times still behaves the same.</p>
+<h2 ref="shifting-time-to-transitionhttpspendulumeustaceiodocsshifting-time-to-transition-permanent-link" >Shifting time to transition<a href="https://pendulum.eustace.io/docs/#shifting-time-to-transition" title="Permanent link"></a></h2><a class="anchor" id="shifting-time-to-transitionhttpspendulumeustaceiodocsshifting-time-to-transition-permanent-link"></a>
+<p>So, what happens when you add time to a  <code>DateTime</code>  instance and stumble upon a transition time? Well  <code>pendulum</code>, provided with the context of the previous instance, will adopt the proper behavior and apply the transition accordingly.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">import</span> pendulum
+
+ dt <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2013</span>, <span style="color:#ae81ff">3</span>, <span style="color:#ae81ff">31</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">59</span>, <span style="color:#ae81ff">59</span>, <span style="color:#ae81ff">999999</span>,
+                           tz<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;Europe/Paris&#39;</span>)
+<span style="color:#e6db74">&#39;2013-03-31T01:59:59.999999+01:00&#39;</span>
+ dt <span style="color:#f92672">=</span> dt<span style="color:#f92672">.</span>add(microseconds<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>)
+<span style="color:#e6db74">&#39;2013-03-31T03:00:00+02:00&#39;</span>
+ dt<span style="color:#f92672">.</span>subtract(microseconds<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>)
+<span style="color:#e6db74">&#39;2013-03-31T01:59:59.999998+01:00&#39;</span>
+
+ dt <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2013</span>, <span style="color:#ae81ff">10</span>, <span style="color:#ae81ff">27</span>, <span style="color:#ae81ff">2</span>, <span style="color:#ae81ff">59</span>, <span style="color:#ae81ff">59</span>, <span style="color:#ae81ff">999999</span>,
+                           tz<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;Europe/Paris&#39;</span>,
+                           dst_rule<span style="color:#f92672">=</span>pendulum<span style="color:#f92672">.</span>PRE_TRANSITION)
+<span style="color:#e6db74">&#39;2013-10-27T02:59:59.999999+02:00&#39;</span>
+ dt <span style="color:#f92672">=</span> dt<span style="color:#f92672">.</span>add(microseconds<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>)
+<span style="color:#e6db74">&#39;2013-10-27T02:00:00+01:00&#39;</span>
+ dt <span style="color:#f92672">=</span> dt<span style="color:#f92672">.</span>subtract(microseconds<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>)
+<span style="color:#e6db74">&#39;2013-10-27T02:59:59.999999+02:00&#39;</span>
+</code></pre></div><h2 ref="switching-timezoneshttpspendulumeustaceiodocsswitching-timezones-permanent-link" >Switching timezones<a href="https://pendulum.eustace.io/docs/#switching-timezones" title="Permanent link"></a></h2><a class="anchor" id="switching-timezoneshttpspendulumeustaceiodocsswitching-timezones-permanent-link"></a>
+<p>You can easily change the timezone of a  <code>DateTime</code>  instance with the  <code>in_timezone()</code>  method.</p>
+<p>You can also use the more concise  <code>in_tz()</code></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> in_paris <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2016</span>, <span style="color:#ae81ff">8</span>, <span style="color:#ae81ff">7</span>, <span style="color:#ae81ff">22</span>, <span style="color:#ae81ff">24</span>, <span style="color:#ae81ff">30</span>, tz<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;Europe/Paris&#39;</span>)
+<span style="color:#e6db74">&#39;2016-08-07T22:24:30+02:00&#39;</span>
+ in_paris<span style="color:#f92672">.</span>in_timezone(<span style="color:#e6db74">&#39;America/New_York&#39;</span>)
+<span style="color:#e6db74">&#39;2016-08-07T16:24:30-04:00&#39;</span>
+ in_paris<span style="color:#f92672">.</span>in_tz(<span style="color:#e6db74">&#39;Asia/Tokyo&#39;</span>)
+<span style="color:#e6db74">&#39;2016-08-08T05:24:30+09:00&#39;</span>
+</code></pre></div><h2 ref="using-the-timezone-library-directlyhttpspendulumeustaceiodocsusing-the-timezone-library-directly-permanent-link" >Using the timezone library directly<a href="https://pendulum.eustace.io/docs/#using-the-timezone-library-directly" title="Permanent link"></a></h2><a class="anchor" id="using-the-timezone-library-directlyhttpspendulumeustaceiodocsusing-the-timezone-library-directly-permanent-link"></a>
+<p><strong>You should avoid using the timezone library in Python &lt; 3.6.</strong></p>
+<p>This is due to the fact that Pendulum relies heavily on the presence of the  <code>fold</code>  attribute which was introduced in Python 3.6.</p>
+<p>The reason it works inside the Pendulum ecosystem is that it backported the  <code>fold</code>  attribute in the  <code>DateTime</code>  class.</p>
+<p>Like said in the introduction, you can use the timezone library directly with standard  <code>datetime</code>  objects but with limitations, especially when adding and subtracting time around transition times.</p>
+<p>The value of the  <code>fold</code>  attribute will be used by default to determine the transition rule.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">from</span> datetime <span style="color:#f92672">import</span> datetime
+ <span style="color:#f92672">from</span> pendulum <span style="color:#f92672">import</span> timezone
+
+ paris <span style="color:#f92672">=</span> timezone(<span style="color:#e6db74">&#39;Europe/Paris&#39;</span>)
+ dt <span style="color:#f92672">=</span> datetime(<span style="color:#ae81ff">2013</span>, <span style="color:#ae81ff">3</span>, <span style="color:#ae81ff">31</span>, <span style="color:#ae81ff">2</span>, <span style="color:#ae81ff">30</span>)
+<span style="color:#75715e"># By default, fold is set to 0</span>
+ dt <span style="color:#f92672">=</span> paris<span style="color:#f92672">.</span>convert(dt)
+ dt<span style="color:#f92672">.</span>isoformat()
+<span style="color:#e6db74">&#39;2013-03-31T01:30:00+01:00&#39;</span>
+
+ dt <span style="color:#f92672">=</span> datetime(<span style="color:#ae81ff">2013</span>, <span style="color:#ae81ff">3</span>, <span style="color:#ae81ff">31</span>, <span style="color:#ae81ff">2</span>, <span style="color:#ae81ff">30</span>, fold<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>)
+ dt <span style="color:#f92672">=</span> paris<span style="color:#f92672">.</span>convert(dt)
+ dt<span style="color:#f92672">.</span>isoformat()
+<span style="color:#e6db74">&#39;2013-03-31T03:30:00+02:00&#39;</span>
+</code></pre></div><p>Instead of relying on the  <code>fold</code>  attribute, you can use the  <code>dst_rule</code>  keyword argument, this is especially useful if you want to raise errors on non-existing and ambiguous times.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">import</span> pendulum
+
+ dt <span style="color:#f92672">=</span> datetime(<span style="color:#ae81ff">2013</span>, <span style="color:#ae81ff">3</span>, <span style="color:#ae81ff">31</span>, <span style="color:#ae81ff">2</span>, <span style="color:#ae81ff">30</span>)
+<span style="color:#75715e"># By default, fold is set to 0</span>
+ dt <span style="color:#f92672">=</span> paris<span style="color:#f92672">.</span>convert(dt, dst_rule<span style="color:#f92672">=</span>pendulum<span style="color:#f92672">.</span>PRE_TRANSITION)
+ dt<span style="color:#f92672">.</span>isoformat()
+<span style="color:#e6db74">&#39;2013-03-31T01:30:00+01:00&#39;</span>
+
+ dt <span style="color:#f92672">=</span> paris<span style="color:#f92672">.</span>convert(dt, dst_rule<span style="color:#f92672">=</span>pendulum<span style="color:#f92672">.</span>POST_TRANSITION)
+ dt<span style="color:#f92672">.</span>isoformat()
+<span style="color:#e6db74">&#39;2013-03-31T03:30:00+02:00&#39;</span>
+
+ paris<span style="color:#f92672">.</span>convert(dt, dst_rule<span style="color:#f92672">=</span>pendulum<span style="color:#f92672">.</span>TRANSITION_ERROR)
+<span style="color:#75715e"># NonExistingTime: The datetime 2013-03-31 02:30:00 does not exist</span>
+</code></pre></div><p>This works as expected. However, whenever we add or subtract a  <code>timedelta</code>  object, things get tricky.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">from</span> datetime <span style="color:#f92672">import</span> datetime, timedelta
+ <span style="color:#f92672">from</span> pendulum <span style="color:#f92672">import</span> timezone
+
+ dt <span style="color:#f92672">=</span> datetime(<span style="color:#ae81ff">2013</span>, <span style="color:#ae81ff">3</span>, <span style="color:#ae81ff">31</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">59</span>, <span style="color:#ae81ff">59</span>, <span style="color:#ae81ff">999999</span>)
+ dt <span style="color:#f92672">=</span> paris<span style="color:#f92672">.</span>convert(dt)
+ dt<span style="color:#f92672">.</span>isoformat()
+<span style="color:#e6db74">&#39;2013-03-31T01:59:59.999999+01:00&#39;</span>
+ dt <span style="color:#f92672">=</span> dt <span style="color:#f92672">+</span> timedelta(microseconds<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>)
+ dt<span style="color:#f92672">.</span>isoformat()
+<span style="color:#e6db74">&#39;2013-03-31T02:00:00+01:00&#39;</span>
+</code></pre></div><p>This is not what we expect, it should be  <code>2013-03-31T03:00:00+02:00</code>. This is actually easy to retrieve the proper datetime by using  <code>convert()</code>  again.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> dt <span style="color:#f92672">=</span> tz<span style="color:#f92672">.</span>convert(dt)
+ dt<span style="color:#f92672">.</span>isoformat()
+<span style="color:#e6db74">&#39;2013-03-31T03:00:00+02:00&#39;</span>
+</code></pre></div><p>You can also get a normalized  <code>datetime</code>  object from a  <code>Timezone</code>  by using the  <code>datetime()</code>  method:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-fallback" data-lang="fallback"> import pendulum
+
+ tz = pendulum.timezone(&#39;Europe/Paris&#39;)
+ dt = tz.datetime(2013, 3, 31, 2, 30)
+ dt.isoformat()
+&#39;2013-03-31T03:30:00+02:00&#39;
+</code></pre></div><h1 ref="durationhttpspendulumeustaceiodocsduration-permanent-link" >Duration<a href="https://pendulum.eustace.io/docs/#duration" title="Permanent link"></a></h1><a class="anchor" id="durationhttpspendulumeustaceiodocsduration-permanent-link"></a>
+<p>The  <code>Duration</code>  class is inherited from the native  <code>timedelta</code>  class. It has many improvements over the base class.</p>
+<p>Even though, it inherits from the  <code>timedelta</code>  class, its behavior is slightly different. The more important to notice is that the native normalization does not happen, this is so that it feels more intuitive.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">import</span> pendulum
+ <span style="color:#f92672">from</span> datetime <span style="color:#f92672">import</span> datetime
+
+ d1 <span style="color:#f92672">=</span> datetime(<span style="color:#ae81ff">2012</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">2</span>, <span style="color:#ae81ff">3</span>, tzinfo<span style="color:#f92672">=</span>pytz<span style="color:#f92672">.</span>UTC)
+ d2 <span style="color:#f92672">=</span> datetime(<span style="color:#ae81ff">2011</span>, <span style="color:#ae81ff">12</span>, <span style="color:#ae81ff">31</span>, <span style="color:#ae81ff">22</span>, <span style="color:#ae81ff">2</span>, <span style="color:#ae81ff">3</span>, tzinfo<span style="color:#f92672">=</span>pytz<span style="color:#f92672">.</span>UTC)
+ delta <span style="color:#f92672">=</span> d2 <span style="color:#f92672">-</span> d1
+ delta<span style="color:#f92672">.</span>days
+<span style="color:#f92672">-</span><span style="color:#ae81ff">1</span>
+ delta<span style="color:#f92672">.</span>seconds
+<span style="color:#ae81ff">75600</span>
+
+ d1 <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2012</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">2</span>, <span style="color:#ae81ff">3</span>)
+ d2 <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2011</span>, <span style="color:#ae81ff">12</span>, <span style="color:#ae81ff">31</span>, <span style="color:#ae81ff">22</span>, <span style="color:#ae81ff">2</span>, <span style="color:#ae81ff">3</span>)
+ delta <span style="color:#f92672">=</span> d2 <span style="color:#f92672">-</span> d1
+ delta<span style="color:#f92672">.</span>days
+<span style="color:#ae81ff">0</span>
+ delta<span style="color:#f92672">.</span>hours
+<span style="color:#f92672">-</span><span style="color:#ae81ff">3</span>
+</code></pre></div><h2 ref="instantiationhttpspendulumeustaceiodocsinstantiation_1-permanent-link" >Instantiation<a href="https://pendulum.eustace.io/docs/#instantiation_1" title="Permanent link"></a></h2><a class="anchor" id="instantiationhttpspendulumeustaceiodocsinstantiation_1-permanent-link"></a>
+<p>To create a  <code>Duration</code>  instance, you can use the  <code>duration()</code>  helper:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">import</span> pendulum
+
+ it <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>duration(days<span style="color:#f92672">=</span><span style="color:#ae81ff">1177</span>, seconds<span style="color:#f92672">=</span><span style="color:#ae81ff">7284</span>, microseconds<span style="color:#f92672">=</span><span style="color:#ae81ff">1234</span>)
+</code></pre></div><p>Unlike the native  <code>timedelta</code>  class, durations support specifying years and months.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">import</span> pendulum
+
+ it <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>duration(years<span style="color:#f92672">=</span><span style="color:#ae81ff">2</span>, months<span style="color:#f92672">=</span><span style="color:#ae81ff">3</span>)
+</code></pre></div><p>However, to maintain compatibility, native methods and properties will make approximations:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> it<span style="color:#f92672">.</span>days
+<span style="color:#75715e">#820</span>
+</code></pre></div><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> it<span style="color:#f92672">.</span>total_seconds()
+<span style="color:#75715e">#70848000.0</span>
+</code></pre></div><h2 ref="properties-and-duration-methodshttpspendulumeustaceiodocsproperties-and-duration-methods-permanent-link" >Properties and Duration Methods<a href="https://pendulum.eustace.io/docs/#properties-and-duration-methods" title="Permanent link"></a></h2><a class="anchor" id="properties-and-duration-methodshttpspendulumeustaceiodocsproperties-and-duration-methods-permanent-link"></a>
+<p>The  <code>Duration</code>  class brings more properties than the default  <code>days</code>,  <code>seconds</code>  and  <code>microseconds</code>.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">import</span> pendulum
+
+ it <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>duration(
+<span style="color:#f92672">...</span>     years<span style="color:#f92672">=</span><span style="color:#ae81ff">2</span>, months<span style="color:#f92672">=</span><span style="color:#ae81ff">3</span>,
+<span style="color:#f92672">...</span>     days<span style="color:#f92672">=</span><span style="color:#ae81ff">1177</span>, seconds<span style="color:#f92672">=</span><span style="color:#ae81ff">7284</span>, microseconds<span style="color:#f92672">=</span><span style="color:#ae81ff">1234</span>
+<span style="color:#f92672">...</span> )
+
+ it<span style="color:#f92672">.</span>years
+<span style="color:#ae81ff">2</span>
+ it<span style="color:#f92672">.</span>months
+<span style="color:#ae81ff">3</span>
+
+<span style="color:#75715e"># Weeks are based on the total of days</span>
+<span style="color:#75715e"># It does not take into account years and months</span>
+ it<span style="color:#f92672">.</span>weeks
+<span style="color:#ae81ff">168</span>
+
+<span style="color:#75715e"># Days, just like in timedelta, represents the total of days</span>
+<span style="color:#75715e"># in the duration. If years and/or months are specified</span>
+<span style="color:#75715e"># it will use an approximation</span>
+ it<span style="color:#f92672">.</span>days
+<span style="color:#ae81ff">1997</span>
+
+<span style="color:#75715e"># If you want the remaining days not included in full weeks</span>
+ it<span style="color:#f92672">.</span>remaining_days
+<span style="color:#ae81ff">1</span>
+
+ <span style="color:#75715e"># The remaining number in each unit</span>
+ it<span style="color:#f92672">.</span>hours
+<span style="color:#ae81ff">2</span>
+ it<span style="color:#f92672">.</span>minutes
+<span style="color:#ae81ff">1</span>
+
+<span style="color:#75715e"># Seconds are, like days, a special case and the default</span>
+<span style="color:#75715e"># property will return the whole value of remaining</span>
+<span style="color:#75715e"># seconds just like the timedelta class for compatibility</span>
+ it<span style="color:#f92672">.</span>seconds
+<span style="color:#ae81ff">7284</span>
+
+<span style="color:#75715e"># If you want the number of seconds not included</span>
+<span style="color:#75715e"># in hours and minutes</span>
+ it<span style="color:#f92672">.</span>remaining_seconds
+<span style="color:#ae81ff">24</span>
+
+ it<span style="color:#f92672">.</span>microseconds
+<span style="color:#ae81ff">1234</span>
+</code></pre></div><p>If you want to get the duration in each supported unit you can use the appropriate methods.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#75715e"># Each method returns a float like the native</span>
+<span style="color:#75715e"># total_seconds() method</span>
+ it<span style="color:#f92672">.</span>total_weeks()
+<span style="color:#ae81ff">168.15490079569113</span>
+
+ it<span style="color:#f92672">.</span>total_days()
+<span style="color:#ae81ff">1177.0843055698379</span>
+
+ it<span style="color:#f92672">.</span>total_hours()
+<span style="color:#ae81ff">28250.02333367611</span>
+
+ it<span style="color:#f92672">.</span>total_minutes()
+<span style="color:#ae81ff">1695001.4000205665</span>
+
+ it<span style="color:#f92672">.</span>total_seconds()
+<span style="color:#ae81ff">101700084.001234</span>
+</code></pre></div><p>Similarly, the  <code>in_xxx()</code>  methods return the total duration in each supported unit as a truncated integer.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> it<span style="color:#f92672">.</span>in_weeks()
+<span style="color:#ae81ff">168</span>
+
+ it<span style="color:#f92672">.</span>in_days()
+<span style="color:#ae81ff">1997</span>
+
+ it<span style="color:#f92672">.</span>in_hours()
+<span style="color:#ae81ff">28250</span>
+
+ it<span style="color:#f92672">.</span>in_minutes()
+<span style="color:#ae81ff">1695001</span>
+</code></pre></div><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> it<span style="color:#f92672">.</span>in_seconds()
+<span style="color:#ae81ff">101700084</span>
+
+It also has a handy  <span style="color:#e6db74">`in_words()`</span>  method, which determines the duration representation when printed<span style="color:#f92672">.</span>
+
+ <span style="color:#f92672">import</span> pendulum
+
+ pendulum<span style="color:#f92672">.</span>set_locale(<span style="color:#e6db74">&#39;fr&#39;</span>)
+
+ it <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>duration(days<span style="color:#f92672">=</span><span style="color:#ae81ff">1177</span>, seconds<span style="color:#f92672">=</span><span style="color:#ae81ff">7284</span>, microseconds<span style="color:#f92672">=</span><span style="color:#ae81ff">1234</span>)
+ it<span style="color:#f92672">.</span>in_words()
+<span style="color:#e6db74">&#39;168 semaines 1 jour 2 heures 1 minute 24 secondes&#39;</span>
+
+ <span style="color:#66d9ef">print</span>(it)
+<span style="color:#e6db74">&#39;168 semaines 1 jour 2 heures 1 minute 24 secondes&#39;</span>
+
+ it<span style="color:#f92672">.</span>in_words(locale<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;de&#39;</span>)
+<span style="color:#e6db74">&#39;168 Wochen 1 Tag 2 Stunden 1 Minute 24 Sekunden&#39;</span>
+</code></pre></div><h1 ref="periodhttpspendulumeustaceiodocsperiod-permanent-link" >Period<a href="https://pendulum.eustace.io/docs/#period" title="Permanent link"></a></h1><a class="anchor" id="periodhttpspendulumeustaceiodocsperiod-permanent-link"></a>
+<p>When you subtract a  <code>DateTime</code>  instance to another, or use the  <code>diff()</code>  method, it will return a  <code>Period</code>  instance. It inherits from the  <a href="https://pendulum.eustace.io/docs/#duration">Duration</a>  class with the added benefit that it is aware of the instances that generated it, so that it can give access to more methods and properties:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">import</span> pendulum
+
+ start <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2000</span>, <span style="color:#ae81ff">11</span>, <span style="color:#ae81ff">20</span>)
+ end <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2016</span>, <span style="color:#ae81ff">11</span>, <span style="color:#ae81ff">5</span>)
+
+ period <span style="color:#f92672">=</span> end <span style="color:#f92672">-</span> start
+
+ period<span style="color:#f92672">.</span>years
+<span style="color:#ae81ff">15</span>
+ period<span style="color:#f92672">.</span>months
+<span style="color:#ae81ff">11</span>
+ period<span style="color:#f92672">.</span>in_years()
+<span style="color:#ae81ff">15</span>
+ period<span style="color:#f92672">.</span>in_months()
+<span style="color:#ae81ff">191</span>
+
+<span style="color:#75715e"># Note that the weeks property</span>
+<span style="color:#75715e"># will change compared to the Duration class</span>
+ period<span style="color:#f92672">.</span>weeks
+<span style="color:#ae81ff">2</span> <span style="color:#75715e"># 832 for the duration</span>
+
+<span style="color:#75715e"># However the days property will still remain the same</span>
+<span style="color:#75715e"># to keep the compatiblity with the timedelta class</span>
+ period<span style="color:#f92672">.</span>days
+<span style="color:#ae81ff">5829</span>
+</code></pre></div><p>Be aware that a period, just like an interval, is compatible with the  <code>timedelta</code>  class regarding its attributes. However, its custom attributes (like  <code>remaining_days</code>) will be aware of any DST transitions that might have occurred and adjust accordingly. Let&rsquo;s take an example:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">import</span> pendulum
+
+ start <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2017</span>, <span style="color:#ae81ff">3</span>, <span style="color:#ae81ff">7</span>, tz<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;America/Toronto&#39;</span>)
+ end <span style="color:#f92672">=</span> start<span style="color:#f92672">.</span>add(days<span style="color:#f92672">=</span><span style="color:#ae81ff">6</span>)
+
+ period <span style="color:#f92672">=</span> end <span style="color:#f92672">-</span> start
+
+<span style="color:#75715e"># timedelta properties</span>
+ period<span style="color:#f92672">.</span>days
+<span style="color:#ae81ff">5</span>
+ period<span style="color:#f92672">.</span>seconds
+<span style="color:#ae81ff">82800</span>
+
+<span style="color:#75715e"># period properties</span>
+ period<span style="color:#f92672">.</span>remaining_days
+<span style="color:#ae81ff">6</span>
+ period<span style="color:#f92672">.</span>hours
+<span style="color:#ae81ff">0</span>
+ period<span style="color:#f92672">.</span>remaining_seconds
+<span style="color:#ae81ff">0</span>
+</code></pre></div><p>Due to its nature (fixed duration between two datetimes), most arithmetic operations will return a  <code>Duration</code>  instead of a  <code>Period</code>.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">import</span> pendulum
+
+ dt1 <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2016</span>, <span style="color:#ae81ff">8</span>, <span style="color:#ae81ff">7</span>, <span style="color:#ae81ff">12</span>, <span style="color:#ae81ff">34</span>, <span style="color:#ae81ff">56</span>)
+ dt2 <span style="color:#f92672">=</span> dt1<span style="color:#f92672">.</span>add(days<span style="color:#f92672">=</span><span style="color:#ae81ff">6</span>, seconds<span style="color:#f92672">=</span><span style="color:#ae81ff">34</span>)
+ period <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>period(dt1, dt2)
+ period <span style="color:#f92672">*</span> <span style="color:#ae81ff">2</span>
+Duration(weeks<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>, days<span style="color:#f92672">=</span><span style="color:#ae81ff">5</span>, minutes<span style="color:#f92672">=</span><span style="color:#ae81ff">1</span>, seconds<span style="color:#f92672">=</span><span style="color:#ae81ff">8</span>)
+</code></pre></div><h2 ref="instantiationhttpspendulumeustaceiodocsinstantiation_2-permanent-link" >Instantiation<a href="https://pendulum.eustace.io/docs/#instantiation_2" title="Permanent link"></a></h2><a class="anchor" id="instantiationhttpspendulumeustaceiodocsinstantiation_2-permanent-link"></a>
+<p>You can create an instance by using the  <code>period()</code>  helper:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">import</span> pendulum
+
+ start <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2000</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">1</span>)
+ end <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2000</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">31</span>)
+
+ period <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>period(start, end)
+
+You can also make an inverted period:
+
+ period <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>period(end, start)
+ period<span style="color:#f92672">.</span>remaining_days
+<span style="color:#f92672">-</span><span style="color:#ae81ff">2</span>
+</code></pre></div><p>If you have inverted dates but want to make sure that the period is positive, you set the  <code>absolute</code>  keyword argument to  <code>True</code>:</p>
+<p>period = pendulum.period(end, start, absolute=True)
+period.remaining_days
+2</p>
+<h2 ref="rangehttpspendulumeustaceiodocsrange-permanent-link" >Range<a href="https://pendulum.eustace.io/docs/#range" title="Permanent link"></a></h2><a class="anchor" id="rangehttpspendulumeustaceiodocsrange-permanent-link"></a>
+<p>If you want to iterate over a period, you can use the  <code>range()</code>  method:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">import</span> pendulum
+
+ start <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2000</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">1</span>)
+ end <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2000</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">10</span>)
+
+ period <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>period(start, end)
+
+ <span style="color:#66d9ef">for</span> dt <span style="color:#f92672">in</span> period<span style="color:#f92672">.</span>range(<span style="color:#e6db74">&#39;days&#39;</span>):
+     <span style="color:#66d9ef">print</span>(dt)
+</code></pre></div><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-fallback" data-lang="fallback">&#39;2000-01-01T00:00:00+00:00&#39;
+&#39;2000-01-02T00:00:00+00:00&#39;
+&#39;2000-01-03T00:00:00+00:00&#39;
+&#39;2000-01-04T00:00:00+00:00&#39;
+&#39;2000-01-05T00:00:00+00:00&#39;
+&#39;2000-01-06T00:00:00+00:00&#39;
+&#39;2000-01-07T00:00:00+00:00&#39;
+&#39;2000-01-08T00:00:00+00:00&#39;
+&#39;2000-01-09T00:00:00+00:00&#39;
+&#39;2000-01-10T00:00:00+00:00&#39;
+</code></pre></div><p>Supported units for  <code>range()</code>  are:  <code>years</code>,  <code>months</code>,  <code>weeks</code>,  <code>days</code>,  <code>hours</code>,  <code>minutes</code>  and  <code>seconds</code></p>
+<p>You can pass an amount for the passed unit to control the length of the gap:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#66d9ef">for</span> dt <span style="color:#f92672">in</span> period<span style="color:#f92672">.</span>range(<span style="color:#e6db74">&#39;days&#39;</span>, <span style="color:#ae81ff">2</span>):
+     <span style="color:#66d9ef">print</span>(dt)
+</code></pre></div><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-fallback" data-lang="fallback">&#39;2000-01-01T00:00:00+00:00&#39;
+&#39;2000-01-03T00:00:00+00:00&#39;
+&#39;2000-01-05T00:00:00+00:00&#39;
+&#39;2000-01-07T00:00:00+00:00&#39;
+&#39;2000-01-09T00:00:00+00:00&#39;
+</code></pre></div><p>You can also directly iterate over the  <code>Period</code>  instance, the unit will be  <code>days</code>  in this case:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#66d9ef">for</span> dt <span style="color:#f92672">in</span> period:
+     <span style="color:#66d9ef">print</span>(dt)
+</code></pre></div><p>You can check if a  <code>DateTime</code>  instance is inside a period using the  <code>in</code>  keyword:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> dt <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2000</span>, <span style="color:#ae81ff">1</span>, <span style="color:#ae81ff">4</span>)
+ dt <span style="color:#f92672">in</span> period
+<span style="color:#75715e">#True</span>
+</code></pre></div><h1 ref="testinghttpspendulumeustaceiodocstesting-permanent-link" >Testing<a href="https://pendulum.eustace.io/docs/#testing" title="Permanent link"></a></h1><a class="anchor" id="testinghttpspendulumeustaceiodocstesting-permanent-link"></a>
+<p>The testing methods allow you to set a  <code>DateTime</code>  instance (real or mock) to be returned when a &ldquo;now&rdquo; instance is created. The provided instance will be returned specifically under the following conditions:</p>
+<ul>
+<li>A call to the  <code>now()</code>  method, ex.  <code>pendulum.now()</code>.</li>
+<li>When the string &ldquo;now&rdquo; is passed to the  <code>parse()</code>  method, ex.  <code>pendulum.parse('now')</code></li>
+</ul>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">import</span> pendulum
+
+<span style="color:#75715e"># Create testing datetime</span>
+ known <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2001</span>, <span style="color:#ae81ff">5</span>, <span style="color:#ae81ff">21</span>, <span style="color:#ae81ff">12</span>)
+
+<span style="color:#75715e"># Set the mock</span>
+ pendulum<span style="color:#f92672">.</span>set_test_now(known)
+
+ <span style="color:#66d9ef">print</span>(pendulum<span style="color:#f92672">.</span>now())
+<span style="color:#e6db74">&#39;2001-05-21T12:00:00+00:00&#39;</span>
+
+ <span style="color:#66d9ef">print</span>(pendulum<span style="color:#f92672">.</span>parse(<span style="color:#e6db74">&#39;now&#39;</span>))
+<span style="color:#e6db74">&#39;2001-05-21T12:00:00+00:00&#39;</span>
+
+<span style="color:#75715e"># Clear the mock</span>
+ pendulum<span style="color:#f92672">.</span>set_test_now()
+
+ <span style="color:#66d9ef">print</span>(pendulum<span style="color:#f92672">.</span>now())
+<span style="color:#e6db74">&#39;2016-07-10T22:10:33.954851-05:00&#39;</span>
+
+Related methods will also returned values mocked according to the <span style="color:#f92672">**</span>now<span style="color:#f92672">**</span> instance<span style="color:#f92672">.</span>
+
+<span style="color:#e6db74">``</span><span style="color:#960050;background-color:#1e0010">`</span>python
+ <span style="color:#66d9ef">print</span>(pendulum<span style="color:#f92672">.</span>today())
+<span style="color:#e6db74">&#39;2001-05-21T00:00:00+00:00&#39;</span>
+
+ <span style="color:#66d9ef">print</span>(pendulum<span style="color:#f92672">.</span>tomorrow())
+<span style="color:#e6db74">&#39;2001-05-22T00:00:00+00:00&#39;</span>
+
+ <span style="color:#66d9ef">print</span>(pendulum<span style="color:#f92672">.</span>yesterday())
+<span style="color:#e6db74">&#39;2001-05-20T00:00:00+00:00&#39;</span>
+</code></pre></div><p>If you don&rsquo;t want to manually clear the mock (or you are afraid of forgetting), you can use the provided  <code>test()</code>  contextmanager.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#f92672">import</span> pendulum
+
+ known <span style="color:#f92672">=</span> pendulum<span style="color:#f92672">.</span>datetime(<span style="color:#ae81ff">2001</span>, <span style="color:#ae81ff">5</span>, <span style="color:#ae81ff">21</span>, <span style="color:#ae81ff">12</span>)
+
+ <span style="color:#66d9ef">with</span> pendulum<span style="color:#f92672">.</span>test(known):
+     <span style="color:#66d9ef">print</span>(pendulum<span style="color:#f92672">.</span>now())
+<span style="color:#e6db74">&#39;2001-05-21T12:00:00+00:00&#39;</span>
+
+ <span style="color:#66d9ef">print</span>(pendulum<span style="color:#f92672">.</span>now())
+<span style="color:#e6db74">&#39;2016-07-10T22:10:33.954851-05:00&#39;</span>
+</code></pre></div><h1 ref="limitationshttpspendulumeustaceiodocslimitations-permanent-link" >Limitations<a href="https://pendulum.eustace.io/docs/#limitations" title="Permanent link"></a></h1><a class="anchor" id="limitationshttpspendulumeustaceiodocslimitations-permanent-link"></a>
+<p>Even though the  <code>DateTime</code>  class is a subclass of  <code>datetime</code>, there are some rare cases where it can&rsquo;t replace the native class directly. Here is a list (non-exhaustive) of the reported cases with a possible solution, if any:</p>
+<ul>
+<li><code>sqlite3</code>  will use the the  <code>type()</code>  function to determine the type of the object by default. To work around it you can register a new adapter:
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#f92672">import</span> pendulum
+<span style="color:#f92672">from</span> sqlite3 <span style="color:#f92672">import</span> register_adapter
+    
+register_adapter(pendulum<span style="color:#f92672">.</span>DateTime, <span style="color:#66d9ef">lambda</span> val: val<span style="color:#f92672">.</span>isoformat(<span style="color:#e6db74">&#39; &#39;</span>))
+</code></pre></div></li>
+<li><code>mysqlclient</code>  (former  <code>MySQLdb</code>) and  <code>PyMySQL</code>  will use the the  <code>type()</code>  function to determine the type of the object by default. To work around it you can register a new adapter:
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#f92672">import</span> pendulum
+<span style="color:#f92672">import</span> MySQLdb.converters
+<span style="color:#f92672">import</span> pymysql.converters
+    
+MySQLdb<span style="color:#f92672">.</span>converters<span style="color:#f92672">.</span>conversions[pendulum<span style="color:#f92672">.</span>DateTime] <span style="color:#f92672">=</span> MySQLdb<span style="color:#f92672">.</span>converters<span style="color:#f92672">.</span>DateTime2literal
+pymysql<span style="color:#f92672">.</span>converters<span style="color:#f92672">.</span>conversions[pendulum<span style="color:#f92672">.</span>DateTime] <span style="color:#f92672">=</span> pymysql<span style="color:#f92672">.</span>converters<span style="color:#f92672">.</span>escape_datetime
+</code></pre></div></li>
+<li><code>django</code>  will use the  <code>isoformat()</code>  method to store datetimes in the database. However since  <code>pendulum</code>  is always timezone aware the offset information will always be returned by  <code>isoformat()</code>  raising an error, at least for MySQL databases. To work around it you can either create your own  <code>DateTimeField</code>  or use the previous workaround for  <code>MySQLdb</code>:
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#f92672">import</span> pendulum
+<span style="color:#f92672">from</span> django.db.models <span style="color:#f92672">import</span> DateTimeField <span style="color:#66d9ef">as</span> BaseDateTimeField
+    
+<span style="color:#66d9ef">class</span> <span style="color:#a6e22e">DateTimeField</span>(BaseDateTimeField):
+    
+    <span style="color:#66d9ef">def</span> <span style="color:#a6e22e">value_to_string</span>(self, obj):
+        val <span style="color:#f92672">=</span> self<span style="color:#f92672">.</span>value_from_object(obj)
+    
+        <span style="color:#66d9ef">if</span> isinstance(value, pendulum<span style="color:#f92672">.</span>DateTime):
+            <span style="color:#66d9ef">return</span> value<span style="color:#f92672">.</span>format(<span style="color:#e6db74">&#39;YYYY-MM-DD HH:mm:ss&#39;</span>)
+    
+        <span style="color:#66d9ef">return</span> <span style="color:#e6db74">&#39;&#39;</span> <span style="color:#66d9ef">if</span> val <span style="color:#f92672">is</span> None <span style="color:#66d9ef">else</span> val<span style="color:#f92672">.</span>isoformat()
+</code></pre></div></li>
+</ul>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-fallback" data-lang="fallback">&gt; [Source : ](https://pendulum.eustace.io/docs/.)
+&lt;!--stackedit_data:
+eyJoaXN0b3J5IjpbOTU5MTkyMDZdfQ==
+--&gt;</code></pre></div>
+		</div>
+
+
+
+
+
+
+	 
+	<div class="chevrons">
+		<a class="next" href="/tutorials/python/tutorials/date-time/overview/" title="การจัดการวันเวลา" style="margin-right: 0px;">
+            <div>
+                <p>Next page</p>
+                <label>การจัดการวันเวลา</label>
+            </div>
+            <i class="fas fa-arrow-right" style="font-size: 1.7em"></i></a>
+	</div>
+	
+	
+
+      </section>
+
+      
+      
+      <section class="right-menu ">
+      
+	
+
+		
+	
+			
+		
+	    	
+	  	
+	<div class="TableOfContents">
+    <label><i class="fas fa-align-right"></i>&nbsp;&nbsp;What&#39;s on this page</label>
+    <nav>
+        <ul >
+            <li><a href="/tutorials/python/tutorials/date-time/pendulum/">pendulum</a></li>
+        </ul>
+    </nav>
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#rfc-3339httpspendulumeustaceiodocsrfc-3339-permanent-link">RFC 3339<a href="https://pendulum.eustace.io/docs/#rfc-3339" title="Permanent link"></a></a></li>
+    <li><a href="#iso-8601httpspendulumeustaceiodocsiso-8601-permanent-link">ISO 8601<a href="https://pendulum.eustace.io/docs/#iso-8601" title="Permanent link"></a></a>
+      <ul>
+        <li><a href="#datetimehttpspendulumeustaceiodocsdatetime-permanent-link">Datetime<a href="https://pendulum.eustace.io/docs/#datetime" title="Permanent link"></a></a></li>
+        <li><a href="#datehttpspendulumeustaceiodocsdate-permanent-link">Date<a href="https://pendulum.eustace.io/docs/#date" title="Permanent link"></a></a></li>
+        <li><a href="#ordinal-dayhttpspendulumeustaceiodocsordinal-day-permanent-link">Ordinal day<a href="https://pendulum.eustace.io/docs/#ordinal-day" title="Permanent link"></a></a></li>
+        <li><a href="#week-numberhttpspendulumeustaceiodocsweek-number-permanent-link">Week number<a href="https://pendulum.eustace.io/docs/#week-number" title="Permanent link"></a></a></li>
+        <li><a href="#timehttpspendulumeustaceiodocstime-permanent-link">Time<a href="https://pendulum.eustace.io/docs/#time" title="Permanent link"></a></a></li>
+        <li><a href="#intervalshttpspendulumeustaceiodocsintervals-permanent-link">Intervals<a href="https://pendulum.eustace.io/docs/#intervals" title="Permanent link"></a></a></li>
+      </ul>
+    </li>
+  </ul>
+
+  <ul>
+    <li><a href="#common-formatshttpspendulumeustaceiodocscommon-formats-permanent-link">Common Formats<a href="https://pendulum.eustace.io/docs/#common-formats" title="Permanent link"></a></a></li>
+    <li><a href="#formatterhttpspendulumeustaceiodocsformatter-permanent-link">Formatter<a href="https://pendulum.eustace.io/docs/#formatter" title="Permanent link"></a></a>
+      <ul>
+        <li><a href="#tokenshttpspendulumeustaceiodocstokens-permanent-link">Tokens<a href="https://pendulum.eustace.io/docs/#tokens" title="Permanent link"></a></a></li>
+        <li><a href="#localized-formatshttpspendulumeustaceiodocslocalized-formats-permanent-link">Localized Formats<a href="https://pendulum.eustace.io/docs/#localized-formats" title="Permanent link"></a></a></li>
+        <li><a href="#escaping-charactershttpspendulumeustaceiodocsescaping-characters-permanent-link">Escaping Characters<a href="https://pendulum.eustace.io/docs/#escaping-characters" title="Permanent link"></a></a></li>
+      </ul>
+    </li>
+  </ul>
+
+  <ul>
+    <li><a href="#difference-for-humanshttpspendulumeustaceiodocsdifference-for-humans-permanent-link">Difference for Humans<a href="https://pendulum.eustace.io/docs/#difference-for-humans" title="Permanent link"></a></a></li>
+  </ul>
+
+  <ul>
+    <li><a href="#normalizationhttpspendulumeustaceiodocsnormalization-permanent-link">Normalization<a href="https://pendulum.eustace.io/docs/#normalization" title="Permanent link"></a></a></li>
+    <li><a href="#shifting-time-to-transitionhttpspendulumeustaceiodocsshifting-time-to-transition-permanent-link">Shifting time to transition<a href="https://pendulum.eustace.io/docs/#shifting-time-to-transition" title="Permanent link"></a></a></li>
+    <li><a href="#switching-timezoneshttpspendulumeustaceiodocsswitching-timezones-permanent-link">Switching timezones<a href="https://pendulum.eustace.io/docs/#switching-timezones" title="Permanent link"></a></a></li>
+    <li><a href="#using-the-timezone-library-directlyhttpspendulumeustaceiodocsusing-the-timezone-library-directly-permanent-link">Using the timezone library directly<a href="https://pendulum.eustace.io/docs/#using-the-timezone-library-directly" title="Permanent link"></a></a></li>
+  </ul>
+
+  <ul>
+    <li><a href="#instantiationhttpspendulumeustaceiodocsinstantiation_1-permanent-link">Instantiation<a href="https://pendulum.eustace.io/docs/#instantiation_1" title="Permanent link"></a></a></li>
+    <li><a href="#properties-and-duration-methodshttpspendulumeustaceiodocsproperties-and-duration-methods-permanent-link">Properties and Duration Methods<a href="https://pendulum.eustace.io/docs/#properties-and-duration-methods" title="Permanent link"></a></a></li>
+  </ul>
+
+  <ul>
+    <li><a href="#instantiationhttpspendulumeustaceiodocsinstantiation_2-permanent-link">Instantiation<a href="https://pendulum.eustace.io/docs/#instantiation_2" title="Permanent link"></a></a></li>
+    <li><a href="#rangehttpspendulumeustaceiodocsrange-permanent-link">Range<a href="https://pendulum.eustace.io/docs/#range" title="Permanent link"></a></a></li>
+  </ul>
+</nav>
+</div>
+
+		
+	
+			
+		
+	    	
+	    
+	<div class="Actions">
+	<nav>
+		<ul>
+				
+		    
+		    
+		    
+		    <li>
+		    	
+		        <a href="https://example.comadmin/#/collections/pages/entries/tutorials/python/tutorials/date-time/pendulum/_index" target="blank">
+		        <i class="fab fa-github"></i>
+		        Improve this page</a>
+		    </li>
+		    
+		    
+			
+		    
+
+    	</ul>
+	</nav>
+    
+</div>
+
+      </section>
+      
+    </article>
+    
+    
+    <footer>
+      
+
+		
+	
+			
+		
+	    	<style type="text/css">
+
+.footer-gray {
+  width: 100%;
+  color: #888;
+}
+
+.footer-custom {
+  font: normal normal 12px/1.4 sans-serif;
+  /*max-width: 1008px;*/
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+.footer-custom:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.footer-lists:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.ftr-hdr {
+  color: white;
+  font: 22px/1.4  sans-serif;
+  margin: 1em 0 0;
+}
+
+@media only screen and (min-width: 768px) {
+  .ftr-hdr {
+    font-size: 18px;
+  }
+}
+
+.footer-list-wrap {
+  width: 50%;
+  float: left;
+  box-sizing: border-box;
+}
+
+@media only screen and (min-width: 568px) {
+  .footer-list-wrap {
+    width: 33.3333%;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .footer-list-wrap {
+    width: 25%;
+  }
+}
+
+.ftr-links-sub {
+  padding: 0;
+  margin: 0;
+}
+
+.ftr-links-sub:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.ftr-links-sub li {
+  display: block;
+  list-style-type: none;
+  margin: 0;
+  padding: 3px 0;
+  color: #888;
+  font: normal normal 12px sans-serif;
+  text-transform: uppercase;
+  /*width: 150px;*/
+}
+
+.footer-custom a,
+.footer-custom a:link,
+.footer-custom a:visited,
+.ftr-links-sub li .link {
+  text-decoration: none;
+  color: #888;
+  padding: 5px 0;
+  display: block;
+}
+
+.footer-custom .footer-legal a {
+  display: inline;
+}
+
+.footer-custom a:hover,
+.footer-custom a:active,
+.ftr-links-sub li .link:hover {
+  text-decoration: underline;
+  color: #888;
+  cursor: pointer;
+}
+
+@media only screen and (min-width: 768px) {
+  .footer-custom a, .footer-custom a:link, .footer-custom a:visited, .ftr-links-sub li .link {
+    padding: 0;
+  }
+}
+/* BEGIN EMAIL CAPTURE STYLES*/
+
+.footer-email {
+  text-align: center;
+}
+
+#ftrEmailForm {
+  height: 44px;
+}
+
+#ftrEmailForm .error {
+  display: none;
+  color: red;
+  text-align: left;
+}
+
+#ftrEmailForm #ftrEmailInput {
+  background: none repeat scroll 0 0 #FFF;
+  border: 1px solid #D6D6D6;
+  box-sizing: border-box;
+  color: #888;
+  float: left;
+  font: normal normal 14px/1.4 sans-serif;
+  padding: 5px;
+  width: 70%;
+  height: 100%;
+}
+
+#ftrEmailForm #ftrEmailInput:hover {
+  border: 1px solid #888;
+}
+
+#ftrEmailForm #ftrEmailInput:focus {
+  border: 1px solid #ef9223;
+  outline: #ef9223 auto 5px;
+}
+
+#ftrEmailForm .button {
+  width: 30%;
+  height: 100%;
+  padding: 5px;
+  float: left;
+  border: 1px solid #DFDFDF;
+  box-sizing: border-box;
+  color: #000;
+  font: normal bold 18px/1 sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  background: #FFF;
+  background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJod…EiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, white), color-stop(100%, #e1e1e1));
+  background: -webkit-linear-gradient(top, white 0, #e1e1e1 100%);
+  background: -moz-linear-gradient(top, white 0, #e1e1e1 100%);
+  background: -ms-linear-gradient(top, white 0, #e1e1e1 100%);
+  background: -o-linear-gradient(top, white 0, #e1e1e1 100%);
+  background: linear-gradient(to bottom, white 0, #e1e1e1 100%);
+  cursor: pointer;
+  vertical-align: middle;
+  outline: none;
+}
+
+#ftrEmailForm .button:hover,
+#ftrEmailForm .button:active {
+  background: black;
+  color: #FFF;
+  outline: none;
+}
+/* BEGIN SOCIAL STYLES*/
+
+.footer-social {
+  text-align: center;
+}
+
+.footer-social ul {
+  padding: 0;
+  display: inline-block;
+  list-style-type: none;
+}
+
+.footer-social ul:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.footer-social li {
+  float: left;
+  margin: 0 15px 0 0;
+  padding: 0;
+}
+
+@media only screen and (min-width: 768px) {
+  .footer-lists {
+    width: 100%;
+  }
+  .footer-email {
+    width: 50%;
+    float: left;
+    text-align: left;
+  }
+  .footer-social {
+    width: 45%;
+    margin-left: 5%;
+    float: left;
+    text-align: left;
+  }
+}
+
+@media only screen and (min-width: 1008px) {
+  .footer-lists {
+    width: 66.6666%;
+    float: left;
+  }
+  .footer-email {
+    width: 33.3333%;
+  }
+  .footer-social {
+    width: 33.3333%;
+    float: right;
+    margin-left: 0;
+  }
+}
+
+.footer-legal {
+  padding: 15px 0 0;
+  clear: left;
+}
+
+.footer-payment {
+  text-align: center;
+}
+
+@media only screen and (min-width: 768px) {
+  .footer-legal {
+    width: 66.6666%;
+    float: left;
+  }
+  .footer-payment {
+    width: 33.3333%;
+    float: left;
+  }
+}
+
+@media only screen and (min-width: 1008px) {
+  .footer-payment {
+    text-align: left;
+  }
+}
+
+.footer-payment ul {
+  padding: 0;
+  display: inline-block;
+  list-style-type: none;
+}
+
+.footer-payment ul li {
+  display: inline-block;
+  margin: 0 6px;
+}
+
+@media only screen and (min-width: 1008px) {
+  .footer-payment ul li.ftr-stella {
+    margin-left: 0;
+  }
+}
+
+
+</style>
+  <div class="footer-gray">
+    <div class="footer-custom">
+      <div class="footer-lists">
+        <div class="footer-list-wrap">
+          <h6 class="ftr-hdr">Order Something</h6>
+          <ul class="ftr-links-sub">
+            <li>800-123-4567</li>
+          </ul>
+          <h6 class="ftr-hdr">International</h6>
+          <ul class="ftr-links-sub">
+            <li><a href="#" rel="nofollow">France</a></li>
+            <li><a href="#" rel="nofollow">Cape Verde</a></li>
+          </ul>
+        </div>
+        <div class="footer-list-wrap">
+          <h6 class="ftr-hdr">Customer Service</h6>
+          <ul class="ftr-links-sub">
+            <li><a href="#" rel="nofollow">Contact Us</a></li>
+            <li><a href="#" rel="nofollow">Ordering</a></li>
+            <li><a href="#" rel="nofollow">Shipping &amp; Delivery</a></li>
+            <li><a href="#" rel="nofollow">Returns</a></li>
+            <li><a href="#" rel="nofollow">Gift Cards</a></li>
+            <li><a href="#" rel="nofollow">FAQs</a></li>
+          </ul>
+        </div>
+        <div class="footer-list-wrap">
+          <h6 class="ftr-hdr">About DocPort</h6>
+          <ul class="ftr-links-sub">
+            <li><a href="#" rel="nofollow">Our Company</a></li>
+            <li><a href="#" rel="nofollow">Careers</a></li>
+            <li><a href="#" rel="nofollow">Affiliate Program</a></li>
+            <li><a href="#" rel="nofollow"><strong>Shop Our Catalog</strong></a></li>
+            <li><a href="#" rel="nofollow">DocPort BLOG</a></li>
+          </ul>
+        </div>
+        <div class="footer-list-wrap">
+          <h6 class="ftr-hdr">My Account</h6>
+          <ul class="ftr-links-sub">
+            <art:content rule="!loggedin">
+              <li class="ftr-Login"><span class="link login-trigger">Access My Account</span></li>
+              <li><span class="link">Track My Order</span></li>
+            </art:content>
+            <art:content rule="loggedin">
+              <li class="ftr-Login"><span class="link ftr-access-my-account">Access My Account</span></li>
+              <li><span class="link">Track My Order</span></li>
+            </art:content>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-email">
+        <h6 class="ftr-hdr">Sign up for exclusive offers and inspiration</h6>
+        <div id="ftr-email" class="ftr-email-form">
+          <form id="ftrEmailForm" method="post" action="#">
+            <div class="error">Please enter a valid email address</div>
+            <input type="text" name="email_address_" id="ftrEmailInput" class="input" placeholder="Enter email address"/>
+          </form>
+        </div>
+        <div class="ftr-email-privacy-policy"></div>
+      </div>
+      <div class="footer-social">
+        <h6 class="ftr-hdr">Follow Us</h6>
+        <ul>
+          <li>
+            <a href="#" title="Facebook">
+              <img width="24" height="24" alt="Like us on Facebook" src="/images/fb.png">
+            </a>
+          </li>
+          <li>
+            <a href="#" title="Google+">
+              <img width="24" height="24" alt="Follow us on Google+" src="/images/gplus.png">
+            </a>
+          </li>
+          <li>
+            <a href="#" target="_blank">
+              <img width="24" height="24" alt="Follow us on Pinterest" src="/images/pin-badge.png">
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="#">
+              <img width="24" height="24" alt="Follow us on Instagram" src="/images/instagram-badge.png">
+            </a>
+          </li>
+          <li>
+            <a href="#" title="Twitter">
+              <img width="67" alt="Follow us on Twitter" src="/images/twitter.png">
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="footer-legal">
+        <p>&copy; Docport MIT Licence. | <a href="#" rel="nofollow">Privacy Policy</a> | <a href="#" rel="nofollow">Terms of Use</a> | <a href="#" rel="nofollow">Terms of Sale</a></p>
+        <p>Docport is free Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+        <p>Various aspects of this website are ...blablabla</p>
+      </div>
+    </div>
+  </div>
+  <!--/.footer-gray-->
+	    
+	
+    </footer>
+    
+
+
+
+  </body>
+</html>

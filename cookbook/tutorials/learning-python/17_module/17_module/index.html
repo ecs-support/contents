@@ -1,0 +1,2418 @@
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+	17. โมดูล (Module) :: DocPort Documentation
+</title>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="revised" content="2021-01-15T01:47:21 &#43;07">
+<meta name="description" content="">
+
+
+
+<title>17. โมดูล (Module) :: DocPort Documentation</title>
+
+<link rel="shortcut icon" href='/images/favicon.png' type="image/x-icon" />
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.css">
+
+<script src='https://code.jquery.com/jquery-3.5.1.min.js'></script>
+
+<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel="stylesheet">
+
+
+
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/layout.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/css/style.main.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/css/style.menu.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/notice.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/tabs.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/panel.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/columns.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/children.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/attachments.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/alert.css'>
+<link rel="stylesheet" type="text/css" href='/css/docport.css'>
+
+<script src='/js/docport.js'></script>
+<script type="text/javascript">
+      var baseurl = "https:\/\/example.com";
+</script>
+
+
+
+
+    
+  </head>
+
+  <body data-url="/tutorials/learning-python/17_module/17_module/"
+
+  class="">
+
+<style type="text/css">
+  #debug{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    line-height: 3.5rem;
+    margin-bottom: .35rem;
+    padding: 0 2rem;
+    position: fixed;
+    left: 0;      right: 0;     top: 0;
+   
+    top:0px;
+    
+    min-height: 150px;
+
+    background-color: white;
+    border: 3px solid red;
+    z-index: 10000 ;
+    word-wrap: all;
+    overflow: auto;
+  }
+</style>
+ 
+
+
+    
+    
+    <header style="">
+        <div>
+    
+    <div class="burger ">
+        <a href="javascript:void(0);" style="font-size:15px;" onclick="$('article > aside').toggleClass('responsive')">&#9776;</a>
+    </div>
+    
+
+    <div>
+
+		
+	
+			
+		
+	    	<a class='baselink' href='https://example.com'>DocPort Documentation</a>
+	  	
+	</div>
+    <nav class="shortcuts">
+            <li class="" role="">
+                <a href="https://github.com/vjeantet/hugo-theme-docport"  rel="noopener">
+                  Github
+                </a>
+            </li>
+            <li class="" role="">
+                <a href="https://github.com/vjeantet/hugo-theme-docport/archive/master.zip"  rel="noopener">
+                  Download
+                </a>
+            </li>
+            <li class="" role="">
+                <a href="https://gohugo.io/"  rel="noopener">
+                  Hugo Documentation
+                </a>
+            </li>
+            <li class="" role="">
+                <a href="/docport-theme/credits/"  rel="noopener">
+                  Credits
+                </a>
+            </li>
+    </nav>
+
+</div>
+    </header>
+    
+
+    <article>
+      
+      <aside class="">
+        
+<div class="search">
+	<div class="searchbox">
+	  <input data-search-input id="search-by" type="text" placeholder="Type to search...">
+	</div>
+	<script type="text/javascript" src="/vendor/lunr/lunr.min.js"></script>
+	<script type="text/javascript" src="/vendor/auto-complete/auto-complete.js"></script>
+	<link href="/vendor/auto-complete/auto-complete.css" rel="stylesheet">
+	<script type="text/javascript">
+	  
+	      var baseurl = "https:\/\/example.com";
+	  
+	</script>
+	<script type="text/javascript" src="/js/search.js"></script>
+</div>
+
+		
+	
+			
+		
+	    	
+	    
+	<div id="close_menu">
+  <a href="javascript:void(0);" style="font-size:15px;" onclick="$('article > aside').toggleClass('responsive')">
+      <i class="fa fa-lg fa-times"></i>
+  </a>
+</div>
+
+<ul class="menu">
+
+    <li data-nav-id="https://example.com/tutorials/" class="dd-item parent haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <i class="fas fa-chevron-down ddexp"></i>
+        
+      
+          <a href="/tutorials/">Tutorial</a>
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/" class="dd-item parent active haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/">Python by MascusCode</a>
+      
+          <i class="fas fa-chevron-down ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/0_intro/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/0_intro/">Introduction</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/3_structure/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/3_structure/">3. โครงสร้างของภาษา Python</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/4_type/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/4_type/">4. ตัวแปรและประเภทข้อมูล</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/9_function/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/9_function/">9. ฟังก์ชัน (Function)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/10_string/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/10_string/">10. String</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/11_string_methods/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/11_string_methods/">11. String methods</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/12_list/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/12_list/">12. List (ลิสต์)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/13_list_methods/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/13_list_methods/">13. List Methods (ลิสต์ เมธอด)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/15_dictionary/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/15_dictionary/">15. Dictionary</a>
+      
+        
+      
+    </li>
+              
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/20_classes/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/20_classes/">21. Classes &amp; Objects</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/21_inheritance/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/21_inheritance/">22. Inheritance</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/22_thread/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/22_thread/">23. Thread</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/24_date-time/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/24_date-time/">24. Date &amp; Time (วันที่และเวลา)</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/">Pandas</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/cookbook/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/cookbook/">Pandas Cookbook</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/short_introduction/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/short_introduction/">Short Introduction</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/short_introduction/10-minutes/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/short_introduction/10-minutes/">10 minutes to pandas</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/short_introduction/essential_snippets/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/short_introduction/essential_snippets/">19 Essential Snippets in Pandas</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/short_introduction/basic-to-beyond/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/short_introduction/basic-to-beyond/">Basics to Beyond</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/short_introduction/cheatsheet-pandas/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/short_introduction/cheatsheet-pandas/">Cheatsheet Pandas</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/tutorial-geeksforgeeks/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/tutorial-geeksforgeeks/">Tutorial (GeeksforGeeks)</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/tutorial-geeksforgeeks/selection/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/tutorial-geeksforgeeks/selection/">Selection</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/tutorial-geeksforgeeks/selection/dealing-with-rows-and-columns/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/tutorial-geeksforgeeks/selection/dealing-with-rows-and-columns/">Dealing with Rows and Columns</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/tutorial-geeksforgeeks/selection/extracting-rows-using-loc/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/tutorial-geeksforgeeks/selection/extracting-rows-using-loc/">Extracting rows using .loc[]</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/tutorial-geeksforgeeks/selection/extracting-rows-using-pandas-iloc/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/tutorial-geeksforgeeks/selection/extracting-rows-using-pandas-iloc/">Extracting rows using .iloc[]</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/">Python</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/">Learn Python</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/function/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/function/">Function</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/function/function_arguments/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/function/function_arguments/">Function Arguments</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/function/lambda_functions/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/function/lambda_functions/">Anonymous/Lambda Function</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/function/global_variables/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/function/global_variables/">Global, Local and variables</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/data_type/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/data_type/">Data Type</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/data_type/list/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/data_type/list/">Python: List</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/data_type/tuble/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/data_type/tuble/">Python: Tuble</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/data_type/string/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/data_type/string/">Python: String</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/data_type/set/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/data_type/set/">Python: Set</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/data_type/dictionary/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/data_type/dictionary/">Python: Dictionary</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/">Files</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/intro/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/intro/">Page Index</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/file_operations/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/file_operations/">Python File I/O</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/directory/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/directory/">Python: Directory</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/exceptions/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/exceptions/">Python Exceptions</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/exception-handling/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/exception-handling/">Exception Handling</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/user-defined-exception/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/user-defined-exception/">Custom Exceptions</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/objects_class/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/objects_class/">Object &amp; Class</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/objects_class/oop/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/objects_class/oop/">Object Oriented Programming (OOP)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/objects_class/class/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/objects_class/class/">Objects and Classes</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/objects_class/inheritance/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/objects_class/inheritance/">Python Inheritance</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/advance_topic/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/advance_topic/">Advance Topics</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/advance_topic/iterators/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/advance_topic/iterators/">Iterators</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/advance_topic/generators/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/advance_topic/generators/">Generators</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/">Date and Time</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/datetime_module/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/datetime_module/">datetime() Module</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/strftime/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/strftime/">strftime()</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/strptime/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/strptime/">strptime()</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/current-datetime/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/current-datetime/">Get Current Date and Time</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/timestamp_datetime/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/timestamp_datetime/">Timestamp to Datetime</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/time_module/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/time_module/">Time Module</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/sleep/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/sleep/">Time Sleep()</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/">phyblas</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/">ผู้เริ่มต้น (Beginer)</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/basic_functin/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/basic_functin/">ฟังก์ชันพื้นฐาน</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/string_output/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/string_output/">การแสดงผลตัวอักษร</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/string_format/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/string_format/">การจัดการกับสายอักขระ</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/list/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/list/">การจัดการกับลิสต์ (List)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/dictionary/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/dictionary/">ดิกชันนารี (Dictionary)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/module/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/module/">การเรียกใช้มอดูล (Module)</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/">ระดับกลาง(Intermediate)</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/read_files/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/read_files/">การอ่านข้อมูลจากไฟล์</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/write_files/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/write_files/">การเขียนข้อมูลลงไฟล์</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/create_function/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/create_function/">การสร้างฟังก์ชัน</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/recursive_function/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/recursive_function/">ฟังก์ชันเวียนเกิด</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/lambda/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/lambda/">คำสั่งพิเศษที่เกี่ยวข้องกับฟังก์ชัน</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/inheritance/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/inheritance/">การรับทอด</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/advance/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/advance/">ระดับสูง(Advance)</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/w3resource/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/w3resource/">Python Tutorial (w3resource)</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/w3resource/bytes/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/w3resource/bytes/">Python: Bytes, Bytearray</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/w3resource/regular_expression/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/w3resource/regular_expression/">Python: Regular Expression</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/quick_guide/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/quick_guide/">Python: Quick Guide</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/quick_guide/a-81-python-code-snippet/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/quick_guide/a-81-python-code-snippet/">81 Python Code Snippets</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/resources/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/resources/">Resources</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/resources/quick_reference_cards/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/resources/quick_reference_cards/">Quick Reference Card</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/pythonstandardlibrary/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/pythonstandardlibrary/">Standard Library</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/pythonstandardlibrary/text/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/pythonstandardlibrary/text/">Text</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/pythonstandardlibrary/text/string/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/pythonstandardlibrary/text/string/">String</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/">Tutorials</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/basic_syntax/" class="dd-item alwaysopen
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/basic_syntax/">Basic Syntax</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/date-time/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/date-time/">Date &amp; Time</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/date-time/pendulum/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/date-time/pendulum/">pendulum</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/date-time/overview/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/date-time/overview/">การจัดการวันเวลา</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/date-time/center/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/date-time/center/">Date &amp; Time tutorial</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/date-time/time-delta-striftime/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/date-time/time-delta-striftime/">TimeDelta, Strftime(Format)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/date-time/time-module/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/date-time/time-module/">Time Module</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/list/" class="dd-item alwaysopen
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/list/">List</a>
+      
+        
+      
+    </li>
+              
+<hr/>
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/dictionary/" class="dd-item alwaysopen haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/dictionary/">Dictionary&nbsp;👋</a>
+      
+          <i class="fas fa-chevron-down ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/dictionary/dict_beginner/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/dictionary/dict_beginner/">Beginners Tutorial</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/dictionary/merge-two-dictionaries/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/dictionary/merge-two-dictionaries/">Merge two Dictionaries</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/beginner/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/beginner/">Python for beginners</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+    
+
+
+
+</ul>
+
+		
+	
+			
+		
+	    	<center>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/vjeantet/hugo-theme-docport/archive/master.zip" data-icon="octicon-cloud-download" aria-label="Download vjeantet/hugo-theme-docport on GitHub">Download</a>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/vjeantet/hugo-theme-docport" data-icon="octicon-star" data-show-count="false" aria-label="Star vjeantet/hugo-theme-docport on GitHub">Star</a>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/vjeantet/hugo-theme-docport/fork" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork vjeantet/hugo-theme-docport on GitHub">Fork</a>
+</center>
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+	    
+	
+      </aside>
+      
+
+      <section class="page ">
+      
+	
+    
+    
+    <nav id="ariane" aria-label="breadcrumb">
+      <ol class="ariane">
+        
+  
+  	
+		
+  
+  	
+		
+  
+  	
+	<li >
+      <a class="text-link" href="https://example.com">
+        Home
+      </a>
+    </li>
+	
+  
+    <li class="">
+      <a class="text-link" href="/tutorials/">
+        Tutorial
+      </a>
+    </li>
+	
+  	
+  
+    <li class="">
+      <a class="text-link" href="/tutorials/learning-python/">
+        Python by MascusCode
+      </a>
+    </li>
+	
+  	
+  
+    <li class="active">
+      
+        17. โมดูล (Module)
+      
+    </li>
+
+      </ol>
+    </nav>
+    
+    
+
+    
+		
+        
+		
+		
+		
+		
+		
+		
+		
+
+		
+			<h1>Python by MascusCode<span>17. โมดูล (Module)</span></h1>
+        
+
+			
+			
+		
+
+		
+				<nav class="subpages">
+	            		
+	        			
+	            	<li class="active">
+	            		<a title="$pagetitle" href="/tutorials/learning-python/17_module/17_module/">17. โมดูล (Module)</a>
+	            	</li>
+	        	</nav> 
+		
+	
+
+	
+	
+	<div class="jump-to-section">
+		<span onclick="$h = $(this);$h.next('nav').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('nav').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
+  			<span class="fas fa-align-right"></span>
+  			Jump to Section
+  			<i style=";" class="fas fa-chevron-right"></i>
+		</span>
+		<nav id="TableOfContents">
+  <ul>
+    <li><a href="#โมดล-คออะไร">โมดูล คืออะไร</a></li>
+    <li><a href="#การสรางโมดลในภาษา-python">การสร้างโมดูลในภาษา Python</a></li>
+    <li><a href="#การนำเขาโมดลดวยคำสง-import">การนำเข้าโมดูลด้วยคำสั่ง import</a></li>
+    <li><a href="#การนำเขาโมดลดวยคำสง-from--import">การนำเข้าโมดูลด้วยคำสั่ง from &hellip; import</a></li>
+    <li><a href="#packages">Packages</a></li>
+  </ul>
+</nav>
+	</div>
+	
+	
+
+
+
+
+
+
+	<div class="content">
+	    <p>ในการเขียนโปรแกรมในภาษา Python โมดูล (Module) คือไฟล์ของโปรแกรมที่กำหนดตัวแปร ฟังก์ชัน หรือคลาสโดยแบ่งย่อยออกไปจากโปรแกรมหลัก และสามารถนำมาใช้งานได้โดยการนำเข้ามาในโปรแกรม (Import) กล่าวอีกนัยหนึ่ง โมดูลก็คือไลบรารี่ที่สร้างไว้และนำมาใช้งานในโปรแกรม ในบทนี้ เราจะพูดถึงความหมายของโมดูล การสร้าง และการใช้งานโมดูลในการเขียนโปรแกรม นอกจากนี้ เราจะแนะนำให้คุณรู้จักกับ Package ซึ่งเป็นแนวคิดในการจัดการกับโมดูลในรูปแบบของ Namespace</p>
+<h2 ref="โมดล-คออะไร" >โมดูล คืออะไร</h2><a class="anchor" id="โมดล-คออะไร"></a>
+<p>โมดูล (Module) คือไฟล์หรือส่วนของโปรแกรมที่ใช้สำหรับกำหนดตัวแปร ฟังก์ชัน หรือคลาสโดยแบ่งย่อยอีกหน่วยหนึ่งจากโปรแกรมหลัก และในโมดูลยังสามารถประกอบไปด้วยคำสั่งประมวลผลการทำงานได้ ยกตัวอย่างเช่น เมื่อคุณเขียนโปรแกรมในภาษา Python คุณอาจจะมีฟังก์ชันสำหรับทำงานและจัดการกับตัวเลขเป็นจำนวนมาก และในขณะเดียวกัน คุณไม่ต้องการให้โปรแกรมหลักนั้นมีขนาดใหญ่เกินไป นั่นหมายความว่าคุณสามารถนำฟังก์ชันเหล่านี้มาสร้างเป็นโมดูล และในการใช้งานนั้นจะต้องนำเข้ามาในโปรแกรมโดยวิธีที่เรียกว่า Import</p>
+<p><img src="http://marcuscode.com/media/75/marcuscode_dFj1l9de_1000.jpg" alt="http://marcuscode.com/media/75/marcuscode_dFj1l9de_1000.jpg"></p>
+<p>คุณจะเห็นว่าโมดูลก็คือการแยกส่วนของโปรแกรมออกไปเป็นอีกส่วนและสามารถเรียกใช้ได้เมื่อต้องการ หรือกล่าวอีกนัยหนึ่ง โมดูลก็เหมือนไลบรารีของฟังก์ชันและคลาสต่างๆ นั่นเป็นเพราะว่าเมื่อโปรแกรมของคุณมีขนาดใหญ่ คุณสามารถแบ่งส่วนต่างๆ ของโปรแกรมออกเป็นโมดูลย่อยๆ เพื่อให้ง่ายต่อการจัดการและการใช้งาน ในภาษา Python โมดูลที่ถูกสร้างขึ้นมานั้นจะเป็นไฟล์ในรูปแบบ <code>module_name.py</code> และนอกจากนี้ Python ยังมี Built-in module เป็นจำนวนมาก เช่น <code>math</code> เป็นโมดูลเกี่ยวกับฟังก์ชันทางคณิตศาสตร์ หรือ <code>random</code> เป็นโมดูลเพื่อจัดการและสุ่มตัวเลข เป็นต้น</p>
+<h2 ref="การสรางโมดลในภาษา-python" >การสร้างโมดูลในภาษา Python</h2><a class="anchor" id="การสรางโมดลในภาษา-python"></a>
+<p>ในการสร้างโมดูลในภาษา Python คุณต้องนำโค้ดของโปรแกรม โดยทั่วไปแล้วจะประกอบไปด้วย ตัวแปร ฟังก์ชัน หรือคลาส ไปรวมไว้ในไฟล์ใหม่ที่ไม่ใช้ไฟล์หลักของโปรแกรม ในรูปแบบ <code>module_name.py</code> โดยที่ <code>module_name</code> นั้นเป็นชื่อของโมดูลเพื่อนำไปใช้งานในการเขียนโปรแกรม โดยการเรียกใช้ด้วยคำสั่ง <code>import</code> ต่อไปมาดูตัวอย่างการสร้างโมดูลในภาษา Python</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-python" data-lang="python"><span style="color:#75715e"># number.py</span>
+<span style="color:#66d9ef">def</span> <span style="color:#a6e22e">factorial</span>(n):   <span style="color:#75715e"># return factorial value of n</span>
+    <span style="color:#66d9ef">if</span> n <span style="color:#f92672">==</span> <span style="color:#ae81ff">0</span> <span style="color:#f92672">or</span> n <span style="color:#f92672">==</span> <span style="color:#ae81ff">1</span>:
+        <span style="color:#66d9ef">return</span> <span style="color:#ae81ff">1</span>
+    <span style="color:#66d9ef">else</span>:
+        <span style="color:#66d9ef">return</span> n <span style="color:#f92672">*</span> factorial(n <span style="color:#f92672">-</span> <span style="color:#ae81ff">1</span>)
+
+<span style="color:#66d9ef">def</span> <span style="color:#a6e22e">fibonacci</span>(n):   <span style="color:#75715e"># return Fibonacci series up to n</span>
+    result <span style="color:#f92672">=</span> []
+    a, b <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>, <span style="color:#ae81ff">1</span>
+    <span style="color:#66d9ef">while</span> b <span style="color:#f92672">&lt;</span> n:
+        result<span style="color:#f92672">.</span>append(b)
+        a, b <span style="color:#f92672">=</span> b, a <span style="color:#f92672">+</span> b
+    <span style="color:#66d9ef">return</span> result
+
+</code></pre></div><p>ในตัวอย่าง เป็นการสร้างโมดูลโดยไฟล์ของโมดูลนั้นมีชื่อว่า <code>number.py</code> นั่นหมายความว่าโมดูลนี้มีชื่อว่า <code>number</code> ซึ่งนี่เป็นสิ่งที่เราจะใช้สำหรับเรียกใช้งานโมดูลในการเขียนโปรแกรม ภายในโมดูลประกอบไปด้วย 2 ฟังก์ชันที่ทำงานเกี่ยวกับตัวเลข ฟังก์ชัน <code>factorial()</code> เป็นฟังก์ชันสำหรับหาค่า Factorial ของตัวเลขจำนวนเต็ม n ซึ่งเป็น <em>Recursive function</em> และฟังก์ชัน <code>fibonacci()</code> ใช้หาลำดับของ Fibonacci จนถึงจำนวนเต็ม n</p>
+<h2 ref="การนำเขาโมดลดวยคำสง-import" >การนำเข้าโมดูลด้วยคำสั่ง import</h2><a class="anchor" id="การนำเขาโมดลดวยคำสง-import"></a>
+<p>หลังจากที่เราได้สร้างโมดูลไปแล้ว ต่อไปจะเป็นการนำโมดูลดังกล่าวมาใช้งาน ในภาษา Python นั้นจะใช้คำสั่ง <code>import</code> เพื่อนำเข้าโมดูลเพื่อนำมาใช้งานในโปรแกรม มาดูตัวอย่างการใช้งานโมดูล <code>number</code> ในตัวอย่างก่อนหน้า นี่เป็นโค้ดของโปรแกรม</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-python" data-lang="python"><span style="color:#f92672">import</span> number
+
+<span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#39;5! = &#39;</span>, number<span style="color:#f92672">.</span>factorial(<span style="color:#ae81ff">5</span>))
+<span style="color:#66d9ef">print</span>(number<span style="color:#f92672">.</span>fibonacci(<span style="color:#ae81ff">100</span>))
+
+</code></pre></div><p>ในตัวอย่าง เป็นการนำโมดูล <code>number</code> เข้ามาใช้งานที่โปรแกรมหลัก (Main program) โดยการใช้คำสั่ง <code>import</code> และตามด้วยชื่อของโมดูล นี่เป็นการนำเข้าสมาชิกทั้งหมดเข้ามาในโปรแกรม ในการใช้งานฟังก์ชันในโมดูลนั้นสามารถทำได้โดยใช้ชื่อของโมดูล ตามด้วยเครื่องหมายจุด และหลังจากนั้นเป็นฟังก์ชันที่ต้องการ ในรูปแบบ <code>module_name.object_name</code> เราได้เข้าถึงฟังก์ชันทั้งสองในโมดูล</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-fallback" data-lang="fallback">5! =  120
+[1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
+
+</code></pre></div><p>นี่เป็นผลลัพธ์การทำงานของโปรแกรม ซึ่งนี่แสดงให้เห็นอย่างชัดเจนว่า เราสามารถใช้โมดูลในการแยกโค้ดของโปรแกรมออกไปต่างหากได้ ซึ่งจะทำให้โปรแกรมสั้นลงหรือทำเป็นไลบรารี่เพื่อนำไว้ใช้เมื่อต้องการ</p>
+<h2 ref="การนำเขาโมดลดวยคำสง-from--import" >การนำเข้าโมดูลด้วยคำสั่ง from &hellip; import</h2><a class="anchor" id="การนำเขาโมดลดวยคำสง-from--import"></a>
+<p>ในการใช้งานคำสั่ง <code>import</code> นั้นจะเป็นการนำเข้าออบเจ็คทั้งหมดในโมดูลเข้ามายังโปรแกรม และการใช้งานฟังก์ชันหรือออบเจ็คภายในโมดูลจะต้องนำหน้าด้วยชื่อโมดูลเสมอ ในภาษา Python นั้นมีคำสั่ง <code>from import</code> สำหรับนำเข้าข้อมูลบางส่วนภายในโมดูล และสามารถใช้งานออบเจ็คได้โดยตรงโดยไม่ต้องมี Prefix ชื่อของโมดูล มาดูตัวอย่างการใช้งาน</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-python" data-lang="python"><span style="color:#f92672">from</span> number <span style="color:#f92672">import</span> factorial
+
+<span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#39;5! = &#39;</span>, factorial(<span style="color:#ae81ff">5</span>))
+<span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#39;3! = &#39;</span>, factorial(<span style="color:#ae81ff">3</span>))
+
+</code></pre></div><p>ในตัวอย่าง เป็นการใช้งานคำสั่ง <code>from ... import</code> เพื่อนำเข้าฟังก์ชันภายในโมดูล <code>number</code> จะเห็นได้ว่าเราได้นำเข้าเพียงฟังก์ชัน <code>factorial()</code> เข้ามาในโปรแกรมและในตอนใช้งานนั้นสามารถใช้ได้โดยที่ไม่ต้องใช้ Prefix ในการเรียกใช้</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-python" data-lang="python"><span style="color:#f92672">from</span> number <span style="color:#f92672">import</span> factorial, fibonacci
+<span style="color:#75715e"># or</span>
+<span style="color:#f92672">from</span> number <span style="color:#f92672">import</span> <span style="color:#f92672">*</span>
+
+</code></pre></div><p>ในอีกทางหนึ่ง คุณสามารถนำเข้าหลายออบเจ็ค (ฟังก์ชัน) ในโมดูลโดยการใช้เครื่องหมายคอมมา (,) เป็นตัวคั่น หรือนำเข้าทั้งหมดโดยการใช้เครื่องหมายสตาร์ (*) เหมือนในตัวอย่างด้านบน แต่อย่างไรก็ตามนี่เป็นวิธีที่ไม่แนะนำในการใช้งาน เพราะว่าวิธีดังกล่าวนั้นจะเป็นการนำเข้าที่อาจจะเกิดความขัดแย้งกัน ดังนั้นการใช้งานในรูปแบบของ Prefix จึงเป็นวิธีฝึกปฏิบัติที่ดีสำหรับการ Import โมดูลเข้ามาในโปรแกรม และนอกจากนี้ โมดูลยังสามารถ Import เป็นแบบลำดับชั้นได้ ยกตัวอย่างเช่น โมดูล B นำเข้า โมดูล A และหลังจากนั้นโมดูล C นำเข้าโมดูล B (A -&gt; B -&gt; C) เป็นต้น</p>
+<p>ในการ Import โมดูลเข้ามาในโปรแกรมนั้น Python จะทำการค้นหาไฟล์ของ <code>module_name.py</code> จาก Built-in module ก่อน แล้วหลังจากนั้นโปรแกรมจะทำการค้นหาโมดูลภายในลิสต์ของ Directory ภายในตัวแปร <code>sys.path</code></p>
+<h2 ref="packages" >Packages</h2><a class="anchor" id="packages"></a>
+<p>Package คือการกำหนดโครงสร้างของโมดูลในภาษา Python ที่เรียกว่า Namespace เพื่อจัดระเบียบของโมดูลต่างๆ ให้เป็นหมวดหมู่เดียวกัน แนวคิดของ Package เหมือนกับระบบจัดการไฟล์ในระบบปฏิบัติการซึ่งจะประกอบไปด้วยไฟล์และโฟล์เดอร์ โดยไฟล์ที่อยู่ในหมวดหมู่เดียวกันจะถูกเก็บไว้ในโฟล์เดอร์เดียวกัน เช่นเดียวกัน Package ใช้สำหรับจัดหมวดหมู่ให้กับโมดูล โดยโมดูลที่มีฟังก์ชันและคลาสการทำงานที่เหมือนกันจะอยู่ใน Package เดียวกัน อย่างไรก็ตาม นี่จะขึ้นกับการออกแบบของโปรแกรมเมอร์</p>
+<p>ในการสร้าง Package คุณต้องสร้างโฟลด์เดอร์ให้มีโครงสร้างตามที่ต้องการ เนื่องจากในภาษา Python นั้น Package ก็คือโฟล์เดอร์ที่ใช้เก็บไฟล์โมดูลของโปรแกรม และสามารถซ้อนกันได้แบบลำดับชั้น นี่เป็นตัวอย่างของ Package ที่เราได้สร้างขึ้นโดยมี <code>image</code> เป็นรูทของ Package ภายใน Package นี้จะแบ่งย่อยออกเป็นอีกสาม Package คือ <code>formats</code> <code>filters</code> และ <code>edit</code> และแต่ละ Package จะมีโมดูลอยู่ภายใน</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-python" data-lang="python">image<span style="color:#f92672">/</span>                          Top<span style="color:#f92672">-</span>level package
+      __init__<span style="color:#f92672">.</span>py               Initialize the image package
+      formats<span style="color:#f92672">/</span>                  Subpackage <span style="color:#66d9ef">for</span> file format
+              __init__<span style="color:#f92672">.</span>py
+              jpeg<span style="color:#f92672">.</span>py
+              gif<span style="color:#f92672">.</span>py
+              png<span style="color:#f92672">.</span>py
+              <span style="color:#f92672">...</span>
+      filters<span style="color:#f92672">/</span>                  Subpackage <span style="color:#66d9ef">for</span> image filters
+              __init__<span style="color:#f92672">.</span>py
+              blur<span style="color:#f92672">.</span>py
+              noise<span style="color:#f92672">.</span>py
+              render<span style="color:#f92672">.</span>py
+              <span style="color:#f92672">...</span>
+      edit<span style="color:#f92672">/</span>                  Subpackage <span style="color:#66d9ef">for</span> editing images
+              __init__<span style="color:#f92672">.</span>py
+              crop<span style="color:#f92672">.</span>py
+              grayscale<span style="color:#f92672">.</span>py
+              invert<span style="color:#f92672">.</span>py
+              resize<span style="color:#f92672">.</span>py
+              <span style="color:#f92672">...</span>
+
+</code></pre></div><p>ในโฟล์เดอร์ของใน Package มีจะมีไฟล์พิเศษที่ชื่อว่า <code>__init__.py</code> ซึ่งเป็นตัวกำหนดโมดูลภายใน Package สำหรับเพื่อให้ Python ใช้ในการค้นหา Package ภายในโฟล์เดอร์ดังกล่าวเมื่อมีการ Import ในรูปแบบ <code>import *</code> และไฟล์นี้สามารถที่จะไม่มีก็ได้ มาดูตัวอย่างของไฟล์ <code>__init__.py</code> สำหรับ Package <code>image/formats</code></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-fallback" data-lang="fallback">__all__ = [&#34;jpeg&#34;, &#34;gif&#34;, &#34;png&#34;]
+
+</code></pre></div><p>ในตัวอย่าง เราได้กำหนดค่าให้กับไฟล์ <code>__init__.py</code> สำหรับ Package <code>image/formats</code> ในตัวแปร <code>__all__</code> เป็นรายการของโมดูลหรือ Package ย่อยที่จะอนุญาติให้ Python ทำการค้นหาและโหลดเข้ามาในโปรแกรม ซึ่งนี่เป็นการบอก Python ว่าโมดูลดังกล่าวนั้นจะถูก Import เมื่อมีการใช้คำสั่ง <code>import *</code> และต่อไปมาดูตัวอย่างการใช้งานและการ Import โมดูลจาก Package ในภาษา Python โดยในไฟล์ <code>image/formats/jpeg.py</code> นั้นมีโค้ดดังต่อไปนี้</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-python" data-lang="python"><span style="color:#66d9ef">class</span> <span style="color:#a6e22e">JPEG</span>:
+
+    <span style="color:#66d9ef">def</span> __init__(self, w, h):
+        self<span style="color:#f92672">.</span>w <span style="color:#f92672">=</span> w
+        self<span style="color:#f92672">.</span>h <span style="color:#f92672">=</span> h
+        <span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#39;JPEG image created&#39;</span>)
+
+    <span style="color:#66d9ef">def</span> <span style="color:#a6e22e">dimension</span>(self):
+        <span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#39;Image dimension:&#39;</span>, self<span style="color:#f92672">.</span>w, <span style="color:#e6db74">&#39;x&#39;</span>, (self<span style="color:#f92672">.</span>h)) 
+
+</code></pre></div><p>ในโมดูล <code>jpeg</code> ได้มีคลาส <code>JPEG</code> สำหรับสร้างรูปภาพประเภท jpeg เพื่อที่จะใช้งานคลาสนี้ เราจะต้องทำการ Import โมดูลดังกล่าวเข้ามาในโปรแกรม ด้วยคำสั่งดังนี้</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-python" data-lang="python"><span style="color:#f92672">from</span> image.formats <span style="color:#f92672">import</span> jpeg
+<span style="color:#f92672">from</span> image.formats <span style="color:#f92672">import</span> <span style="color:#f92672">*</span>
+
+</code></pre></div><p>ในตัวอย่าง เป็นสองวิธีที่คุณสามารทำได้สำหรับการ Import โมดูล <code>jpeg</code> เข้ามาใช้งานในโปรแกรม ในแบบแรกเป็นการ Import เพียงเฉพาะโมดูล <code>jpeg</code> ที่กำหนด และในแบบที่สองนั้นเป็นการเลือกทั้งหมด ซึ่งนี่จะทำให้ Python ทำการ Import โมดูลที่ถูกกำหนดไว้ในไฟล์ <code>__init__.py</code> ถ้าหากมีไฟล์ดังกล่าว อย่างไรก็ตาม ในวิธีที่สองนั้นไม่แนะนำในทางปฏิบัติ เพราะคุณควรจะ Import เพียงโมดูลที่ต้องการใช้งานจริงๆ เท่านั้น ซึ่งนี่จะช่วยประหยัดหน่วยความจำได้</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-python" data-lang="python"><span style="color:#f92672">import</span> image.formats.jpeg
+
+g <span style="color:#f92672">=</span> jpeg<span style="color:#f92672">.</span>JPEG(<span style="color:#ae81ff">400</span>, <span style="color:#ae81ff">100</span>)
+g<span style="color:#f92672">.</span>dimension()
+
+</code></pre></div><p>นี่เป็นตัวอย่างของการ Import โมดูลจาก Package และสร้างออบเจ็คจากคลาส <code>JPEG</code> คุณจะเห็นว่าในการเข้าถึงคลาสนั้นเรายังคงต้อง Prefix กับชื่อของโมดูลเสมอ</p>
+<p>ในบทนี้ คุณได้เรียนรู้เกี่ยวกับโมดูลในภาษา Python และได้ทราบว่าการใช้งานโมดูลนั้นสามารถช่วยแบ่งโค้ดออกเป็นส่วนๆ และเรียกใช้งานได้เมื่อต้องการ เราได้พูดถึงการสร้างและการใช้งานโมดูลโดยการนำเข้าโมดูลด้วยคำสั่ง <code>import</code> และคำสั่ง from import การจัดหมวดหมู่ของโมดูลด้วย Package นี่เป็นสิ่งที่สำคัญเมื่อโปรแกรมของคุณมีขนาดใหญ่ขึ้น คุณอาจจะแบ่งมันออกเป็นส่วนๆ โดยแยกเป็นโมดูล และจัดกลุ่มของโมดูลด้วยการใช้ Package และนอกจากนี้ คุณยังสามารถสร้างไลบรารี่ของคุณ เพื่อให้นักพัฒนาคนอื่นๆ ได้ใช้งาน</p>
+<p>Reference : <a href="http://marcuscode.com/lang/python/modules">http://marcuscode.com/lang/python/modules</a></p>
+
+		</div>
+
+
+
+
+
+
+	 
+	<div class="chevrons">
+		<a class="next" href="/tutorials/learning-python/0_intro/" title="Introduction" style="margin-right: 0px;">
+            <div>
+                <p>Next page</p>
+                <label>Introduction</label>
+            </div>
+            <i class="fas fa-arrow-right" style="font-size: 1.7em"></i></a>
+	</div>
+	
+
+      </section>
+
+      
+      
+      <section class="right-menu ">
+      
+	
+
+		
+	
+			
+		
+	    	
+	  	
+	<div class="TableOfContents">
+    <label><i class="fas fa-align-right"></i>&nbsp;&nbsp;What&#39;s on this page</label>
+    <nav>
+        <ul >
+            <li><a href="/tutorials/learning-python/17_module/17_module/">17. โมดูล (Module)</a></li>
+        </ul>
+    </nav>
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#โมดล-คออะไร">โมดูล คืออะไร</a></li>
+    <li><a href="#การสรางโมดลในภาษา-python">การสร้างโมดูลในภาษา Python</a></li>
+    <li><a href="#การนำเขาโมดลดวยคำสง-import">การนำเข้าโมดูลด้วยคำสั่ง import</a></li>
+    <li><a href="#การนำเขาโมดลดวยคำสง-from--import">การนำเข้าโมดูลด้วยคำสั่ง from &hellip; import</a></li>
+    <li><a href="#packages">Packages</a></li>
+  </ul>
+</nav>
+</div>
+
+		
+	
+			
+		
+	    	
+	    
+	<div class="Actions">
+	<nav>
+		<ul>
+				
+		    
+		    
+		    
+		    <li>
+		    	
+		        <a href="https://example.comadmin/#/collections/pages/entries/tutorials/learning-python/17_module/17_module" target="blank">
+		        <i class="fab fa-github"></i>
+		        Improve this page</a>
+		    </li>
+		    
+		    
+			
+		    
+
+    	</ul>
+	</nav>
+    
+</div>
+
+      </section>
+      
+    </article>
+    
+    
+    <footer>
+      
+
+		
+	
+			
+		
+	    	<style type="text/css">
+
+.footer-gray {
+  width: 100%;
+  color: #888;
+}
+
+.footer-custom {
+  font: normal normal 12px/1.4 sans-serif;
+  /*max-width: 1008px;*/
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+.footer-custom:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.footer-lists:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.ftr-hdr {
+  color: white;
+  font: 22px/1.4  sans-serif;
+  margin: 1em 0 0;
+}
+
+@media only screen and (min-width: 768px) {
+  .ftr-hdr {
+    font-size: 18px;
+  }
+}
+
+.footer-list-wrap {
+  width: 50%;
+  float: left;
+  box-sizing: border-box;
+}
+
+@media only screen and (min-width: 568px) {
+  .footer-list-wrap {
+    width: 33.3333%;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .footer-list-wrap {
+    width: 25%;
+  }
+}
+
+.ftr-links-sub {
+  padding: 0;
+  margin: 0;
+}
+
+.ftr-links-sub:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.ftr-links-sub li {
+  display: block;
+  list-style-type: none;
+  margin: 0;
+  padding: 3px 0;
+  color: #888;
+  font: normal normal 12px sans-serif;
+  text-transform: uppercase;
+  /*width: 150px;*/
+}
+
+.footer-custom a,
+.footer-custom a:link,
+.footer-custom a:visited,
+.ftr-links-sub li .link {
+  text-decoration: none;
+  color: #888;
+  padding: 5px 0;
+  display: block;
+}
+
+.footer-custom .footer-legal a {
+  display: inline;
+}
+
+.footer-custom a:hover,
+.footer-custom a:active,
+.ftr-links-sub li .link:hover {
+  text-decoration: underline;
+  color: #888;
+  cursor: pointer;
+}
+
+@media only screen and (min-width: 768px) {
+  .footer-custom a, .footer-custom a:link, .footer-custom a:visited, .ftr-links-sub li .link {
+    padding: 0;
+  }
+}
+/* BEGIN EMAIL CAPTURE STYLES*/
+
+.footer-email {
+  text-align: center;
+}
+
+#ftrEmailForm {
+  height: 44px;
+}
+
+#ftrEmailForm .error {
+  display: none;
+  color: red;
+  text-align: left;
+}
+
+#ftrEmailForm #ftrEmailInput {
+  background: none repeat scroll 0 0 #FFF;
+  border: 1px solid #D6D6D6;
+  box-sizing: border-box;
+  color: #888;
+  float: left;
+  font: normal normal 14px/1.4 sans-serif;
+  padding: 5px;
+  width: 70%;
+  height: 100%;
+}
+
+#ftrEmailForm #ftrEmailInput:hover {
+  border: 1px solid #888;
+}
+
+#ftrEmailForm #ftrEmailInput:focus {
+  border: 1px solid #ef9223;
+  outline: #ef9223 auto 5px;
+}
+
+#ftrEmailForm .button {
+  width: 30%;
+  height: 100%;
+  padding: 5px;
+  float: left;
+  border: 1px solid #DFDFDF;
+  box-sizing: border-box;
+  color: #000;
+  font: normal bold 18px/1 sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  background: #FFF;
+  background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJod…EiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, white), color-stop(100%, #e1e1e1));
+  background: -webkit-linear-gradient(top, white 0, #e1e1e1 100%);
+  background: -moz-linear-gradient(top, white 0, #e1e1e1 100%);
+  background: -ms-linear-gradient(top, white 0, #e1e1e1 100%);
+  background: -o-linear-gradient(top, white 0, #e1e1e1 100%);
+  background: linear-gradient(to bottom, white 0, #e1e1e1 100%);
+  cursor: pointer;
+  vertical-align: middle;
+  outline: none;
+}
+
+#ftrEmailForm .button:hover,
+#ftrEmailForm .button:active {
+  background: black;
+  color: #FFF;
+  outline: none;
+}
+/* BEGIN SOCIAL STYLES*/
+
+.footer-social {
+  text-align: center;
+}
+
+.footer-social ul {
+  padding: 0;
+  display: inline-block;
+  list-style-type: none;
+}
+
+.footer-social ul:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.footer-social li {
+  float: left;
+  margin: 0 15px 0 0;
+  padding: 0;
+}
+
+@media only screen and (min-width: 768px) {
+  .footer-lists {
+    width: 100%;
+  }
+  .footer-email {
+    width: 50%;
+    float: left;
+    text-align: left;
+  }
+  .footer-social {
+    width: 45%;
+    margin-left: 5%;
+    float: left;
+    text-align: left;
+  }
+}
+
+@media only screen and (min-width: 1008px) {
+  .footer-lists {
+    width: 66.6666%;
+    float: left;
+  }
+  .footer-email {
+    width: 33.3333%;
+  }
+  .footer-social {
+    width: 33.3333%;
+    float: right;
+    margin-left: 0;
+  }
+}
+
+.footer-legal {
+  padding: 15px 0 0;
+  clear: left;
+}
+
+.footer-payment {
+  text-align: center;
+}
+
+@media only screen and (min-width: 768px) {
+  .footer-legal {
+    width: 66.6666%;
+    float: left;
+  }
+  .footer-payment {
+    width: 33.3333%;
+    float: left;
+  }
+}
+
+@media only screen and (min-width: 1008px) {
+  .footer-payment {
+    text-align: left;
+  }
+}
+
+.footer-payment ul {
+  padding: 0;
+  display: inline-block;
+  list-style-type: none;
+}
+
+.footer-payment ul li {
+  display: inline-block;
+  margin: 0 6px;
+}
+
+@media only screen and (min-width: 1008px) {
+  .footer-payment ul li.ftr-stella {
+    margin-left: 0;
+  }
+}
+
+
+</style>
+  <div class="footer-gray">
+    <div class="footer-custom">
+      <div class="footer-lists">
+        <div class="footer-list-wrap">
+          <h6 class="ftr-hdr">Order Something</h6>
+          <ul class="ftr-links-sub">
+            <li>800-123-4567</li>
+          </ul>
+          <h6 class="ftr-hdr">International</h6>
+          <ul class="ftr-links-sub">
+            <li><a href="#" rel="nofollow">France</a></li>
+            <li><a href="#" rel="nofollow">Cape Verde</a></li>
+          </ul>
+        </div>
+        <div class="footer-list-wrap">
+          <h6 class="ftr-hdr">Customer Service</h6>
+          <ul class="ftr-links-sub">
+            <li><a href="#" rel="nofollow">Contact Us</a></li>
+            <li><a href="#" rel="nofollow">Ordering</a></li>
+            <li><a href="#" rel="nofollow">Shipping &amp; Delivery</a></li>
+            <li><a href="#" rel="nofollow">Returns</a></li>
+            <li><a href="#" rel="nofollow">Gift Cards</a></li>
+            <li><a href="#" rel="nofollow">FAQs</a></li>
+          </ul>
+        </div>
+        <div class="footer-list-wrap">
+          <h6 class="ftr-hdr">About DocPort</h6>
+          <ul class="ftr-links-sub">
+            <li><a href="#" rel="nofollow">Our Company</a></li>
+            <li><a href="#" rel="nofollow">Careers</a></li>
+            <li><a href="#" rel="nofollow">Affiliate Program</a></li>
+            <li><a href="#" rel="nofollow"><strong>Shop Our Catalog</strong></a></li>
+            <li><a href="#" rel="nofollow">DocPort BLOG</a></li>
+          </ul>
+        </div>
+        <div class="footer-list-wrap">
+          <h6 class="ftr-hdr">My Account</h6>
+          <ul class="ftr-links-sub">
+            <art:content rule="!loggedin">
+              <li class="ftr-Login"><span class="link login-trigger">Access My Account</span></li>
+              <li><span class="link">Track My Order</span></li>
+            </art:content>
+            <art:content rule="loggedin">
+              <li class="ftr-Login"><span class="link ftr-access-my-account">Access My Account</span></li>
+              <li><span class="link">Track My Order</span></li>
+            </art:content>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-email">
+        <h6 class="ftr-hdr">Sign up for exclusive offers and inspiration</h6>
+        <div id="ftr-email" class="ftr-email-form">
+          <form id="ftrEmailForm" method="post" action="#">
+            <div class="error">Please enter a valid email address</div>
+            <input type="text" name="email_address_" id="ftrEmailInput" class="input" placeholder="Enter email address"/>
+          </form>
+        </div>
+        <div class="ftr-email-privacy-policy"></div>
+      </div>
+      <div class="footer-social">
+        <h6 class="ftr-hdr">Follow Us</h6>
+        <ul>
+          <li>
+            <a href="#" title="Facebook">
+              <img width="24" height="24" alt="Like us on Facebook" src="/images/fb.png">
+            </a>
+          </li>
+          <li>
+            <a href="#" title="Google+">
+              <img width="24" height="24" alt="Follow us on Google+" src="/images/gplus.png">
+            </a>
+          </li>
+          <li>
+            <a href="#" target="_blank">
+              <img width="24" height="24" alt="Follow us on Pinterest" src="/images/pin-badge.png">
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="#">
+              <img width="24" height="24" alt="Follow us on Instagram" src="/images/instagram-badge.png">
+            </a>
+          </li>
+          <li>
+            <a href="#" title="Twitter">
+              <img width="67" alt="Follow us on Twitter" src="/images/twitter.png">
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="footer-legal">
+        <p>&copy; Docport MIT Licence. | <a href="#" rel="nofollow">Privacy Policy</a> | <a href="#" rel="nofollow">Terms of Use</a> | <a href="#" rel="nofollow">Terms of Sale</a></p>
+        <p>Docport is free Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+        <p>Various aspects of this website are ...blablabla</p>
+      </div>
+    </div>
+  </div>
+  <!--/.footer-gray-->
+	    
+	
+    </footer>
+    
+
+
+
+  </body>
+</html>

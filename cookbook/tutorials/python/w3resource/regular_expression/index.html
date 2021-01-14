@@ -1,0 +1,2733 @@
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+	Python: Regular Expression :: DocPort Documentation
+</title>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="revised" content="2021-01-15T01:47:24 &#43;07">
+<meta name="description" content="">
+
+
+
+<title>Python: Regular Expression :: DocPort Documentation</title>
+
+<link rel="shortcut icon" href='/images/favicon.png' type="image/x-icon" />
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.css">
+
+<script src='https://code.jquery.com/jquery-3.5.1.min.js'></script>
+
+<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel="stylesheet">
+
+
+
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/layout.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/css/style.main.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/css/style.menu.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/notice.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/tabs.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/panel.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/columns.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/children.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/attachments.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/alert.css'>
+<link rel="stylesheet" type="text/css" href='/css/docport.css'>
+
+<script src='/js/docport.js'></script>
+<script type="text/javascript">
+      var baseurl = "https:\/\/example.com";
+</script>
+
+
+
+
+    
+  </head>
+
+  <body data-url="/tutorials/python/w3resource/regular_expression/"
+
+  class="">
+
+<style type="text/css">
+  #debug{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    line-height: 3.5rem;
+    margin-bottom: .35rem;
+    padding: 0 2rem;
+    position: fixed;
+    left: 0;      right: 0;     top: 0;
+   
+    top:0px;
+    
+    min-height: 150px;
+
+    background-color: white;
+    border: 3px solid red;
+    z-index: 10000 ;
+    word-wrap: all;
+    overflow: auto;
+  }
+</style>
+ 
+
+
+    
+    
+    <header style="">
+        <div>
+    
+    <div class="burger ">
+        <a href="javascript:void(0);" style="font-size:15px;" onclick="$('article > aside').toggleClass('responsive')">&#9776;</a>
+    </div>
+    
+
+    <div>
+
+		
+	
+			
+		
+	    	<a class='baselink' href='https://example.com'>DocPort Documentation</a>
+	  	
+	</div>
+    <nav class="shortcuts">
+            <li class="" role="">
+                <a href="https://github.com/vjeantet/hugo-theme-docport"  rel="noopener">
+                  Github
+                </a>
+            </li>
+            <li class="" role="">
+                <a href="https://github.com/vjeantet/hugo-theme-docport/archive/master.zip"  rel="noopener">
+                  Download
+                </a>
+            </li>
+            <li class="" role="">
+                <a href="https://gohugo.io/"  rel="noopener">
+                  Hugo Documentation
+                </a>
+            </li>
+            <li class="" role="">
+                <a href="/docport-theme/credits/"  rel="noopener">
+                  Credits
+                </a>
+            </li>
+    </nav>
+
+</div>
+    </header>
+    
+
+    <article>
+      
+      <aside class="">
+        
+<div class="search">
+	<div class="searchbox">
+	  <input data-search-input id="search-by" type="text" placeholder="Type to search...">
+	</div>
+	<script type="text/javascript" src="/vendor/lunr/lunr.min.js"></script>
+	<script type="text/javascript" src="/vendor/auto-complete/auto-complete.js"></script>
+	<link href="/vendor/auto-complete/auto-complete.css" rel="stylesheet">
+	<script type="text/javascript">
+	  
+	      var baseurl = "https:\/\/example.com";
+	  
+	</script>
+	<script type="text/javascript" src="/js/search.js"></script>
+</div>
+
+		
+	
+			
+		
+	    	
+	    
+	<div id="close_menu">
+  <a href="javascript:void(0);" style="font-size:15px;" onclick="$('article > aside').toggleClass('responsive')">
+      <i class="fa fa-lg fa-times"></i>
+  </a>
+</div>
+
+<ul class="menu">
+
+    <li data-nav-id="https://example.com/tutorials/" class="dd-item parent haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <i class="fas fa-chevron-down ddexp"></i>
+        
+      
+          <a href="/tutorials/">Tutorial</a>
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/">Python by MascusCode</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/0_intro/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/0_intro/">Introduction</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/3_structure/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/3_structure/">3. โครงสร้างของภาษา Python</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/4_type/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/4_type/">4. ตัวแปรและประเภทข้อมูล</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/9_function/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/9_function/">9. ฟังก์ชัน (Function)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/10_string/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/10_string/">10. String</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/11_string_methods/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/11_string_methods/">11. String methods</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/12_list/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/12_list/">12. List (ลิสต์)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/13_list_methods/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/13_list_methods/">13. List Methods (ลิสต์ เมธอด)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/15_dictionary/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/15_dictionary/">15. Dictionary</a>
+      
+        
+      
+    </li>
+              
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/20_classes/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/20_classes/">21. Classes &amp; Objects</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/21_inheritance/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/21_inheritance/">22. Inheritance</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/22_thread/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/22_thread/">23. Thread</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/24_date-time/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/24_date-time/">24. Date &amp; Time (วันที่และเวลา)</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/">Pandas</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/cookbook/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/cookbook/">Pandas Cookbook</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/short_introduction/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/short_introduction/">Short Introduction</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/short_introduction/10-minutes/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/short_introduction/10-minutes/">10 minutes to pandas</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/short_introduction/essential_snippets/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/short_introduction/essential_snippets/">19 Essential Snippets in Pandas</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/short_introduction/basic-to-beyond/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/short_introduction/basic-to-beyond/">Basics to Beyond</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/short_introduction/cheatsheet-pandas/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/short_introduction/cheatsheet-pandas/">Cheatsheet Pandas</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/tutorial-geeksforgeeks/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/tutorial-geeksforgeeks/">Tutorial (GeeksforGeeks)</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/tutorial-geeksforgeeks/selection/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/tutorial-geeksforgeeks/selection/">Selection</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/tutorial-geeksforgeeks/selection/dealing-with-rows-and-columns/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/tutorial-geeksforgeeks/selection/dealing-with-rows-and-columns/">Dealing with Rows and Columns</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/tutorial-geeksforgeeks/selection/extracting-rows-using-loc/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/tutorial-geeksforgeeks/selection/extracting-rows-using-loc/">Extracting rows using .loc[]</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/tutorial-geeksforgeeks/selection/extracting-rows-using-pandas-iloc/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/tutorial-geeksforgeeks/selection/extracting-rows-using-pandas-iloc/">Extracting rows using .iloc[]</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/" class="dd-item parent haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/">Python</a>
+      
+          <i class="fas fa-chevron-down ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/">Learn Python</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/function/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/function/">Function</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/function/function_arguments/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/function/function_arguments/">Function Arguments</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/function/lambda_functions/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/function/lambda_functions/">Anonymous/Lambda Function</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/function/global_variables/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/function/global_variables/">Global, Local and variables</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/data_type/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/data_type/">Data Type</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/data_type/list/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/data_type/list/">Python: List</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/data_type/tuble/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/data_type/tuble/">Python: Tuble</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/data_type/string/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/data_type/string/">Python: String</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/data_type/set/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/data_type/set/">Python: Set</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/data_type/dictionary/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/data_type/dictionary/">Python: Dictionary</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/">Files</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/intro/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/intro/">Page Index</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/file_operations/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/file_operations/">Python File I/O</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/directory/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/directory/">Python: Directory</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/exceptions/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/exceptions/">Python Exceptions</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/exception-handling/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/exception-handling/">Exception Handling</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/user-defined-exception/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/user-defined-exception/">Custom Exceptions</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/objects_class/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/objects_class/">Object &amp; Class</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/objects_class/oop/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/objects_class/oop/">Object Oriented Programming (OOP)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/objects_class/class/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/objects_class/class/">Objects and Classes</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/objects_class/inheritance/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/objects_class/inheritance/">Python Inheritance</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/advance_topic/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/advance_topic/">Advance Topics</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/advance_topic/iterators/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/advance_topic/iterators/">Iterators</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/advance_topic/generators/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/advance_topic/generators/">Generators</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/">Date and Time</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/datetime_module/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/datetime_module/">datetime() Module</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/strftime/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/strftime/">strftime()</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/strptime/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/strptime/">strptime()</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/current-datetime/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/current-datetime/">Get Current Date and Time</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/timestamp_datetime/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/timestamp_datetime/">Timestamp to Datetime</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/time_module/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/time_module/">Time Module</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/sleep/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/sleep/">Time Sleep()</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/">phyblas</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/">ผู้เริ่มต้น (Beginer)</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/basic_functin/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/basic_functin/">ฟังก์ชันพื้นฐาน</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/string_output/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/string_output/">การแสดงผลตัวอักษร</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/string_format/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/string_format/">การจัดการกับสายอักขระ</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/list/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/list/">การจัดการกับลิสต์ (List)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/dictionary/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/dictionary/">ดิกชันนารี (Dictionary)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/module/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/module/">การเรียกใช้มอดูล (Module)</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/">ระดับกลาง(Intermediate)</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/read_files/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/read_files/">การอ่านข้อมูลจากไฟล์</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/write_files/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/write_files/">การเขียนข้อมูลลงไฟล์</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/create_function/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/create_function/">การสร้างฟังก์ชัน</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/recursive_function/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/recursive_function/">ฟังก์ชันเวียนเกิด</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/lambda/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/lambda/">คำสั่งพิเศษที่เกี่ยวข้องกับฟังก์ชัน</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/inheritance/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/inheritance/">การรับทอด</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/advance/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/advance/">ระดับสูง(Advance)</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/w3resource/" class="dd-item parent haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/w3resource/">Python Tutorial (w3resource)</a>
+      
+          <i class="fas fa-chevron-down ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/w3resource/bytes/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/w3resource/bytes/">Python: Bytes, Bytearray</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/w3resource/regular_expression/" class="dd-item parent active
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/w3resource/regular_expression/">Python: Regular Expression</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/quick_guide/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/quick_guide/">Python: Quick Guide</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/quick_guide/a-81-python-code-snippet/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/quick_guide/a-81-python-code-snippet/">81 Python Code Snippets</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/resources/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/resources/">Resources</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/resources/quick_reference_cards/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/resources/quick_reference_cards/">Quick Reference Card</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/pythonstandardlibrary/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/pythonstandardlibrary/">Standard Library</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/pythonstandardlibrary/text/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/pythonstandardlibrary/text/">Text</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/pythonstandardlibrary/text/string/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/pythonstandardlibrary/text/string/">String</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/">Tutorials</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/basic_syntax/" class="dd-item alwaysopen
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/basic_syntax/">Basic Syntax</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/date-time/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/date-time/">Date &amp; Time</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/date-time/pendulum/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/date-time/pendulum/">pendulum</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/date-time/overview/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/date-time/overview/">การจัดการวันเวลา</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/date-time/center/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/date-time/center/">Date &amp; Time tutorial</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/date-time/time-delta-striftime/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/date-time/time-delta-striftime/">TimeDelta, Strftime(Format)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/date-time/time-module/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/date-time/time-module/">Time Module</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/list/" class="dd-item alwaysopen
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/list/">List</a>
+      
+        
+      
+    </li>
+              
+<hr/>
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/dictionary/" class="dd-item alwaysopen haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/dictionary/">Dictionary&nbsp;👋</a>
+      
+          <i class="fas fa-chevron-down ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/dictionary/dict_beginner/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/dictionary/dict_beginner/">Beginners Tutorial</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/dictionary/merge-two-dictionaries/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/dictionary/merge-two-dictionaries/">Merge two Dictionaries</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/beginner/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/beginner/">Python for beginners</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+    
+
+
+
+</ul>
+
+		
+	
+			
+		
+	    	<center>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/vjeantet/hugo-theme-docport/archive/master.zip" data-icon="octicon-cloud-download" aria-label="Download vjeantet/hugo-theme-docport on GitHub">Download</a>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/vjeantet/hugo-theme-docport" data-icon="octicon-star" data-show-count="false" aria-label="Star vjeantet/hugo-theme-docport on GitHub">Star</a>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/vjeantet/hugo-theme-docport/fork" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork vjeantet/hugo-theme-docport on GitHub">Fork</a>
+</center>
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+	    
+	
+      </aside>
+      
+
+      <section class="page ">
+      
+	
+		
+    
+    
+    <nav id="ariane" aria-label="breadcrumb">
+      <ol class="ariane">
+        
+  
+  	
+		
+  
+  	
+		
+  
+  	
+		
+  
+  	
+	<li >
+      <a class="text-link" href="https://example.com">
+        Home
+      </a>
+    </li>
+	
+  
+    <li class="">
+      <a class="text-link" href="/tutorials/">
+        Tutorial
+      </a>
+    </li>
+	
+  	
+  
+    <li class="">
+      <a class="text-link" href="/tutorials/python/">
+        Python
+      </a>
+    </li>
+	
+  	
+  
+    <li class="">
+      <a class="text-link" href="/tutorials/python/w3resource/">
+        Python Tutorial (w3resource)
+      </a>
+    </li>
+	
+  	
+  
+    <li class="active">
+      
+        Python: Regular Expression
+      
+    </li>
+
+      </ol>
+    </nav>
+    
+    
+
+    
+		
+        
+		
+		
+		
+		
+		
+		
+		
+
+		
+			<h1>Python: Regular Expression</h1>
+        
+
+		
+										
+		
+
+		
+	
+
+	
+	
+	<div class="jump-to-section">
+		<span onclick="$h = $(this);$h.next('nav').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('nav').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
+  			<span class="fas fa-align-right"></span>
+  			Jump to Section
+  			<i style=";" class="fas fa-chevron-right"></i>
+		</span>
+		<nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#compare-html-tags-"><strong>Compare HTML tags :</strong></a></li>
+        <li><a href="#refindall-match-string-"><strong>re.findall() match string :</strong></a></li>
+        <li><a href="#group-comparison-"><strong>Group Comparison :</strong></a></li>
+        <li><a href="#non-capturing-group-"><strong>Non capturing group :</strong></a></li>
+        <li><a href="#back-reference-"><strong>Back Reference :</strong></a></li>
+        <li><a href="#named-grouping-pname-"><strong>Named Grouping (?P<name>) :</strong></a></li>
+        <li><a href="#substitute-string-"><strong>Substitute String :</strong></a></li>
+        <li><a href="#look-around-"><strong>Look around :</strong></a></li>
+        <li><a href="#match-common-username-or-password-"><strong>Match common username or password :</strong></a></li>
+        <li><a href="#match-hex-color-value-"><strong>Match hex color value :</strong></a></li>
+        <li><a href="#match-email-"><strong>Match email :</strong></a></li>
+        <li><a href="#match-url-"><strong>Match URL :</strong></a></li>
+        <li><a href="#match-ip-address-"><strong>Match IP address :</strong></a></li>
+        <li><a href="#match-mac-address-"><strong>Match Mac address :</strong></a></li>
+        <li><a href="#lexer-"><strong>Lexer :</strong></a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+	</div>
+	
+	
+
+
+
+
+
+
+	<div class="content">
+	    <blockquote>
+<p>Reference : <a href="https://www.w3resource.com/python/python-regular-expression.php">https://www.w3resource.com/python/python-regular-expression.php</a></p>
+</blockquote>
+<p>A regular expression (or RE) specifies a set of strings that matches it; the functions in this module let you check if a particular string matches a given regular expression (or if a given regular expression matches a particular string, which comes down to the same thing).</p>
+<p><strong>Contents:</strong></p>
+<ul>
+<li><a href="https://www.w3resource.com/python/python-regular-expression.php#re1">Compare HTML tags</a></li>
+<li><a href="https://www.w3resource.com/python/python-regular-expression.php#re2">re.findall() match string</a></li>
+<li><a href="https://www.w3resource.com/python/python-regular-expression.php#re3">Group Comparison</a></li>
+<li><a href="https://www.w3resource.com/python/python-regular-expression.php#re4">Non capturing group</a></li>
+<li><a href="https://www.w3resource.com/python/python-regular-expression.php#re5">Back Reference</a></li>
+<li><a href="https://www.w3resource.com/python/python-regular-expression.php#re6">Named Grouping (?P<name>)</a></li>
+<li><a href="https://www.w3resource.com/python/python-regular-expression.php#re7">Substitute String</a></li>
+<li><a href="https://www.w3resource.com/python/python-regular-expression.php#re8">Look around</a></li>
+<li><a href="https://www.w3resource.com/python/python-regular-expression.php#re9">Match common username or password</a></li>
+<li><a href="https://www.w3resource.com/python/python-regular-expression.php#re10">Match hex color value</a></li>
+<li><a href="https://www.w3resource.com/python/python-regular-expression.php#re11">Match email</a></li>
+<li><a href="https://www.w3resource.com/python/python-regular-expression.php#re12">Match URL</a></li>
+<li><a href="https://www.w3resource.com/python/python-regular-expression.php#re13">Match IP address</a></li>
+<li><a href="https://www.w3resource.com/python/python-regular-expression.php#re14">Match Mac address</a></li>
+<li><a href="https://www.w3resource.com/python/python-regular-expression.php#re15">Lexer</a></li>
+<li><a href="https://www.w3resource.com/python-exercises/re/index.php">Python Regular Expression - Exercises, Practice, Solution</a></li>
+</ul>
+<p>The following table provides a list and description of the special pattern matching characters that can be used in regular expressions.</p>
+<p>Matches only at the end of the string.</p>
+<h3 ref="compare-html-tags-" ><strong>Compare HTML tags :</strong></h3><a class="anchor" id="compare-html-tags-"></a>
+<table>
+<thead>
+<tr>
+<th align="center">tag type</th>
+<th align="left">format</th>
+<th align="left">example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">open tag</td>
+<td align="left">&lt;[^/&gt;][^&gt;]*&gt;</td>
+<td align="left"><code>&lt;a&gt;, &lt;table&gt;</code></td>
+</tr>
+<tr>
+<td align="center">close tag</td>
+<td align="left">&lt;/[^&gt;]+&gt;</td>
+<td align="left"><code>&lt;/p&gt;, &lt;/a&gt;</code></td>
+</tr>
+<tr>
+<td align="center">self close</td>
+<td align="left">&lt;[^/&gt;]+/&gt;</td>
+<td align="left"><code>&lt;br /&gt;</code></td>
+</tr>
+<tr>
+<td align="center">all tag</td>
+<td align="left">&lt;[^&gt;]+&gt;</td>
+<td align="left"><code>&lt;br /&gt;, &lt;a&gt;</code></td>
+</tr>
+</tbody>
+</table>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-python" data-lang="python"><span style="color:#75715e"># open tag</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">import</span> re
+<span style="color:#f92672">&gt;&gt;&gt;</span> re<span style="color:#f92672">.</span>search(<span style="color:#e6db74">&#39;&lt;[^/&gt;][^&gt;]*&gt;&#39;</span>, <span style="color:#e6db74">&#39;&lt;table&gt;&#39;</span>) <span style="color:#f92672">!=</span> None
+True
+<span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">import</span> re
+<span style="color:#f92672">&gt;&gt;&gt;</span> re<span style="color:#f92672">.</span>search(<span style="color:#e6db74">&#39;&lt;[^/&gt;][^&gt;]*&gt;&#39;</span>, <span style="color:#e6db74">&#39;&lt;a href=&#34;#label&#34;&gt;&#39;</span>) <span style="color:#f92672">!=</span> None
+True
+<span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">import</span> re
+<span style="color:#f92672">&gt;&gt;&gt;</span> re<span style="color:#f92672">.</span>search(<span style="color:#e6db74">&#39;&lt;[^/&gt;][^&gt;]*&gt;&#39;</span>, <span style="color:#e6db74">&#39;&lt;img src=&#34;/img&#34;&gt;&#39;</span>) <span style="color:#f92672">!=</span> None
+True
+<span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">import</span> re
+<span style="color:#f92672">&gt;&gt;&gt;</span> re<span style="color:#f92672">.</span>search(<span style="color:#e6db74">&#39;&lt;[^/&gt;][^&gt;]*&gt;&#39;</span>, <span style="color:#e6db74">&#39;&lt;/table&gt;&#39;</span>) <span style="color:#f92672">!=</span> None
+False
+
+<span style="color:#75715e"># close tag</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">import</span> re
+<span style="color:#f92672">&gt;&gt;&gt;</span> re<span style="color:#f92672">.</span>search(<span style="color:#e6db74">&#39;&lt;/[^&gt;]+&gt;&#39;</span>, <span style="color:#e6db74">&#39;&lt;/table&gt;&#39;</span>) <span style="color:#f92672">!=</span> None
+True
+
+<span style="color:#75715e"># self close</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">import</span> re
+<span style="color:#f92672">&gt;&gt;&gt;</span> re<span style="color:#f92672">.</span>search(<span style="color:#e6db74">&#39;&lt;[^/&gt;]+/&gt;&#39;</span>, <span style="color:#e6db74">&#39;&lt;br /&gt;&#39;</span>) <span style="color:#f92672">!=</span> None
+True
+
+</code></pre></div><h3 ref="refindall-match-string-" ><strong>re.findall() match string :</strong></h3><a class="anchor" id="refindall-match-string-"></a>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-python" data-lang="python"><span style="color:#75715e"># split all string</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">import</span> re
+<span style="color:#f92672">&gt;&gt;&gt;</span> source <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;split all string&#34;</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> re<span style="color:#f92672">.</span>findall(<span style="color:#e6db74">&#39;[\w]+&#39;</span>, source)
+[<span style="color:#e6db74">&#39;split&#39;</span>, <span style="color:#e6db74">&#39;all&#39;</span>, <span style="color:#e6db74">&#39;string&#39;</span>]
+
+<span style="color:#75715e"># parsing python.org website</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">import</span> urllib
+<span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">import</span> re
+<span style="color:#f92672">&gt;&gt;&gt;</span> x <span style="color:#f92672">=</span> urllib<span style="color:#f92672">.</span>urlopen(<span style="color:#e6db74">&#39;https://www.w3resource.org&#39;</span>)
+<span style="color:#f92672">&gt;&gt;&gt;</span> html <span style="color:#f92672">=</span> x<span style="color:#f92672">.</span>read()
+<span style="color:#f92672">&gt;&gt;&gt;</span> x<span style="color:#f92672">.</span>close()
+<span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#34;open tags&#34;</span>)
+open tags
+<span style="color:#f92672">&gt;&gt;&gt;</span> re<span style="color:#f92672">.</span>findall(<span style="color:#e6db74">&#39;&lt;[^/&gt;][^&gt;]*&gt;&#39;</span>, html)[<span style="color:#ae81ff">0</span>:<span style="color:#ae81ff">2</span>]
+[<span style="color:#e6db74">&#39;&lt;!doctype html&gt;&#39;</span>, <span style="color:#e6db74">&#39;&lt;!-[if lt IE 7]&gt;&#39;</span>]
+<span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#34;close tags&#34;</span>)
+close tags
+<span style="color:#f92672">&gt;&gt;&gt;</span> re<span style="color:#f92672">.</span>findall(<span style="color:#e6db74">&#39;&lt;/[^&gt;]+&gt;&#39;</span>, html)[<span style="color:#ae81ff">0</span>:<span style="color:#ae81ff">2</span>]
+[<span style="color:#e6db74">&#39;&lt;/script&gt;&#39;</span>, <span style="color:#e6db74">&#39;&lt;/title&gt;&#39;</span>]
+<span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#34;self-closing tags&#34;</span>)
+</code></pre></div><h3 ref="group-comparison-" ><strong>Group Comparison :</strong></h3><a class="anchor" id="group-comparison-"></a>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-python" data-lang="python"><span style="color:#75715e"># (...) group a regular expression</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">import</span> re
+<span style="color:#f92672">&gt;&gt;&gt;</span> mon <span style="color:#f92672">=</span> re<span style="color:#f92672">.</span>search(<span style="color:#e6db74">r</span><span style="color:#e6db74">&#39;(\d{4})-(\d{2})-(\d{2})&#39;</span>, <span style="color:#e6db74">&#39;2018-09-01&#39;</span>)
+<span style="color:#f92672">&gt;&gt;&gt;</span> mon
+<span style="color:#f92672">&lt;</span>_sre<span style="color:#f92672">.</span>SRE_Match object at <span style="color:#ae81ff">0x019A72F0</span><span style="color:#f92672">&gt;</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> mon<span style="color:#f92672">.</span>groups()
+(<span style="color:#e6db74">&#39;2018&#39;</span>, <span style="color:#e6db74">&#39;09&#39;</span>, <span style="color:#e6db74">&#39;01&#39;</span>)
+<span style="color:#f92672">&gt;&gt;&gt;</span> mon<span style="color:#f92672">.</span>group()
+<span style="color:#e6db74">&#39;2018-09-01&#39;</span>)
+<span style="color:#f92672">&gt;&gt;&gt;</span> mon<span style="color:#f92672">.</span>group(<span style="color:#ae81ff">1</span>)
+<span style="color:#e6db74">&#39;2018&#39;</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> mon<span style="color:#f92672">.</span>group(<span style="color:#ae81ff">2</span>)
+<span style="color:#e6db74">&#39;09&#39;</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> mon<span style="color:#f92672">.</span>group(<span style="color:#ae81ff">3</span>)
+<span style="color:#e6db74">&#39;01&#39;</span>
+
+<span style="color:#75715e"># Nesting groups</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">import</span> re
+<span style="color:#f92672">&gt;&gt;&gt;</span> mon <span style="color:#f92672">=</span> re<span style="color:#f92672">.</span>search(<span style="color:#e6db74">r</span><span style="color:#e6db74">&#39;(((\d{4})-\d{2})-\d{2})&#39;</span>, <span style="color:#e6db74">&#39;2018-09-01&#39;</span>)
+<span style="color:#f92672">&gt;&gt;&gt;</span> mon<span style="color:#f92672">.</span>groups()
+(<span style="color:#e6db74">&#39;2018-09-01&#39;</span>, <span style="color:#e6db74">&#39;2018-09&#39;</span>, <span style="color:#e6db74">&#39;2018&#39;</span>)
+<span style="color:#f92672">&gt;&gt;&gt;</span> mon<span style="color:#f92672">.</span>group()
+<span style="color:#e6db74">&#39;2018-09-01&#39;</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> mon<span style="color:#f92672">.</span>group(<span style="color:#ae81ff">1</span>)
+<span style="color:#e6db74">&#39;2018-09-01&#39;</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> mon<span style="color:#f92672">.</span>group(<span style="color:#ae81ff">2</span>)
+<span style="color:#e6db74">&#39;2018-09&#39;</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> mon<span style="color:#f92672">.</span>group(<span style="color:#ae81ff">3</span>)
+<span style="color:#e6db74">&#39;2018&#39;</span>
+
+</code></pre></div><h3 ref="non-capturing-group-" ><strong>Non capturing group :</strong></h3><a class="anchor" id="non-capturing-group-"></a>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-python" data-lang="python"><span style="color:#75715e"># non capturing group</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">import</span> re
+<span style="color:#f92672">&gt;&gt;&gt;</span> url <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;http://w3resource.com/&#39;</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> mon <span style="color:#f92672">=</span> re<span style="color:#f92672">.</span>search(<span style="color:#e6db74">&#39;(?:http|ftp)://([^/</span><span style="color:#ae81ff">\r\n</span><span style="color:#e6db74">]+)(/[^</span><span style="color:#ae81ff">\r\n</span><span style="color:#e6db74">]*)?&#39;</span>, url)
+<span style="color:#f92672">&gt;&gt;&gt;</span> mon<span style="color:#f92672">.</span>groups()
+(<span style="color:#e6db74">&#39;w3resource.com&#39;</span>, <span style="color:#e6db74">&#39;/&#39;</span>)
+
+<span style="color:#75715e"># capturing group</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">import</span> re
+<span style="color:#f92672">&gt;&gt;&gt;</span> mon <span style="color:#f92672">=</span> re<span style="color:#f92672">.</span>search(<span style="color:#e6db74">&#39;(http|ftp)://([^/</span><span style="color:#ae81ff">\r\n</span><span style="color:#e6db74">]+)(/[^</span><span style="color:#ae81ff">\r\n</span><span style="color:#e6db74">]*)?&#39;</span>, url)
+<span style="color:#f92672">&gt;&gt;&gt;</span> mon<span style="color:#f92672">.</span>groups()
+(<span style="color:#e6db74">&#39;http&#39;</span>, <span style="color:#e6db74">&#39;w3resource.com&#39;</span>, <span style="color:#e6db74">&#39;/&#39;</span>)
+</code></pre></div><h3 ref="back-reference-" ><strong>Back Reference :</strong></h3><a class="anchor" id="back-reference-"></a>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-python" data-lang="python"><span style="color:#75715e"># compare &#39;xx&#39;, &#39;yy&#39;</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">import</span> re
+<span style="color:#f92672">&gt;&gt;&gt;</span> re<span style="color:#f92672">.</span>search(<span style="color:#e6db74">r</span><span style="color:#e6db74">&#39;([a-z])\1$&#39;</span>,<span style="color:#e6db74">&#39;xx&#39;</span>) <span style="color:#f92672">!=</span> None
+True
+<span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">import</span> re
+<span style="color:#f92672">&gt;&gt;&gt;</span> re<span style="color:#f92672">.</span>search(<span style="color:#e6db74">r</span><span style="color:#e6db74">&#39;([a-z])\1$&#39;</span>,<span style="color:#e6db74">&#39;yy&#39;</span>) <span style="color:#f92672">!=</span> None
+True
+<span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">import</span> re
+<span style="color:#f92672">&gt;&gt;&gt;</span> re<span style="color:#f92672">.</span>search(<span style="color:#e6db74">r</span><span style="color:#e6db74">&#39;([a-z])\1$&#39;</span>,<span style="color:#e6db74">&#39;xy&#39;</span>) <span style="color:#f92672">!=</span> None
+False
+
+<span style="color:#75715e"># compare open tag and close tag</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">import</span> re
+<span style="color:#f92672">&gt;&gt;&gt;</span> pattern <span style="color:#f92672">=</span> <span style="color:#e6db74">r</span><span style="color:#e6db74">&#39;&lt;([^&gt;]+)&gt;[\s\S]*?&lt;/\1&gt;&#39;</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> re<span style="color:#f92672">.</span>search(pattern, <span style="color:#e6db74">&#39;&lt;bold&gt; test &lt;/bold&gt;&#39;</span>) <span style="color:#f92672">!=</span> None
+True
+<span style="color:#f92672">&gt;&gt;&gt;</span> re<span style="color:#f92672">.</span>search(pattern, <span style="color:#e6db74">&#39;&lt;h1&gt; test &lt;/h1&gt;&#39;</span>) <span style="color:#f92672">!=</span> None
+True
+<span style="color:#f92672">&gt;&gt;&gt;</span> re<span style="color:#f92672">.</span>search(pattern, <span style="color:#e6db74">&#39;&lt;bold&gt; test &lt;/h1&gt;&#39;</span>) <span style="color:#f92672">!=</span> None
+False
+</code></pre></div><h3 ref="named-grouping-pname-" ><strong>Named Grouping (?P<name>) :</strong></h3><a class="anchor" id="named-grouping-pname-"></a>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-python" data-lang="python"><span style="color:#75715e"># group reference ``(?P&lt;name&gt;...)``</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">import</span> re
+<span style="color:#f92672">&gt;&gt;&gt;</span> pattern <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;(?P&lt;year&gt;\d{4})-(?P&lt;month&gt;\d{2})-(?P&lt;day&gt;\d{2})&#39;</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> mon <span style="color:#f92672">=</span> re<span style="color:#f92672">.</span>search(pattern, <span style="color:#e6db74">&#39;2018-09-01&#39;</span>)
+<span style="color:#f92672">&gt;&gt;&gt;</span> mon<span style="color:#f92672">.</span>group(<span style="color:#e6db74">&#39;year&#39;</span>)
+<span style="color:#e6db74">&#39;2018&#39;</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> mon<span style="color:#f92672">.</span>group(<span style="color:#e6db74">&#39;month&#39;</span>)
+<span style="color:#e6db74">&#39;09&#39;</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> mon<span style="color:#f92672">.</span>group(<span style="color:#e6db74">&#39;day&#39;</span>)
+<span style="color:#e6db74">&#39;01&#39;</span>
+
+<span style="color:#75715e"># back reference ``(?P=name)``</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">import</span> re
+<span style="color:#f92672">&gt;&gt;&gt;</span> re<span style="color:#f92672">.</span>search(<span style="color:#e6db74">&#39;^(?P&lt;char&gt;[a-z])(?P=char)&#39;</span>,<span style="color:#e6db74">&#39;aa&#39;</span>)
+<span style="color:#f92672">&lt;</span>_sre<span style="color:#f92672">.</span>SRE_Match object at <span style="color:#ae81ff">0x01A08660</span><span style="color:#f92672">&gt;</span>
+</code></pre></div><h3 ref="substitute-string-" ><strong>Substitute String :</strong></h3><a class="anchor" id="substitute-string-"></a>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-python" data-lang="python"><span style="color:#75715e"># basic substitute</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">import</span> re
+<span style="color:#f92672">&gt;&gt;&gt;</span> res <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;4x5y6z&#34;</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> re<span style="color:#f92672">.</span>sub(<span style="color:#e6db74">r</span><span style="color:#e6db74">&#39;[a-z]&#39;</span>,<span style="color:#e6db74">&#39; &#39;</span>, res)
+<span style="color:#e6db74">&#39;4 5 6 &#39;</span>
+
+<span style="color:#75715e"># substitute with group reference</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">import</span> re
+<span style="color:#f92672">&gt;&gt;&gt;</span> date <span style="color:#f92672">=</span> <span style="color:#e6db74">r</span><span style="color:#e6db74">&#39;2018-09-01&#39;</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> re<span style="color:#f92672">.</span>sub(<span style="color:#e6db74">r</span><span style="color:#e6db74">&#39;(\d{4})-(\d{2})-(\d{2})&#39;</span>,<span style="color:#e6db74">r</span><span style="color:#e6db74">&#39;\2/\3/\1/&#39;</span>,date)
+<span style="color:#e6db74">&#39;09/01/2018/&#39;</span>
+
+<span style="color:#75715e"># camelcase to underscore</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#66d9ef">def</span> <span style="color:#a6e22e">convert</span>(s):
+<span style="color:#f92672">...</span>     res <span style="color:#f92672">=</span> re<span style="color:#f92672">.</span>sub(<span style="color:#e6db74">r</span><span style="color:#e6db74">&#39;(.)([A-Z][a-z]+)&#39;</span>,<span style="color:#e6db74">r</span><span style="color:#e6db74">&#39;\1_\2&#39;</span>, s)
+<span style="color:#f92672">...</span>     <span style="color:#66d9ef">return</span> re<span style="color:#f92672">.</span>sub(<span style="color:#e6db74">r</span><span style="color:#e6db74">&#39;([a-z])([A-Z])&#39;</span>,<span style="color:#e6db74">r</span><span style="color:#e6db74">&#39;\1_\2&#39;</span>, res)<span style="color:#f92672">.</span>lower()
+<span style="color:#f92672">...</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> convert(<span style="color:#e6db74">&#39;SentenceCase&#39;</span>)
+<span style="color:#e6db74">&#39;sentence_case&#39;</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> convert(<span style="color:#e6db74">&#39;SentenceSentenceCase&#39;</span>)
+<span style="color:#e6db74">&#39;sentence_sentence_case&#39;</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> convert(<span style="color:#e6db74">&#39;SampleExampleHTTPServer&#39;</span>)
+<span style="color:#e6db74">&#39;sample_example_http_server&#39;</span>
+</code></pre></div><h3 ref="look-around-" ><strong>Look around :</strong></h3><a class="anchor" id="look-around-"></a>
+<table>
+<thead>
+<tr>
+<th align="center">notation</th>
+<th align="left">compare direction</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">(?&lt;=&hellip;)</td>
+<td align="left">right to left</td>
+</tr>
+<tr>
+<td align="center">(?=&hellip;)</td>
+<td align="left">left to right</td>
+</tr>
+<tr>
+<td align="center">(?!&lt;&hellip;)</td>
+<td align="left">right to left</td>
+</tr>
+<tr>
+<td align="center">(?!&hellip;)</td>
+<td align="left">left to right</td>
+</tr>
+</tbody>
+</table>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-python" data-lang="python"><span style="color:#75715e"># basic</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">import</span> re
+<span style="color:#f92672">&gt;&gt;&gt;</span> re<span style="color:#f92672">.</span>sub(<span style="color:#e6db74">&#39;(?=\d{3})&#39;</span>, <span style="color:#e6db74">&#39; &#39;</span>, <span style="color:#e6db74">&#39;56789&#39;</span>)
+<span style="color:#e6db74">&#39; 5 6 789&#39;</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> re<span style="color:#f92672">.</span>sub(<span style="color:#e6db74">&#39;(?!\d{3})&#39;</span>, <span style="color:#e6db74">&#39; &#39;</span>, <span style="color:#e6db74">&#39;56789&#39;</span>)
+<span style="color:#e6db74">&#39;567 8 9 &#39;</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> re<span style="color:#f92672">.</span>sub(<span style="color:#e6db74">&#39;(?&lt;=\d{3})&#39;</span>, <span style="color:#e6db74">&#39; &#39;</span>, <span style="color:#e6db74">&#39;56789&#39;</span>)
+<span style="color:#e6db74">&#39;567 8 9 &#39;</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> re<span style="color:#f92672">.</span>sub(<span style="color:#e6db74">&#39;(?&lt;!\d{3})&#39;</span>, <span style="color:#e6db74">&#39; &#39;</span>, <span style="color:#e6db74">&#39;56789&#39;</span>)
+<span style="color:#e6db74">&#39; 5 6 789&#39;</span>
+</code></pre></div><h3 ref="match-common-username-or-password-" ><strong>Match common username or password :</strong></h3><a class="anchor" id="match-common-username-or-password-"></a>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-python" data-lang="python"><span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">import</span> re
+<span style="color:#f92672">&gt;&gt;&gt;</span> re<span style="color:#f92672">.</span>match(<span style="color:#e6db74">&#39;^[a-zA-Z0-9-_]{3,16}$&#39;</span>, <span style="color:#e6db74">&#39;Foo&#39;</span>) <span style="color:#f92672">is</span> <span style="color:#f92672">not</span> None
+True
+<span style="color:#f92672">&gt;&gt;&gt;</span> re<span style="color:#f92672">.</span>match(<span style="color:#e6db74">&#39;^\w|[-_]{3,16}$&#39;</span>, <span style="color:#e6db74">&#39;Foo&#39;</span>) <span style="color:#f92672">is</span> <span style="color:#f92672">not</span> None
+True
+</code></pre></div><h3 ref="match-hex-color-value-" ><strong>Match hex color value :</strong></h3><a class="anchor" id="match-hex-color-value-"></a>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-python" data-lang="python"><span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">import</span> re
+<span style="color:#f92672">&gt;&gt;&gt;</span> re<span style="color:#f92672">.</span>match(<span style="color:#e6db74">&#39;^#?([a-f0-9]{6}|[a-f0-9]{3})$&#39;</span>, <span style="color:#e6db74">&#39;#ff0000&#39;</span>)
+<span style="color:#f92672">&lt;</span>_sre<span style="color:#f92672">.</span>SRE_Match object at <span style="color:#ae81ff">0x019E7720</span><span style="color:#f92672">&gt;</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> re<span style="color:#f92672">.</span>match(<span style="color:#e6db74">&#39;^#?([a-f0-9]{6}|[a-f0-9]{3})$&#39;</span>, <span style="color:#e6db74">&#39;#000000&#39;</span>)
+<span style="color:#f92672">&lt;</span>_sre<span style="color:#f92672">.</span>SRE_Match object at <span style="color:#ae81ff">0x019E77A0</span><span style="color:#f92672">&gt;</span>
+
+</code></pre></div><h3 ref="match-email-" ><strong>Match email :</strong></h3><a class="anchor" id="match-email-"></a>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-python" data-lang="python"><span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">import</span> re
+<span style="color:#f92672">&gt;&gt;&gt;</span> re<span style="color:#f92672">.</span>match(<span style="color:#e6db74">&#39;^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$&#39;</span>,
+	 <span style="color:#e6db74">&#39;citi.world@example.com&#39;</span>)
+<span style="color:#f92672">&lt;</span>_sre<span style="color:#f92672">.</span>SRE_Match object; span<span style="color:#f92672">=</span>(<span style="color:#ae81ff">0</span>, <span style="color:#ae81ff">22</span>), match<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;citi.world@example.com&#39;</span><span style="color:#f92672">&gt;</span>
+
+<span style="color:#75715e"># or</span>
+
+<span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">import</span> re
+<span style="color:#f92672">&gt;&gt;&gt;</span> example <span style="color:#f92672">=</span> re<span style="color:#f92672">.</span>compile(<span style="color:#e6db74">r</span><span style="color:#e6db74">&#39;&#39;&#39;^([a-zA-Z0-9._%-]+@
+</span><span style="color:#e6db74">[a-zA-Z0-9.-]+
+</span><span style="color:#e6db74">\.[a-zA-Z]{2,4})*$&#39;&#39;&#39;</span>, re<span style="color:#f92672">.</span>X)
+<span style="color:#f92672">&gt;&gt;&gt;</span> example<span style="color:#f92672">.</span>match(<span style="color:#e6db74">&#39;citi.world@example.citi.com&#39;</span>)
+<span style="color:#f92672">&lt;</span>_sre<span style="color:#f92672">.</span>SRE_Match object; span<span style="color:#f92672">=</span>(<span style="color:#ae81ff">0</span>, <span style="color:#ae81ff">27</span>), match<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;citi.world@example.citi.com&#39;</span><span style="color:#f92672">&gt;</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> example<span style="color:#f92672">.</span>match(<span style="color:#e6db74">&#39;citi%world@example.citi.com&#39;</span>)
+<span style="color:#f92672">&lt;</span>_sre<span style="color:#f92672">.</span>SRE_Match object; span<span style="color:#f92672">=</span>(<span style="color:#ae81ff">0</span>, <span style="color:#ae81ff">27</span>), match<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;citi%world@example.citi.com&#39;</span><span style="color:#f92672">&gt;</span>
+
+</code></pre></div><h3 ref="match-url-" ><strong>Match URL :</strong></h3><a class="anchor" id="match-url-"></a>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-python" data-lang="python"><span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">import</span> re
+<span style="color:#f92672">&gt;&gt;&gt;</span> example <span style="color:#f92672">=</span> re<span style="color:#f92672">.</span>compile(<span style="color:#e6db74">r</span><span style="color:#e6db74">&#39;&#39;&#39;^(https?:\/\/)? # match http or https
+</span><span style="color:#e6db74">...             ([\da-z\.-]+)            # match domain
+</span><span style="color:#e6db74">...             \.([a-z\.]{2,6})         # match domain
+</span><span style="color:#e6db74">...             ([\/\w \.-]*)\/?$        # match api or file
+</span><span style="color:#e6db74">...             &#39;&#39;&#39;</span>, re<span style="color:#f92672">.</span>X)
+<span style="color:#f92672">&gt;&gt;&gt;</span> example<span style="color:#f92672">.</span>match(<span style="color:#e6db74">&#39;www.yahoo.com&#39;</span>)
+<span style="color:#f92672">&lt;</span>_sre<span style="color:#f92672">.</span>SRE_Match object; span<span style="color:#f92672">=</span>(<span style="color:#ae81ff">0</span>, <span style="color:#ae81ff">13</span>), match<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;www.yahoo.com&#39;</span><span style="color:#f92672">&gt;</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> example<span style="color:#f92672">.</span>match(<span style="color:#e6db74">&#39;http://www.example&#39;</span>)
+<span style="color:#f92672">&lt;</span>_sre<span style="color:#f92672">.</span>SRE_Match object; span<span style="color:#f92672">=</span>(<span style="color:#ae81ff">0</span>, <span style="color:#ae81ff">18</span>), match<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;http://www.example&#39;</span><span style="color:#f92672">&gt;</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> example<span style="color:#f92672">.</span>match(<span style="color:#e6db74">&#39;http://www.example/w3r.html&#39;</span>)
+<span style="color:#f92672">&lt;</span>_sre<span style="color:#f92672">.</span>SRE_Match object; span<span style="color:#f92672">=</span>(<span style="color:#ae81ff">0</span>, <span style="color:#ae81ff">27</span>), match<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;http://www.example/w3r.html&#39;</span><span style="color:#f92672">&gt;</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> example<span style="color:#f92672">.</span>match(<span style="color:#e6db74">&#39;http://www.example/w3r!.html&#39;</span>)
+<span style="color:#f92672">&gt;&gt;&gt;</span> example
+re<span style="color:#f92672">.</span>compile(<span style="color:#e6db74">&#39;^(https?:</span><span style="color:#ae81ff">\\</span><span style="color:#e6db74">/</span><span style="color:#ae81ff">\\</span><span style="color:#e6db74">/)?</span><span style="color:#ae81ff">\n</span><span style="color:#e6db74">([</span><span style="color:#ae81ff">\\</span><span style="color:#e6db74">da-z</span><span style="color:#ae81ff">\\</span><span style="color:#e6db74">.-]+)</span><span style="color:#ae81ff">\n\\</span><span style="color:#e6db74">.([a-z</span><span style="color:#ae81ff">\\</span><span style="color:#e6db74">.]{2,6})</span><span style="color:#ae81ff">\n</span><span style="color:#e6db74">([</span><span style="color:#ae81ff">\\</span><span style="color:#e6db74">/</span><span style="color:#ae81ff">\\</span><span style="color:#e6db74">w </span><span style="color:#ae81ff">\\</span><span style="color:#e6db74">.-]*)</span><span style="color:#ae81ff">\\</span><span style="color:#e6db74">/?$</span><span style="color:#ae81ff">\n</span><span style="color:#e6db74">&#39;</span>, re<span style="color:#f92672">.</span>VERBOSE)
+
+</code></pre></div><h3 ref="match-ip-address-" ><strong>Match IP address :</strong></h3><a class="anchor" id="match-ip-address-"></a>
+<table>
+<thead>
+<tr>
+<th align="left">notation</th>
+<th align="left">description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">[1]?[0-9][0-9]</td>
+<td align="left">Match 0-199 pattern</td>
+</tr>
+<tr>
+<td align="left">2[0-4][0-9]</td>
+<td align="left">Match 200-249 pattern</td>
+</tr>
+<tr>
+<td align="left">25[0-5]</td>
+<td align="left">Match 251-255 pattern</td>
+</tr>
+<tr>
+<td align="left">(?:&hellip;)</td>
+<td align="left">Don&rsquo;t capture group</td>
+</tr>
+</tbody>
+</table>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-python" data-lang="python"><span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">import</span> re
+<span style="color:#f92672">&gt;&gt;&gt;</span> example <span style="color:#f92672">=</span> re<span style="color:#f92672">.</span>compile(<span style="color:#e6db74">r</span><span style="color:#e6db74">&#39;&#39;&#39;^(?:(?:25[0-5]
+</span><span style="color:#e6db74">... |2[0-4][0-9]
+</span><span style="color:#e6db74">... |[1]?[0-9][0-9]?)\.){3}
+</span><span style="color:#e6db74">... (?:25[0-5]
+</span><span style="color:#e6db74">... |2[0-4][0-9]
+</span><span style="color:#e6db74">... |[1]?[0-9][0-9]?)$&#39;&#39;&#39;</span>, re<span style="color:#f92672">.</span>X)
+<span style="color:#f92672">&gt;&gt;&gt;</span> example<span style="color:#f92672">.</span>match(<span style="color:#e6db74">&#39;192.168.1.1&#39;</span>)
+<span style="color:#f92672">&lt;</span>_sre<span style="color:#f92672">.</span>SRE_Match object at <span style="color:#ae81ff">0x0134A608</span><span style="color:#f92672">&gt;</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> example<span style="color:#f92672">.</span>match(<span style="color:#e6db74">&#39;255.255.255.0&#39;</span>)
+<span style="color:#f92672">&lt;</span>_sre<span style="color:#f92672">.</span>SRE_Match object at <span style="color:#ae81ff">0x01938678</span><span style="color:#f92672">&gt;</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> example<span style="color:#f92672">.</span>match(<span style="color:#e6db74">&#39;172.17.0.5&#39;</span>)
+<span style="color:#f92672">&lt;</span>_sre<span style="color:#f92672">.</span>SRE_Match object at <span style="color:#ae81ff">0x0134A608</span><span style="color:#f92672">&gt;</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> example<span style="color:#f92672">.</span>match(<span style="color:#e6db74">&#39;256.0.0.0&#39;</span>) <span style="color:#f92672">is</span> None
+True
+</code></pre></div><h3 ref="match-mac-address-" ><strong>Match Mac address :</strong></h3><a class="anchor" id="match-mac-address-"></a>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-python" data-lang="python"><span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">import</span> random
+<span style="color:#f92672">&gt;&gt;&gt;</span> mac <span style="color:#f92672">=</span> [random<span style="color:#f92672">.</span>randint(<span style="color:#ae81ff">0x00</span>, <span style="color:#ae81ff">0x6b</span>),
+<span style="color:#f92672">...</span> random<span style="color:#f92672">.</span>randint(<span style="color:#ae81ff">0x00</span>, <span style="color:#ae81ff">0x6b</span>),
+<span style="color:#f92672">...</span> random<span style="color:#f92672">.</span>randint(<span style="color:#ae81ff">0x00</span>, <span style="color:#ae81ff">0x6b</span>),
+<span style="color:#f92672">...</span> random<span style="color:#f92672">.</span>randint(<span style="color:#ae81ff">0x00</span>, <span style="color:#ae81ff">0x6b</span>),
+<span style="color:#f92672">...</span> random<span style="color:#f92672">.</span>randint(<span style="color:#ae81ff">0x00</span>, <span style="color:#ae81ff">0x6b</span>),
+<span style="color:#f92672">...</span> random<span style="color:#f92672">.</span>randint(<span style="color:#ae81ff">0x00</span>, <span style="color:#ae81ff">0x6b</span>)]
+<span style="color:#f92672">&gt;&gt;&gt;</span> mac <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;:&#39;</span><span style="color:#f92672">.</span>join(map(<span style="color:#66d9ef">lambda</span> x: <span style="color:#e6db74">&#34;</span><span style="color:#e6db74">%02x</span><span style="color:#e6db74">&#34;</span> <span style="color:#f92672">%</span> x, mac))
+<span style="color:#f92672">&gt;&gt;&gt;</span> mac
+<span style="color:#e6db74">&#39;05:38:64:60:55:63&#39;</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">import</span> re
+<span style="color:#f92672">&gt;&gt;&gt;</span> example <span style="color:#f92672">=</span> re<span style="color:#f92672">.</span>compile(<span style="color:#e6db74">r</span><span style="color:#e6db74">&#39;&#39;&#39;[0-9a-f]{2}([:])
+</span><span style="color:#e6db74">... [0-9a-f]{2}
+</span><span style="color:#e6db74">... (\1[0-9a-f]{2}){4}$&#39;&#39;&#39;</span>, re<span style="color:#f92672">.</span>X)
+<span style="color:#f92672">&gt;&gt;&gt;</span> example<span style="color:#f92672">.</span>match(mac) <span style="color:#f92672">is</span> <span style="color:#f92672">not</span> None
+True
+
+</code></pre></div><h3 ref="lexer-" ><strong>Lexer :</strong></h3><a class="anchor" id="lexer-"></a>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-python" data-lang="python"><span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">import</span> re
+<span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">from</span> collections <span style="color:#f92672">import</span> namedtuple
+<span style="color:#f92672">&gt;&gt;&gt;</span> tokens <span style="color:#f92672">=</span> [<span style="color:#e6db74">r</span><span style="color:#e6db74">&#39;(?P&lt;NUMBER&gt;\d+)&#39;</span>,
+	  <span style="color:#e6db74">r</span><span style="color:#e6db74">&#39;(?P&lt;PLUS&gt;\+)&#39;</span>,
+	  <span style="color:#e6db74">r</span><span style="color:#e6db74">&#39;(?P&lt;MINUS&gt;-)&#39;</span>,
+	  <span style="color:#e6db74">r</span><span style="color:#e6db74">&#39;(?P&lt;TIMES&gt;\*)&#39;</span>,
+	  <span style="color:#e6db74">r</span><span style="color:#e6db74">&#39;(?P&lt;DIVIDE&gt;/)&#39;</span>,
+	  <span style="color:#e6db74">r</span><span style="color:#e6db74">&#39;(?P&lt;WS&gt;\s+)&#39;</span>]
+<span style="color:#f92672">&gt;&gt;&gt;</span> lex <span style="color:#f92672">=</span> re<span style="color:#f92672">.</span>compile(<span style="color:#e6db74">&#39;|&#39;</span><span style="color:#f92672">.</span>join(tokens))
+<span style="color:#f92672">&gt;&gt;&gt;</span> Token <span style="color:#f92672">=</span> namedtuple(<span style="color:#e6db74">&#39;Token&#39;</span>, [<span style="color:#e6db74">&#39;type&#39;</span>, <span style="color:#e6db74">&#39;value&#39;</span>])
+<span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#66d9ef">def</span> <span style="color:#a6e22e">tokenize</span>(text):
+	scan <span style="color:#f92672">=</span> lex<span style="color:#f92672">.</span>scanner(text)
+	<span style="color:#66d9ef">return</span> (Token(m<span style="color:#f92672">.</span>lastgroup, m<span style="color:#f92672">.</span>group())
+		<span style="color:#66d9ef">for</span> m <span style="color:#f92672">in</span> iter(scan<span style="color:#f92672">.</span>match, None) <span style="color:#66d9ef">if</span> m<span style="color:#f92672">.</span>lastgroup <span style="color:#f92672">!=</span> <span style="color:#e6db74">&#39;WS&#39;</span>)
+
+<span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#66d9ef">for</span> _t <span style="color:#f92672">in</span> tokenize(<span style="color:#e6db74">&#39;9 + 5 * 2 - 7&#39;</span>):
+	<span style="color:#66d9ef">print</span>(_t)
+
+	
+Token(type<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;NUMBER&#39;</span>, value<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;9&#39;</span>)
+Token(type<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;PLUS&#39;</span>, value<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;+&#39;</span>)
+Token(type<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;NUMBER&#39;</span>, value<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;5&#39;</span>)
+Token(type<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;TIMES&#39;</span>, value<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;*&#39;</span>)
+Token(type<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;NUMBER&#39;</span>, value<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;2&#39;</span>)
+Token(type<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;MINUS&#39;</span>, value<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;-&#39;</span>)
+Token(type<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;NUMBER&#39;</span>, value<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;7&#39;</span>)
+<span style="color:#f92672">&gt;&gt;&gt;</span> tokens
+<span style="color:#75715e"># [&#39;(?P&lt;NUMBER&gt;\\d+)&#39;, &#39;(?P&lt;PLUS&gt;\\+)&#39;, &#39;(?P&lt;MINUS&gt;-)&#39;, &#39;(?P&lt;TIMES&gt;\\*)&#39;, &#39;(?P&lt;DIVIDE&gt;/)&#39;, &#39;(?P&lt;WS&gt;\\s+)&#39;]</span>
+
+</code></pre></div>
+		</div>
+
+
+
+
+
+
+	 
+	<div class="chevrons">
+		<a class="next" href="/tutorials/python/quick_guide/" title="Python: Quick Guide" style="margin-right: 0px;">
+            <div>
+                <p>Next page</p>
+                <label>Python: Quick Guide</label>
+            </div>
+            <i class="fas fa-arrow-right" style="font-size: 1.7em"></i></a>
+	</div>
+	
+	
+
+      </section>
+
+      
+      
+      <section class="right-menu ">
+      
+	
+
+		
+	
+			
+		
+	    	
+	  	
+	<div class="TableOfContents">
+    <label><i class="fas fa-align-right"></i>&nbsp;&nbsp;What&#39;s on this page</label>
+    <nav>
+        <ul >
+            <li><a href="/tutorials/python/w3resource/regular_expression/">Python: Regular Expression</a></li>
+        </ul>
+    </nav>
+    <nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#compare-html-tags-"><strong>Compare HTML tags :</strong></a></li>
+        <li><a href="#refindall-match-string-"><strong>re.findall() match string :</strong></a></li>
+        <li><a href="#group-comparison-"><strong>Group Comparison :</strong></a></li>
+        <li><a href="#non-capturing-group-"><strong>Non capturing group :</strong></a></li>
+        <li><a href="#back-reference-"><strong>Back Reference :</strong></a></li>
+        <li><a href="#named-grouping-pname-"><strong>Named Grouping (?P<name>) :</strong></a></li>
+        <li><a href="#substitute-string-"><strong>Substitute String :</strong></a></li>
+        <li><a href="#look-around-"><strong>Look around :</strong></a></li>
+        <li><a href="#match-common-username-or-password-"><strong>Match common username or password :</strong></a></li>
+        <li><a href="#match-hex-color-value-"><strong>Match hex color value :</strong></a></li>
+        <li><a href="#match-email-"><strong>Match email :</strong></a></li>
+        <li><a href="#match-url-"><strong>Match URL :</strong></a></li>
+        <li><a href="#match-ip-address-"><strong>Match IP address :</strong></a></li>
+        <li><a href="#match-mac-address-"><strong>Match Mac address :</strong></a></li>
+        <li><a href="#lexer-"><strong>Lexer :</strong></a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+</div>
+
+		
+	
+			
+		
+	    	
+	    
+	<div class="Actions">
+	<nav>
+		<ul>
+				
+		    
+		    
+		    
+		    <li>
+		    	
+		        <a href="https://example.comadmin/#/collections/pages/entries/tutorials/python/w3resource/regular_expression/_index" target="blank">
+		        <i class="fab fa-github"></i>
+		        Improve this page</a>
+		    </li>
+		    
+		    
+			
+		    
+
+    	</ul>
+	</nav>
+    
+</div>
+
+      </section>
+      
+    </article>
+    
+    
+    <footer>
+      
+
+		
+	
+			
+		
+	    	<style type="text/css">
+
+.footer-gray {
+  width: 100%;
+  color: #888;
+}
+
+.footer-custom {
+  font: normal normal 12px/1.4 sans-serif;
+  /*max-width: 1008px;*/
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+.footer-custom:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.footer-lists:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.ftr-hdr {
+  color: white;
+  font: 22px/1.4  sans-serif;
+  margin: 1em 0 0;
+}
+
+@media only screen and (min-width: 768px) {
+  .ftr-hdr {
+    font-size: 18px;
+  }
+}
+
+.footer-list-wrap {
+  width: 50%;
+  float: left;
+  box-sizing: border-box;
+}
+
+@media only screen and (min-width: 568px) {
+  .footer-list-wrap {
+    width: 33.3333%;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .footer-list-wrap {
+    width: 25%;
+  }
+}
+
+.ftr-links-sub {
+  padding: 0;
+  margin: 0;
+}
+
+.ftr-links-sub:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.ftr-links-sub li {
+  display: block;
+  list-style-type: none;
+  margin: 0;
+  padding: 3px 0;
+  color: #888;
+  font: normal normal 12px sans-serif;
+  text-transform: uppercase;
+  /*width: 150px;*/
+}
+
+.footer-custom a,
+.footer-custom a:link,
+.footer-custom a:visited,
+.ftr-links-sub li .link {
+  text-decoration: none;
+  color: #888;
+  padding: 5px 0;
+  display: block;
+}
+
+.footer-custom .footer-legal a {
+  display: inline;
+}
+
+.footer-custom a:hover,
+.footer-custom a:active,
+.ftr-links-sub li .link:hover {
+  text-decoration: underline;
+  color: #888;
+  cursor: pointer;
+}
+
+@media only screen and (min-width: 768px) {
+  .footer-custom a, .footer-custom a:link, .footer-custom a:visited, .ftr-links-sub li .link {
+    padding: 0;
+  }
+}
+/* BEGIN EMAIL CAPTURE STYLES*/
+
+.footer-email {
+  text-align: center;
+}
+
+#ftrEmailForm {
+  height: 44px;
+}
+
+#ftrEmailForm .error {
+  display: none;
+  color: red;
+  text-align: left;
+}
+
+#ftrEmailForm #ftrEmailInput {
+  background: none repeat scroll 0 0 #FFF;
+  border: 1px solid #D6D6D6;
+  box-sizing: border-box;
+  color: #888;
+  float: left;
+  font: normal normal 14px/1.4 sans-serif;
+  padding: 5px;
+  width: 70%;
+  height: 100%;
+}
+
+#ftrEmailForm #ftrEmailInput:hover {
+  border: 1px solid #888;
+}
+
+#ftrEmailForm #ftrEmailInput:focus {
+  border: 1px solid #ef9223;
+  outline: #ef9223 auto 5px;
+}
+
+#ftrEmailForm .button {
+  width: 30%;
+  height: 100%;
+  padding: 5px;
+  float: left;
+  border: 1px solid #DFDFDF;
+  box-sizing: border-box;
+  color: #000;
+  font: normal bold 18px/1 sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  background: #FFF;
+  background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJod…EiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, white), color-stop(100%, #e1e1e1));
+  background: -webkit-linear-gradient(top, white 0, #e1e1e1 100%);
+  background: -moz-linear-gradient(top, white 0, #e1e1e1 100%);
+  background: -ms-linear-gradient(top, white 0, #e1e1e1 100%);
+  background: -o-linear-gradient(top, white 0, #e1e1e1 100%);
+  background: linear-gradient(to bottom, white 0, #e1e1e1 100%);
+  cursor: pointer;
+  vertical-align: middle;
+  outline: none;
+}
+
+#ftrEmailForm .button:hover,
+#ftrEmailForm .button:active {
+  background: black;
+  color: #FFF;
+  outline: none;
+}
+/* BEGIN SOCIAL STYLES*/
+
+.footer-social {
+  text-align: center;
+}
+
+.footer-social ul {
+  padding: 0;
+  display: inline-block;
+  list-style-type: none;
+}
+
+.footer-social ul:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.footer-social li {
+  float: left;
+  margin: 0 15px 0 0;
+  padding: 0;
+}
+
+@media only screen and (min-width: 768px) {
+  .footer-lists {
+    width: 100%;
+  }
+  .footer-email {
+    width: 50%;
+    float: left;
+    text-align: left;
+  }
+  .footer-social {
+    width: 45%;
+    margin-left: 5%;
+    float: left;
+    text-align: left;
+  }
+}
+
+@media only screen and (min-width: 1008px) {
+  .footer-lists {
+    width: 66.6666%;
+    float: left;
+  }
+  .footer-email {
+    width: 33.3333%;
+  }
+  .footer-social {
+    width: 33.3333%;
+    float: right;
+    margin-left: 0;
+  }
+}
+
+.footer-legal {
+  padding: 15px 0 0;
+  clear: left;
+}
+
+.footer-payment {
+  text-align: center;
+}
+
+@media only screen and (min-width: 768px) {
+  .footer-legal {
+    width: 66.6666%;
+    float: left;
+  }
+  .footer-payment {
+    width: 33.3333%;
+    float: left;
+  }
+}
+
+@media only screen and (min-width: 1008px) {
+  .footer-payment {
+    text-align: left;
+  }
+}
+
+.footer-payment ul {
+  padding: 0;
+  display: inline-block;
+  list-style-type: none;
+}
+
+.footer-payment ul li {
+  display: inline-block;
+  margin: 0 6px;
+}
+
+@media only screen and (min-width: 1008px) {
+  .footer-payment ul li.ftr-stella {
+    margin-left: 0;
+  }
+}
+
+
+</style>
+  <div class="footer-gray">
+    <div class="footer-custom">
+      <div class="footer-lists">
+        <div class="footer-list-wrap">
+          <h6 class="ftr-hdr">Order Something</h6>
+          <ul class="ftr-links-sub">
+            <li>800-123-4567</li>
+          </ul>
+          <h6 class="ftr-hdr">International</h6>
+          <ul class="ftr-links-sub">
+            <li><a href="#" rel="nofollow">France</a></li>
+            <li><a href="#" rel="nofollow">Cape Verde</a></li>
+          </ul>
+        </div>
+        <div class="footer-list-wrap">
+          <h6 class="ftr-hdr">Customer Service</h6>
+          <ul class="ftr-links-sub">
+            <li><a href="#" rel="nofollow">Contact Us</a></li>
+            <li><a href="#" rel="nofollow">Ordering</a></li>
+            <li><a href="#" rel="nofollow">Shipping &amp; Delivery</a></li>
+            <li><a href="#" rel="nofollow">Returns</a></li>
+            <li><a href="#" rel="nofollow">Gift Cards</a></li>
+            <li><a href="#" rel="nofollow">FAQs</a></li>
+          </ul>
+        </div>
+        <div class="footer-list-wrap">
+          <h6 class="ftr-hdr">About DocPort</h6>
+          <ul class="ftr-links-sub">
+            <li><a href="#" rel="nofollow">Our Company</a></li>
+            <li><a href="#" rel="nofollow">Careers</a></li>
+            <li><a href="#" rel="nofollow">Affiliate Program</a></li>
+            <li><a href="#" rel="nofollow"><strong>Shop Our Catalog</strong></a></li>
+            <li><a href="#" rel="nofollow">DocPort BLOG</a></li>
+          </ul>
+        </div>
+        <div class="footer-list-wrap">
+          <h6 class="ftr-hdr">My Account</h6>
+          <ul class="ftr-links-sub">
+            <art:content rule="!loggedin">
+              <li class="ftr-Login"><span class="link login-trigger">Access My Account</span></li>
+              <li><span class="link">Track My Order</span></li>
+            </art:content>
+            <art:content rule="loggedin">
+              <li class="ftr-Login"><span class="link ftr-access-my-account">Access My Account</span></li>
+              <li><span class="link">Track My Order</span></li>
+            </art:content>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-email">
+        <h6 class="ftr-hdr">Sign up for exclusive offers and inspiration</h6>
+        <div id="ftr-email" class="ftr-email-form">
+          <form id="ftrEmailForm" method="post" action="#">
+            <div class="error">Please enter a valid email address</div>
+            <input type="text" name="email_address_" id="ftrEmailInput" class="input" placeholder="Enter email address"/>
+          </form>
+        </div>
+        <div class="ftr-email-privacy-policy"></div>
+      </div>
+      <div class="footer-social">
+        <h6 class="ftr-hdr">Follow Us</h6>
+        <ul>
+          <li>
+            <a href="#" title="Facebook">
+              <img width="24" height="24" alt="Like us on Facebook" src="/images/fb.png">
+            </a>
+          </li>
+          <li>
+            <a href="#" title="Google+">
+              <img width="24" height="24" alt="Follow us on Google+" src="/images/gplus.png">
+            </a>
+          </li>
+          <li>
+            <a href="#" target="_blank">
+              <img width="24" height="24" alt="Follow us on Pinterest" src="/images/pin-badge.png">
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="#">
+              <img width="24" height="24" alt="Follow us on Instagram" src="/images/instagram-badge.png">
+            </a>
+          </li>
+          <li>
+            <a href="#" title="Twitter">
+              <img width="67" alt="Follow us on Twitter" src="/images/twitter.png">
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="footer-legal">
+        <p>&copy; Docport MIT Licence. | <a href="#" rel="nofollow">Privacy Policy</a> | <a href="#" rel="nofollow">Terms of Use</a> | <a href="#" rel="nofollow">Terms of Sale</a></p>
+        <p>Docport is free Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+        <p>Various aspects of this website are ...blablabla</p>
+      </div>
+    </div>
+  </div>
+  <!--/.footer-gray-->
+	    
+	
+    </footer>
+    
+
+
+
+  </body>
+</html>

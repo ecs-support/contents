@@ -1,0 +1,2861 @@
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+	Exception Handling :: DocPort Documentation
+</title>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<meta name="revised" content="2021-01-15T01:47:23 &#43;07">
+<meta name="description" content="">
+
+
+
+<title>Exception Handling :: DocPort Documentation</title>
+
+<link rel="shortcut icon" href='/images/favicon.png' type="image/x-icon" />
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.css">
+
+<script src='https://code.jquery.com/jquery-3.5.1.min.js'></script>
+
+<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel="stylesheet">
+
+
+
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/layout.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/css/style.main.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/css/style.menu.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/notice.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/tabs.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/panel.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/columns.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/children.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/attachments.css'>
+<link rel="stylesheet" type="text/css" href='https://example.com/sass/shortcodes/alert.css'>
+<link rel="stylesheet" type="text/css" href='/css/docport.css'>
+
+<script src='/js/docport.js'></script>
+<script type="text/javascript">
+      var baseurl = "https:\/\/example.com";
+</script>
+
+
+
+
+    
+  </head>
+
+  <body data-url="/tutorials/python/learn_python/files/exception-handling/"
+
+  class="">
+
+<style type="text/css">
+  #debug{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    line-height: 3.5rem;
+    margin-bottom: .35rem;
+    padding: 0 2rem;
+    position: fixed;
+    left: 0;      right: 0;     top: 0;
+   
+    top:0px;
+    
+    min-height: 150px;
+
+    background-color: white;
+    border: 3px solid red;
+    z-index: 10000 ;
+    word-wrap: all;
+    overflow: auto;
+  }
+</style>
+ 
+
+
+    
+    
+    <header style="">
+        <div>
+    
+    <div class="burger ">
+        <a href="javascript:void(0);" style="font-size:15px;" onclick="$('article > aside').toggleClass('responsive')">&#9776;</a>
+    </div>
+    
+
+    <div>
+
+		
+	
+			
+		
+	    	<a class='baselink' href='https://example.com'>DocPort Documentation</a>
+	  	
+	</div>
+    <nav class="shortcuts">
+            <li class="" role="">
+                <a href="https://github.com/vjeantet/hugo-theme-docport"  rel="noopener">
+                  Github
+                </a>
+            </li>
+            <li class="" role="">
+                <a href="https://github.com/vjeantet/hugo-theme-docport/archive/master.zip"  rel="noopener">
+                  Download
+                </a>
+            </li>
+            <li class="" role="">
+                <a href="https://gohugo.io/"  rel="noopener">
+                  Hugo Documentation
+                </a>
+            </li>
+            <li class="" role="">
+                <a href="/docport-theme/credits/"  rel="noopener">
+                  Credits
+                </a>
+            </li>
+    </nav>
+
+</div>
+    </header>
+    
+
+    <article>
+      
+      <aside class="">
+        
+<div class="search">
+	<div class="searchbox">
+	  <input data-search-input id="search-by" type="text" placeholder="Type to search...">
+	</div>
+	<script type="text/javascript" src="/vendor/lunr/lunr.min.js"></script>
+	<script type="text/javascript" src="/vendor/auto-complete/auto-complete.js"></script>
+	<link href="/vendor/auto-complete/auto-complete.css" rel="stylesheet">
+	<script type="text/javascript">
+	  
+	      var baseurl = "https:\/\/example.com";
+	  
+	</script>
+	<script type="text/javascript" src="/js/search.js"></script>
+</div>
+
+		
+	
+			
+		
+	    	
+	    
+	<div id="close_menu">
+  <a href="javascript:void(0);" style="font-size:15px;" onclick="$('article > aside').toggleClass('responsive')">
+      <i class="fa fa-lg fa-times"></i>
+  </a>
+</div>
+
+<ul class="menu">
+
+    <li data-nav-id="https://example.com/tutorials/" class="dd-item parent haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <i class="fas fa-chevron-down ddexp"></i>
+        
+      
+          <a href="/tutorials/">Tutorial</a>
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/">Python by MascusCode</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/0_intro/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/0_intro/">Introduction</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/3_structure/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/3_structure/">3. โครงสร้างของภาษา Python</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/4_type/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/4_type/">4. ตัวแปรและประเภทข้อมูล</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/9_function/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/9_function/">9. ฟังก์ชัน (Function)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/10_string/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/10_string/">10. String</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/11_string_methods/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/11_string_methods/">11. String methods</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/12_list/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/12_list/">12. List (ลิสต์)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/13_list_methods/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/13_list_methods/">13. List Methods (ลิสต์ เมธอด)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/15_dictionary/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/15_dictionary/">15. Dictionary</a>
+      
+        
+      
+    </li>
+              
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/20_classes/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/20_classes/">21. Classes &amp; Objects</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/21_inheritance/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/21_inheritance/">22. Inheritance</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/22_thread/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/22_thread/">23. Thread</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/learning-python/24_date-time/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/learning-python/24_date-time/">24. Date &amp; Time (วันที่และเวลา)</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/">Pandas</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/cookbook/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/cookbook/">Pandas Cookbook</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/short_introduction/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/short_introduction/">Short Introduction</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/short_introduction/10-minutes/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/short_introduction/10-minutes/">10 minutes to pandas</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/short_introduction/essential_snippets/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/short_introduction/essential_snippets/">19 Essential Snippets in Pandas</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/short_introduction/basic-to-beyond/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/short_introduction/basic-to-beyond/">Basics to Beyond</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/short_introduction/cheatsheet-pandas/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/short_introduction/cheatsheet-pandas/">Cheatsheet Pandas</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/tutorial-geeksforgeeks/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/tutorial-geeksforgeeks/">Tutorial (GeeksforGeeks)</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/tutorial-geeksforgeeks/selection/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/tutorial-geeksforgeeks/selection/">Selection</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/tutorial-geeksforgeeks/selection/dealing-with-rows-and-columns/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/tutorial-geeksforgeeks/selection/dealing-with-rows-and-columns/">Dealing with Rows and Columns</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/tutorial-geeksforgeeks/selection/extracting-rows-using-loc/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/tutorial-geeksforgeeks/selection/extracting-rows-using-loc/">Extracting rows using .loc[]</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/pandas/tutorial-geeksforgeeks/selection/extracting-rows-using-pandas-iloc/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/pandas/tutorial-geeksforgeeks/selection/extracting-rows-using-pandas-iloc/">Extracting rows using .iloc[]</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/" class="dd-item parent haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/">Python</a>
+      
+          <i class="fas fa-chevron-down ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/" class="dd-item parent haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/">Learn Python</a>
+      
+          <i class="fas fa-chevron-down ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/function/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/function/">Function</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/function/function_arguments/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/function/function_arguments/">Function Arguments</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/function/lambda_functions/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/function/lambda_functions/">Anonymous/Lambda Function</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/function/global_variables/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/function/global_variables/">Global, Local and variables</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/data_type/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/data_type/">Data Type</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/data_type/list/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/data_type/list/">Python: List</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/data_type/tuble/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/data_type/tuble/">Python: Tuble</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/data_type/string/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/data_type/string/">Python: String</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/data_type/set/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/data_type/set/">Python: Set</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/data_type/dictionary/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/data_type/dictionary/">Python: Dictionary</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/" class="dd-item parent haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/">Files</a>
+      
+          <i class="fas fa-chevron-down ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/intro/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/intro/">Page Index</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/file_operations/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/file_operations/">Python File I/O</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/directory/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/directory/">Python: Directory</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/exceptions/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/exceptions/">Python Exceptions</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/exception-handling/" class="dd-item parent active
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/exception-handling/">Exception Handling</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/files/user-defined-exception/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/files/user-defined-exception/">Custom Exceptions</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/objects_class/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/objects_class/">Object &amp; Class</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/objects_class/oop/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/objects_class/oop/">Object Oriented Programming (OOP)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/objects_class/class/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/objects_class/class/">Objects and Classes</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/objects_class/inheritance/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/objects_class/inheritance/">Python Inheritance</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/advance_topic/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/advance_topic/">Advance Topics</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/advance_topic/iterators/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/advance_topic/iterators/">Iterators</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/advance_topic/generators/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/advance_topic/generators/">Generators</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/">Date and Time</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/datetime_module/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/datetime_module/">datetime() Module</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/strftime/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/strftime/">strftime()</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/strptime/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/strptime/">strptime()</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/current-datetime/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/current-datetime/">Get Current Date and Time</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/timestamp_datetime/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/timestamp_datetime/">Timestamp to Datetime</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/time_module/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/time_module/">Time Module</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/learn_python/datetime/sleep/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/learn_python/datetime/sleep/">Time Sleep()</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/">phyblas</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/">ผู้เริ่มต้น (Beginer)</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/basic_functin/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/basic_functin/">ฟังก์ชันพื้นฐาน</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/string_output/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/string_output/">การแสดงผลตัวอักษร</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/string_format/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/string_format/">การจัดการกับสายอักขระ</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/list/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/list/">การจัดการกับลิสต์ (List)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/dictionary/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/dictionary/">ดิกชันนารี (Dictionary)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/beginer/module/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/beginer/module/">การเรียกใช้มอดูล (Module)</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/">ระดับกลาง(Intermediate)</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/read_files/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/read_files/">การอ่านข้อมูลจากไฟล์</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/write_files/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/write_files/">การเขียนข้อมูลลงไฟล์</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/create_function/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/create_function/">การสร้างฟังก์ชัน</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/recursive_function/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/recursive_function/">ฟังก์ชันเวียนเกิด</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/lambda/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/lambda/">คำสั่งพิเศษที่เกี่ยวข้องกับฟังก์ชัน</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/intermediate/inheritance/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/intermediate/inheritance/">การรับทอด</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/phyblas/advance/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/phyblas/advance/">ระดับสูง(Advance)</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/w3resource/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/w3resource/">Python Tutorial (w3resource)</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/w3resource/bytes/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/w3resource/bytes/">Python: Bytes, Bytearray</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/w3resource/regular_expression/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/w3resource/regular_expression/">Python: Regular Expression</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/quick_guide/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/quick_guide/">Python: Quick Guide</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/quick_guide/a-81-python-code-snippet/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/quick_guide/a-81-python-code-snippet/">81 Python Code Snippets</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/resources/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/resources/">Resources</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/resources/quick_reference_cards/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/resources/quick_reference_cards/">Quick Reference Card</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/pythonstandardlibrary/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/pythonstandardlibrary/">Standard Library</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/pythonstandardlibrary/text/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/pythonstandardlibrary/text/">Text</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/pythonstandardlibrary/text/string/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/pythonstandardlibrary/text/string/">String</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/">Tutorials</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/basic_syntax/" class="dd-item alwaysopen
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/basic_syntax/">Basic Syntax</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/date-time/" class="dd-item haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/date-time/">Date &amp; Time</a>
+      <i class="fas fa-chevron-right ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/date-time/pendulum/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/date-time/pendulum/">pendulum</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/date-time/overview/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/date-time/overview/">การจัดการวันเวลา</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/date-time/center/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/date-time/center/">Date &amp; Time tutorial</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/date-time/time-delta-striftime/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/date-time/time-delta-striftime/">TimeDelta, Strftime(Format)</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/date-time/time-module/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/date-time/time-module/">Time Module</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/list/" class="dd-item alwaysopen
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/list/">List</a>
+      
+        
+      
+    </li>
+              
+<hr/>
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/dictionary/" class="dd-item alwaysopen haschildren
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/dictionary/">Dictionary&nbsp;👋</a>
+      
+          <i class="fas fa-chevron-down ddexp"></i>
+        
+      
+        <ul>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/dictionary/dict_beginner/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/dictionary/dict_beginner/">Beginners Tutorial</a>
+      
+        
+      
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/tutorials/dictionary/merge-two-dictionaries/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/tutorials/dictionary/merge-two-dictionaries/">Merge two Dictionaries</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+              
+
+    <li data-nav-id="https://example.com/tutorials/python/beginner/" class="dd-item
+        item_level_$level
+        ">
+
+      
+      
+      
+      
+          <a href="/tutorials/python/beginner/">Python for beginners</a>
+      
+        
+      
+    </li>
+        </ul>
+    </li>
+        </ul>
+    </li>
+    
+
+
+
+</ul>
+
+		
+	
+			
+		
+	    	<center>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/vjeantet/hugo-theme-docport/archive/master.zip" data-icon="octicon-cloud-download" aria-label="Download vjeantet/hugo-theme-docport on GitHub">Download</a>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/vjeantet/hugo-theme-docport" data-icon="octicon-star" data-show-count="false" aria-label="Star vjeantet/hugo-theme-docport on GitHub">Star</a>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/vjeantet/hugo-theme-docport/fork" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork vjeantet/hugo-theme-docport on GitHub">Fork</a>
+</center>
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+	    
+	
+      </aside>
+      
+
+      <section class="page ">
+      
+	
+		
+    
+    
+    <nav id="ariane" aria-label="breadcrumb">
+      <ol class="ariane">
+        
+  
+  	
+		
+  
+  	
+		
+  
+  	
+		
+  
+  	
+		
+  
+  	
+	<li >
+      <a class="text-link" href="https://example.com">
+        Home
+      </a>
+    </li>
+	
+  
+    <li class="">
+      <a class="text-link" href="/tutorials/">
+        Tutorial
+      </a>
+    </li>
+	
+  	
+  
+    <li class="">
+      <a class="text-link" href="/tutorials/python/">
+        Python
+      </a>
+    </li>
+	
+  	
+  
+    <li class="">
+      <a class="text-link" href="/tutorials/python/learn_python/">
+        Learn Python
+      </a>
+    </li>
+	
+  	
+  
+    <li class="">
+      <a class="text-link" href="/tutorials/python/learn_python/files/">
+        Files
+      </a>
+    </li>
+	
+  	
+  
+    <li class="active">
+      
+        Exception Handling
+      
+    </li>
+
+      </ol>
+    </nav>
+    
+    
+
+    
+		
+        
+		
+		
+		
+		
+		
+		
+		
+
+		
+			<h1>Exception Handling</h1>
+        
+
+		
+										
+		
+
+		
+	
+
+	
+	
+	<div class="jump-to-section">
+		<span onclick="$h = $(this);$h.next('nav').slideToggle(100,function () {$h.children('i').attr('class',function () {return $h.next('nav').is(':visible') ? 'fas fa-chevron-down' : 'fas fa-chevron-right';});});">
+  			<span class="fas fa-align-right"></span>
+  			Jump to Section
+  			<i style=";" class="fas fa-chevron-right"></i>
+		</span>
+		<nav id="TableOfContents">
+  <ul>
+    <li><a href="#exceptions-in-python">Exceptions in Python</a></li>
+    <li><a href="#catching-exceptions-in-python">Catching Exceptions in Python</a></li>
+    <li><a href="#catching-specific-exceptions-in-python">Catching Specific Exceptions in Python</a></li>
+    <li><a href="#raising-exceptions-in-python">Raising Exceptions in Python</a></li>
+    <li><a href="#python-try-with-else-clause">Python try with else clause</a></li>
+    <li><a href="#python-tryfinally">Python try&hellip;finally</a></li>
+    <li><a href="#what-is-string-in-python">What is String in Python?</a></li>
+    <li><a href="#how-to-create-a-string-in-python">How to create a string in Python?</a></li>
+    <li><a href="#how-to-access-characters-in-a-string">How to access characters in a string?</a></li>
+    <li><a href="#how-to-change-or-delete-a-string">How to change or delete a string?</a></li>
+    <li><a href="#python-string-operations">Python String Operations</a>
+      <ul>
+        <li><a href="#concatenation-of-two-or-more-strings">Concatenation of Two or More Strings</a></li>
+        <li><a href="#iterating-through-a-string">Iterating Through a string</a></li>
+        <li><a href="#string-membership-test">String Membership Test</a></li>
+        <li><a href="#built-in-functions-to-work-with-python">Built-in functions to Work with Python</a></li>
+      </ul>
+    </li>
+    <li><a href="#python-string-formatting">Python String Formatting</a>
+      <ul>
+        <li><a href="#escape-sequence">Escape Sequence</a></li>
+        <li><a href="#raw-string-to-ignore-escape-sequence">Raw String to ignore escape sequence</a></li>
+        <li><a href="#the-format-method-for-formatting-strings">The format() Method for Formatting Strings</a></li>
+        <li><a href="#old-style-formatting">Old style formatting</a></li>
+      </ul>
+    </li>
+    <li><a href="#common-python-string-methods">Common Python String Methods</a></li>
+  </ul>
+</nav>
+	</div>
+	
+	
+
+
+
+
+
+
+	<div class="content">
+	    <p>In this tutorial you will learn to create, format, modify and delete strings in Python. Also, you will be introduced to various string operations and functions.</p>
+<p><strong>Python Exception Handling Using try, except and finally statement</strong></p>
+<p>In this tutorial, you&rsquo;ll learn how to handle exceptions in your Python program using try, except and finally statements with the help of examples.</p>
+<h2 ref="exceptions-in-python" >Exceptions in Python</h2><a class="anchor" id="exceptions-in-python"></a>
+<p>Python has many  <a href="https://www.programiz.com/python-programming/exceptions">built-in exceptions</a>  that are raised when your program encounters an error (something in the program goes wrong).</p>
+<p>When these exceptions occur, the Python interpreter stops the current process and passes it to the calling process until it is handled. If not handled, the program will crash.</p>
+<p>For example, let us consider a program where we have a  <a href="https://www.programiz.com/python-programming/function">function</a>  <code>A</code>  that calls function  <code>B</code>, which in turn calls function  <code>C</code>. If an exception occurs in function  <code>C</code>  but is not handled in  <code>C</code>, the exception passes to  <code>B</code>  and then to  <code>A</code>.</p>
+<p>If never handled, an error message is displayed and our program comes to a sudden unexpected halt.</p>
+<hr>
+<h2 ref="catching-exceptions-in-python" >Catching Exceptions in Python</h2><a class="anchor" id="catching-exceptions-in-python"></a>
+<p>In Python, exceptions can be handled using a  <code>try</code>  statement.</p>
+<p>The critical operation which can raise an exception is placed inside the  <code>try</code>  clause. The code that handles the exceptions is written in the  <code>except</code>  clause.</p>
+<p>We can thus choose what operations to perform once we have caught the exception. Here is a simple example.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#75715e"># import module sys to get the type of exception</span>
+<span style="color:#f92672">import</span> sys
+
+randomList <span style="color:#f92672">=</span> [<span style="color:#e6db74">&#39;a&#39;</span>, <span style="color:#ae81ff">0</span>, <span style="color:#ae81ff">2</span>]
+
+<span style="color:#66d9ef">for</span> entry <span style="color:#f92672">in</span> randomList:
+    <span style="color:#66d9ef">try</span>:
+        <span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#34;The entry is&#34;</span>, entry)
+        r <span style="color:#f92672">=</span> <span style="color:#ae81ff">1</span><span style="color:#f92672">/</span>int(entry)
+        <span style="color:#66d9ef">break</span>
+    <span style="color:#66d9ef">except</span>:
+        <span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#34;Oops!&#34;</span>, sys<span style="color:#f92672">.</span>exc_info()[<span style="color:#ae81ff">0</span>], <span style="color:#e6db74">&#34;occurred.&#34;</span>)
+        <span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#34;Next entry.&#34;</span>)
+        <span style="color:#66d9ef">print</span>()
+<span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#34;The reciprocal of&#34;</span>, entry, <span style="color:#e6db74">&#34;is&#34;</span>, r)
+</code></pre></div><p><strong>Output</strong></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-text" data-lang="text">The entry is a
+Oops! &lt;class &#39;ValueError&#39;&gt; occurred.
+Next entry.
+
+The entry is 0
+Oops! &lt;class &#39;ZeroDivisionError&#39;&gt; occured.
+Next entry.
+
+The entry is 2
+The reciprocal of 2 is 0.5
+
+In this program, we loop through the values of the  randomList  list. As previously mentioned, the portion that can cause an exception is placed inside the  `try`  block.
+
+If no exception occurs, the  `except`  block is skipped and normal flow continues(for last value). But if any exception occurs, it is caught by the  `except`  block (first and second values).
+
+Here, we print the name of the exception using the  `exc_info()`  function inside  `sys`  module. We can see that  `a`  causes  `ValueError`  and  `0`  causes  `ZeroDivisionError`.
+
+Since every exception in Python inherits from the base  `Exception`  class, we can also perform the above task 
+</code></pre></div><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#75715e"># import module sys to get the type of exception</span>
+<span style="color:#f92672">import</span> sys
+
+randomList <span style="color:#f92672">=</span> [<span style="color:#e6db74">&#39;a&#39;</span>, <span style="color:#ae81ff">0</span>, <span style="color:#ae81ff">2</span>]
+
+<span style="color:#66d9ef">for</span> entry <span style="color:#f92672">in</span> randomList:
+    <span style="color:#66d9ef">try</span>:
+        <span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#34;The entry is&#34;</span>, entry)
+        r <span style="color:#f92672">=</span> <span style="color:#ae81ff">1</span><span style="color:#f92672">/</span>int(entry)
+        <span style="color:#66d9ef">break</span>
+    <span style="color:#66d9ef">except</span> <span style="color:#a6e22e">Exception</span> <span style="color:#66d9ef">as</span> e:
+        <span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#34;Oops!&#34;</span>, e<span style="color:#f92672">.</span>__class__, <span style="color:#e6db74">&#34;occurred.&#34;</span>)
+        <span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#34;Next entry.&#34;</span>)
+        <span style="color:#66d9ef">print</span>()
+<span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#34;The reciprocal of&#34;</span>, entry, <span style="color:#e6db74">&#34;is&#34;</span>, r)
+</code></pre></div><p>This program has the same output as the above program.</p>
+<hr>
+<h2 ref="catching-specific-exceptions-in-python" >Catching Specific Exceptions in Python</h2><a class="anchor" id="catching-specific-exceptions-in-python"></a>
+<p>In the above example, we did not mention any specific exception in the  <code>except</code>  clause.</p>
+<p>This is not a good programming practice as it will catch all exceptions and handle every case in the same way. We can specify which exceptions an  <code>except</code>  clause should catch.</p>
+<p>A  <code>try</code>  clause can have any number of  <code>except</code>  clauses to handle different exceptions, however, only one will be executed in case an exception occurs.</p>
+<p>We can use a tuple of values to specify multiple exceptions in an except clause. Here is an example pseudo code.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#66d9ef">try</span>:
+   <span style="color:#75715e"># do something</span>
+   <span style="color:#66d9ef">pass</span>
+
+<span style="color:#66d9ef">except</span> <span style="color:#a6e22e">ValueError</span>:
+   <span style="color:#75715e"># handle ValueError exception</span>
+   <span style="color:#66d9ef">pass</span>
+
+<span style="color:#66d9ef">except</span> (<span style="color:#a6e22e">TypeError</span>, <span style="color:#a6e22e">ZeroDivisionError</span>):
+   <span style="color:#75715e"># handle multiple exceptions</span>
+   <span style="color:#75715e"># TypeError and ZeroDivisionError</span>
+   <span style="color:#66d9ef">pass</span>
+
+<span style="color:#66d9ef">except</span>:
+   <span style="color:#75715e"># handle all other exceptions</span>
+   <span style="color:#66d9ef">pass</span>
+</code></pre></div><hr>
+<h2 ref="raising-exceptions-in-python" >Raising Exceptions in Python</h2><a class="anchor" id="raising-exceptions-in-python"></a>
+<p>In Python programming, exceptions are raised when errors occur at runtime. We can also manually raise exceptions using the  <code>raise</code>  keyword.</p>
+<p>We can optionally pass values to the exception to clarify why that exception was raised.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"> <span style="color:#66d9ef">raise</span> <span style="color:#a6e22e">KeyboardInterrupt</span>
+Traceback (most recent call last):
+<span style="color:#f92672">...</span>
+<span style="color:#a6e22e">KeyboardInterrupt</span>
+
+ <span style="color:#66d9ef">raise</span> <span style="color:#a6e22e">MemoryError</span>(<span style="color:#e6db74">&#34;This is an argument&#34;</span>)
+Traceback (most recent call last):
+<span style="color:#f92672">...</span>
+<span style="color:#a6e22e">MemoryError</span>: This <span style="color:#f92672">is</span> an argument
+
+ <span style="color:#66d9ef">try</span>:
+<span style="color:#f92672">...</span>     a <span style="color:#f92672">=</span> int(input(<span style="color:#e6db74">&#34;Enter a positive integer: &#34;</span>))
+<span style="color:#f92672">...</span>     <span style="color:#66d9ef">if</span> a <span style="color:#f92672">&lt;=</span> <span style="color:#ae81ff">0</span>:
+<span style="color:#f92672">...</span>         <span style="color:#66d9ef">raise</span> <span style="color:#a6e22e">ValueError</span>(<span style="color:#e6db74">&#34;That is not a positive number!&#34;</span>)
+<span style="color:#f92672">...</span> <span style="color:#66d9ef">except</span> <span style="color:#a6e22e">ValueError</span> <span style="color:#66d9ef">as</span> ve:
+<span style="color:#f92672">...</span>     <span style="color:#66d9ef">print</span>(ve)
+<span style="color:#f92672">...</span>    
+Enter a positive integer: <span style="color:#f92672">-</span><span style="color:#ae81ff">2</span>
+That <span style="color:#f92672">is</span> <span style="color:#f92672">not</span> a positive number<span style="color:#960050;background-color:#1e0010">!</span>
+</code></pre></div><hr>
+<h2 ref="python-try-with-else-clause" >Python try with else clause</h2><a class="anchor" id="python-try-with-else-clause"></a>
+<p>In some situations, you might want to run a certain block of code if the code block inside  <code>try</code>  ran without any errors. For these cases, you can use the optional  <code>else</code>  keyword with the  <code>try</code>  statement.</p>
+<p><strong>Note</strong>: Exceptions in the else clause are not handled by the preceding except clauses.</p>
+<p>Let&rsquo;s look at an example:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#75715e"># program to print the reciprocal of even numbers</span>
+
+<span style="color:#66d9ef">try</span>:
+    num <span style="color:#f92672">=</span> int(input(<span style="color:#e6db74">&#34;Enter a number: &#34;</span>))
+    <span style="color:#66d9ef">assert</span> num <span style="color:#f92672">%</span> <span style="color:#ae81ff">2</span> <span style="color:#f92672">==</span> <span style="color:#ae81ff">0</span>
+<span style="color:#66d9ef">except</span>:
+    <span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#34;Not an even number!&#34;</span>)
+<span style="color:#66d9ef">else</span>:
+    reciprocal <span style="color:#f92672">=</span> <span style="color:#ae81ff">1</span><span style="color:#f92672">/</span>num
+    <span style="color:#66d9ef">print</span>(reciprocal)
+</code></pre></div><p><strong>Output</strong></p>
+<p>If we pass an odd number:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">Enter a number: <span style="color:#ae81ff">1</span>
+Not an even number<span style="color:#960050;background-color:#1e0010">!</span>
+</code></pre></div><p>If we pass an even number, the reciprocal is computed and displayed.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">Enter a number: <span style="color:#ae81ff">4</span>
+<span style="color:#ae81ff">0.25</span>
+</code></pre></div><p>However, if we pass 0, we get  <code>ZeroDivisionError</code>  as the code block inside  <code>else</code>  is not handled by preceding  <code>except</code>.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">Enter a number: <span style="color:#ae81ff">0</span>
+Traceback (most recent call last):
+  File <span style="color:#e6db74">&#34;&lt;string&gt;&#34;</span>, line <span style="color:#ae81ff">7</span>, <span style="color:#f92672">in</span> <span style="color:#f92672">&lt;</span>module<span style="color:#f92672">&gt;</span>
+    reciprocal <span style="color:#f92672">=</span> <span style="color:#ae81ff">1</span><span style="color:#f92672">/</span>num
+<span style="color:#a6e22e">ZeroDivisionError</span>: division by zero
+</code></pre></div><hr>
+<h2 ref="python-tryfinally" >Python try&hellip;finally</h2><a class="anchor" id="python-tryfinally"></a>
+<p>The  <code>try</code>  statement in Python can have an optional  <code>finally</code>  clause. This clause is executed no matter what, and is generally used to release external resources.</p>
+<p>For example, we may be connected to a remote data center through the network or working with a file or a Graphical User Interface (GUI).</p>
+<p>In all these circumstances, we must clean up the resource before the program comes to a halt whether it successfully ran or not. These actions (closing a file, GUI or disconnecting from network) are performed in the  <code>finally</code>  clause to guarantee the execution.</p>
+<p>Here is an example of  <a href="https://www.programiz.com/python-programming/file-operation">file operations</a>  to illustrate this.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#66d9ef">try</span>:
+   f <span style="color:#f92672">=</span> open(<span style="color:#e6db74">&#34;test.txt&#34;</span>,encoding <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;utf-8&#39;</span>)
+   <span style="color:#75715e"># perform file operations</span>
+<span style="color:#66d9ef">finally</span>:
+   f<span style="color:#f92672">.</span>close()
+</code></pre></div><p>This type of construct makes sure that the file is closed even if an exception occurs during the program execution.</p>
+<blockquote>
+<p>Source :  <a href="https://www.programiz.com/python-programming/exception-handling">https://www.programiz.com/python-programming/exception-handling</a></p>
+</blockquote>
+<!--          save                -->
+<h2 ref="what-is-string-in-python" >What is String in Python?</h2><a class="anchor" id="what-is-string-in-python"></a>
+<p>A string is a sequence of characters.</p>
+<p>A character is simply a symbol. For example, the English language has 26 characters.</p>
+<p>Computers do not deal with characters, they deal with numbers (binary). Even though you may see characters on your screen, internally it is stored and manipulated as a combination of 0s and 1s.</p>
+<p>This conversion of character to a number is called encoding, and the reverse process is decoding. ASCII and Unicode are some of the popular encodings used.</p>
+<p>In Python, a string is a sequence of Unicode characters. Unicode was introduced to include every character in all languages and bring uniformity in encoding. You can learn about Unicode from  <a href="http://docs.python.org/3.3/howto/unicode.html">Python Unicode</a>.</p>
+<hr>
+<h2 ref="how-to-create-a-string-in-python" >How to create a string in Python?</h2><a class="anchor" id="how-to-create-a-string-in-python"></a>
+<p>Strings can be created by enclosing characters inside a single quote or double-quotes. Even triple quotes can be used in Python but generally used to represent multiline strings and docstrings.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#75715e"># defining strings in Python</span>
+<span style="color:#75715e"># all of the following are equivalent</span>
+my_string <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;Hello&#39;</span>
+<span style="color:#66d9ef">print</span>(my_string)
+
+my_string <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;Hello&#34;</span>
+<span style="color:#66d9ef">print</span>(my_string)
+
+my_string <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;&#39;&#39;Hello&#39;&#39;&#39;</span>
+<span style="color:#66d9ef">print</span>(my_string)
+
+<span style="color:#75715e"># triple quotes string can extend multiple lines</span>
+my_string <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;&#34;&#34;Hello, welcome to
+</span><span style="color:#e6db74">           the world of Python&#34;&#34;&#34;</span>
+<span style="color:#66d9ef">print</span>(my_string)
+</code></pre></div><p>When you run the program, the output will be:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">Hello
+Hello
+Hello
+Hello, welcome to
+           the world of Python
+</code></pre></div><hr>
+<h2 ref="how-to-access-characters-in-a-string" >How to access characters in a string?</h2><a class="anchor" id="how-to-access-characters-in-a-string"></a>
+<p>We can access individual characters using indexing and a range of characters using slicing. Index starts from 0. Trying to access a character out of index range will raise an  <code>IndexError</code>. The index must be an integer. We can&rsquo;t use floats or other types, this will result into  <code>TypeError</code>.</p>
+<p>Python allows negative indexing for its sequences.</p>
+<p>The index of  <code>-1</code>  refers to the last item,  <code>-2</code>  to the second last item and so on. We can access a range of items in a string by using the slicing operator  <code>:</code>(colon).</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#75715e">#Accessing string characters in Python</span>
+str <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;programiz&#39;</span>
+<span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#39;str = &#39;</span>, str)
+
+<span style="color:#75715e">#first character</span>
+<span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#39;str[0] = &#39;</span>, str[<span style="color:#ae81ff">0</span>])
+
+<span style="color:#75715e">#last character</span>
+<span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#39;str[-1] = &#39;</span>, str[<span style="color:#f92672">-</span><span style="color:#ae81ff">1</span>])
+
+<span style="color:#75715e">#slicing 2nd to 5th character</span>
+<span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#39;str[1:5] = &#39;</span>, str[<span style="color:#ae81ff">1</span>:<span style="color:#ae81ff">5</span>])
+
+<span style="color:#75715e">#slicing 6th to 2nd last character</span>
+<span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#39;str[5:-2] = &#39;</span>, str[<span style="color:#ae81ff">5</span>:<span style="color:#f92672">-</span><span style="color:#ae81ff">2</span>])
+</code></pre></div><p>When we run the above program, we get the following output:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">str <span style="color:#f92672">=</span>  programiz
+str[<span style="color:#ae81ff">0</span>] <span style="color:#f92672">=</span>  p
+str[<span style="color:#f92672">-</span><span style="color:#ae81ff">1</span>] <span style="color:#f92672">=</span>  z
+str[<span style="color:#ae81ff">1</span>:<span style="color:#ae81ff">5</span>] <span style="color:#f92672">=</span>  rogr
+str[<span style="color:#ae81ff">5</span>:<span style="color:#f92672">-</span><span style="color:#ae81ff">2</span>] <span style="color:#f92672">=</span>  am
+</code></pre></div><p>If we try to access an index out of the range or use numbers other than an integer, we will get errors.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#75715e"># index must be in range</span>
+my_string[<span style="color:#ae81ff">15</span>]  
+<span style="color:#f92672">...</span>
+<span style="color:#a6e22e">IndexError</span>: string index out of range
+
+<span style="color:#75715e"># index must be an integer</span>
+my_string[<span style="color:#ae81ff">1.5</span>] 
+<span style="color:#f92672">...</span>
+<span style="color:#a6e22e">TypeError</span>: string indices must be integers
+</code></pre></div><p>Slicing can be best visualized by considering the index to be between the elements as shown below.</p>
+<p>If we want to access a range, we need the index that will slice the portion from the string.</p>
+<p><img src="https://cdn.programiz.com/sites/tutorial2program/files/element-slicling.jpg" alt="Element Slicing in Python" title="Element Slicing"></p>
+<p>String Slicing in Python</p>
+<hr>
+<h2 ref="how-to-change-or-delete-a-string" >How to change or delete a string?</h2><a class="anchor" id="how-to-change-or-delete-a-string"></a>
+<p>Strings are immutable. This means that elements of a string cannot be changed once they have been assigned. We can simply reassign different strings to the same name.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">my_string <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;programiz&#39;</span>
+my_string[<span style="color:#ae81ff">5</span>] <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;a&#39;</span>
+<span style="color:#f92672">...</span>
+<span style="color:#a6e22e">TypeError</span>: <span style="color:#e6db74">&#39;str&#39;</span> object does <span style="color:#f92672">not</span> support item assignment
+my_string <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;Python&#39;</span>
+my_string
+<span style="color:#e6db74">&#39;Python&#39;</span>
+</code></pre></div><p>We cannot delete or remove characters from a string. But deleting the string entirely is possible using the  <code>del</code>  keyword.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#66d9ef">del</span> my_string[<span style="color:#ae81ff">1</span>]
+<span style="color:#f92672">...</span>
+<span style="color:#a6e22e">TypeError</span>: <span style="color:#e6db74">&#39;str&#39;</span> object doesn<span style="color:#e6db74">&#39;t support item deletion</span>
+<span style="color:#66d9ef">del</span> my_string
+my_string
+<span style="color:#f92672">...</span>
+<span style="color:#a6e22e">NameError</span>: name <span style="color:#e6db74">&#39;my_string&#39;</span> <span style="color:#f92672">is</span> <span style="color:#f92672">not</span> defined
+</code></pre></div><hr>
+<h2 ref="python-string-operations" >Python String Operations</h2><a class="anchor" id="python-string-operations"></a>
+<p>There are many operations that can be performed with strings which makes it one of the most used data types in Python.</p>
+<p>To learn more about the data types available in Python visit:  <a href="https://www.programiz.com/python-programming/variables-datatypes">Python Data Types</a></p>
+<h3 ref="concatenation-of-two-or-more-strings" >Concatenation of Two or More Strings</h3><a class="anchor" id="concatenation-of-two-or-more-strings"></a>
+<p>Joining of two or more strings into a single one is called concatenation.</p>
+<p>The  <strong>+</strong>  operator does this in Python. Simply writing two string literals together also concatenates them.</p>
+<p>The  *****  operator can be used to repeat the string for a given number of times.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#75715e"># Python String Operations</span>
+str1 <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;Hello&#39;</span>
+str2 <span style="color:#f92672">=</span><span style="color:#e6db74">&#39;World!&#39;</span>
+
+<span style="color:#75715e"># using +</span>
+<span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#39;str1 + str2 = &#39;</span>, str1 <span style="color:#f92672">+</span> str2)
+
+<span style="color:#75715e"># using *</span>
+<span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#39;str1 * 3 =&#39;</span>, str1 <span style="color:#f92672">*</span> <span style="color:#ae81ff">3</span>)
+</code></pre></div><p>When we run the above program, we get the following output:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">str1 <span style="color:#f92672">+</span> str2 <span style="color:#f92672">=</span>  HelloWorld<span style="color:#960050;background-color:#1e0010">!</span>
+str1 <span style="color:#f92672">*</span> <span style="color:#ae81ff">3</span> <span style="color:#f92672">=</span> HelloHelloHello
+</code></pre></div><p>Writing two string literals together also concatenates them like  <strong>+</strong>  operator.</p>
+<p>If we want to concatenate strings in different lines, we can use parentheses.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#75715e"># two string literals together</span>
+<span style="color:#e6db74">&#39;Hello &#39;&#39;World!&#39;</span>
+<span style="color:#e6db74">&#39;Hello World!&#39;</span>
+
+<span style="color:#75715e"># using parentheses</span>
+s <span style="color:#f92672">=</span> (<span style="color:#e6db74">&#39;Hello &#39;</span>
+<span style="color:#f92672">...</span>      <span style="color:#e6db74">&#39;World&#39;</span>)
+s
+<span style="color:#e6db74">&#39;Hello World&#39;</span>
+</code></pre></div><hr>
+<h3 ref="iterating-through-a-string" >Iterating Through a string</h3><a class="anchor" id="iterating-through-a-string"></a>
+<p>We can iterate through a string using a  <a href="https://www.programiz.com/python-programming/for-loop">for loop</a>. Here is an example to count the number of &lsquo;l&rsquo;s in a string.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#75715e"># Iterating through a string</span>
+count <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>
+<span style="color:#66d9ef">for</span> letter <span style="color:#f92672">in</span> <span style="color:#e6db74">&#39;Hello World&#39;</span>:
+    <span style="color:#66d9ef">if</span>(letter <span style="color:#f92672">==</span> <span style="color:#e6db74">&#39;l&#39;</span>):
+        count <span style="color:#f92672">+=</span> <span style="color:#ae81ff">1</span>
+<span style="color:#66d9ef">print</span>(count,<span style="color:#e6db74">&#39;letters found&#39;</span>)
+</code></pre></div><p>When we run the above program, we get the following output:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#ae81ff">3</span> letters found
+</code></pre></div><hr>
+<h3 ref="string-membership-test" >String Membership Test</h3><a class="anchor" id="string-membership-test"></a>
+<p>We can test if a substring exists within a string or not, using the keyword  <code>in</code>.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#e6db74">&#39;a&#39;</span> <span style="color:#f92672">in</span> <span style="color:#e6db74">&#39;program&#39;</span>
+True
+<span style="color:#e6db74">&#39;at&#39;</span> <span style="color:#f92672">not</span> <span style="color:#f92672">in</span> <span style="color:#e6db74">&#39;battle&#39;</span>
+False
+</code></pre></div><hr>
+<h3 ref="built-in-functions-to-work-with-python" >Built-in functions to Work with Python</h3><a class="anchor" id="built-in-functions-to-work-with-python"></a>
+<p>Various built-in functions that work with sequence work with strings as well.</p>
+<p>Some of the commonly used ones are  <code>enumerate()</code>  and  <code>len()</code>. The  <code>enumerate()</code>  function returns an enumerate object. It contains the index and value of all the items in the string as pairs. This can be useful for iteration.</p>
+<p>Similarly,  <code>len()</code>  returns the length (number of characters) of the string.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">str <span style="color:#f92672">=</span> <span style="color:#e6db74">&#39;cold&#39;</span>
+
+<span style="color:#75715e"># enumerate()</span>
+list_enumerate <span style="color:#f92672">=</span> list(enumerate(str))
+<span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#39;list(enumerate(str) = &#39;</span>, list_enumerate)
+
+<span style="color:#75715e">#character count</span>
+<span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#39;len(str) = &#39;</span>, len(str))
+</code></pre></div><p>When we run the above program, we get the following output:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-fallback" data-lang="fallback">list(enumerate(str) =  [(0, &#39;c&#39;), (1, &#39;o&#39;), (2, &#39;l&#39;), (3, &#39;d&#39;)]
+len(str) =  4
+</code></pre></div><hr>
+<h2 ref="python-string-formatting" >Python String Formatting</h2><a class="anchor" id="python-string-formatting"></a>
+<h3 ref="escape-sequence" >Escape Sequence</h3><a class="anchor" id="escape-sequence"></a>
+<p>If we want to print a text like  He said, &ldquo;What&rsquo;s there?&rdquo;, we can neither use single quotes nor double quotes. This will result in a  <code>SyntaxError</code>  as the text itself contains both single and double quotes.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#34;He said, &#34;</span>What<span style="color:#e6db74">&#39;s there?&#34;&#34;)</span>
+<span style="color:#f92672">...</span>
+<span style="color:#a6e22e">SyntaxError</span>: invalid syntax
+<span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#39;He said, &#34;What&#39;</span>s there<span style="color:#960050;background-color:#1e0010">?</span><span style="color:#e6db74">&#34;&#39;)</span>
+<span style="color:#f92672">...</span>
+<span style="color:#a6e22e">SyntaxError</span>: invalid syntax
+</code></pre></div><p>One way to get around this problem is to use triple quotes. Alternatively, we can use escape sequences.</p>
+<p>An escape sequence starts with a backslash and is interpreted differently. If we use a single quote to represent a string, all the single quotes inside the string must be escaped. Similar is the case with double quotes. Here is how it can be done to represent the above text.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#75715e"># using triple quotes</span>
+<span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#39;&#39;&#39;He said, &#34;What&#39;s there?&#34;&#39;&#39;&#39;</span>)
+
+<span style="color:#75715e"># escaping single quotes</span>
+<span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#39;He said, &#34;What</span><span style="color:#ae81ff">\&#39;</span><span style="color:#e6db74">s there?&#34;&#39;</span>)
+
+<span style="color:#75715e"># escaping double quotes</span>
+<span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#34;He said, </span><span style="color:#ae81ff">\&#34;</span><span style="color:#e6db74">What&#39;s there?</span><span style="color:#ae81ff">\&#34;</span><span style="color:#e6db74">&#34;</span>)
+</code></pre></div><p>When we run the above program, we get the following output:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">He said, <span style="color:#e6db74">&#34;What&#39;s there?&#34;</span>
+He said, <span style="color:#e6db74">&#34;What&#39;s there?&#34;</span>
+He said, <span style="color:#e6db74">&#34;What&#39;s there?&#34;</span>
+</code></pre></div><p>Here is a list of all the escape sequences supported by Python.</p>
+<table>
+<thead>
+<tr>
+<th align="center">Escape Sequence</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">\newline</td>
+<td>Backslash and newline ignored</td>
+</tr>
+<tr>
+<td align="center">\</td>
+<td>Backslash</td>
+</tr>
+<tr>
+<td align="center">'</td>
+<td>Single quote</td>
+</tr>
+<tr>
+<td align="center">&quot;</td>
+<td>Double quote</td>
+</tr>
+<tr>
+<td align="center">\a</td>
+<td>ASCII Bell</td>
+</tr>
+<tr>
+<td align="center">\b</td>
+<td>ASCII Backspace</td>
+</tr>
+<tr>
+<td align="center">\f</td>
+<td>ASCII Formfeed</td>
+</tr>
+<tr>
+<td align="center">\n</td>
+<td>ASCII Linefeed</td>
+</tr>
+<tr>
+<td align="center">\r</td>
+<td>ASCII Carriage Return</td>
+</tr>
+<tr>
+<td align="center">\t</td>
+<td>ASCII Horizontal Tab</td>
+</tr>
+<tr>
+<td align="center">\v</td>
+<td>ASCII Vertical Tab</td>
+</tr>
+<tr>
+<td align="center">\ooo</td>
+<td>Character with octal value ooo</td>
+</tr>
+<tr>
+<td align="center">\xHH</td>
+<td>Character with hexadecimal value HH</td>
+</tr>
+</tbody>
+</table>
+<p>Here are some examples</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#34;C:</span><span style="color:#ae81ff">\\</span><span style="color:#e6db74">Python32</span><span style="color:#ae81ff">\\</span><span style="color:#e6db74">Lib&#34;</span>)
+<span style="color:#75715e"># C:\Python32\Lib</span>
+
+<span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#34;This is printed</span><span style="color:#ae81ff">\n</span><span style="color:#e6db74">in two lines&#34;</span>)
+<span style="color:#75715e">#This is printed</span>
+<span style="color:#75715e"># in two lines</span>
+
+<span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#34;This is </span><span style="color:#ae81ff">\x48\x45\x58</span><span style="color:#e6db74"> representation&#34;</span>)
+<span style="color:#75715e"># This is HEX representation</span>
+</code></pre></div><hr>
+<h3 ref="raw-string-to-ignore-escape-sequence" >Raw String to ignore escape sequence</h3><a class="anchor" id="raw-string-to-ignore-escape-sequence"></a>
+<p>Sometimes we may wish to ignore the escape sequences inside a string. To do this we can place  <code>r</code>  or  <code>R</code>  in front of the string. This will imply that it is a raw string and any escape sequence inside it will be ignored.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#34;This is </span><span style="color:#ae81ff">\x61</span><span style="color:#e6db74"> </span><span style="color:#ae81ff">\n</span><span style="color:#e6db74">good example&#34;</span>)
+This <span style="color:#f92672">is</span> a
+good example
+<span style="color:#66d9ef">print</span>(<span style="color:#e6db74">r</span><span style="color:#e6db74">&#34;This is \x61 \ngood example&#34;</span>)
+This <span style="color:#f92672">is</span> \x61 \ngood example
+</code></pre></div><hr>
+<h3 ref="the-format-method-for-formatting-strings" >The format() Method for Formatting Strings</h3><a class="anchor" id="the-format-method-for-formatting-strings"></a>
+<p>The  <code>format()</code>  method that is available with the string object is very versatile and powerful in formatting strings. Format strings contain curly braces  <code>{}</code>  as placeholders or replacement fields which get replaced.</p>
+<p>We can use positional arguments or keyword arguments to specify the order.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#75715e"># Python string format() method</span>
+
+<span style="color:#75715e"># default(implicit) order</span>
+default_order <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;{}, {} and {}&#34;</span><span style="color:#f92672">.</span>format(<span style="color:#e6db74">&#39;John&#39;</span>,<span style="color:#e6db74">&#39;Bill&#39;</span>,<span style="color:#e6db74">&#39;Sean&#39;</span>)
+<span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#39;</span><span style="color:#ae81ff">\n</span><span style="color:#e6db74">--- Default Order ---&#39;</span>)
+<span style="color:#66d9ef">print</span>(default_order)
+
+<span style="color:#75715e"># order using positional argument</span>
+positional_order <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;{1}, {0} and {2}&#34;</span><span style="color:#f92672">.</span>format(<span style="color:#e6db74">&#39;John&#39;</span>,<span style="color:#e6db74">&#39;Bill&#39;</span>,<span style="color:#e6db74">&#39;Sean&#39;</span>)
+<span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#39;</span><span style="color:#ae81ff">\n</span><span style="color:#e6db74">--- Positional Order ---&#39;</span>)
+<span style="color:#66d9ef">print</span>(positional_order)
+
+<span style="color:#75715e"># order using keyword argument</span>
+keyword_order <span style="color:#f92672">=</span> <span style="color:#e6db74">&#34;{s}, {b} and {j}&#34;</span><span style="color:#f92672">.</span>format(j<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;John&#39;</span>,b<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;Bill&#39;</span>,s<span style="color:#f92672">=</span><span style="color:#e6db74">&#39;Sean&#39;</span>)
+<span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#39;</span><span style="color:#ae81ff">\n</span><span style="color:#e6db74">--- Keyword Order ---&#39;</span>)
+<span style="color:#66d9ef">print</span>(keyword_order)
+</code></pre></div><p>When we run the above program, we get the following output:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#f92672">---</span> Default Order <span style="color:#f92672">---</span>
+John, Bill <span style="color:#f92672">and</span> Sean
+
+<span style="color:#f92672">---</span> Positional Order <span style="color:#f92672">---</span>
+Bill, John <span style="color:#f92672">and</span> Sean
+
+<span style="color:#f92672">---</span> Keyword Order <span style="color:#f92672">---</span>
+Sean, Bill <span style="color:#f92672">and</span> John
+</code></pre></div><p>The  <code>format()</code>  method can have optional format specifications. They are separated from the field name using colon. For example, we can left-justify  <code>&lt;</code>, right-justify  <code>&gt;</code>  or center  <code>^</code>  a string in the given space.</p>
+<p>We can also format integers as binary, hexadecimal, etc. and floats can be rounded or displayed in the exponent format. There are tons of formatting you can use. Visit here for all the  <a href="https://www.programiz.com/python-programming/methods/string/format">string formatting available with the</a>  <code>[format()](https://www.programiz.com/python-programming/methods/string/format)</code>  method.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#75715e"># formatting integers</span>
+<span style="color:#e6db74">&#34;Binary representation of {0} is {0:b}&#34;</span><span style="color:#f92672">.</span>format(<span style="color:#ae81ff">12</span>)
+<span style="color:#e6db74">&#39;Binary representation of 12 is 1100&#39;</span>
+
+<span style="color:#75715e"># formatting floats</span>
+<span style="color:#e6db74">&#34;Exponent representation: {0:e}&#34;</span><span style="color:#f92672">.</span>format(<span style="color:#ae81ff">1566.345</span>)
+<span style="color:#e6db74">&#39;Exponent representation: 1.566345e+03&#39;</span>
+
+<span style="color:#75715e"># round off</span>
+<span style="color:#e6db74">&#34;One third is: {0:.3f}&#34;</span><span style="color:#f92672">.</span>format(<span style="color:#ae81ff">1</span><span style="color:#f92672">/</span><span style="color:#ae81ff">3</span>)
+<span style="color:#e6db74">&#39;One third is: 0.333&#39;</span>
+
+<span style="color:#75715e"># string alignment</span>
+<span style="color:#e6db74">&#34;|{:&lt;10}|{:^10}|{:&gt;10}|&#34;</span><span style="color:#f92672">.</span>format(<span style="color:#e6db74">&#39;butter&#39;</span>,<span style="color:#e6db74">&#39;bread&#39;</span>,<span style="color:#e6db74">&#39;ham&#39;</span>)
+<span style="color:#e6db74">&#39;|butter    |  bread   |       ham|&#39;</span>
+</code></pre></div><hr>
+<h3 ref="old-style-formatting" >Old style formatting</h3><a class="anchor" id="old-style-formatting"></a>
+<p>We can even format strings like the old  <code>sprintf()</code>  style used in C programming language. We use the  <code>%</code>  operator to accomplish this.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py">x <span style="color:#f92672">=</span> <span style="color:#ae81ff">12.3456789</span>
+<span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#39;The value of x is </span><span style="color:#e6db74">%3.2f</span><span style="color:#e6db74">&#39;</span> <span style="color:#f92672">%</span>x)
+The value of x <span style="color:#f92672">is</span> <span style="color:#ae81ff">12.35</span>
+<span style="color:#66d9ef">print</span>(<span style="color:#e6db74">&#39;The value of x is </span><span style="color:#e6db74">%3.4f</span><span style="color:#e6db74">&#39;</span> <span style="color:#f92672">%</span>x)
+The value of x <span style="color:#f92672">is</span> <span style="color:#ae81ff">12.3457</span>
+</code></pre></div><hr>
+<h2 ref="common-python-string-methods" >Common Python String Methods</h2><a class="anchor" id="common-python-string-methods"></a>
+<p>There are numerous methods available with the string object. The  <code>format()</code>  method that we mentioned above is one of them. Some of the commonly used methods are  <code>lower()</code>,  <code>upper()</code>,  <code>join()</code>,  <code>split()</code>,  <code>find()</code>,  <code>replace()</code>  etc. Here is a complete list of all the  <a href="https://www.programiz.com/python-programming/methods/string">built-in methods to work with strings in Python</a>.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:2;-o-tab-size:2;tab-size:2"><code class="language-py" data-lang="py"><span style="color:#e6db74">&#34;PrOgRaMiZ&#34;</span><span style="color:#f92672">.</span>lower()
+<span style="color:#e6db74">&#39;programiz&#39;</span>
+<span style="color:#e6db74">&#34;PrOgRaMiZ&#34;</span><span style="color:#f92672">.</span>upper()
+<span style="color:#e6db74">&#39;PROGRAMIZ&#39;</span>
+<span style="color:#e6db74">&#34;This will split all words into a list&#34;</span><span style="color:#f92672">.</span>split()
+[<span style="color:#e6db74">&#39;This&#39;</span>, <span style="color:#e6db74">&#39;will&#39;</span>, <span style="color:#e6db74">&#39;split&#39;</span>, <span style="color:#e6db74">&#39;all&#39;</span>, <span style="color:#e6db74">&#39;words&#39;</span>, <span style="color:#e6db74">&#39;into&#39;</span>, <span style="color:#e6db74">&#39;a&#39;</span>, <span style="color:#e6db74">&#39;list&#39;</span>]
+<span style="color:#e6db74">&#39; &#39;</span><span style="color:#f92672">.</span>join([<span style="color:#e6db74">&#39;This&#39;</span>, <span style="color:#e6db74">&#39;will&#39;</span>, <span style="color:#e6db74">&#39;join&#39;</span>, <span style="color:#e6db74">&#39;all&#39;</span>, <span style="color:#e6db74">&#39;words&#39;</span>, <span style="color:#e6db74">&#39;into&#39;</span>, <span style="color:#e6db74">&#39;a&#39;</span>, <span style="color:#e6db74">&#39;string&#39;</span>])
+<span style="color:#e6db74">&#39;This will join all words into a string&#39;</span>
+<span style="color:#e6db74">&#39;Happy New Year&#39;</span><span style="color:#f92672">.</span>find(<span style="color:#e6db74">&#39;ew&#39;</span>)
+<span style="color:#ae81ff">7</span>
+<span style="color:#e6db74">&#39;Happy New Year&#39;</span><span style="color:#f92672">.</span>replace(<span style="color:#e6db74">&#39;Happy&#39;</span>,<span style="color:#e6db74">&#39;Brilliant&#39;</span>)
+<span style="color:#e6db74">&#39;Brilliant New Year&#39;</span>
+</code></pre></div><blockquote>
+<p>Source : <a href="https://www.programiz.com/python-programming/string">https://www.programiz.com/python-programming/string</a></p>
+</blockquote>
+
+		</div>
+
+
+
+
+
+
+	 
+	<div class="chevrons">
+		<a class="next" href="/tutorials/python/learn_python/files/user-defined-exception/" title="Custom Exceptions" style="margin-right: 0px;">
+            <div>
+                <p>Next page</p>
+                <label>Custom Exceptions</label>
+            </div>
+            <i class="fas fa-arrow-right" style="font-size: 1.7em"></i></a>
+	</div>
+	
+	
+
+      </section>
+
+      
+      
+      <section class="right-menu ">
+      
+	
+
+		
+	
+			
+		
+	    	
+	  	
+	<div class="TableOfContents">
+    <label><i class="fas fa-align-right"></i>&nbsp;&nbsp;What&#39;s on this page</label>
+    <nav>
+        <ul >
+            <li><a href="/tutorials/python/learn_python/files/exception-handling/">Exception Handling</a></li>
+        </ul>
+    </nav>
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#exceptions-in-python">Exceptions in Python</a></li>
+    <li><a href="#catching-exceptions-in-python">Catching Exceptions in Python</a></li>
+    <li><a href="#catching-specific-exceptions-in-python">Catching Specific Exceptions in Python</a></li>
+    <li><a href="#raising-exceptions-in-python">Raising Exceptions in Python</a></li>
+    <li><a href="#python-try-with-else-clause">Python try with else clause</a></li>
+    <li><a href="#python-tryfinally">Python try&hellip;finally</a></li>
+    <li><a href="#what-is-string-in-python">What is String in Python?</a></li>
+    <li><a href="#how-to-create-a-string-in-python">How to create a string in Python?</a></li>
+    <li><a href="#how-to-access-characters-in-a-string">How to access characters in a string?</a></li>
+    <li><a href="#how-to-change-or-delete-a-string">How to change or delete a string?</a></li>
+    <li><a href="#python-string-operations">Python String Operations</a>
+      <ul>
+        <li><a href="#concatenation-of-two-or-more-strings">Concatenation of Two or More Strings</a></li>
+        <li><a href="#iterating-through-a-string">Iterating Through a string</a></li>
+        <li><a href="#string-membership-test">String Membership Test</a></li>
+        <li><a href="#built-in-functions-to-work-with-python">Built-in functions to Work with Python</a></li>
+      </ul>
+    </li>
+    <li><a href="#python-string-formatting">Python String Formatting</a>
+      <ul>
+        <li><a href="#escape-sequence">Escape Sequence</a></li>
+        <li><a href="#raw-string-to-ignore-escape-sequence">Raw String to ignore escape sequence</a></li>
+        <li><a href="#the-format-method-for-formatting-strings">The format() Method for Formatting Strings</a></li>
+        <li><a href="#old-style-formatting">Old style formatting</a></li>
+      </ul>
+    </li>
+    <li><a href="#common-python-string-methods">Common Python String Methods</a></li>
+  </ul>
+</nav>
+</div>
+
+		
+	
+			
+		
+	    	
+	    
+	<div class="Actions">
+	<nav>
+		<ul>
+				
+		    
+		    
+		    
+		    <li>
+		    	
+		        <a href="https://example.comadmin/#/collections/pages/entries/tutorials/python/learn_python/files/exception-handling/_index" target="blank">
+		        <i class="fab fa-github"></i>
+		        Improve this page</a>
+		    </li>
+		    
+		    
+			
+		    
+
+    	</ul>
+	</nav>
+    
+</div>
+
+      </section>
+      
+    </article>
+    
+    
+    <footer>
+      
+
+		
+	
+			
+		
+	    	<style type="text/css">
+
+.footer-gray {
+  width: 100%;
+  color: #888;
+}
+
+.footer-custom {
+  font: normal normal 12px/1.4 sans-serif;
+  /*max-width: 1008px;*/
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+.footer-custom:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.footer-lists:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.ftr-hdr {
+  color: white;
+  font: 22px/1.4  sans-serif;
+  margin: 1em 0 0;
+}
+
+@media only screen and (min-width: 768px) {
+  .ftr-hdr {
+    font-size: 18px;
+  }
+}
+
+.footer-list-wrap {
+  width: 50%;
+  float: left;
+  box-sizing: border-box;
+}
+
+@media only screen and (min-width: 568px) {
+  .footer-list-wrap {
+    width: 33.3333%;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .footer-list-wrap {
+    width: 25%;
+  }
+}
+
+.ftr-links-sub {
+  padding: 0;
+  margin: 0;
+}
+
+.ftr-links-sub:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.ftr-links-sub li {
+  display: block;
+  list-style-type: none;
+  margin: 0;
+  padding: 3px 0;
+  color: #888;
+  font: normal normal 12px sans-serif;
+  text-transform: uppercase;
+  /*width: 150px;*/
+}
+
+.footer-custom a,
+.footer-custom a:link,
+.footer-custom a:visited,
+.ftr-links-sub li .link {
+  text-decoration: none;
+  color: #888;
+  padding: 5px 0;
+  display: block;
+}
+
+.footer-custom .footer-legal a {
+  display: inline;
+}
+
+.footer-custom a:hover,
+.footer-custom a:active,
+.ftr-links-sub li .link:hover {
+  text-decoration: underline;
+  color: #888;
+  cursor: pointer;
+}
+
+@media only screen and (min-width: 768px) {
+  .footer-custom a, .footer-custom a:link, .footer-custom a:visited, .ftr-links-sub li .link {
+    padding: 0;
+  }
+}
+/* BEGIN EMAIL CAPTURE STYLES*/
+
+.footer-email {
+  text-align: center;
+}
+
+#ftrEmailForm {
+  height: 44px;
+}
+
+#ftrEmailForm .error {
+  display: none;
+  color: red;
+  text-align: left;
+}
+
+#ftrEmailForm #ftrEmailInput {
+  background: none repeat scroll 0 0 #FFF;
+  border: 1px solid #D6D6D6;
+  box-sizing: border-box;
+  color: #888;
+  float: left;
+  font: normal normal 14px/1.4 sans-serif;
+  padding: 5px;
+  width: 70%;
+  height: 100%;
+}
+
+#ftrEmailForm #ftrEmailInput:hover {
+  border: 1px solid #888;
+}
+
+#ftrEmailForm #ftrEmailInput:focus {
+  border: 1px solid #ef9223;
+  outline: #ef9223 auto 5px;
+}
+
+#ftrEmailForm .button {
+  width: 30%;
+  height: 100%;
+  padding: 5px;
+  float: left;
+  border: 1px solid #DFDFDF;
+  box-sizing: border-box;
+  color: #000;
+  font: normal bold 18px/1 sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  background: #FFF;
+  background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJod…EiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, white), color-stop(100%, #e1e1e1));
+  background: -webkit-linear-gradient(top, white 0, #e1e1e1 100%);
+  background: -moz-linear-gradient(top, white 0, #e1e1e1 100%);
+  background: -ms-linear-gradient(top, white 0, #e1e1e1 100%);
+  background: -o-linear-gradient(top, white 0, #e1e1e1 100%);
+  background: linear-gradient(to bottom, white 0, #e1e1e1 100%);
+  cursor: pointer;
+  vertical-align: middle;
+  outline: none;
+}
+
+#ftrEmailForm .button:hover,
+#ftrEmailForm .button:active {
+  background: black;
+  color: #FFF;
+  outline: none;
+}
+/* BEGIN SOCIAL STYLES*/
+
+.footer-social {
+  text-align: center;
+}
+
+.footer-social ul {
+  padding: 0;
+  display: inline-block;
+  list-style-type: none;
+}
+
+.footer-social ul:after {
+  display: table;
+  clear: both;
+  content: "";
+}
+
+.footer-social li {
+  float: left;
+  margin: 0 15px 0 0;
+  padding: 0;
+}
+
+@media only screen and (min-width: 768px) {
+  .footer-lists {
+    width: 100%;
+  }
+  .footer-email {
+    width: 50%;
+    float: left;
+    text-align: left;
+  }
+  .footer-social {
+    width: 45%;
+    margin-left: 5%;
+    float: left;
+    text-align: left;
+  }
+}
+
+@media only screen and (min-width: 1008px) {
+  .footer-lists {
+    width: 66.6666%;
+    float: left;
+  }
+  .footer-email {
+    width: 33.3333%;
+  }
+  .footer-social {
+    width: 33.3333%;
+    float: right;
+    margin-left: 0;
+  }
+}
+
+.footer-legal {
+  padding: 15px 0 0;
+  clear: left;
+}
+
+.footer-payment {
+  text-align: center;
+}
+
+@media only screen and (min-width: 768px) {
+  .footer-legal {
+    width: 66.6666%;
+    float: left;
+  }
+  .footer-payment {
+    width: 33.3333%;
+    float: left;
+  }
+}
+
+@media only screen and (min-width: 1008px) {
+  .footer-payment {
+    text-align: left;
+  }
+}
+
+.footer-payment ul {
+  padding: 0;
+  display: inline-block;
+  list-style-type: none;
+}
+
+.footer-payment ul li {
+  display: inline-block;
+  margin: 0 6px;
+}
+
+@media only screen and (min-width: 1008px) {
+  .footer-payment ul li.ftr-stella {
+    margin-left: 0;
+  }
+}
+
+
+</style>
+  <div class="footer-gray">
+    <div class="footer-custom">
+      <div class="footer-lists">
+        <div class="footer-list-wrap">
+          <h6 class="ftr-hdr">Order Something</h6>
+          <ul class="ftr-links-sub">
+            <li>800-123-4567</li>
+          </ul>
+          <h6 class="ftr-hdr">International</h6>
+          <ul class="ftr-links-sub">
+            <li><a href="#" rel="nofollow">France</a></li>
+            <li><a href="#" rel="nofollow">Cape Verde</a></li>
+          </ul>
+        </div>
+        <div class="footer-list-wrap">
+          <h6 class="ftr-hdr">Customer Service</h6>
+          <ul class="ftr-links-sub">
+            <li><a href="#" rel="nofollow">Contact Us</a></li>
+            <li><a href="#" rel="nofollow">Ordering</a></li>
+            <li><a href="#" rel="nofollow">Shipping &amp; Delivery</a></li>
+            <li><a href="#" rel="nofollow">Returns</a></li>
+            <li><a href="#" rel="nofollow">Gift Cards</a></li>
+            <li><a href="#" rel="nofollow">FAQs</a></li>
+          </ul>
+        </div>
+        <div class="footer-list-wrap">
+          <h6 class="ftr-hdr">About DocPort</h6>
+          <ul class="ftr-links-sub">
+            <li><a href="#" rel="nofollow">Our Company</a></li>
+            <li><a href="#" rel="nofollow">Careers</a></li>
+            <li><a href="#" rel="nofollow">Affiliate Program</a></li>
+            <li><a href="#" rel="nofollow"><strong>Shop Our Catalog</strong></a></li>
+            <li><a href="#" rel="nofollow">DocPort BLOG</a></li>
+          </ul>
+        </div>
+        <div class="footer-list-wrap">
+          <h6 class="ftr-hdr">My Account</h6>
+          <ul class="ftr-links-sub">
+            <art:content rule="!loggedin">
+              <li class="ftr-Login"><span class="link login-trigger">Access My Account</span></li>
+              <li><span class="link">Track My Order</span></li>
+            </art:content>
+            <art:content rule="loggedin">
+              <li class="ftr-Login"><span class="link ftr-access-my-account">Access My Account</span></li>
+              <li><span class="link">Track My Order</span></li>
+            </art:content>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-email">
+        <h6 class="ftr-hdr">Sign up for exclusive offers and inspiration</h6>
+        <div id="ftr-email" class="ftr-email-form">
+          <form id="ftrEmailForm" method="post" action="#">
+            <div class="error">Please enter a valid email address</div>
+            <input type="text" name="email_address_" id="ftrEmailInput" class="input" placeholder="Enter email address"/>
+          </form>
+        </div>
+        <div class="ftr-email-privacy-policy"></div>
+      </div>
+      <div class="footer-social">
+        <h6 class="ftr-hdr">Follow Us</h6>
+        <ul>
+          <li>
+            <a href="#" title="Facebook">
+              <img width="24" height="24" alt="Like us on Facebook" src="/images/fb.png">
+            </a>
+          </li>
+          <li>
+            <a href="#" title="Google+">
+              <img width="24" height="24" alt="Follow us on Google+" src="/images/gplus.png">
+            </a>
+          </li>
+          <li>
+            <a href="#" target="_blank">
+              <img width="24" height="24" alt="Follow us on Pinterest" src="/images/pin-badge.png">
+            </a>
+          </li>
+          <li>
+            <a target="_blank" href="#">
+              <img width="24" height="24" alt="Follow us on Instagram" src="/images/instagram-badge.png">
+            </a>
+          </li>
+          <li>
+            <a href="#" title="Twitter">
+              <img width="67" alt="Follow us on Twitter" src="/images/twitter.png">
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="footer-legal">
+        <p>&copy; Docport MIT Licence. | <a href="#" rel="nofollow">Privacy Policy</a> | <a href="#" rel="nofollow">Terms of Use</a> | <a href="#" rel="nofollow">Terms of Sale</a></p>
+        <p>Docport is free Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>
+        <p>Various aspects of this website are ...blablabla</p>
+      </div>
+    </div>
+  </div>
+  <!--/.footer-gray-->
+	    
+	
+    </footer>
+    
+
+
+
+  </body>
+</html>
