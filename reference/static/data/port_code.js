@@ -57837,26 +57837,11 @@ var dataSet = [
   ["ZZQMY", "FICITIOUS POINT", "ZZ", "Unknown or unspecified country"],
   ["ZZQPX", "FICTITIOUS PT", "ZZ", "Unknown or unspecified country"],
   ["ZZQPY", "FICTITIOUS PT", "ZZ", "Unknown or unspecified country"],
-  [
-    "beGRX",
-    "Great Gransden         BGross Stein",
-    "BE",
-    "Unknown or unspecified country",
-  ],
-  [
-    "dsGLA",
-    "Glacier                      GLJGol",
-    "DS",
-    "Unknown or unspecified country",
-  ],
+  ["beGRX","Great Gransden BGross Stein","BE","Unknown or unspecified country"],
+  ["dsGLA","Glacier GLJGol","DS","Unknown or unspecified country"],
   ["moFQV", "Franklinville", "MO", "Macao"],
   ["nnAXC", "Aramac", "NN", "Unknown or unspecified country"],
-  [
-    "nsGOZ",
-    "Goztepe                        AGra",
-    "NS",
-    "Unknown or unspecified country",
-  ],
+  ["nsGOZ","Goztepe AGra","NS","Unknown or unspecified country"],
 ];
 $(document).ready(function () {
   $("#table-ref").DataTable({
