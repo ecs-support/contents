@@ -18,11 +18,6 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/KM/customs/series/price/</loc>
-    <lastmod>2021-01-14T15:52:16+07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/company/</loc>
     <lastmod>2020-10-28T13:19:34+07:00</lastmod>
   </url>
@@ -108,11 +103,6 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/KM/customs/series/price/gatt_valuation/</loc>
-    <lastmod>2021-01-14T15:52:16+07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/restricted-goods/connectting/</loc>
     <lastmod>2020-10-28T13:19:34+07:00</lastmod>
   </url>
@@ -173,11 +163,6 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/KM/customs/series/price/wooden_goods/</loc>
-    <lastmod>2021-01-14T15:52:16+07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/restricted-goods/dangerous_goods/</loc>
     <lastmod>2020-10-28T13:19:34+07:00</lastmod>
   </url>
@@ -228,11 +213,6 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/KM/customs/series/price/incoterm-2020/</loc>
-    <lastmod>2021-01-14T15:52:16+07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/company/register_expire_2563/</loc>
     <lastmod>2020-11-13T17:21:51+07:00</lastmod>
   </url>
@@ -270,11 +250,6 @@
   <url>
     <loc>https://ecs-support.github.io/KM/customs/customs/price/incoterms-2010/</loc>
     <lastmod>2020-10-28T13:19:34+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/KM/customs/series/price/incoterms-2010/</loc>
-    <lastmod>2021-01-14T15:52:16+07:00</lastmod>
   </url>
   
   <url>
@@ -739,52 +714,82 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/authors/admin/</loc>
-    <lastmod>2021-02-22T00:10:00+00:00</lastmod>
+    <lastmod>2021-02-24T05:10:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/authors/</loc>
-    <lastmod>2021-02-22T00:10:00+00:00</lastmod>
+    <lastmod>2021-02-24T05:10:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/categories/</loc>
-    <lastmod>2021-02-22T00:10:00+00:00</lastmod>
+    <lastmod>2021-02-24T05:10:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/</loc>
-    <lastmod>2021-02-22T00:10:00+00:00</lastmod>
+    <lastmod>2021-02-24T05:10:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/tags/</loc>
-    <lastmod>2021-02-22T00:10:00+00:00</lastmod>
+    <lastmod>2021-02-24T05:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</loc>
+    <lastmod>2021-02-24T05:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%97-3-%E0%B8%A0%E0%B8%B2%E0%B8%84-4/</loc>
+    <lastmod>2021-02-24T05:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/categories/%E0%B8%9E%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</loc>
+    <lastmod>2021-02-24T05:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/post/announcement/customs/2564-29/</loc>
+    <lastmod>2021-02-24T05:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B9%80%E0%B8%A3%E0%B8%AD%E0%B8%81%E0%B8%AC%E0%B8%B2/</loc>
+    <lastmod>2021-02-24T05:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B9%80%E0%B8%A3%E0%B8%AD%E0%B8%AA%E0%B8%B3%E0%B8%A3%E0%B8%B2%E0%B8%8D/</loc>
+    <lastmod>2021-02-24T05:10:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%82%E0%B8%B2/</loc>
-    <lastmod>2021-02-22T00:10:00+00:00</lastmod>
+    <lastmod>2021-02-22T18:06:25+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/categories/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A7%E0%B8%8A%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3/</loc>
-    <lastmod>2021-02-22T00:10:00+00:00</lastmod>
+    <lastmod>2021-02-22T18:06:25+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%97%E0%B8%99%E0%B8%A1/</loc>
-    <lastmod>2021-02-22T00:10:00+00:00</lastmod>
+    <lastmod>2021-02-22T18:06:25+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B2%E0%B9%80%E0%B8%AA%E0%B8%A3/</loc>
-    <lastmod>2021-02-22T00:10:00+00:00</lastmod>
+    <lastmod>2021-02-22T18:06:25+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/post/knowledge/milk_wto_2021_02/</loc>
-    <lastmod>2021-02-22T00:10:00+00:00</lastmod>
+    <lastmod>2021-02-22T18:06:25+07:00</lastmod>
   </url>
   
   <url>
@@ -793,17 +798,7 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/KM/customs/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</loc>
-    <lastmod>2021-02-19T14:49:29+07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%9B%E0%B8%8D%E0%B8%AB%E0%B8%B2%E0%B8%9E%E0%B8%81%E0%B8%94%E0%B8%AD%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</loc>
-    <lastmod>2021-02-19T14:49:29+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/KM/customs/categories/%E0%B8%9E%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</loc>
     <lastmod>2021-02-19T14:49:29+07:00</lastmod>
   </url>
   
@@ -1770,11 +1765,6 @@
   <url>
     <loc>https://ecs-support.github.io/KM/customs/post/announcement/customs/2563-106/</loc>
     <lastmod>2020-10-28T13:19:34+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/KM/customs/series/</loc>
-    <lastmod>2021-01-14T15:52:16+07:00</lastmod>
   </url>
   
   <url>
