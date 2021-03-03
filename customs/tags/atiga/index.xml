@@ -56,7 +56,10 @@
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;div class=&#34;article-tags&#34;&gt;
+&lt;a class=&#34;badge badge-danger&#34; href=&#34;./2563-152.pdf&#34; target=&#34;_blank&#34; id=&#34;download_files_new&#34;&gt; Download &lt;/a&gt;
+&lt;/div&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;ที่มา : &lt;a href=&#34;./2563-152.pdf&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
