@@ -46,10 +46,8 @@
 &lt;li&gt;อัตราอากร ใช้ Tariff Code และ Tariff Sequence&lt;/li&gt;
 &lt;li&gt;อากร ยกเว้น (บันทึก Exemption Rate = 100%)&lt;/li&gt;
 &lt;li&gt;VAT ยกเว้น (บันทึก Exemption Rate = 100%)&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;บันทึกเลขที่ใบขนสินค้าขาออกและรายการที่ของใบขนสินค้าขาออกที่อ้างถึง&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;มูลค่าการนำเข้า CIF = &lt;em&gt;ค่าของ&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;บันทึกเลขที่ใบขนสินค้าขาออกและรายการที่ของใบขนสินค้าขาออกที่อ้างถึง&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;มูลค่าการนำเข้า CIF = &lt;em&gt;ค่าของ&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&#34;ศ-กษาเพ-มเต-ม&#34;&gt;ศึกษาเพิ่มเติม&lt;/h3&gt;
