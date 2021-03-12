@@ -63,7 +63,7 @@
       <guid>https://ecs-support.github.io/KM/customs/pages/tariff/</guid>
       <description>
 
-&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/harmonized.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;img/harmonized.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;div class=&#34;toc-contents&#34;&gt;
     &lt;h2&gt;Contents&lt;/h2&gt;
@@ -78,7 +78,7 @@ HAHAHUGOSHORTCODE-TOC0-HBHB
 
 &lt;p&gt;ระบบพิกัดศุลกากรฮาร์โมไนซ์จำแนกประเภทสิ่งของเป็น 21 หมวด และ 97 ตอน เป็นการกำหนดตัวเลขทั้งหมด 11 หลัก โดย 6 หลัก แรกจะเป็นเลขที่กำหนดขึ้นโดยองค์การศุลกากรโลก (World Customs Organization : WCO) ระบบการจำแนกชนิดสินค้าได้รับการยอมรับจากประเทศภาคีสมาชิกของ องค์การการค้าโลก (World Trade Organization: WTO) เพื่อนำไปใช้เป็นสากลในทางการค้า และ 2 หลักถัดมาจะเป็นการแสดงพิกัดฮาร์โมไนซ์อาเซียน (CEPT Code) ส่วนเลข 3 หลักหลังนั้นจะเป็นรหัสสถิติที่กำหนดโดยแต่ละประเทศนั่นเอง ซึ่งสามารถแบ่งตัวเลขออกเป็นหมวดต่าง ๆ ได้ดังนี้&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/HTS-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;img/HTS-1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;เลข-4-ต-วแรก&#34;&gt;เลข 4 ตัวแรก&lt;/h3&gt;
 
@@ -110,12 +110,10 @@ HAHAHUGOSHORTCODE-TOC0-HBHB
 
 &lt;p&gt;เราสามารถค้นหาพิกัดศุลกากร ได้ที่เว็บไซต์กรมศุลกากร  &lt;a href=&#34;http://itd.customs.go.th/igtf/th/main_frame.jsp&#34; target=&#34;_blank&#34;&gt;ค้นหาพิกัด&lt;/a&gt; หรือที่  &lt;a href=&#34;http://tariffeservice.customs.go.th/ITRF/&#34; target=&#34;_blank&#34;&gt;Tariff e-service&lt;/a&gt; หรือค้นหาผ่านทาง Mobile Application ได้แล้วนะครับ ภายใต้ชื่อ &lt;strong&gt;“HS Check”&lt;/strong&gt; ทั้งบน &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.igtfTCD&amp;amp;hl=th&#34; target=&#34;_blank&#34;&gt;Google Play&lt;/a&gt; และ &lt;a href=&#34;https://itunes.apple.com/th/app/hs-check/id1190764347?l=th&amp;amp;mt=8&#34; target=&#34;_blank&#34;&gt;App Store&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;.../images/free-trade-area.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
 &lt;p&gt;การดำเนินงานด้านมาตรฐานพิกัดอัตราศุลกากร ของกรมศุลกากร อยู่ภายใต้การกำกับของรองอธิบดีที่รับผิดชอบและสำนักพิกัดอัตราศุลกากร
 กำหนดไว้เป็นสองระดับคือด้านนโยบายพิกัดฯ และด้านบริการมาตรฐานพิกัดฯ โดยมีกิจกรรมและแนวทางการดำเนินงานตามแผนภาพต่อไปนี้&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://th.customs.go.th/data_files/16072319132277893864.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;img/img-01.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;สอบถามข้อมูลเพิ่มเติมได้ที่ : กองพิกัดอัตราศุลกากร (กพก.)&lt;br /&gt;
@@ -312,6 +310,8 @@ HAHAHUGOSHORTCODE-TOC0-HBHB
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/re-export/&#34;&gt;Re-export&lt;/a&gt;&lt;/li&gt;
   
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/safeguard-measure/&#34;&gt;Safeguard Measure&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/self-certification/&#34;&gt;Self-Certification&lt;/a&gt;&lt;/li&gt;
   
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/shipping-mark/&#34;&gt;Shipping Mark&lt;/a&gt;&lt;/li&gt;
   
