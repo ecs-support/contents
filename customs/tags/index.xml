@@ -7,46 +7,10 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
-    <lastBuildDate>Fri, 12 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ecs-support.github.io/KM/customs/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>ASEAN</title>
-      <link>https://ecs-support.github.io/KM/customs/tags/asean/</link>
-      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/KM/customs/tags/asean/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Self-Certification</title>
-      <link>https://ecs-support.github.io/KM/customs/tags/self-certification/</link>
-      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/KM/customs/tags/self-certification/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>การรับรองถิ่นกำเนิดสินค้าด้วยตนเอง</title>
-      <link>https://ecs-support.github.io/KM/customs/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%9A%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%96%E0%B8%99%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%94%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2%E0%B8%94%E0%B8%A7%E0%B8%A2%E0%B8%95%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B8%87/</link>
-      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/KM/customs/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%9A%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%96%E0%B8%99%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%94%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2%E0%B8%94%E0%B8%A7%E0%B8%A2%E0%B8%95%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B8%87/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>อาเซียน</title>
-      <link>https://ecs-support.github.io/KM/customs/tags/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%A2%E0%B8%99/</link>
-      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/KM/customs/tags/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%A2%E0%B8%99/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>กรมการค้าต่างประเทศ</title>
@@ -63,15 +27,6 @@
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/tags/%E0%B9%80%E0%B8%AB%E0%B8%A3%E0%B8%A2%E0%B8%8D%E0%B8%95%E0%B8%A7%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B9%82%E0%B8%A5%E0%B8%AB%E0%B8%B0/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ใบอนุญาต/ใบรับรอง</title>
-      <link>https://ecs-support.github.io/KM/customs/tags/%E0%B9%83%E0%B8%9A%E0%B8%AD%E0%B8%99%E0%B8%8D%E0%B8%B2%E0%B8%95/%E0%B9%83%E0%B8%9A%E0%B8%A3%E0%B8%9A%E0%B8%A3%E0%B8%AD%E0%B8%87/</link>
-      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/KM/customs/tags/%E0%B9%83%E0%B8%9A%E0%B8%AD%E0%B8%99%E0%B8%8D%E0%B8%B2%E0%B8%95/%E0%B9%83%E0%B8%9A%E0%B8%A3%E0%B8%9A%E0%B8%A3%E0%B8%AD%E0%B8%87/</guid>
       <description></description>
     </item>
     
@@ -490,6 +445,15 @@
     </item>
     
     <item>
+      <title>ASEAN</title>
+      <link>https://ecs-support.github.io/KM/customs/tags/asean/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/tags/asean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Certified Exporter Code</title>
       <link>https://ecs-support.github.io/KM/customs/tags/certified-exporter-code/</link>
       <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
@@ -504,6 +468,15 @@
       <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/tags/%E0%B8%9E%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>อาเซียน</title>
+      <link>https://ecs-support.github.io/KM/customs/tags/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%A2%E0%B8%99/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/tags/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%A2%E0%B8%99/</guid>
       <description></description>
     </item>
     
@@ -774,6 +747,15 @@
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/tags/awsc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>การรับรองถิ่นกำเนิดสินค้าด้วยตนเอง</title>
+      <link>https://ecs-support.github.io/KM/customs/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%9A%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%96%E0%B8%99%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%94%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2%E0%B8%94%E0%B8%A7%E0%B8%A2%E0%B8%95%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B8%87/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%9A%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%96%E0%B8%99%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%94%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2%E0%B8%94%E0%B8%A7%E0%B8%A2%E0%B8%95%E0%B8%99%E0%B9%80%E0%B8%AD%E0%B8%87/</guid>
       <description></description>
     </item>
     
@@ -1053,24 +1035,14 @@
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/tags/awesome/</guid>
-      <description>
-
-&lt;h1 id=&#34;this-page-is-awesome&#34;&gt;This page is awesome&lt;/h1&gt;
-
-&lt;ul class=&#34;task-list&#34;&gt;
-&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; List item&lt;/label&gt;&lt;/li&gt;
-&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt;   List item&lt;/label&gt;&lt;/li&gt;
-&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt; List item&lt;/label&gt;&lt;/li&gt;
-&lt;li&gt;&lt;label&gt;&lt;input type=&#34;checkbox&#34; checked disabled class=&#34;task-list-item&#34;&gt;   List item&lt;/label&gt;&lt;/li&gt;
+      <description>&lt;h1 id=&#34;this-page-is-awesome&#34;&gt;This page is awesome&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; List item&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; List item&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; List item&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; List item&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;iframe
-       href=&#34;https://www.customs.go.th/cont_strc_faq.php?lang=th&amp;top_menu=menu_homepage&amp;left_menu=menu_center_004&amp;ini_menu=&amp;current_id=142328324146505f4b464b46464b4d&#34;
-       width=&#34;90%&#34;
-       height=&#34;1000px&#34;
-       style=&#34;border:none;&#34;&gt;
- &lt;/iframe&gt;
-
+&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Ref :&lt;/p&gt;
 </description>
     </item>
@@ -1265,20 +1237,29 @@
     </item>
     
     <item>
+      <title>ของต้องกำกัด</title>
+      <link>https://ecs-support.github.io/KM/customs/tags/%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B3%E0%B8%81%E0%B8%94/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/tags/%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B3%E0%B8%81%E0%B8%94/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ของต้องห้าม</title>
+      <link>https://ecs-support.github.io/KM/customs/tags/%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%A1/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/tags/%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%A1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ตรวจปล่อยสินค้า</title>
       <link>https://ecs-support.github.io/KM/customs/tags/%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%A2%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/tags/%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%A2%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ประกาศ/กฎหมาย</title>
-      <link>https://ecs-support.github.io/KM/customs/tags/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8/%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2/</link>
-      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/KM/customs/tags/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8/%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2/</guid>
       <description></description>
     </item>
     
@@ -1459,6 +1440,24 @@
       <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/tags/%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ประกาศ/กฎหมาย</title>
+      <link>https://ecs-support.github.io/KM/customs/tags/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8/%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/tags/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8/%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ใบอนุญาต/ใบรับรอง</title>
+      <link>https://ecs-support.github.io/KM/customs/tags/%E0%B9%83%E0%B8%9A%E0%B8%AD%E0%B8%99%E0%B8%8D%E0%B8%B2%E0%B8%95/%E0%B9%83%E0%B8%9A%E0%B8%A3%E0%B8%9A%E0%B8%A3%E0%B8%AD%E0%B8%87/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/tags/%E0%B9%83%E0%B8%9A%E0%B8%AD%E0%B8%99%E0%B8%8D%E0%B8%B2%E0%B8%95/%E0%B9%83%E0%B8%9A%E0%B8%A3%E0%B8%9A%E0%B8%A3%E0%B8%AD%E0%B8%87/</guid>
       <description></description>
     </item>
     
