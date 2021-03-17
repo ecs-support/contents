@@ -315,7 +315,7 @@ You can create as many pages as your need. Each page should have a title, and a 
 &lt;h2 id=&#34;toc&#34;&gt;toc&lt;/h2&gt;
 
 &lt;div class=&#34;toc-contents&#34;&gt;
-    &lt;h2&gt;Contents&lt;/h2&gt;
+    &lt;h2&gt;Table of Contents&lt;/h2&gt;
 
 &lt;/div&gt;
 
@@ -345,7 +345,11 @@ You can create as many pages as your need. Each page should have a title, and a 
   
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/ahk/&#34;&gt;AHK&lt;/a&gt;&lt;/li&gt;
   
+  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/ai/&#34;&gt;AI&lt;/a&gt;&lt;/li&gt;
+  
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/ain/&#34;&gt;AIN&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/ak/&#34;&gt;AK&lt;/a&gt;&lt;/li&gt;
   
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/akfta/&#34;&gt;AKFTA&lt;/a&gt;&lt;/li&gt;
   
@@ -383,6 +387,8 @@ You can create as many pages as your need. Each page should have a title, and a 
   
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/incoterms/&#34;&gt;Incoterms&lt;/a&gt;&lt;/li&gt;
   
+  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/jtepa/&#34;&gt;JTEPA&lt;/a&gt;&lt;/li&gt;
+  
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/land-express/&#34;&gt;Land Express&lt;/a&gt;&lt;/li&gt;
   
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/nato-phonetic-alphabet/&#34;&gt;NATO phonetic alphabet&lt;/a&gt;&lt;/li&gt;
@@ -408,6 +414,8 @@ You can create as many pages as your need. Each page should have a title, and a 
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/wto/&#34;&gt;WTO&lt;/a&gt;&lt;/li&gt;
   
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%81%E0%B8%88%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%B2%E0%B8%93%E0%B8%8A%E0%B8%A2%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%81%E0%B8%97%E0%B8%A3%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%AA/&#34;&gt;กิจการพาณิชย์อิเล็กทรอนิกส์&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%81%E0%B8%8E%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%A7%E0%B8%A2%E0%B8%96%E0%B8%99%E0%B8%81%E0%B8%B3%E0%B9%80%E0%B8%99%E0%B8%94%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2/&#34;&gt;กฎว่าด้วยถิ่นกำเนิดสินค้า&lt;/a&gt;&lt;/li&gt;
   
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B2%E0%B8%95%E0%B8%B2%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8/&#34;&gt;กรมการค้าต่างประเทศ&lt;/a&gt;&lt;/li&gt;
   
@@ -473,8 +481,6 @@ You can create as many pages as your need. Each page should have a title, and a 
   
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%96%E0%B8%87%E0%B8%A1%E0%B8%AD%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%A5%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1/&#34;&gt;ถุงมือสำหรับการศัลยกรรม&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%96%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B3/&#34;&gt;ถ่ายลำ&lt;/a&gt;&lt;/li&gt;
-  
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%96%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B3-%E0%B8%9C%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99/&#34;&gt;ถ่ายลำ-ผ่านแดน&lt;/a&gt;&lt;/li&gt;
   
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%99%E0%B8%A7%E0%B8%8B%E0%B9%81%E0%B8%A5%E0%B8%99%E0%B8%94/&#34;&gt;นิวซีแลนด์&lt;/a&gt;&lt;/li&gt;
@@ -502,8 +508,6 @@ You can create as many pages as your need. Each page should have a title, and a 
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%97-3-%E0%B8%A0%E0%B8%B2%E0%B8%84-4/&#34;&gt;ประเภท 3 ภาค 4&lt;/a&gt;&lt;/li&gt;
   
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%9C%E0%B8%A5%E0%B8%95%E0%B8%A0%E0%B8%93%E0%B8%91%E0%B8%AD%E0%B8%95%E0%B8%AA%E0%B8%B2%E0%B8%AB%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1/&#34;&gt;ผลิตภัณฑ์อุตสาหกรรม&lt;/a&gt;&lt;/li&gt;
-  
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%9C%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99/&#34;&gt;ผ่านแดน&lt;/a&gt;&lt;/li&gt;
   
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%9C%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%A2%E0%B8%99/&#34;&gt;ผ่านแดนอาเซียน&lt;/a&gt;&lt;/li&gt;
   
@@ -559,6 +563,8 @@ You can create as many pages as your need. Each page should have a title, and a 
   
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%A7%E0%B8%95%E0%B8%96%E0%B8%AD%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A2/&#34;&gt;วัตถุอันตราย&lt;/a&gt;&lt;/li&gt;
   
+  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%A7%E0%B8%99%E0%B8%AB%E0%B8%A2%E0%B8%94%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%81%E0%B8%B2%E0%B8%A3/&#34;&gt;วันหยุดราชการ&lt;/a&gt;&lt;/li&gt;
+  
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%AA%E0%B8%97%E0%B8%98%E0%B8%99%E0%B8%B3%E0%B8%81%E0%B8%A5%E0%B8%9A/&#34;&gt;สุทธินำกลับ&lt;/a&gt;&lt;/li&gt;
   
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%AA%E0%B8%97%E0%B8%98%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9/&#34;&gt;สิทธิประโยชน์ทางภาษี&lt;/a&gt;&lt;/li&gt;
@@ -601,15 +607,19 @@ You can create as many pages as your need. Each page should have a title, and a 
   
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%A2%E0%B8%99/&#34;&gt;อาเซียน&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%A2%E0%B8%99-%E0%B8%88%E0%B8%99/&#34;&gt;อาเซียน - จีน&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%A2%E0%B8%99-%E0%B8%88%E0%B8%99/&#34;&gt;อาเซียน-จีน&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%A2%E0%B8%99-%E0%B8%AE%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%87/&#34;&gt;อาเซียน-ฺฮ่องกง&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%A2%E0%B8%99-%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%A2/&#34;&gt;อาเซียน-อินเดีย&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%A2%E0%B8%99-%E0%B8%AE%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%87/&#34;&gt;อาเซียน-ฮ่องกง&lt;/a&gt;&lt;/li&gt;
   
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%A2%E0%B8%99-%E0%B9%80%E0%B8%81%E0%B8%B2%E0%B8%AB%E0%B8%A5/&#34;&gt;อาเซียน-เกาหลี&lt;/a&gt;&lt;/li&gt;
   
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B9%80%E0%B8%81%E0%B8%A5%E0%B8%AD/&#34;&gt;เกลือ&lt;/a&gt;&lt;/li&gt;
   
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B2%E0%B9%80%E0%B8%AA%E0%B8%A3/&#34;&gt;เขตการค้าเสรี&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B2%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%A2%E0%B8%99/&#34;&gt;เขตการค้าเสรีอาเซียน&lt;/a&gt;&lt;/li&gt;
   
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%AA%E0%B8%A3/&#34;&gt;เขตประกอบการเสรี&lt;/a&gt;&lt;/li&gt;
   
@@ -643,7 +653,13 @@ You can create as many pages as your need. Each page should have a title, and a 
   
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B9%84%E0%B8%95%E0%B8%AB%E0%B8%A7%E0%B8%99/&#34;&gt;ไต้หวัน&lt;/a&gt;&lt;/li&gt;
   
+  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%8D%E0%B8%9B%E0%B8%99/&#34;&gt;ไทย-ญี่ปุ่น&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%99%E0%B8%A7%E0%B8%8B%E0%B9%81%E0%B8%A5%E0%B8%99%E0%B8%94/&#34;&gt;ไทย-นิวซีแลนด์&lt;/a&gt;&lt;/li&gt;
+  
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%A2/&#34;&gt;ไทย-อินเดีย&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AD%E0%B8%AD%E0%B8%AA%E0%B9%80%E0%B8%95%E0%B8%A3%E0%B9%80%E0%B8%A5%E0%B8%A2/&#34;&gt;ไทย-ออสเตรเลีย&lt;/a&gt;&lt;/li&gt;
   
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B9%84%E0%B8%9B%E0%B8%A3%E0%B8%A9%E0%B8%93%E0%B8%A2/&#34;&gt;ไปรษณีย์ &lt;/a&gt;&lt;/li&gt;
   
