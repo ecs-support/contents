@@ -1279,19 +1279,29 @@
     
     <item>
       <title>มาตรการตอบโต้การทุ่มตลาด (Anti-dumping)</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/trade-protection/1.ad/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/trade-protection/1_ad/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/trade-protection/1.ad/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/trade-protection/1_ad/</guid>
       <description>
 
-&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/anti-dumping.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/anti_dumping.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;มาตรการตอบโต้การทุ่มตลาด (Anti-dumping: AD) เป็นมาตรการทางการค้าที่ประเทศผู้นำเข้าใช้เพื่อปกป้องอุตสาหกรรมภายในที่ได้รับความเสียหาย หรือมีแนวโน้มที่จะได้รับความเสียหายจากการทุ่มตลาดอันเกิดจากการนำเข้าสินค้าจากต่างประเทศที่ไม่เป็นธรรม&lt;/p&gt;
+&lt;div class=&#34;toc-contents&#34;&gt;
+    &lt;h2&gt;Table of Contents&lt;/h2&gt;
+    &lt;svg height=&#34;25&#34; width=&#34;250&#34;&gt;
+        &lt;line x1=&#34;25&#34; x2=&#34;300&#34; style=&#34;stroke:rgb(255,0,0);stroke-width:5&#34; /&gt;
+        Sorry, your browser does not support inline SVG.
+    &lt;/svg&gt;
 
-&lt;p&gt;&lt;strong&gt;การทุ่มตลาด (Dumping) คืออะไร&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;การทุ่มตลาด&lt;/strong&gt; คือ การส่งออกสินค้าจากประเทศหนึ่งไปยังอีกประเทศหนึ่งเพื่อประโยชน์ในทางพาณิชย์ โดยที่ราคาส่งออกนั้นต่ำกว่ามูลค่าปกติของสินค้าชนิดเดียวกันที่จำหน่ายเพื่อการบริโภคภายในประเทศผู้ส่งออก / ผู้ผลิตเอง&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;ข้อมูลขจาก&lt;a href=&#34;https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B8%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94&#34; target=&#34;_blank&#34;&gt;วิกิพีเดีย&lt;/a&gt; ได้อธิบายความหมายของ &lt;strong&gt;การทุ่มตลาด&lt;/strong&gt; ไว้ว่า &lt;strong&gt;การทุ่มตลาด (dumping)&lt;/strong&gt; ในทางเศรษฐศาสตร์ คือการกำหนดราคาเพื่อขจัดคู่แข่งขันรูปแบบหนึ่ง โดยเฉพาะอย่างยิ่งในบริบทการค้าระหว่างประเทศ การทุ่มตลาดเกิดขึ้นเมื่อผู้ผลิต ส่งผลิตภัณฑ์ออกไปยังอีกประเทศหนึ่ง ที่ราคาต่ำกว่าราคาที่ตั้งในตลาดในประเทศ หรือในปริมาณที่ไม่สามารถอธิบายได้ในการแข่งขันตลาดตามปกติ นิยามทางเทคนิคมาตรฐานของการทุ่มตลาด คือ การที่กำหนดราคาสินค้าชนิดหนึ่งในตลาดต่างประเทศ ต่ำกว่าราคาสินค้าชนิดเดียวกันที่ตั้งในตลาดในประเทศเพื่อการบริโภคของผู้ส่งออก มักเรียกว่า ขายน้อยกว่า &lt;strong&gt;มูลค่าปกติ&lt;/strong&gt; ในการค้าระดับเดียวกันในทางการค้าปกติ ภายใต้ความตกลงองค์การการค้าโลก การทุ่มตลาดถูกประณาม (แต่ไม่ถูกห้าม) หากกระทำหรือคุกคามจะก่อความเสียหายอย่างสำคัญต่ออุตสาหกรรมในประเทศในประเทศผู้นำเข้า คำว่า &lt;strong&gt;การทุ่มตลาด&lt;/strong&gt; มีความหมายโดยนัยเชิงลบ เพาะผู้สนับสนุนตลาดแข่งขันมองการทุ่มตลาดว่าเป็นลัทธิคุ้มครองรูปแบบหนึ่ง ยิ่งไปกว่านั้น ผู้สนับสนุนกรรมกรและผู้ใช้แรงงานเชื่อว่า การปกป้องธุรกิจจากพฤติกรรมการขจัดการแข่งขัน เช่น การทุ่มตลาด ช่วยบรรเทาผลร้ายแรงบางประการของพฤติการณ์เช่นนั้นระหว่างเศรษฐกิจที่ขั้นการพัฒนาต่าง ๆ กัน&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.thaitr.go.th/en/home&#34; target=&#34;_blank&#34;&gt;กองปกป้องและตอบโต้ทางการค้า&lt;/a&gt; ซึ่งเป็นหน่วยงานที่มีภารกิจหลักในเรื่องดังกล่าว ได้นิยามความหมายไว้ว่า &lt;strong&gt;มาตรการตอบโต้การทุ่มตลาด (Anti-dumping: AD)&lt;/strong&gt; เป็นมาตรการทางการค้าที่ประเทศผู้นำเข้า ใช้เพื่อปกป้องอุตสาหกรรมภายในที่ได้รับความเสียหาย หรือมีแนวโน้มที่จะได้รับความเสียหายจากการทุ่มตลาด อันเกิดจากการนำเข้าสินค้าจากต่างประเทศที่ไม่เป็นธรรม&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;การทุ่มตลาด (Dumping)&lt;/strong&gt; คือ การส่งออกสินค้าจากประเทศหนึ่งไปยังอีกประเทศหนึ่งเพื่อประโยชน์ในทางพาณิชย์ โดยที่ราคาส่งออกนั้นต่ำกว่ามูลค่าปกติของสินค้าชนิดเดียวกันที่จำหน่ายเพื่อการบริโภคภายในประเทศผู้ส่งออก / ผู้ผลิตเอง&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;ราคาส่งออก (Export Price)&lt;/strong&gt; คือ ราคาสินค้าที่ผู้ส่งออกขายให้แก่ผู้นำเข้า หรือตัวแทนจำหน่ายในต่างประเทศ ซึ่งไม่มีความสัมพันธ์กัน โดยราคานั้นต้องเป็นราคาที่ขายให้แก่ผู้ซื้ออิสระทอดแรก (First Independent Buyer)&lt;/p&gt;
 
@@ -1411,7 +1421,7 @@
 
 &lt;h2 id=&#34;ข-นตอนการไต-สวน&#34;&gt;ขั้นตอนการไต่สวน&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/ad_step.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/ad_step.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&#34;การแก-ต-างเม-อส-นค-าไทยถ-กประเทศค-ค-าใช-มาตรการ-ad&#34;&gt;การแก้ต่างเมื่อสินค้าไทยถูกประเทศคู่ค้าใช้มาตรการ AD&lt;/h3&gt;
 
@@ -1452,7 +1462,7 @@
 
 &lt;h2 id=&#34;ข-นตอนการไต-สวนเพ-อใช-มาตรการ-ad-ของออกเตรเล-ย&#34;&gt;ขั้นตอนการไต่สวนเพื่อใช้มาตรการ AD ของออกเตรเลีย&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&#34;../img-01.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/process_ad.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;ออสเตรเลียมีการทบทวนอื่นๆ อีก ดังนี้&lt;/p&gt;
 
@@ -1495,10 +1505,10 @@
     
     <item>
       <title>มาตรการตอบโต้การอุดหนุน (Countervailing Duty)</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/trade-protection/2.cvd/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/trade-protection/2_cvd/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/trade-protection/2.cvd/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/trade-protection/2_cvd/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/CVD.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
@@ -1709,10 +1719,10 @@
     
     <item>
       <title>มาตรการปกป้องการนำเข้าสินค้าที่เพิ่มขึ้น (Safeguard Measure)</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/trade-protection/3.sg/</link>
+      <link>https://ecs-support.github.io/KM/customs/customs/import-export/import/trade-protection/3_sg/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/trade-protection/3.sg/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/customs/import-export/import/trade-protection/3_sg/</guid>
       <description>
 
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/SG.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;

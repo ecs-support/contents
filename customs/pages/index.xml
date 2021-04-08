@@ -67,8 +67,8 @@
 
 &lt;div class=&#34;toc-contents&#34;&gt;
     &lt;h2&gt;Table of Contents&lt;/h2&gt;
-    &lt;svg height=&#34;30&#34; width=&#34;250&#34;&gt;
-        &lt;line x1=&#34;30&#34; x2=&#34;300&#34; style=&#34;stroke:rgb(255,0,0);stroke-width:5&#34; /&gt;
+    &lt;svg height=&#34;25&#34; width=&#34;250&#34;&gt;
+        &lt;line x1=&#34;25&#34; x2=&#34;300&#34; style=&#34;stroke:rgb(255,0,0);stroke-width:5&#34; /&gt;
         Sorry, your browser does not support inline SVG.
     &lt;/svg&gt;
 
@@ -153,8 +153,8 @@ HAHAHUGOSHORTCODE-TOC0-HBHB
 
 &lt;div class=&#34;toc-contents&#34;&gt;
     &lt;h2&gt;Table of Contents&lt;/h2&gt;
-    &lt;svg height=&#34;30&#34; width=&#34;250&#34;&gt;
-        &lt;line x1=&#34;30&#34; x2=&#34;300&#34; style=&#34;stroke:rgb(255,0,0);stroke-width:5&#34; /&gt;
+    &lt;svg height=&#34;25&#34; width=&#34;250&#34;&gt;
+        &lt;line x1=&#34;25&#34; x2=&#34;300&#34; style=&#34;stroke:rgb(255,0,0);stroke-width:5&#34; /&gt;
         Sorry, your browser does not support inline SVG.
     &lt;/svg&gt;
 
@@ -370,6 +370,18 @@ taxinclinic@gmail.com
 โดยเปิดทำการทุกวันจันทร์  – ศุกร์ เวลา 09:30  – 16:00 น.
   &lt;/div&gt;
 &lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>การส่งออกสินค้า (Export)</title>
+      <link>https://ecs-support.github.io/KM/customs/pages/export/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/pages/export/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;img/e-export.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;การส่งออกสินค้า (Export) คือ การจัดส่งสินค้าและบริการจากต้นทางสู่ปลายทางในทางบก ทางน้ำหรือทางอากาศ โดยผู้ส่งสินค้าหรือบริการออกเรียกว่า &amp;laquo;ผู่ส่งออก&amp;raquo; ส่วนในทางการค้าระหว่างประเทศ การส่งออกหมายถึง การขายสินค้าและบริการในประเทศไปสู่ตลาดอื่น (ตลาดสากล) ในการส่งออกและนำเข้าซึ่งสินค้าจะต้องมีหน่วยงานที่ต้องเกี่ยวข้องด้วยคือ กรมศุลกากร แม้ว่าจะเป็นการนำเข้า หรือส่งออกผ่านทางระบบอินเทอร์เน็ตเองก็จำเป็นต้องเกี่ยวข้องกับกรมศุลการกรด้วย และที่สำคัญต้องอยู่ภายใต้กฎหมายการนำเข้าและส่งออกของประเทศนั้น ๆ&lt;/p&gt;
 </description>
     </item>
     
@@ -824,9 +836,13 @@ taxinclinic@gmail.com
   
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B8%81%E0%B9%80%E0%B8%A7%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%A0%E0%B8%B2%E0%B8%84-4/&#34;&gt;การยกเว้นอากรตามภาค 4&lt;/a&gt;&lt;/li&gt;
   
+  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%81/&#34;&gt;การส่งออก&lt;/a&gt;&lt;/li&gt;
+  
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%8A%E0%B8%AD%E0%B8%A1%E0%B9%82%E0%B8%A2%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%A1%E0%B8%A5%E0%B9%83%E0%B8%9A%E0%B8%AD%E0%B8%99%E0%B8%8D%E0%B8%B2%E0%B8%95/&#34;&gt;การเชื่อมโยงข้อมูลใบอนุญาต&lt;/a&gt;&lt;/li&gt;
   
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%9A%E0%B8%84%E0%B8%A1%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%82%E0%B8%B2-%E0%B8%AA%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%81/&#34;&gt;ของควบคุมการนำเข้า-ส่งออก&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/%E0%B8%84%E0%B8%A1%E0%B8%AD%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%8F%E0%B8%9A%E0%B8%95%E0%B8%9E%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/&#34;&gt;คู่มือการปฏิบัติพิธีการศุลกากร&lt;/a&gt;&lt;/li&gt;
   
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/%E0%B8%96%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B3/%E0%B8%9C%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99/&#34;&gt;ถ่ายลำ/ผ่านแดน&lt;/a&gt;&lt;/li&gt;
   

@@ -1,1 +1,0 @@
-[TariffCode','TariffSeq' ,'PrivilegeCode','DutyCode','DutyRate' ,'DutyRateS','SpecCode','AnnounceNo','AnnounceDate','Description','StartDate' ,'FinishDate']
