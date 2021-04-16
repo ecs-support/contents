@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>การโอนย้ายของออกจาก on ECS</title>
+    <title>การโอนย้ายของออกจากสิทธิประโยชน์ (ต้นทาง) on ECS</title>
     <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/tranfer/</link>
-    <description>Recent content in การโอนย้ายของออกจาก on ECS</description>
+    <description>Recent content in การโอนย้ายของออกจากสิทธิประโยชน์ (ต้นทาง) on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
@@ -11,79 +11,6 @@
     
 	    <atom:link href="https://ecs-support.github.io/KM/customs/pages/tax-inc/tranfer/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>การโอนย้ายของออกจากสิทธิประโยชน์ (ต้นทาง)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/tranfer/1.main/</link>
-      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/tranfer/1.main/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../img/warehouse.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;div&gt;&lt;/p&gt;
-
-&lt;p&gt;
-
-
-  
-  
-
-
-&lt;a  href=&#34;../2.bond/&#34;   target=&#34;_blank&#34; 
-  class=&#34;btn-downloads-dangers &#34;&gt;
-  คลังสินค้าทัณฑ์บน
-&lt;/a&gt;
-  
-
-
-  
-  
-
-
-&lt;a  href=&#34;../3.section_29/&#34;   target=&#34;_blank&#34; 
-  class=&#34;btn-downloads-dangers &#34;&gt;
-  ขอคืนอากรตามมาตรา 29
-&lt;/a&gt;
-  
-
-
-  
-  
-
-
-&lt;a  href=&#34;../4.boi/&#34;   target=&#34;_blank&#34; 
-  class=&#34;btn-downloads-dangers &#34;&gt;
-  ส่งเสริมการลงทุน BOI
-&lt;/a&gt;
-
-&lt;/div&gt;
-&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;
-
-
-  
-  
-
-
-&lt;a  href=&#34;../5.freezone/&#34;   target=&#34;_blank&#34; 
-  class=&#34;btn-downloads-dangers &#34;&gt;
-  เขตปลอดอากร (Freezone)
-&lt;/a&gt;
-  
-
-
-  
-  
-
-
-&lt;a  href=&#34;../6.i-eat/&#34;   target=&#34;_blank&#34; 
-  class=&#34;btn-downloads-dangers &#34;&gt;
-   เขตประกอบการเสรี (I-EAT) 
-&lt;/a&gt;
-&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>การโอนย้ายของออกจากคลังสินค้าทัณฑ์บน (ต้นทาง)</title>
@@ -894,7 +821,7 @@ Version) และเลขประจำตัวผู้เสียภา�
       
       <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/tranfer/back/</guid>
       <description>&lt;script&gt;
-location.replace(&#34;/KM/customs/pages/tax-inc/&#34;)
+location.replace(&#34;/KM/customs/pages/tax-inc/tranfer/&#34;)
 &lt;/script&gt;
 </description>
     </item>
