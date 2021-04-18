@@ -7,7 +7,11 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
+<<<<<<< HEAD
     <lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate>
+=======
+    <lastBuildDate>Fri, 16 Apr 2021 00:00:00 +0000</lastBuildDate>
+>>>>>>> 3a08040c363737127f82338a2d4f1d2a555e3d25
     
 	    <atom:link href="https://ecs-support.github.io/KM/customs/tags/index.xml" rel="self" type="application/rss+xml" />
     

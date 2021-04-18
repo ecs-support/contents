@@ -313,8 +313,11 @@ You can create as many pages as your need. Each page should have a title, and a 
   
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/from-d/&#34;&gt;From D&lt;/a&gt;&lt;/li&gt;
   
+<<<<<<< HEAD
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/fta/&#34;&gt;FTA&lt;/a&gt;&lt;/li&gt;
   
+=======
+>>>>>>> 3a08040c363737127f82338a2d4f1d2a555e3d25
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/import/&#34;&gt;import&lt;/a&gt;&lt;/li&gt;
   
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/incoterms/&#34;&gt;Incoterms&lt;/a&gt;&lt;/li&gt;
