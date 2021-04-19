@@ -18,19 +18,28 @@
       <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/customs/faq/import/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://www.taladtool.com/wp-content/uploads/2018/02/faq.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;http://www.taladtool.com/wp-content/uploads/2018/02/faq.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 &lt;h2 id=&#34;import&#34;&gt;Import&lt;/h2&gt;
+
 &lt;div class=&#34;book-collapsible&#34;&gt;
 &lt;button class=&#34;collapsible&#34;&gt;การบันทึกข้อมูล ราคาขายปลีกแนะนำในใบขนสินค้า&lt;/button&gt;
 &lt;div class=&#34;content&#34;&gt;
-  &lt;p&gt;&lt;h2 id=&#34;การบนทกขอมลราคาขายปลกแนะนำในใบขนสนคา&#34;&gt;การบันทึกข้อมูลราคาขายปลีกแนะนำในใบขนสินค้า&lt;/h2&gt;
+  &lt;p&gt;&lt;h2 id=&#34;การบ-นท-กข-อม-ลราคาขายปล-กแนะนำในใบขนส-นค-า&#34;&gt;การบันทึกข้อมูลราคาขายปลีกแนะนำในใบขนสินค้า&lt;/h2&gt;
+
 &lt;p&gt;&lt;strong&gt;คำตอบ :&lt;/strong&gt;&lt;/p&gt;
+
 &lt;p&gt;ให้ระบุราคาขายปลีกแนะนำ ตามแบบแจ้งราคาขายปลีกแนะนำ (ภส.02-01) ในช่อง Deducted Amount ยกเว้นกรณี&lt;/p&gt;
+
 &lt;ul&gt;
 &lt;li&gt;กรณีที่อัตราภาษีสรรพสามิตกำหนด&lt;strong&gt;อัตราภาษีตามปริมาณเพียงอย่างเดียว&lt;/strong&gt; ให้ระบุ &lt;strong&gt;&lt;em&gt;0.1&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;กรณีของ&lt;strong&gt;นำเข้าคลังสินค้าทัณฑ์บน เขตปลอดอากร เขตประกอบการเสรี&lt;/strong&gt; และของที่&lt;strong&gt;ได้รับยกเว้นอากรตามภาค 4&lt;/strong&gt;รวมทั้งของที่&lt;strong&gt;โอนย้ายระหว่างคลังสินค้าทัณฑ์บน เขตปลอดอากร เขตประกอบการเสรีให้ระบุ&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;0.2&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;../img/deducted-amount.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/deducted-amount.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 &lt;blockquote&gt;
 &lt;p&gt;ที่มา : กรมสรรพสามิต&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -38,15 +47,19 @@
 &lt;/div&gt;
 &lt;/div&gt;
 
+
 &lt;div class=&#34;book-collapsible&#34;&gt;
 &lt;button class=&#34;collapsible&#34;&gt;สินค้าที่ผลิตในราชอาณาจักรแล้วส่งออกไปเก็บไว้ยังต่างประเทศ หากนำเข้ามาขายในประเทศไทยจะได้รับยกเว้นอากรหรือไม่&lt;/button&gt;
 &lt;div class=&#34;content&#34;&gt;
-  &lt;p&gt;&lt;h2 id=&#34;ตองการทราบวากรณสนคาทผลตในราชอาณาจกรแลวสงออกไปเกบไวยงตางประเทศ-หากนำเขามาขายในประเทศไทยจะไดรบยกเวนอากรหรอไม&#34;&gt;ต้องการทราบว่ากรณีสินค้าที่ผลิตในราชอาณาจักรแล้วส่งออกไปเก็บไว้ยังต่างประเทศ หากนำเข้ามาขายในประเทศไทยจะได้รับยกเว้นอากรหรือไม่&lt;/h2&gt;
+  &lt;p&gt;&lt;h2 id=&#34;ต-องการทราบว-ากรณ-ส-นค-าท-ผล-ตในราชอาณาจ-กรแล-วส-งออกไปเก-บไว-ย-งต-างประเทศ-หากนำเข-ามาขายในประเทศไทยจะได-ร-บยกเว-นอากรหร-อไม&#34;&gt;ต้องการทราบว่ากรณีสินค้าที่ผลิตในราชอาณาจักรแล้วส่งออกไปเก็บไว้ยังต่างประเทศ หากนำเข้ามาขายในประเทศไทยจะได้รับยกเว้นอากรหรือไม่&lt;/h2&gt;
+
 &lt;p&gt;&lt;strong&gt;คำตอบ :&lt;/strong&gt;&lt;/p&gt;
+
 &lt;p&gt;พ.ร.ก.พิกัดอัตราศุลกากร พ.ศ.2530 ภาค 4 ประเภท 1  บัญญัติให้ยกเว้นอากรขาเข้ากับสินค้านำเข้าที่พิสูจน์ได้ว่า  เป็นสินค้าที่ผลิตในราชอาณาจักรและไม่ได้ใช้สิทธิประโยชน์ทางภาษีอากรใดๆที่ได้ส่งออกไปต่างประเทศและนำกลับเข้ามาโดยไม่เปลี่ยนแปลงลักษณะหรือรูป    หรือ เป็นสินค้าต่างประเทศที่ได้เคยนำเข้ามาในประเทศไทยและชำระค่าภาษีอากรและได้ส่งออกไปต่างประเทศโดยไม่ได้ขอคืนอากรขาเข้า    และได้นำกลับเข้ามาโดยไม่เปลี่ยนแปลงลักษณะหรือรูปร่าง     ดังนั้นหากสินค้าของท่านเป็นไปตามข้อกำหนดดังกล่าว โดยสามารถพิสูจน์ตามหลักเกณฑ์เงื่อนไขที่กรมศุลกากรกำหนด    การนำกลับเข้ามาขายในประเทศจะไม่ต้องเสียภาษีอากรขาเข้า  แต่หากไม่เป็นไปตามหลักเกณฑ์ดังกล่าว  ของนั้นต้องชำระค่าภาษีอากร&lt;/p&gt;
+
 &lt;ul&gt;
-&lt;li&gt;ที่มา : กรมศุลกากร&lt;/li&gt;
-&lt;li&gt;วันที่ปรับปรุงล่าสุด : 8 สิงหาคม 2562&lt;/li&gt;
+&lt;li&gt;ที่มา : กรมศุลกากร&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;วันที่ปรับปรุงล่าสุด : 8 สิงหาคม 2562&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/p&gt;
 &lt;/div&gt;
@@ -61,29 +74,38 @@
       <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/customs/faq/export/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://www.taladtool.com/wp-content/uploads/2018/02/faq.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;http://www.taladtool.com/wp-content/uploads/2018/02/faq.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 &lt;h2 id=&#34;export&#34;&gt;Export&lt;/h2&gt;
+
 &lt;div class=&#34;book-collapsible&#34;&gt;
 &lt;button class=&#34;collapsible&#34;&gt;การนำเข้า-ส่งออกภาชนะบรรจุของชนิดที่เรียกว่าคอนเทนเนอร์และคอนเทนเนอร์แร็ค &lt;/button&gt;
 &lt;div class=&#34;content&#34;&gt;
   &lt;p&gt;&lt;p&gt;&lt;strong&gt;คำตอบ :&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../img/15_part_4.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/15_part_4.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 &lt;ul&gt;
-&lt;li&gt;ที่มา : &lt;a href=&#34;http://ccc.customs.go.th/cont_strc_faq.php?current_id=14232a32414b505e4f&amp;amp;left_menu=interesting_article&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;วันที่ปรับปรุงล่าสุด : 28 ตุลาคม 2563&lt;/li&gt;
+&lt;li&gt;ที่มา : &lt;a href=&#34;http://ccc.customs.go.th/cont_strc_faq.php?current_id=14232a32414b505e4f&amp;amp;left_menu=interesting_article&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;วันที่ปรับปรุงล่าสุด : 28 ตุลาคม 2563&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
+
 &lt;div class=&#34;book-collapsible&#34;&gt;
 &lt;button class=&#34;collapsible&#34;&gt;การนำเข้า-ส่งออกภาชนะบรรจุหมุนเวียนระหว่างประเทศ&lt;/button&gt;
 &lt;div class=&#34;content&#34;&gt;
   &lt;p&gt;&lt;p&gt;&lt;strong&gt;คำตอบ :&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../img/package.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/package.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 &lt;ul&gt;
-&lt;li&gt;ที่มา : &lt;a href=&#34;http://ccc.customs.go.th/cont_strc_faq.php?current_id=14232a32414a505f4d&amp;amp;left_menu=interesting_article&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;วันที่ปรับปรุงล่าสุด : 28 ตุลาคม 2563&lt;/li&gt;
+&lt;li&gt;ที่มา : &lt;a href=&#34;http://ccc.customs.go.th/cont_strc_faq.php?current_id=14232a32414a505f4d&amp;amp;left_menu=interesting_article&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;วันที่ปรับปรุงล่าสุด : 28 ตุลาคม 2563&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/p&gt;
 &lt;/div&gt;

@@ -15,7 +15,7 @@
     <item>
       <title>Pages</title>
       <link>https://ecs-support.github.io/KM/customs/pages/</link>
-      <pubDate>Tue, 02 Mar 2021 08:10:00 +0000</pubDate>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/pages/</guid>
       <description></description>
@@ -31,12 +31,21 @@
     </item>
     
     <item>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>FAQ.</title>
       <link>https://ecs-support.github.io/KM/customs/talk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/talk/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://www.taladtool.com/wp-content/uploads/2018/02/faq.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;http://www.taladtool.com/wp-content/uploads/2018/02/faq.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -46,7 +55,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/customs/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/knowledge-center.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/knowledge-center.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
