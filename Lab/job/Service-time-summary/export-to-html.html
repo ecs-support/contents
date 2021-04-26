@@ -1,0 +1,128 @@
+import pandas as pd
+# used for dates
+import datetime
+from datetime import datetime, date
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
+import pickle
+# Set some pandas options controlling output format
+pd.set_option('display.notebook_repr_html', True)
+pd.set_option('display.max_columns', 30)
+pd.set_option('display.max_rows', 20)
+pd.set_option('display.width', 1000)
+%config InlineBackend.figure_format='retina'
+%matplotlib inline
+
+print(f'pandas version = {pd.__version__}')
+
+pd.Timestamp.today()
+
+# อ่านข้อมูลจาก Pickle
+
+def read_pickle(files =None ):
+
+pickle_off = open(files,"rb")
+df = pickle.load(pickle_off)
+
+return df
+##====================##
+
+# เขียนข้อมูลลง Pickle
+
+def write_pickle(data,files =None ):
+pickling_on = open(files,"wb")
+pickle.dump(data, pickling_on)
+pickling_on.close()
+print('dump success')
+
+# Reading from Clipboard.
+
+df = pd.read_clipboard()
+df
+
+df.info()
+
+df['date'] = pd.to_datetime(df['date'], format='%d/%m/%Y')
+df
+
+df['Year']=df['date'].dt.year
+df['Month']=df['date'].dt.month
+df['Day']=df['date'].dt.day
+df['DayName']=df['date'].dt.strftime('%a')
+df
+
+from pandas.api.types import CategoricalDtype
+cat_dayname = CategoricalDtype(categories=[ 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat','Sun'], ordered=True)
+df['DayName']=df['DayName'].astype(cat_dayname)
+df
+
+
+
+## Read & Write Data
+
+files = 'periods.pkl'
+
+write_pickle(df,files)
+
+data = read_pickle(files)
+data
+
+# ค่าเฉลี่ยต่อวันคำนวณจากลำดับวันของสัปดาห์
+
+data = df[['DayName', 'volumn']].groupby('DayName').mean().reset_index()
+data
+
+plt.figure(figsize=(14, 6))
+sns.barplot(x='DayName',y='volumn',data=data)
+
+## คิดเป็น %
+
+data = read_pickle(files)
+data = df[['DayName', 'volumn']].groupby('DayName').mean()
+data = data.transform(lambda x: x/x.sum()*100)
+
+data = data.style.highlight_max(color='red').highlight_min(color='gold')
+data
+
+## ค่าเฉลี่ยต่อวันคำนวณจากช่วงเวลาของแต่ละวัน
+
+data = df[['period', 'volumn']].groupby('period').mean().reset_index()
+data
+
+plt.figure(figsize=(14, 6))
+sns.barplot(x='period',y='volumn',data=data)
+
+## คิดเป็น %
+
+data = read_pickle(files)
+data = df[['period', 'volumn']].groupby('period').mean()
+data = data.transform(lambda x: x/x.sum()*100)
+
+
+
+data = data.style.highlight_max(color='red').highlight_min(color='gold')
+data
+
+
+## ค่าเฉลี่ยต่อวันคำนวณจากลำดับวันของสัปดาห์และช่วงเวลาของแต่ละวัน
+
+data = read_pickle(files)
+
+data =df.groupby(['DayName','period']).mean().reset_index()
+data
+
+pv = pd.pivot_table(data, values='volumn', aggfunc='mean', index=['DayName'], columns=['period'])
+#pv = pv.sort_values(by=period, ascending=False)
+pv
+
+## คิดเป็น %
+
+pv = pv.transform(lambda x: x/x.sum()*100)
+html = pv.copy()
+pv = pv.style.highlight_max(color='red').highlight_min(color='gold')
+pv
+
+
+
+html.style.bar(color='#aaffaa').render()
