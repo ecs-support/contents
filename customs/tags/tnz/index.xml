@@ -22,11 +22,10 @@
 
 &lt;p&gt;&lt;img src=&#34;../img/thai-new-zealand.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;h2 class=&#34;head_toc&#34;&gt;Table of Contents&lt;/h2&gt;
-&lt;div class =&#34;toc_content&#34;&gt;
-    &lt;br&gt;
+&lt;div class=&#34;toc-contents&#34;&gt;
+    &lt;h2&gt;Contents&lt;/h2&gt;
 
-&lt;/div&gt;&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&#34;ความเป-นมา&#34;&gt;ความเป็นมา&lt;/h2&gt;
 
@@ -241,11 +240,10 @@
 
 &lt;p&gt;&lt;img src=&#34;../img/thai-australia.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;h2 class=&#34;head_toc&#34;&gt;Table of Contents&lt;/h2&gt;
-&lt;div class =&#34;toc_content&#34;&gt;
-    &lt;br&gt;
+&lt;div class=&#34;toc-contents&#34;&gt;
+    &lt;h2&gt;Contents&lt;/h2&gt;
 
-&lt;/div&gt;&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;blockquote class=&#34;book-hint success&#34;&gt;
   &lt;ul&gt;

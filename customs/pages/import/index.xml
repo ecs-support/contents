@@ -393,11 +393,10 @@
 
 &lt;p&gt;&lt;img src=&#34;../img/import-car.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;h2 class=&#34;head_toc&#34;&gt;Table of Contents&lt;/h2&gt;
-&lt;div class =&#34;toc_content&#34;&gt;
-    &lt;br&gt;
+&lt;div class=&#34;toc-contents&#34;&gt;
+    &lt;h2&gt;Contents&lt;/h2&gt;
 HAHAHUGOSHORTCODE-TOC0-HBHB
-&lt;/div&gt;&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&#34;ประกาศท-เก-ยวข-อง&#34;&gt;ประกาศที่เกี่ยวข้อง&lt;/h2&gt;
 
@@ -491,11 +490,10 @@ HAHAHUGOSHORTCODE-TOC0-HBHB
       <guid>https://ecs-support.github.io/KM/customs/pages/import/overtime/</guid>
       <description>
 
-&lt;p&gt;&lt;h2 class=&#34;head_toc&#34;&gt;Table of Contents&lt;/h2&gt;
-&lt;div class =&#34;toc_content&#34;&gt;
-    &lt;br&gt;
+&lt;div class=&#34;toc-contents&#34;&gt;
+    &lt;h2&gt;Contents&lt;/h2&gt;
 HAHAHUGOSHORTCODE-TOC0-HBHB
-&lt;/div&gt;&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;เนื่องจากในปัจจุบันมีใบขนสินค้าผ่านแดน ที่ส่งข้อมูลหลังจากวันนำเข้า&lt;em&gt;เกิน 60 วัน&lt;/em&gt; ทำให้ระบบกรมศุลกากรได้ Lock ไม่ให้ส่งข้อมูลใบขนสินค้าผ่านแดน ทำให้มีคำถามกลับเข้ามาถึงกฎหมายที่เกี่ยวข้อง และขั้นตอนการปฏิบัติพิธีการศุลกากร สำหร้ับเรื่องดังกล่าว ในส่วนของโปรแกรม เราจำเป็นต้องทราบว่าระบบหลังบ้านกรมศุลกากร จะทำการตรวจสอบและ lock สินค้าที่อยู่ในอารักขาของศุลกากร&lt;em&gt;เกิน 60 วัน&lt;/em&gt; นับแต่วันที่นําเข้า โดย&lt;em&gt;ไม่มีการยื่นใบขนสินค้า&lt;/em&gt; หรือ &lt;em&gt;ไม่ได้เสียอากรหรือวางประกันค่าอากรที่ศุลกากรเรียกเก็บ&lt;/em&gt; ไม่สามารถส่งข้อมูลทางอิเล็กทรอนิกส์ได้ เราจึงรวบรวมข้อกฎหมายและขั้นตอนการปฏิบัติของหน่วยงานต่าง ๆ ที่เกี่ยวข้องกับของตกค้าง เพื่อใช้ประกอบทำความเข้าใจ และใช้เป็นแนวทางในการแก้ปัญหาในเรื่องดังกล่าวดังนี้&lt;/p&gt;
 

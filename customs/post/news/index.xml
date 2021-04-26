@@ -7,6 +7,7 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
+    <lastBuildDate>Fri, 16 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ecs-support.github.io/KM/customs/post/news/index.xml" rel="self" type="application/rss+xml" />
     
@@ -56,11 +57,10 @@
 &lt;/blockquote&gt;
 
 
-&lt;p&gt;&lt;h2 class=&#34;head_toc&#34;&gt;Table of Contents&lt;/h2&gt;
-&lt;div class =&#34;toc_content&#34;&gt;
-    &lt;br&gt;
+&lt;div class=&#34;toc-contents&#34;&gt;
+    &lt;h2&gt;Contents&lt;/h2&gt;
 
-&lt;/div&gt;&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
