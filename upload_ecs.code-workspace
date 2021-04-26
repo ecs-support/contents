@@ -5,10 +5,14 @@
 		},
 		{
 			"path": "D:\\Developer\\KnowledgeCenter\\upload_git"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\..\\Git\\GitHub\\Hugo\\hugo"
 		}
 	],
 	"settings": {
 		"liveServer.settings.port": 5501,
-		"liveServer.settings.multiRootWorkspaceName": "uploads_ecs"
+		"liveServer.settings.multiRootWorkspaceName": "uploads_ecs",
+		"editor.fontFamily": "Fira Code,DejaVu Sans Mono ,Source Code Pro"
 	}
 }

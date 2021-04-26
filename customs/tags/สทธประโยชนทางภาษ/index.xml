@@ -7,151 +7,107 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
-    <lastBuildDate>Fri, 31 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ecs-support.github.io/KM/customs/tags/%E0%B8%AA%E0%B8%97%E0%B8%98%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>หลักเกณฑ์ วิธีการ และเงื่อนไขการปฏิบัติพิธีการศุลกากรในการคืนอากรตามมาตรา 29 แห่งพระราชบัญญัติศุลกากร พ.ศ. 2560 ด้วยระบบอิเล็กทรอนิกส์ (e-Drawback)</title>
-      <link>https://ecs-support.github.io/KM/customs/post/announcement/customs/2563-126/</link>
-      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      <title>จะเลือกเก็บของที่ได้สิทธิ FTA ที่ไหนดี ระหว่างเขตปลอดอากร กับ คลังสินค้าทัณฑ์บนทั่วไป</title>
+      <link>https://ecs-support.github.io/KM/customs/talk/incentive/tax-01/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/announcement/customs/2563-126/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;div class=&#34;alert alert-note_warning&#34;&gt;
-  &lt;div&gt;
-    &lt;h2 id=&#34;สร-ปเบ-องต-น&#34;&gt;&lt;em&gt;สรุปเบื้องต้น&lt;/em&gt;&lt;/h2&gt;
-
-&lt;h3 id=&#34;การค-นอากรตามมาตรา-29-ด-วยระบบอ-เล-กทรอน-กส-e-drawback&#34;&gt;การคืนอากรตามมาตรา 29 ด้วยระบบอิเล็กทรอนิกส์ (e-Drawback)&lt;/h3&gt;
+      <guid>https://ecs-support.github.io/KM/customs/talk/incentive/tax-01/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../talk/fta/img/fta-01.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;กรมศุลกากรมีการพัฒนาระบบดังกล่าวในรูปแบบ web ต้องลงทะเบียนเพื่อเข้าใช้งานที่ NSW มีชื่อว่า e-Form&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;กรมศุลกากรยังไม่แจก schema ให้ผู้พัฒนา software โดยแจ้งว่าตามแผนอยากจะทดสอบให้ผุ้ประกอบการมาใช้ e-form เพื่อตรวจสอบความพร้อมและความถูกต้อง ให้เรียบร้อยก่อนเผยแพร่ให้ software house ต่อไป&lt;/li&gt;
-&lt;li&gt;ผู้นำเข้า-ส่งออกหรือตัวแทน ที่สนใจเข้าใช้งานระบบดังกล่าว ต้องเข้าไปขอคำปรึกษาที่ส่วนคืนอากรเพื่อการส่งออก กองสิทธิประโยชน์ทางภาษีอากร (ตามบทเฉพาะกาล)&lt;/li&gt;
-&lt;li&gt;ต้องดำเนินการปรับปรุงสูตรการผลิต (ยกเลิก OR) บัญชีวัตถุดิบและชื่อทางการค้า ให้เรียบร้อยก่อนใช้งานระบบ&lt;/li&gt;
-&lt;li&gt;ในส่วนของการบันทึกข้อมูลในใบขนสินค้า จากการตรวจสอบพบเพียงจุดเดียว และต้องบันทึกเมื่อผู้ประกอบการได้เข้าระบบการคืนอากรตามรูปแบบใหม่เรียบร้อยแล้ว (ถ้ายังไม่เข้าระบบใหม่ ทำทุกอย่างเหมือนเดิม) มีรายละเอียดคือ รหัสวัตถุดิบที่ได้ยื่นบัญชีวัตถุดิบไว้แล้ว พร้อมลำดับที่ของชื่อทางการค้า (ถ้ามี) รหัสวัตถุดิบ/ลำดับชื่อทางการค้า (xxxxxx/000) ในช่อง &lt;strong&gt;Customs Product Code (RTC Product Code)&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;เรื่องนี้เรารู้รายละเอียดพอ ๆ กับผู้ประกอบการ กรมศุลฯ ยังไม่มีแจ้งอะไรเพิ่มเติม ถ้าต้องการรายละเอียดเพิ่มเติมคนที่น่าจะตอบได้ดีที่สุดคือ ส่วนคืนอากรเพื่อการส่งออก กองสิทธิประโยชน์ทางภาษีอากร&lt;/li&gt;
+&lt;li&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_faq.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;left_menu=menu_center_004&amp;amp;ini_menu=&amp;amp;current_id=14232832414a505f4c464b47464b4b&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;วันที่ปรับปรุงล่าสุด : 1 พฤษภาคม 2563&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h3 id=&#34;เอกสารท-เก-ยวข-อง&#34;&gt;เอกสารที่เกี่ยวข้อง&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;ประกาศกรมศุลกากรที่ 126/.2563 เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการปฏิบัติพิธีการศุลกากรใน&lt;strong&gt;การคืนอากรตามมาตรา 29&lt;/strong&gt; แห่งพระราชบัญญัติศุลกากร พ.ศ. 2560 ด้วยระบบอิเล็กทรอนิกส์ (e-Drawback) &lt;a href=&#34;https://ecs-support.github.io/KM/customs/post/announcement/customs/2563-126/&#34; target=&#34;_blank&#34;&gt;[&lt;strong&gt;ดาวน์โหลด&lt;/strong&gt;]&lt;/a&gt; มีผลบังคับตั้งแต่&lt;strong&gt;วันที่ 1 สิงหาคม 2563&lt;/strong&gt; เป็นต้นไป&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;เอกสารประกอบการบรรยาย&lt;strong&gt;โครงการพัฒนาระบบอิเล็กทรอนิกส์เต็มรูปแบบในการคืนอากรเพื่อการส่งออกตามมาตรา 29 (e-Drawback)&lt;/strong&gt; &lt;a href=&#34;https://ecs-support.github.io/KM/customs/post/announcement/customs/2563-126/present_e-drawback.pdf&#34; target=&#34;_blank&#34;&gt;[&lt;strong&gt;ดาวน์โหลด&lt;/strong&gt;]&lt;/a&gt;  ซึ่งกรมศุลกากรได้จัดขึ้น เมื่อ&lt;strong&gt;วันอังคารที่ 22 ตุลาคม 2562&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>การปฏิบัติพิธีการในการนำของที่ผลิตในประเทศเข้าไปบรรจุในเขตปลอดอากร/เขตประกอบการเสรีและขอใช้สิทธิชดเชย</title>
+      <link>https://ecs-support.github.io/KM/customs/talk/incentive/tax-02/</link>
+      <pubDate>Thu, 26 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/talk/incentive/tax-02/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../talk/incentive/img/export-freezone-11-03-20.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Admin 19 ส.ค. 2563&lt;/p&gt;
-&lt;/blockquote&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;ประกาศกรมศ-ลกากรท-126-2563-เร-อง-หล-กเกณฑ-ว-ธ-การ-และเง-อนไขการปฏ-บ-ต-พ-ธ-การศ-ลกากรในการค-นอากรตามมาตรา-29-แห-งพระราชบ-ญญ-ต-ศ-ลกากร-พ-ศ-2560-ด-วยระบบอ-เล-กทรอน-กส-e-drawback&#34;&gt;ประกาศกรมศุลกากรที่ 126/.2563 เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการปฏิบัติพิธีการศุลกากรในการคืนอากรตามมาตรา 29 แห่งพระราชบัญญัติศุลกากร พ.ศ. 2560 ด้วยระบบอิเล็กทรอนิกส์ (e-Drawback)&lt;/h2&gt;
-
-&lt;p&gt;มีผลบังคับตั้งแต่&lt;em&gt;วันที่ 1 สิงหาคม 2563&lt;/em&gt; เป็นต้นไป&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/2563-126png_Page1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/2563-126png_Page2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/2563-126png_Page3.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/2563-126png_Page4.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/2563-126png_Page5.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;รายละเอ-ยดเพ-มเต-ม&#34;&gt;รายละเอียดเพิ่มเติม&lt;/h2&gt;
-
 &lt;ul&gt;
-&lt;li&gt;เอกสารประกอบการบรรยาย&lt;strong&gt;โครงการพัฒนาระบบอิเล็กทรอนิกส์เต็มรูปแบบในการคืนอากรเพื่อการส่งออกตามมาตรา 29 (e-Drawback)&lt;/strong&gt; &lt;a href=&#34;https://ecs-support.github.io/KM/customs/post/announcement/customs/2563-126/present_e-drawback.pdf&#34; target=&#34;_blank&#34;&gt;[&lt;em&gt;ดาวน์โหลด&lt;/em&gt;]&lt;/a&gt;  ซึ่งกรมศุลกากรได้จัดขึ้น เมื่อ&lt;strong&gt;วันอังคารที่ 22 ตุลาคม 2562&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;ที่มา : &lt;a href=&#34;http://ccc.customs.go.th/cont_strc_faq.php?current_id=14232a324149505f47&amp;amp;left_menu=interesting_article&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;วันที่ปรับปรุงล่าสุด : 26 ธันวาคม 2562&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;./2563-126.pdf&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
     
     <item>
-      <title>หลักเกณฑ์ วิธีการ และเงื่อนไข การปฏิบัติพิธีการศุลกากรในเขตปลอดอากร</title>
-      <link>https://ecs-support.github.io/KM/customs/post/announcement/customs/2561-115/</link>
-      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
+      <title>กรณีนำเข้าเครื่องมือแพทย์และของมาถึงท่าเรือแล้ว แต่ผู้นำเข้าต้องการจะส่งกลับออกไป ต้องทำอย่างไร</title>
+      <link>https://ecs-support.github.io/KM/customs/talk/incentive/tax-05/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/announcement/customs/2561-115/</guid>
-      <description>
+      <guid>https://ecs-support.github.io/KM/customs/talk/incentive/tax-05/</guid>
+      <description>&lt;p&gt;การนำสินค้าเข้ามาในราชอาณาจักร ต่อมาภายหลังผู้นำเข้ามีความประสงค์จะส่งสินค้ากลับออกไป  สามารถยื่นคำร้องขอปฏิบัติพิธีการส่งของกลับออกไปนอกราชอาณาจักร (Re-Export) ตามมาตรา 28 แห่ง พ.ร.บ. ศุลกากร พ.ศ. 2560 ได้ แต่หากสินค้านั้นเป็นของควบคุมการนำเข้า ของนั้นต้องได้รับอนุญาตให้นำเข้าจากหน่วยงานที่เกี่ยวข้องก่อน จึงจะสามารถดำเนินการส่งของกลับได้
+เครื่องมือแพทย์เป็นสินค้าที่ต้องมีใบอนุญาตก่อนนำเข้าจากสำนักงานคณะกรรมการอาหารและยา ดังนั้น เมื่อนำเข้ามาและประสงค์จะขอส่งกลับ สามารถแบ่งได้เป็น 2 กรณี.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;กรณีมีใบอนุญาตให้นำเข้าแล้ว ให้ตรวจสอบว่าของที่จะส่งกลับออกไปเป็นของที่ต้องมีใบอนุญาตส่งออกหรือไม่ ถ้ามีต้องขอใบอนุญาตส่งออก ก่อนดำเนินพิธีการทางศุลกากร กรณีนี้สินค้าอยู่ในอารักขาของศุลกากร ยังไม่ได้มีการตรวจปล่อย และรับของไปจากศุลกากร ให้ดำเนินการดังนี้
 
-&lt;div class=&#34;toc-contents&#34;&gt;
-    &lt;h2&gt;Contents&lt;/h2&gt;
-HAHAHUGOSHORTCODE-TOC0-HBHB
-&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;ให้จัดทำใบขนสินค้าขาเข้าและใบขนสินค้าขาออกโดยใช้สิทธิ Re-Export ตามมาตรา 28 แห่ง พ.ร.บ. ศุลกากร พ.ศ. 2560 และชำระค่าอากรขาเข้ากรณีใช้สิทธิ Re-Export หนึ่งในสิบส่วนหรือไม่เกิน 1,000 บาท สำหรับภาษีมูลค่าเพิ่มได้สิทธิยกเว้นภาษีมูลค่าเพิ่ม&lt;/li&gt;
+&lt;li&gt;ยื่นคำร้องขอปฏิบัติพิธีการส่งของกลับออกไปนอกราชอาณาจักร (Re-Export) ใบขนสินค้าขาเข้า  ใบขนสินค้าขาออก และใบอนุญาตนำเข้า ณ ห้องปฏิบัติพิธีการศุลกากร ท่าที่นำเข้า&lt;/li&gt;
+&lt;li&gt;ดำเนินการตรวจปล่อยสินค้าขาเข้าและขาออก.&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;กรณีไม่มีใบอนุญาตให้นำเข้า ผู้นำเข้าต้องติดต่อสำนักงานคณะกรรมการอาหารและยา เพื่อขอใบอนุญาตนำเข้าและส่งออกก่อน.&lt;br /&gt;
 
-&lt;h3 id=&#34;ส-วนท-1-การนำของเข-าไปในเขตปลอดอากร&#34;&gt;ส่วนที่ 1 การนำของเข้าไปในเขตปลอดอากร&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/2561_115png_Page1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/2561_115png_Page2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/2561_115png_Page3.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/2561_115png_Page4.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/2561_115png_Page5.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/2561_115png_Page6.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;ส-วนท-2-การนำของออกจากเขตปลอดอากร&#34;&gt;ส่วนที่ 2 การนำของออกจากเขตปลอดอากร&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/2561_115png_Page7.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/2561_115png_Page8.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/2561_115png_Page9.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/2561_115png_Page10.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/2561_115png_Page11.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/2561_115png_Page12.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/2561_115png_Page13.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;ส-วนท-3-การเก-บของในเขตปลอดอากร&#34;&gt;ส่วนที่ 3 การเก็บของในเขตปลอดอากร&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/2561_115png_Page14.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/2561_115png_Page15.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;ส-วนท-4-การขนถ-าย-การตรวจ-และการควบค-มของในเขตปลอดอากร&#34;&gt;ส่วนที่ 4 การขนถ่าย การตรวจ และการควบคุมของในเขตปลอดอากร&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/2561_115png_Page16.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/2561_115png_Page17.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/2561_115png_Page18.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/2561_115png_Page19.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/2561_115png_Page20.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/2561_115png_Page21.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/2561_115png_Page22.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/2561_115png_Page23.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;กรณีไม่ได้รับใบอนุญาต จะไม่สามารถดำเนินพิธีการใด ๆ ได้ เนื่องจากถือเป็นของต้องห้ามในการนำเข้า ให้ยกของกลางให้เป็นของแผ่นดิน&lt;/li&gt;
+&lt;li&gt;กรณีได้รับใบอนุญาตถือเป็นการได้รับใบอนุญาตหลังวันนำเข้า ให้ดำเนินพิธีการศุลกากรตามข้อ 1 แต่เนื่องจากได้รับใบอนุญาตหลังวันนำเข้า  เจ้าหน้าที่จะจัดส่งเรื่องไปพิจารณาความผิด ณ ฝ่ายคดี โดยเสียค่าปรับร้อยละ 10 ของราคาของ ไม่น้อยกว่า 1,000 บาท แต่ไม่เกิน 20,000 บาท&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;มีผลบังค้บตั้งแต่ 8 พ.ค. 2561 เป็นต้นไป.&lt;br /&gt;
-ที่มา : &lt;a href=&#34;./2561-115.pdf&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_faq.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;left_menu=menu_center_004&amp;amp;ini_menu=&amp;amp;current_id=142328324146505f48464b47464b48&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;วันที่ปรับปรุงล่าสุด : 8 สิงหาคม 2562&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>การยื่นสูตรการผลิตจะต้องยื่นเมื่อใด</title>
+      <link>https://ecs-support.github.io/KM/customs/talk/incentive/tax-04/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/talk/incentive/tax-04/</guid>
+      <description>&lt;p&gt;การยื่นสูตรการผลิตจะต้องยื่นก่อนการส่งออกสินค้า เพื่อนำเลขที่สูตรการผลิต ไปบันทึกในใบขนสินค้าขาออกของผู้ส่งออกผลิตภัณฑ์ไปต่างประเทศ&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;ที่มา : กรมศุลกากร&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;วันที่ปรับปรุงล่าสุด : 8 สิงหาคม 2562&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>การสำแดงเลข e-tax incentive (เลข 14 หลัก) ในใบขนสินค้าขาเข้า-ใบขนสินค้าขาออกที่ใช้สิทธิประโยชน์ฯ ตามมาตรา 29 ต้องใส่เลขของผู้นำเข้าหรือผู้ส่งออก อย่างไร</title>
+      <link>https://ecs-support.github.io/KM/customs/talk/incentive/tax-03/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/talk/incentive/tax-03/</guid>
+      <description>&lt;p&gt;ใบขนสินค้าขาเข้า ในส่วนรายการแต่ละรายการที่ใช้สิทธิการคืนอากรตามมาตรา 29   ต้องสำแดงเลข e-tax incentive ของผู้นำเข้าวัตถุดิบจากต่างประเทศที่ได้รับอนุมัติหลักการคืนอากรตามมาตรา 29  และในใบขนสินค้าขาออกต้องสำแดงเลข e-tax incentive ของผู้ส่งออกผลิตภัณฑ์ไปต่างประเทศ&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;ที่มา : กรมศุลกากร&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;วันที่ปรับปรุงล่าสุด : 8 สิงหาคม 2562&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/blockquote&gt;
 </description>
     </item>

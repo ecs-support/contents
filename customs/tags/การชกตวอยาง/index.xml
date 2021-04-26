@@ -22,11 +22,6 @@
 
 &lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a  href=&#34;./2560-173.pdf&#34;   target=&#34;_blank&#34; 
-  class=&#34;btn&#34;&gt;
-  Download
-&lt;/a&gt;&lt;/p&gt;
-
 &lt;h2 id=&#34;ประกาศกรมศ-ลกากร-ท-173-2560-เร-อง-หล-กเกณฑ-ว-ธ-การ-และเง-อนไขการช-กต-วอย-างของ&#34;&gt;ประกาศกรมศุลกากร ที่ 173/.2560 เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการชักตัวอย่างของ&lt;/h2&gt;
 
 &lt;p&gt;มีผลบังคับตั้งแต่&lt;em&gt;วันที่ 27 พฤศจิกายน 2560&lt;/em&gt; เป็นต้นไป&lt;/p&gt;
@@ -55,12 +50,10 @@
 
 &lt;p&gt;&lt;img src=&#34;./img/2560-173png_Page12.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a  href=&#34;./2560-173.pdf&#34;   target=&#34;_blank&#34; 
-  class=&#34;btn&#34;&gt;
-  Download
-&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;div class=&#34;article-tags&#34;&gt;
+&lt;a class=&#34;badge badge-danger&#34; href=&#34;./2560-173.pdf&#34; target=&#34;_blank&#34; id=&#34;download_files_new&#34;&gt;Download &lt;/a&gt;
+&lt;/div&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232832414b505f49464b49464b49&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;

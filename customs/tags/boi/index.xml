@@ -7,18 +7,144 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
-    <lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ecs-support.github.io/KM/customs/tags/boi/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>การส่งเสริมการลงทุน (BOI)</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/tax-incentive/boi/</link>
+      <title>การโอนย้ายของออกจากสิทธิ ส่งเสริมการลงทุน BOI (ต้นทาง)</title>
+      <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/tranfer/4.boi/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/customs/tax-incentive/boi/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/tranfer/4.boi/</guid>
       <description>
+
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/KnowledgeCenter/raw/master/img/e-tax-incentive/tranfer-boi.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;โอนย-ายของเข-าโดยใช-ส-ทธ-ปลายทาง&#34;&gt;โอนย้ายของเข้าโดยใช้สิทธิ์ (&lt;em&gt;ปลายทาง&lt;/em&gt;)&lt;/h1&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;คลังสินค้าทัณฑ์บน (Bonded Warehouse)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;h2 id=&#34;คล-งส-นค-าท-ณฑ-บน&#34;&gt;คลังสินค้าทัณฑ์บน&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;การโอนย้ายของออกจากสิทธิประโยชน์ส่งเสริมการลงทุน (BOI) เพื่อโอนย้ายของเข้าไปใช้สิทธิ์คลังสินค้าทัณฑ์บน&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;em&gt;ผู้ส่งออกของ&lt;/em&gt; ส่งใบขนสินค้าขาออกโอนย้ายภายในประเทศ &lt;em&gt;(B)&lt;/em&gt; ให้ระบุค่าดังนี้&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ระบุ Release Port = รหัสสถานที่ตรวจปล่อยของคลังสินค้าทัณฑ์บนที่นำสินค้าเข้าเก็บ ที่ส่วนควบคุมในใบขนสินค้า&lt;/li&gt;
+&lt;li&gt;ระบุ Load Port = รหัสสถานที่รับบรรทุกของของคลังสินค้าทัณฑ์บนที่นำสินค้าเข้าเก็บ ที่ส่วนควบคุมในใบขนสินค้า&lt;/li&gt;
+&lt;li&gt;ระบุ BOI = Y ที่ส่วนรายการในใบขนสินค้า&lt;/li&gt;
+&lt;li&gt;ระบุ เลขที่บัตรส่งเสริมการลงทุน BOI ในช่อง BOI License Number ที่ส่วนรายการในใบขนสินค้า&lt;/li&gt;
+&lt;li&gt;Privilege Code = 000 ตามอัตราปกติ หรือ 999 ตามพระราชกำหนด เท่านั้น&lt;/li&gt;
+&lt;li&gt;ระบุเลขที่อนุมัติสั่งปล่อยของ BOI ส่วนใบอนุญาต
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;em&gt;ผู้นำของเข้า&lt;/em&gt; ส่งใบขนสินค้าขาเข้าโอนย้ายภายในประเทศ &lt;em&gt;(A)&lt;/em&gt; ให้ระบุค่าดังนี้&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ระบุ Release Port = รหัสสถานที่ตรวจปล่อยของคลังสินค้าทัณฑ์บนที่นำสินค้าเข้าเก็บ ที่ส่วนควบคุมในใบขนสินค้า&lt;/li&gt;
+&lt;li&gt;ระบุ Discharge Port = รหัสสถานที่รับบรรทุกของของคลังสินค้าทัณฑ์บนที่นำสินค้าเข้าเก็บ ที่ส่วนควบคุมในใบขนสินค้า&lt;/li&gt;
+&lt;li&gt;ระบุ Bond = Y ที่ส่วนรายการในใบขนสินค้า&lt;/li&gt;
+&lt;li&gt;ระบุ Import Tax Incentives ID = เลขที่ทะเบียนสิทธิ์ประโยชน์คลังสินค้าทัณฑ์บนที่นำของเข้า ที่ส่วนรายการในใบขนสินค้า&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;เขตปลอดอากร (Freezone)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;h2 id=&#34;เขตปลอดอากร&#34;&gt;เขตปลอดอากร&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;การโอนย้ายของออกจากสิทธิประโยชน์ส่งเสริมการลงทุน (BOI) เพื่อโอนย้ายของเข้าโดยใช้สิทธิ์เขตปลอดอากร&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;ผู้ส่งออกของ&lt;/em&gt; ส่งใบขนสินค้าขาออกโอนย้ายเข้าเขตปลอดอากร &lt;em&gt;(D)&lt;/em&gt; ให้ระบุค่าดังนี้&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ระบุ Release Port = รหัสสถานที่ตรวจปล่อยของเขตปลอดอากรที่นำของเข้า ที่ส่วนควบคุม ในใบขนสินค้า&lt;/li&gt;
+&lt;li&gt;ระบุ Load Port = รหัสสถานที่รับบรรทุกของของเขตปลอดอากรที่นำของเข้า ที่ส่วนควบคุม ในใบขนสินค้า&lt;/li&gt;
+&lt;li&gt;ระบุ BOI = Y ที่ส่วนรายการในใบขนสินค้า&lt;/li&gt;
+&lt;li&gt;ระบุ เลขที่บัตรส่งเสริมการลงทุน BOI ในช่อง BOI License Number ที่ส่วนรายการในใบขนสินค้า&lt;/li&gt;
+&lt;li&gt;Privilege Code = 000 ตามอัตราปกติ หรือ 999 ตามพระราชกำหนด เท่านั้น&lt;/li&gt;
+&lt;li&gt;ระบุ Import Tax Incentives ID = เลขที่ทะเบียนสิทธิ์ประโยชน์เขตปลอดอากรที่นำของเข้าที่ส่วนรายการในใบขนสินค้า&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;เขตประกอบการเสรี (I-EAT)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;h2 id=&#34;เขตประกอบการเสร&#34;&gt;เขตประกอบการเสรี&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;การโอนย้ายของออกจากสิทธิประโยชน์ส่งเสริมการลงทุน (BOI) เพื่อโอนย้ายของเข้าโดยใช้สิทธิ์เขตประกอบการเสรี&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;ผู้ส่งออกของ&lt;/em&gt; ส่งใบขนสินค้าขาออกโอนย้ายเข้าเขตประกอบการเสรี &lt;em&gt;(D)&lt;/em&gt; ให้ระบุค่าดังนี้&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ระบุ Release Port = รหัสสถานที่ตรวจปล่อยของเขตประกอบการเสรีที่นำของเข้า ที่ส่วนควบคุมในใบขนสินค้า&lt;/li&gt;
+&lt;li&gt;ระบุ Load Port = รหัสสถานที่รับบรรทุกของของเขตประกอบการเสรีที่นำของเข้า ที่ส่วนควบคุมในใบขนสินค้า&lt;/li&gt;
+&lt;li&gt;ระบุ BOI = Y ที่ส่วนรายการในใบขนสินค้า&lt;/li&gt;
+&lt;li&gt;ระบุ เลขที่บัตรส่งเสริมการลงทุน BOI ในช่อง BOI License Number ที่ส่วนรายการในใบขนสินค้า&lt;/li&gt;
+&lt;li&gt;Privilege Code = 000 ตามอัตราปกติ หรือ 999 ตามพระราชกำหนด เท่านั้น&lt;/li&gt;
+&lt;li&gt;ระบุ Import Tax Incentives ID = เลขที่ทะเบียนสิทธิ์ประโยชน์เขตประกอบการเสรีที่นำของเข้าที่ส่วนรายการในใบขนสินค้า&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;การไม่ได้ส่งออกภายในกำหนด หรือการขอชำระภาษีอากรบริโภคในประเทศ&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;h2 id=&#34;การไม-ได-ส-งออกภายในกำหนด-หร-อการขอชำระภาษ-อากรบร-โภคในประเทศ&#34;&gt;การไม่ได้ส่งออกภายในกำหนด หรือการขอชำระภาษีอากรบริโภคในประเทศ&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;กรณีเป็นวัตถุดิบ&lt;/strong&gt; ไม่ต้องทำใบขนสินค้าให้ประเมินใบขนสินค้าขาเข้าฉบับแรกและออกแบบแจ้งเรียกเก็บเงิน&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;กรณีเป็นผลิตภัณฑ์&lt;/em&gt; นำของออกบริโภคภายในประเทศ ผู้ได้รับการส่งเสริมการลงทุนจัดทำใบขนสินค้า &lt;em&gt;P&lt;/em&gt; ให้ระบุค่าดังนี้
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ระบุ Release Port = รหัสสถานที่ตรวจปล่อยของสำนักงานศุลกากรหรือด่านศุลกากรที่ผู้ได้รับส่งเสริมการลงทุนมีภูมิลำเนาอยู่ หรือที่สำนักงานศุลกากรที่กรมศุลกากรมอบหมายให้เป็นผู้จัดเก็บภาษีอากร ที่ส่วนควบคุมในใบขนสินค้า&lt;/li&gt;
+&lt;li&gt;ระบุ Discharge Port = รหัสสถานที่รับบรรทุกของสำนักงานศุลกากรหรือด่านศุลกากรที่ผู้ได้รับส่งเสริมการลงทุนมีภูมินำเนาอยู่ หรือที่สำนักงานศุลกากรที่กรมศุลกากรมอบหมายให้เป็นผู้จัดเก็บภาษีอากรที่ส่วนควบคุมในใบขนสินค้า&lt;/li&gt;
+&lt;li&gt;ระบุ BOI = Y ที่ส่วนรายการในใบขนสินค้า&lt;/li&gt;
+&lt;li&gt;ระบุ เลขที่บัตรส่งเสริมการลงทุน BOI ในช่อง BOI License Number ที่ส่วนรายการในใบขนสินค้า&lt;/li&gt;
+&lt;li&gt;Privilege Code = 000 ตามอัตราปกติ หรือ 999 ตามพระราชกำหนด เท่านั้น&lt;/li&gt;
+&lt;li&gt;ระบุเลขที่อนุมัติเรียกเก็บภาษีอากรของ BOI ส่วนใบอนุญาต&lt;/li&gt;
+&lt;/ul&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>การส่งเสริมการลงทุน (BOI)</title>
+      <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/boi/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/boi/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;../img/boi.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;div class=&#34;toc-contents&#34;&gt;
+    &lt;h2&gt;Contents&lt;/h2&gt;
+HAHAHUGOSHORTCODE-TOC0-HBHB
+&lt;/div&gt;
 
 &lt;p&gt;การส่งเสริมการลงทุน เป็นมาตรการหนึ่งในการดึงดูดนักลงทุนจากต่างประเทศ ให้เข้ามาลงทุนในกิจการที่รัฐให้ความสำคัญโดยมีหน่วยงานหลักที่ดูแลรับผิดชอบ คือ สานักงานคณะกรรมการส่งเสริมการลงทุน สิทธิและประโยชน์ทางภาษีอากรที่ผู้ได้รับการส่งเสริมการลงทุนได้รับ เป็นไปตามที่บัญญัติไว้ในพระราชบัญญัติการส่งเสริมการลงทุน พ.ศ. 2520 ผู้ประกอบการที่ประสงค์จะขอรับสิทธิและประโยชน์ต้องยื่นคำขอรับการส่งเสริมและต้องปฏิบัติตามหลักเกณฑ์ วิธีการ ตามที่สำนักงานคณะกรรมการส่งเสริมการลงทุนกำหนด.&lt;/p&gt;
 
@@ -178,196 +304,6 @@
 &lt;blockquote&gt;
 &lt;p&gt;วันที่ปรับปรุงล่าสุด : 21 กรกฎาคม 2560.&lt;br /&gt;
 ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_simple.php?ini_content=tax_incentive_160929_01&amp;amp;ini_menu=menu_tax_incentive&amp;amp;lang=th&amp;amp;root_left_menu=menu_tax_incentive&amp;amp;left_menu=menu_tax_incentive_160928_07&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>การโอนย้ายของออกจากสิทธิ ส่งเสริมการลงทุน BOI (ต้นทาง)</title>
-      <link>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tranfer/4.boi/</link>
-      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/KM/customs/customs/tax-incentive/tranfer/4.boi/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/KnowledgeCenter/raw/master/img/e-tax-incentive/tranfer-boi.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;โอนย-ายของเข-าโดยใช-ส-ทธ-ปลายทาง&#34;&gt;โอนย้ายของเข้าโดยใช้สิทธิ์ (&lt;em&gt;ปลายทาง&lt;/em&gt;)&lt;/h1&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;div class=&#34;book-collapsible&#34;&gt;
-&lt;button class=&#34;collapsible&#34;&gt;คลังสินค้าทัณฑ์บน (Bonded Warehouse)&lt;/button&gt;
-&lt;div class=&#34;content&#34;&gt;
-  &lt;p&gt;&lt;h2 id=&#34;คล-งส-นค-าท-ณฑ-บน&#34;&gt;คลังสินค้าทัณฑ์บน&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;การโอนย้ายของออกจากสิทธิประโยชน์ส่งเสริมการลงทุน (BOI) เพื่อโอนย้ายของเข้าไปใช้สิทธิ์คลังสินค้าทัณฑ์บน&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;em&gt;ผู้ส่งออกของ&lt;/em&gt; ส่งใบขนสินค้าขาออกโอนย้ายภายในประเทศ &lt;em&gt;(B)&lt;/em&gt; ให้ระบุค่าดังนี้&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;ระบุ Release Port = รหัสสถานที่ตรวจปล่อยของคลังสินค้าทัณฑ์บนที่นำสินค้าเข้าเก็บ ที่ส่วนควบคุมในใบขนสินค้า&lt;/li&gt;
-&lt;li&gt;ระบุ Load Port = รหัสสถานที่รับบรรทุกของของคลังสินค้าทัณฑ์บนที่นำสินค้าเข้าเก็บ ที่ส่วนควบคุมในใบขนสินค้า&lt;/li&gt;
-&lt;li&gt;ระบุ BOI = Y ที่ส่วนรายการในใบขนสินค้า&lt;/li&gt;
-&lt;li&gt;ระบุ เลขที่บัตรส่งเสริมการลงทุน BOI ในช่อง BOI License Number ที่ส่วนรายการในใบขนสินค้า&lt;/li&gt;
-&lt;li&gt;Privilege Code = 000 ตามอัตราปกติ หรือ 999 ตามพระราชกำหนด เท่านั้น&lt;/li&gt;
-&lt;li&gt;ระบุเลขที่อนุมัติสั่งปล่อยของ BOI ส่วนใบอนุญาต
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;em&gt;ผู้นำของเข้า&lt;/em&gt; ส่งใบขนสินค้าขาเข้าโอนย้ายภายในประเทศ &lt;em&gt;(A)&lt;/em&gt; ให้ระบุค่าดังนี้&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;ระบุ Release Port = รหัสสถานที่ตรวจปล่อยของคลังสินค้าทัณฑ์บนที่นำสินค้าเข้าเก็บ ที่ส่วนควบคุมในใบขนสินค้า&lt;/li&gt;
-&lt;li&gt;ระบุ Discharge Port = รหัสสถานที่รับบรรทุกของของคลังสินค้าทัณฑ์บนที่นำสินค้าเข้าเก็บ ที่ส่วนควบคุมในใบขนสินค้า&lt;/li&gt;
-&lt;li&gt;ระบุ Bond = Y ที่ส่วนรายการในใบขนสินค้า&lt;/li&gt;
-&lt;li&gt;ระบุ Import Tax Incentives ID = เลขที่ทะเบียนสิทธิ์ประโยชน์คลังสินค้าทัณฑ์บนที่นำของเข้า ที่ส่วนรายการในใบขนสินค้า&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;book-collapsible&#34;&gt;
-&lt;button class=&#34;collapsible&#34;&gt;เขตปลอดอากร (Freezone)&lt;/button&gt;
-&lt;div class=&#34;content&#34;&gt;
-  &lt;p&gt;&lt;h2 id=&#34;เขตปลอดอากร&#34;&gt;เขตปลอดอากร&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;การโอนย้ายของออกจากสิทธิประโยชน์ส่งเสริมการลงทุน (BOI) เพื่อโอนย้ายของเข้าโดยใช้สิทธิ์เขตปลอดอากร&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;ผู้ส่งออกของ&lt;/em&gt; ส่งใบขนสินค้าขาออกโอนย้ายเข้าเขตปลอดอากร &lt;em&gt;(D)&lt;/em&gt; ให้ระบุค่าดังนี้&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;ระบุ Release Port = รหัสสถานที่ตรวจปล่อยของเขตปลอดอากรที่นำของเข้า ที่ส่วนควบคุม ในใบขนสินค้า&lt;/li&gt;
-&lt;li&gt;ระบุ Load Port = รหัสสถานที่รับบรรทุกของของเขตปลอดอากรที่นำของเข้า ที่ส่วนควบคุม ในใบขนสินค้า&lt;/li&gt;
-&lt;li&gt;ระบุ BOI = Y ที่ส่วนรายการในใบขนสินค้า&lt;/li&gt;
-&lt;li&gt;ระบุ เลขที่บัตรส่งเสริมการลงทุน BOI ในช่อง BOI License Number ที่ส่วนรายการในใบขนสินค้า&lt;/li&gt;
-&lt;li&gt;Privilege Code = 000 ตามอัตราปกติ หรือ 999 ตามพระราชกำหนด เท่านั้น&lt;/li&gt;
-&lt;li&gt;ระบุ Import Tax Incentives ID = เลขที่ทะเบียนสิทธิ์ประโยชน์เขตปลอดอากรที่นำของเข้าที่ส่วนรายการในใบขนสินค้า&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;book-collapsible&#34;&gt;
-&lt;button class=&#34;collapsible&#34;&gt;เขตประกอบการเสรี (I-EAT)&lt;/button&gt;
-&lt;div class=&#34;content&#34;&gt;
-  &lt;p&gt;&lt;h2 id=&#34;เขตประกอบการเสร&#34;&gt;เขตประกอบการเสรี&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;การโอนย้ายของออกจากสิทธิประโยชน์ส่งเสริมการลงทุน (BOI) เพื่อโอนย้ายของเข้าโดยใช้สิทธิ์เขตประกอบการเสรี&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;ผู้ส่งออกของ&lt;/em&gt; ส่งใบขนสินค้าขาออกโอนย้ายเข้าเขตประกอบการเสรี &lt;em&gt;(D)&lt;/em&gt; ให้ระบุค่าดังนี้&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;ระบุ Release Port = รหัสสถานที่ตรวจปล่อยของเขตประกอบการเสรีที่นำของเข้า ที่ส่วนควบคุมในใบขนสินค้า&lt;/li&gt;
-&lt;li&gt;ระบุ Load Port = รหัสสถานที่รับบรรทุกของของเขตประกอบการเสรีที่นำของเข้า ที่ส่วนควบคุมในใบขนสินค้า&lt;/li&gt;
-&lt;li&gt;ระบุ BOI = Y ที่ส่วนรายการในใบขนสินค้า&lt;/li&gt;
-&lt;li&gt;ระบุ เลขที่บัตรส่งเสริมการลงทุน BOI ในช่อง BOI License Number ที่ส่วนรายการในใบขนสินค้า&lt;/li&gt;
-&lt;li&gt;Privilege Code = 000 ตามอัตราปกติ หรือ 999 ตามพระราชกำหนด เท่านั้น&lt;/li&gt;
-&lt;li&gt;ระบุ Import Tax Incentives ID = เลขที่ทะเบียนสิทธิ์ประโยชน์เขตประกอบการเสรีที่นำของเข้าที่ส่วนรายการในใบขนสินค้า&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;book-collapsible&#34;&gt;
-&lt;button class=&#34;collapsible&#34;&gt;การไม่ได้ส่งออกภายในกำหนด หรือการขอชำระภาษีอากรบริโภคในประเทศ&lt;/button&gt;
-&lt;div class=&#34;content&#34;&gt;
-  &lt;p&gt;&lt;h2 id=&#34;การไม-ได-ส-งออกภายในกำหนด-หร-อการขอชำระภาษ-อากรบร-โภคในประเทศ&#34;&gt;การไม่ได้ส่งออกภายในกำหนด หรือการขอชำระภาษีอากรบริโภคในประเทศ&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;กรณีเป็นวัตถุดิบ&lt;/strong&gt; ไม่ต้องทำใบขนสินค้าให้ประเมินใบขนสินค้าขาเข้าฉบับแรกและออกแบบแจ้งเรียกเก็บเงิน&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;กรณีเป็นผลิตภัณฑ์&lt;/em&gt; นำของออกบริโภคภายในประเทศ ผู้ได้รับการส่งเสริมการลงทุนจัดทำใบขนสินค้า &lt;em&gt;P&lt;/em&gt; ให้ระบุค่าดังนี้
-&lt;br /&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;ul&gt;
-&lt;li&gt;ระบุ Release Port = รหัสสถานที่ตรวจปล่อยของสำนักงานศุลกากรหรือด่านศุลกากรที่ผู้ได้รับส่งเสริมการลงทุนมีภูมิลำเนาอยู่ หรือที่สำนักงานศุลกากรที่กรมศุลกากรมอบหมายให้เป็นผู้จัดเก็บภาษีอากร ที่ส่วนควบคุมในใบขนสินค้า&lt;/li&gt;
-&lt;li&gt;ระบุ Discharge Port = รหัสสถานที่รับบรรทุกของสำนักงานศุลกากรหรือด่านศุลกากรที่ผู้ได้รับส่งเสริมการลงทุนมีภูมินำเนาอยู่ หรือที่สำนักงานศุลกากรที่กรมศุลกากรมอบหมายให้เป็นผู้จัดเก็บภาษีอากรที่ส่วนควบคุมในใบขนสินค้า&lt;/li&gt;
-&lt;li&gt;ระบุ BOI = Y ที่ส่วนรายการในใบขนสินค้า&lt;/li&gt;
-&lt;li&gt;ระบุ เลขที่บัตรส่งเสริมการลงทุน BOI ในช่อง BOI License Number ที่ส่วนรายการในใบขนสินค้า&lt;/li&gt;
-&lt;li&gt;Privilege Code = 000 ตามอัตราปกติ หรือ 999 ตามพระราชกำหนด เท่านั้น&lt;/li&gt;
-&lt;li&gt;ระบุเลขที่อนุมัติเรียกเก็บภาษีอากรของ BOI ส่วนใบอนุญาต&lt;/li&gt;
-&lt;/ul&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Insight ระบบงานฐานข้อมูล RMTS Online (วัตถุดิบและวัสดุจำเป็น)</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/boi_rmtsonline_2020/</link>
-      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/boi_rmtsonline_2020/</guid>
-      <description>
-
-&lt;p&gt;&lt;img src=&#34;RMTS.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;ระบบฐานข้อมูล RMTS Online เป็นระบบที่พัฒนาขึ้นสำหรับเป็นช่องทางในการยื่นข้อมูลเพื่อขออนุมัติบัญชีรายการวัตถุดิบและปริมาณสต็อกสูงสุด และสูตรการผลิต รวมถึงการขออนุมัติปรับยอดวัตถุดิบกรณีต่าง ๆ ผ่านระบบ Online ซึ่งประกอบไปด้วย&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;งานฐานข้อมูลวัตถุดิบ คือ การให้บริการบันทึกและจัดเก็บข้อมูลของบริษัทที่ได้รับส่งเสริมการลงทุนจากสำนักงาน
-คณะกรรมการส่งเสริมการลงทุน (BOI) เพื่อใช้ในการออกหนังสืออนุมัติยกเว้นภาษีอากรขาเข้าสำหรับวัตถุดิบ และใช้ในการ
-ออกหนังสืออนุมัติตัดบัญชีวัตถุดิบเมื่อมีการส่งออก&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;งานสั่งปล่อยวัตถุดิบ คือ การให้บริการออกเลขที่อนุมัติเพื่อนำไปสั่งปล่อยวัตถุดิบที่กรมศุลกากรให้กับบริษัทที่ได้รับการ
-ส่งเสริมการลงทุนจากสำนักงานคณะกรรมการส่งเสริมการลงทุนตามมาตรา 36 (1),(2) และมาตรา 30 ได้แก่ การอนุมัติสั่ง
-ปล่อยวัตถุดิบเพื่อ ยกเว้นอากรขาเข้า, เพื่อลดหย่อนอากรขาเข้า,การใช้ธนาคารค้ำประกัน เพื่อขอคืนอากร และเพื่อขอถอน
-ธนาคารค้ำประกัน&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;งานตัดบัญชีวัตถุดิบ คือ การให้บริการออกหนังสืออนุมัติตัดบัญชีวัตถุดิบให้กับบริษัทที่ได้รับการส่งเสริมการลงทุนจาก
-สำนักงานคณะกรรมการส่งเสริมการลงทุนตามมาตรา 36(1),(2) โดยการออกหนังสืออนุมัติตัดบัญชีวัตถุดิบ&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;ทางสมาคมสโมสรนักลงทุน (IC) ได้เผยแพร่บทความเพื่อให้ผู้ใช้งาน ได้ทราบถึงขั้นตอนการใช้งานระบบ โดยแบ่งออกเป็น 4 ตอนดังนี้
-&lt;br&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#section-1&#34;&gt;Section 1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#section-2&#34;&gt;Section 2&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#section-3&#34;&gt;Section 3&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#section-4&#34;&gt;Section 4&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;section-1&#34;&gt;Section 1&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/RMTSOnline2020png_Page1.png&#34; alt=&#34;&#34; /&gt;
-&lt;img src=&#34;./img/RMTSOnline2020png_Page2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;section-2&#34;&gt;Section 2&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/RMTSOnline2020png_Page3.png&#34; alt=&#34;&#34; /&gt;
-&lt;img src=&#34;./img/RMTSOnline2020png_Page4.png&#34; alt=&#34;&#34; /&gt;
-&lt;img src=&#34;./img/RMTSOnline2020png_Page5.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;section-3&#34;&gt;Section 3&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/RMTSOnline2020png_Page6.png&#34; alt=&#34;&#34; /&gt;
-&lt;img src=&#34;./img/RMTSOnline2020png_Page7.png&#34; alt=&#34;&#34; /&gt;
-&lt;img src=&#34;./img/RMTSOnline2020png_Page8.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;section-4&#34;&gt;Section 4&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&#34;./img/RMTSOnline2020png_Page9.png&#34; alt=&#34;&#34; /&gt;
-&lt;img src=&#34;./img/RMTSOnline2020png_Page10.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;article-tags&#34;&gt;
-&lt;a class=&#34;badge badge-danger&#34; href=&#34;./RMTSOnline2020.pdf&#34; target=&#34;_blank&#34; id=&#34;download_files_new&#34;&gt;Download &lt;/a&gt; &lt;i id=&#34;files&#34; class=&#34; fas fa-file-pdf&#34;&gt;&lt;/i&gt;
-&lt;/div&gt;
-&lt;br&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;https://ic.or.th/&#34; target=&#34;_blank&#34;&gt;สมาคมสโมสรนักลงทุน (IC)&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
