@@ -1,0 +1,962 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academia 4.3.1">
+  <meta name="generator" content="Hugo 0.59.1" />
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Administrator">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Re-ExportRe-Export ของนําเข้ามาแล้วส่งกลับออกไปภายใน 1 ปี โดยเสียอากร 1 ใน 10 (ตามมาตรา 28 พระราชบัญญัติศุลกากร พ.ศ. 2560) ให้ระบุค่าดังนี้
+ Re-Export = Y (ในส่วนของ Export Declaration Detail) Privilege Code = 003 Export Tariff = 9PART3 Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก Declaration NO = เลขที่ใบขนสินค้าขาเข้าที่อ้างถึง ซึ่งนําของเข้ามาตามมาตรา 28 Declaration Line Number = รายการในใบขนสินค้าขาเข้าที่อ้างถึง 
+ขอคืนอากรตามมาตรา 29ขอคืนอากรตามมาตรา 29  Export Tax Incentives ID = เลขทะเบียนผู้ใช้สิทธิประโยชน์ทางภาษีอากรที่นําของออก (ใน ส่วนของ Export Decalration Detail) 19 bis = Y (ในส่วนของ Export Declaration Detail) Privilege Code = 003 Export Tariff = 9PART3 Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก Model Number = เลขที่สูตรการผลิต Model Version = เวอร์ชันของสูตรการผลิต Model Company Tax Number = เลขประจําตัวผู้เสียภาษีอากรของบริษัทผู้ยื่นสูตร">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://ecs-support.github.io/KM/customs/customs/import-export/export/guide/5.tax-incentives/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#fc6f5c">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kanit:400,700|Sarabun|Roboto+Mono&display=swap">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/KM/customs/css/academia.min.8c538aef78e72f2b70475076ab1d83f5.css">
+
+  
+
+  
+  
+  
+
+  
+
+  <link rel="manifest" href="/KM/customs/site.webmanifest">
+  <link rel="icon" type="image/png" href="/KM/customs/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/KM/customs/img/icon-192.png">
+
+  <link rel="canonical" href="https://ecs-support.github.io/KM/customs/customs/import-export/export/guide/5.tax-incentives/">
+
+  
+  
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="ECS">
+  <meta property="og:url" content="https://ecs-support.github.io/KM/customs/customs/import-export/export/guide/5.tax-incentives/">
+  <meta property="og:title" content="สิทธิประโยชน์ทางภาษีอากร | ECS">
+  <meta property="og:description" content="Re-ExportRe-Export ของนําเข้ามาแล้วส่งกลับออกไปภายใน 1 ปี โดยเสียอากร 1 ใน 10 (ตามมาตรา 28 พระราชบัญญัติศุลกากร พ.ศ. 2560) ให้ระบุค่าดังนี้
+ Re-Export = Y (ในส่วนของ Export Declaration Detail) Privilege Code = 003 Export Tariff = 9PART3 Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก Declaration NO = เลขที่ใบขนสินค้าขาเข้าที่อ้างถึง ซึ่งนําของเข้ามาตามมาตรา 28 Declaration Line Number = รายการในใบขนสินค้าขาเข้าที่อ้างถึง 
+ขอคืนอากรตามมาตรา 29ขอคืนอากรตามมาตรา 29  Export Tax Incentives ID = เลขทะเบียนผู้ใช้สิทธิประโยชน์ทางภาษีอากรที่นําของออก (ใน ส่วนของ Export Decalration Detail) 19 bis = Y (ในส่วนของ Export Declaration Detail) Privilege Code = 003 Export Tariff = 9PART3 Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก Model Number = เลขที่สูตรการผลิต Model Version = เวอร์ชันของสูตรการผลิต Model Company Tax Number = เลขประจําตัวผู้เสียภาษีอากรของบริษัทผู้ยื่นสูตร"><meta property="og:image" content="https://ecs-support.github.io/KM/customs/img/icon-192.png">
+  <meta property="twitter:image" content="https://ecs-support.github.io/KM/customs/img/icon-192.png"><meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2020-05-09T00:00:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2020-10-28T13:19:34&#43;07:00">
+  
+
+  
+
+
+  
+
+
+
+
+
+  <title>สิทธิประโยชน์ทางภาษีอากร | ECS</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/KM/customs/"><img src="/KM/customs/img/logo.png" alt="ECS"></a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation"><span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/#hero"><span>หน้าแรก</span></a>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>พิธีการศุลกากร</span><span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu">
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/customs/import-export/import/"><span>การนำเข้าสินค้า</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/customs/import-export/export/"><span>การส่งออกสินค้า</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/pages/transit/"><span>สินค้าถ่ายลำ/ผ่านแดน</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/pages/tax-inc/"><span>สิทธิประโยชน์ทางภาษี</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/pages/fta/"><span>สิทธิพิเศษทางการค้า</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/customs/ata-carnet/"><span>A.T.A. CARNET</span></a>
+            </li>
+            
+          </ul>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>เรื่องน่ารู้</span><span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu">
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/pages/restricted/"><span>ของควบคุมการนำเข้า-ส่งออก</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/pages/tariff/"><span>พิกัดศุลกากร</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/pages/price/"><span>ราคาศุลกากร</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/pages/customs/"><span>กรมศุลกากร</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/pages/company/"><span>ผู้ประกอบการ</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="https://ecs-support.github.io/KM/reference/"><span>Reference data</span></a>
+            </li>
+            
+          </ul>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>ประกาศ/กฎหมาย</span><span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu">
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/post/announcement/customs/"><span>ประกาศกรมศุลกากร</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/post/announcement/ministry/"><span>ประกาศกระทรวง</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/post/oga/"><span>ประกาศหน่วยงานอื่น ๆ</span></a>
+            </li>
+            
+          </ul>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>ข่าวสาร/บทความ</span><span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu">
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/post/knowledge/"><span>สาระความรู้</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/post/news/"><span>ข่าวสาร</span></a>
+            </li>
+            
+          </ul>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/faq/"><span>FAQ</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  
+
+<div class="container-fluid docs">
+  <div class="row flex-xl-nowrap">
+    <div class="col-12 col-md-3 col-xl-2 docs-sidebar">
+      
+
+
+
+
+
+<form class="docs-search d-flex align-items-center">
+  <button class="btn docs-toggle d-md-none p-0 mr-3" type="button" data-toggle="collapse" data-target="#docs-nav"
+    aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    <span><i class="fas fa-bars"></i></span>
+  </button>
+
+  
+  <input name="q" type="search" class="form-control" id="search-query" placeholder="Search..."
+    autocomplete="off">
+  
+</form>
+
+<nav class="collapse docs-links" id="docs-nav">
+  
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/customs/import-export/export/" >1. การส่งออกสินค้า (Export)</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/KM/customs/customs/import-export/export/">การส่งออก</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/customs/import-export/export/re-export/">Re-export</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/customs/import-export/export/clearance/road/" >2. พิธีการการส่งออกสินค้า</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/KM/customs/customs/import-export/export/clearance/road/">พิธีการส่งออกทางบก</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/customs/import-export/export/clearance/sea/">พิธีการส่งออกทางเรือ</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/customs/import-export/export/clearance/air/">พิธีการส่งออกทางอากาศ</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/KM/customs/customs/import-export/export/guide/1.guide/" >3. คู่มือพิธีการส่งออกสินค้า</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/KM/customs/customs/import-export/export/guide/1.guide/">ภาพรวมระบบ</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/customs/import-export/export/guide/1.1.data-structure/">โครงสร้างข้อมูลใบขนสินค้า</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/customs/import-export/export/guide/2.principles-for-recording/">หลักการบันทึกข้อมูล</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/customs/import-export/export/guide/3.list-of-products/">หลักการรวมรายการสินค้า</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/customs/import-export/export/guide/4.part-4/">การยกเว้นอากรตามภาค 4</a>
+      </li>
+      
+      <li class="active" >
+        <a href="/KM/customs/customs/import-export/export/guide/5.tax-incentives/">สิทธิประโยชน์ทางภาษีอากร</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/customs/import-export/export/guide/6.check-data-declalation/">การตรวจสอบข้อมูล</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/customs/import-export/export/guide/7.contact-registration/">การตรวจสอบทะเบียนผู้มาติดต่อ</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/customs/import-export/export/guide/8.declaration-no/">รูปแบบเลขที่ใบขนสินค้า</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/customs/import-export/export/guide/9.duty-payment/">การชําระภาษีอากร</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/customs/import-export/export/guide/10.counter-service/">การส่งข้อมูลโดยใช้เคาน์เตอร์บริการ</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/customs/import-export/export/guide/11.submission-in-document-format/">การยื่นใบขนสินค้าในรูปแบบเอกสาร</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/customs/import-export/export/guide/12.product-packaging/">การบรรจุสินค้า</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/customs/import-export/export/guide/13.goods-control-list-structure/">โครงสร้างข้อมูลใบกำกับการขนย้ายสินค้า</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/customs/import-export/export/guide/15.transfer-of-goods-to-load-port/">การขนย้ายสินค้าผ่านสถานีรับบรรทุก</a>
+      </li>
+      
+      <li >
+        <a href="/KM/customs/customs/import-export/export/guide/14.prepare-goods-control-list/">การจัดทําข้อมูลใบกํากับการขนย้ายสินค้า</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  
+</nav>
+
+    </div>
+
+    
+
+    <main class="col-12 col-md-9 col-xl-8 py-md-3 pl-md-5 docs-content" role="main">
+
+      <article class="article" itemscope itemtype="http://schema.org/Article">
+
+        <div class="docs-article-container">
+          <h1 itemprop="name">สิทธิประโยชน์ทางภาษีอากร</h1>
+
+          <div class="article-style" itemprop="articleBody">
+            <div class="book-collapsible">
+<button class="collapsible">Re-Export</button>
+<div class="content">
+  <p><h2 id="re-export">Re-Export</h2>
+
+<p><em>ของนําเข้ามาแล้วส่งกลับออกไปภายใน 1 ปี โดยเสียอากร 1 ใน 10</em> (ตามมาตรา 28 พระราชบัญญัติศุลกากร พ.ศ. 2560) ให้ระบุค่าดังนี้</p>
+
+<ul>
+<li>Re-Export = Y (ในส่วนของ Export Declaration Detail)</li>
+<li>Privilege Code = 003</li>
+<li>Export Tariff = 9PART3</li>
+<li>Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก</li>
+<li>Declaration NO = เลขที่ใบขนสินค้าขาเข้าที่อ้างถึง ซึ่งนําของเข้ามาตามมาตรา 28</li>
+<li>Declaration Line Number = รายการในใบขนสินค้าขาเข้าที่อ้างถึง</li>
+</ul></p>
+</div>
+</div>
+
+
+<div class="book-collapsible">
+<button class="collapsible">ขอคืนอากรตามมาตรา 29</button>
+<div class="content">
+  <p><h2 id="ขอค-นอากรตามมาตรา-29">ขอคืนอากรตามมาตรา 29</h2>
+
+<ul>
+<li>Export Tax Incentives ID = เลขทะเบียนผู้ใช้สิทธิประโยชน์ทางภาษีอากรที่นําของออก (ใน
+ส่วนของ Export Decalration Detail)</li>
+<li>19 bis = Y (ในส่วนของ Export Declaration Detail)</li>
+<li>Privilege Code = 003</li>
+<li>Export Tariff = 9PART3</li>
+<li>Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก</li>
+<li>Model Number = เลขที่สูตรการผลิต</li>
+<li>Model Version = เวอร์ชันของสูตรการผลิต</li>
+<li>Model Company Tax Number = เลขประจําตัวผู้เสียภาษีอากรของบริษัทผู้ยื่นสูตร</li>
+</ul></p>
+</div>
+</div>
+
+
+<div class="book-collapsible">
+<button class="collapsible">คลังสินค้าทัณฑ์บน</button>
+<div class="content">
+  <p><h2 id="คล-งส-นค-าท-ณฑ-บน">คลังสินค้าทัณฑ์บน</h2>
+
+<p><strong>คลังสินค้าทัณฑ์บนส่งออกไปต่างประเทศ</strong></p>
+
+<ul>
+<li>Export Tax Incentives ID = เลขทะเบียนผู้ใช้สิทธิประโยชน์ทางภาษีอากรที่นําของออก
+(ในส่วนของ Export Decalration Detail)</li>
+<li>Bond = Y (ในส่วนของ Export Declaration Detail)</li>
+<li>ระบบจะตรวจสอบว่าเลขประจําตัวผู้เสียภาษีอากรของผู้ส่งของออกต้องเท่ากับเลขประจําตัว
+ผู้เสียภาษีอากรที่จดทะเบียนคลังสินค้าทัณฑ์บน หรือ ที่เจ้าของคลังทัณฑ์บนได้แจ้งอนุญาตไว้
+ในระบบทะเบียนไว้ในระบบผู้ใช้สิทธิประโยชน์ทางภาษีอากร</li>
+<li>Privilege Code = 003</li>
+<li>Export Tariff = 9PART3</li>
+<li>Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออกสําหรับคลังสินค้าทัณฑ์บน
+ทั่วไป</li>
+<li>Declaration No = เลขที่ใบขนสินค้าขาเข้า</li>
+<li>Declaration Line Number = รายการในใบขนสินค้าขาเข้าที่อ้างถึง
+สําหรับคลังสินค้าทัณฑ์บนประเภทโรงผลิต และแบ่งบรรจุ</li>
+<li>Model Number = เลขที่สูตรการผลิต</li>
+<li>Model Version = เวอร์ชันของสูตรการผลิต</li>
+<li>Model Company Tax Number = เลขประจําตัวผู้เสียภาษีอากรของบริษัทผู้ยื่นสูตร</li>
+</ul></p>
+</div>
+</div>
+
+
+<div class="book-collapsible">
+<button class="collapsible">เขตปลอดอากร (Free Zone)</button>
+<div class="content">
+  <p><h2 id="เขตปลอดอากร-free-zone">เขตปลอดอากร (Free Zone)</h2>
+
+<p><strong>ส่งออกจาก เขตปลอดอากร (Free Zone) ไปต่างประเทศ</strong></p>
+
+<ul>
+<li>Export Tax Incentives ID = เลขทะเบียนผู้ใช้สิทธิประโยชน์ทางภาษีอากรที่นําของออก
+(ในส่วนของ Export Decalration Detail)</li>
+<li>Free Zone = Y (ในส่วนของ Export Declaration Detail)</li>
+<li>ระบบจะตรวจสอบว่าเลขประจําตัวผู้เสียภาษีอากรของผู้ส่งของออกต้องเท่ากับเลขประจําตัว
+ผู้เสียภาษีอากรที่จดทะเบียนผู้ ประกอบการในเขตปลอดอากร หรือที่ผู้ ประกอบการใน
+เขตปลอดอากรได้แจ้งอนุญาตไว้ในระบบทะเบียนผู้ใช้สิทธิประโยชน์ทางภาษีอากร</li>
+<li>Privilege Code = 003</li>
+<li>Export Tariff = 9PART3</li>
+<li>Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก</li>
+</ul></p>
+</div>
+</div>
+
+
+<div class="book-collapsible">
+<button class="collapsible">เขตประกอบการเสรี (I-EAT)</button>
+<div class="content">
+  <p><h2 id="เขตประกอบการเสร-i-eat">เขตประกอบการเสรี (I-EAT)</h2>
+
+<p><strong>ส่งออกจากเขตประกอบการเสรี (I-EAT) ไปต่างประเทศ</strong></p>
+
+<ul>
+<li>Export Tax Incentives ID = เลขทะเบียนผู้ใช้สิทธิประโยชน์ทางภาษีอากรที่นําของออก (ใน
+ส่วนของ Export Decalration Detail)</li>
+<li>I-EAT Free Zone = Y (ในส่วนของ Export Declaration Detail)</li>
+<li>ระบบจะตรวจสอบว่าเลขประจําตัวผู้เสียภาษีอากรของผู้ส่งของออกต้องเท่ากับเลขประจําตัว
+ผู้เสียภาษีอากรที่จดทะเบียนผู้ประกอบการในเขตประกอบการเสรีหรือที่ผู้ประกอบการใน
+เขตประกอบการเสรีได้แจ้งอนุญาตําว้ในระบบทะเบียนผู้ใช้สิทธิประโยชน์ทางภาษีอากร</li>
+<li>Privilege Code = 003</li>
+<li>Export Tariff = 9PART3</li>
+<li>Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก</li>
+</ul></p>
+</div>
+</div>
+
+
+<div class="book-collapsible">
+<button class="collapsible">ชดเชยค่าภาษีอากร</button>
+<div class="content">
+  <p><h2 id="ชดเชยค-าภาษ-อากร">ชดเชยค่าภาษีอากร</h2>
+
+<ul>
+<li>Compensation = Y (ในส่วนของ Export Declaration Detail)</li>
+<li>Privilege Code = 003</li>
+<li>Export Tariff = 9PART3</li>
+<li>Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก</li>
+</ul></p>
+</div>
+</div>
+
+
+<div class="book-collapsible">
+<button class="collapsible">ส่งเสริมการลงทุน BOI</button>
+<div class="content">
+  <p><h2 id="ส-งเสร-มการลงท-น-boi">ส่งเสริมการลงทุน BOI</h2>
+
+<ul>
+<li>BOI = Y (ในส่วนของ Export Declaration Detail)</li>
+<li>Privilege Code = 003</li>
+<li>Export Tariff = 9PART3</li>
+<li>Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก</li>
+<li>BOI License No = เลขที่บัตรส่งเสริมการลงทุน BOI</li>
+<li>กรณีมีการโอนสิทธิ์ BOI ให้ใช้สําเนาใบขนสินค้าขาออกฉบับพิมพ์จากผู้ส่งของออกโดยระบุวันที่
+รับบรรทุก (Load Date) พร้อมแสดงรายการการโอนสิทธิ์ BOI ด้วย</li>
+</ul></p>
+</div>
+</div>
+
+
+          </div>    
+ <br> 
+
+
+          
+          <div class="article-widget">
+            
+<div class="post-nav">
+  
+  
+  
+  <div class="post-nav-item box ">
+    
+    <div class="meta-nav meta-prev">Previous <br>
+    <a href="/KM/customs/customs/import-export/export/guide/4.part-4/" rel="next">การยกเว้นอากรตามภาค 4</a></div>
+  </div>
+  
+  
+  
+  <div class="post-nav-item box">
+    <div class="meta-nav meta-next">Next <i class=" fas fa-angle-double-right fa-lg"></i><br>
+    <a href="/KM/customs/customs/import-export/export/guide/6.check-data-declalation/" rel="prev">การตรวจสอบข้อมูลใบขนสินค้าขาออก</a></div>
+  </div>
+  
+  <br>
+  <br>
+</div>
+
+          </div>
+          
+        </div>
+
+       
+     
+       
+        <div class="body-footer">
+         
+         <br>
+         <p>Last Update : <span> Oct 28, 2020</span></p>
+        </div>
+            </article>
+
+      <footer class="site-footer">
+
+ <div class="back-to-top"></div>
+
+  <div class="container">
+    
+    <div class="row">
+      <div class="col-md-6">
+        
+        <p>
+          ECS@Support&copy;2021 &middot; 
+          Powered by
+          <a href="https://themefisher.com" target="_blank" rel="noopener">themefisher</a> for
+          <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+        </p>
+      </div>
+      <div class="col-md-6">
+       
+        <ul class="list-inline network-icon text-right">
+         
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+           
+            <a href="https://twitter.com/Twitter" target="_blank" rel="noopener" title="DM Me"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+           
+            <a href="skype:echo123?call"  title="Skype Me"><i class="fab fa-skype" aria-hidden="true"></i></a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+           
+            <a href="https://keybase.io/" target="_blank" rel="noopener" title="Chat on Keybase"><i class="fab fa-keybase" aria-hidden="true"></i></a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+           
+            <a href="https://discourse.gohugo.io" target="_blank" rel="noopener" title="Discuss on Forum"><i class="fas fa-comments" aria-hidden="true"></i></a>
+          </li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+
+    </main>
+  </div>
+</div>
+
+
+      
+
+    
+    
+    
+    <script src="/KM/customs/js/mathjax-config.js"></script>
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/python.min.js"></script>
+        
+      
+
+      
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/KM/customs/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "FAQ."
+        };
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.1/anchor.min.js" integrity="sha256-pB/deHc9CGfFpJRjC43imB29Rse8tak+5eXqntO94ck=" crossorigin="anonymous"></script>
+    <script>
+      anchors.add();
+    </script>
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/KM/customs/js/academia.min.45c30a843c60afcb32b594962a674fd8.js"></script>
+
+    
+
+
+
+
+
+
+
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
