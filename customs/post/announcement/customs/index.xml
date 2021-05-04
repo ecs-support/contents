@@ -374,7 +374,10 @@
 
 &lt;h2 id=&#34;สร-ปสาระสำค-ญ&#34;&gt;&lt;em&gt;สรุปสาระสำคัญ&lt;/em&gt;&lt;/h2&gt;
 
-&lt;p&gt;&lt;strong&gt;“ใบขนสินค้าวางประกัน”&lt;/strong&gt; หมายความว่า ใบขนสินค้าขาเข้าวางประกันปัญหาพิกัดอัตราศุลกากร&lt;/p&gt;
+&lt;blockquote class=&#34;book-hint &#34;&gt;
+  &lt;strong&gt;“ใบขนสินค้าวางประกัน”&lt;/strong&gt; หมายความว่า ใบขนสินค้าขาเข้าวางประกันปัญหาพิกัดอัตราศุลกากร
+&lt;/blockquote&gt;
+
 
 &lt;h3 id=&#34;การวางประก-น&#34;&gt;การวางประกัน&lt;/h3&gt;
 
@@ -1563,7 +1566,9 @@
 &lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;div class=&#34;toc-contents&#34;&gt;
+    &lt;div class=&#34;head-toc&#34;&gt;
     &lt;h2&gt;Contents&lt;/h2&gt;
+    &lt;/div&gt;
 HAHAHUGOSHORTCODE-TOC0-HBHB
 &lt;/div&gt;
 
