@@ -32,6 +32,7 @@
  <div class='container'>
      <h1>Operating System and Version</h1><br>
      <p id="display"></p>
+     <p id="demo"></p>
  </div>
     <script>
        var txt = "";
@@ -45,6 +46,24 @@
        txt += "<p>User-agent header: " + navigator.userAgent + "</p>";
 
        document.getElementById("display").innerHTML = txt;
+       var x = document.getElementById("demo");
+       getLocation()
+
+       function getLocation() {
+       if (navigator.geolocation) {
+       navigator.geolocation.getCurrentPosition(showPosition);
+       
+       } else {
+       x.innerHTML = "Geolocation is not supported by this browser.";
+       }
+       }
+
+       function showPosition(position) {
+       x.innerHTML = "Latitude: " + position.coords.latitude.toFixed(4) +
+       "<br>Longitude: " + position.coords.longitude.toFixed(4);
+       
+       }
+
     </script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
