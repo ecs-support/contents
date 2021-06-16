@@ -7,7 +7,7 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
-    <lastBuildDate>Sun, 16 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ecs-support.github.io/KM/customs/pages/index.xml" rel="self" type="application/rss+xml" />
     
@@ -1101,6 +1101,15 @@
 &lt;/blockquote&gt;
 
 </description>
+    </item>
+    
+    <item>
+      <title>คลังความรู้ ( Knowledge Source)</title>
+      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/</guid>
+      <description></description>
     </item>
     
   </channel>
