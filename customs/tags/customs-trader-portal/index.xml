@@ -18,9 +18,12 @@
       <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/news/2021-06-29/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./newspng_Page1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./newspng_Page2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./newspng_Page1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./newspng_Page2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 
 
 
@@ -30,8 +33,9 @@
 &lt;/div&gt;
 &lt;br&gt;
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232932404e505f49464b49464b4c&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232932404e505f49464b49464b4c&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
