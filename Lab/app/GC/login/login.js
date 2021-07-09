@@ -5,15 +5,15 @@ function validate() {
   var username = document.getElementById("username").value;
   var password = document.getElementById("password").value;
 
-
+  password = password.toLowerCase();
   if (username ==  password) {
-    if (username = 'customs') {
+    if (username == 'customs') {
      window.location =
         "https://docs.google.com/forms/d/e/1FAIpQLSfwTVWo9jhgUTki1SHaFbzodLJ1qjc7Y28HUylYU_h6vU2PwQ/viewform?entry.1732401284=GCL+CUSTOMS+TEAM";
-    } else if (username = 'transport') {
+    } else if (username == 'transport') {
      window.location =
         "https://docs.google.com/forms/d/e/1FAIpQLSfwTVWo9jhgUTki1SHaFbzodLJ1qjc7Y28HUylYU_h6vU2PwQ/viewform?entry.1732401284=GCL+TRANSPORT+TEAM";
-    } else if (username = 'shipping') {
+    } else if (username == 'shipping') {
      window.location =
         "https://docs.google.com/forms/d/e/1FAIpQLSfwTVWo9jhgUTki1SHaFbzodLJ1qjc7Y28HUylYU_h6vU2PwQ/viewform?entry.1732401284=RYS+SHIPPING";
     } else {
