@@ -1,0 +1,977 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academia 4.3.1">
+  <meta name="generator" content="Hugo 0.83.1" />
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Administrator">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="สำหรับหลายๆ คนที่ทำงานทางด้าน Security ที่เน้นแต่ด้าน Technical เป็นหลักนั้นอาจจะไม่ค่อยรู้จักและไม่ค่อยศรัทธาในมาตรฐาน ISO 27001 หรือ Information Security Management System มากนัก เนื่องจากมาตรฐาน ISO มักถูกมองว่าเป็นสิ่งที่เพิ่มงานเพราะต้องมีการจัดทำเอกสารต่างๆ มากมาย แตกต่างจากมาตรฐานหรือข้อแนะนำต่างๆ เช่น SANS Top 20 Critical Controls ที่เน้นเรื่องการจัดการด้าน Technical เป็นหลัก
+ในความเป็นจริงแล้วมาตรฐาน ISO 27001 นี้มีข้อกำหนดต่างๆ ที่เกี่ยวข้องกับการปรับปรุงระบบ Security มากมายไม่เพียงมีแค่เรื่องเอกสารเท่านั้น ยังมีเรื่องของการจัดทำ Process และการปรับปรุงทางด้าน Technical ด้วยโดยบทความนี้จะมุ่งเน้นไปที่ Technical Control ของมาตรฐาน ISO 27001 เป็นหลัก เพื่อแสดงให้เห็นว่าการทำ ISO 27001 นั้นมีประโยชน์อย่างไรบ้างในเชิง Technical
+ข้อกำหนด A.7 Human Resource Security
+ข้อกำหนดนี้กล่าวถึงการจัดการของฝ่าย HR ซึ่งเริ่มจากการรับพนักงานจะต้องมีการตรวจสอบประวัติพนักงานก่อนเข้ารับทำงาน การให้ความรู้เกี่ยวกับ Information Security ให้กับพนักงานภายในองค์กรเพื่อไม่ให้พนักงานตกเป็นเหยื่อของอาชญากรรมทางไซเบอร์ (Cyber Crime) รวมไปถึงการจัดการต่างๆ หลังจากสิ้นสุดการจ้างงาน
+สิ่งเหล่านี้จะช่วยเหลือได้อย่างไรบ้างในเชิง Technical
+สำหรับในมุมมองคนทำงานทางด้าน IT ที่เน้นแต่เรื่อง Technical นั้นอาจจะเผลอมองข้ามเรื่องเหล่านี้ได้ง่าย ภัยคุกคามทางด้านเทคนิค (Technical Threat) ที่อาจเกิดขึ้นต่อองค์กรหากไม่มีการบริหารจัดการเรื่องทรัพยากรบุคคลอย่างเหมาะสมได้แก่">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://ecs-support.github.io/KM/customs/pages/knowledge/iso/hacker_view/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#fc6f5c">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kanit:400,700|Sarabun|Roboto+Mono&display=swap">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/KM/customs/css/academia.min.a258feb8d52b6963ac3356c455353fa9.css">
+
+  
+    
+    
+    
+    
+      
+    
+    
+    
+    <link rel="stylesheet" href="/KM/customs/css/academia.e0857e9df00923f4ff7bfea09c9f5335.css">
+  
+
+  
+  
+  
+
+  
+
+  <link rel="manifest" href="/KM/customs/site.webmanifest">
+  <link rel="icon" type="image/png" href="/KM/customs/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/KM/customs/img/icon-192.png">
+
+  <link rel="canonical" href="https://ecs-support.github.io/KM/customs/pages/knowledge/iso/hacker_view/">
+
+  
+  
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="ECS">
+  <meta property="og:url" content="https://ecs-support.github.io/KM/customs/pages/knowledge/iso/hacker_view/">
+  <meta property="og:title" content="มุมมองของแฮ็กเกอร์เกี่ยวกับมาตรฐาน ISO 27001 | ECS">
+  <meta property="og:description" content="สำหรับหลายๆ คนที่ทำงานทางด้าน Security ที่เน้นแต่ด้าน Technical เป็นหลักนั้นอาจจะไม่ค่อยรู้จักและไม่ค่อยศรัทธาในมาตรฐาน ISO 27001 หรือ Information Security Management System มากนัก เนื่องจากมาตรฐาน ISO มักถูกมองว่าเป็นสิ่งที่เพิ่มงานเพราะต้องมีการจัดทำเอกสารต่างๆ มากมาย แตกต่างจากมาตรฐานหรือข้อแนะนำต่างๆ เช่น SANS Top 20 Critical Controls ที่เน้นเรื่องการจัดการด้าน Technical เป็นหลัก
+ในความเป็นจริงแล้วมาตรฐาน ISO 27001 นี้มีข้อกำหนดต่างๆ ที่เกี่ยวข้องกับการปรับปรุงระบบ Security มากมายไม่เพียงมีแค่เรื่องเอกสารเท่านั้น ยังมีเรื่องของการจัดทำ Process และการปรับปรุงทางด้าน Technical ด้วยโดยบทความนี้จะมุ่งเน้นไปที่ Technical Control ของมาตรฐาน ISO 27001 เป็นหลัก เพื่อแสดงให้เห็นว่าการทำ ISO 27001 นั้นมีประโยชน์อย่างไรบ้างในเชิง Technical
+ข้อกำหนด A.7 Human Resource Security
+ข้อกำหนดนี้กล่าวถึงการจัดการของฝ่าย HR ซึ่งเริ่มจากการรับพนักงานจะต้องมีการตรวจสอบประวัติพนักงานก่อนเข้ารับทำงาน การให้ความรู้เกี่ยวกับ Information Security ให้กับพนักงานภายในองค์กรเพื่อไม่ให้พนักงานตกเป็นเหยื่อของอาชญากรรมทางไซเบอร์ (Cyber Crime) รวมไปถึงการจัดการต่างๆ หลังจากสิ้นสุดการจ้างงาน
+สิ่งเหล่านี้จะช่วยเหลือได้อย่างไรบ้างในเชิง Technical
+สำหรับในมุมมองคนทำงานทางด้าน IT ที่เน้นแต่เรื่อง Technical นั้นอาจจะเผลอมองข้ามเรื่องเหล่านี้ได้ง่าย ภัยคุกคามทางด้านเทคนิค (Technical Threat) ที่อาจเกิดขึ้นต่อองค์กรหากไม่มีการบริหารจัดการเรื่องทรัพยากรบุคคลอย่างเหมาะสมได้แก่"><meta property="og:image" content="https://ecs-support.github.io/KM/customs/img/icon-192.png">
+  <meta property="twitter:image" content="https://ecs-support.github.io/KM/customs/img/icon-192.png"><meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2021-06-16T00:00:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2021-06-22T22:40:48&#43;07:00">
+  
+
+  
+
+
+  
+
+
+
+
+
+  <title>มุมมองของแฮ็กเกอร์เกี่ยวกับมาตรฐาน ISO 27001 | ECS</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/KM/customs/"><img src="/KM/customs/img/logo.png" alt="ECS"></a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation"><span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/#hero"><span>หน้าแรก</span></a>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>พิธีการศุลกากร</span><span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu">
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/pages/import/"><span>การนำเข้าสินค้า</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/pages/export/"><span>การส่งออกสินค้า</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/pages/transit/"><span>สินค้าถ่ายลำ/ผ่านแดน</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/pages/tax-inc/"><span>สิทธิประโยชน์ทางภาษี</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/pages/fta/"><span>สิทธิพิเศษทางการค้า</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/pages/ata-carnet/"><span>A.T.A. CARNET</span></a>
+            </li>
+            
+          </ul>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>เรื่องน่ารู้</span><span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu">
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/pages/restricted/"><span>ของควบคุมการนำเข้า-ส่งออก</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/pages/tariff/"><span>พิกัดศุลกากร</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/pages/price/"><span>ราคาศุลกากร</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/pages/customs/"><span>กรมศุลกากร</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/pages/company/"><span>ผู้ประกอบการ</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="https://ecs-support.github.io/KM/reference/"><span>Reference data</span></a>
+            </li>
+            
+          </ul>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>ประกาศ/กฎหมาย</span><span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu">
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/post/announcement/customs/"><span>ประกาศกรมศุลกากร</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/post/announcement/ministry/"><span>ประกาศกระทรวง</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/post/announcement/oga/"><span>ประกาศหน่วยงานอื่น ๆ</span></a>
+            </li>
+            
+          </ul>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>ข่าวสาร/บทความ</span><span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu">
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/post/knowledge/"><span>สาระความรู้</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/post/news/"><span>ข่าวสาร</span></a>
+            </li>
+            
+          </ul>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>คลังความรู้</span><span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu">
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/pages/knowledge/iso/"><span>ISO-20007</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/docs/"><span>เอกสารเผยแพร่</span></a>
+            </li>
+            
+          </ul>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/faq/"><span>FAQ</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  
+
+<button id="myBtn" onclick="topFunction()" title="Go to top"><i class="fas fa-chevron-up"></i></button>
+
+
+
+<div class="container-fluid docs">
+  <div class="row flex-xl-nowrap">
+    
+    <div class="col-12 col-md-4 col-xl-4 docs-sidebar">
+    
+      
+    
+
+
+
+
+
+<form class="docs-search d-flex align-items-center">
+  <button class="btn docs-toggle d-md-none p-0 mr-3" type="button" data-toggle="collapse" data-target="#docs-nav"
+    aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    <span><i class="fas fa-bars"></i></span>
+  </button>
+
+  
+  <input name="q" type="search" class="form-control" id="search-query" placeholder="Search..."
+    autocomplete="off">
+  
+</form>
+
+<nav class="collapse docs-links" id="docs-nav">
+  
+  
+  
+  <div class="docs-toc-item ">
+    <a class="docs-toc-link series-head" href="/KM/customs/pages/knowledge/iso/" >มาตรฐาน ISO-27001</a>
+    <ul class="nav docs-sidenav series-item">
+      
+      <li >
+        <a id="txt_side" href="/KM/customs/pages/knowledge/iso/">Introduction</a>
+      </li>
+      
+      <li >
+        <a id="txt_side" href="/KM/customs/pages/knowledge/iso/structure/">โครงสร้างระบบ</a>
+      </li>
+      
+      <li >
+        <a id="txt_side" href="/KM/customs/pages/knowledge/iso/guidelines/">แนวทางและคำแนะนำในการปฏิบัติ</a>
+      </li>
+      
+      <li >
+        <a id="txt_side" href="/KM/customs/pages/knowledge/iso/concept/">แนวความคิดและทฤษฎีที่เกี่ยวข้อง</a>
+      </li>
+      
+      <li class="active" id="series-border" >
+        <a id="txt_side" href="/KM/customs/pages/knowledge/iso/hacker_view/">มุมมองของแฮ็กเกอร์เกี่ยวกับ ISO 27001</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  
+</nav>
+
+    </div>
+
+
+    
+    <main class="col-12 col-md-8 col-xl-8 py-md-3 pl-md-5 docs-content series-content" role="main">
+    
+
+   
+
+ 
+
+      <article class="article" itemscope itemtype="http://schema.org/Article">
+
+        <div class="container-fluid docs-article-container">
+         
+          <h1 id = "title_underline" itemprop="name">มุมมองของแฮ็กเกอร์เกี่ยวกับมาตรฐาน ISO 27001     
+      
+          </h1>
+         
+
+
+
+       
+
+          <div class="article-style" itemprop="articleBody">
+            <p><img src="../img/anonymous.jpg" alt=""></p>
+<p>สำหรับหลายๆ คนที่ทำงานทางด้าน Security ที่เน้นแต่ด้าน Technical เป็นหลักนั้นอาจจะไม่ค่อยรู้จักและไม่ค่อยศรัทธาในมาตรฐาน ISO 27001 หรือ Information Security Management System มากนัก เนื่องจากมาตรฐาน ISO มักถูกมองว่าเป็นสิ่งที่เพิ่มงานเพราะต้องมีการจัดทำเอกสารต่างๆ มากมาย แตกต่างจากมาตรฐานหรือข้อแนะนำต่างๆ เช่น SANS Top 20 Critical Controls ที่เน้นเรื่องการจัดการด้าน Technical เป็นหลัก</p>
+<p>ในความเป็นจริงแล้วมาตรฐาน ISO 27001 นี้มีข้อกำหนดต่างๆ ที่เกี่ยวข้องกับการปรับปรุงระบบ Security มากมายไม่เพียงมีแค่เรื่องเอกสารเท่านั้น ยังมีเรื่องของการจัดทำ Process และการปรับปรุงทางด้าน Technical ด้วยโดยบทความนี้จะมุ่งเน้นไปที่ Technical Control ของมาตรฐาน ISO 27001 เป็นหลัก เพื่อแสดงให้เห็นว่าการทำ ISO 27001 นั้นมีประโยชน์อย่างไรบ้างในเชิง Technical</p>
+<p><strong>ข้อกำหนด</strong> <strong>A.7 Human Resource Security</strong></p>
+<p>ข้อกำหนดนี้กล่าวถึงการจัดการของฝ่าย HR ซึ่งเริ่มจากการรับพนักงานจะต้องมีการตรวจสอบประวัติพนักงานก่อนเข้ารับทำงาน การให้ความรู้เกี่ยวกับ Information Security ให้กับพนักงานภายในองค์กรเพื่อไม่ให้พนักงานตกเป็นเหยื่อของอาชญากรรมทางไซเบอร์ (Cyber Crime) รวมไปถึงการจัดการต่างๆ หลังจากสิ้นสุดการจ้างงาน</p>
+<p>สิ่งเหล่านี้จะช่วยเหลือได้อย่างไรบ้างในเชิง Technical</p>
+<p>สำหรับในมุมมองคนทำงานทางด้าน IT ที่เน้นแต่เรื่อง Technical นั้นอาจจะเผลอมองข้ามเรื่องเหล่านี้ได้ง่าย ภัยคุกคามทางด้านเทคนิค (Technical Threat) ที่อาจเกิดขึ้นต่อองค์กรหากไม่มีการบริหารจัดการเรื่องทรัพยากรบุคคลอย่างเหมาะสมได้แก่</p>
+<ul>
+<li>บริษัทคู่แข่งสามารถส่งพนักงานมาสมัครงาน เพื่อมาเป็นหนอนบ่อนไส้ภายในองค์กร ขโมยข้อมูลต่างๆ และส่งผลเสียต่อบริษัทได้ ซึ่งการส่งพนักงานเข้ามาแทรกซึมนี้อาจจะทำทางอ้อมได้โดยการสมัครงานเป็นพนักงานทำความสะอาด จากนั้นก็แอบเสียบอุปกรณ์ดักจับข้อมูล เช่น Key Logger ไว้เพื่อขโมยรหัสผ่านของพนักงาน</li>
+<li>พนักงานของบริษัทที่ขาดความรู้ความเข้าใจในเรื่องภัยคุกคามทางไซเบอร์นั้น อาจจะมองข้ามเรื่องเล็กๆ น้อยๆ ไปเช่น ในบางการโจมตีนั้นบริษัทคู่แข่งหรือกลุ่มแฮกเกอร์ที่ต้องการโจมตีองค์กรเหยื่อ ลงทุนจัด Booth โฆษณาสินค้าและเรียกให้พนักงานขององค์กรเหยื่อมาร่วมเล่นเกม จากนั้นให้รางวัลเป็น Thumbdrive (ซึ่งมี Malware ติดอยู่ด้วย) เมื่อเหยื่อได้รับ Thumbdrive ไปแล้วก็นำไปใช้งานกับคอมพิวเตอร์ขององค์กร ซึ่งแน่นอนว่าเป็นการ Bypass Security Infrastructure ที่องค์กรลงทุนไปทั้งหมดอย่างง่ายดาย วิธีการนี้เป็นรูปแบบหนึ่งของการโจมตีที่เรียกว่า Social Engineering</li>
+</ul>
+<p><strong>ข้อกำหนด</strong> <strong>A.9 Access Control</strong></p>
+<p>ข้อกำหนดนี้กล่าวถึง Logical Security ของการเข้าใช้งานของ User ซึ่งจะต้องมีการสรุปนโยบายการเข้าใช้งาน, นโยบายการกำหนดรหัสผ่าน, กระบวนการต่างๆ ในการควบคุมจัดการ User, การจัดการสิทธิ์ของ User</p>
+<p>สิ่งเหล่านี้จะช่วยเหลือได้อย่างไรบ้างในเชิง Technical</p>
+<p>เรื่องของการจัดการ Access Control นั้นดูเหมือนเป็นเรื่องง่ายสำหรับผู้ที่มีประสบการณ์ทางด้าน Technical ทั้งนี้เพราะอุปกรณ์ หรือ ระบบใหม่ๆ มักมีระบบ Access ControlBuilt-in มาอยู่แล้ว แต่จริงๆ แล้วเรื่องการจัดการ Access Control มีเรื่องจุกจิกที่จะต้องใส่ใจอยู่อีกมาก เพราะการ Enforce Policy ต่างๆ นั้นจะกระทบกับผู้ใช้งานทั้งองค์กร อาจทำให้เกิดการต่อต้านได้ ซึ่งหากไม่มีการควบคุมจัดการให้ดีอาจเกิดปัญหา เช่น</p>
+<ul>
+<li>การกำหนดวิธีการตรวจสอบตัวตน (Authentication) ก่อนอนุญาตให้เข้าใช้งานโดยทั่วไปที่ใช้กันคือการใช้รหัสผ่าน ซึ่งถือว่าเป็นการตรวจสอบตัวตนที่มีความปลอดภัยต่ำสุด และใช้เงินลงทุนน้อยที่สุด หากไม่มีการบังคับควบคุมจัดการรหัสผ่านอย่างเหมาะสม เช่น การบังคับใช้ Password policy, การตั้ง clipping level ก็จะอำนวยความสะดวกให้กับผู้ร้ายสามารถโจมตีระบบได้อย่างง่ายดายขึ้น โดยเฉพาะระบบที่สามารถเข้าถึงได้จาก Internet ผู้ร้ายก็สามารถใช้วิธีการพรางตัวต่างๆ นานา ร่วมกับการทำ Brute force attack หรือ Dictionary attack ก็มีโอกาสสูงที่จะโจมตีได้สำเร็จและยากที่จะติดตามหาตัวคนร้ายได้ ซึ่งวิธีการ Brute force นี้ได้มีการกล่าวถึงในรายงานที่ชื่อว่า “World War C: Understanding Nation-State Motives Behind Today’s Advanced Cyber Attack” ของบริษัท FireEye ซึ่ง Report นี้วิเคราะห์ถึงเทคนิค และการแรงจูงใจของแต่ละประเทศที่มีการทำสงครามทางไซเบอร์ ว่าประเทศจีนซึ่งเป็นประเทศที่มีคนเยอะแต่ความสามารถยังไม่สูงมากนักชอบใช้วิธีนี้ในการโจมตีเป้าหมาย หากใครสนใจเรื่อง Cyber Warfare รายงานฉบับนี้ถือว่าน่าสนใจมากครับ</li>
+</ul>
+<p><strong>ข้อกำหนด</strong> <strong>A.11 Physical and environmental security</strong></p>
+<p>ข้อกำหนดนี้กล่าวถึงการจัดการทางด้านกายภาพ ทั้งในเรื่องของการควบคุมพื้นที่ที่เกี่ยวข้องกับบุคลากรที่อยู่ใน Scope รวมถึงพื้นที่ของ Data Center, พื้นที่เข้าออกที่สำคัญขององค์กร, พื้นที่ทำงานของบุคลากร และเรื่องการจัดการทางกายภาพของอุปกรณ์ต่างๆ ที่เกี่ยวข้อง</p>
+<p>สิ่งเหล่านี้จะช่วยเหลือได้อย่างไรบ้างในเชิง Technical</p>
+<p>เรื่องของการควบคุมการเข้าถึงอุปกรณ์ต่างๆ นั้น ผู้ที่ทำงานที่เกี่ยวกับ Technical เป็นหลักนั้นอาจจะเน้นไปที่ Logical Security อย่างเดียว แต่ในความจริงนั้น Physical Security เองก็มีความสำคัญเช่นเดียวกัน หากไม่บริหารจัดการให้เรียบร้อยอาจเกิดปัญหาได้ เช่น</p>
+<ul>
+<li>การทำลายหรือการลบข้อมูลที่ไม่เหมาะสมบนอุปกรณ์เก็บข้อมูล เช่น Harddisk, Thumbdrive ถ้าลบข้อมูลด้วยวิธีการปกติจะมีโอกาสสูงมากที่จะกู้ข้อมูลเหล่านั้นกลับขึ้นมาได้ ซึ่งวิธีการกู้ข้อมูลเหล่านี้เป็นวิธีหนึ่งในกระบวนการทำ Forensics แต่มักถูกนำมาใช้ในทางไม่ดี เช่น กรณีที่มี Clip ส่วนตัวหลุดจากโทรศัพท์มือถือที่นำไปซ่อม หรือขายมือสองตามร้าน สำหรับคนที่ขาดความรู้ไม่ระมัดระวัง อาจพลั้งเผลอทำอุปกรณ์เก็บข้อมูลหายไป แล้วคิดว่าไม่น่าจะมีปัญหาอะไร เนื่องจากได้ลบข้อมูลที่สำคัญออกเรียบร้อยแล้ว คงจะต้องคิดใหม่เพราะนั่นอาจเป็นสิ่งที่นำความเสียหายมาสู่องค์กรก็เป็นได้</li>
+<li>อีกปัญหาที่หลายองค์กรเจอกันเป็นประจำนั่นก็คือ พนักงานทำเครื่อง Laptop ที่มีข้อมูลขององค์กรอยู่หาย หรือ อาจจะถูกขโมย ในความเป็นจริงแล้วหากบริษัทคู่แข่งต้องการขโมยข้อมูลขององค์กร มีหลายวิธีให้เลือกใช้ อาจจะไม่จำเป็นต้องจ้าง Hacker ราคาแพงเพื่อขโมยข้อมูลผ่านทาง Internet ในทางกลับกันบริษัทคู่แข่งอาจเลือกใช้วิธีการสร้างสถานการณ์ให้ดูเหมือนเป็นการวิ่งราว หรือ อาจจะถึงขั้นลงมือทำร้ายร่างกาย (อย่าลืมว่าผู้ร้ายไม่จำเป็นต้องเลือกวิธีใช้ในการโจมตี) ทำให้ดูเหมือนเป็นการวิ่งราวปกติ แต่เป้าหมายที่แท้จริงคือการขโมย Laptop เพื่อนำมาวิเคราะห์หาข้อมูลที่สำคัญก็เป็นได้ หากองค์กรไม่มีการป้องกันที่ดีพอ เช่น การใช้ Harddisk Encryption Solution ข้อมูลที่สำคัญขององค์กรอาจจะตกอยู่ในมือของบริษัทคู่แข่งได้อย่างง่ายดาย</li>
+<li>การเดินสาย Network Cable ไม่เรียบร้อยในองค์กร อาจทำให้องค์กรเสี่ยงต่อการดักจับข้อมูล (Sniffing Data) เนื่องจากผู้ร้ายสามารถใช้อุปกรณ์ประเภท Vampire Tap ซึ่งเป็นอุปกรณ์พิเศษที่สามารถเจาะเข้าสาย LAN เพื่อทำการดักจับข้อมูลที่ส่งผ่าน Network Cable</li>
+<li>อีกรูปแบบการโจมตี หรือ วิธีการค้นหาข้อมูล ที่น่าสนใจที่เรียกว่า OSINT (Open Source Intelligence) ซึ่งหมายถึงวิธีการใช้ข้อมูลจาก Public Database ต่างๆ เพื่อทำการวิเคราะห์ Security Control ของบริษัท เช่น การใช้ Google Street View เพื่อสอดส่องดู Physical Security ของพื้นที่เป้าหมาย หรือ ค้นหาข้อมูลที่น่าสนใจก่อนการเข้าโจมตี ซึ่งด้วยวิธีการนี้เป้าหมายจะไม่สามารถรู้ตัวได้เลยว่ามีผู้ร้ายกำลังเฝ้าดูอยู่ การทำ Physical Security Control จะช่วยให้มีการตรวจสอบว่ารอบๆ องค์กรนั้นมีเอกสารหรือมีอะไรที่แพร่งพรายข้อมูลขององค์กรออกไปหรือไม่ เช่น มีอะไรที่บ่งบอกว่า Data Center อยู่ที่ไหนของตึกเป็นต้น</li>
+</ul>
+<p><strong>ข้อกำหนด</strong> <strong>A.12 Operations Security</strong></p>
+<p>ข้อกำหนดนี้กล่าวถึงการปฏิบัติงานอย่างมั่นคงปลอดภัย ซึ่งกล่าวถึงกระบวนการต่างๆ ที่ต้องจัดทำเพื่อให้เกิดความมั่นคงปลอดภัย เช่น การทำ Change Management, การทำ Data Backup, การจัดเก็บและตรวจสอบ Log อย่างสม่ำเสมอ ถ้าขาดกระบวนการเหล่านี้ไปอาจก่อให้เกิดความเสียหายต่อองค์กรได้</p>
+<p>สิ่งเหล่านี้จะช่วยเหลือได้อย่างไรบ้างในเชิง Technical</p>
+<p>การดำเนินการควบคุมการปฏิบัติงานอย่างมั่นคงปลอดภัยให้เหมาะสมนั้นถือเป็นหัวใจหลักในการป้องกันระบบให้มีความปลอดภัย หากไม่บริหารจัดการให้เรียบร้อยอาจเกิดปัญหาได้ เช่น</p>
+<ul>
+<li>เรื่องการเก็บข้อมูลสำรอง (Data Backup) เมื่อไม่นานมานี้มี Malware ชนิดใหม่ที่เรียกว่า Ransomware หรือ มัลแวร์ประเภทที่เรียกค่าไถ่ Ransomwareที่ว่านี้หลายคนอาจรู้จักในชื่อของ Cryptolockerซึ่งหากเครื่องคอมพิวเตอร์ติด Cryptolocker แล้ว Cryptolocker จะทำการเข้ารหัส (Encrypt) File บนเครื่องทั้งหมดยกเว้น System Files และ File ที่มีนามสกุล .exe พร้อมกับแสดงข้อความแจ้งให้ผู้ใช้งานส่งเงินไปให้ Hacker เพื่อขอ Encryption Key มาทำการ Decrypt File คืน หากไม่ส่งเงินให้ภายในจำนวนวันที่กำหนด ผู้ใช้งานจะไม่มีโอกาสกู้ File คืนได้อีก ซึ่งหาก File นั้นเป็น File ที่มีความสำคัญต่อองค์กรแล้ว มูลค่าความเสียหายอาจจะไม่สามารถนับได้ ซึ่งหลังจาก Cryptolocker ออกอาละวาด หลายองค์กรจึงเริ่มให้ความสำคัญกับการสำรองข้อมูลมากขึ้น</li>
+<li>การควบคุมจัดการช่องโหว่ทางเทคนิค ต้องมีการจัดการให้เหมาะสม เช่น การทำ Hardening, การจัดการ Patch (Patch Management) หรือ การทำการทดสอบเจาะระบบ (Penetration Testing) ซึ่งสิ่งต่างๆ เหล่านี้สามารถช่วยป้องกันการโจมตีจากผู้ประสงค์ร้ายได้ หากไม่ได้มีการจัดการที่ดีพอ เครื่องขององค์กรอาจจะตกเป็นเหยื่อได้ง่ายดาย</li>
+</ul>
+<p>จากข้อมูลที่ผ่านมาซึ่งเป็นแค่บางข้อกำหนดของ ISO 27001 จะเห็นได้ว่าการทำ ISO 27001 นั้นสามารถช่วยยกระดับความมั่นคงปลอดภัยในองค์กรได้ทั้งด้านงานเอกสาร กระบวนการต่างๆ และด้านเทคนิค โดยเฉพาะอย่างยิ่งการสร้างกระบวนการเพื่อบริหารจัดการการควบคุมเชิงเทคนิค (Using systematic process to manage technical security controls) นอกจากข้อกำหนดของISO 27001 แล้วองค์กรควรพิจารณาการควบคุม หรือดำเนินกิจกรรมอื่นเพิ่มเติมที่ไม่ได้กำหนดชัดเจนในข้อกำหนด เช่น การทำ Vulnerability assessment / Penetration testing (ตามข้อกำหนด A.18.2.3 Technical compliance review) และดำเนินการแก้ไขข้อบกพร่องหรือจุดอ่อนที่พบ (ตามข้อกำหนด A.12.6.1 Management of technical vulnerabilities) รวมถึงดำเนินการReview security architecture (ตามข้อกำหนด A.14.2.5 Secure system engineering principles)เพื่อเป็นการยกระดับสถาปัตยกรรมด้านความมั่นคงปลอดภัยขององค์กร</p>
+<blockquote>
+<p>ที่มาบทความ : <a href="https://www.acinfotec.com/2014/12/11/can-iso-27001-help-protect-your-organization-from-cyber-attack-a-hackers-view-on-iso-27001-standard/">AC INFOTEC</a></p>
+</blockquote>
+
+          </div>
+          
+          
+          <div class="article-widget">
+            
+<div class="post-nav">
+     
+     
+    
+    <div class="post-nav-item box ">
+
+        <div class="meta-nav meta-prev">Previous <br>
+            <a href="/KM/customs/pages/knowledge/iso/concept/" rel="next">แนวความคิดและทฤษฎีที่เกี่ยวข้อง</a></div>
+    </div>
+     
+    <br>
+    <br>
+</div>
+          </div>
+          
+
+        
+  </div>
+
+     
+
+ <div class="body-footer">
+
+<br> 
+
+<div class="article-tags">
+  
+ <a class="badge badge-light"
+   href="/KM/customs/tags/"></a>
+  
+</div>
+
+
+
+ 
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+      
+      <img class="portrait mr-3" src="/KM/customs/authors/admin/avatar_hu7b237977ae91ce0a2f834b564f9b5c19_37003_250x250_fill_box_center_2.png" itemprop="image" alt="Avatar">
+    
+
+    <div class="media-body">
+      <h5 class="card-title" itemprop="name"><a href="https://ecs-support.github.io/KM/customs/">Administrator</a></h5>
+      <h6 class="card-subtitle">Support Department</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="/KM/customs/#contact" >
+              <i class="fas fa-envelope"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://twitter.com/GeorgeCushen" target="_blank" rel="noopener">
+              <i class="fab fa-twitter"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ" target="_blank" rel="noopener">
+              <i class="ai ai-google-scholar"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://github.com/gcushen" target="_blank" rel="noopener">
+              <i class="fab fa-github"></i>
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+
+
+
+
+  
+  <h3>Related</h3>
+  <ul>
+    
+    <li><a href="/KM/customs/pages/knowledge/iso/concept/">แนวความคิดและทฤษฎีที่เกี่ยวข้อง</a></li>
+    
+    <li><a href="/KM/customs/pages/knowledge/iso/guidelines/">แนวทางและคำแนะนำในการปฏิบัติ</a></li>
+    
+    <li><a href="/KM/customs/pages/knowledge/iso/structure/">โครงสร้างระบบการบริหารจัดการความมั่นคงปลอดภัยของสารสนเทศ</a></li>
+    
+    <li><a href="/KM/customs/pages/company/register_expire/">รายชื่อตัวแทนออกของและผู้ปฏิบัติงานเกี่ยวกับการออกของ ที่จะหมดอายุในปี พ.ศ. 2564</a></li>
+    
+    <li><a href="/KM/customs/pages/customs/nsw-tracking/">NSW e-Tracking on Mobile</a></li>
+    
+  </ul>
+
+   <br>
+   <p>Last Update : <span> Jun 22, 2021</span></p>
+ </div>
+
+
+  
+       
+    
+
+      </article>
+
+       
+        
+
+    </main>
+  </div>
+
+  </div>
+
+  
+
+      
+
+    
+    
+    
+    <script src="/KM/customs/js/mathjax-config.js"></script>
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/python.min.js"></script>
+        
+      
+
+      
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/KM/customs/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/KM/customs/js/academia.min.0bc91b5e1f8914626f9b48eae417970a.js"></script>
+
+
+    
+    <script src="/KM/customs/js/menutoggle.js"></script>
+
+    
+
+
+
+
+
+
+
+  
+  <div class="container">
+
+ 
+    
+    <footer class="site-footer">
+
+ <div class="back-to-top"></div>
+
+  <div class="container">
+    
+    <div class="row">
+      <div class="col-md-6">
+        
+        <p>
+          ECS@Support©2021 &middot; 
+          Powered by
+          <a href="https://themefisher.com" target="_blank" rel="noopener">themefisher</a> for
+          <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+        </p>
+      </div>
+      <div class="col-md-6">
+       
+        <ul class="list-inline network-icon text-right">
+         
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+           
+            <a href="https://twitter.com/Twitter" target="_blank" rel="noopener" title="DM Me"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+           
+            <a href="skype:echo123?call"  title="Skype Me"><i class="fab fa-skype" aria-hidden="true"></i></a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+           
+            <a href="https://keybase.io/" target="_blank" rel="noopener" title="Chat on Keybase"><i class="fab fa-keybase" aria-hidden="true"></i></a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+           
+            <a href="https://discourse.gohugo.io" target="_blank" rel="noopener" title="Discuss on Forum"><i class="fas fa-comments" aria-hidden="true"></i></a>
+          </li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
