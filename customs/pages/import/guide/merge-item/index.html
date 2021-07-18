@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Source Themes Academia 4.3.1">
-  <meta name="generator" content="Hugo 0.59.1" />
+  <meta name="generator" content="Hugo 0.83.1" />
 
   
 
@@ -92,7 +92,7 @@
     
     
     
-    <link rel="stylesheet" href="/KM/customs/css/academia.7876fa2b1a4d2435c6751a04ff50c405.css">
+    <link rel="stylesheet" href="/KM/customs/css/academia.e0857e9df00923f4ff7bfea09c9f5335.css">
   
 
   
@@ -595,24 +595,22 @@
        
 
           <div class="article-style" itemprop="articleBody">
-            
-
-<ol>
-<li><p><strong>เลขที่บัญชีราคาสินค้า (Invoice  Number)</strong> ให้ระบุค่าตามจริง กรณีการนำเข้าไม่หมดในครั้งเดียว สามารถใช้เลขที่บัญชีราคาสินค้า ในใบขนสินค้าขาเข้าซ้ำได้อีก</p></li>
-
-<li><p><strong>ลำดับรายการในบัญชีราคาสินค้า  (Invoice Item Number)</strong> ให้ระบุค่าตามจริง</p>
-
+            <ol>
+<li>
+<p><strong>เลขที่บัญชีราคาสินค้า (Invoice  Number)</strong> ให้ระบุค่าตามจริง กรณีการนำเข้าไม่หมดในครั้งเดียว สามารถใช้เลขที่บัญชีราคาสินค้า ในใบขนสินค้าขาเข้าซ้ำได้อีก</p>
+</li>
+<li>
+<p><strong>ลำดับรายการในบัญชีราคาสินค้า  (Invoice Item Number)</strong> ให้ระบุค่าตามจริง</p>
 <ul>
 <li>เพื่อเป็นการแจ้งว่ารายการในใบขนสินค้าขาเข้ารายการนี้มาจาก Invoice Number และ Invoice Item Number ใด</li>
 <li>ในแต่ละรายการของใบขนสินค้าขาเข้าสามารถใช้ Invoice Number และ Invoice Item Number ซ้ำกันได้ เช่น กรณีใช้สิทธิ BOI, ใช้สิทธิตามมาตรา 29, สุทธินำกลับ</li>
-</ul></li>
+</ul>
+</li>
 </ol>
-
-<h3 id="หล-กการรวมเอกสาร-invoice-เป-นข-อม-ล-import-declaration-detail">หลักการรวมเอกสาร Invoice เป็นข้อมูล Import Declaration Detail</h3>
-
+<h3 id="หลกการรวมเอกสาร-invoice-เปนขอมล-import-declaration-detail">หลักการรวมเอกสาร Invoice เป็นข้อมูล Import Declaration Detail</h3>
 <ol>
-<li><p>สามารถบันทึกข้อมูลรายละเอียดใบขนสินค้าจัดกลุ่มรายการตาม<em>พิกัดศุลกากร (Tariff Code) และรหัสสถิติสินค้า (Statistical Code)</em> <strong>เดียวกัน</strong>รวมกันได้ภายใต้เงื่อนไข ดังนี้</p>
-
+<li>
+<p>สามารถบันทึกข้อมูลรายละเอียดใบขนสินค้าจัดกลุ่มรายการตาม<em>พิกัดศุลกากร (Tariff Code) และรหัสสถิติสินค้า (Statistical Code)</em> <strong>เดียวกัน</strong>รวมกันได้ภายใต้เงื่อนไข ดังนี้</p>
 <ul>
 <li><strong>ชนิดของภาษาอังกฤษ</strong> (English Description of Goods) และ<strong>ชนิดของภาษาไทย</strong>  (Thai Description of Goods) <strong>เดียวกัน</strong> และ</li>
 <li><strong>ราคาต่อหน่วยเงินต่างประเทศ</strong> (Unit Price Foreign) และ<strong>ราคาต่อหน่วยเงินบาท</strong> (Unit Price Baht) <strong>เท่ากัน</strong> และ</li>
@@ -620,12 +618,11 @@
 <li><strong>รหัสประเทศกำเนิด (Origin Country)</strong> ตามมาตรฐาน ISO <strong>เดียวกัน</strong> และ</li>
 <li><strong>ปีที่ผลิตสินค้า (Product Year)</strong> <strong>เดียวกัน</strong> และ</li>
 <li><strong>พิกัดสรรพสามิต</strong> (Excise No) รวมถึง<strong>ปริมาณที่ใช้ในการคำนวณภาษีสรรพสามิต</strong> (Excise Quantity) และ<strong>หน่วยของปริมาณ</strong> (Excise Quantity Unit) ตามมาตรฐาน ISO <strong>เดียวกัน</strong></li>
-<li>มี<strong>รหัสสิทธิพิเศษ (Privilege Code)</strong> <strong>เดียวกัน</strong> และมี<strong>ประเภทของข้อมูล</strong> (Nature of Transaction) <strong>เดียวกัน</strong> เช่น 11 = เป็นการค้า , 21 = เป็นของแถม/ไม่มีมูลค่าทางการค้า , 90 = รับจ้างทำของ  เป็นต้น
-<br /></li>
-</ul></li>
-
-<li><p>ในการจัดทำข้อมูลใบขนสินค้าขาเข้าให้แยกรายการของในส่วน Import Declaration Detail แม้ตามบัญชีราคาสินค้าจะมี Invoice Item Number ซ้ำกัน ในกรณีใช้สิทธิทางภาษีอากรต่างกัน ดังนี้</p>
-
+<li>มี<strong>รหัสสิทธิพิเศษ (Privilege Code)</strong> <strong>เดียวกัน</strong> และมี<strong>ประเภทของข้อมูล</strong> (Nature of Transaction) <strong>เดียวกัน</strong> เช่น 11 = เป็นการค้า , 21 = เป็นของแถม/ไม่มีมูลค่าทางการค้า , 90 = รับจ้างทำของ  เป็นต้น</li>
+</ul>
+</li>
+<li>
+<p>ในการจัดทำข้อมูลใบขนสินค้าขาเข้าให้แยกรายการของในส่วน Import Declaration Detail แม้ตามบัญชีราคาสินค้าจะมี Invoice Item Number ซ้ำกัน ในกรณีใช้สิทธิทางภาษีอากรต่างกัน ดังนี้</p>
 <ul>
 <li>เป็นรายการ<strong>สุทธินำกลับ</strong> (Re- Importation Certificate)</li>
 <li>เป็นรายการใช้สิทธิ<strong>ส่งเสริมการลงทุน (BOI)</strong></li>
@@ -636,16 +633,13 @@
 <li>เป็นการใช้สิทธิ<strong>เขตประกอบการเสรี (I-EA-T FREEZONE)</strong></li>
 <li>เป็นรายการขออนุมัติ<strong>ใบขนสินค้าหลายเที่ยวเรือ (Several)</strong></li>
 <li>การใช้สิทธิประโยชน์ <strong>การใช้สิทธิยกเว้นอากร ในกรณีอื่น ๆ (ถ้ามี)</strong></li>
-</ul></li>
-
-<li><p>หากมี <em>เลขที่ใบขนสินค้าที่อ้างถึง</em> (Reference Declaration Number) และ <em>รายการในใบขนสินค้าที่อ้างถึง</em> (Reference Declaration Line Nmber) <em>ต่างกัน</em> ให้ <strong>แยกรายการของในส่วน Import Declaration Detail ด้วย</strong></p></li>
+</ul>
+</li>
+<li>
+<p>หากมี <em>เลขที่ใบขนสินค้าที่อ้างถึง</em> (Reference Declaration Number) และ <em>รายการในใบขนสินค้าที่อ้างถึง</em> (Reference Declaration Line Nmber) <em>ต่างกัน</em> ให้ <strong>แยกรายการของในส่วน Import Declaration Detail ด้วย</strong></p>
+</li>
 </ol>
-
-<div class="alert alert-danger">
-  <div>
-    <strong>4. กรณีสินค้าที่นำเข้าเป็น <em>รถยนต์ เหล้า บุหรี่ ไวน์ ห้ามรวมรายการ</em></strong>
-  </div>
-</div>
+<!-- raw HTML omitted -->
 
           </div>
           
@@ -942,7 +936,7 @@
     
     
     
-    <script src="/KM/customs/js/academia.min.941750819f7759d1f8e8ee8fb46a08f6.js"></script>
+    <script src="/KM/customs/js/academia.min.0bc91b5e1f8914626f9b48eae417970a.js"></script>
 
 
     
@@ -971,7 +965,7 @@
       <div class="col-md-6">
         
         <p>
-          ECS@Support&copy;2021 &middot; 
+          ECS@Support©2021 &middot; 
           Powered by
           <a href="https://themefisher.com" target="_blank" rel="noopener">themefisher</a> for
           <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
