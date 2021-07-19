@@ -144,6 +144,241 @@
     </item>
     
     <item>
+      <title>การควบคุมการเข้าถึง(Access control)</title>
+      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/access-control/</link>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/access-control/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;https://comadvance.co.th/wp-content/uploads/2019/10/Access-Control-1024x460.jpg&#34; alt=&#34;enter image description here&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;1-ข-อกำหนดทางธ-รก-จสำหร-บการควบค-มการเข-าถ-งสารสนเทศ-business-requirements-for-access-control&#34;&gt;1. ข้อกำหนดทางธุรกิจสำหรับการควบคุมการเข้าถึงสารสนเทศ (Business requirements for access control)&lt;/h2&gt;
+
+&lt;p&gt;มีจุดประสงค์เพื่อควบคุมการเข้าถึงสารสนเทศ&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;นโยบายการควบคุมการเข้าถึงระบบ (Access control policy)
+(ผู้บริหารสารสนเทศ)ต้องกำหนดให้มีการจัดทำนโยบายควบคุมการเข้าถึงอย่างเป็นลายลักษณ์อักษร และปรับปรุงตามระยะเวลาที่กำหนดไว้ การจัดทำนโยบายนี้จะพิจารณาจากความต้องการทางธุรกิจและทางด้านความมั่นคงปลอดภัยในการเข้าถึงทรัพย์สินสารสนเทศ&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;2-การบร-หารจ-ดการการเข-าถ-งของผ-ใช-user-access-management&#34;&gt;2. การบริหารจัดการการเข้าถึงของผู้ใช้ (User access management)&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;มีจุดประสงค์เพื่อควบคุมการเข้าถึงระบบสารสนเทศเฉพาะผู้ที่ได้รับอนุญาตแล้ว และป้องกันการเข้าถึงโดยไม่ได้รับอนุญาต&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;การลงทะเบียนพนักงาน (User registration)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;(หัวหน้างานสารสนเทศ)ต้องกำหนดให้มีขั้นตอนปฏิบัติอย่างเป็นทางการสำหรับการลงทะเบียนพนักงานใหม่เพื่อให้มีสิทธิต่างๆ ในการใช้งานตามความจำเป็น รวมทั้งขั้นตอนปฏิบัติสำหรับการยกเลิกสิทธิการใช้งาน เช่น เมื่อลาออกไปหรือเปลี่ยนตำแหน่งงานภายในองค์กร เป็นต้น&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;การบริหารจัดการสิทธิการใช้งานระบบ (Privilege management)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;(ผู้ดูแลระบบ)ต้องจัดให้มีการควบคุมและจำกัดสิทธิการใช้งานระบบตาม ความจำเป็นในการใช้งาน- การบริหารจัดการรหัสผ่านสำหรับผู้ใช้งาน (User password management)&lt;/p&gt;
+
+&lt;p&gt;(ผู้ดูแลระบบ)ต้องจัดให้มีกระบวนการบริหารจัดการรหัสผ่านสำหรับผู้ใช้งานอย่างเป็นทางการ เพื่อควบคุมการจัดสรรรหัสผ่านให้แก่ผู้ใช้งานอย่างมีความมั่นคงปลอดภัย&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;การทบทวนสิทธิการเข้าถึงของผู้ใช้งาน (Review of user access rights)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;(หัวหน้างานสารสนเทศ)ต้องจัดให้มีกระบวนการทบทวนสิทธิการเข้าถึงของผู้ใช้งานระบบอย่างเป็นทางการตามระยะเวลาที่กำหนดไว้&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;3-หน-าท-ความร-บผ-ดชอบของผ-ใช-งาน-user-responsibilities&#34;&gt;3. หน้าที่ความรับผิดชอบของผู้ใช้งาน (User responsibilities)&lt;/h2&gt;
+
+&lt;p&gt;มีจุดประสงค์เพื่อป้องกันการเข้าถึงโดยไม่ได้รับอนุญาต การเปิดเผย หรือ การขโมยสารสนเทศและอุปกรณ์ประมวลผลสารสนเทศ&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;การใช้งานรหัสผ่าน (Password use)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;(ผู้ดูแลระบบ)ต้องกำหนดวิธีปฏิบัติที่ดีสำหรับผู้ใช้งานในการเลือกและใช้งานรหัสผ่าน&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;การป้องกันอุปกรณ์ที่ไม่มีพนักงานดูแล (Unattended user equipment)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;(พนักงาน)ต้องมีวิธีเพื่อป้องกันไม่ให้ผู้ไม่มีสิทธิสามารถเข้าถึงอุปกรณ์สำนักงานที่ไม่มีพนักงานดูแล&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;นโยบายควบคุมการไม่ทิ้งทรัพย์สินสารสนเทศสำคัญไว้ในที่ที่ไม่ปลอดภัย (Clear desk and clear screen policy)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;(ผู้บริหารสารสนเทศ)ต้องจัดทำนโยบายเพื่อควบคุมไม่ให้มีการปล่อยให้ทรัพย์สินสารสนเทศที่สำคัญ เช่น เอกสาร สื่อบันทึกข้อมูล อยู่ในสถานที่ที่ไม่ปลอดภัย เช่น สามารถเข้าถึงได้ทางกายภาพ อยู่ในบริเวณที่เป็นที่สาธารณะหรือพบเห็นได้ง่าย เป็นต้น&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;4-การควบค-มการเข-าถ-งเคร-อข-าย-network-access-control&#34;&gt;4. การควบคุมการเข้าถึงเครือข่าย (Network access control)&lt;/h2&gt;
+
+&lt;p&gt;มีจุดประสงค์เพื่อป้องกันการเข้าถึงบริการทางเครือข่ายโดยไม่ได้รับอนุญาต&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;นโยบายการใช้งานบริการเครือข่าย (Policy on use of network services)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;(ผู้บริหารสารสนเทศ)ต้องจัดทำนโยบายการใช้งานเครือข่ายซึ่งจะต้องครอบคลุมถึงการระบุว่าบริการใดที่อนุญาตให้ผู้ใช้งานสามารถใช้ได้ บริการได้ไม่สามารถใช้งานได้&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;การพิสูจน์ตัวตนสำหรับผู้ใช้ที่อยู่ภายนอกองค์กร(User authentication for external connections)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;(ผู้ดูแลระบบ)ต้องกำหนดให้มีการพิสูจน์ตัวตนก่อนที่จะอนุญาตให้ผู้ใช้ที่อยู่ภายนอกองค์กรสามารถเข้าใช้งานเครือข่ายและระบบสารสนเทศขององค์กรได้&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;การพิสูจน์ตัวตนอุปกรณ์บนเครือข่าย (Equipment identification in networks)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;(ผู้ดูแลระบบ)ต้องกำหนดให้อุปกรณ์บนเครือข่ายสามารถระบุและพิสูจน์ตัวตนเพื่อบ่งบอกว่าการเชื่อมต่อนั้นมาจากอุปกรณ์หรือสถานที่ที่ได้รับอนุญาตแล้ว&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;การป้องกันพอร์ตที่ใช้สำหรับตรวจสอบและปรับแต่งระบบ (Remote diagnostic and configuration port protection)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;(ผู้ดูแลระบบ)ต้องมีมาตรการป้องกันการเข้าถึงพอร์ตที่ใช้สำหรับตรวจสอบและปรับแต่งระบบ มาตรการต้องครอบคลุมทั้งการป้องกันทางกายภาพและการป้องกันการเข้าถึงโดยผ่านทางเครือข่าย&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;การแบ่งแยกเครือข่าย (Segregation in networks)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;(ผู้ดูแลระบบ)ต้องทำการแบ่งแยกเครือข่ายตามกลุ่มของบริการสารสนเทศที่ใช้งาน กลุ่มของผู้ใช้ และกลุ่มของระบบสารสนเทศ&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;การควบคุมการเชื่อมต่อทางเครือข่าย (Network connection control)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;(ผู้ดูแลระบบ)ต้องจำกัดผู้ใช้งานในการเชื่อมต่อทางเครือข่ายระหว่างองค์กร การเชื่อมต่อต้องเป็นไปตามนโยบายควบคุมการเข้าถึงและข้อกำหนดที่แอพพลิเคชั่นที่ใช้งานทางธุรกิจได้ระบุไว้&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;การควบคุมการกำหนดเส้นทางบนเครือข่าย (Network routing control)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;(ผู้ดูแลระบบ)ต้องกำหนดเส้นทางบนเครือข่ายเพื่อควบคุมการเชื่อมต่อทางเครือข่ายและการไหลเวียนของสารสนเทศบนเครือข่ายให้เป็นไปตามนโยบายควบคุมการเข้าถึง&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;5-การควบค-มการเข-าถ-งระบบปฏ-บ-ต-การ-operating-system-access-control&#34;&gt;5. การควบคุมการเข้าถึงระบบปฏิบัติการ (Operating system access control)&lt;/h2&gt;
+
+&lt;p&gt;มีจุดประสงค์เพื่อป้องกันการเข้าถึงระบบปฏิบัติการโดยไม่ได้รับอนุญาต&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ขั้นตอนปฏิบัติในการเข้าถึงระบบอย่างมั่นคงปลอดภัย (Secure log-on procedures)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;(ผู้ดูแลระบบ)ต้องจัดให้มีขั้นตอนปฏิบัติที่มีความมั่นคงปลอดภัยสำหรับการเข้าถึงหรือการเข้าใช้งานระบบปฏิบัติการ&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;การระบุและพิสูจน์ตัวตนของผู้ใช้งาน (User identification and authentication)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;(ผู้ดูแลระบบ)ต้องจัดให้ผู้ใช้งานมีข้อมูลสำหรับระบุตัวตนในการเข้าใช้งานระบบที่ไม่ซ้ำซ้อนกัน และต้องจัดให้มีกระบวนการพิสูจน์ตัวตนก่อนเข้าใช้งานระบบตามข้อมูลระบุตัวตนที่ได้รับ&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ระบบบริหารจัดการรหัสผ่าน (Password management system)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;(ผู้ดูแลระบบ)ต้องจัดทำหรือจัดให้มีระบบบริหารจัดการรหัสผ่านที่มีการควบคุมการกำหนดรหัสผ่านที่มีคุณภาพ&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;การใช้งานโปรแกรมประเภทยูทิลิตี้ (Use of system utilities)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;(ผู้ดูแลระบบ)ต้องจำกัดและควบคุมการใช้งานโปรแกรมประเภทยูทิลิตี้เพื่อป้องกันการละเมิดหรือหลีกเลี่ยงมาตรการความมั่นคงปลอดภัยที่ได้กำหนดไว้หรือมีอยู่แล้ว&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;การหมดเวลาการใช้งานระบบสารสนเทศ (Session time-out)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;(ผู้ดูแลระบบ)ต้องกำหนดให้ระบบตัดการใช้งานผู้ใช้เมื่อผู้ใช้ไม่ได้ใช้งานระบบมาเป็นระยะเวลาหนึ่งตามที่กำหนดไว้&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;การจำกัดระยะเวลาการเชื่อมต่อระบบสารสนเทศ (Limitation of connection time)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;(ผู้ดูแลระบบ)ต้องจำกัดระยะเวลาในการเชื่อมต่อระบบสารสนเทศที่มีความสำคัญสูง&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;6-การควบค-มการเข-าถ-งแอพพล-เคช-นและสารสนเทศ-application-and-information-access-control&#34;&gt;6. การควบคุมการเข้าถึงแอพพลิเคชันและสารสนเทศ (Application and information access control)&lt;/h2&gt;
+
+&lt;p&gt;มีจุดประสงค์เพื่อป้องกันการเข้าถึงสารสนเทศของแอพพลิเคชันโดยไม่ได้รับอนุญาต&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;การจำกัดการเข้าถึงสารสนเทศ (Information access restriction)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;(ผู้ดูแลระบบ)ต้องจำกัดการเข้าถึงสารสนเทศและฟังก์ชันต่างๆ ของแอพพลิเคชันตามนโยบายควบคุมการเข้าถึงสารสนเทศที่ได้กำหนดไว้ การเข้าถึงจะต้องแยกตามประเภทของผู้ใช้งาน&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;การแยกระบบสารสนเทศที่มีความสำคัญสูง (Sensitive system isolation)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;(หัวหน้างานสารสนเทศ)ต้องแยกระบบสารสนเทศที่มีความสำคัญสูงไว้ในบริเวณที่แยกต่างหากออกมาสำหรับระบบนี้โดยเฉพาะ&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;7-การควบค-มอ-ปกรณ-ส-อสารประเภทพกพาและการปฏ-บ-ต-งานจากภายนอกองค-กร-mobile-computing-and-teleworking&#34;&gt;7. การควบคุมอุปกรณ์สื่อสารประเภทพกพาและการปฏิบัติงานจากภายนอกองค์กร (Mobile computing and teleworking)&lt;/h2&gt;
+
+&lt;p&gt;มีจุดประสงค์เพื่อสร้างความมั่นคงปลอดภัยสำหรับอุปกรณ์สื่อสารประเภทพกพาและการปฏิบัติงานจากภายนอกองค์กร&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;การป้องกันอุปกรณ์สื่อสารประเภทพกพา (Mobile computing and communications)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;(ผู้บริหารสารสนเทศ)ต้องกำหนดนโยบายเพื่อควบคุมหรือป้องกันอุปกรณ์สื่อสารชนิดพกพา (เช่น notebook, palm, และ laptop เป็นต้น)และต้องกำหนดมาตรการป้องกันโดยพิจารณาจากความเสี่ยงที่มีต่ออุปกรณ์เหล่านี้ (Data in Notebook)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;การปฏิบัติงานจากภายนอกสำนักงาน (Teleworking)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;(ผู้บริหารสนเทศ)ต้องกำหนดนโยบาย แผนงาน และขั้นตอนปฏิบัติสำหรับบุคลากรที่จำเป็นต้องปฏิบัติงานขององค์กรจากภายนอกสำนักงาน&lt;/p&gt;
+
+&lt;p&gt;Reference : &lt;a href=&#34;https://www.facebook.com/StandardKnowledge/posts/500852140001257/&#34; target=&#34;_blank&#34;&gt;https://www.facebook.com/StandardKnowledge/posts/500852140001257/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
       <title>มุมมองของแฮ็กเกอร์เกี่ยวกับมาตรฐาน ISO 27001</title>
       <link>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/hacker_view/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
