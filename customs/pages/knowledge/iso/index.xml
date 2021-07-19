@@ -18,9 +18,12 @@
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/structure/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../img/structure-01.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../img/structure-02.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../img/structure-03.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;../img/structure-01.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/structure-02.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/structure-03.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 
 
 
@@ -65,35 +68,68 @@
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/concept/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page5.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page6.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page7.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page8.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page9.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page10.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page11.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page12.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page13.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page14.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page15.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page16.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page17.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page18.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page19.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page20.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page21.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page22.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page23.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page24.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page25.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page26.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page27.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page3.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page4.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page5.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page6.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page7.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page8.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page9.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page10.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page11.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page12.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page13.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page14.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page15.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page16.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page17.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page18.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page19.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page20.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page21.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page22.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page23.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page24.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page25.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page26.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;../img/concept/conceptjpg_Page27.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;../docs/concept.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;1200&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
+    allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
 
 
 
@@ -108,224 +144,74 @@
     </item>
     
     <item>
-      <title>การควบคุมการเข้าถึง(Access control)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/access-control/</link>
-      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/access-control/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://comadvance.co.th/wp-content/uploads/2019/10/Access-Control-1024x460.jpg&#34; alt=&#34;enter image description here&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;1-ขอกำหนดทางธรกจสำหรบการควบคมการเขาถงสารสนเทศ-business-requirements-for-access-control&#34;&gt;1. ข้อกำหนดทางธุรกิจสำหรับการควบคุมการเข้าถึงสารสนเทศ (Business requirements for access control)&lt;/h2&gt;
-&lt;p&gt;มีจุดประสงค์เพื่อควบคุมการเข้าถึงสารสนเทศ&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;นโยบายการควบคุมการเข้าถึงระบบ (Access control policy)
-(ผู้บริหารสารสนเทศ)ต้องกำหนดให้มีการจัดทำนโยบายควบคุมการเข้าถึงอย่างเป็นลายลักษณ์อักษร และปรับปรุงตามระยะเวลาที่กำหนดไว้ การจัดทำนโยบายนี้จะพิจารณาจากความต้องการทางธุรกิจและทางด้านความมั่นคงปลอดภัยในการเข้าถึงทรัพย์สินสารสนเทศ&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;2-การบรหารจดการการเขาถงของผใช-user-access-management&#34;&gt;2. การบริหารจัดการการเข้าถึงของผู้ใช้ (User access management)&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;มีจุดประสงค์เพื่อควบคุมการเข้าถึงระบบสารสนเทศเฉพาะผู้ที่ได้รับอนุญาตแล้ว และป้องกันการเข้าถึงโดยไม่ได้รับอนุญาต&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;การลงทะเบียนพนักงาน (User registration)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;(หัวหน้างานสารสนเทศ)ต้องกำหนดให้มีขั้นตอนปฏิบัติอย่างเป็นทางการสำหรับการลงทะเบียนพนักงานใหม่เพื่อให้มีสิทธิต่างๆ ในการใช้งานตามความจำเป็น รวมทั้งขั้นตอนปฏิบัติสำหรับการยกเลิกสิทธิการใช้งาน เช่น เมื่อลาออกไปหรือเปลี่ยนตำแหน่งงานภายในองค์กร เป็นต้น&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;การบริหารจัดการสิทธิการใช้งานระบบ (Privilege management)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;(ผู้ดูแลระบบ)ต้องจัดให้มีการควบคุมและจำกัดสิทธิการใช้งานระบบตาม ความจำเป็นในการใช้งาน- การบริหารจัดการรหัสผ่านสำหรับผู้ใช้งาน (User password management)&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;(ผู้ดูแลระบบ)ต้องจัดให้มีกระบวนการบริหารจัดการรหัสผ่านสำหรับผู้ใช้งานอย่างเป็นทางการ เพื่อควบคุมการจัดสรรรหัสผ่านให้แก่ผู้ใช้งานอย่างมีความมั่นคงปลอดภัย&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;การทบทวนสิทธิการเข้าถึงของผู้ใช้งาน (Review of user access rights)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;(หัวหน้างานสารสนเทศ)ต้องจัดให้มีกระบวนการทบทวนสิทธิการเข้าถึงของผู้ใช้งานระบบอย่างเป็นทางการตามระยะเวลาที่กำหนดไว้&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;3-หนาทความรบผดชอบของผใชงาน-user-responsibilities&#34;&gt;3. หน้าที่ความรับผิดชอบของผู้ใช้งาน (User responsibilities)&lt;/h2&gt;
-&lt;p&gt;มีจุดประสงค์เพื่อป้องกันการเข้าถึงโดยไม่ได้รับอนุญาต การเปิดเผย หรือ การขโมยสารสนเทศและอุปกรณ์ประมวลผลสารสนเทศ&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;การใช้งานรหัสผ่าน (Password use)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;(ผู้ดูแลระบบ)ต้องกำหนดวิธีปฏิบัติที่ดีสำหรับผู้ใช้งานในการเลือกและใช้งานรหัสผ่าน&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;การป้องกันอุปกรณ์ที่ไม่มีพนักงานดูแล (Unattended user equipment)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;(พนักงาน)ต้องมีวิธีเพื่อป้องกันไม่ให้ผู้ไม่มีสิทธิสามารถเข้าถึงอุปกรณ์สำนักงานที่ไม่มีพนักงานดูแล&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;นโยบายควบคุมการไม่ทิ้งทรัพย์สินสารสนเทศสำคัญไว้ในที่ที่ไม่ปลอดภัย (Clear desk and clear screen policy)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;(ผู้บริหารสารสนเทศ)ต้องจัดทำนโยบายเพื่อควบคุมไม่ให้มีการปล่อยให้ทรัพย์สินสารสนเทศที่สำคัญ เช่น เอกสาร สื่อบันทึกข้อมูล อยู่ในสถานที่ที่ไม่ปลอดภัย เช่น สามารถเข้าถึงได้ทางกายภาพ อยู่ในบริเวณที่เป็นที่สาธารณะหรือพบเห็นได้ง่าย เป็นต้น&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;4-การควบคมการเขาถงเครอขาย-network-access-control&#34;&gt;4. การควบคุมการเข้าถึงเครือข่าย (Network access control)&lt;/h2&gt;
-&lt;p&gt;มีจุดประสงค์เพื่อป้องกันการเข้าถึงบริการทางเครือข่ายโดยไม่ได้รับอนุญาต&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;นโยบายการใช้งานบริการเครือข่าย (Policy on use of network services)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;(ผู้บริหารสารสนเทศ)ต้องจัดทำนโยบายการใช้งานเครือข่ายซึ่งจะต้องครอบคลุมถึงการระบุว่าบริการใดที่อนุญาตให้ผู้ใช้งานสามารถใช้ได้ บริการได้ไม่สามารถใช้งานได้&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;การพิสูจน์ตัวตนสำหรับผู้ใช้ที่อยู่ภายนอกองค์กร(User authentication for external connections)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;(ผู้ดูแลระบบ)ต้องกำหนดให้มีการพิสูจน์ตัวตนก่อนที่จะอนุญาตให้ผู้ใช้ที่อยู่ภายนอกองค์กรสามารถเข้าใช้งานเครือข่ายและระบบสารสนเทศขององค์กรได้&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;การพิสูจน์ตัวตนอุปกรณ์บนเครือข่าย (Equipment identification in networks)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;(ผู้ดูแลระบบ)ต้องกำหนดให้อุปกรณ์บนเครือข่ายสามารถระบุและพิสูจน์ตัวตนเพื่อบ่งบอกว่าการเชื่อมต่อนั้นมาจากอุปกรณ์หรือสถานที่ที่ได้รับอนุญาตแล้ว&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;การป้องกันพอร์ตที่ใช้สำหรับตรวจสอบและปรับแต่งระบบ (Remote diagnostic and configuration port protection)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;(ผู้ดูแลระบบ)ต้องมีมาตรการป้องกันการเข้าถึงพอร์ตที่ใช้สำหรับตรวจสอบและปรับแต่งระบบ มาตรการต้องครอบคลุมทั้งการป้องกันทางกายภาพและการป้องกันการเข้าถึงโดยผ่านทางเครือข่าย&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;การแบ่งแยกเครือข่าย (Segregation in networks)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;(ผู้ดูแลระบบ)ต้องทำการแบ่งแยกเครือข่ายตามกลุ่มของบริการสารสนเทศที่ใช้งาน กลุ่มของผู้ใช้ และกลุ่มของระบบสารสนเทศ&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;การควบคุมการเชื่อมต่อทางเครือข่าย (Network connection control)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;(ผู้ดูแลระบบ)ต้องจำกัดผู้ใช้งานในการเชื่อมต่อทางเครือข่ายระหว่างองค์กร การเชื่อมต่อต้องเป็นไปตามนโยบายควบคุมการเข้าถึงและข้อกำหนดที่แอพพลิเคชั่นที่ใช้งานทางธุรกิจได้ระบุไว้&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;การควบคุมการกำหนดเส้นทางบนเครือข่าย (Network routing control)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;(ผู้ดูแลระบบ)ต้องกำหนดเส้นทางบนเครือข่ายเพื่อควบคุมการเชื่อมต่อทางเครือข่ายและการไหลเวียนของสารสนเทศบนเครือข่ายให้เป็นไปตามนโยบายควบคุมการเข้าถึง&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;5-การควบคมการเขาถงระบบปฏบตการ-operating-system-access-control&#34;&gt;5. การควบคุมการเข้าถึงระบบปฏิบัติการ (Operating system access control)&lt;/h2&gt;
-&lt;p&gt;มีจุดประสงค์เพื่อป้องกันการเข้าถึงระบบปฏิบัติการโดยไม่ได้รับอนุญาต&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;ขั้นตอนปฏิบัติในการเข้าถึงระบบอย่างมั่นคงปลอดภัย (Secure log-on procedures)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;(ผู้ดูแลระบบ)ต้องจัดให้มีขั้นตอนปฏิบัติที่มีความมั่นคงปลอดภัยสำหรับการเข้าถึงหรือการเข้าใช้งานระบบปฏิบัติการ&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;การระบุและพิสูจน์ตัวตนของผู้ใช้งาน (User identification and authentication)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;(ผู้ดูแลระบบ)ต้องจัดให้ผู้ใช้งานมีข้อมูลสำหรับระบุตัวตนในการเข้าใช้งานระบบที่ไม่ซ้ำซ้อนกัน และต้องจัดให้มีกระบวนการพิสูจน์ตัวตนก่อนเข้าใช้งานระบบตามข้อมูลระบุตัวตนที่ได้รับ&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;ระบบบริหารจัดการรหัสผ่าน (Password management system)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;(ผู้ดูแลระบบ)ต้องจัดทำหรือจัดให้มีระบบบริหารจัดการรหัสผ่านที่มีการควบคุมการกำหนดรหัสผ่านที่มีคุณภาพ&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;การใช้งานโปรแกรมประเภทยูทิลิตี้ (Use of system utilities)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;(ผู้ดูแลระบบ)ต้องจำกัดและควบคุมการใช้งานโปรแกรมประเภทยูทิลิตี้เพื่อป้องกันการละเมิดหรือหลีกเลี่ยงมาตรการความมั่นคงปลอดภัยที่ได้กำหนดไว้หรือมีอยู่แล้ว&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;การหมดเวลาการใช้งานระบบสารสนเทศ (Session time-out)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;(ผู้ดูแลระบบ)ต้องกำหนดให้ระบบตัดการใช้งานผู้ใช้เมื่อผู้ใช้ไม่ได้ใช้งานระบบมาเป็นระยะเวลาหนึ่งตามที่กำหนดไว้&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;การจำกัดระยะเวลาการเชื่อมต่อระบบสารสนเทศ (Limitation of connection time)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;(ผู้ดูแลระบบ)ต้องจำกัดระยะเวลาในการเชื่อมต่อระบบสารสนเทศที่มีความสำคัญสูง&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;6-การควบคมการเขาถงแอพพลเคชนและสารสนเทศ-application-and-information-access-control&#34;&gt;6. การควบคุมการเข้าถึงแอพพลิเคชันและสารสนเทศ (Application and information access control)&lt;/h2&gt;
-&lt;p&gt;มีจุดประสงค์เพื่อป้องกันการเข้าถึงสารสนเทศของแอพพลิเคชันโดยไม่ได้รับอนุญาต&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;การจำกัดการเข้าถึงสารสนเทศ (Information access restriction)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;(ผู้ดูแลระบบ)ต้องจำกัดการเข้าถึงสารสนเทศและฟังก์ชันต่างๆ ของแอพพลิเคชันตามนโยบายควบคุมการเข้าถึงสารสนเทศที่ได้กำหนดไว้ การเข้าถึงจะต้องแยกตามประเภทของผู้ใช้งาน&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;การแยกระบบสารสนเทศที่มีความสำคัญสูง (Sensitive system isolation)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;(หัวหน้างานสารสนเทศ)ต้องแยกระบบสารสนเทศที่มีความสำคัญสูงไว้ในบริเวณที่แยกต่างหากออกมาสำหรับระบบนี้โดยเฉพาะ&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;7-การควบคมอปกรณสอสารประเภทพกพาและการปฏบตงานจากภายนอกองคกร-mobile-computing-and-teleworking&#34;&gt;7. การควบคุมอุปกรณ์สื่อสารประเภทพกพาและการปฏิบัติงานจากภายนอกองค์กร (Mobile computing and teleworking)&lt;/h2&gt;
-&lt;p&gt;มีจุดประสงค์เพื่อสร้างความมั่นคงปลอดภัยสำหรับอุปกรณ์สื่อสารประเภทพกพาและการปฏิบัติงานจากภายนอกองค์กร&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;การป้องกันอุปกรณ์สื่อสารประเภทพกพา (Mobile computing and communications)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;(ผู้บริหารสารสนเทศ)ต้องกำหนดนโยบายเพื่อควบคุมหรือป้องกันอุปกรณ์สื่อสารชนิดพกพา (เช่น notebook, palm, และ laptop เป็นต้น)และต้องกำหนดมาตรการป้องกันโดยพิจารณาจากความเสี่ยงที่มีต่ออุปกรณ์เหล่านี้ (Data in Notebook)&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;การปฏิบัติงานจากภายนอกสำนักงาน (Teleworking)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;(ผู้บริหารสนเทศ)ต้องกำหนดนโยบาย แผนงาน และขั้นตอนปฏิบัติสำหรับบุคลากรที่จำเป็นต้องปฏิบัติงานขององค์กรจากภายนอกสำนักงาน&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Reference : &lt;a href=&#34;https://www.facebook.com/StandardKnowledge/posts/500852140001257/&#34;&gt;https://www.facebook.com/StandardKnowledge/posts/500852140001257/&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
       <title>มุมมองของแฮ็กเกอร์เกี่ยวกับมาตรฐาน ISO 27001</title>
       <link>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/hacker_view/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/hacker_view/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../img/anonymous.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;../img/anonymous.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 &lt;p&gt;สำหรับหลายๆ คนที่ทำงานทางด้าน Security ที่เน้นแต่ด้าน Technical เป็นหลักนั้นอาจจะไม่ค่อยรู้จักและไม่ค่อยศรัทธาในมาตรฐาน ISO 27001 หรือ Information Security Management System มากนัก เนื่องจากมาตรฐาน ISO มักถูกมองว่าเป็นสิ่งที่เพิ่มงานเพราะต้องมีการจัดทำเอกสารต่างๆ มากมาย แตกต่างจากมาตรฐานหรือข้อแนะนำต่างๆ เช่น SANS Top 20 Critical Controls ที่เน้นเรื่องการจัดการด้าน Technical เป็นหลัก&lt;/p&gt;
+
 &lt;p&gt;ในความเป็นจริงแล้วมาตรฐาน ISO 27001 นี้มีข้อกำหนดต่างๆ ที่เกี่ยวข้องกับการปรับปรุงระบบ Security มากมายไม่เพียงมีแค่เรื่องเอกสารเท่านั้น ยังมีเรื่องของการจัดทำ Process และการปรับปรุงทางด้าน Technical ด้วยโดยบทความนี้จะมุ่งเน้นไปที่ Technical Control ของมาตรฐาน ISO 27001 เป็นหลัก เพื่อแสดงให้เห็นว่าการทำ ISO 27001 นั้นมีประโยชน์อย่างไรบ้างในเชิง Technical&lt;/p&gt;
+
 &lt;p&gt;&lt;strong&gt;ข้อกำหนด&lt;/strong&gt; &lt;strong&gt;A.7 Human Resource Security&lt;/strong&gt;&lt;/p&gt;
+
 &lt;p&gt;ข้อกำหนดนี้กล่าวถึงการจัดการของฝ่าย HR ซึ่งเริ่มจากการรับพนักงานจะต้องมีการตรวจสอบประวัติพนักงานก่อนเข้ารับทำงาน การให้ความรู้เกี่ยวกับ Information Security ให้กับพนักงานภายในองค์กรเพื่อไม่ให้พนักงานตกเป็นเหยื่อของอาชญากรรมทางไซเบอร์ (Cyber Crime) รวมไปถึงการจัดการต่างๆ หลังจากสิ้นสุดการจ้างงาน&lt;/p&gt;
+
 &lt;p&gt;สิ่งเหล่านี้จะช่วยเหลือได้อย่างไรบ้างในเชิง Technical&lt;/p&gt;
+
 &lt;p&gt;สำหรับในมุมมองคนทำงานทางด้าน IT ที่เน้นแต่เรื่อง Technical นั้นอาจจะเผลอมองข้ามเรื่องเหล่านี้ได้ง่าย ภัยคุกคามทางด้านเทคนิค (Technical Threat) ที่อาจเกิดขึ้นต่อองค์กรหากไม่มีการบริหารจัดการเรื่องทรัพยากรบุคคลอย่างเหมาะสมได้แก่&lt;/p&gt;
+
 &lt;ul&gt;
 &lt;li&gt;บริษัทคู่แข่งสามารถส่งพนักงานมาสมัครงาน เพื่อมาเป็นหนอนบ่อนไส้ภายในองค์กร ขโมยข้อมูลต่างๆ และส่งผลเสียต่อบริษัทได้ ซึ่งการส่งพนักงานเข้ามาแทรกซึมนี้อาจจะทำทางอ้อมได้โดยการสมัครงานเป็นพนักงานทำความสะอาด จากนั้นก็แอบเสียบอุปกรณ์ดักจับข้อมูล เช่น Key Logger ไว้เพื่อขโมยรหัสผ่านของพนักงาน&lt;/li&gt;
 &lt;li&gt;พนักงานของบริษัทที่ขาดความรู้ความเข้าใจในเรื่องภัยคุกคามทางไซเบอร์นั้น อาจจะมองข้ามเรื่องเล็กๆ น้อยๆ ไปเช่น ในบางการโจมตีนั้นบริษัทคู่แข่งหรือกลุ่มแฮกเกอร์ที่ต้องการโจมตีองค์กรเหยื่อ ลงทุนจัด Booth โฆษณาสินค้าและเรียกให้พนักงานขององค์กรเหยื่อมาร่วมเล่นเกม จากนั้นให้รางวัลเป็น Thumbdrive (ซึ่งมี Malware ติดอยู่ด้วย) เมื่อเหยื่อได้รับ Thumbdrive ไปแล้วก็นำไปใช้งานกับคอมพิวเตอร์ขององค์กร ซึ่งแน่นอนว่าเป็นการ Bypass Security Infrastructure ที่องค์กรลงทุนไปทั้งหมดอย่างง่ายดาย วิธีการนี้เป็นรูปแบบหนึ่งของการโจมตีที่เรียกว่า Social Engineering&lt;/li&gt;
 &lt;/ul&gt;
+
 &lt;p&gt;&lt;strong&gt;ข้อกำหนด&lt;/strong&gt; &lt;strong&gt;A.9 Access Control&lt;/strong&gt;&lt;/p&gt;
+
 &lt;p&gt;ข้อกำหนดนี้กล่าวถึง Logical Security ของการเข้าใช้งานของ User ซึ่งจะต้องมีการสรุปนโยบายการเข้าใช้งาน, นโยบายการกำหนดรหัสผ่าน, กระบวนการต่างๆ ในการควบคุมจัดการ User, การจัดการสิทธิ์ของ User&lt;/p&gt;
+
 &lt;p&gt;สิ่งเหล่านี้จะช่วยเหลือได้อย่างไรบ้างในเชิง Technical&lt;/p&gt;
+
 &lt;p&gt;เรื่องของการจัดการ Access Control นั้นดูเหมือนเป็นเรื่องง่ายสำหรับผู้ที่มีประสบการณ์ทางด้าน Technical ทั้งนี้เพราะอุปกรณ์ หรือ ระบบใหม่ๆ มักมีระบบ Access ControlBuilt-in มาอยู่แล้ว แต่จริงๆ แล้วเรื่องการจัดการ Access Control มีเรื่องจุกจิกที่จะต้องใส่ใจอยู่อีกมาก เพราะการ Enforce Policy ต่างๆ นั้นจะกระทบกับผู้ใช้งานทั้งองค์กร อาจทำให้เกิดการต่อต้านได้ ซึ่งหากไม่มีการควบคุมจัดการให้ดีอาจเกิดปัญหา เช่น&lt;/p&gt;
+
 &lt;ul&gt;
 &lt;li&gt;การกำหนดวิธีการตรวจสอบตัวตน (Authentication) ก่อนอนุญาตให้เข้าใช้งานโดยทั่วไปที่ใช้กันคือการใช้รหัสผ่าน ซึ่งถือว่าเป็นการตรวจสอบตัวตนที่มีความปลอดภัยต่ำสุด และใช้เงินลงทุนน้อยที่สุด หากไม่มีการบังคับควบคุมจัดการรหัสผ่านอย่างเหมาะสม เช่น การบังคับใช้ Password policy, การตั้ง clipping level ก็จะอำนวยความสะดวกให้กับผู้ร้ายสามารถโจมตีระบบได้อย่างง่ายดายขึ้น โดยเฉพาะระบบที่สามารถเข้าถึงได้จาก Internet ผู้ร้ายก็สามารถใช้วิธีการพรางตัวต่างๆ นานา ร่วมกับการทำ Brute force attack หรือ Dictionary attack ก็มีโอกาสสูงที่จะโจมตีได้สำเร็จและยากที่จะติดตามหาตัวคนร้ายได้ ซึ่งวิธีการ Brute force นี้ได้มีการกล่าวถึงในรายงานที่ชื่อว่า “World War C: Understanding Nation-State Motives Behind Today’s Advanced Cyber Attack” ของบริษัท FireEye ซึ่ง Report นี้วิเคราะห์ถึงเทคนิค และการแรงจูงใจของแต่ละประเทศที่มีการทำสงครามทางไซเบอร์ ว่าประเทศจีนซึ่งเป็นประเทศที่มีคนเยอะแต่ความสามารถยังไม่สูงมากนักชอบใช้วิธีนี้ในการโจมตีเป้าหมาย หากใครสนใจเรื่อง Cyber Warfare รายงานฉบับนี้ถือว่าน่าสนใจมากครับ&lt;/li&gt;
 &lt;/ul&gt;
+
 &lt;p&gt;&lt;strong&gt;ข้อกำหนด&lt;/strong&gt; &lt;strong&gt;A.11 Physical and environmental security&lt;/strong&gt;&lt;/p&gt;
+
 &lt;p&gt;ข้อกำหนดนี้กล่าวถึงการจัดการทางด้านกายภาพ ทั้งในเรื่องของการควบคุมพื้นที่ที่เกี่ยวข้องกับบุคลากรที่อยู่ใน Scope รวมถึงพื้นที่ของ Data Center, พื้นที่เข้าออกที่สำคัญขององค์กร, พื้นที่ทำงานของบุคลากร และเรื่องการจัดการทางกายภาพของอุปกรณ์ต่างๆ ที่เกี่ยวข้อง&lt;/p&gt;
+
 &lt;p&gt;สิ่งเหล่านี้จะช่วยเหลือได้อย่างไรบ้างในเชิง Technical&lt;/p&gt;
+
 &lt;p&gt;เรื่องของการควบคุมการเข้าถึงอุปกรณ์ต่างๆ นั้น ผู้ที่ทำงานที่เกี่ยวกับ Technical เป็นหลักนั้นอาจจะเน้นไปที่ Logical Security อย่างเดียว แต่ในความจริงนั้น Physical Security เองก็มีความสำคัญเช่นเดียวกัน หากไม่บริหารจัดการให้เรียบร้อยอาจเกิดปัญหาได้ เช่น&lt;/p&gt;
+
 &lt;ul&gt;
 &lt;li&gt;การทำลายหรือการลบข้อมูลที่ไม่เหมาะสมบนอุปกรณ์เก็บข้อมูล เช่น Harddisk, Thumbdrive ถ้าลบข้อมูลด้วยวิธีการปกติจะมีโอกาสสูงมากที่จะกู้ข้อมูลเหล่านั้นกลับขึ้นมาได้ ซึ่งวิธีการกู้ข้อมูลเหล่านี้เป็นวิธีหนึ่งในกระบวนการทำ Forensics แต่มักถูกนำมาใช้ในทางไม่ดี เช่น กรณีที่มี Clip ส่วนตัวหลุดจากโทรศัพท์มือถือที่นำไปซ่อม หรือขายมือสองตามร้าน สำหรับคนที่ขาดความรู้ไม่ระมัดระวัง อาจพลั้งเผลอทำอุปกรณ์เก็บข้อมูลหายไป แล้วคิดว่าไม่น่าจะมีปัญหาอะไร เนื่องจากได้ลบข้อมูลที่สำคัญออกเรียบร้อยแล้ว คงจะต้องคิดใหม่เพราะนั่นอาจเป็นสิ่งที่นำความเสียหายมาสู่องค์กรก็เป็นได้&lt;/li&gt;
 &lt;li&gt;อีกปัญหาที่หลายองค์กรเจอกันเป็นประจำนั่นก็คือ พนักงานทำเครื่อง Laptop ที่มีข้อมูลขององค์กรอยู่หาย หรือ อาจจะถูกขโมย ในความเป็นจริงแล้วหากบริษัทคู่แข่งต้องการขโมยข้อมูลขององค์กร มีหลายวิธีให้เลือกใช้ อาจจะไม่จำเป็นต้องจ้าง Hacker ราคาแพงเพื่อขโมยข้อมูลผ่านทาง Internet ในทางกลับกันบริษัทคู่แข่งอาจเลือกใช้วิธีการสร้างสถานการณ์ให้ดูเหมือนเป็นการวิ่งราว หรือ อาจจะถึงขั้นลงมือทำร้ายร่างกาย (อย่าลืมว่าผู้ร้ายไม่จำเป็นต้องเลือกวิธีใช้ในการโจมตี) ทำให้ดูเหมือนเป็นการวิ่งราวปกติ แต่เป้าหมายที่แท้จริงคือการขโมย Laptop เพื่อนำมาวิเคราะห์หาข้อมูลที่สำคัญก็เป็นได้ หากองค์กรไม่มีการป้องกันที่ดีพอ เช่น การใช้ Harddisk Encryption Solution ข้อมูลที่สำคัญขององค์กรอาจจะตกอยู่ในมือของบริษัทคู่แข่งได้อย่างง่ายดาย&lt;/li&gt;
 &lt;li&gt;การเดินสาย Network Cable ไม่เรียบร้อยในองค์กร อาจทำให้องค์กรเสี่ยงต่อการดักจับข้อมูล (Sniffing Data) เนื่องจากผู้ร้ายสามารถใช้อุปกรณ์ประเภท Vampire Tap ซึ่งเป็นอุปกรณ์พิเศษที่สามารถเจาะเข้าสาย LAN เพื่อทำการดักจับข้อมูลที่ส่งผ่าน Network Cable&lt;/li&gt;
 &lt;li&gt;อีกรูปแบบการโจมตี หรือ วิธีการค้นหาข้อมูล ที่น่าสนใจที่เรียกว่า OSINT (Open Source Intelligence) ซึ่งหมายถึงวิธีการใช้ข้อมูลจาก Public Database ต่างๆ เพื่อทำการวิเคราะห์ Security Control ของบริษัท เช่น การใช้ Google Street View เพื่อสอดส่องดู Physical Security ของพื้นที่เป้าหมาย หรือ ค้นหาข้อมูลที่น่าสนใจก่อนการเข้าโจมตี ซึ่งด้วยวิธีการนี้เป้าหมายจะไม่สามารถรู้ตัวได้เลยว่ามีผู้ร้ายกำลังเฝ้าดูอยู่ การทำ Physical Security Control จะช่วยให้มีการตรวจสอบว่ารอบๆ องค์กรนั้นมีเอกสารหรือมีอะไรที่แพร่งพรายข้อมูลขององค์กรออกไปหรือไม่ เช่น มีอะไรที่บ่งบอกว่า Data Center อยู่ที่ไหนของตึกเป็นต้น&lt;/li&gt;
 &lt;/ul&gt;
+
 &lt;p&gt;&lt;strong&gt;ข้อกำหนด&lt;/strong&gt; &lt;strong&gt;A.12 Operations Security&lt;/strong&gt;&lt;/p&gt;
+
 &lt;p&gt;ข้อกำหนดนี้กล่าวถึงการปฏิบัติงานอย่างมั่นคงปลอดภัย ซึ่งกล่าวถึงกระบวนการต่างๆ ที่ต้องจัดทำเพื่อให้เกิดความมั่นคงปลอดภัย เช่น การทำ Change Management, การทำ Data Backup, การจัดเก็บและตรวจสอบ Log อย่างสม่ำเสมอ ถ้าขาดกระบวนการเหล่านี้ไปอาจก่อให้เกิดความเสียหายต่อองค์กรได้&lt;/p&gt;
+
 &lt;p&gt;สิ่งเหล่านี้จะช่วยเหลือได้อย่างไรบ้างในเชิง Technical&lt;/p&gt;
+
 &lt;p&gt;การดำเนินการควบคุมการปฏิบัติงานอย่างมั่นคงปลอดภัยให้เหมาะสมนั้นถือเป็นหัวใจหลักในการป้องกันระบบให้มีความปลอดภัย หากไม่บริหารจัดการให้เรียบร้อยอาจเกิดปัญหาได้ เช่น&lt;/p&gt;
+
 &lt;ul&gt;
 &lt;li&gt;เรื่องการเก็บข้อมูลสำรอง (Data Backup) เมื่อไม่นานมานี้มี Malware ชนิดใหม่ที่เรียกว่า Ransomware หรือ มัลแวร์ประเภทที่เรียกค่าไถ่ Ransomwareที่ว่านี้หลายคนอาจรู้จักในชื่อของ Cryptolockerซึ่งหากเครื่องคอมพิวเตอร์ติด Cryptolocker แล้ว Cryptolocker จะทำการเข้ารหัส (Encrypt) File บนเครื่องทั้งหมดยกเว้น System Files และ File ที่มีนามสกุล .exe พร้อมกับแสดงข้อความแจ้งให้ผู้ใช้งานส่งเงินไปให้ Hacker เพื่อขอ Encryption Key มาทำการ Decrypt File คืน หากไม่ส่งเงินให้ภายในจำนวนวันที่กำหนด ผู้ใช้งานจะไม่มีโอกาสกู้ File คืนได้อีก ซึ่งหาก File นั้นเป็น File ที่มีความสำคัญต่อองค์กรแล้ว มูลค่าความเสียหายอาจจะไม่สามารถนับได้ ซึ่งหลังจาก Cryptolocker ออกอาละวาด หลายองค์กรจึงเริ่มให้ความสำคัญกับการสำรองข้อมูลมากขึ้น&lt;/li&gt;
 &lt;li&gt;การควบคุมจัดการช่องโหว่ทางเทคนิค ต้องมีการจัดการให้เหมาะสม เช่น การทำ Hardening, การจัดการ Patch (Patch Management) หรือ การทำการทดสอบเจาะระบบ (Penetration Testing) ซึ่งสิ่งต่างๆ เหล่านี้สามารถช่วยป้องกันการโจมตีจากผู้ประสงค์ร้ายได้ หากไม่ได้มีการจัดการที่ดีพอ เครื่องขององค์กรอาจจะตกเป็นเหยื่อได้ง่ายดาย&lt;/li&gt;
 &lt;/ul&gt;
+
 &lt;p&gt;จากข้อมูลที่ผ่านมาซึ่งเป็นแค่บางข้อกำหนดของ ISO 27001 จะเห็นได้ว่าการทำ ISO 27001 นั้นสามารถช่วยยกระดับความมั่นคงปลอดภัยในองค์กรได้ทั้งด้านงานเอกสาร กระบวนการต่างๆ และด้านเทคนิค โดยเฉพาะอย่างยิ่งการสร้างกระบวนการเพื่อบริหารจัดการการควบคุมเชิงเทคนิค (Using systematic process to manage technical security controls) นอกจากข้อกำหนดของISO 27001 แล้วองค์กรควรพิจารณาการควบคุม หรือดำเนินกิจกรรมอื่นเพิ่มเติมที่ไม่ได้กำหนดชัดเจนในข้อกำหนด เช่น การทำ Vulnerability assessment / Penetration testing (ตามข้อกำหนด A.18.2.3 Technical compliance review) และดำเนินการแก้ไขข้อบกพร่องหรือจุดอ่อนที่พบ (ตามข้อกำหนด A.12.6.1 Management of technical vulnerabilities) รวมถึงดำเนินการReview security architecture (ตามข้อกำหนด A.14.2.5 Secure system engineering principles)เพื่อเป็นการยกระดับสถาปัตยกรรมด้านความมั่นคงปลอดภัยขององค์กร&lt;/p&gt;
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มาบทความ : &lt;a href=&#34;https://www.acinfotec.com/2014/12/11/can-iso-27001-help-protect-your-organization-from-cyber-attack-a-hackers-view-on-iso-27001-standard/&#34;&gt;AC INFOTEC&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มาบทความ : &lt;a href=&#34;https://www.acinfotec.com/2014/12/11/can-iso-27001-help-protect-your-organization-from-cyber-attack-a-hackers-view-on-iso-27001-standard/&#34; target=&#34;_blank&#34;&gt;AC INFOTEC&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
