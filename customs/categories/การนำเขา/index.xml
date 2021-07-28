@@ -733,12 +733,12 @@
 &lt;p&gt;โครงสร้างข้อมูลใบขนสินค้าขาเข้า แบ่งได้เป็น 6 ส่วนดังนี้&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;#import-declaration-control&#34;&gt;&lt;strong&gt;Import Declaration Control&lt;/strong&gt;&lt;/a&gt;    ประกอบด้วย  73 Fields&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#import-invoice-control&#34;&gt;&lt;strong&gt;Import Invoice Control&lt;/strong&gt;&lt;/a&gt;    ประกอบด้วย  35 Fields&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#import-invoice-detail&#34;&gt;&lt;strong&gt;Import Invoice Detail&lt;/strong&gt;&lt;/a&gt;  ประกอบด้วย  76 Fields&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#import-invoice-duty&#34;&gt;&lt;strong&gt;Import Invoice Detail (Duty)&lt;/strong&gt;&lt;/a&gt; ประกอบด้วย  14 Fields&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#import-invoice-permit&#34;&gt;&lt;strong&gt;Import Invoice Detail (Permit)&lt;/strong&gt;&lt;/a&gt; ประกอบด้วย   3 Fields&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#import-invoice-deposit&#34;&gt;&lt;strong&gt;Import Invoice Detail (Deposit)&lt;/strong&gt;&lt;/a&gt;   ประกอบด้วย   2 Fields&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#declaration-control&#34;&gt;&lt;strong&gt;Import Declaration Control&lt;/strong&gt;&lt;/a&gt;   ประกอบด้วย  73 Fields&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#invoice-control&#34;&gt;&lt;strong&gt;Import Invoice Control&lt;/strong&gt;&lt;/a&gt;   ประกอบด้วย  35 Fields&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#invoice-detail&#34;&gt;&lt;strong&gt;Import Invoice Detail&lt;/strong&gt;&lt;/a&gt; ประกอบด้วย  76 Fields&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#invoice-duty&#34;&gt;&lt;strong&gt;Import Invoice Detail (Duty)&lt;/strong&gt;&lt;/a&gt;    ประกอบด้วย  14 Fields&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#invoice-permit&#34;&gt;&lt;strong&gt;Import Invoice Detail (Permit)&lt;/strong&gt;&lt;/a&gt;    ประกอบด้วย   3 Fields&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#invoice-deposit&#34;&gt;&lt;strong&gt;Import Invoice Detail (Deposit)&lt;/strong&gt;&lt;/a&gt;  ประกอบด้วย   2 Fields&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h2 id=&#34;เง-อนไขการบ-นท-กข-อม-ล&#34;&gt;เงื่อนไขการบันทึกข้อมูล&lt;/h2&gt;
