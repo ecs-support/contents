@@ -13,11 +13,29 @@
     
     
     <item>
+      <title>Document</title>
+      <link>https://ecs-support.github.io/KM/customs/categories/document/</link>
+      <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/categories/document/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>News</title>
       <link>https://ecs-support.github.io/KM/customs/categories/news/</link>
       <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/categories/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>คู่มือ</title>
+      <link>https://ecs-support.github.io/KM/customs/categories/%E0%B8%84%E0%B8%A1%E0%B8%AD/</link>
+      <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/categories/%E0%B8%84%E0%B8%A1%E0%B8%AD/</guid>
       <description></description>
     </item>
     
@@ -54,15 +72,6 @@
       <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/categories/knowledge/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Document</title>
-      <link>https://ecs-support.github.io/KM/customs/categories/document/</link>
-      <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/KM/customs/categories/document/</guid>
       <description></description>
     </item>
     
@@ -387,15 +396,6 @@
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/categories/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%81/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>คู่มือ</title>
-      <link>https://ecs-support.github.io/KM/customs/categories/%E0%B8%84%E0%B8%A1%E0%B8%AD/</link>
-      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/KM/customs/categories/%E0%B8%84%E0%B8%A1%E0%B8%AD/</guid>
       <description></description>
     </item>
     
