@@ -1,0 +1,1143 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academia 4.3.1">
+  <meta name="generator" content="Hugo 0.83.1" />
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Administrator">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="การควบคุมการเข้าถึง (Access Control) การควบคุมการเข้าถึงระบบสารสนเทศ (Business Requirement for Access Control)  วัตถุประสงค์: เพื่อควบคุมการเข้าถึงข้อมูลและระบบสารสนเทศให้มีความมั่นคงปลอดภัย
+ นโยบายควบคุมการเข้าถึง (Access Control Policy)  มีการกำหนดให้มีการควบคุมการใช้งานข้อมูลและระบบสารสนเทศ เพื่อควบคุมการเข้าถึงให้เข้าได้
+เฉพาะผู้ที่ได้รับอนุญาตเท่านั้นโดยปฏิบัติตามคู่มือการปฏิบัติงานเรื่องการบริหารจัดการผู้ใช้งาน (User
+Management Procedure) ต้องกำหนดสิทธิ์การเข้าถึงข้อมูลและระบบสารสนเทศให้เหมาะสมกับการเข้าใช้งานและหน้าที่ความ
+รับผิดชอบของผู้ใช้งานก่อนเข้าใช้ระบบเทคโนโลยีสารสนเทศและการสื่อสาร รวมทั้งมีการทบทวนสิทธิ์การเข้าถึง อย่างสม่ำเสมอ ทั้งนี้ผู้ใช้งานจะต้องได้รับอนุญาตจากผู้บังคับบัญชาตามความ จำเป็นในการใช้งาน ผู้ดูแลระบบเท่านั้นที่สามารถแก้ไขเปลี่ยนแปลงสิทธิ์การเข้าถึงข้อมูลและระบบสารสนเทศได้ ต้องมีการบันทึกและติดตามการใช้งานระบบเทคโนโลยีสารสนเทศและการสื่อสารขององค์กร และ
+เฝ้าระวังการละเมิดความปลอดภัย ที่มีต่อข้อมูลและระบบสารสนเทศที่สำคัญ ต้องบันทึกรายละเอียดการเข้าถึงระบบ การแก้ไขเปลี่ยนแปลงสิทธิ์ต่าง ๆ ของทั้งผู้ที่ได้รับอนุญาตและ
+ไม่ได้รับอนุญาต เพื่อเป็นหลักฐานในการตรวจสอบหากมีปัญหาเกิดขึ้น ต้องกำหนดกฎเกณฑ์ข้อห้ามและบทลงโทษการเข้าถึงข้อมูลและระบบสารสนเทศ การเข้าถึงข้อมูล และระบบสารสนเทศ จะกระทำได้ก็ต่อเมื่อได้รับการอนุมัติโดยผู้บังคับบัญชาของบุคคล
+นั้นๆ และสามารถเข้าใช้ข้อมูล และระบบเฉพาะที่เกี่ยวข้องกับงานในหน้าที่ของบุคคลนั้น ๆ เท่านั้น ความปลอดภัยของข้อมูล และกระบวนการรักษาความลับของข้อมูล ถือว่าเป็นส่วนหนึ่งในการกำหนดนโยบาย และขั้นตอนการทำงานของระบบ สารสนเทศ กระบวนการเหล่านี้หมายรวมถึงการให้สิทธิ์ และการบริหารจัดการรหัสในการเข้าใช้งาน การกำหนดขอบเขตในการ เข้าถึงข้อมูล หรือระบบคอมพิวเตอร์ และอุปกรณ์ที่เก็บข้อมูลประเภทอื่น ๆ การสำรองข้อมูลและการกู้ข้อมูลที่เสียหายกลับคืนมา  การจัดการการเข้าถึงระบบของผู้ใช้งาน (User Access Management)  วัตถุประสงค์: เพื่อป้องกันไม่ให้ผู้ที่ไม่มีสิทธิ์ใช้งานสามารถเข้าถึงระบบสารสนเทศได้">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://ecs-support.github.io/KM/customs/pages/knowledge/iso/docs/access-control/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#fc6f5c">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kanit:400,700|Sarabun|Roboto+Mono&display=swap">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/KM/customs/css/academia.min.03d97367d1c775ac60f1d07cf384bcd1.css">
+
+  
+    
+    
+    
+    
+      
+    
+    
+    
+    <link rel="stylesheet" href="/KM/customs/css/academia.8e48931533bf2553250885ee11088798.css">
+  
+
+  
+  
+  
+
+  
+
+  <link rel="manifest" href="/KM/customs/site.webmanifest">
+  <link rel="icon" type="image/png" href="/KM/customs/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/KM/customs/img/icon-192.png">
+
+  <link rel="canonical" href="https://ecs-support.github.io/KM/customs/pages/knowledge/iso/docs/access-control/">
+
+  
+  
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="ECS">
+  <meta property="og:url" content="https://ecs-support.github.io/KM/customs/pages/knowledge/iso/docs/access-control/">
+  <meta property="og:title" content=" | ECS">
+  <meta property="og:description" content="การควบคุมการเข้าถึง (Access Control) การควบคุมการเข้าถึงระบบสารสนเทศ (Business Requirement for Access Control)  วัตถุประสงค์: เพื่อควบคุมการเข้าถึงข้อมูลและระบบสารสนเทศให้มีความมั่นคงปลอดภัย
+ นโยบายควบคุมการเข้าถึง (Access Control Policy)  มีการกำหนดให้มีการควบคุมการใช้งานข้อมูลและระบบสารสนเทศ เพื่อควบคุมการเข้าถึงให้เข้าได้
+เฉพาะผู้ที่ได้รับอนุญาตเท่านั้นโดยปฏิบัติตามคู่มือการปฏิบัติงานเรื่องการบริหารจัดการผู้ใช้งาน (User
+Management Procedure) ต้องกำหนดสิทธิ์การเข้าถึงข้อมูลและระบบสารสนเทศให้เหมาะสมกับการเข้าใช้งานและหน้าที่ความ
+รับผิดชอบของผู้ใช้งานก่อนเข้าใช้ระบบเทคโนโลยีสารสนเทศและการสื่อสาร รวมทั้งมีการทบทวนสิทธิ์การเข้าถึง อย่างสม่ำเสมอ ทั้งนี้ผู้ใช้งานจะต้องได้รับอนุญาตจากผู้บังคับบัญชาตามความ จำเป็นในการใช้งาน ผู้ดูแลระบบเท่านั้นที่สามารถแก้ไขเปลี่ยนแปลงสิทธิ์การเข้าถึงข้อมูลและระบบสารสนเทศได้ ต้องมีการบันทึกและติดตามการใช้งานระบบเทคโนโลยีสารสนเทศและการสื่อสารขององค์กร และ
+เฝ้าระวังการละเมิดความปลอดภัย ที่มีต่อข้อมูลและระบบสารสนเทศที่สำคัญ ต้องบันทึกรายละเอียดการเข้าถึงระบบ การแก้ไขเปลี่ยนแปลงสิทธิ์ต่าง ๆ ของทั้งผู้ที่ได้รับอนุญาตและ
+ไม่ได้รับอนุญาต เพื่อเป็นหลักฐานในการตรวจสอบหากมีปัญหาเกิดขึ้น ต้องกำหนดกฎเกณฑ์ข้อห้ามและบทลงโทษการเข้าถึงข้อมูลและระบบสารสนเทศ การเข้าถึงข้อมูล และระบบสารสนเทศ จะกระทำได้ก็ต่อเมื่อได้รับการอนุมัติโดยผู้บังคับบัญชาของบุคคล
+นั้นๆ และสามารถเข้าใช้ข้อมูล และระบบเฉพาะที่เกี่ยวข้องกับงานในหน้าที่ของบุคคลนั้น ๆ เท่านั้น ความปลอดภัยของข้อมูล และกระบวนการรักษาความลับของข้อมูล ถือว่าเป็นส่วนหนึ่งในการกำหนดนโยบาย และขั้นตอนการทำงานของระบบ สารสนเทศ กระบวนการเหล่านี้หมายรวมถึงการให้สิทธิ์ และการบริหารจัดการรหัสในการเข้าใช้งาน การกำหนดขอบเขตในการ เข้าถึงข้อมูล หรือระบบคอมพิวเตอร์ และอุปกรณ์ที่เก็บข้อมูลประเภทอื่น ๆ การสำรองข้อมูลและการกู้ข้อมูลที่เสียหายกลับคืนมา  การจัดการการเข้าถึงระบบของผู้ใช้งาน (User Access Management)  วัตถุประสงค์: เพื่อป้องกันไม่ให้ผู้ที่ไม่มีสิทธิ์ใช้งานสามารถเข้าถึงระบบสารสนเทศได้"><meta property="og:image" content="https://ecs-support.github.io/KM/customs/img/icon-192.png">
+  <meta property="twitter:image" content="https://ecs-support.github.io/KM/customs/img/icon-192.png"><meta property="og:locale" content="en-us">
+  
+  
+  <meta property="article:modified_time" content="2021-07-20T03:11:28&#43;07:00">
+  
+
+  
+
+
+  
+
+
+
+
+
+  <title> | ECS</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/KM/customs/"><img src="/KM/customs/img/logo.png" alt="ECS"></a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation"><span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/#hero"><span>หน้าแรก</span></a>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>พิธีการศุลกากร</span><span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu">
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/pages/import/"><span>การนำเข้าสินค้า</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/pages/export/"><span>การส่งออกสินค้า</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/pages/transit/"><span>สินค้าถ่ายลำ/ผ่านแดน</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/pages/tax-inc/"><span>สิทธิประโยชน์ทางภาษี</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/pages/fta/"><span>สิทธิพิเศษทางการค้า</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/pages/ata-carnet/"><span>A.T.A. CARNET</span></a>
+            </li>
+            
+          </ul>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>เรื่องน่ารู้</span><span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu">
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/pages/restricted/"><span>ของควบคุมการนำเข้า-ส่งออก</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/pages/tariff/"><span>พิกัดศุลกากร</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/pages/price/"><span>ราคาศุลกากร</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/pages/customs/"><span>กรมศุลกากร</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/pages/company/"><span>ผู้ประกอบการ</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="https://ecs-support.github.io/KM/reference/"><span>Reference data</span></a>
+            </li>
+            
+          </ul>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>ประกาศ/กฎหมาย</span><span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu">
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/post/announcement/customs/"><span>ประกาศกรมศุลกากร</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/post/announcement/ministry/"><span>ประกาศกระทรวง</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/post/announcement/oga/"><span>ประกาศหน่วยงานอื่น ๆ</span></a>
+            </li>
+            
+          </ul>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>ข่าวสาร/บทความ</span><span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu">
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/post/knowledge/"><span>สาระความรู้</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/post/news/"><span>ข่าวสาร</span></a>
+            </li>
+            
+          </ul>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>คลังความรู้</span><span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu">
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/pages/knowledge/iso/"><span>ISO-20007</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/KM/customs/docs/"><span>เอกสารเผยแพร่</span></a>
+            </li>
+            
+          </ul>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/KM/customs/faq/"><span>FAQ</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  <article class="article py-5" itemscope itemtype="http://schema.org/Article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+    
+    
+    <div class="article-container py-3">
+      <h1 itemprop="name"></h1>
+
+       
+
+   
+      
+      
+
+
+
+
+<meta content="" itemprop="startDate">
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+     <i class="far fa-calendar-alt"></i>
+    
+   
+      
+    
+    <time>Jan 1, 0001</time>
+  </span>
+  
+
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+    
+
+  
+
+
+
+</div>
+
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+      
+
+      
+
+         
+       
+      
+    </div>
+  </div>
+</div>
+
+  <div class="article-container">
+<button id="myBtn" onclick="topFunction()" title="Go to top"><i class="fas fa-chevron-up"></i></button>
+    <div class="article-style" itemprop="articleBody">
+      <h1 id="การควบคมการเขาถง-access-control">การควบคุมการเข้าถึง (Access Control)</h1>
+<h2 id="การควบคมการเขาถงระบบสารสนเทศ-business-requirement-for-access-control">การควบคุมการเข้าถึงระบบสารสนเทศ (Business Requirement for Access Control)</h2>
+<blockquote>
+<p><strong>วัตถุประสงค์</strong>: เพื่อควบคุมการเข้าถึงข้อมูลและระบบสารสนเทศให้มีความมั่นคงปลอดภัย</p>
+</blockquote>
+<h2 id="นโยบายควบคมการเขาถง-access-control-policy">นโยบายควบคุมการเข้าถึง (Access Control Policy)</h2>
+<ol>
+<li>มีการกำหนดให้มีการควบคุมการใช้งานข้อมูลและระบบสารสนเทศ เพื่อควบคุมการเข้าถึงให้เข้าได้<br>
+เฉพาะผู้ที่ได้รับอนุญาตเท่านั้นโดยปฏิบัติตามคู่มือการปฏิบัติงานเรื่องการบริหารจัดการผู้ใช้งาน (User<br>
+Management Procedure)</li>
+<li>ต้องกำหนดสิทธิ์การเข้าถึงข้อมูลและระบบสารสนเทศให้เหมาะสมกับการเข้าใช้งานและหน้าที่ความ<br>
+รับผิดชอบของผู้ใช้งานก่อนเข้าใช้ระบบเทคโนโลยีสารสนเทศและการสื่อสาร รวมทั้งมีการทบทวนสิทธิ์การเข้าถึง  อย่างสม่ำเสมอ  ทั้งนี้ผู้ใช้งานจะต้องได้รับอนุญาตจากผู้บังคับบัญชาตามความ  จำเป็นในการใช้งาน</li>
+<li>ผู้ดูแลระบบเท่านั้นที่สามารถแก้ไขเปลี่ยนแปลงสิทธิ์การเข้าถึงข้อมูลและระบบสารสนเทศได้</li>
+<li>ต้องมีการบันทึกและติดตามการใช้งานระบบเทคโนโลยีสารสนเทศและการสื่อสารขององค์กร และ<br>
+เฝ้าระวังการละเมิดความปลอดภัย ที่มีต่อข้อมูลและระบบสารสนเทศที่สำคัญ</li>
+<li>ต้องบันทึกรายละเอียดการเข้าถึงระบบ การแก้ไขเปลี่ยนแปลงสิทธิ์ต่าง ๆ ของทั้งผู้ที่ได้รับอนุญาตและ<br>
+ไม่ได้รับอนุญาต เพื่อเป็นหลักฐานในการตรวจสอบหากมีปัญหาเกิดขึ้น</li>
+<li>ต้องกำหนดกฎเกณฑ์ข้อห้ามและบทลงโทษการเข้าถึงข้อมูลและระบบสารสนเทศ</li>
+<li>การเข้าถึงข้อมูล และระบบสารสนเทศ จะกระทำได้ก็ต่อเมื่อได้รับการอนุมัติโดยผู้บังคับบัญชาของบุคคล<br>
+นั้นๆ และสามารถเข้าใช้ข้อมูล และระบบเฉพาะที่เกี่ยวข้องกับงานในหน้าที่ของบุคคลนั้น ๆ เท่านั้น ความปลอดภัยของข้อมูล และกระบวนการรักษาความลับของข้อมูล ถือว่าเป็นส่วนหนึ่งในการกำหนดนโยบาย และขั้นตอนการทำงานของระบบ  สารสนเทศ กระบวนการเหล่านี้หมายรวมถึงการให้สิทธิ์ และการบริหารจัดการรหัสในการเข้าใช้งาน การกำหนดขอบเขตในการ  เข้าถึงข้อมูล หรือระบบคอมพิวเตอร์ และอุปกรณ์ที่เก็บข้อมูลประเภทอื่น ๆ การสำรองข้อมูลและการกู้ข้อมูลที่เสียหายกลับคืนมา</li>
+</ol>
+<h2 id="การจดการการเขาถงระบบของผใชงาน-user-access-management">การจัดการการเข้าถึงระบบของผู้ใช้งาน (User Access Management)</h2>
+<blockquote>
+<p><strong>วัตถุประสงค์</strong>: เพื่อป้องกันไม่ให้ผู้ที่ไม่มีสิทธิ์ใช้งานสามารถเข้าถึงระบบสารสนเทศได้</p>
+</blockquote>
+<h3 id="การลงทะเบยนผใชงานใหม-user-registration">การลงทะเบียนผู้ใช้งานใหม่ (User Registration)</h3>
+<p>การลงทะเบียนผู้ใช้งานใหม่ ต้องกำหนดให้มีระเบียบปฏิบัติอย่างเป็นทางการสำหรับการลงทะเบียน<br>
+ผู้ใช้งานใหม่เพื่อให้มีสิทธิ์ต่าง ๆ ในการใช้งานตามความจำเป็นรวมทั้งระเบียบปฏิบัติสำหรับการยกเลิกสิทธิ์การ<br>
+ใช้งาน เช่น เมื่อลาออกไป หรือเมื่อเปลี่ยนตำแหน่งงานภายในองค์กร เป็นต้น  โดยผู้ใช้งานต้อง<br>
+ได้รับการทบทวน และพิจารณาอนุมัติตามขั้นตอนขององค์กรอย่างเคร่งครัด</p>
+<h3 id="การบรหารสทธการเขาถงระบบของผใชงานระบบ-privilege-management">การบริหารสิทธิ์การเข้าถึงระบบของผู้ใช้งานระบบ (Privilege Management)</h3>
+<ol>
+<li>ต้องกำหนดสิทธิ์ของผู้ใช้งานในการเข้าถึงระบบสารสนเทศแต่ละระบบ รวมทั้งกำหนดสิทธิ์แยกตาม<br>
+หน้าที่ที่รับผิดชอบด้วย</li>
+<li>ผู้ใช้งานต้องได้รับการตรวจพิสูจน์ตัวตนทุกครั้งเมื่อทำการ Log-on เข้าสู่ระบบสารสนเทศ</li>
+</ol>
+<h3 id="การบรหารจดการรหสผานผใชงาน-user-password-management">การบริหารจัดการรหัสผ่านผู้ใช้งาน (User Password Management)</h3>
+<p>ต้องบริหารจัดการรหัสผ่านของผู้ใช้งานให้มีความมั่นคงปลอดภัยอยู่เสมอ</p>
+<h3 id="การทบทวนสทธในการเขาถงระบบของผใชงาน-review-of-user-access-rights">การทบทวนสิทธิ์ในการเข้าถึงระบบของผู้ใช้งาน (Review of User Access Rights)</h3>
+<p>ต้องทบทวนสิทธิ์ในการเข้าถึงระบบสารสนเทศตามระยะเวลาที่กำหนดไว้</p>
+<h2 id="การรบผดชอบหนาทของผใชงาน-user-responsibilities">การรับผิดชอบหน้าที่ของผู้ใช้งาน (User Responsibilities)</h2>
+<blockquote>
+<p><strong>วัตถุประสงค์</strong>: เพื่อป้องกันไม่ให้ผู้ที่ไม่มีสิทธิ์ สามารถเข้าถึงระบบสารสนเทศได้</p>
+</blockquote>
+<h3 id="การใชงานรหสผาน-password-use">การใช้งานรหัสผ่าน (Password Use)</h3>
+<ol>
+<li>ผู้ดูแลระบบที่รับผิดชอบระบบงานนั้น ๆ ต้องกำหนดสิทธิ์ของผู้ใช้งานในการเข้าถึงระบบเทคโนโลยี<br>
+สารสนเทศและการสื่อสารแต่ละระบบ รวมทั้งกำหนดสิทธิ์แยกตามหน้าที่ที่รับผิดชอบ</li>
+<li>เจ้าหน้าที่ต้องปฏิบัติตามการควบคุมการเข้าถึงสารสนเทศองค์กร การกำหนดการเปลี่ยนแปลงและการ<br>
+ยกเลิกรหัสผ่านและการจัดการควบคุมการใช้รหัสผ่าน</li>
+<li>กรณีมีความจำเป็นต้องให้สิทธิ์พิเศษกับผู้ใช้งาน หมายถึง ผู้ใช้งานที่มีสิทธิ์สูงสุด ต้องมีการพิจารณาการ<br>
+ควบคุมผู้ใช้งานที่มีสิทธิ์พิเศษนั้นอย่างรัดกุมเพียงพอ โดยใช้ปัจจัยต่อไปนี้ประกอบการพิจารณา
+<ul>
+<li>ควรได้รับความเห็นชอบและอนุมัติจากผู้บังคับบัญชาและผู้ดูแลระบบงานนั้น ๆ</li>
+<li>ควรควบคุมการใช้งานอย่างเข้มงวด เช่น กำหนดให้มีการควบคุมการใช้งานเฉพาะกรณีจำเป็น<br>
+เท่านั้น</li>
+<li>ควรกำหนดระยะเวลาการใช้งานและระงับการใช้งานทันทีเมื่อพ้นระยะเวลาดังกล่าว</li>
+<li>ควรมีการเปลี่ยนรหัสผ่านอย่างเคร่งครัด</li>
+</ul>
+</li>
+<li>ผู้ใช้งานต้องเป็นผู้รับผิดชอบในการดูแล รักษา User Name และรหัสผ่านของตนเอง รวมทั้งข้อมูลส่วน<br>
+บุคคลที่อาจนำมาใช้เพื่อขอเปลี่ยนแปลงข้อมูลบัญชีการใช้งานระบบได้ ให้มีความมั่งคงปลอดภัยอย่าง<br>
+สม่ำเสมอ</li>
+<li>รหัสผ่านต้องได้รับการเปลี่ยนเมื่อเข้าใช้งานครั้งแรก และเปลี่ยนอย่างสม่ำเสมอตามช่วงระยะเวลาที่<br>
+กำหนดไว้</li>
+<li>รหัสผ่านต้องมีความมั่นคงปลอดภัย</li>
+<li>รหัสผ่านถือเป็นข้อมูลลับ และเป็นหน้าที่ของผู้ใช้งานทุกคนที่ต้องเก็บรักษารหัสผ่านอย่างมั่นคงปลอดภัย<br>
+ห้ามใช้ Account ร่วมกันหรือให้ผู้อื่นเข้าใช้งาน Account ของตนโดยเด็ดขาด ทั้งนี้ รวมถึงสมาชิกใน<br>
+ครอบครัวเมื่อผู้ใช้งานนำงานกลับไปทำที่บ้านด้วย</li>
+<li>ผู้ใช้งานต้องรับผิดชอบต่อการกระทำใด ๆ ที่กระทำผ่าน User ID และรหัสผ่านของตนทั้งหมด</li>
+<li>รหัสผ่านของ Account ที่มีสิทธิพิเศษในระบบสำคัญขององค์กรต้องได้รับการควบคุมโดย ผู้ที่ได้รับมอบหมายหน้าที่อย่างเป็นทางการ</li>
+<li>ผู้ใช้งานทุกคนต้องได้รับการฝึกอบรมเพื่อให้มีความรู้และความตระหนักในการใช้งานรหัสผ่านอย่าง<br>
+ถูกต้อง และรับทราบเทคนิคต่าง ๆ ที่ใช้ในการหลอกลวงและนำไปสู่การโจรกรรมข้อมูล</li>
+<li>ระบบหรือการกระทำใด ๆ ที่ไม่สอดคล้องกับนโยบายฉบับนี้ต้องได้รับการบันทึกประเมิน และพิจารณา<br>
+อนุมัติอย่างเหมาะสม ตัวอย่างเช่น หากจำเป็นต้องมีการใช้งาน Account ร่วมกันโดยผู้ใช้งานตั้งแต่หนึ่งคนขึ้น<br>
+ไป ต้องมีการเก็บบันทึกรายชื่อผู้ที่มีสิทธิ์ใช้งาน Account ดังกล่าวและระบบทั้งหมดที่ Account นั้นมีสิทธิ์<br>
+เข้าถึง</li>
+<li>หากผู้ใช้งานสงสัยว่า User ID หรือรหัสผ่านของตนถูกล่วงละเมิด ให้ผู้ใช้งานแจ้งเหตุต่อผู้ที่รับผิดชอบ และทำ<br>
+การเปลี่ยนแปลงรหัสผ่านทั้งหมดทันที</li>
+<li>ผู้จัดการโครงการของระบบใหม่ที่เกิดขึ้นในองค์กรต้องตรวจสอบให้มั่นใจว่า ระบบในความดูแลของตน<br>
+สอดคล้องกับเนื้อหาของนโยบายฉบับนี้ รวมถึงเอกสารสนับสนุนอื่น ๆ ที่เกี่ยวข้องทั้งหมด และต้อง<br>
+ประสานงานกับผู้ดูแลระบบให้ทำการควบคุม และปรับแต่งค่าต่าง ๆ ของระบบให้เป็นไปตามข้อกำหนดที่<br>
+เกี่ยวข้องทั้งหมดนี้ก่อนเริ่มนำมาใช้งานจริง</li>
+<li>การ Reset Password ต้องผ่านกระบวนการมาตรฐานขององค์กรเท่านั้น เพื่อให้มั่นใจว่าตรงกับ User ที่<br>
+ต้องการ Reset รหัสผ่านจริง อีกทั้งเจ้าหน้าที่ที่ดูแลระบบมีสิทธิ์ในการขอข้อมูลและพิสูจน์ตัวตนของผู้ใช้งาน<br>
+ตามความเหมาะสม</li>
+<li>ในทางกลับกัน ผู้ใช้งานอาจได้รับการร้องขอจากเจ้าหน้าที่ที่ดูแลระบบให้ทำการเปลี่ยนรหัสผ่านใหม่ ในกรณีที่รหัสผ่าน<br>
+ของผู้ใช้งานไม่มีความมั่นคงปลอดภัย สามารถถูกคาดเดา หรือถูกล่วงละเมิดได้ง่าย ทั้งนี้ ผู้ใช้งานต้อง<br>
+ตรวจสอบความถูกต้องของแหล่งที่มาของคำร้องขอดังกล่าวด้วย เพื่อให้มั่นใจว่าการร้องขอนั้นไม่ได้เป็นการ<br>
+หลอกลวง</li>
+</ol>
+<h3 id="การปองกนอปกรณทไมมผดแล-unattended-user-equipment">การป้องกันอุปกรณ์ที่ไม่มีผู้ดูแล (Unattended User Equipment)</h3>
+<p>ต้องป้องกันไม่ให้ผู้ไม่มีสิทธิ์เข้าถึงอุปกรณ์สำนักงาน ระบบสารสนเทศ ระบบคอมพิวเตอร์และระบบ<br>
+เครือข่าย ที่ไม่มีผู้ดูแล</p>
+<h3 id="การควบคมการไมทงทรพยสนสารสนเทศทสำคญไวในทไมปลอดภย-clear-desk-and-clear-screen-policy">การควบคุมการไม่ทิ้งทรัพย์สินสารสนเทศที่สำคัญไว้ในที่ไม่ปลอดภัย (Clear Desk and Clear Screen Policy)</h3>
+<p>เจ้าหน้าที่ต้องกำหนดการควบคุมเอกสาร ข้อมูล หรือสื่อต่าง ๆ ที่มีข้อมูลสำคัญจัดเก็บ หรือบันทึกอยู่<br>
+ไม่ให้วางทิ้งไว้บนโต๊ะทำงานหรือในสถานที่ไม่ปลอดภัยในขณะไม่ได้นำมาใช้งาน ตลอดจนการควบคุมหน้าจอ<br>
+คอมพิวเตอร์ (Desktop) ไม่ให้มีข้อมูลสำคัญ ปรากฏในขณะไม่ได้ใช้งาน</p>
+<h2 id="การควบคมการเขาถงเครอขาย-network-access-control">การควบคุมการเข้าถึงเครือข่าย (Network Access Control)</h2>
+<blockquote>
+<p><strong>วัตถุประสงค์</strong>: เพื่อควบคุมการใช้บริการบนเครือข่ายขององค์กร</p>
+</blockquote>
+<h3 id="นโยบายการใชงานบรการเครอขาย-policy-on-use-of-network-services">นโยบายการใช้งานบริการเครือข่าย (Policy on Use of Network Services)</h3>
+<ol>
+<li>ต้องควบคุมการเข้าถึงเครือข่ายและบริการบนเครือข่ายโดยเฉพาะเพื่อรักษาความมั่นคงปลอดภัย<br>
+ให้แก่ข้อมูลและระบบเทคโนโลยีสารสนเทศ อาทิ
+<ul>
+<li>ใช้งานโปรโตคอลที่มั่นคงปลอดภัยในการบริหารจัดการระบบเครือข่าย</li>
+<li>จำกัดการใช้งานเครือข่ายที่ส่งผลกระทบต่อ Bandwidth เช่น การรับ-ส่งไฟล์ขนาดใหญ่ ฟังเพลง<br>
+ออนไลน์ ดูทีวีออนไลน์ หรือ เล่นเกมส์ออนไลน์ ในช่วงเวลาทำการ ยกเว้นกรณีที่ได้รับอนุญาต</li>
+</ul>
+</li>
+<li>ระบบเครือข่ายต้องได้รับการออกแบบและตั้งค่าอย่างเหมาะสม เพื่อรักษาความมั่นคงปลอดภัยให้แก่<br>
+ข้อมูลสารสนเทศและระบบเทคโนโลยีสารสนเทศและการสื่อสาร อาทิ
+<ul>
+<li>อุปกรณ์ที่เชื่อมต่อกับระบบเครือข่ายทั้งหมดต้องได้รับการตั้งค่าให้มีความปลอดภัยและการมีการ<br>
+ตรวจสอบกิจกรรมต่างๆ ที่เกี่ยวข้องกับระบบเครือข่าย</li>
+<li>ระบบสายสัญญาณต้องได้รับมาตรฐานอุตสาหกรรมและได้รับการติดตั้งโดยผู้ที่มีความชำนาญที่<br>
+ผ่านการพิจารณาอนุมัติแล้ว</li>
+<li>อุปกรณ์เครือข่าย อาทิ Router, Firewall, Switch, Wireless Access Point ต้องได้รับการตั้ง<br>
+ค่าตามความจำเป็นด้านความมั่นคงปลอดภัยของอุปกรณ์นั้นๆ</li>
+<li>IP Address ต้องได้รับการลงทะเบียน แจกจ่ายและบริหารจัดการโดย</li>
+<li>อุปกรณ์เครือข่ายที่สำคัญ เช่น Router, Core Switch ต้องมีอุปกรณ์สำรองไฟฟูา (UPS) เสมอ</li>
+<li>การเปลี่ยนแปลงระบบเครือข่ายหรืออุปกรณ์เครือข่ายต้องได้รับการควบคุมโดยปฏิบัติตามคู่มือ<br>
+ปฏิบัติงานเรื่องการจัดการการเปลี่ยนแปลง (Change Management Procedure) ระบบ<br>
+คอมพิวเตอร์แม่ข่ายและระบบเครือข่าย</li>
+<li>ระบบเครือข่ายต้องได้รับการออกแบบหรือตั้งค่าให้ทำงานได้อย่างมีประสิทธิภาพ (Reliable) มี<br>
+ความยืดหยุ่น (Flexible) รวมถึงสามารถรองรับการขยายตัวและความต้องการใช้งานในอนาคต<br>
+(Scalable)</li>
+</ul>
+</li>
+<li>ข้อตกลงการให้บริการเครือข่ายต้องระบุถึงรายละเอียด และข้อกำหนดเกี่ยวกับการรักษาความมั่นคง<br>
+ปลอดภัย ระดับการให้บริการ และการบริหารจัดการบริการเครือข่ายทั้งหมดหากบริการเครือข่ายนั้นได้รับการ<br>
+ดำเนินการโดยหน่วยงานภายนอก ต้องมีการระบุถึงสิทธิของบริษัทฯ ในการติดตามตรวจสอบ และตรวจ<br>
+ประเมินการทำงานของหน่วยงานภายนอกด้ว</li>
+</ol>
+<h3 id="การพสจนตวตนของการเชอมตอจากภายนอก-user-authentication-for-external-connections">การพิสูจน์ตัวตนของการเชื่อมต่อจากภายนอก (User authentication for external connections)</h3>
+<p>ต้องมีกลไกในการพิสูจน์ตัวตนที่เหมาะสมในการควบคุมการเข้าถึงของผู้ใช้งานจากภายนอก</p>
+<h3 id="การระบและพสจนตวตนของอปกรณในระบบเครอขาย-equipment-identification-in-networks">การระบุและพิสูจน์ตัวตนของอุปกรณ์ในระบบเครือข่าย (Equipment identification in networks)</h3>
+<p>ต้องกำหนดให้อุปกรณ์บนเครือข่ายสามารถระบุและพิสูจน์ตัวตนเพื่อบ่งบอกว่าการเชื่อมต่อนั้นมา<br>
+จากอุปกรณ์หรือสถานที่ที่ได้รับอนุญาตแล้ว เพื่อให้มีการเชื่อมต่อได้เฉพาะอุปกรณ์และสถานที่ที่มีสิทธิ<br>
+เท่านั้น</p>
+<h3 id="การปองกนพอรตทใชสำหรบตรวจสอบและปรบแตงระบบ-remote-diagnostic-and-configuration-port-protection">การป้องกันพอร์ตที่ใช้สำหรับตรวจสอบและปรับแต่งระบบ (Remote Diagnostic and Configuration Port Protection)</h3>
+<ol>
+<li>ต้องมีการป้องกันการเข้าถึงพอร์ตที่ใช้สำหรับตรวจสอบและปรับแต่งระบบ และต้องครอบคลุมทั้ง<br>
+การป้องกันทางกายภาพและการป้องกันการเข้าถึงโดยผ่านทางเครือข่าย</li>
+<li>พอร์ตที่ไม่เกี่ยวข้องกับการปฏิบัติงานหรือการดำเนินงานต้องถูกระงับการใช้งาน</li>
+</ol>
+<h3 id="การจดแบงเครอขายภายในองคกรกบภายนอกองคกร-segregation-in-networks">การจัดแบ่งเครือข่ายภายในองค์กรกับภายนอกองค์กร (Segregation in Networks)</h3>
+<ol>
+<li>ต้องออกแบบระบบเครือข่ายตามกลุ่มของบริการระบบเทคโนโลยีสารสนเทศและการสื่อสารที่มีการ<br>
+ใช้งานแบ่งตามกลุ่มของผู้ใช้ และกลุ่มของระบบสารสนเทศ เช่น โซนภายใน (Internal Zone) โซนภายนอก<br>
+(External Zone) เป็นต้น เพื่อทำให้การควบคุม และป้องกันการบุกรุกได้อย่างเป็นระบบ</li>
+<li>ต้องจัดทำแผนผังระบบเครือข่าย (Network Diagram) ต้องมีรายละเอียดเกี่ยวกับขอบเขตของเครือข่าย<br>
+ภายในและเครือข่ายภายนอก และอุปกรณ์ต่าง ๆ พร้อมทั้งปรับปรุงให้เป็นปัจจุบันอยู่เสมอ</li>
+</ol>
+<h3 id="การควบคมผใชงานในการใชงานเครอขาย-network-connection-control">การควบคุมผู้ใช้งานในการใช้งานเครือข่าย (Network Connection Control)</h3>
+<ol>
+<li>ต้องจำกัดสิทธิ์การใช้งานเพื่อควบคุมผู้ใช้งานให้สามารถใช้งานเฉพาะเครือข่ายที่ได้รับอนุญาตเท่านั้น<br>
+และให้ผู้ใช้งานปฏิบัติตามนโยบายข้อ 3.1.3 การอนุญาตให้ใช้สินทรัพย์ (Acceptable Use for Assets)</li>
+<li>บริการเครือข่าย (Network Services) ที่ไม่เกี่ยวข้องกับการปฏิบัติงานหรือการดำเนินงานต้องถูกระงับ<br>
+การใช้งาน</li>
+</ol>
+<h3 id="การจำกดเสนทางการเขาถงเครอขายทมการใชงานรวมกน-network-routing-control">การจำกัดเส้นทางการเข้าถึงเครือข่ายที่มีการใช้งานร่วมกัน (Network Routing Control)</h3>
+<ol>
+<li>ต้องจำกัดเส้นทางการเข้าถึงเครือข่ายที่มีการใช้งานร่วมกัน ดังนี้
+<ul>
+<li>ตรวจสอบความน่าเชื่อถือของต้นทางและปลายทางเพื่อควบคุมการเชื่อมต่อให้เป็นไปตามที่<br>
+กำหนดไว้ใน Routing Table เท่านั้น เพื่อป้องกันการเชื่อมต่อกับเครือข่ายที่ไม่เหมาะสม</li>
+<li>ตรวจสอบเส้นทางการเชื่อมต่อที่กำหนดไว้ใน Routing Table อย่างสม่ าเสมอ</li>
+<li>IP Address ของเครือข่ายภายในต้องไม่ถูกเปิดเผยต่อเครือข่ายภายนอก</li>
+</ul>
+</li>
+</ol>
+<h2 id="การควบคมการใชงานระบบปฏบตการ-operating-system-access-control">การควบคุมการใช้งานระบบปฏิบัติการ (Operating System Access Control)</h2>
+<blockquote>
+<p>วัตถุประสงค์: เพื่อป้องกันการใช้งานระบบปฏิบัติการโดยไม่ได้รับอนุญาต</p>
+</blockquote>
+<h3 id="กระบวนการเขาถงระบบ--secure-log-on-procedures">กระบวนการเข้าถึงระบบ  (Secure Log-on Procedures)</h3>
+<p>ต้องกำหนดกระบวนการในการเข้าถึงระบบให้มีความมั่นคงปลอดภัย เช่น กำหนดให้ระบบให้บริการ
+จะปฏิเสธการใช้งานหากผู้ใช้พิมพ์รหัสผ่านผิดพลาดเกิน 3 ครั้ง เป็นต้น</p>
+<h3 id="การพสจนตวตนสำหรบผใชงานระบบ--user-identification-and-authentication">การพิสูจน์ตัวตนสำหรับผู้ใช้งานระบบ  (User Identification and Authentication)</h3>
+<p>ต้องกำหนดให้มีการพิสูจน์ตัวตนสำหรับผู้ใช้งานระบบเป็นรายบุคคลก่อนที่จะอนุญาตให้เข้าใช้งาน
+ระบบ</p>
+<h3 id="การบรหารจดการรหสผาน--password-management-system">การบริหารจัดการรหัสผ่าน  (Password Management System)</h3>
+<p>ต้องจัดให้มีระบบหรือวิธีการในการตรวจสอบคุณภาพของรหัสผ่าน และมีวิธีการควบคุมดูแลให้
+ผู้ใช้งานระบบเปลี่ยนรหัสผ่านตามระยะเวลาที่กำหนด</p>
+<h3 id="การควบคมการใชงานโปรแกรมยทลต--use-of-system-utilities">การควบคุมการใช้งานโปรแกรมยูทิลิตี้  (Use of System Utilities)</h3>
+<p>ต้องกำหนดให้มีการควบคุมการใช้โปรแกรมยูทิลิตี้สำหรับระบบ เพื่อป้องกันการเข้าถึงโดยผู้ที่ไม่ได้
+รับอนุญาต ได้แก่
+- ก่อนใช้ต้องทำการพิสูจน์ตัวตนก่อน
+- ให้ทำการแยกโปรแกรมยูทิลิตี้ออกจากโปรแกรมระบบงาน
+- จำกัดการใช้งานโปรแกรมยูทิลิตี้ให้เฉพาะผู้ที่ได้รับมอบหมายแล้วเท่านั้น
+- ให้บันทึกรายละเอียดการเข้าใช้งานโปรแกรมยูทิลิตี้ เช่น ผู้ใช้งานระบบ เป็นต้น</p>
+<h3 id="การกำหนดเวลาการใชงานระบบ--session-time-out">การกำหนดเวลาการใช้งานระบบ  (Session Time-out)</h3>
+<p>ต้องมีวิธีการตัดเวลาการใช้งานเครื่องคอมพิวเตอร์ลูกข่าย  เมื่อเครื่องคอมพิวเตอร์ลูกข่ายนั้นไม่ได้มี
+การใช้งานเป็นระยะเวลาหนึ่ง เช่น กลไกการล็อกหน้าจอ และต้องใช้รหัสผ่านในการเข้าสู่ระบบ</p>
+<h2 id="การควบคมการใชงานระบบสารสนเทศและสารสนเทศ-application-and-information-access-control">การควบคุมการใช้งานระบบสารสนเทศและสารสนเทศ (Application and Information Access Control)</h2>
+<blockquote>
+<p>วัตถุประสงค์: เพื่อป้องกันการใช้งานระบบสารสนเทศและสารสนเทศโดยไม่ได้รับอนุญาต</p>
+</blockquote>
+<h3 id="การจำกดการใชงานสารสนเทศ--information-access-restriction">การจำกัดการใช้งานสารสนเทศ  (Information Access Restriction)</h3>
+<ol>
+<li>ต้องมีการควบคุมการใช้งานสารสนเทศในระบบสารสนเทศ ได้แก่  กำหนดสิทธิ์ในการใช้งาน เช่น 
+เขียน อ่าน ลบ ได้ เป็นต้น  กำหนดกลุ่มของผู้ใช้ที่สามารถใช้งานได้ ตรวจสอบว่าสารสนเทศที่อนุญาตให้ใช้งาน
+นั้นมีเฉพาะข้อมูลที่จำเป็นต้องใช้งาน</li>
+<li>บัญชีผู้ใช้งานที่มีสิทธิ์การเข้าถึงระบบสารสนเทศในระดับพิเศษ เช่น  Root หรือ  Administrator ต้องได้รับ
+การพิจารณามอบหมายให้แก่ผู้ใช้งานตามความจำเป็นและมีการกำหนดระยะเวลาในการเข้าถึงอย่างเหมาะสม
+กับการทำงานเท่านั้น</li>
+<li>บุคคลภายนอก ต้องแสดงความยินยอมปฎิบัติตามนโยบายด้านการรักษาความมั่นคงปลอดภัยด้าน
+เทคโนโลยีสารสนเทศและการสื่อสาร (ICT Security Policy) ขององค์กรอย่างเคร่งครัด ก่อนที่จะได้รับ
+อนุญาตให้เข้าถึงระบบเทคโนโลยีสารสนเทศขององค์กร</li>
+</ol>
+<h3 id="การแยกระบบสารสนเทศทมความสำคญสง--sensitive-system-isolation">การแยกระบบสารสนเทศที่มีความสำคัญสูง  (Sensitive System Isolation)</h3>
+<p>ต้องมีการแยกระบบสารสนเทศที่มีความสำคัญ หรือมีความเสี่ยงสูงไว้อีกบริเวณหนึ่ง เช่น  การแบ่ง
+ระหว่างระบบที่เชื่อมต่ออินเทอร์เน็ตกับระบบอินทราเน็ตภายในที่ใช้งานในองค์กร เป็นต้น</p>
+<h2 id="การควบคมการเขาถงขอมลสารสนเทศ-information-technology-access-control">การควบคุมการเข้าถึงข้อมูลสารสนเทศ (Information Technology Access Control)</h2>
+<blockquote>
+<p>วัตถุประสงค์: เพื่อป้องกันการเข้าถึงข้อมูลสารสนเทศโดยไม่ได้รับอนุญาต</p>
+</blockquote>
+<h3 id="การเขาถงขอมลสารสนเทศ--information-technology-access">การเข้าถึงข้อมูลสารสนเทศ  (Information Technology Access)</h3>
+<p>สิทธิ์การเข้าถึงไฟล์ข้อมูลสารสนเทศต้องได้รับการควบคุม และได้รับการพิจารณาอนุมัติเท่าที่จำเป็น
+เท่านั้น เพื่อให้ไฟล์ข้อมูลสารสนเทศได้รับการรักษาความมั่นคงปลอดภัยอย่างมีประสิทธิภาพ รวมทั้งเป็นการ
+แบ่งแยกสิทธิ์ และหน้าที่ของผู้ใช้งาน</p>
+<h2 id="คอมพวเตอรประเภทพกพาและการปฏบตงานนอกสถานท-mobile-computing">คอมพิวเตอร์ประเภทพกพาและการปฏิบัติงานนอกสถานที่ (Mobile Computing)</h2>
+<blockquote>
+<p>วัตถุประสงค์: เพื่อควบคุมการใช้งานอุปกรณ์คอมพิวเตอร์ประเภทพกพาได้ รวมทั้งการปฏิบัติงานนอก
+สำนักงานให้เป็นไปอย่างปลอดภัย</p>
+</blockquote>
+<h3 id="การปองกนขอมลและทรพยสนดานสารสนเทศทอยในเครองคอมพวเตอรประเภทพกพา-mobile-computing-and-communications">การป้องกันข้อมูลและทรัพย์สินด้านสารสนเทศที่อยู่ในเครื่องคอมพิวเตอร์ประเภทพกพา (Mobile Computing and Communications)</h3>
+<p>ต้องมีวิธีการป้องกันข้อมูลและทรัพย์สินด้านสารสนเทศที่อยู่ในเครื่องคอมพิวเตอร์ประเภทพกพา 
+(Notebook, Palmtops, Laptop) และอุปกรณ์สื่อสารอื่น ๆ เช่น เมื่อปฏิบัติงานอยู่นอกสถานที่
+- ต้องใส่รหัสผ่านป้องกันหน้าจอทุกเครื่อง
+- ต้องใส่รหัสผ่านป้องกันข้อมูลที่สำคัญ</p>
+<h3 id="การปฏบตงานจากภายนอก--teleworking">การปฏิบัติงานจากภายนอก  (Teleworking)</h3>
+<p>อนุญาตให้บุคลากรที่จำเป็นต้องปฏิบัติงานขององค์กรจากภายนอกสำนักงาน โดยต้องแนวทางในการ
+ตรวจพิสูจน์ตัวตนและควบคุมการทำงานจากระยะไกล</p>
+<hr>
+
+    </div>
+
+    
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+      
+      <img class="portrait mr-3" src="/KM/customs/authors/admin/avatar_hu7b237977ae91ce0a2f834b564f9b5c19_37003_250x250_fill_box_center_2.png" itemprop="image" alt="Avatar">
+    
+
+    <div class="media-body">
+      <h5 class="card-title" itemprop="name"><a href="https://ecs-support.github.io/KM/customs/">Administrator</a></h5>
+      <h6 class="card-subtitle">Support Department</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="/KM/customs/#contact" >
+              <i class="fas fa-envelope"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://twitter.com/GeorgeCushen" target="_blank" rel="noopener">
+              <i class="fab fa-twitter"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ" target="_blank" rel="noopener">
+              <i class="ai ai-google-scholar"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://github.com/gcushen" target="_blank" rel="noopener">
+              <i class="fab fa-github"></i>
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+
+
+    
+    
+    
+
+    
+    <div class="article-widget">
+      
+<div class="post-nav">
+  
+  
+  
+  <div class="post-nav-item box ">
+    
+    <div class="meta-nav meta-prev">Next <br>
+    <a href="/KM/customs/pages/knowledge/iso/hacker_view/" rel="next">มุมมองของแฮ็กเกอร์เกี่ยวกับมาตรฐาน ISO 27001</a></div>
+  </div>
+  
+  
+  <br>
+  <br>
+</div>
+
+    </div>
+    
+
+    
+
+
+  </div>
+</article>
+
+      
+
+    
+    
+    
+    <script src="/KM/customs/js/mathjax-config.js"></script>
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+        <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/python.min.js"></script>
+        
+      
+
+      
+      
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script>
+      const search_index_filename = "/KM/customs/index.json";
+      const i18n = {
+        'placeholder': "Search...",
+        'results': "results found",
+        'no_results': "No results found"
+      };
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/KM/customs/js/academia.min.b54456eaad925d8f482e6ebd04af2d6a.js"></script>
+
+
+    
+    <script src="/KM/customs/js/menutoggle.js"></script>
+
+    
+
+
+
+
+
+
+
+  
+  <div class="container">
+
+ 
+    
+    <footer class="site-footer">
+
+ <div class="back-to-top"></div>
+
+  <div class="container">
+    
+    <div class="row">
+      <div class="col-md-6">
+        
+        <p>
+          ECS@Support©2021 &middot; 
+          Powered by
+          <a href="https://themefisher.com" target="_blank" rel="noopener">themefisher</a> for
+          <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+        </p>
+      </div>
+      <div class="col-md-6">
+       
+        <ul class="list-inline network-icon text-right">
+         
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+           
+            <a href="https://twitter.com/Twitter" target="_blank" rel="noopener" title="DM Me"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+           
+            <a href="skype:echo123?call"  title="Skype Me"><i class="fab fa-skype" aria-hidden="true"></i></a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+           
+            <a href="https://keybase.io/" target="_blank" rel="noopener" title="Chat on Keybase"><i class="fab fa-keybase" aria-hidden="true"></i></a>
+          </li>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="list-inline-item">
+           
+            <a href="https://discourse.gohugo.io" target="_blank" rel="noopener" title="Discuss on Forum"><i class="fas fa-comments" aria-hidden="true"></i></a>
+          </li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
