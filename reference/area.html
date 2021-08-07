@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reference file</title>
+
+    <link rel="stylesheet" href="static/cdn/bootstrap.css">
+    <link rel="stylesheet" href="static/cdn/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="static/css/style.css">
+
+    <script src="static/cdn/jquery-3.5.1.js"></script>
+    <script src="static/cdn/jquery.dataTables.min.js"></script>
+    <script src="static/cdn/dataTables.bootstrap4.min.js"></script>
+    <script src="static/cdn/a076d05399.js"></script>
+    <script src="area-script.js"></script>
+    <script src="static/js/script.js"></script>
+    <!--add w3-->
+    <script src="static/cdn/w3.js"></script>
+    <!--add w3-->
+
+    <style>
+        thead th {
+            font-size: 1em;
+        }
+
+        td {
+            font-size: .9em;
+        }
+    </style>
+</head>
+
+<body>
+    <!--add sidebar-->
+    <div class='div-side' w3-include-html="sidebar.html"></div>
+    <!--add sidebar-->
+    <section>
+
+
+        <div class='container-fluid'>
+
+            <h2>รหัสสถานที่กรมศุลกากร (Area Code)</h2>
+            <table  class="table center display table-bordered table-striped" style="width:100%">
+            
+                 <thead>
+                     <tr>
+                         <th>code</th>
+                         <th>name</th>
+                         <th>Release(EX)</th>
+                         <th>Load(EX)</th>
+                         <th>Release(IM)</th>
+                         <th>Load(IM)</th>
+
+                     </tr>
+                 </thead>
+                 <tbody id="demo"></tbody>
+             </table>
+
+
+         
+            <p class='txt-update'>Last Update : <span>14 Jul 2021 </span></p>
+
+
+        </div>
+    </section>
+    <div class="row top_right">
+        <a href="static/files/area_code.xlsx" target="_blank">
+            <i class=" fas fa-file-excel" style="font-size:30px;color:#264E36;"></i>
+        </a>
+    </div>
+    <!--add script-->
+    <script>
+        w3.includeHTML();
+    </script>
+    <!--add script-->
+
+ 
+
+    </div>
+
+</body>
+
+</html>
