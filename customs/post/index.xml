@@ -14,9 +14,18 @@
     <item>
       <title>ข่าวสารเพื่อการนำเข้า-ส่งออก</title>
       <link>https://ecs-support.github.io/KM/customs/post/news/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>สาระความรู้</title>
+      <link>https://ecs-support.github.io/KM/customs/post/knowledge/</link>
+      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/</guid>
       <description></description>
     </item>
     
@@ -26,15 +35,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/announcement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>สาระความรู้</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/</guid>
       <description></description>
     </item>
     

@@ -656,6 +656,15 @@ taxinclinic@gmail.com
     </item>
     
     <item>
+      <title>คลังความรู้ ( Knowledge Source)</title>
+      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/</link>
+      <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>List Tags &amp; Catagorys</title>
       <link>https://ecs-support.github.io/KM/customs/pages/tags/</link>
       <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
@@ -902,6 +911,8 @@ taxinclinic@gmail.com
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%9B%E0%B8%A3%E0%B8%A9%E0%B8%93%E0%B8%A2/&#34;&gt;นำเข้าทางไปรษณีย์&lt;/a&gt;&lt;/li&gt;
   
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%9A%E0%B8%95%E0%B8%A3%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%AD%E0%B9%80%E0%B8%A5%E0%B8%81%E0%B8%97%E0%B8%A3%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%AA/&#34;&gt;บัตรภาษีอิเล็กทรอนิกส์&lt;/a&gt;&lt;/li&gt;
+  
+  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%9A%E0%B8%A3%E0%B8%88%E0%B8%B2%E0%B8%84/&#34;&gt;บริจาค&lt;/a&gt;&lt;/li&gt;
   
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%9A%E0%B8%AB%E0%B8%A3%E0%B8%8B%E0%B8%81%E0%B8%B2%E0%B9%81%E0%B8%A3%E0%B8%95/&#34;&gt;บุหรี่ซิกาแรต&lt;/a&gt;&lt;/li&gt;
   
@@ -1375,15 +1386,6 @@ taxinclinic@gmail.com
 &lt;/blockquote&gt;
 
 </description>
-    </item>
-    
-    <item>
-      <title>คลังความรู้ ( Knowledge Source)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/</guid>
-      <description></description>
     </item>
     
   </channel>
