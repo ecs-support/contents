@@ -7,17 +7,16 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
-    <lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ecs-support.github.io/KM/customs/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>ประกาศ / กฎหมาย</title>
-      <link>https://ecs-support.github.io/KM/customs/post/announcement/</link>
-      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      <title>สาระความรู้</title>
+      <link>https://ecs-support.github.io/KM/customs/post/knowledge/</link>
+      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/announcement/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/</guid>
       <description></description>
     </item>
     
@@ -31,11 +30,11 @@
     </item>
     
     <item>
-      <title>สาระความรู้</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/</link>
-      <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
+      <title>ประกาศ / กฎหมาย</title>
+      <link>https://ecs-support.github.io/KM/customs/post/announcement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/post/announcement/</guid>
       <description></description>
     </item>
     
