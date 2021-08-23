@@ -18,34 +18,106 @@
       <pubDate>Thu, 19 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/news/2021-08-20/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;เนื่องจากกรมศุลกากรจะมีการเปลี่ยนแปลงสำหรับการใช้สิทธิ์ชดเชยค่าภาษีอากร (Compensation) จากเดิมที่เป็นบัตรบัตรภาษีในรูปแบบกระดาษ เป็นบัตรอิเล็กทรอนิกส์ ซึ่งจะเริ่มใช้งานใน&lt;em&gt;วันที่ 21 ก.ย. 2564&lt;/em&gt; (กำหนดการแน่นอนเนื่องจากเป็นกำหนด 90 วันตามกฎหมาย) และศุลกากรมีโครงการเพิ่มเติมคือ &lt;strong&gt;โครงการพัฒนาระบบชำระค่าภาษีอากรด้วยบัตรภาษีอิเล็กทรอนิกส์ (Digital Tax Compensation : DTC)&lt;/strong&gt; โดยเป็นความร่วมมือ ระหว่าง กรมศุลกากร กรมสรรพากร และกรมสรรพสามิต เพื่อพัฒนาระบบชำระค่าภาษีอากรด้วยบัตรภาษีอิเล็กทรอนิกส์ ซึ่งผู้ประกอบการสามารถการชำระค่าภาษีอากรด้วยวงเงินชดเชยอิเล็กทรอนิกส์พร้อมกับใบขนสินค้าขาเข้าและใบขนสินค้าขาออก รวมทั้งสามารถชำระเงินค่าภาษีอากรด้วยบัตรภาษีอิเล็กทรอนิกส์ได้ด้วยตนเองตลอด 24 ชั่วโมง และไม่ต้องเดินทางมายังกรมศุลกากร โดยจะเริ่มใช้วันที่ 21 กันยายน 2564 เป็นต้นไป จึงจะขอสรุปเบื้องต้นเฉพาะในส่วนที่กระทบกับใบขนสินค้าขาเข้า-ขาออกของเราก่อน เพื่อใช้เป็นข้อมูลเบื้องต้นในการตอบคำถามกับผู้ใช้ต่อไป&lt;/p&gt;
-&lt;h2 id=&#34;การลงทะเบยนผมสทธไดรบเงนชดเชย&#34;&gt;การลงทะเบียนผู้มีสิทธิได้รับเงินชดเชย&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;./img/img-01.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;สำหรับ&lt;strong&gt;ผู้ที่เคยใช้สิทธิย้อนหลัง 3 ปี&lt;/strong&gt; &lt;em&gt;(17 ส.ค. 61 – 16 ส.ค. 64)&lt;/em&gt; และผู้ใช้สิทธิที่ยังคงมี&lt;em&gt;บัตรภาษีแบบกระดาษที่ยังไม่ได้ใช้ ณ วันที่ 20 กันยายน 2564&lt;/em&gt; กรมศุลกากร จะกำหนดเลขทะเบียนผู้มีสิทธิได้รับเงินชดเชยค่าภาษีอากร (14 หลัก) ให้โดยอัตโนมัติทุกราย โดยผู้ประกอบการไม่ต้องลงทะเบียนแต่อย่างใด และเปลี่ยนบัตรภาษี   จำนวนดังกล่าวทั้งหมดที่ยังไม่หมดอายุ เป็นบัตรภาษีอิเล็กทรอนิกส์ โดยมิต้องร้องขอ โดยจะเรียงลำดับบัตรภาษีอิเล็กทรอนิกส์ตามวันที่ออกบัตรภาษีเดิม (1 ชุดคำขอฯ ซึ่งอาจมีบัตรภาษี กระดาษหลายฉบับจะเปลี่ยนเป็นบัตรภาษีอิเล็กทรอนิกส์ฉบับเดียว) โดยบัตรภาษีอิเล็กทรอนิกส์ จะมีอายุเท่ากับบัตรภาษีเดิม&lt;/p&gt;
-&lt;h2 id=&#34;การบนทกขอมลในใบขนสนคาขาออก&#34;&gt;การบันทึกข้อมูลในใบขนสินค้าขาออก&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;./img/img-02.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;เพิ่มเติมการระบุ&lt;strong&gt;เลขทะเบียนผู้มีสิทธิได้รับเงินชดเชย (เลข 14 หลัก)&lt;/strong&gt; ขึ้นต้นด้วยอักษร &lt;strong&gt;C&lt;/strong&gt; ซึ่งเป็นเลขสิทธิประโยชน์ลักษณะเดียวกันกับสิทธิ์ Freezone, มาตรา29 ฯลฯ&lt;/p&gt;
-&lt;h2 id=&#34;การบนทกขอมลในใบขนสนคาขาเขา&#34;&gt;การบันทึกข้อมูลในใบขนสินค้าขาเข้า&lt;/h2&gt;
-&lt;p&gt;ผู้ประกอบการสามารถใช้บัตรภาษีอิเล็กทรอนิกส์ชำระ  ค่าภาษีอากรได้ที่กรมศุลกากร กรมสรรพากร และ กรมสรรพสามิต  ในส่วนของการชำระค่าภาษีอากรที่กรมศุลกากร ผู้ประกอบการสามารถดำเนินการได้ 2 วิธี คือ&lt;/p&gt;
-&lt;h3 id=&#34;ชำระพรอมกบการยนขอมลใบขนสนคา&#34;&gt;ชำระพร้อมกับการยื่นข้อมูลใบขนสินค้า&lt;/h3&gt;
-&lt;blockquote class=&#34;book-hint warning&#34;&gt;
-  เพิ่ม Payment Method (วิธีการชำระค่าภาษีอากร) = &lt;strong&gt;C  บัตรภาษีอิเล็กทรอนิกส์&lt;/strong&gt;
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;./img/cover.png&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;div class=&#34;toc collapsible-toc&#34;&gt;
+ &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
+ &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
+ 
+   
+   &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;br&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;ตามที่กรมศุลกากรได้จัดงานสัมมนา &lt;strong&gt;“โครงการพัฒนาระบบชำระค่าภาษีอากรด้วยบัตรภาษีอิเล็กทรอนิกส์ (Digital Tax Compensation : DTC)”&lt;/strong&gt; เมื่อวันที่ 20 สิงหาคม 2564 ผ่านระบบ Video Conference : Zoom Cloud Meeting ณ ห้องประชุมภาสกรวงศ์ ชั้น 2 อาคาร 1 กรมศุลกากร เพื่อให้ผู้ประกอบการหรือตัวแทนออกของเข้าใจ การชำระเงินค่าภาษีอากรด้วยบัตรภาษีอิเล็กทรอนิกส์ ซึ่งมีรายละเอียดแบ่งได้ ดังนี้&lt;/p&gt;
+
+&lt;h1 id=&#34;การใช-ส-ทธ-การชดเชยค-าภาษ-อากร&#34;&gt;การใช้สิทธิการชดเชยค่าภาษีอากร&lt;/h1&gt;
+
+&lt;p&gt;สำหรับการใช้สิทธิ&lt;strong&gt;การชดเชยค่าภาษีอากร สำหรับสินค้าส่งออกที่ผลิตในราชอาณาจักร&lt;/strong&gt; มีการปรับเปลี่ยนที่สำคัญดังนี้&lt;/p&gt;
+
+&lt;h2 id=&#34;1-ร-ปแบบเง-นท-จะจ-ายชดเชยค-าภาษ-อากร&#34;&gt;1. รูปแบบเงินที่จะจ่ายชดเชยค่าภาษีอากร&lt;/h2&gt;
+
+&lt;p&gt;กรมศุลกากรจะมีการเปลี่ยนแปลงรูปแบบเงินที่จะจ่ายชดเชยค่าภาษีอากร จากเดิมที่จ่ายในรูปแบบ&lt;em&gt;บัตรภาษีที่เป็นกระดาษ&lt;/em&gt; เปลี่ยนเป็น&lt;em&gt;บัตรภาษีอิเล็กทรอนิกส์&lt;/em&gt; ซึ่งจะเริ่มใช้งานใน&lt;em&gt;วันที่ 21 กันยายน 2564&lt;/em&gt; (ตามที่ประกาศในราชกิจจานุเบกษา) ซึ่งมีการเปลี่ยนแปลงที่สำคัญคือ&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/01-customsjpg_Page20.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;2-การลงทะเบ-ยนผ-ม-ส-ทธ-ได-ร-บเง-นชดเชย&#34;&gt;2. การลงทะเบียนผู้มีสิทธิได้รับเงินชดเชย&lt;/h2&gt;
+
+&lt;p&gt;สำหรับ&lt;em&gt;ผู้ที่เคยใช้สิทธิย้อนหลัง 3 ปี&lt;/em&gt; &lt;em&gt;(17 ส.ค. 61 – 16 ส.ค. 64)&lt;/em&gt; และผู้ใช้สิทธิที่ยังคงมี&lt;em&gt;บัตรภาษีแบบกระดาษที่ยังไม่ได้ใช้ ณ วันที่ 20 กันยายน 2564&lt;/em&gt; กรมศุลกากรจะ&lt;strong&gt;กำหนดเลขทะเบียนผู้มีสิทธิได้รับเงินชดเชยค่าภาษีอากร (14 หลัก) ให้โดยอัตโนมัติ&lt;/strong&gt; &lt;em&gt;ทุกราย&lt;/em&gt; โดยผู้ประกอบการ&lt;em&gt;ไม่ต้องลงทะเบียนแต่อย่างใด&lt;/em&gt; และ&lt;em&gt;เปลี่ยนบัตรภาษี จำนวนดังกล่าวทั้งหมดที่ยังไม่หมดอายุ&lt;/em&gt; เป็น&lt;strong&gt;บัตรภาษีอิเล็กทรอนิกส์&lt;/strong&gt; &lt;em&gt;โดยมิต้องร้องขอ&lt;/em&gt; โดยจะเรียงลำดับบัตรภาษีอิเล็กทรอนิกส์ตามวันที่ออกบัตรภาษีเดิม (1 ชุดคำขอฯ ซึ่งอาจมีบัตรภาษี กระดาษหลายฉบับจะเปลี่ยนเป็นบัตรภาษีอิเล็กทรอนิกส์ฉบับเดียว) โดย&lt;strong&gt;บัตรภาษีอิเล็กทรอนิกส์ จะมีอายุเท่ากับบัตรภาษีเดิม&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/01-customsjpg_Page13.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;การบ-นท-กข-อม-ลในใบขนส-นค-าขาออก&#34;&gt;การบันทึกข้อมูลในใบขนสินค้าขาออก&lt;/h2&gt;
+
+&lt;blockquote class=&#34;book-hint success&#34;&gt;
+  เพิ่มเติมการระบุ&lt;strong&gt;เลขทะเบียนผู้มีสิทธิได้รับเงินชดเชย (เลข 14 หลัก)&lt;/strong&gt; ขึ้นต้นด้วยอักษร &lt;strong&gt;C&lt;/strong&gt; ซึ่งเป็นเลขสิทธิประโยชน์ลักษณะเดียวกันกับสิทธิ์ Freezone, มาตรา29 ฯลฯ
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&#34;./img/img-01.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/img-02.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/img-03.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/img-04.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/img-05.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/img-06.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;h3 id=&#34;การชำระคาภาษอากรดวยบตรภาษอเลกทรอนกสทหนวยงานรบชำระ&#34;&gt;การชำระค่าภาษีอากรด้วยบัตรภาษีอิเล็กทรอนิกส์ที่หน่วยงานรับชำระ&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;./img/img-07.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/img-08.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/img-09.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/img-02.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote class=&#34;book-hint warning&#34;&gt;
+  ศุลกากรจะออกเป็นประกาศวิธีปฏิบัติพิธีการศุลกากรเพิ่มเติมก่อนวันที่ระบบจะใช้งานจริงในวันที่ 21 กันยายน 2564 สำหรับการใช้สิทธิชดเชยค่าภาษีอากร นอกเหนือจากเรื่องที่แจ้งเปลี่ยนแปลงดังกล่าว ยังคงให้ปฏิบัติตามพระราชบัญญัติชดเชยค่าภาษีอากรสินค้าส่งออกที่ผลิตในราชอาณาจักร พ.ศ. 2524
+&lt;/blockquote&gt;
+
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;การชำระค-าภาษ-อากรด-วยบ-ตรภาษ-อ-เล-กทรอน-กส&#34;&gt;การชำระค่าภาษีอากรด้วยบัตรภาษีอิเล็กทรอนิกส์&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;โครงการพัฒนาระบบชำระค่าภาษีอากรด้วยบัตรภาษีอิเล็กทรอนิกส์ (Digital Tax Compensation : DTC)&lt;/strong&gt; เป็นความร่วมมือ ระหว่าง กรมศุลกากร กรมสรรพากร และกรมสรรพสามิต เพื่อพัฒนาระบบชำระค่าภาษีอากรด้วยบัตรภาษีอิเล็กทรอนิกส์ ทำให้ผู้ประกอบการสามารถ ชำระค่าภาษีอากรด้วยวงเงินชดเชยอิเล็กทรอนิกส์ พร้อมกับใบขนสินค้าขาเข้าและใบขนสินค้าขาออก ทำให้สามารถชำระเงินค่าภาษีอากรด้วยบัตรภาษีอิเล็กทรอนิกส์ได้ด้วยตนเองตลอด 24 ชั่วโมง และไม่ต้องเดินทางมายังกรมศุลกากร โดยจะเริ่มใช้&lt;em&gt;วันที่ 21 กันยายน 2564&lt;/em&gt; เป็นต้นไป&lt;/p&gt;
+
+&lt;h1 id=&#34;การบ-นท-กข-อม-ลในใบขนส-นค-าขาเข-า&#34;&gt;การบันทึกข้อมูลในใบขนสินค้าขาเข้า&lt;/h1&gt;
+
+&lt;p&gt;ผู้ประกอบการสามารถใช้บัตรภาษีอิเล็กทรอนิกส์ชำระค่าภาษีอากรได้ที่&lt;em&gt;กรมศุลกากร กรมสรรพากร และ กรมสรรพสามิต&lt;/em&gt; ในส่วนของ การชำระค่าภาษีอากรที่กรมศุลกากรผู้ประกอบการสามารถดำเนินการได้ 2 วิธี คือ&lt;/p&gt;
+
+&lt;h3 id=&#34;1-ชำระพร-อมก-บการย-นข-อม-ลใบขนส-นค-า&#34;&gt;1. ชำระพร้อมกับการยื่นข้อมูลใบขนสินค้า&lt;/h3&gt;
+
+&lt;blockquote class=&#34;book-hint warning&#34;&gt;
+  เพิ่ม &lt;strong&gt;Payment Method (วิธีการชำระค่าภาษีอากร)&lt;/strong&gt; = &lt;em&gt;C บัตรภาษีอิเล็กทรอนิกส์&lt;/em&gt;
+&lt;/blockquote&gt;
+
+
+&lt;p&gt;&lt;img src=&#34;./img/img-01.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/img-02.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/img-03.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/img-04.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/img-05.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/img-06.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;2-การชำระค-าภาษ-อากรด-วยบ-ตรภาษ-อ-เล-กทรอน-กส-ท-หน-วยงานร-บชำระ&#34;&gt;2. การชำระค่าภาษีอากรด้วยบัตรภาษีอิเล็กทรอนิกส์ที่หน่วยงานรับชำระ&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/img-07.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/img-08.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/img-09.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;เอกสารท-เก-ยวข-อง&#34;&gt;เอกสารที่เกี่ยวข้อง&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;คู่มือการดำเนินธุรกรรมทางอิเล็กทรอนิกส์สำหรับการชดเชยค่าภาษีอากรด้วยบัตรภาษีอิเล็กทรอนิกส์ (Digital Tax Compensation) &lt;a href=&#34;https://ecs-support.github.io/KM/customs/post/announcement/customs/2564-16/&#34; target=&#34;_blank&#34;&gt;[&lt;strong&gt;ดาวน์โหลด&lt;/strong&gt;]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;เอกสารประกอบการสัมมนา &lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/pages/knowledge/digital-tax/seminar/&#34;&gt;[&lt;strong&gt;ดาวน์โหลด&lt;/strong&gt;]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote class=&#34;book-hint success&#34;&gt;
+  สอบถามรายละเอียดเพิ่มเติมได้ที่ &lt;strong&gt;คลินิกสิทธิประโยชน์ทางภาษีอากร โทร. 02-6677000 ต่อ 5179&lt;/strong&gt;
+&lt;/blockquote&gt;
+
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;www.customs.go.th&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;www.customs.go.th&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -56,15 +128,21 @@
       <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/news/2021-08-02/</guid>
-      <description>&lt;h2 id=&#34;หนงสอรบรองถนกำเนดสนคา-form-e-จากสาธารณรฐประชาชนจนหนงสอรบรองถนกำเนดสนคา-form-e-จากสาธารณรฐประชาชนจน-ทใชตราประทบและลายมอชอในรปแบบอเลกทรอนกส-ess&#34;&gt;หนังสือรับรองถิ่นกำเนิดสินค้า (Form E) จากสาธารณรัฐประชาชนจีนหนังสือรับรองถิ่นกำเนิดสินค้า (Form E) จากสาธารณรัฐประชาชนจีน ที่ใช้ตราประทับและลายมือชื่อในรูปแบบอิเล็กทรอนิกส์ (ESS)&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;&lt;strong&gt;สอบถามข้อมูลเพิ่มเติมได้ที่ :&lt;/strong&gt; ฝ่ายประชาสัมพันธ์ สสก. สบก. กรมศุลกากร &lt;br&gt;
-&lt;strong&gt;หมายเลขโทรศัพท์ :&lt;/strong&gt; 0-2667-7600&lt;br&gt;
-&lt;strong&gt;อีเมล์ :&lt;/strong&gt; &lt;a href=&#34;mailto:prcustoms@gmail.com&#34;&gt;prcustoms@gmail.com&lt;/a&gt;&lt;br&gt;
+      <description>
+
+&lt;h2 id=&#34;หน-งส-อร-บรองถ-นกำเน-ดส-นค-า-form-e-จากสาธารณร-ฐประชาชนจ-นหน-งส-อร-บรองถ-นกำเน-ดส-นค-า-form-e-จากสาธารณร-ฐประชาชนจ-น-ท-ใช-ตราประท-บและลายม-อช-อในร-ปแบบอ-เล-กทรอน-กส-ess&#34;&gt;หนังสือรับรองถิ่นกำเนิดสินค้า (Form E) จากสาธารณรัฐประชาชนจีนหนังสือรับรองถิ่นกำเนิดสินค้า (Form E) จากสาธารณรัฐประชาชนจีน ที่ใช้ตราประทับและลายมือชื่อในรูปแบบอิเล็กทรอนิกส์ (ESS)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;สอบถามข้อมูลเพิ่มเติมได้ที่ :&lt;/strong&gt; ฝ่ายประชาสัมพันธ์ สสก. สบก. กรมศุลกากร&lt;br /&gt;
+&lt;strong&gt;หมายเลขโทรศัพท์ :&lt;/strong&gt; 0-2667-7600&lt;br /&gt;
+&lt;strong&gt;อีเมล์ :&lt;/strong&gt; prcustoms@gmail.com&lt;br /&gt;
 &lt;strong&gt;วันที่ปรับปรุงล่าสุด :&lt;/strong&gt; 31 กรกฎาคม 2564&lt;/p&gt;
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_slide_image.php?current_id=14232932404e505f4c464a4e464a4e&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_slide_image.php?current_id=14232932404e505f4c464a4e464a4e&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -76,8 +154,15 @@
       
       <guid>https://ecs-support.github.io/KM/customs/post/news/2021-07-22/</guid>
       <description>&lt;p&gt;กรมศุลกากรขอเชิญร่วมแสดงความคิดเห็นต่อร่างประกาศ เรื่อง ระเบียบปฏิบัติเกี่ยวกับตัวแทนออกของและผู้ปฏิบัติงานเกี่ยวกับการออกของ (รายละเอียดตามเอกสารแนบ) สามารถเข้าไปแสดงความคิดเห็นโดยการสแกน QR Code ตามภาพด้านล่าง ถ้าต้องการรายละเอียดเพิ่มเติมสามารถสอบถามได้ที่ Call Center ศุลกากร : 1164&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;1200&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
+    allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
+&lt;/div&gt;&lt;/p&gt;
+
 
 
 &lt;br&gt;
@@ -90,8 +175,9 @@
 &lt;br&gt;
 
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232932404e505f4b464b4a464b4a&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232932404e505f4b464b4a464b4a&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -102,52 +188,73 @@
       <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/news/2021-07-05/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 &lt;p&gt;ตามที่การยางแห่งประเทศไทย (กยท.) ได้พัฒนาระบบรับชำระค่าธรรมเนียมทางอิเล็กทรอนิกส์ผ่านระบบ NSW (e-Cess) รองรับการแลกเปลี่ยนข้อมูลแบบ G2G และ B2G โดยระบบสามารถดำเนินการตั้งแต่ปี 2556 จวบจนปัจจุบัน และเนื่องจากนโยบายภาครัฐด้านการอำนวยความสะดวกในการทำธุรกิจ (Ease of Doing Business) จึงได้มีโครงการเชื่อมโยงข้อมูลในรูปแบบ Single Form ร่วมกันระหว่างกรมศุลกากร กรมวิชาการเกษตร และ กยท.&lt;/p&gt;
+
 &lt;p&gt;ดังนั้น กยท. จึงได้ดำเนินการจัดทำโครงการเพื่อตอบสนองนโยบายภาครัฐจำนวน 2 โครงการ ดังนี้&lt;/p&gt;
+
 &lt;ol&gt;
 &lt;li&gt;โครงการพัฒนาระบบรับคำขอใบรับรองคุณภาพยางทางอิเล็กทรอนิกส์ผ่านระบบ National Single Window (NSW) (e-QC)&lt;/li&gt;
 &lt;li&gt;โครงการปรับปรุงระบบรับชำระค่าธรรมเนียมทางอิเล็กทรอนิกส์เพื่อรองรับการเชื่อมโยงข้อมูลร่วมกับระบบรับคำขอใบอนุญาตผ่านด่านศุลกากร และใบรับชำระค่าธรรมเนียมในการส่งยางออกไปนอกราชอาณาจักรแบบ Single Form ผ่านระบบ National Single Window (NSW) (e-SFR)&lt;/li&gt;
 &lt;/ol&gt;
+
 &lt;p&gt;ปัจจุบัน กยท. ได้ดำเนินการโครงการปรับปรุงระบบรับชำระค่าธรรมเนียมทางอิเล็กทรอนิกส์ เพื่อรองรับการเชื่อมโยงข้อมูลร่วมกับ ระบบรับคำขอใบอนุญาตผ่านด่านศุลกากร และใบรับชำระค่าธรรมเนียมในการส่งยางออกไปนอกราชอาณาจักรแบบ Single Form ผ่านระบบ National Single Window (NSW) (RAOT e-SFR) เรียบร้อยแล้ว มีกำหนดการเปิดให้บริการแก่ผู้ประกอบการในวันที่ 1 มิถุนายน 2564 โดยกำหนดเปิดให้บริการคู่ขนานกับระบบเดิม (ระบบรับชำระค่าธรรมเนียมทางอิเล็กทรอนิกส์ ผ่านระบบ NSW (ระบบ e-Cess)) ระหว่างวันที่ 1 มิถุนายน 2564 ถึงวันที่ 31 กรกฎาคม 2564 และมีกำหนดการ&lt;em&gt;ยุติการให้บริการระบบเดิม (ระบบรับชำระค่าธรรมเนียมทางอิเล็กทรอนิกส์ ผ่านระบบ NSW (ระบบ e-Cess)) ในวันที่ 1 สิงหาคม 2564&lt;/em&gt;&lt;/p&gt;
+
 &lt;p&gt;ทั้งนี้ ผู้ประกอบการสามารถดำเนินการได้ตามขั้นตอนต่อไปนี้&lt;/p&gt;
+
 &lt;ol&gt;
 &lt;li&gt;ปรับปรุงทะเบียน National Single Window (NSW) ภายในวันที่ 30 มิถุนายน 2564 โดยเพิ่มเอกสาร ดังนี้
+
 &lt;ul&gt;
 &lt;li&gt;คำขอหนังสือใบรับรองคุณภาพยางและใบรายงานผลการทดสอบ&lt;/li&gt;
 &lt;li&gt;คำขอใบผ่านด่านศุลกากรและใบชำระเงินค่าธรรมเนียมส่งออกยางพารา&lt;/li&gt;
 &lt;li&gt;คำขอยกเลิกใบรับรองคุณภาพยาง/คำขอยกเลิกใบชำระเงินค่าธรรมเนียมส่งออกยาง&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;li&gt;ผู้ประกอบการ ติดต่อผู้ให้บริการซอฟต์แวร์ เพื่อปรับปรุงซอฟต์แวร์ให้รองรับการรับชำระค่าธรรมเนียมทางอิเล็กทรอนิกส์ เชื่อมโยงข้อมูลร่วมกับระบบรับคำขอใบอนุญาตผ่านด่านศุลกากร และใบรับชำระค่าธรรมเนียมการส่งยางออกไปนอกราชอาณาจักรแบบ Single Form ผ่านระบบ National Single Window (NSW) (e-SFR) และทำการทดสอบการรับส่งข้อมูลให้แล้วเสร็จภายในวันที่ 31 กรกฎาคม 2564&lt;/li&gt;
 &lt;/ol&gt;
+
 &lt;p&gt;เมื่อได้รับการอนุมัติเอกสารในระบบ National Single Window (NSW) โดย กยท. แล้ว ผู้ประกอบการจึงสามารถส่งรายการผ่านระบบรับคำขอใบอนุญาตผ่านด่านศุลกากร และใบรับชำระค่าธรรมเนียมการส่งยางออกไปนอกราชอาณาจักรแบบ Single Form ผ่านระบบ National Single Window (NSW) (e-SFR) ได้&lt;/p&gt;
+
 &lt;p&gt;การรับชำระค่าธรรมเนียมทางอิเล็กทรอนิกส์ผ่านระบบ NSW (e-Cess) แบบเดิม มีผลบังคับใช้สิ้นสุด ณ วันที่ 1 สิงหาคม 2564 โดยเอกสารใบรับชำระค่าธรรมเนียมทางอิเล็กทรอนิกส์แบบเดิม (e-Cess) สามารถใช้งานเอกสารได้ตามอายุของเอกสาร (30 วันนับจากวันที่ออกใบรับค่าธรรมเนียม) และขอคืนเงินค่าธรรมเนียมได้ตามปกติ&lt;/p&gt;
-&lt;h3 id=&#34;ผใหบรการซอฟตแวรทพรอมใหบรการระบบ-e-sfr&#34;&gt;ผู้ให้บริการซอฟต์แวร์ที่พร้อมให้บริการระบบ e-SFR&lt;/h3&gt;
+
+&lt;h3 id=&#34;ผ-ให-บร-การซอฟต-แวร-ท-พร-อมให-บร-การระบบ-e-sfr&#34;&gt;ผู้ให้บริการซอฟต์แวร์ที่พร้อมให้บริการระบบ e-SFR&lt;/h3&gt;
+
 &lt;p&gt;ตั้งแต่วันที่ 1 มิถุนายน 2564 เป็นต้นไป มีดังนี้&lt;/p&gt;
+
 &lt;ol&gt;
 &lt;li&gt;บริษัท อี-คัสตอม เซอร์วิส จำกัด&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3 id=&#34;ธนาคารทพรอมใหบรการระบบ-e-sfr&#34;&gt;ธนาคารที่พร้อมให้บริการระบบ e-SFR&lt;/h3&gt;
+
+&lt;h3 id=&#34;ธนาคารท-พร-อมให-บร-การระบบ-e-sfr&#34;&gt;ธนาคารที่พร้อมให้บริการระบบ e-SFR&lt;/h3&gt;
+
 &lt;p&gt;ตั้งแต่วันที่ 1 มิถุนายน 2564 เป็นต้นไป มีดังนี้&lt;/p&gt;
+
 &lt;ol&gt;
 &lt;li&gt;ธนาคารไทยพาณิชย์&lt;/li&gt;
 &lt;li&gt;ธนาคารกสิกรไทย&lt;/li&gt;
 &lt;li&gt;ธนาคารกรุงศรีอยุธยา&lt;/li&gt;
 &lt;li&gt;ธนาคารทหารไทยธนชาต (ธนาคารทหารไทย)&lt;/li&gt;
 &lt;/ol&gt;
+
 &lt;p&gt;&lt;em&gt;สำหรับธนาคารกรุงเทพ และธนาคารกรุงไทย สามารถให้บริการระบบ e-SFR ได้ ในวันที่ 1 สิงหาคม 2564 เป็นต้นไป&lt;/em&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;strong&gt;หากมีข้อสงสัยประการใด สามารถติดต่อสอบถามรายละเอียดได้ที่&lt;/strong&gt;&lt;/p&gt;
+
 &lt;blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;mailto:ecess@rubber.mail.go.th&#34;&gt;ecess@rubber.mail.go.th&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;mailto:saowanee.p@rubber.mail.go.th&#34;&gt;saowanee.p@rubber.mail.go.th&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;นางสาวเสาวณีย์ พันธ์คูณ ผู้ประสานงาน โทร 086 353 5569&lt;/li&gt;
+&lt;li&gt;ecess@rubber.mail.go.th&lt;/li&gt;
+&lt;li&gt;saowanee.p@rubber.mail.go.th&lt;/li&gt;
+&lt;li&gt;นางสาวเสาวณีย์ พันธ์คูณ ผู้ประสานงาน โทร 086 353 5569&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-&lt;!-- raw HTML omitted --&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.raot.co.th/ewt_news.php?nid=89751&amp;amp;filename=index&#34;&gt;การยางแห่งประเทศไทย&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.raot.co.th/ewt_news.php?nid=89751&amp;amp;filename=index&#34; target=&#34;_blank&#34;&gt;การยางแห่งประเทศไทย&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -158,9 +265,12 @@
       <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/news/2021-06-29/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./newspng_Page1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./newspng_Page2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./newspng_Page1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./newspng_Page2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 
 
 
@@ -170,8 +280,9 @@
 &lt;/div&gt;
 &lt;br&gt;
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232932404e505f49464b49464b4c&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232932404e505f49464b49464b4c&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -182,15 +293,25 @@
       <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/news/2021-05-27/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page3.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page4.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;article-tags&#34;&gt;
+&lt;a class=&#34;badge badge-danger&#34; href=&#34;./docs.pdf&#34; target=&#34;_blank&#34; id=&#34;download_files_new&#34;&gt;Download&lt;/a&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;/p&gt;
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232932404e505f47464b4b464b4a&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232932404e505f47464b4b464b4a&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -201,10 +322,12 @@
       <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/news/2021-04-16/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232932404e505e4f464b4b464a4e&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232932404e505e4f464b4b464a4e&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -215,53 +338,73 @@
       <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/news/2021-03-30/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;
-&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;
+&lt;br&gt;&lt;/p&gt;
+
 &lt;p&gt;ตามที่สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม (สมอ.) ได้ประชาสัมพันธ์ แนวทางการปฏิบัติสำหรับ &lt;strong&gt;การนำเข้าสินค้าตามพระราชบัญญัติมาตรฐานผลิตภัณฑ์อุตสาหกรรม&lt;/strong&gt; พ.ศ. 2511 เริ่มตั้งแต่&lt;em&gt;วันที่ 1 เมษายน 2564&lt;/em&gt; เป็นต้นไป มีรายละเอียดดังนี้&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;img-01.png&#34; alt=&#34;&#34;&gt;
-&lt;!-- raw HTML omitted --&gt;
+
+&lt;p&gt;&lt;img src=&#34;img-01.png&#34; alt=&#34;&#34; /&gt;
+&lt;br&gt;
 &lt;blockquote class=&#34;book-hint danger&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;แจ้ง&lt;strong&gt;ยกเลิกการใช้รหัส EXEMPT100&lt;/strong&gt; และขยายขอบเขตการใช้รหัส &lt;strong&gt;EXEMPT99&lt;/strong&gt; (แทนการใช้ EXEMPT100) สำหรับกรณีผู้ประกอบการ&lt;strong&gt;นำสินค้าออกจากเขตปลอดอากรเข้าประเทศ&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;/blockquote&gt;
 &lt;/p&gt;
+
 &lt;blockquote class=&#34;book-hint success&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;เพิ่มการใช้รหัส EXEMPT5&lt;/strong&gt; สำหรับผู้ประกอบการ เพื่อทำใบขนสินค้าขาเข้า ในกรณี &lt;strong&gt;การนำเข้าที่ไม่เกินจำนวนและไม่ได้มีวัตถุประสงค์เพื่อจำหน่ายในราชอาณาจักร&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;/blockquote&gt;
 
-&lt;!-- raw HTML omitted --&gt;
-&lt;nav id=&#34;TableOfContents&#34;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#การนำสนคาออกจากเขตปลอดอากรเขาประเทศ&#34;&gt;การนำสินค้าออกจากเขตปลอดอากรเข้าประเทศ&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#การนำเขาทไมเกนจำนวนและไมไดมวตถประสงคเพอจำหนายในราชอาณาจกร&#34;&gt;การนำเข้าที่ไม่เกินจำนวนและไม่ได้มีวัตถุประสงค์เพื่อจำหน่ายในราชอาณาจักร&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#บญชแนบทาย&#34;&gt;บัญชีแนบท้าย&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/nav&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;&lt;img src=&#34;./img/docpng_Page1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;การนำสนคาออกจากเขตปลอดอากรเขาประเทศ&#34;&gt;การนำสินค้าออกจากเขตปลอดอากรเข้าประเทศ&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;./img/docpng_Page3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/docpng_Page4.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;การนำเขาทไมเกนจำนวนและไมไดมวตถประสงคเพอจำหนายในราชอาณาจกร&#34;&gt;การนำเข้าที่ไม่เกินจำนวนและไม่ได้มีวัตถุประสงค์เพื่อจำหน่ายในราชอาณาจักร&lt;/h2&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;&lt;img src=&#34;./img/docpng_Page5.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;บญชแนบทาย&#34;&gt;บัญชีแนบท้าย&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;./img/docpng_Page6.png&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;./img/docpng_Page7.png&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;./img/docpng_Page8.png&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;./img/docpng_Page9.png&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;./img/docpng_Page10.png&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;./img/docpng_Page11.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+
+&lt;div class=&#34;toc collapsible-toc&#34;&gt;
+ &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
+ &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
+ 
+   
+   &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;br&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/docpng_Page1.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;การนำส-นค-าออกจากเขตปลอดอากรเข-าประเทศ&#34;&gt;การนำสินค้าออกจากเขตปลอดอากรเข้าประเทศ&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/docpng_Page3.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/docpng_Page4.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;การนำเข-าท-ไม-เก-นจำนวนและไม-ได-ม-ว-ตถ-ประสงค-เพ-อจำหน-ายในราชอาณาจ-กร&#34;&gt;การนำเข้าที่ไม่เกินจำนวนและไม่ได้มีวัตถุประสงค์เพื่อจำหน่ายในราชอาณาจักร&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;img-02.png&#34; width=&#34;700&#34; height=&#34;1100&#34;/&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/docpng_Page5.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;บ-ญช-แนบท-าย&#34;&gt;บัญชีแนบท้าย&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/docpng_Page6.png&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;./img/docpng_Page7.png&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;./img/docpng_Page8.png&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;./img/docpng_Page9.png&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;./img/docpng_Page10.png&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;./img/docpng_Page11.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;article-tags&#34;&gt;
+&lt;a class=&#34;badge badge-danger&#34; href=&#34;./doc.pdf&#34; target=&#34;_blank&#34; id=&#34;download_files_new&#34;&gt;Download &lt;/a&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;/p&gt;
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.tisi.go.th/data/banner/pdf/EXEMPT99-25032564_01042564.pdf&#34;&gt;สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม (สมอ.)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.tisi.go.th/data/banner/pdf/EXEMPT99-25032564_01042564.pdf&#34; target=&#34;_blank&#34;&gt;สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม (สมอ.)&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -272,13 +415,20 @@
       <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/news/2021-03-17/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;
-&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;img-02.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img-02.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;article-tags&#34;&gt;
+&lt;a class=&#34;badge badge-danger&#34; href=&#34;./doc.pdf&#34; target=&#34;_blank&#34; id=&#34;download_files_new&#34;&gt;Download &lt;/a&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;/p&gt;
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232832414d505f47464a4e464b4b&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232832414d505f47464a4e464b4b&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -289,11 +439,17 @@
       <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/news/2021-03-10/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;img-01.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;img-01.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;article-tags&#34;&gt;
+&lt;a class=&#34;badge badge-danger&#34; href=&#34;./img-01.png&#34; target=&#34;_blank&#34; id=&#34;download_files_new&#34;&gt;Download &lt;/a&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;/p&gt;
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232832414d505f47464a4e464b4b&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232832414d505f47464a4e464b4b&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -304,17 +460,26 @@
       <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/news/2021-02-03/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 &lt;p&gt;กรมศุลกากรเผยแพร่เอกสาร &lt;strong&gt;รายการอ้างอิงในการจำแนกประเภทพิกัดศุลการสำหรับวัคซีนและอุปกรณ์ทางการแพทย์ที่เกี่ยวข้องกับ COVID-19&lt;/strong&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;./news.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;1200&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;article-tags&#34;&gt;
+&lt;a class=&#34;badge badge-danger&#34; href=&#34;./news.pdf&#34; target=&#34;_blank&#34; id=&#34;download_files_new&#34;&gt;Download &lt;/a&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;/p&gt;
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232832414d505f47464a4e464b4b&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232832414d505f47464a4e464b4b&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -325,12 +490,21 @@
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/news/2020-11-11/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;img-01.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img-01.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;img src=&#34;img-02.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+ &lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?current_id=14232832414c505f49464b4d464a4e&#34; target=&#34;_blank&#34; id=&#34;download_files&#34;&gt;ดาวน์โหลดเอกสาร
+                &lt;i class=&#34; fas fa-file-pdf&#34; &gt;&lt;/i&gt;
+            &lt;/a&gt;
+&lt;br&gt;&lt;/p&gt;
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?current_id=14232832414c505f49464b4d464a4e&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?current_id=14232832414c505f49464b4d464a4e&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -341,19 +515,27 @@
       <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/news/2020-09-30/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 &lt;p&gt;สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม ขยายเวลาระยะเวลาเปิดใช้รหัส &lt;em&gt;&lt;strong&gt;EXEMPT100&lt;/strong&gt;&lt;/em&gt; กรณีนำสินค้าออกจากเขตปลอดอากร ต่อไปจนถึง &lt;em&gt;&lt;strong&gt;วันที่ 31 ธันวาคม 2563&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;&lt;img src=&#34;exempt100.png&#34; alt=&#34;&#34;&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;ดาวน์โหลดเอกสาร
-&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;./EXEMPT100.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;1200&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
+    allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;exempt100.png&#34; alt=&#34;&#34; /&gt;
+&lt;br&gt;
+ &lt;a href=&#34;./EXEMPT100.pdf&#34; target=&#34;_blank&#34; id=&#34;download_files&#34;&gt;ดาวน์โหลดเอกสาร
+                &lt;i class=&#34; fas fa-file-pdf&#34; &gt;&lt;/i&gt;
+            &lt;/a&gt;&lt;/p&gt;
+
 &lt;blockquote&gt;
-&lt;p&gt;สอบถามปัญหาในการใช้งานระบบ :   ศูนย์บริการ TISI NSW 0 2202 3304 , 0 2354 3266 e-Mail : &lt;a href=&#34;mailto:nsw@tisi.mail.go.th&#34;&gt;nsw@tisi.mail.go.th&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.tisi.go.th/website/nsw/n_nsw&#34;&gt;สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;สอบถามปัญหาในการใช้งานระบบ :   ศูนย์บริการ TISI NSW 0 2202 3304 , 0 2354 3266 e-Mail : nsw@tisi.mail.go.th&lt;/p&gt;
+
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.tisi.go.th/website/nsw/n_nsw&#34; target=&#34;_blank&#34;&gt;สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -364,24 +546,39 @@
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/news/2020-09-09/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ประกาศกรมการคาตางประเทศ-เรอง-การขนทะเบยนและการรบรองถนกำเนดสนคาดวยตนเองตามความตกลงการคาสนคาของอาเซยน-พศ-2563&#34;&gt;ประกาศกรมการค้าต่างประเทศ เรื่อง การขึ้นทะเบียนและการรับรองถิ่นกำเนิดสินค้าด้วยตนเองตามความตกลงการค้าสินค้าของอาเซียน พ.ศ. 2563&lt;/h2&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;ดาวน์โหลดประกาศ
-&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;ประกาศกรมการค-าต-างประเทศ-เร-อง-การข-นทะเบ-ยนและการร-บรองถ-นกำเน-ดส-นค-าด-วยตนเองตามความตกลงการค-าส-นค-าของอาเซ-ยน-พ-ศ-2563&#34;&gt;ประกาศกรมการค้าต่างประเทศ เรื่อง การขึ้นทะเบียนและการรับรองถิ่นกำเนิดสินค้าด้วยตนเองตามความตกลงการค้าสินค้าของอาเซียน พ.ศ. 2563&lt;/h2&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;./2020-09-09.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;1200&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
+    allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;./2020-09-09.pdf&#34; target=&#34;_blank&#34; id=&#34;download_files&#34;&gt;ดาวน์โหลดประกาศ
+                &lt;i class=&#34; fas fa-file-pdf&#34; &gt;&lt;/i&gt;
+            &lt;/a&gt;&lt;/p&gt;
+
 &lt;p&gt;ระบบการรับรองถิ่นกำเนิดสินค้าด้วยตนเองของอาเซียน (ASEAN Wide Self-Certification : AWSC) มีผลบังคับใช้ตั้งแต่&lt;strong&gt;วันที่ 20 กันยายน 2563 เป็นต้นไป&lt;/strong&gt;&lt;/p&gt;
+
 &lt;ul&gt;
 &lt;li&gt;ผู้ส่งออก รายเดิม และ รายใหม่ ทุกรายต้องขึ้นบัญชีทะเบียนใหม่ ตั้งแต่วันที่ 20 กันยายน 2563 เป็นต้นไป&lt;/li&gt;
-&lt;li&gt;ผู้ส่งออกสามารถขึ้นทะเบียนได้ผ่านเว็บไซต์กรมการค้าต่างประเทศ (&lt;a href=&#34;http://www.dft.go.th&#34;&gt;www.dft.go.th&lt;/a&gt;) เพื่อดำเนินการกรอกข้อมูลการขึ้นทะเบียนเป็นผู้ส่งออกที่ได้รับสิทธิ (Certified Exporter) แนบเอกสารหลักฐานประกอบการขึ้นทะเบียนผ่านทางระบบอิเล็กทรอนิกส์&lt;/li&gt;
+&lt;li&gt;ผู้ส่งออกสามารถขึ้นทะเบียนได้ผ่านเว็บไซต์กรมการค้าต่างประเทศ (www.dft.go.th) เพื่อดำเนินการกรอกข้อมูลการขึ้นทะเบียนเป็นผู้ส่งออกที่ได้รับสิทธิ (Certified Exporter) แนบเอกสารหลักฐานประกอบการขึ้นทะเบียนผ่านทางระบบอิเล็กทรอนิกส์&lt;/li&gt;
 &lt;li&gt;ผู้ยื่นคำขอขึ้นทะเบียนโดย ใช้ ลายเซ็นอิเล็กทรอนิกส์ (Digital Signature) ไม่ต้องพิมพ์เอกสารและนำมายื่นที่กรมฯ แต่อย่างใด&lt;/li&gt;
 &lt;li&gt;ผู้ยื่นคำขอขึ้นทะเบียนที่ ไม่ใช้ Digital Signature ให้พิมพ์เอกสารคำขอ แล้วนำมายื่นให้เจ้าหน้าที่ที่กรมฯ&lt;/li&gt;
 &lt;/ul&gt;
+
 &lt;p&gt;&lt;strong&gt;สอบถามข้อมูลเพิ่มเติมได้ที่ :&lt;/strong&gt; กองบริหารการนำเข้าและรับรองถิ่นกำเนิด โทร. 02-5474808 และ 02-5475132 E-mail : importad@moc&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.dft.go.th/th-th/DetailHotNews/ArticleId/16057/-20-2563&#34;&gt;กรมการค้าต่างประเทศ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.dft.go.th/th-th/DetailHotNews/ArticleId/16057/-20-2563&#34; target=&#34;_blank&#34;&gt;กรมการค้าต่างประเทศ&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -392,13 +589,20 @@
       <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/news/2020-08-31/</guid>
-      <description>&lt;h2 id=&#34;ระเบยบปฏบตเกยวกบหนงสอรบรองถนกำเนดสนคา-ocp-ฉบบใหม-20-กนยายน-2563&#34;&gt;ระเบียบปฏิบัติเกี่ยวกับหนังสือรับรองถิ่นกำเนิดสินค้า (OCP) ฉบับใหม่ (20 กันยายน 2563)&lt;/h2&gt;
+      <description>
+
+&lt;h2 id=&#34;ระเบ-ยบปฏ-บ-ต-เก-ยวก-บหน-งส-อร-บรองถ-นกำเน-ดส-นค-า-ocp-ฉบ-บใหม-20-ก-นยายน-2563&#34;&gt;ระเบียบปฏิบัติเกี่ยวกับหนังสือรับรองถิ่นกำเนิดสินค้า (OCP) ฉบับใหม่ (20 กันยายน 2563)&lt;/h2&gt;
+
 &lt;p&gt;ภายใต้ความตกลงการค้าสินค้าของอาเซียน (ATIGA) และการรับรองถิ่นกำเนิดสินค้าด้วยตนเองของอาเซียน (ASEAN-wide Self-certification: AWSC)&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;img-01.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img-01.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232832414b505f4c464b46464b48&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232832414b505f4c464b46464b48&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
