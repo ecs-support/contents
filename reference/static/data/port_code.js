@@ -1,4 +1,4 @@
-var dataSet = [  
+ var dataSet = [ 
 ['ADALV', 'Andorra la Vella', 'AD', 'Andorra'],
 ['ADCAN', 'Canillo', 'AD', 'Andorra'],
 ['ADENC', 'Encamp', 'AD', 'Andorra'],
@@ -8946,7 +8946,7 @@ var dataSet = [
 ['DELKE', 'Linken', 'DE', 'Germany'],
 ['DELKH', 'Linkenheim', 'DE', 'Germany'],
 ['DELKN', 'Lauda-Konigshofen', 'DE', 'Germany'],
-['DELLA', '"Lawe-Lawe', 'DE', 'Germany'],
+['DELLA', 'Lawe-Lawe', 'DE', 'Germany'],
 ['DELLD', 'Leinefelde', 'DE', 'Germany'],
 ['DELLF', 'L?lsdorf', 'DE', 'Germany'],
 ['DELLM', 'Langenlonsheim', 'DE', 'Germany'],
@@ -19315,7 +19315,7 @@ var dataSet = [
 ['IDBXM', 'BATOM', 'ID', 'Indonesia'],
 ['IDBXT', 'Bontang, Kl', 'ID', 'Indonesia'],
 ['IDBYH', 'Bayah', 'ID', 'Indonesia'],
-['IDBYQ', '"Bunyu', 'ID', 'Indonesia'],
+['IDBYQ', 'Bunyu', 'ID', 'Indonesia'],
 ['IDCAW', 'Cawang', 'ID', 'Indonesia'],
 ['IDCBD', 'Cibadak', 'ID', 'Indonesia'],
 ['IDCBN', 'Cirebon (Tjeribon)', 'ID', 'Indonesia'],
@@ -19602,7 +19602,7 @@ var dataSet = [
 ['IDLIR', 'Lirung', 'ID', 'Indonesia'],
 ['IDLKA', 'Larantuka', 'ID', 'Indonesia'],
 ['IDLKI', 'Loki', 'ID', 'Indonesia'],
-['IDLKS', '"Lhokseumawe', 'ID', 'Indonesia'],
+['IDLKS', 'Lhokseumawe', 'ID', 'Indonesia'],
 ['IDLLA', 'Lawe-Lawe, Kl', 'ID', 'Indonesia'],
 ['IDLLN', 'Kelila', 'ID', 'Indonesia'],
 ['IDLLY', 'Labuhan Layar', 'ID', 'Indonesia'],
@@ -20012,12 +20012,12 @@ var dataSet = [
 ['IDTGK', 'Tangkiang', 'ID', 'Indonesia'],
 ['IDTGL', 'Tegalalur', 'ID', 'Indonesia'],
 ['IDTGR', 'Pasir/tanah Grogot', 'ID', 'Indonesia'],
-['IDTHB', '"Tjeribon', 'ID', 'Indonesia'],
+['IDTHB', 'Tjeribon', 'ID', 'Indonesia'],
 ['IDTIM', 'Tembagapura', 'ID', 'Indonesia'],
 ['IDTJA', 'Tanjung Aru', 'ID', 'Indonesia'],
 ['IDTJB', 'Tanjung Balai', 'ID', 'Indonesia'],
 ['IDTJG', 'Tanjung Warukin', 'ID', 'Indonesia'],
-['IDTJI', '"Tjilatjap', 'ID', 'Indonesia'],
+['IDTJI', 'Tjilatjap', 'ID', 'Indonesia'],
 ['IDTJP', 'Tanjungperak', 'ID', 'Indonesia'],
 ['IDTJQ', 'Tanjung Pandan, Belitung', 'ID', 'Indonesia'],
 ['IDTJS', 'Tanjung Selor', 'ID', 'Indonesia'],
@@ -20929,6 +20929,7 @@ var dataSet = [
 ['INTGD', 'TALEGAON DABHADE', 'IN', 'India'],
 ['INTHL', 'Thal', 'IN', 'India'],
 ['INTHR', 'THRISSUR', 'IN', 'India'],
+['INTI3', 'TIHI', 'IN', 'India'],
 ['INTIR', 'Tirupati', 'IN', 'India'],
 ['INTIV', 'Tiviri', 'IN', 'India'],
 ['INTJA', 'Talaja', 'IN', 'India'],
@@ -28768,7 +28769,7 @@ var dataSet = [
 ['PHCYP', 'Calbayog Apt, Samar', 'PH', 'Philippines'],
 ['PHCYU', 'Cuyo', 'PH', 'Philippines'],
 ['PHCYZ', 'Cauayan', 'PH', 'Philippines'],
-['PHDAD', '"Dadiangas', 'PH', 'Philippines'],
+['PHDAD', 'Dadiangas', 'PH', 'Philippines'],
 ['PHDCB', 'Dahikan Bay', 'PH', 'Philippines'],
 ['PHDCT', 'DICT / SVT', 'PH', 'Philippines'],
 ['PHDDW', 'Dinadiawan/Aparri', 'PH', 'Philippines'],
@@ -29083,7 +29084,7 @@ var dataSet = [
 ['PKISB', 'Islamabad', 'PK', 'Pakistan'],
 ['PKJAG', 'Jacobabad', 'PK', 'Pakistan'],
 ['PKJIW', 'Jiwani', 'PK', 'Pakistan'],
-['PKKBD', '"Kota Belud', 'PK', 'Pakistan'],
+['PKKBD', 'Kota Belud', 'PK', 'Pakistan'],
 ['PKKBH', 'Kalat', 'PK', 'Pakistan'],
 ['PKKBU', 'Keti Bunder', 'PK', 'Pakistan'],
 ['PKKCF', 'Kadanwari', 'PK', 'Pakistan'],
@@ -33458,7 +33459,7 @@ var dataSet = [
 ['USBFT', 'Beaufort(South Carolina)', 'US', 'United States of America'],
 ['USBFU', 'Buffalo(Missouri)', 'US', 'United States of America'],
 ['USBFV', 'Bellville(Ohio)', 'US', 'United States of America'],
-['USBFW', '"Bluefield', 'US', 'United States of America'],
+['USBFW', 'Bluefield', 'US', 'United States of America'],
 ['USBFX', 'Bellflower', 'US', 'United States of America'],
 ['USBFY', 'Buffton', 'US', 'United States of America'],
 ['USBFZ', 'Brookfield(Ohio)', 'US', 'United States of America'],
@@ -36033,7 +36034,7 @@ var dataSet = [
 ['USHDE', 'Holdrege', 'US', 'United States of America'],
 ['USHDF', 'Hilliard(Florida)', 'US', 'United States of America'],
 ['USHDG', 'HODGES', 'US', 'United States of America'],
-['USHDH', '"Oahu', 'US', 'United States of America'],
+['USHDH', 'Oahu', 'US', 'United States of America'],
 ['USHDI', 'HOLIDAY CITY', 'US', 'United States of America'],
 ['USHDK', 'Haddock', 'US', 'United States of America'],
 ['USHDL', 'Hinsdale(New Hampshire)', 'US', 'United States of America'],
@@ -43596,12 +43597,11 @@ var dataSet = [
 ['ZZQPX', 'FICTITIOUS PT', 'ZZ', 'Unknown or unspecified country'],
 ['ZZQPY', 'FICTITIOUS PT', 'ZZ', 'Unknown or unspecified country'],
 ['beGRX', 'Great Gransden         BGross Stein', 'be', 'Belgium'],
-['dsGLA', 'Glacier   GLJGol', 'ds', 'Unknown or unspecified country'],
+['dsGLA', 'Glacier                      GLJGol', 'ds', 'Unknown or unspecified country'],
 ['moFQV', 'Franklinville', 'mo', 'Macao'],
 ['nnAXC', 'Aramac', 'nn', 'Unknown or unspecified country'],
-['nsGOZ', 'Goztepe   AGra', 'ns', 'Unknown or unspecified country'],
-
-];
+['nsGOZ', 'Goztepe                        AGra', 'ns', 'Unknown or unspecified country'],
+ ];
 $(document).ready(function () {
   $("#table-ref").DataTable({
     data: dataSet,
@@ -43609,11 +43609,9 @@ $(document).ready(function () {
       { title: "รหัสท่า", className: "txt-center" },
       { title: "ชื่อท่า" },
       { title: "รหัสประเทศ", className: "txt-center" },
-      { title: "ชื่อประเทศ" },
+      { title: "ชื่อประเทศ"},
     ],
     responsive: true,
     scroller: true,
-  });
-
- 
+  });  
 });
