@@ -7,10 +7,37 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
-    <lastBuildDate>Mon, 23 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ecs-support.github.io/KM/customs/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>การตรวจสอบ</title>
+      <link>https://ecs-support.github.io/KM/customs/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%AA%E0%B8%AD%E0%B8%9A/</link>
+      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%AA%E0%B8%AD%E0%B8%9A/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>กฎหมาย</title>
+      <link>https://ecs-support.github.io/KM/customs/tags/%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/tags/%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>พ.ร.บ.คอมพิวเตอร์</title>
+      <link>https://ecs-support.github.io/KM/customs/tags/%E0%B8%9E.%E0%B8%A3.%E0%B8%9A.%E0%B8%84%E0%B8%AD%E0%B8%A1%E0%B8%9E%E0%B8%A7%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/tags/%E0%B8%9E.%E0%B8%A3.%E0%B8%9A.%E0%B8%84%E0%B8%AD%E0%B8%A1%E0%B8%9E%E0%B8%A7%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AHTN</title>
@@ -108,6 +135,15 @@
       <pubDate>Mon, 16 Aug 2021 05:10:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/tags/%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A1%E0%B8%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ISO 27001</title>
+      <link>https://ecs-support.github.io/KM/customs/tags/iso-27001/</link>
+      <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/tags/iso-27001/</guid>
       <description></description>
     </item>
     
@@ -472,7 +508,7 @@
     </item>
     
     <item>
-      <title>Anti-dumping</title>
+      <title>Anti-Dumping</title>
       <link>https://ecs-support.github.io/KM/customs/tags/anti-dumping/</link>
       <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
       
@@ -495,6 +531,24 @@
       <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/tags/%E0%B8%AA%E0%B8%97%E0%B8%98%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ข้อกำหนดหลัก</title>
+      <link>https://ecs-support.github.io/KM/customs/tags/%E0%B8%82%E0%B8%AD%E0%B8%81%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B8%94%E0%B8%AB%E0%B8%A5%E0%B8%81/</link>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/tags/%E0%B8%82%E0%B8%AD%E0%B8%81%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B8%94%E0%B8%AB%E0%B8%A5%E0%B8%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>โครงสร้างของมาตรฐาน</title>
+      <link>https://ecs-support.github.io/KM/customs/tags/%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%90%E0%B8%B2%E0%B8%99/</link>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/tags/%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%90%E0%B8%B2%E0%B8%99/</guid>
       <description></description>
     </item>
     
@@ -967,7 +1021,7 @@
     </item>
     
     <item>
-      <title>อาเซียน-ฮ่องกง</title>
+      <title>อาเซียน- ฮ่องกง</title>
       <link>https://ecs-support.github.io/KM/customs/tags/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%A2%E0%B8%99-%E0%B8%AE%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%87/</link>
       <pubDate>Thu, 11 Feb 2021 03:10:00 +0000</pubDate>
       
@@ -2079,6 +2133,15 @@
       <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/tags/%E0%B8%A5%E0%B8%87%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%9A%E0%B8%A2%E0%B8%99/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source Themes</title>
+      <link>https://ecs-support.github.io/KM/customs/tags/source-themes/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/tags/source-themes/</guid>
       <description></description>
     </item>
     

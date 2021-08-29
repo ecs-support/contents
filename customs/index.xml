@@ -7,10 +7,19 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
-    <lastBuildDate>Mon, 23 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ecs-support.github.io/KM/customs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pages</title>
+      <link>https://ecs-support.github.io/KM/customs/pages/</link>
+      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/pages/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ข่าวสารและบทความ</title>
@@ -18,15 +27,6 @@
       <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pages</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/</link>
-      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/KM/customs/pages/</guid>
       <description></description>
     </item>
     
@@ -1331,6 +1331,15 @@
     </item>
     
     <item>
+      <title>Publications</title>
+      <link>https://ecs-support.github.io/KM/customs/publication/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://ecs-support.github.io/KM/customs/docs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1345,6 +1354,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/faq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ecs-support.github.io/KM/customs/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/home/</guid>
       <description></description>
     </item>
     

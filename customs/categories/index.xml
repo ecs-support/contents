@@ -7,10 +7,37 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
-    <lastBuildDate>Mon, 23 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ecs-support.github.io/KM/customs/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ISO 27001</title>
+      <link>https://ecs-support.github.io/KM/customs/categories/iso-27001/</link>
+      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/categories/iso-27001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>คลังความรู้</title>
+      <link>https://ecs-support.github.io/KM/customs/categories/%E0%B8%84%E0%B8%A5%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3/</link>
+      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/categories/%E0%B8%84%E0%B8%A5%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>กฎหมาย</title>
+      <link>https://ecs-support.github.io/KM/customs/categories/%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/categories/%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>News</title>
