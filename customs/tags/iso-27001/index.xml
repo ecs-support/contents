@@ -1,46 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ISO 27001 on ECS</title>
+    <title>ISO-27001 on ECS</title>
     <link>https://ecs-support.github.io/KM/customs/tags/iso-27001/</link>
-    <description>Recent content in ISO 27001 on ECS</description>
+    <description>Recent content in ISO-27001 on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
-    <lastBuildDate>Mon, 16 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ecs-support.github.io/KM/customs/tags/iso-27001/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>ประกาศคณะกรรมการธุรกรรมทางอิเล็กทรอนิกส์ เรื่อง แนวนโยบายและแนวปฏิบัติในการรักษาความมั่นคงปลอดภัยด้านสารสนเทศของหน่วยงานของรัฐ (ฉบับที่ 2) พ.ศ. 2556</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/sec-no2-2556/</link>
-      <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/sec-no2-2556/</guid>
-      <description>
-
-&lt;br&gt;
-
-
-&lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;1200&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
-    allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-
-
-&lt;br&gt;
-
-
-&lt;div class=&#34;article-tags&#34;&gt;
-&lt;a class=&#34;badge badge-danger&#34; href=&#34;./docs.pdf&#34; target=&#34;_blank&#34; id=&#34;download_files_new&#34;&gt;Download&lt;/a&gt;
-
-&lt;/div&gt;
- &lt;br&gt;
-
-</description>
-    </item>
     
     <item>
       <title>An example journal article</title>
