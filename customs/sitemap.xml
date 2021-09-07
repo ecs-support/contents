@@ -889,27 +889,52 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/authors/admin/</loc>
-    <lastmod>2021-08-31T06:30:00+00:00</lastmod>
+    <lastmod>2021-09-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/authors/</loc>
-    <lastmod>2021-08-31T06:30:00+00:00</lastmod>
+    <lastmod>2021-09-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/categories/</loc>
-    <lastmod>2021-08-31T06:30:00+00:00</lastmod>
+    <lastmod>2021-09-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/</loc>
-    <lastmod>2021-08-31T06:30:00+00:00</lastmod>
+    <lastmod>2021-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/categories/knowledge/</loc>
+    <lastmod>2021-09-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/tags/</loc>
-    <lastmod>2021-08-31T06:30:00+00:00</lastmod>
+    <lastmod>2021-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%AD%E0%B8%A1/</loc>
+    <lastmod>2021-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/post/knowledge/2021/2021-09-07/</loc>
+    <lastmod>2021-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%9E%E0%B8%8A%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%AD%E0%B8%A1/</loc>
+    <lastmod>2021-09-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/post/knowledge/</loc>
+    <lastmod>2021-09-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -988,12 +1013,12 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/KM/customs/categories/%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2/</loc>
     <lastmod>2021-08-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2/</loc>
+    <loc>https://ecs-support.github.io/KM/customs/categories/%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2/</loc>
     <lastmod>2021-08-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -1208,11 +1233,6 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/KM/customs/categories/knowledge/</loc>
-    <lastmod>2021-08-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%82%E0%B8%B2%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8/</loc>
     <lastmod>2021-08-13T00:00:00+00:00</lastmod>
   </url>
@@ -1229,11 +1249,6 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%97%E0%B8%B2%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B8%AA%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%A0%E0%B8%A1/</loc>
-    <lastmod>2021-08-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/KM/customs/post/knowledge/</loc>
     <lastmod>2021-08-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -3593,15 +3608,15 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/KM/customs/documents/</loc>
-  </url>
-  
-  <url>
     <loc>https://ecs-support.github.io/KM/customs/faq/</loc>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/home/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/pages/docs/section/</loc>
   </url>
   
   <url>
