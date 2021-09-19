@@ -7,30 +7,35 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
-    <lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Sep 2021 06:30:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ecs-support.github.io/KM/customs/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>News</title>
-      <link>https://ecs-support.github.io/KM/customs/categories/news/</link>
-      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      <title>ประกาศกรมศุลกากร</title>
+      <link>https://ecs-support.github.io/KM/customs/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</link>
+      <pubDate>Fri, 17 Sep 2021 06:30:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/categories/news/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>สิทธิประโยชน์ทางภาษี</title>
       <link>https://ecs-support.github.io/KM/customs/categories/%E0%B8%AA%E0%B8%97%E0%B8%98%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9/</link>
-<<<<<<< HEAD
-      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
-=======
-      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
->>>>>>> 1465c9a97de2b546a7e567a410069ddd63da1246
+      <pubDate>Fri, 17 Sep 2021 06:30:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/categories/%E0%B8%AA%E0%B8%97%E0%B8%98%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://ecs-support.github.io/KM/customs/categories/news/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/categories/news/</guid>
       <description></description>
     </item>
     
@@ -44,16 +49,7 @@
     </item>
     
     <item>
-      <title>ประกาศกรมศุลกากร</title>
-      <link>https://ecs-support.github.io/KM/customs/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</link>
-      <pubDate>Tue, 31 Aug 2021 06:30:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/KM/customs/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ISO-27001</title>
+      <title>ISO 27001</title>
       <link>https://ecs-support.github.io/KM/customs/categories/iso-27001/</link>
       <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
       
