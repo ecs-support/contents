@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
@@ -43,6 +44,38 @@
    &lt;/div&gt;
   &lt;/div&gt;
   &lt;br&gt;
+=======
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ECS</title>
+    <link>https://ecs-support.github.io/KM/customs/authors/admin/</link>
+    <description>Recent content on ECS</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>ECS@Support&amp;copy;{year}</copyright>
+    <lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://ecs-support.github.io/KM/customs/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>การนำของเข้าและส่งของออกทางไปรษณีย์</title>
+      <link>https://ecs-support.github.io/KM/customs/pages/import/postal_guide/</link>
+      <pubDate>Thu, 05 Aug 2021 01:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/pages/import/postal_guide/</guid>
+      <description>
+
+&lt;div class=&#34;toc collapsible-toc&#34;&gt;
+ &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
+ &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
+ 
+   
+   &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;br&gt;
+>>>>>>> 1465c9a97de2b546a7e567a410069ddd63da1246
     &lt;/div&gt;
 &lt;h2 id=&#34;บทนำ&#34;&gt;บทนำ&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/postal/postal-guide/postal-guidepng_Page3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -10684,6 +10717,7 @@
 &lt;li&gt;&lt;a href=&#34;../../section/&#34;&gt;กลับเมนูหลัก&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
+<<<<<<< HEAD
 &lt;p&gt;ที่มา : &lt;a href=&#34;https://ictlawcenter.etda.or.th/laws/detail/computer-crime-act-2550&#34;&gt;สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
@@ -10696,6 +10730,403 @@
       
       <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/com-2-act-2560/</guid>
       <description>&lt;h2 id=&#34;มาตราทเกยวของ&#34;&gt;มาตราที่เกี่ยวข้อง&lt;/h2&gt;
+=======
+&lt;p&gt;ที่มา :&lt;a href=&#34;http://w9.excise.go.th/law60/articles/post.php?ref=395&#34; target=&#34;_blank&#34;&gt;กรมสรรพสามิต &lt;/a&gt;.
+วันที่ปรับปรุงล่าสุด : 13 มีนาคม 2563&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>คู่มือสำหรับประชาชนของกรมสรรพสามิต</title>
+      <link>https://ecs-support.github.io/KM/customs/pages/import/excise/excise_announcement_list/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/pages/import/excise/excise_announcement_list/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;คู่มือสำหรับประชาชนของกรมสรรพสามิต ตามพระราชบัญญัติภาษีสรรพสามิต พ.ศ. 2560 (6 งาน 65 กระบวนงาน)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;1-งานจดทะเบ-ยน&#34;&gt;1. งานจดทะเบียน&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;กระบวนงานที่ 1 &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-969641708.pdf&#34; target=&#34;_blank&#34;&gt;การจดทะเบียน การเปลี่ยนแปลงข้อมูลที่จดทะเบียนแล้ว และการขอรับใบแทนใบทะเบียนสรรพสามิต&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 2 &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-718211358.pdf&#34; target=&#34;_blank&#34;&gt;การขอย้าย/เลิก/โอน กิจการ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;2-งานชำระภาษ&#34;&gt;2. งานชำระภาษี&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;กระบวนงานที่ 3 &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-777849351.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตนำสินค้าออกหรือกลับคืนโรงอุตสาหกรรม คลังสินค้าทัณฑ์บน หรือสถานที่อื่น (มาตรา 26 (1)(2) มาตรา 50 วรรคสอง (1) และมาตรา 103 วรรคสอง)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 4 &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1583519563.pdf&#34; target=&#34;_blank&#34;&gt;การขอนำรถยนต์ออกจากโรงอุตสาหกรรมหรือคลังสินค้าทัณฑ์บนเพื่อทดสอบประสิทธิภาพในระหว่างขั้นตอนการผลิต&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 5 &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1723281538.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาต การขอใบแทนใบอนุญาต และการขอเลิก สถานแสดงรถยนต์เพื่อขาย&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 6 &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-297949979.pdf&#34; target=&#34;_blank&#34;&gt;การขอใบอนุญาตตั้ง ขอรับใบแทนใบอนุญาต ขอโอน และขอเลิกกิจการ คลังสินค้าทัณฑ์บน&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 7 &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-98150650.pdf&#34; target=&#34;_blank&#34;&gt;การขอชำระภาษีสรรพสามิตกรณีดัดแปลงรถยนต์&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 8 &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1526677002.pdf&#34; target=&#34;_blank&#34;&gt;การขอชำระภาษีภายในวันที่สิบห้าของเดือนถัดจากเดือนที่นำสินค้าออกจากโรงอุตสาหกรรมหรือคลังสินค้าทัณฑ์บนโดยมีหลักประกัน&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;3-งานค-น-ยกเว-น-และลดหย-อนภาษ&#34;&gt;3. งานคืน ยกเว้น และลดหย่อนภาษี&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;กระบวนงานที่ 9  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-585065006.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุมัติลดหย่อนภาษีสรรพสามิต&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 10  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1009734364.pdf&#34; target=&#34;_blank&#34;&gt;การยกเว้นหรือคืนภาษีสำหรับสินค้าที่ส่งออกไปนอกราชอาณาจักรหรือนำเข้าไปในเขตปลอดอากร&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 11  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1073808954.pdf&#34; target=&#34;_blank&#34;&gt;การยกเว้นภาษีสำหรับสินค้าที่นำไปเก็บไว้ ณ สถานที่เก็บสินค เพื่อรอการส่งออกไปนอกราชอาณาจักรหรือนำเข้าไปในเขตปลอดอากร ตามมาตรา 103 และการยกเว้นภาษีน้ำมันและผลิตภัณฑ์น้ำมันที่นำไปเก็บไว้ ณ สถานที่เก็บสินค้าเพื่อรอนำไปใช้เติมเรือไปต่างประเทศ ตามมาตรา 107 (4)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 12  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1890370662.pdf&#34; target=&#34;_blank&#34;&gt;การขอยกเว้นภาษีสำหรับสินค้าที่นำไปใช้เป็นวัตถุดิบ หรือส่วนประกอบในการผลิตสินค้า&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 13  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-438363838.pdf&#34; target=&#34;_blank&#34;&gt;การยกเว้นหรือคืนภาษีสำหรับสินค้าบริจาค ตามมาตรา 107 (1) และ (2)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 14  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-636411081.pdf&#34; target=&#34;_blank&#34;&gt;การยกเว้นหรือคืนภาษีสำหรับสินค้าที่จำหน่ายให้แก่ผู้ได้รับเอกสิทธิ์ ตามมาตรา 107 (3)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 15  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1572167171.pdf&#34; target=&#34;_blank&#34;&gt;การยกเว้นภาษีสำหรับสุรากลั่นชนิดเอทานอลที่นำไปใช้เป็นวัตถุดิบหรือส่วนประกอบในการผลิตน้ำมันเชื้อเพลิงเพื่อใช้เป็นเชื้อเพลิง&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 16  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1233522505.pdf&#34; target=&#34;_blank&#34;&gt;การยกเว้นหรือคืนภาษีสำหรับน้ำมันและผลิตภัณฑ์น้ำมันที่เติมในอากาศยานหรือเรือที่มีขนาดเกินกว่าห้าร้อยตันกรอสส์ ตามมาตรา 107 (4)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 17  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-241591383.pdf&#34; target=&#34;_blank&#34;&gt;การขอเสียภาษีในอัตราศูนย์สำหรับน้ำมันดีเซลที่นำไปจำหน่ายในเขตต่อเนื่องของราชอาณาจักร&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 18  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-2053733119.pdf&#34; target=&#34;_blank&#34;&gt;การขอเสียภาษีในอัตราศูนย์สำหรับน้ำมันเชื้อเพลิงเครื่องบินไอพ่นที่นำไปใช้เป็นเชื้อเพลิงสำหรับอากาศยานไปต่างประเทศ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 19  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1349045127.pdf&#34; target=&#34;_blank&#34;&gt;การขอเสียภาษีในอัตราศูนย์สำหรับน้ำมันและลิตภัณฑ์น้ำมันที่นำไปใช้เป็นวัตถุดิบหรือส่วนประกอบในการผลิตในโรงอุตสาหกรรมน้ำมันและผลิตภัณฑ์น้ำมัน&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 20  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1080646277.pdf&#34; target=&#34;_blank&#34;&gt;การขอเสียภาษีอัตราศูนย์สำหรับรถยนต์นั่งหรือรถยนต์โดยสารที่มีที่นั่ง ไม่เกิน 10 คนที่ใช้เป็นรถพยาบาล&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 21  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-46881289.pdf&#34; target=&#34;_blank&#34;&gt;การขอคืนภาษี สำหรับสินค้าที่พิสูจน์ได้ว่าเสียหายหรือเสื่อมคุณภาพจนใช้การไม่ได้&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 22  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-659469498.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุมัติเป็นผู้วิจัย พัฒนา หรือทดสอบสมรรถนะรถยนต์หรือรถจักรยานยนต์ตันแบบ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 23  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-2127877198.pdf&#34; target=&#34;_blank&#34;&gt;การขอเสียภาษีอัตราศูนย์สำหรับรถยนต์หรือรถจักรยานยนต์ต้นแบบที่นำไปวิจัย พัฒนา หรือทดสอบสมรรถนะ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 24  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-627657632.pdf&#34; target=&#34;_blank&#34;&gt;การขอทำลายรถยนต์หรือรถจักรยานยนต์ต้นแบบที่ใช้ในการวิจัย พัฒนา หรือทดสอบสมรรถนะ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 25  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-487726360.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุมัติสถานที่เก็บสินค้า&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 26  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1527478285.pdf&#34; target=&#34;_blank&#34;&gt;การขอเสียภาษีในอัตราศูนย์สำหรับสินค้าน้ำมันหล่อลื่นและน้ำมันที่คล้ายกันของผู้ประกอบอุตสาหกรรมหรือผู้นำเข้าเพื่อนำไปใช้เป็นวัตถุดิบในการผลิตสิ่งของอื่น&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 27  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1130393082.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตเป็นตัวแทนจำหน่ายน้ำมันหล่อลื่นหรือผู้ใช้น้ำมันหล่อลื่นซึ่งได้รับสิทธิเสียภาษีในอัตราศูนย์ที่นำไปใช้เป็นวัตถุดิบในการผลิตสิ่งของอื่น&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 28  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-495290069.pdf&#34; target=&#34;_blank&#34;&gt;การขอเสียภาษีในอัตราศูนย์สำหรับผู้ประกอบอุตสาหกรรมหรือผู้นำเข้าสารละลายประเภทไฮโดรคาร์บอนเพื่อนำไปใช้ในอุตสาหกรรมต่าง ๆ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 29  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-2090568597.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตเป็นตัวแทนในการซื้อสารละลายประเภทไฮโดรคาร์บอนเพื่อจำหน่ายหรือผู้ใช้สารละลายประเภทไฮโดรคาร์บอนซึ่งเสียภาษีในอัตราศูนย์ ที่นำไปใช้ในอุตสาหกรรมต่าง ๆ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 30  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-951738995.pdf&#34; target=&#34;_blank&#34;&gt;การขอเสียภาษีในอัตราศูนย์สำหรับแบตเตอรี่ที่ใช้เป็นวัตถุดิบหรือส่วนประกอบในการผลิตสิ่งของอื่น เพื่อส่งออกนอกราชอาณาจักร&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 31  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1277978530.pdf&#34; target=&#34;_blank&#34;&gt;การขอลงทะเบียนเป็นผู้ใช้แบตเตอรี่ที่เสียภาษีอัตราศูนย์สำหรับแบตเตอรี่ที่ใช้เป็นวัตถุดิบหรือส่วนประกอบในการผลิตสิ่งของอื่นเพื่อการส่งออกนอกราชอาณาจักร&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;4-งานการควบค-มการชำระภาษ&#34;&gt;4. งานการควบคุมการชำระภาษี&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;กระบวนงานที่ 32  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-925837254.pdf&#34; target=&#34;_blank&#34;&gt;การขอรับแสตมป์สรรพสามิตสำหรับเครื่องดื่ม&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 33  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1058028848.pdf&#34; target=&#34;_blank&#34;&gt;การขอรับแสตมป์สรรพสามิตสำหรับสุราที่ผลิตในราชอาณาจักร (สุราแช่ชุมชนและสุรากลั่นชุมชน)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 34  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1225822585.pdf&#34; target=&#34;_blank&#34;&gt;การขอรับแสตมป์สรรพสามิตสำหรับสุราที่ผลิตในราชอาณาจักรอื่น (นอกจากสุราแช่ชุมชนและสุรากลั่นชุมชน)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 35  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1957596146.pdf&#34; target=&#34;_blank&#34;&gt;การขอรับแสตมป์สรรพสามิตสำหรับสินค้าสุราที่นำเข้ามาในราชอาณาจักรเพื่อขาย&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 36  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-515742982.pdf&#34; target=&#34;_blank&#34;&gt;การขอรับแสตมป์สรรพสามิตสำหรับยาสูบที่ผลิตในราชอาณาจักร&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 37  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-169262239.pdf&#34; target=&#34;_blank&#34;&gt;การขอรับแสตมป์สรรพสามิตสำหรับยาสูบที่นำเข้ามาในราชอาณาจักร&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 38  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-865559071.pdf&#34; target=&#34;_blank&#34;&gt;การขอรับเครื่องหมายแสดงการเสียภาษีของทางราชการสำหรับไพ่&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 39  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-562015013.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตนำแสตมป์สรรพสามิตไปปิดภาชนะบรรจุเครื่องดื่มนอกราชอาณาจักรหรือในเขตปลอดอากรที่นำเข้ามาในราชอาณาจักร&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 40  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-744677864.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตรับแสตมป์สรรพสามิตไปปิดที่โรงงานผลิตสุราในต่างประเทศ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 41  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-128090429.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตรับแสตมป์สรรพสามิตไปปิดที่โรงงานผู้ผลิตยาสูบในต่างประเทศ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 42  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1008551734.pdf&#34; target=&#34;_blank&#34;&gt;การขอจดทะเบียนเครื่องหมายแสดงการเสียภาษี&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 43  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-513241488.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตผลิตเครื่องหมายแสดงการเสียภาษีจดทะเบียน&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 44  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1512034551.pdf&#34; target=&#34;_blank&#34;&gt;การขอต่ออายุใบอนุญาตผลิตเครื่องหมายแสดงการเสียภาษีจดทะเบียน&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 45  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-780056556.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตนำเครื่องหมายแสดงการเสียภาษีจดทะเบียนเข้ามาในราชอาณาจักร&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 46  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-488615704.pdf&#34; target=&#34;_blank&#34;&gt;การขอซื้อและขอขนเครื่องหมายแสดงการเสียภาษีจดทะเบียน&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 47  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1227025873.pdf&#34; target=&#34;_blank&#34;&gt;การขอเลิกใช้เครื่องหมายแสดงการเสียภาษีจดทะเบียน&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 48  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-2137142765.pdf&#34; target=&#34;_blank&#34;&gt;การแก้ไขเปลี่ยนแปลงโรงงานผลิตเครื่องหมายแสดงการเสียภาษีจดทะเบียน&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;5-งานการทำบ-ญช-และงบเด-อน&#34;&gt;5. งานการทำบัญชี และงบเดือน&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;กระบวนงานที่ 49  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1426633757.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตทำบัญชีประจำวัน บัญชีรับจ่ายสินค้าที่ และงบเดือน โดยใช้วิธีการอื่นใด และการอนุญาตให้ยื่นทางสื่ออิเล็กทรอนิกส์&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 50  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-800251416.pdf&#34; target=&#34;_blank&#34;&gt;การขอใช้เครื่องบันทึกการเก็บเงิน ออกหลักฐานการรับเงิน&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;6-งานใบอน-ญาตขาย-ผล-ต-นำเข-า-ส-งออก&#34;&gt;6. งานใบอนุญาตขาย ผลิต นำเข้า/ส่งออก&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;กระบวนงานที่ 51  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1223606306.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตขายสุรา ยาสูบ และไพ่ ต่อเนื่อง&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 52  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-144124489.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตนำสุราเข้ามาในราชอาณาจักร&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 53  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-171669810.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตเปลี่ยนแปลงประเภทใบอนุญาตนำเข้าสุรา&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 54  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-838033226.pdf&#34; target=&#34;_blank&#34;&gt;การขอใช้ฉลากปิดภาชนะบรรจุสุราที่จะนำเข้ามาในราชอาณาจักร&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 55  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1916897632.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตขายสุรา (สำหรับรายใหม่)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 56  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-138548478.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตผลิตสุราทุกชนิด (ยกเว้นสุราแช่ชุมชนและสุรากลั่นชุมชน)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 57  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1079500837.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตผลิตสุราชุมชน&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 58  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1382857536.pdf&#34; target=&#34;_blank&#34;&gt;การส่งตัวอย่างสุราเพื่อตรวจวิเคราะห์คุณภาพ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 59  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-16483140.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตทำการเพาะปลูกตันยาสูบ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 60  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1785534030.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตซื้อใบยาแห้ง&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 61  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1167401529.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตนำใบยา ยาอัด เข้ามาในราชอาณาจักร หรือการขออนุญาตส่งใบยา ยาอัด ออกไปนอกราชอาณาจักร&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 62  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1183064568.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตขายยาสูบ (สำหรับรายใหม่)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 63  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-1084148997.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตผลิตยาสูบ (ยกเว้นบุหรี่ซิกาแรต)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 64  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-693562389.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตนำยาสูบเข้ามาในราชอาณาจักร หรือการขออนุญาตส่งยาสูบออกไปนอกราชอาณาจักร&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;กระบวนงานที่ 65  &lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/300120-396150928.pdf&#34; target=&#34;_blank&#34;&gt;การขออนุญาตขายไพ่ (สำหรับรายใหม่)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;หมายเหตุ&lt;/strong&gt;:- คู่มือสำหรับประชาชนของกรมสรรพสามิต ตามพระราชบัญญัติภาษีสรรพสามิต พ.ศ. 2560 (&lt;a href=&#34;http://w9.excise.go.th/law60/pdf/web/viewer.html?file=../../fileupload/140220-168812472.pdf&#34; target=&#34;_blank&#34;&gt; ภาพรวมกระบวนงานตามประเภทสินค้า &lt;/a&gt;)&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;ที่มา :&lt;a href=&#34;http://w9.excise.go.th/law60/articles/post.php?ref=714&#34; target=&#34;_blank&#34;&gt;กรมสรรพสามิต &lt;/a&gt;.&lt;br /&gt;
+วันที่ปรับปรุงล่าสุด : 13 มีนาคม 2563&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>คู่มือการจัดทำข้อมูลใบขนสินค้า เพื่อรองรับการใช้งานบัตรภาษีอิเล็กทรอนิกส์</title>
+      <link>https://ecs-support.github.io/KM/customs/post/news/2021/09-16/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/post/news/2021/09-16/</guid>
+      <description>
+
+&lt;p&gt;เนื่องจากใน&lt;em&gt;วันที่ 21 กันยายน 2564&lt;/em&gt; ที่จะถึงนี้ เป็นวันครบกำหนด&lt;strong&gt;เก้าสิบวัน&lt;/strong&gt;นับแต่วันที่ กฎกระทรวง เรื่อง &lt;strong&gt;กำหนดแบบ ลักษณะ ราคา และรายละเอียดของบัตรภาษี&lt;/strong&gt; พ.ศ. 2564 &lt;a href=&#34;http://www.customs.go.th/data_files/7cb973afc2e996bc98a9a11cb79c243e.pdf&#34; target=&#34;_blank&#34;&gt;[ดาวน์โหลด]&lt;/a&gt; ประกาศในราชกิจจานุเบกษา จึงมีผลทำให้กรมศุลกากรต้องจัดทำบัตรภาษีให้เป็นบัตรภาษีอิเล็กทรอนิกส์ และเปลี่ยนบัตรภาษีในรูปแบบกระดาษที่ยังไม่ได้ใช้ ให้เป็นบัตรภาษีอิเล็กทรอนิกส์ ตามที่กฎกระทรวงกำหนดไว้ และการเปลี่ยนแปลงรูปแบบการจ่ายเงินชดเชยค่าภาษีอากรสินค้าส่งออก ที่ผลิตในราชอาณาจักร จากเดิมที่จ่ายเป็นบัตรภาษีในรูปแบบกระดาษ เปลี่ยนเป็น&lt;strong&gt;บัตรภาษีอิเล็กทรอนิกส์&lt;/strong&gt; ตาม ประกาศกรมศุลกากรที่ 16/.2564 เรื่อง &lt;strong&gt;คู่มือการดำเนินธุรกรรมทางอิเล็กทรอนิกส์สำหรับการชดเชยค่าภาษีอากรด้วยบัตรภาษีอิเล็กทรอนิกส์&lt;/strong&gt; (Digital Tax Compensation) &lt;a href=&#34;https://ecs-support.github.io/KM/customs/post/news/2021-08-20/docs/DigitalTaxCompensation.pdf&#34; target=&#34;_blank&#34;&gt;[ดาวน์โหลด]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;จึงทำให้เกิดการปรับปรุง เปลี่ยนแปลง เพิ่มเติม กระบวนการทางศุลกากรในหลาย ๆ ด้าน ทำให้มีคำถามจากผู้ใช้งานเป็นจำนวนมาก และมากขึ้นเรื่อย ๆ เมื่อใกล้ถึงวันที่จะเริ่มใช้งานระบบดังกล่าวในวันที่ 21 กันยายน 2564 นี้ ทางทีม Support จึงได้จัดทำคู่มือการบันทึกข้อมูลใบขนสินค้า เพื่อให้ผู้ใช้งานได้ทราบถึงการเปลี่ยนแปลงที่กระทบกับการบันทึกข้อมูล รวมทั้งกฎหมายที่เกี่ยวข้องกับเรื่องดังกล่าว เพื่อให้ได้ทราบถึงเหตุผลการเปลี่ยนแปลง ซึ่งมีรายละเอียดดังนี้&lt;/p&gt;
+
+&lt;blockquote class=&#34;book-hint danger&#34;&gt;
+  &lt;strong&gt;โปรแกรมใบขนสินค้าขาเข้า-ขาออก&lt;/strong&gt; จะอัพเดทให้โดยอัตโนมัติ&lt;em&gt;หลังเที่ยงคืนของวันที่ 20 กันยายน 2564&lt;/em&gt; เพื่อให้สอดคล้องกับการอัพเดทระบบกับศุลกากร เนื่องจากการส่งข้อมูล &lt;em&gt;เลขทะเบียนผู้รับเงินชดเชย&lt;/em&gt; ไม่สามารถ&lt;strong&gt;ส่งก่อนวันที่ 21 กันยายน 2564&lt;/strong&gt; ได้
+&lt;/blockquote&gt;
+
+
+&lt;h2 id=&#34;common-data-บร-ษ-ทผ-นำเข-า-ส-งออก&#34;&gt;Common Data (บริษัทผู้นำเข้า-ส่งออก)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/img-01.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;เพิ่มเติมในส่วนของ &lt;em&gt;เลขทะเบียนผู้รับเงินชดเชย&lt;/em&gt; โดยใช้ทำการบันทึกในระบบในครั้งแรก เพื่ออ้างอิงการใช้สิทธิ์ชดเชยค่าภาษีอากร รวมทั้งการชำระเงินค่าภาษีอากรด้วยบัตรภาษีอิเล็กทรอนิกส์ ของผู้นำเข้า-ส่งออก ในการจัดทำใบขนสินค้า โปรแกรมจะตววจสอบการบันทึกข้อมูลในช่องดังกล่าวต้องขึ้นต้นด้วยอักษร &lt;strong&gt;C&lt;/strong&gt; และมีความยาวทั้งหมด &lt;strong&gt;14 ตัวอักษร&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;ใบขนส-นค-าขาออก&#34;&gt;ใบขนสินค้าขาออก&lt;/h2&gt;
+
+&lt;blockquote class=&#34;book-hint warning&#34;&gt;
+  &lt;strong&gt;เฉพาะใบขนสินค้าขาออก&lt;/strong&gt; ที่ใช้สิทธิ์&lt;em&gt;ชดเชยค่าภาษีอากร&lt;/em&gt; เท่านั้น
+&lt;/blockquote&gt;
+
+
+&lt;p&gt;ตามประกาศกรมศุลกากรที่ 16/.2564 เรื่อง คู่มือการดำเนินธุรกรรมทางอิเล็กทรอนิกส์สำหรับการชดเชยค่าภาษีอากรด้วยบัตรภาษีอิเล็กทรอนิกส์ (Digital Tax Compensation) &lt;a href=&#34;https://ecs-support.github.io/KM/customs/post/news/2021-08-20/docs/DigitalTaxCompensation.pdf&#34; target=&#34;_blank&#34;&gt;[ดาวน์โหลด]&lt;/a&gt; กำหนดไว้ว่า &amp;laquo;ผู้ประสงค์จะขอรับเงินชดเชยต้องมีชื่อเป็นผู้ส่งของออกตามใบขนสินค้าขาออก ต้องจัดทำข้อมูลใบขนสินค้าขาออกให้ตรงกับความเป็นจริง และเพียงพอแก่การขอ ใช้สิทธิรับเงินชดเชย ดังนี้&amp;raquo;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Document Type ชนิดเอกสาร มีค่าเป็น &lt;em&gt;1 – ใบขนสินค้าขาออก&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;ผู้ประสงค์จะขอรับเงินชดเชยต้องเป็น&lt;em&gt;ผู้ส่งของออก&lt;/em&gt; ตามใบขนสินค้าขาออก&lt;/li&gt;
+&lt;li&gt;Compensation ใช้สิทธิ์ชดเชยอำกรหรือไม่ &lt;em&gt;มีค่าเท่ากับ Y (Y = Yes)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Import Tax Incentives ID&lt;/strong&gt; ให้ระบุ&lt;em&gt;เลขทะเบียนผู้รับเงินชดเชยค่ำภำษีอำกร 14 หลัก&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/img-02.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;เมื่อผุู้ใช้งานเลือกใช้สิทธิ์ชดเชย โปรแกรมจะทำการดึงข้อมูลเลขทะเบียนผู้รับเงินชดเชย จากบริษัทผู้ส่งออกมาแสดงที่ช่อง Import Tax Incentives ID ตามที่ศุลกากรกำหนดโดยอัตโนมัติ และทำการลบข้อมูลช่องดังกล่าว เมื่อผู้ใช้ยกเลิกการใช้สิทธิ์ชดเชย รวมทั้งเพิ่มการตรวจสอบข้อมูล ก่อนที่จะส่งข้อมูลใบขนสินค้าขาออกให้ศุลกากร โดยกำหนดว่า รายการใดที่เลือกใช้สิทธิ์ชดเชย ต้องบันทึกข้อมูลในช่อง Import Tax Incentives ID ดังนี้&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ต้องมีการบันทึกข้อมูลในช่องดังกล่าว (ห้ามเป็นค่าว่าง)&lt;/li&gt;
+&lt;li&gt;ข้อมูลต้องขึ้นต้นด้วยอักษร &lt;strong&gt;C&lt;/strong&gt; เท่านั้น&lt;/li&gt;
+&lt;li&gt;ข้อมูลต้องมีความยาวทั้งหมด 14 ตัวอักษร&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/swhpng_Page7.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;ใบขนส-นค-าขาเข-า&#34;&gt;ใบขนสินค้าขาเข้า&lt;/h2&gt;
+
+&lt;blockquote class=&#34;book-hint danger&#34;&gt;
+  เฉพาะใบขนสินค้าขาเข้า ที่ต้องการ&lt;strong&gt;ชำระค่าภาษีอากรด้วยวงเงินชดเชยค่าภาษีอากร บัตรภาษีอิเล็กทรอนิกส์&lt;/strong&gt; &lt;em&gt;พร้อมกับการยื่นใบขนสินค้า&lt;/em&gt; เท่านั้น
+&lt;/blockquote&gt;
+
+
+&lt;p&gt;&lt;img src=&#34;./img/img-03.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;เพิ่มเติมรูปแบบการชำระค่าภาษีอากรประเภท &lt;strong&gt;C - การชำระค่าภาษีอากรด้วยวงเงินชดเชยค่าภาษีอากร บัตรภาษีอิเล็กทรอนิกส์&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;เมื่อเลือกการชำระ = C โปรแกรมจะทำการดึงข้อมูลเลขทะเบียนผู้รับเงินชดเชย จากบริษัทผู้นำเข้ามาแสดงที่ช่อง เลขที่บัญชีเดบิต ตามที่ศุลกากรกำหนดให้โดยอัตโนมัติ&lt;/li&gt;
+&lt;li&gt;การชำระค่าภาษีอากรประเภท C มีรูปแบบคล้ายกับการชำระแบบ H (e-Payment) ที่กำหนดว่ายอดที่จะชำระต้องเท่ากับยอดภาษีรวม (Total Tax) หมายถึง การชำระด้วยวิธีเหล่านี้ไม่สามารถใช้ร่วมกับรูปแบบการชำระอื่น ๆ ได้ ทำให้ต้องมีวงเงินคงเหลือ เท่ากับหรือมากกว่าค่าภาษีที่ต้องชำระรวม&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/swhpng_Page11.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/swhpng_Page13.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/swhpng_Page14.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ข้อควรทราบ&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;การนำบัตรภาษีอิเล็กทรอนิกส์ไปชำระที่ศุลกากร สามารถชำระควบคู่กับเงินสด,แคชเชียร์เช็ค หรือ EDC ได้
+&lt;img src=&#34;./img/swhpng_Page9.png&#34; alt=&#34;&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>เอกสารประกอบการอบรมระบบติดตามสถานะการผ่านพิธีการศุลกากรทางอินเตอร์เน็ต (e-Tracking)</title>
+      <link>https://ecs-support.github.io/KM/customs/post/news/2121-09-15/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/post/news/2121-09-15/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;img.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;กรมศุลกากรเผยแพร่ &lt;strong&gt;เอกสารประกอบการอบรมระบบติดตามสถานะการผ่านพิธีการศุลกากรทางอินเตอร์เน็ต (e-Tracking)&lt;/strong&gt; ที่จะจัดขึ้นในวันพุธที่ 15 กันยายน 2564 เวลา 09.30 - 12.00 น. ผ่านระบบออนไลน์ด้วยโปรแกรม Zoom Meeting  ซึ่งระบบใหม่เริ่มใช้งานใน&lt;em&gt;วันที่ 19 กันยายน 2564 เวลา 22:00 น. เป็นต้นไป&lt;/em&gt;&lt;/p&gt;
+
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;1200&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
+    allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+
+&lt;br&gt;
+
+&lt;br&gt;
+&lt;div class=&#34;article-tags&#34;&gt;
+&lt;a class=&#34;badge badge-danger&#34; href=&#34;./docs.pdf&#34; target=&#34;_blank&#34; id=&#34;download_files_new&#34;&gt;Download&lt;/a&gt;
+
+&lt;/div&gt;
+&lt;br&gt;
+
+
+
+&lt;blockquote&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://drive.google.com/file/d/1EjQltknTBiDqcTuK3dxUrwCiVSlH-R8E/view&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>คำแนะนำเกี่ยวกับพิกัดอัตราศุลกากรสำหรับ พืชกระท่อม</title>
+      <link>https://ecs-support.github.io/KM/customs/post/knowledge/2021/2021-09-07/</link>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/2021/2021-09-07/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;ที่่มา : &lt;a href=&#34;http://www.customs.go.th/data_files/68386b152eab9440f2ce3abdeb0de4e5.pdf&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>การคืนเงินประกันของกรมศุลกากรโดยวิธีโอนเงินผ่านธนาคารด้วยสื่ออิเล็กทรอนิกส์</title>
+      <link>https://ecs-support.github.io/KM/customs/post/law/customs/2564/2564-135/</link>
+      <pubDate>Tue, 31 Aug 2021 06:30:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/post/law/customs/2564/2564-135/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;1200&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
+    allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+
+&lt;br&gt;
+
+&lt;br&gt;
+&lt;div class=&#34;article-tags&#34;&gt;
+&lt;a class=&#34;badge badge-danger&#34; href=&#34;./docs.pdf&#34; target=&#34;_blank&#34; id=&#34;download_files_new&#34;&gt;Download&lt;/a&gt;
+
+&lt;/div&gt;
+&lt;br&gt;
+
+
+
+&lt;blockquote&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232932404e505f4d464b48464b47&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>แก้ไขกำหนดเวลาขนส่งของเข้า-ออก (เฉพาะด่านเชียงของ)</title>
+      <link>https://ecs-support.github.io/KM/customs/post/law/customs/2564/2564-137/</link>
+      <pubDate>Mon, 30 Aug 2021 06:30:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/post/law/customs/2564/2564-137/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;docsjpg_Page1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;docsjpg_Page2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;1200&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
+    allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+
+&lt;br&gt;
+
+&lt;br&gt;
+&lt;div class=&#34;article-tags&#34;&gt;
+&lt;a class=&#34;badge badge-danger&#34; href=&#34;./docs.pdf&#34; target=&#34;_blank&#34; id=&#34;download_files_new&#34;&gt;Download&lt;/a&gt;
+
+&lt;/div&gt;
+&lt;br&gt;
+
+
+
+&lt;blockquote&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232932404e505f4d464b48464b47&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>พระราชบัญญัติ ว่าด้วยการกระทำความผิดเกี่ยวกับคอมพิวเตอร์ พ.ศ. 2550</title>
+      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/com-act-2550/</link>
+      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/com-act-2550/</guid>
+      <description>
+
+&lt;h2 id=&#34;มาตราท-เก-ยวข-อง&#34;&gt;มาตราที่เกี่ยวข้อง&lt;/h2&gt;
+
+&lt;h3 id=&#34;มาตรา-5&#34;&gt;มาตรา 5&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;ผู้ใดเข้าถึงโดยมิชอบซึ่งระบบคอมพิวเตอร์ที่มีมาตรการป้องกันการเข้าถึงโดยเฉพาะและมาตรการนั้นมิได้มีไว้สำหรับตน&lt;/strong&gt; ต้องระวางโทษจำคุกไม่เกินหกเดือน หรือปรับไม่เกินหนึ่งหมื่นบาท หรือทั้งจำทั้งปรับ&lt;/p&gt;
+
+&lt;h3 id=&#34;มาตรา-6&#34;&gt;มาตรา 6&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;ผู้ใดล่วงรู้มาตรการป้องกันการเข้าถึงระบบคอมพิวเตอร์ที่ผู้อื่นจัดทำขึ้นเป็นการเฉพาะ ถ้านำมาตรการดังกล่าวไปเปิดเผย โดยมิชอบในประการที่น่าจะเกิดความเสียหายแก่ผู้อื่น&lt;/strong&gt; ต้องระวางโทษจำคุกไม่เกินหนึ่งปี หรือปรับไม่เกินสองหมื่นบาท หรือทั้งจำทั้งปรับ&lt;/p&gt;
+
+&lt;h3 id=&#34;มาตรา-7&#34;&gt;มาตรา 7&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;ผู้ใดเข้าถึงโดยมิชอบซึ่งข้อมูลคอมพิวเตอร์ที่มีมาตรการป้องกันการเข้าถึง โดยเฉพาะและมาตรการนั้นมิได้มีไว้สำหรับตน&lt;/strong&gt; ต้องระวางโทษจำคุกไม่เกินสองปีหรือปรับไม่เกินสี่หมื่นบาทหรือทั้งจำทั้งปรับ&lt;/p&gt;
+
+&lt;h3 id=&#34;มาตรา-8&#34;&gt;มาตรา 8&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;ผู้ใดกระทำด้วยประการใดโดยมิชอบด้วยวิธีการทางอิเล็กทรอนิกส์เพื่อดักรับไว้ซึ่งข้อมูลคอมพิวเตอร์ของผู้อื่นที่อยู่ระหว่างการส่งในระบบคอมพิวเตอร์และข้อมูลคอมพิวเตอร์นั้นมิได้ไว้เพื่อประโยชน์สาธารณะหรือเพื่อให้บุคคลทั่วไปใช้ประโยชน์ได้&lt;/strong&gt; ต้องระวางโทษจำคุกไม่เกินสามปี หรือ ปรับไม่เกินหกหมื่นบาท หรือทั้งจำทั้งปรับ&lt;/p&gt;
+
+&lt;h3 id=&#34;มาตรา-9&#34;&gt;มาตรา 9&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;ผู้ใดทำให้เสียหาย ทำลาย แก้ไข เปลี่ยนแปลง หรือเพิ่มเติมไม่ว่าทั้งหมดหรือบางส่วน ซึ่งข้อมูลคอมพิวเตอร์ของผู้อื่นโดยมิชอบ&lt;/strong&gt; ต้องระวางโทษจำคุกไม่เกินห้าปี หรือปรับไม่เกินหนึ่งแสนบาท หรือทั้งจำทั้งปรับ&lt;/p&gt;
+
+&lt;h3 id=&#34;มาตรา-10&#34;&gt;มาตรา 10&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;ผู้ใดกระทำด้วยประการใดโดยมิชอบ เพื่อให้การทำงานของระบบคอมพิวเตอร์ของผู้อื่นถูกระงับ ชะลอ ขัดขวาง หรือรบกวนจนไม่สามารถทำงานตามปกติได้&lt;/strong&gt; ต้องระวางโทษจำคุกไม่เกินห้าปี หรือปรับไม่เกินหนึ่งแสนบาท หรือทั้งจำทั้งปรับ&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;
+
+&lt;br&gt;
+
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;1200&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
+    allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;br&gt;
+
+
+&lt;div class=&#34;article-tags&#34;&gt;
+&lt;a class=&#34;badge badge-danger&#34; href=&#34;./docs.pdf&#34; target=&#34;_blank&#34; id=&#34;download_files_new&#34;&gt;Download&lt;/a&gt;
+
+&lt;/div&gt;
+ &lt;br&gt;
+&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../section/&#34;&gt;กลับเมนูหลัก&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://ictlawcenter.etda.or.th/laws/detail/computer-crime-act-2550&#34; target=&#34;_blank&#34;&gt;สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>พระราชบัญญัติว่าด้วยการกระทำความผิดเกี่ยวกับคอมพิวเตอร์ (ฉบับที่ 2) พ.ศ. 2560</title>
+      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/com-2-act-2560/</link>
+      <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/com-2-act-2560/</guid>
+      <description>
+
+&lt;h2 id=&#34;มาตราท-เก-ยวข-อง&#34;&gt;มาตราที่เกี่ยวข้อง&lt;/h2&gt;
+
+>>>>>>> 1465c9a97de2b546a7e567a410069ddd63da1246
 &lt;h3 id=&#34;มาตรา-11&#34;&gt;มาตรา 11&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;ผู้ใดส่งข้อมูลคอมพิวเตอร์หรือจดหมายอิเล็กทรอนิกส์แก่บุคคลอื่นอันมีลักษณะเป็นการก่อให้เกิดความเดือนร้อนรำคาญแก่ผู้รับข้อมูลคอมพิวเตอร์หรือจดหมายอิเล็กทรอนิกส์ โดยไม่เปิดโอกาสให้ผู้รับสามารถบอกเลิกหรือแจ้งความประสงค์เพื่อปฏิเสธการตอบรับได้โดยง่าย&lt;/strong&gt; ต้องระวางโทษปรับไม่เกินสองแสนบาท รัฐมนตรีอาจประกาศกำหนดลักษณะและวิธีการส่ง และลักษณ์และปริมาณของข้อมูล ซึ่งไม่เป็นการก่อให้เกิดควรามเดือนร้อนรำคาญแก่ผู้รับ และลักษณะอันเป็นการปฏิเสธการตอบรับได้โดยง่าย&lt;/p&gt;
 &lt;h3 id=&#34;มาตรา-14&#34;&gt;มาตรา 14&lt;/h3&gt;

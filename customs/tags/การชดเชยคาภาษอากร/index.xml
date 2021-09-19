@@ -7,7 +7,11 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
+<<<<<<< HEAD
     <lastBuildDate>Wed, 15 Sep 2021 00:00:00 +0000</lastBuildDate>
+=======
+    <lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0000</lastBuildDate>
+>>>>>>> 1465c9a97de2b546a7e567a410069ddd63da1246
     
 	    <atom:link href="https://ecs-support.github.io/KM/customs/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%8A%E0%B8%94%E0%B9%80%E0%B8%8A%E0%B8%A2%E0%B8%84%E0%B8%B2%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3/index.xml" rel="self" type="application/rss+xml" />
     
@@ -353,6 +357,91 @@
 &lt;blockquote&gt;
 &lt;p&gt;ที่มา : &lt;a href=&#34;https://drive.google.com/file/d/1EjQltknTBiDqcTuK3dxUrwCiVSlH-R8E/view&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>คู่มือการจัดทำข้อมูลใบขนสินค้า เพื่อรองรับการใช้งานบัตรภาษีอิเล็กทรอนิกส์</title>
+      <link>https://ecs-support.github.io/KM/customs/post/news/2021/09-16/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/post/news/2021/09-16/</guid>
+      <description>
+
+&lt;p&gt;เนื่องจากใน&lt;em&gt;วันที่ 21 กันยายน 2564&lt;/em&gt; ที่จะถึงนี้ เป็นวันครบกำหนด&lt;strong&gt;เก้าสิบวัน&lt;/strong&gt;นับแต่วันที่ กฎกระทรวง เรื่อง &lt;strong&gt;กำหนดแบบ ลักษณะ ราคา และรายละเอียดของบัตรภาษี&lt;/strong&gt; พ.ศ. 2564 &lt;a href=&#34;http://www.customs.go.th/data_files/7cb973afc2e996bc98a9a11cb79c243e.pdf&#34; target=&#34;_blank&#34;&gt;[ดาวน์โหลด]&lt;/a&gt; ประกาศในราชกิจจานุเบกษา จึงมีผลทำให้กรมศุลกากรต้องจัดทำบัตรภาษีให้เป็นบัตรภาษีอิเล็กทรอนิกส์ และเปลี่ยนบัตรภาษีในรูปแบบกระดาษที่ยังไม่ได้ใช้ ให้เป็นบัตรภาษีอิเล็กทรอนิกส์ ตามที่กฎกระทรวงกำหนดไว้ และการเปลี่ยนแปลงรูปแบบการจ่ายเงินชดเชยค่าภาษีอากรสินค้าส่งออก ที่ผลิตในราชอาณาจักร จากเดิมที่จ่ายเป็นบัตรภาษีในรูปแบบกระดาษ เปลี่ยนเป็น&lt;strong&gt;บัตรภาษีอิเล็กทรอนิกส์&lt;/strong&gt; ตาม ประกาศกรมศุลกากรที่ 16/.2564 เรื่อง &lt;strong&gt;คู่มือการดำเนินธุรกรรมทางอิเล็กทรอนิกส์สำหรับการชดเชยค่าภาษีอากรด้วยบัตรภาษีอิเล็กทรอนิกส์&lt;/strong&gt; (Digital Tax Compensation) &lt;a href=&#34;https://ecs-support.github.io/KM/customs/post/news/2021-08-20/docs/DigitalTaxCompensation.pdf&#34; target=&#34;_blank&#34;&gt;[ดาวน์โหลด]&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;จึงทำให้เกิดการปรับปรุง เปลี่ยนแปลง เพิ่มเติม กระบวนการทางศุลกากรในหลาย ๆ ด้าน ทำให้มีคำถามจากผู้ใช้งานเป็นจำนวนมาก และมากขึ้นเรื่อย ๆ เมื่อใกล้ถึงวันที่จะเริ่มใช้งานระบบดังกล่าวในวันที่ 21 กันยายน 2564 นี้ ทางทีม Support จึงได้จัดทำคู่มือการบันทึกข้อมูลใบขนสินค้า เพื่อให้ผู้ใช้งานได้ทราบถึงการเปลี่ยนแปลงที่กระทบกับการบันทึกข้อมูล รวมทั้งกฎหมายที่เกี่ยวข้องกับเรื่องดังกล่าว เพื่อให้ได้ทราบถึงเหตุผลการเปลี่ยนแปลง ซึ่งมีรายละเอียดดังนี้&lt;/p&gt;
+
+&lt;blockquote class=&#34;book-hint danger&#34;&gt;
+  &lt;strong&gt;โปรแกรมใบขนสินค้าขาเข้า-ขาออก&lt;/strong&gt; จะอัพเดทให้โดยอัตโนมัติ&lt;em&gt;หลังเที่ยงคืนของวันที่ 20 กันยายน 2564&lt;/em&gt; เพื่อให้สอดคล้องกับการอัพเดทระบบกับศุลกากร เนื่องจากการส่งข้อมูล &lt;em&gt;เลขทะเบียนผู้รับเงินชดเชย&lt;/em&gt; ไม่สามารถ&lt;strong&gt;ส่งก่อนวันที่ 21 กันยายน 2564&lt;/strong&gt; ได้
+&lt;/blockquote&gt;
+
+
+&lt;h2 id=&#34;common-data-บร-ษ-ทผ-นำเข-า-ส-งออก&#34;&gt;Common Data (บริษัทผู้นำเข้า-ส่งออก)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/img-01.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;เพิ่มเติมในส่วนของ &lt;em&gt;เลขทะเบียนผู้รับเงินชดเชย&lt;/em&gt; โดยใช้ทำการบันทึกในระบบในครั้งแรก เพื่ออ้างอิงการใช้สิทธิ์ชดเชยค่าภาษีอากร รวมทั้งการชำระเงินค่าภาษีอากรด้วยบัตรภาษีอิเล็กทรอนิกส์ ของผู้นำเข้า-ส่งออก ในการจัดทำใบขนสินค้า โปรแกรมจะตววจสอบการบันทึกข้อมูลในช่องดังกล่าวต้องขึ้นต้นด้วยอักษร &lt;strong&gt;C&lt;/strong&gt; และมีความยาวทั้งหมด &lt;strong&gt;14 ตัวอักษร&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;ใบขนส-นค-าขาออก&#34;&gt;ใบขนสินค้าขาออก&lt;/h2&gt;
+
+&lt;blockquote class=&#34;book-hint warning&#34;&gt;
+  &lt;strong&gt;เฉพาะใบขนสินค้าขาออก&lt;/strong&gt; ที่ใช้สิทธิ์&lt;em&gt;ชดเชยค่าภาษีอากร&lt;/em&gt; เท่านั้น
+&lt;/blockquote&gt;
+
+
+&lt;p&gt;ตามประกาศกรมศุลกากรที่ 16/.2564 เรื่อง คู่มือการดำเนินธุรกรรมทางอิเล็กทรอนิกส์สำหรับการชดเชยค่าภาษีอากรด้วยบัตรภาษีอิเล็กทรอนิกส์ (Digital Tax Compensation) &lt;a href=&#34;https://ecs-support.github.io/KM/customs/post/news/2021-08-20/docs/DigitalTaxCompensation.pdf&#34; target=&#34;_blank&#34;&gt;[ดาวน์โหลด]&lt;/a&gt; กำหนดไว้ว่า &amp;laquo;ผู้ประสงค์จะขอรับเงินชดเชยต้องมีชื่อเป็นผู้ส่งของออกตามใบขนสินค้าขาออก ต้องจัดทำข้อมูลใบขนสินค้าขาออกให้ตรงกับความเป็นจริง และเพียงพอแก่การขอ ใช้สิทธิรับเงินชดเชย ดังนี้&amp;raquo;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Document Type ชนิดเอกสาร มีค่าเป็น &lt;em&gt;1 – ใบขนสินค้าขาออก&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;ผู้ประสงค์จะขอรับเงินชดเชยต้องเป็น&lt;em&gt;ผู้ส่งของออก&lt;/em&gt; ตามใบขนสินค้าขาออก&lt;/li&gt;
+&lt;li&gt;Compensation ใช้สิทธิ์ชดเชยอำกรหรือไม่ &lt;em&gt;มีค่าเท่ากับ Y (Y = Yes)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Import Tax Incentives ID&lt;/strong&gt; ให้ระบุ&lt;em&gt;เลขทะเบียนผู้รับเงินชดเชยค่ำภำษีอำกร 14 หลัก&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/img-02.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;เมื่อผุู้ใช้งานเลือกใช้สิทธิ์ชดเชย โปรแกรมจะทำการดึงข้อมูลเลขทะเบียนผู้รับเงินชดเชย จากบริษัทผู้ส่งออกมาแสดงที่ช่อง Import Tax Incentives ID ตามที่ศุลกากรกำหนดโดยอัตโนมัติ และทำการลบข้อมูลช่องดังกล่าว เมื่อผู้ใช้ยกเลิกการใช้สิทธิ์ชดเชย รวมทั้งเพิ่มการตรวจสอบข้อมูล ก่อนที่จะส่งข้อมูลใบขนสินค้าขาออกให้ศุลกากร โดยกำหนดว่า รายการใดที่เลือกใช้สิทธิ์ชดเชย ต้องบันทึกข้อมูลในช่อง Import Tax Incentives ID ดังนี้&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ต้องมีการบันทึกข้อมูลในช่องดังกล่าว (ห้ามเป็นค่าว่าง)&lt;/li&gt;
+&lt;li&gt;ข้อมูลต้องขึ้นต้นด้วยอักษร &lt;strong&gt;C&lt;/strong&gt; เท่านั้น&lt;/li&gt;
+&lt;li&gt;ข้อมูลต้องมีความยาวทั้งหมด 14 ตัวอักษร&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/swhpng_Page7.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;ใบขนส-นค-าขาเข-า&#34;&gt;ใบขนสินค้าขาเข้า&lt;/h2&gt;
+
+&lt;blockquote class=&#34;book-hint danger&#34;&gt;
+  เฉพาะใบขนสินค้าขาเข้า ที่ต้องการ&lt;strong&gt;ชำระค่าภาษีอากรด้วยวงเงินชดเชยค่าภาษีอากร บัตรภาษีอิเล็กทรอนิกส์&lt;/strong&gt; &lt;em&gt;พร้อมกับการยื่นใบขนสินค้า&lt;/em&gt; เท่านั้น
+&lt;/blockquote&gt;
+
+
+&lt;p&gt;&lt;img src=&#34;./img/img-03.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;เพิ่มเติมรูปแบบการชำระค่าภาษีอากรประเภท &lt;strong&gt;C - การชำระค่าภาษีอากรด้วยวงเงินชดเชยค่าภาษีอากร บัตรภาษีอิเล็กทรอนิกส์&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;เมื่อเลือกการชำระ = C โปรแกรมจะทำการดึงข้อมูลเลขทะเบียนผู้รับเงินชดเชย จากบริษัทผู้นำเข้ามาแสดงที่ช่อง เลขที่บัญชีเดบิต ตามที่ศุลกากรกำหนดให้โดยอัตโนมัติ&lt;/li&gt;
+&lt;li&gt;การชำระค่าภาษีอากรประเภท C มีรูปแบบคล้ายกับการชำระแบบ H (e-Payment) ที่กำหนดว่ายอดที่จะชำระต้องเท่ากับยอดภาษีรวม (Total Tax) หมายถึง การชำระด้วยวิธีเหล่านี้ไม่สามารถใช้ร่วมกับรูปแบบการชำระอื่น ๆ ได้ ทำให้ต้องมีวงเงินคงเหลือ เท่ากับหรือมากกว่าค่าภาษีที่ต้องชำระรวม&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/swhpng_Page11.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/swhpng_Page13.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/swhpng_Page14.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ข้อควรทราบ&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;การนำบัตรภาษีอิเล็กทรอนิกส์ไปชำระที่ศุลกากร สามารถชำระควบคู่กับเงินสด,แคชเชียร์เช็ค หรือ EDC ได้
+&lt;img src=&#34;./img/swhpng_Page9.png&#34; alt=&#34;&#34; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
