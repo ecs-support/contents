@@ -7,10 +7,19 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
-    <lastBuildDate>Mon, 04 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ecs-support.github.io/KM/customs/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>news</title>
+      <link>https://ecs-support.github.io/KM/customs/categories/news/</link>
+      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/categories/news/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>กรมสรรพสามิต</title>
@@ -63,15 +72,6 @@
       <pubDate>Thu, 23 Sep 2021 06:30:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/categories/%E0%B8%AA%E0%B8%97%E0%B8%98%E0%B8%9E%E0%B9%80%E0%B8%A8%E0%B8%A9%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>News</title>
-      <link>https://ecs-support.github.io/KM/customs/categories/news/</link>
-      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/KM/customs/categories/news/</guid>
       <description></description>
     </item>
     
@@ -274,6 +274,15 @@
     </item>
     
     <item>
+      <title>ประกาศ/กฎหมาย</title>
+      <link>https://ecs-support.github.io/KM/customs/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8/%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8/%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ประกาศกรมสรรพสามิต</title>
       <link>https://ecs-support.github.io/KM/customs/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%95/</link>
       <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
@@ -445,6 +454,15 @@
     </item>
     
     <item>
+      <title>ถ่ายลำ/ผ่านแดน</title>
+      <link>https://ecs-support.github.io/KM/customs/categories/%E0%B8%96%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B3/%E0%B8%9C%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/categories/%E0%B8%96%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B3/%E0%B8%9C%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>สินค้าไม้</title>
       <link>https://ecs-support.github.io/KM/customs/categories/%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2%E0%B9%84%E0%B8%A1/</link>
       <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
@@ -513,24 +531,6 @@
       <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/categories/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%9A%E0%B8%8D%E0%B8%8D%E0%B8%95%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ถ่ายลำ/ผ่านแดน</title>
-      <link>https://ecs-support.github.io/KM/customs/categories/%E0%B8%96%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B3/%E0%B8%9C%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/KM/customs/categories/%E0%B8%96%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B3/%E0%B8%9C%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%94%E0%B8%99/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ประกาศ/กฎหมาย</title>
-      <link>https://ecs-support.github.io/KM/customs/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8/%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/KM/customs/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8/%E0%B8%81%E0%B8%8E%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2/</guid>
       <description></description>
     </item>
     
