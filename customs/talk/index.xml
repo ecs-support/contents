@@ -7,10 +7,19 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
-    <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ecs-support.github.io/KM/customs/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>สิทธิประโยชน์ทางภาษี</title>
+      <link>https://ecs-support.github.io/KM/customs/talk/incentive/</link>
+      <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/talk/incentive/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Import.</title>
@@ -27,15 +36,6 @@
       <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/talk/clearance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>สิทธิประโยชน์ทางภาษี</title>
-      <link>https://ecs-support.github.io/KM/customs/talk/incentive/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/KM/customs/talk/incentive/</guid>
       <description></description>
     </item>
     
