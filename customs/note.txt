@@ -1,0 +1,101 @@
+ocument Theme : https://sourcethemes.com/academic/docs/install/#install-with-git
+Page Hugo Theme : https://themes.gohugo.io/academia-hugo/
+Demo : https://themes.gohugo.io//theme/Academia-hugo/
+
+ **“0.1”**
+**_“PICTURE”_**
+
+ ## การแบ่ง Categories กรมศุลฯ
+
+http://www.customs.go.th/content_special.php?link=sitemap.php&lang=th&left_menu=menu_sitemap
+
+
+
+## alert
+
+{{% alert note %}}
+A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+{{% /alert %}}
+
+{{% alert warning %}}
+Here's some important information...
+{{% /alert %}}
+
+## Color
+
+#3F69AA
+#2A4B7C
+
+
+
+
+## toc
+
+{{% toc %}}
+
+## Embled PDF
+{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}.
+
+## Tab
+
+{{< tabs "uniqueid" >}}
+{{< tab "การชดเชยค่าภาษีอากร" >}} 
+
+
+{{< /tab >}}
+{{< /tabs >}}
+
+{{<hint success>}}
+info: #003366,
+warning: #FF6600,
+danger: red,
+success: green,
+{{< /hint>}}
+
+## Button
+
+{{< button relref="/docs/import/trade-protection/SG" >}}Safeguard Measure: SG{{< /button >}}
+
+
+
+{{< tabs "uniqueid" >}}
+{{< tab "MacOS" >}} # MacOS Content {{< /tab >}}
+{{< tab "Linux" >}} # Linux Content {{< /tab >}}
+{{< tab "Windows" >}} # Windows Content {{< /tab >}}
+{{< /tabs >}}
+
+# pdf file
+<br>
+{{< gdocs_width src="../files/asean-china-product.pdf" >}}
+
+<br>
+
+## Template FAQ
+
+{{< collapsible "การปฏิบัติพิธีการในการนำของที่ผลิตในประเทศเข้าไปบรรจุในเขตปลอดอากร/เขตประกอบการเสรี"  >}}
+
+## การปฏิบัติพิธีการในการนำของที่ผลิตในประเทศเข้าไปบรรจุในเขตปลอดอากร/เขตประกอบการเสรีและขอใช้สิทธิชดเชยค่าภาษีอากรเมื่อส่งออก
+
+{{% alert note_success %}}
+**คำตอบ :**  
+
+- ที่มา : [กรมศุลกากร](http://ccc.customs.go.th/cont_strc_faq.php?current_id=14232a324149505f47&left_menu=interesting_article)  
+- วันที่ปรับปรุงล่าสุด : 4 ตุลาคม 2562  
+ {{% /alert %}}
+{{< /collapsible >}}
+
+
+
+## List Tags
+
+ {{< list_tags >}}
+
+ -----
+
+  ## List Categories
+
+ {{< list_categories >}}
+
+ ------
+
+ 
