@@ -894,31 +894,56 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/authors/admin/</loc>
-    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/authors/</loc>
-    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/categories/</loc>
-    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/</loc>
-    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/KM/customs/categories/iso-27001/</loc>
-    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/tags/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/post/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%81/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/post/law/customs/2564/171/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B9%84%E0%B8%A7%E0%B8%A3%E0%B8%AA%E0%B9%82%E0%B8%84%E0%B9%82%E0%B8%A3%E0%B8%99%E0%B8%B2-2019/</loc>
+    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/categories/iso-27001/</loc>
     <lastmod>2021-10-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -944,16 +969,6 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/post/law/customs/permission/2564/168/</loc>
-    <lastmod>2021-10-08T06:10:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/KM/customs/post/</loc>
-    <lastmod>2021-10-08T06:10:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/KM/customs/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</loc>
     <lastmod>2021-10-08T06:10:00+00:00</lastmod>
   </url>
   
@@ -1059,11 +1074,6 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/categories/%E0%B8%AA%E0%B8%97%E0%B8%98%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9/</loc>
-    <lastmod>2021-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B9%84%E0%B8%A7%E0%B8%A3%E0%B8%AA%E0%B9%82%E0%B8%84%E0%B9%82%E0%B8%A3%E0%B8%99%E0%B8%B2-2019/</loc>
     <lastmod>2021-09-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -1655,11 +1665,6 @@
   <url>
     <loc>https://ecs-support.github.io/KM/customs/post/announcement/customs/2564-106/</loc>
     <lastmod>2021-07-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/KM/customs/tags/%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%81/</loc>
-    <lastmod>2021-07-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
