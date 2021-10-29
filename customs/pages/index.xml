@@ -206,14 +206,22 @@
   &lt;ul class=&#34;list-unstyled&#34;&gt;
     
       &lt;li&gt;
-        &lt;h5&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/pages/company/broker/&#34;&gt;ตัวแทนออกของ&lt;/a&gt;&lt;/h5&gt;
-        &lt;p&gt;“ตัวแทนออกของ” หมายความถึง ผู้รับมอบอำนาจจากผู้นำของเข้า ผู้ส่งของออก หรือผู้นำของผ่านแดน หรือผู้ขอถ่ายลำ เพื่อปฏิบัติพิธีการศุลกากรทางอิเล็กทรอนิกส์ที่เป็นนิติบุคคลหรือบุคคลธรรมดา
-&lt;/p&gt;
+        &lt;h5&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/pages/company/im-ex/&#34;&gt;ผู้นำเข้า-ส่งออก&lt;/a&gt;&lt;/h5&gt;
+        &lt;p&gt;การลงทะเบียนเป็นผู้นำเข้า-ส่งออกกับกรมศุลกากร ผู้ประกอบการที่ประสงค์จะปฏิบัติพิธีการศุลกากรหรือดำเนินการในกระบวนการทางศุลกากรทางอิเล็กทรอนิกส์ จำเป็นต้องมาลงทะเบียนกับศุลกากร เพื่อเป็นฐานข้อมูลสำหรับการใช้งานระบบต่าง ๆ ของกรมศุลกากรได้ โดยสามารถดำเนินการได้ 3 ช่องทาง ดังนี้
+ ลงทะเบียนผ่านระบบลงทะเบียนผู้มาติดต่อออนไลน์ทางอินเทอร์เน็ต (Online Customs Registration) หรือ ลงทะเบียนผ่านระบบลงทะเบียนผู้มาติดต่อออนไลน์ทาง Customs Trader Portal (เปิดให้บริการระยะแรกสำหรับผู้ลงทะเบียนที่เป็นบุคคลธรรมดา สัญชาติไทย ที่ยังไม่เคยลงทะเบียนกับกรมศุลกากรเท่านั้น) ลงทะเบียน ณ หน่วยบริการรับลงทะเบียนของกรมศุลกากร  ทั้งนี้ ให้เป็นไปตามหลักเกณฑ์ที่กำหนดไว้ในประกาศกรมศุลกากรที่ 94/.2564 เรื่อง การลงทะเบียนผู้ปฏิบัติพิธีการศุลกากรหรือดำเนินการในกระบวนการทางศุลกากร
+การระงับการใช้ข้อมูลทะเบียน ระบบทะเบียนผู้มาติดต่อจะระงับการใช้ข้อมูลทะเบียน จากเหตุที่ไม่มีการปฏิบัติพิธีการศุลกากรหรือดําเนินการในกระบวนการทางศุลกากร (ตามประกาศกรมศุลกากรที่ 64/.2561) ดังนี้
+ กรณีบุคคลธรรมดา เมื่อไม่มีการปฏิบัติพิธีการศุลกากรหรือดําเนินการในกระบวนการทางศุลกากรติดต่อกันเป็นเวลา 6 เดือน กรณีนิติบุคคล เมื่อไม่มีการปฏิบัติพิธีการศุลกากรหรือดําเนินการในกระบวนการทางศุลกากรติดต่อกันเป็นเวลา 2 ปี  เมื่อผู้ลงทะเบียนถูกระงับการใช้ข้อมูลทะเบียนตามวรรคหนึ่ง จะไม่สามารถปฏิบัติพิธีการศุลกากรหรือดําเนินการในกระบวนการทางศุลกากรได้ จนกว่าจะแจ้งขอใช้ข้อมูลทะเบียนใหม่&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
         &lt;h5&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/pages/company/register_expire/&#34;&gt;ตัวแทนออกที่จะหมดอายุในปี พ.ศ. 2564&lt;/a&gt;&lt;/h5&gt;
         &lt;p&gt;กรมศุลกากรเผยแพร่ข้อมูล รายชื่อตัวแทนออกของและผู้ปฏิบัติงานเกี่ยวกับการออกของ ที่จะหมดอายุในปี พ.ศ. 2564 เพื่อใช้ในการตรวจสอบและเตรียมความพร้อมในการต่ออายุ เพื่อความต่อเนื่องในการปฏิบัติงาน
+&lt;/p&gt;
+      &lt;/li&gt;
+    
+      &lt;li&gt;
+        &lt;h5&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/pages/company/broker/&#34;&gt;ตัวแทนออกของ&lt;/a&gt;&lt;/h5&gt;
+        &lt;p&gt;“ตัวแทนออกของ” หมายความถึง ผู้รับมอบอำนาจจากผู้นำของเข้า ผู้ส่งของออก หรือผู้นำของผ่านแดน หรือผู้ขอถ่ายลำ เพื่อปฏิบัติพิธีการศุลกากรทางอิเล็กทรอนิกส์ที่เป็นนิติบุคคลหรือบุคคลธรรมดา
 &lt;/p&gt;
       &lt;/li&gt;
     
@@ -1238,6 +1246,8 @@ taxinclinic@gmail.com
   
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%A0%E0%B8%97-3-%E0%B8%A0%E0%B8%B2%E0%B8%84-4/&#34;&gt;ประเภท 3 ภาค 4&lt;/a&gt;&lt;/li&gt;
   
+  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%9C%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%82%E0%B8%B2-%E0%B8%AA%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%81/&#34;&gt;ผู้นำเข้า-ส่งออก&lt;/a&gt;&lt;/li&gt;
+  
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%9C%E0%B8%9B%E0%B8%8F%E0%B8%9A%E0%B8%95%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%81%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%82%E0%B8%AD%E0%B8%87/&#34;&gt;ผู้ปฏิบัติงานเกี่ยวกับการออกของ&lt;/a&gt;&lt;/li&gt;
   
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/tags/%E0%B8%9C%E0%B8%9B%E0%B8%8F%E0%B8%9A%E0%B8%95%E0%B8%9E%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/&#34;&gt;ผู้ปฏิบัติพิธีการศุลกากร&lt;/a&gt;&lt;/li&gt;
@@ -1482,11 +1492,11 @@ taxinclinic@gmail.com
   
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/import/&#34;&gt;Import&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/iso-27001/&#34;&gt;ISO 27001&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/iso-27001/&#34;&gt;ISO-27001&lt;/a&gt;&lt;/li&gt;
   
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/knowledge/&#34;&gt;Knowledge&lt;/a&gt;&lt;/li&gt;
   
-  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/news/&#34;&gt;News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/news/&#34;&gt;news&lt;/a&gt;&lt;/li&gt;
   
   &lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/categories/oga/&#34;&gt;OGA&lt;/a&gt;&lt;/li&gt;
   
