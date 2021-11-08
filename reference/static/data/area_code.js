@@ -1019,6 +1019,8 @@ var dataSet = [
 ];
 
 $(document).ready(function () {
+
+
   $("#table-ref").DataTable({
     data: dataSet,
     columns: [
@@ -1031,7 +1033,6 @@ $(document).ready(function () {
     ],
     responsive: true,
     scroller: true,
-
   });
 
   dataTable.FixedHeader(table);
