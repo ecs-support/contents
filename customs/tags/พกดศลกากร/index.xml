@@ -13,71 +13,13 @@
     
     
     <item>
-      <title>พิกัดศุลกากร</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tariff/</link>
-      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/KM/customs/pages/tariff/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;img/harmonized.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;nav id=&#34;TableOfContents&#34;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#พกดศลกากร-hs-code-คออะไร&#34;&gt;พิกัดศุลกากร HS Code คืออะไร&lt;/a&gt;
-      &lt;ul&gt;
-        &lt;li&gt;&lt;a href=&#34;#เลข-4-ตวแรก&#34;&gt;เลข 4 ตัวแรก&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#เลข-4-ตวตอมา&#34;&gt;เลข 4 ตัวต่อมา&lt;/a&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#เลข-3-ตวสดทาย&#34;&gt;เลข 3 ตัวสุดท้าย&lt;/a&gt;&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#การหาพกดศลกากร-และรหสพกดสนคา&#34;&gt;การหาพิกัดศุลกากร และรหัสพิกัดสินค้า&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/nav&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;h2 id=&#34;พกดศลกากร-hs-code-คออะไร&#34;&gt;พิกัดศุลกากร HS Code คืออะไร&lt;/h2&gt;
-&lt;p&gt;เนื่องจากในแต่ละประเทศ แต่ละเมือง ย่อมมีประเภทของสินค้า และวัตถุดิบที่แตกต่างกันออกไป รวมถึงในแต่ละที่อาจเรียกชื่อแตกต่างกันด้วย จึงได้มีการคิดข้อกำหนดของประเภทและชนิดสินค้าให้มีความเข้าใจตรงกันทั่วโลก และมีความเป็นสากล จึงมีการรวมกลุ่มกันขึ้นมาเพื่อกำหนดเกณฑ์ที่ชื่อว่า “HS Code” ขึ้นมา&lt;/p&gt;
-&lt;p&gt;พิกัดศุลกากร หรือ HS Code (Harmonized System) มีการยอมรับและประกาศใช้โดยองค์การศุลกากรโลก (World Customs Organization: WCO) เป็นความร่วมมือของสมาชิกกว่า 176 ประเทศ รวมประเทศไทยของเราด้วย ที่เข้าร่วมมาตั้งแต่วันที่ 4 กุมภาพันธ์ พ.ศ. 2515 ซึ่งถือเป็นระบบสากลทางการค้าระหว่างประเทศ สำหรับประเทศไทย มีการนำระบบพิกัดศุลกากรมาใช้เมื่อวันที่ 1 มกราคม พ.ศ. 2531 แทนที่รหัสพิกัดศุลกากรของ Customs Co-operation Council ที่เราใช้กันมาตั้งแต่ปี พ.ศ. 2503&lt;/p&gt;
-&lt;p&gt;ระบบพิกัดศุลกากรฮาร์โมไนซ์จำแนกประเภทสิ่งของเป็น 21 หมวด และ 97 ตอน เป็นการกำหนดตัวเลขทั้งหมด 11 หลัก โดย 6 หลัก แรกจะเป็นเลขที่กำหนดขึ้นโดยองค์การศุลกากรโลก (World Customs Organization : WCO) ระบบการจำแนกชนิดสินค้าได้รับการยอมรับจากประเทศภาคีสมาชิกของ องค์การการค้าโลก (World Trade Organization: WTO) เพื่อนำไปใช้เป็นสากลในทางการค้า และ 2 หลักถัดมาจะเป็นการแสดงพิกัดฮาร์โมไนซ์อาเซียน (CEPT Code) ส่วนเลข 3 หลักหลังนั้นจะเป็นรหัสสถิติที่กำหนดโดยแต่ละประเทศนั่นเอง ซึ่งสามารถแบ่งตัวเลขออกเป็นหมวดต่าง ๆ ได้ดังนี้&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;img/HTS-1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;เลข-4-ตวแรก&#34;&gt;เลข 4 ตัวแรก&lt;/h3&gt;
-&lt;p&gt;มาจากเลขชุด 6 ตัวของพิกัดศุลกากร จะเป็นประเภท (Heading No.) แยกเป็น&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;2 ตัวแรกเป็นเลขลำดับของ “ตอน”&lt;/li&gt;
-&lt;li&gt;2 ตัวหลังเป็นเลขลำดับของ “ประเภท” ที่อยู่ในตอนนั้น&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;ตัวอย่างเช่น ตอนที่ 29 กำหนดให้เป็นเคมีภัณฑ์อินทรีย์ และประเภทที่ 29.07 คือ ฟีนอลและฟีนอลแอลกอฮอลล์&lt;/p&gt;
-&lt;h3 id=&#34;เลข-4-ตวตอมา&#34;&gt;เลข 4 ตัวต่อมา&lt;/h3&gt;
-&lt;p&gt;เป็นลำดับของ “ประเภทย่อย” (Subheading No.) ประกอบไปด้วย&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;เลข 2 ตัวแรก เป็นเลข 2 ตัวที่เหลือจากเลขชุด 6 ตัวของพิกัดศุลกากร&lt;/li&gt;
-&lt;li&gt;เลข 2 ตัวหลัง เป็นประเภทย่อยระบบพิกัด&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;เลข 2 ตัวหลังนี้ เช่น ประเทศไทยใช้ระบบพิกัดศุลกากรอาเซียน (CEPT Code / the AHTN Protocol) ก็จะเป็นเลขขอพิกัดนี้ เมื่อรวมกับข้อ 1 จะเป็น 8 ตัว (ส่วนใหญ่เป็นเลข 8 ตัว) ตัวอย่างเช่น 2907.10.00 คือ ฟีนอล (ไฮดรอกซิเบนซิน)&lt;/p&gt;
-&lt;h3 id=&#34;เลข-3-ตวสดทาย&#34;&gt;เลข 3 ตัวสุดท้าย&lt;/h3&gt;
-&lt;p&gt;คือ เลขรหัสสถิติ (Statistics code) ซึ่งเป็นรหัสสินค้า (Code for goods) และรหัสหน่วยสินค้า (Unit of goods) โดยตัวเลข 3 หลักสุดท้าย จะเป็นรหัสสถิติที่กำหนดโดยแต่ละประเทศ ทำให้รวมแล้วมี 11 ตัว (มาจากข้อ 1 และข้อ 2 แล้วต่อท้ายอีก 3 ตัวนั่นเอง) และที่ต่อท้ายมากับเลขชุด 11 หลักของพิกัดรหัสสถิติ คือ รหัสหน่วยสินค้า (Unit of goods) เช่น KGM (กิโลกรัม), C62 (ชิ้น/หน่วย), LTR (ลิตร) หรือ MTR (เมตร) เป็นต้น&lt;/p&gt;
-&lt;h2 id=&#34;การหาพกดศลกากร-และรหสพกดสนคา&#34;&gt;การหาพิกัดศุลกากร และรหัสพิกัดสินค้า&lt;/h2&gt;
-&lt;p&gt;เราสามารถค้นหาพิกัดศุลกากร ได้ที่เว็บไซต์กรมศุลกากร  &lt;a href=&#34;http://itd.customs.go.th/igtf/th/main_frame.jsp&#34;&gt;ค้นหาพิกัด&lt;/a&gt; หรือที่  &lt;a href=&#34;http://tariffeservice.customs.go.th/ITRF/&#34;&gt;Tariff e-service&lt;/a&gt; หรือค้นหาผ่านทาง Mobile Application ได้แล้วนะครับ ภายใต้ชื่อ &lt;strong&gt;“HS Check”&lt;/strong&gt; ทั้งบน &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.igtfTCD&amp;amp;hl=th&#34;&gt;Google Play&lt;/a&gt; และ &lt;a href=&#34;https://itunes.apple.com/th/app/hs-check/id1190764347?l=th&amp;amp;mt=8&#34;&gt;App Store&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;การดำเนินงานด้านมาตรฐานพิกัดอัตราศุลกากร ของกรมศุลกากร อยู่ภายใต้การกำกับของรองอธิบดีที่รับผิดชอบและสำนักพิกัดอัตราศุลกากร 
-กำหนดไว้เป็นสองระดับคือด้านนโยบายพิกัดฯ และด้านบริการมาตรฐานพิกัดฯ โดยมีกิจกรรมและแนวทางการดำเนินงานตามแผนภาพต่อไปนี้&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;img/img-01.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;สอบถามข้อมูลเพิ่มเติมได้ที่ : กองพิกัดอัตราศุลกากร (กพก.)&lt;br&gt;
-หมายเลขโทรศัพท์ : 0-2667-7372&lt;br&gt;
-อีเมล์ : &lt;a href=&#34;mailto:80000100@customs.go.th&#34;&gt;80000100@customs.go.th&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Reference:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://vayoit.com/blog/hs-code/&#34;&gt;https://vayoit.com/blog/hs-code/&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>การจำแนกพิกัดศุลกากร</title>
       <link>https://ecs-support.github.io/KM/customs/pages/tariff/tariff_classification/</link>
       <pubDate>Tue, 02 Mar 2021 08:10:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/pages/tariff/tariff_classification/</guid>
       <description>&lt;p&gt;ระบบพิกัด HS Code จัดแบ่งกลุ่มสินค้าตามขั้นตอนการผลิตออกเป็น 21 หมวด 97 ตอน (5,386 ประเภท)&lt;/p&gt;
+
 &lt;div class=&#34;book-collapsible&#34;&gt;
 &lt;button class=&#34;collapsible&#34;&gt;หมวด 1 สัตว์มีชีวิต ผลิตภัณฑ์จากสัตว์ (ตอนที่ 1 - 5)&lt;/button&gt;
 &lt;div class=&#34;content&#34;&gt;
@@ -87,10 +29,10 @@
 &lt;li&gt;03  ปลา สัตว์น้ำจำพวกครัสตาเซีย โมลลุสก์ และสัตว์น้ำที่ไม่มีกระดูกสันหลังอื่น ๆ&lt;/li&gt;
 &lt;li&gt;04  ผลิตภัณฑ์นม ไข่สัตว์ปีก น้ำผึ้งธรรมชาติ ผลิตภัณฑ์จากสัตว์ที่บริโภคได้ ซึ่งไม่ได้ระบุหรือรวมไว้ในที่อื่น&lt;/li&gt;
 &lt;li&gt;05  ผลิตภัณฑ์จากสัตว์ที่ไม่ได้ระบุหรือรวมไว้ในที่อื่น&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
+&lt;/ul&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
+
 
 &lt;div class=&#34;book-collapsible&#34;&gt;
 &lt;button class=&#34;collapsible&#34;&gt;หมวด 2 ผลิตภัณฑ์จากพืช (ตอนที่ 6 -14)&lt;/button&gt;
@@ -105,20 +47,20 @@
 &lt;li&gt;12  เมล็ดพืชและผลไม้ ที่มีน้ำมัน เมล็ดธัญพืช เมล็ดพืชและผลไม้เบ็ดเตล็ด พืชที่ใช้ในอุตสาหกรรม หรือใช้เป็นยาฟาง และหญ้าแห้งที่ใช้เป็นอาหารสัตว์&lt;/li&gt;
 &lt;li&gt;13  ครั่ง รวมทั้งกัม เรซิน น้ำเลี้ยง (แซป) และสิ่งสกัดอื่น ๆ จากพืช&lt;/li&gt;
 &lt;li&gt;14  วัตถุจากพืชที่ใช้ถักสาน ผลิตผลจากพืชที่ไม่ได้ระบุหรือรวมไว้ในที่อื่น&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
+&lt;/ul&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
+
 
 &lt;div class=&#34;book-collapsible&#34;&gt;
 &lt;button class=&#34;collapsible&#34;&gt;หมวด 3 ไขมันและน้ำมันที่ได้จากสัตว์หรือพืช และผลิตภัณฑ์ที่แยกได้จากไขมันและน้ำมันดังกล่าวฯ (ตอนที่ 15)&lt;/button&gt;
 &lt;div class=&#34;content&#34;&gt;
   &lt;p&gt;&lt;ul&gt;
 &lt;li&gt;15   ไขมันและน้ำมันที่ได้จากสัตว์หรือพืช และผลิตภัณฑ์ที่แยกได้จากไขมันและน้ำมันดังกล่าว ไขมันที่บริโภคได้ซึ่งจัดทำแล้ว ไขที่ได้จากสัตว์หรือพืช&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
+&lt;/ul&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
+
 
 &lt;div class=&#34;book-collapsible&#34;&gt;
 &lt;button class=&#34;collapsible&#34;&gt;หมวด 4 อาหารปรุงแต่ง เครื่องดื่ม สุรา และน้ำส้มสายชู ยาสูบ และผลิตภัณฑ์ที่ใช้แทนยาสูบฯ (ตอนที่ 16 - 24)&lt;/button&gt;
@@ -133,10 +75,10 @@
 &lt;li&gt;22  เครื่องดื่มสุรา น้ำส้มสายชู&lt;/li&gt;
 &lt;li&gt;23  กากและเศษที่เหลือจากอุตสาหกรรมผลิตอาหาร อาหารที่จัดทำไว้สำหรับการเลี้ยงสัตว์&lt;/li&gt;
 &lt;li&gt;24  ยาสูบและผลิตภัณฑ์ที่ใช้แทนยาสูบ&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
+&lt;/ul&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
+
 
 &lt;div class=&#34;book-collapsible&#34;&gt;
 &lt;button class=&#34;collapsible&#34;&gt;หมวด 6 ผลิตภัณฑ์ทางเคมี(ตอนที่ 28 - 38)&lt;/button&gt;
@@ -148,15 +90,15 @@
 &lt;li&gt;31  ปุ๋ย&lt;/li&gt;
 &lt;li&gt;32  สิ่งสกัดที่ใช้ฟอกหนังหรือย้อมสี แทนนินและอนุพันธ์ของแทนนิน สีย้อม สารสี (พิกเมนต์)และวัตถุแต่งสี อื่นๆ สีทาและวานิชพัตตี้และมาสติกอื่นๆรวมทั้งหมึก&lt;/li&gt;
 &lt;li&gt;33  เอสเซนเชียลออยล์และเรซินนอยด์ เครื่องหอม เครื่องสำอางหรือสิ่งปรุงแต่งสำหรับประทินร่างกายหรือประเทืองโฉมเครื่องประเทืองโฉม (ทอยเล็ดเพรพาเรชัน)&lt;/li&gt;
-&lt;li&gt;34  สบู่ สารอินทรีย์ที่เป็นตัวลดแรงตึงผิว สิ่งปรุงแต่งที่ใช้ซักล้าง สิ่งปรุงแต่งที่ใช้หล่อลื่น ไขเทียม ไขปรุงแต่ง สิ่งปรุงแต่งที่ใช้ขัดเงาหรือขัดถู เทียนไข และของที่คล้ายกัน เพสต์สำหรับทำแบบ &amp;ldquo;ไขที่ใช้ทางทันตกรรม&amp;rdquo; สิ่งปรุงแต่งทางทันตกรรมซึ่งมีปลาสเตอร์เป็นหลัก&lt;/li&gt;
+&lt;li&gt;34  สบู่ สารอินทรีย์ที่เป็นตัวลดแรงตึงผิว สิ่งปรุงแต่งที่ใช้ซักล้าง สิ่งปรุงแต่งที่ใช้หล่อลื่น ไขเทียม ไขปรุงแต่ง สิ่งปรุงแต่งที่ใช้ขัดเงาหรือขัดถู เทียนไข และของที่คล้ายกัน เพสต์สำหรับทำแบบ &amp;laquo;ไขที่ใช้ทางทันตกรรม&amp;raquo; สิ่งปรุงแต่งทางทันตกรรมซึ่งมีปลาสเตอร์เป็นหลัก&lt;/li&gt;
 &lt;li&gt;35  สารแอลบูมินอยด์ โมดิไฟด์ สตาร์ช กาว เอนไซม์&lt;/li&gt;
 &lt;li&gt;36  วัตถุระเบิด ผลิตภัณฑ์จำพวกดอกไม้เพลิง ไม้ขีดไฟ แอลลอยด์ที่ทำให้เกิดประกายไฟ สิ่งปรุงแต่งที่สันดาปได้บางชนิด&lt;/li&gt;
 &lt;li&gt;37  ของที่ใช้ในการถ่ายรูปหรือถ่ายภาพยนตร์&lt;/li&gt;
 &lt;li&gt;38  เคมีภัณฑ์เบ็ดเตล็ด&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
+&lt;/ul&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
+
 
 &lt;div class=&#34;book-collapsible&#34;&gt;
 &lt;button class=&#34;collapsible&#34;&gt;หมวด 7 ผลิตภัณฑ์ของพลาสติกและยาง (ตอนที่ 39 - 40)&lt;/button&gt;
@@ -164,10 +106,10 @@
   &lt;p&gt;&lt;ul&gt;
 &lt;li&gt;39  พลาสติกและของที่ทำด้วยพลาสติก&lt;/li&gt;
 &lt;li&gt;40  ยาง และของทำด้วยยาง&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
+&lt;/ul&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
+
 
 &lt;div class=&#34;book-collapsible&#34;&gt;
 &lt;button class=&#34;collapsible&#34;&gt;หมวด 8 ผลิตภัณฑ์จากหนังและหนังเฟอร์ (ตอนที่ 41 - 43)&lt;/button&gt;
@@ -176,10 +118,10 @@
 &lt;li&gt;41  หนังดิบ(นอกจากเฟอร์) และหนังฟอก&lt;/li&gt;
 &lt;li&gt;42  เครื่องหนัง เครื่องอานและเครื่องเทียมลาก เครื่องใช้สำหรับเดินทาง กระเป๋าถือและภาชนะที่คล้ายกัน ของที่ทำด้วยไส้สัตว์(นอกจากไส้ตัวไหม)&lt;/li&gt;
 &lt;li&gt;43  หนังเฟอร์ เฟอร์เทียม และผลิตภัณฑ์ของดังกล่าว&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
+&lt;/ul&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
+
 
 &lt;div class=&#34;book-collapsible&#34;&gt;
 &lt;button class=&#34;collapsible&#34;&gt;หมวด 9 ไม้และของทำด้วยไม้ (ตอนที่ 44 - 46)&lt;/button&gt;
@@ -188,10 +130,10 @@
 &lt;li&gt;44  ไม้และของทำด้วยไม้ ถ่านไม้&lt;/li&gt;
 &lt;li&gt;45  ไม้ก๊อก และของทำด้วยไม้ก๊อก&lt;/li&gt;
 &lt;li&gt;46  ผลิตภัณฑ์ทำด้วยฟาง ทำด้วยเอสพาร์โตหรือวัตถุถักสานอื่นๆ เครื่องจักสานและเครื่องสาน&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
+&lt;/ul&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
+
 
 &lt;div class=&#34;book-collapsible&#34;&gt;
 &lt;button class=&#34;collapsible&#34;&gt;หมวด 10 เยื่อไม้และกระดาษ (ตอนที่ 47 - 49)&lt;/button&gt;
@@ -200,10 +142,10 @@
 &lt;li&gt;47  เยื่อไม้หรือเยื่อไม้ที่ได้จากวัตถุจำพวกเส้นใยเซลลูโลสอื่นๆ เศษและของที่ใช้ไม่ได้ที่เป็นกระดาษหรือกระดาษแข็ง&lt;/li&gt;
 &lt;li&gt;48  กระดาษและกระดาษแข็ง ของทำด้วยเยื่อกระดาษหรือทำด้วยกระดาษหรือกระดาษแข็ง&lt;/li&gt;
 &lt;li&gt;49  หนังสือที่พิมพ์เป็นเล่ม หนังสือพิมพ์ รูปภาพ และผลิตภัณฑ์อื่นๆ ของอุตสาหกรรมการพิมพ์ ต้นฉบับเขียนหรือดีดพิมพ์ และแปลน&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
+&lt;/ul&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
+
 
 &lt;div class=&#34;book-collapsible&#34;&gt;
 &lt;button class=&#34;collapsible&#34;&gt;หมวด 11 สิ่งทอและของทำด้วยสิ่งทอ (ตอนที่ 50 - 63)&lt;/button&gt;
@@ -223,10 +165,10 @@
 &lt;li&gt;61  เครื่องแต่งกายและของที่ใช้ประกอบกับเครื่องแต่งกาย ถักแบบนิตหรือแบบโครเชต์&lt;/li&gt;
 &lt;li&gt;62  เครื่องแต่งกายและของที่ใช้ประกอบกับเครื่องแต่งกาย ที่ไม่ได้ถักแบบนิตหรือแบบโครเชต์&lt;/li&gt;
 &lt;li&gt;63  ของทำด้วยสิ่งทอที่จัดทำแล้วอื่นๆ ของเป็นชุด เสื้อผ้าที่ใช้แล้วและของที่ใช้แล้วทำด้วยสิ่งทอ ผ้าขี้ริ้ว&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
+&lt;/ul&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
+
 
 &lt;div class=&#34;book-collapsible&#34;&gt;
 &lt;button class=&#34;collapsible&#34;&gt;หมวด 12 ของสำเร็จรูป (ตอนที่ 64 - 67)&lt;/button&gt;
@@ -236,10 +178,10 @@
 &lt;li&gt;65  เครื่องสวมศรีษะและส่วนประกอบของเครื่องสวมศรีษะ&lt;/li&gt;
 &lt;li&gt;66  ร่ม ร่มปักกันแดด ไม้เท้า ไม้เท้าที่เป็นที่นั่ง แส้(วิป) แส้ขี่ม้าและส่วนประกอบของของดังกล่าว&lt;/li&gt;
 &lt;li&gt;67  ขนแข็งและขนอ่อนของสัตว์ปีกที่จัดเตรียมแล้ว และของทำด้วยของดังกล่าว ดอกไม้เทียม ของทำด้วยผมคน&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
+&lt;/ul&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
+
 
 &lt;div class=&#34;book-collapsible&#34;&gt;
 &lt;button class=&#34;collapsible&#34;&gt;หมวด 13 หิน ผลิตภัณฑ์เซรามิก เครื่องแก้ว (ตอนที่ 68 - 70)&lt;/button&gt;
@@ -248,20 +190,20 @@
 &lt;li&gt;68  ของทำด้วยหิน ปลาสเตอร์ ซีเมนต์ แอสแบสทอส ไมกา หรือวัตถุที่คล้ายกัน&lt;/li&gt;
 &lt;li&gt;69  ผลิตภัณฑ์เซรามิก&lt;/li&gt;
 &lt;li&gt;70  แก้วและเครื่องแก้ว&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
+&lt;/ul&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
+
 
 &lt;div class=&#34;book-collapsible&#34;&gt;
 &lt;button class=&#34;collapsible&#34;&gt;หมวด 14 ไข่มุก รัตนชาติ(ตอนที่ 71)&lt;/button&gt;
 &lt;div class=&#34;content&#34;&gt;
   &lt;p&gt;&lt;ul&gt;
 &lt;li&gt;71  ไข่มุกธรรมชาติ หรือไข่มุกเลี้ยง รัตนชาติหรือกึ่งรัตนชาติ โลหะมีค่า โลหะที่หุ้มติดด้วยโลหะมีค่า และของที่ทำด้วยของดังกล่าว เครื่องเพชรพลอย และรูปพรรณที่เป็นของเทียม เหรียญกษาปณ์&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
+&lt;/ul&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
+
 
 &lt;div class=&#34;book-collapsible&#34;&gt;
 &lt;button class=&#34;collapsible&#34;&gt;หมวด 15 โลหะสามัญและของทำด้วยโลหะสามัญ (ตอนที่ 72 - 83)&lt;/button&gt;
@@ -278,10 +220,10 @@
 &lt;li&gt;81  โลหะสามัญชนิดอื่น เซอร์เมต และของทำด้วยของดังกล่าว&lt;/li&gt;
 &lt;li&gt;82  เครื่องมือ เครื่องใช้ ของใช้ชนิดมีคม ช้อนและส้อม ทำด้วยโลหะสามัญ ส่วนประกอบของของดังกล่าวทำด้วยโลหะสามัญ&lt;/li&gt;
 &lt;li&gt;83  ของเบ็ดเตล็ดทำด้วยโลหะสามัญ&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
+&lt;/ul&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
+
 
 &lt;div class=&#34;book-collapsible&#34;&gt;
 &lt;button class=&#34;collapsible&#34;&gt;หมวด 16 เครื่องจักร เครื่องกล อุปกรรณ์ไฟฟ้า (ตอนที่ 84 - 85)&lt;/button&gt;
@@ -289,10 +231,10 @@
   &lt;p&gt;&lt;ul&gt;
 &lt;li&gt;84  เครื่องปฏิกรณ์นิวเคลียร์ บอยเลอร์ เครื่องจักร เครื่องใช้กล และส่วนประกอบของเครื่องดังกล่าว&lt;/li&gt;
 &lt;li&gt;85  เครื่องจักรไฟฟ้า เครื่องอุปกรณ์ไฟฟ้า และส่วนประกอบของเครื่องดังกล่าว เครื่องบันทึกเสียงและเครื่องถอดเสียง เครื่องบันทึกและเครื่องถอดภาพ และเสียงทางโทรทัศน์ รวมทั้งส่วนประกอบและอุปกรณ์ของเครื่องดังกล่าว&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
+&lt;/ul&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
+
 
 &lt;div class=&#34;book-collapsible&#34;&gt;
 &lt;button class=&#34;collapsible&#34;&gt;หมวด 17 ยานบก ยานน้ำ อากาศยาน (ตอนที่ 86 - 89)&lt;/button&gt;
@@ -302,10 +244,10 @@
 &lt;li&gt;87  ยานบกนอกจากรถที่เดินบนรางรถไฟหรือรางรถราง ส่วนประกอบและอุปกรณ์ประกอบของยานดังกล่าว&lt;/li&gt;
 &lt;li&gt;88  อากาศยาน ยานอวกาศ และส่วนประกอบของยานดังกล่าว&lt;/li&gt;
 &lt;li&gt;89  เรือและสิ่งก่อสร้างลอยน้ำ&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
+&lt;/ul&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
+
 
 &lt;div class=&#34;book-collapsible&#34;&gt;
 &lt;button class=&#34;collapsible&#34;&gt;หมวด 18 อุปกรณ์ทางทัศนศาสตร์ การแพทย์ เครื่องดนตรี นาฬิกา (ตอนที่ 90 - 92)&lt;/button&gt;
@@ -314,20 +256,20 @@
 &lt;li&gt;90  อุปกรณ์และเครื่องอุปกรณ์ที่ใช้ในทางทัศนศาสตร์ การถ่ายรูป การถ่ายทำภาพยนตร์ การวัด การตรวจสอบ การวัดความเที่ยง การแพทย์หรือการศัลยกรรม รวมทั้งส่วนประกอบ และอุปกรณ์ประกอบของของดังกล่าว&lt;/li&gt;
 &lt;li&gt;91  นาฬิกาชนิดคล็อกและชนิดวอตซ์ และส่วนประกอบของนาฬิกาดังกล่าว&lt;/li&gt;
 &lt;li&gt;92  เครื่องดนตรี รวมทั้งส่วนประกอบและอุปกรณ์ประกอบของเครื่องดนตรี&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
+&lt;/ul&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
+
 
 &lt;div class=&#34;book-collapsible&#34;&gt;
 &lt;button class=&#34;collapsible&#34;&gt;หมวด 19 อาวุธและกระสุน (ตอนที่ 93)&lt;/button&gt;
 &lt;div class=&#34;content&#34;&gt;
   &lt;p&gt;&lt;ul&gt;
 &lt;li&gt;93  อาวุธและกระสุน รวมทั้งส่วนประกอบและอุปกรณ์ประกอบของของดังกล่าว&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
+&lt;/ul&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
+
 
 &lt;div class=&#34;book-collapsible&#34;&gt;
 &lt;button class=&#34;collapsible&#34;&gt;หมวด 20 ผลิตภัณฑ์เบ็ดเตล็ด (ตอนที่ 94 - 96)&lt;/button&gt;
@@ -336,34 +278,41 @@
 &lt;li&gt;94  เฟอร์นิเจอร์ เครื่องเตียง ฟูก ฐานรองฟูก เบาะ และสิ่งตกแต่งยัดไส้ที่คล้ายกัน เครื่องประทีปโคมไฟ ที่ไม่ได้ระบุหรือรวมไว้ในที่อื่น เครื่องหมายที่มีแสงสว่าง แผ่นป้ายชื่อที่มีแสงสว่างและของที่คล้ายกัน รวมทั้งอาคารสำเร็จรูป&lt;/li&gt;
 &lt;li&gt;95  ของเล่น ของเล่นเกม และของใช้ที่จำเป็นในการเล่นกีฬา ส่วนประกอบและอุปกรณ์ประกอบของของดังกล่าว&lt;/li&gt;
 &lt;li&gt;96  ผลิตภัณฑ์เบ็ดเตล็ด&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
+&lt;/ul&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
+
 
 &lt;div class=&#34;book-collapsible&#34;&gt;
 &lt;button class=&#34;collapsible&#34;&gt;หมวด 21 ศิลปกรรม โบราณวัตถุ (ตอนที่ 97)&lt;/button&gt;
 &lt;div class=&#34;content&#34;&gt;
   &lt;p&gt;&lt;ul&gt;
 &lt;li&gt;97  ศิลปกรรม ของที่นักสะสมรวบรวม และโบราณวัตถุ&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
+&lt;/ul&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;hr&gt;
-&lt;!-- raw HTML omitted --&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;strong&gt;หรือแบ่งออกเป็น&lt;/strong&gt;&lt;/p&gt;
+
 &lt;ul&gt;
-&lt;li&gt;วัตถุดิบ	508	รายการ&lt;/li&gt;
-&lt;li&gt;กึ่งสำเร็จรูป	2,124	รายการ&lt;/li&gt;
-&lt;li&gt;ผลิตภัณฑ์สำเร็จรูป	2,754	รายการ&lt;/li&gt;
+&lt;li&gt;วัตถุดิบ  508 รายการ&lt;/li&gt;
+&lt;li&gt;กึ่งสำเร็จรูป 2,124   รายการ&lt;/li&gt;
+&lt;li&gt;ผลิตภัณฑ์สำเร็จรูป    2,754   รายการ&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
 &lt;p&gt;&lt;strong&gt;โดยมีการคิดอากร&lt;/strong&gt; ตามกลุ่มต่าง ๆ โดยประมาณดังนี้&lt;/p&gt;
+
 &lt;ul&gt;
-&lt;li&gt;วัตถุดิบ	0 – 1	%&lt;/li&gt;
-&lt;li&gt;กึ่งสำเร็จรูป	3 – 5	%&lt;/li&gt;
-&lt;li&gt;ผลิตภัณฑ์สำเร็จรูป	10 – 40	%&lt;/li&gt;
+&lt;li&gt;วัตถุดิบ  0 – 1   %&lt;/li&gt;
+&lt;li&gt;กึ่งสำเร็จรูป 3 – 5   %&lt;/li&gt;
+&lt;li&gt;ผลิตภัณฑ์สำเร็จรูป    10 – 40 %&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -377,76 +326,89 @@
       <description>&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;ที่&lt;/th&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;รายละเอียด&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;วันที่ปรับปรุงล่าสุด&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;ที่&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;รายละเอียด&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;วันที่ปรับปรุงล่าสุด&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
+
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;1.&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/list_strc_download.php?ini_content=customs_tariff_and_statistic_200508_01&amp;amp;ini_menu=menu_interest_and_law_160421_01&amp;amp;left_menu=menu_customs_tariff_and_statistic&amp;amp;xleft_menu=&amp;amp;show_search=&amp;amp;root_content_group=&amp;amp;order_by=co_last_update_datetime&amp;amp;cg_order_by=&amp;amp;cg_sort_type=&amp;amp;root_left_menu=menu_interest_and_law_160421_01&#34;&gt;รายการอ้างอิงสินค้าทางการแพทย์และรายการยาที่สำคัญพร้อมประเภทพิกัดศุลกากรที่เกี่ยวข้องกับโรคติดเชื้อไวรัสโคโรนา 2019 (COVID-19)&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;18 มิถุนายน 2563&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;1.&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/list_strc_download.php?ini_content=customs_tariff_and_statistic_200508_01&amp;amp;ini_menu=menu_interest_and_law_160421_01&amp;amp;left_menu=menu_customs_tariff_and_statistic&amp;amp;xleft_menu=&amp;amp;show_search=&amp;amp;root_content_group=&amp;amp;order_by=co_last_update_datetime&amp;amp;cg_order_by=&amp;amp;cg_sort_type=&amp;amp;root_left_menu=menu_interest_and_law_160421_01&#34; target=&#34;_blank&#34;&gt;รายการอ้างอิงสินค้าทางการแพทย์และรายการยาที่สำคัญพร้อมประเภทพิกัดศุลกากรที่เกี่ยวข้องกับโรคติดเชื้อไวรัสโคโรนา 2019 (COVID-19)&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;18 มิถุนายน 2563&lt;/td&gt;
 &lt;/tr&gt;
+
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;2.&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232832414d505f47464a4e464b4a&#34;&gt;รายการอ้างอิงในการจำแนกประเภทพิกัดศุลกากรสำหรับวัคซีนและอุปกรณ์ทางการแพทย์ที่เกี่ยวข้องกับ COVID-19&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;2 กุมภาพันธ์ 2564&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;2.&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232832414d505f47464a4e464b4a&#34; target=&#34;_blank&#34;&gt;รายการอ้างอิงในการจำแนกประเภทพิกัดศุลกากรสำหรับวัคซีนและอุปกรณ์ทางการแพทย์ที่เกี่ยวข้องกับ COVID-19&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;2 กุมภาพันธ์ 2564&lt;/td&gt;
 &lt;/tr&gt;
+
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;3.&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232832414c505f4c464b4c464a4f&#34;&gt;HS Code INN List 124 Covid-19&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;21 ธันวาคม 2563&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;3.&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232832414c505f4c464b4c464a4f&#34; target=&#34;_blank&#34;&gt;HS Code INN List 124 Covid-19&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;21 ธันวาคม 2563&lt;/td&gt;
 &lt;/tr&gt;
+
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;4.&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232832414b505e4f464b4b464b46&#34;&gt;รายการอ้างอิงในการจำแนกประเภทพิกัดศุลกากรสำหรับสินค้าทางการแพทย์ที่เกี่ยวข้องกับ COVID-19 ฉบับที่ 3&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;18 มิถุนายน 2563&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;4.&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232832414b505e4f464b4b464b46&#34; target=&#34;_blank&#34;&gt;รายการอ้างอิงในการจำแนกประเภทพิกัดศุลกากรสำหรับสินค้าทางการแพทย์ที่เกี่ยวข้องกับ COVID-19 ฉบับที่ 3&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;18 มิถุนายน 2563&lt;/td&gt;
 &lt;/tr&gt;
+
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;5.&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142231324149505e4e464a4f464a4e&#34;&gt;ตารางเทียบพิกัดศุลกากรประเภทย่อย AHTN 2012 - AHTN 2017&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;20 มิถุนายน 2562&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;5.&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142231324149505e4e464a4f464a4e&#34; target=&#34;_blank&#34;&gt;ตารางเทียบพิกัดศุลกากรประเภทย่อย AHTN 2012 - AHTN 2017&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;20 มิถุนายน 2562&lt;/td&gt;
 &lt;/tr&gt;
+
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;6.&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14223132414b505f46464b46464a4f&#34;&gt;ราชกิจจานุเบกษา แก้คำผิด พระราชกำหนดพิกัดอัตราศุลกากร (ฉบับที่ 6) พ.ศ. 2559&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;18 กันยายน 2560&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;6.&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14223132414b505f46464b46464a4f&#34; target=&#34;_blank&#34;&gt;ราชกิจจานุเบกษา แก้คำผิด พระราชกำหนดพิกัดอัตราศุลกากร (ฉบับที่ 6) พ.ศ. 2559&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;18 กันยายน 2560&lt;/td&gt;
 &lt;/tr&gt;
+
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;7.&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142231324149505f4b464b4c464a4e&#34;&gt;ปรับปรุงแก้ไขรหัสสถิติ 2832.10 และ 2832.20 (8 มีนาคม 2560)&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;8 มีนาคม 2560&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;7.&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142231324149505f4b464b4c464a4e&#34; target=&#34;_blank&#34;&gt;ปรับปรุงแก้ไขรหัสสถิติ 2832.10 และ 2832.20 (8 มีนาคม 2560)&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;8 มีนาคม 2560&lt;/td&gt;
 &lt;/tr&gt;
+
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;8.&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142231324149505e4f464b4b464a4e&#34;&gt;รหัสสถิติสินค้า ฉบับปี พ.ศ. 2560 (9 ก.พ. 2560)&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;9 กุมภาพันธ์ 2560&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;8.&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142231324149505e4f464b4b464a4e&#34; target=&#34;_blank&#34;&gt;รหัสสถิติสินค้า ฉบับปี พ.ศ. 2560 (9 ก.พ. 2560)&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;9 กุมภาพันธ์ 2560&lt;/td&gt;
 &lt;/tr&gt;
+
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;9.&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142231324149505e4e464a4f464b49&#34;&gt;Text of AHTN 2017 with Corrigendum Oct 2016&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;16 มกราคม 2560&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;9.&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142231324149505e4e464a4f464b49&#34; target=&#34;_blank&#34;&gt;Text of AHTN 2017 with Corrigendum Oct 2016&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;16 มกราคม 2560&lt;/td&gt;
 &lt;/tr&gt;
+
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;10.&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142231324149505e4e464b46464b46&#34;&gt;คำอธิบายพิกัดศุลกากรเพิ่มเติม (Supplementary Explanatory Notes - SEN 2017)&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;6 มกราคม 2560&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;10.&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142231324149505e4e464b46464b46&#34; target=&#34;_blank&#34;&gt;คำอธิบายพิกัดศุลกากรเพิ่มเติม (Supplementary Explanatory Notes - SEN 2017)&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;6 มกราคม 2560&lt;/td&gt;
 &lt;/tr&gt;
+
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;11.&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142231324149505e4e464b48464b4d&#34;&gt;ชื่อผู้ประสานงาน (Contact Point) สำนักเทคโนโลยีสารสนเทศและการสื่อสาร สำหรับรหัสสถิติสินค้า ปี 2560&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;4 มกราคม 2560&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;11.&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142231324149505e4e464b48464b4d&#34; target=&#34;_blank&#34;&gt;ชื่อผู้ประสานงาน (Contact Point) สำนักเทคโนโลยีสารสนเทศและการสื่อสาร สำหรับรหัสสถิติสินค้า ปี 2560&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;4 มกราคม 2560&lt;/td&gt;
 &lt;/tr&gt;
+
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;12.&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142231324149505e4f464b4a464b46&#34;&gt;ประกาศกระทรวงการคลัง (มีผลใช้บังคับ 1 มกราคม พ.ศ.2560)&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;31 ธันวาคม 2559&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;12.&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142231324149505e4f464b4a464b46&#34; target=&#34;_blank&#34;&gt;ประกาศกระทรวงการคลัง (มีผลใช้บังคับ 1 มกราคม พ.ศ.2560)&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;31 ธันวาคม 2559&lt;/td&gt;
 &lt;/tr&gt;
+
 &lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;13.&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142231324149505e4e464b4b464b4c&#34;&gt;พระราชกำหนดพิกัดอัตราศุลกากร (ฉบับที่ 6) พ.ศ. 2559&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;27 ธันวาคม 2559&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;13.&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142231324149505e4e464b4b464b4c&#34; target=&#34;_blank&#34;&gt;พระราชกำหนดพิกัดอัตราศุลกากร (ฉบับที่ 6) พ.ศ. 2559&lt;/a&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;27 ธันวาคม 2559&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -459,11 +421,12 @@
       <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/series/hs_2022/news/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page1.jpg&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;./img/docsjpg_Page2.jpg&#34; alt=&#34;&#34;&gt;&lt;br&gt;
-&lt;img src=&#34;./img/docsjpg_Page3.jpg&#34; alt=&#34;&#34;&gt; 
-&lt;img src=&#34;./img/docsjpg_Page4.jpg&#34; alt=&#34;&#34;&gt; 
-&lt;img src=&#34;./img/docsjpg_Page5.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page1.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;./img/docsjpg_Page2.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&lt;img src=&#34;./img/docsjpg_Page3.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;./img/docsjpg_Page4.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;./img/docsjpg_Page5.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 
 
 &lt;br&gt;
@@ -475,8 +438,9 @@
 &lt;br&gt;
 
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/data_files/a1433d64923dd1ade50c715fda5aee00.pdf&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/data_files/a1433d64923dd1ade50c715fda5aee00.pdf&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -487,11 +451,13 @@
       <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/series/hs_2022/text_of_ahtn/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;1200&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 
 &lt;br&gt;
@@ -503,8 +469,9 @@
 &lt;br&gt;
 
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_simple_with_date.php?current_id=142329324146505e4e464b46464b48&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_simple_with_date.php?current_id=142329324146505e4e464b46464b48&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -515,11 +482,13 @@
       <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/series/hs_2022/ahtn_2022_sen/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;1200&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 
 &lt;br&gt;
@@ -531,8 +500,9 @@
 &lt;br&gt;
 
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_simple_with_date.php?current_id=142329324146505e4e464b46464b49&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_simple_with_date.php?current_id=142329324146505e4e464b46464b49&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -543,11 +513,13 @@
       <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/series/hs_2022/table/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;1200&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 
 &lt;br&gt;
@@ -559,8 +531,9 @@
 &lt;br&gt;
 
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_simple_with_date.php?current_id=142329324146505e4e464b46464b47&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_simple_with_date.php?current_id=142329324146505e4e464b46464b47&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -572,13 +545,16 @@
       
       <guid>https://ecs-support.github.io/KM/customs/post/series/hs_2022/law_2022/</guid>
       <description>&lt;p&gt;พระราชกำหนดพิกัดอัตราศุลกากร (ฉบับที่ 7) พ.ศ. 2564 มีผลใช้บังคับ&lt;em&gt;ตั้งแต่ 1 ม.ค. 2565&lt;/em&gt; เป็นต้นไป โดยแบ่งเป็น 2 เล่ม เล่มที่ 1 จำนวน 462 หน้า และ เล่มที่ 2 จำนวน 461 หน้า&lt;/p&gt;
+
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;เล่มที่ 1 จำนวน 462 หน้า&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;./docs_01.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;1200&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 
 &lt;br&gt;
@@ -590,17 +566,21 @@
 &lt;br&gt;
 &lt;br&gt;
 
+
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;เล่มที่ 2 จำนวน 461 หน้า&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 
+
 &lt;br&gt;
+
 
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;./docs_02.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;1200&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 
 &lt;br&gt;
@@ -611,8 +591,9 @@
 &lt;/div&gt;
  &lt;br&gt;
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;&#34;&gt; เว็บไซต์ราชกิจจานุเบกษา&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : [ เว็บไซต์ราชกิจจานุเบกษา]()&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -624,11 +605,14 @@
       
       <guid>https://ecs-support.github.io/KM/customs/post/series/hs_2022/seminar/</guid>
       <description>&lt;p&gt;เอกสารประกอบการสัมมนาโครงการฝึกอบรมหลักสูตรพิกัดศุลกากรระบบฮาร์โมไนซ์และพิกัดศุลกากรฮาร์โมไนซ์อาเซียน ฉบับปี 2022 สำหรับผู้ประกอบการและบุคคลทั่วไป&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;1200&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 
 &lt;br&gt;
@@ -640,8 +624,9 @@
 &lt;br&gt;
 
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/data_files/a1a13d94c2b5ddcb836bc93b9df8a115.pdf&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/data_files/a1a13d94c2b5ddcb836bc93b9df8a115.pdf&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -652,10 +637,14 @@
       <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/news/2021-08-23/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;./featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 &lt;p&gt;กรมศุลกากรแจ้งประชาสัมพันธ์ เรื่องการจะนำ&lt;strong&gt;พิกัดศุลกากรระบบฮาโมไนซ์อาเซียน (AHTN) ฉบับปี 2022&lt;/strong&gt; มาใช้ &lt;em&gt;เริ่ม 1 มกราคม 2565&lt;/em&gt; เป็นต้นไป จึงขอแจ้งให้ผู้ใช้งานได้รับทราบและเตรียมพร้อมสำหรับการเปลี่ยนแปลงที่กำลังจะเกิดขึ้นดังกล่าว โดยทาง ECS จะติดตามความเคลื่อนไหวในเรื่องนี้อย่างใกล้ชิด เมื่อมีข้อมูลเพิ่มเติมจะแจ้งให้ผู้ใช้งานได้ทราบข้อมูลต่อไป&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 
 
 &lt;br&gt;
@@ -668,7 +657,8 @@
 &lt;br&gt;
 
 
-&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232932404e505f4d464b4a464a4f&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232932404e505f4d464b4a464a4f&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
