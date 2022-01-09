@@ -19,8 +19,11 @@
       
       <guid>https://ecs-support.github.io/KM/customs/pages/fta/tafta/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/thai-australia.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;nav id=&#34;TableOfContents&#34;&gt;
+&lt;div class=&#34;toc collapsible-toc&#34;&gt;
+ &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
+ &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
+ 
+   &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#ความเปนมา&#34;&gt;ความเป็นมา&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#การลดหยอนภาษ&#34;&gt;การลดหย่อนภาษี&lt;/a&gt;
@@ -38,7 +41,10 @@
     &lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
-&lt;!-- raw HTML omitted --&gt;
+   &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;br&gt;
+    &lt;/div&gt;
 &lt;blockquote class=&#34;book-hint success&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;มีผล 1 มกราคม 2548&lt;/li&gt;
