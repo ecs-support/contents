@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Source Themes Academia 4.3.1">
-  <meta name="generator" content="Hugo 0.59.1" />
+  <meta name="generator" content="Hugo 0.83.1" />
 
   
 
@@ -92,7 +92,7 @@
     
     
     
-    <link rel="stylesheet" href="/KM/customs/css/academia.db48fc5d8461de55d6d3d271e7b5d3db.css">
+    <link rel="stylesheet" href="/KM/customs/css/academia.72b6a7817bd047837c18143c1b26ca4a.css">
   
 
   
@@ -485,18 +485,17 @@
      <div class="article-container">
 
         <div class="article-style" itemprop="articleBody">
-            <p><img src="featured.png" alt="" /></p>
-
+            <p><img src="featured.png" alt=""></p>
 <p>เพื่อเป็นการเพิ่มประสิทธิภาพให้ระบบคอมพิวเตอร์ของศุลกากรมีความสมบูรณ์ และเป็นประโยชน์ต่อผู้นำเข้าและพนักงานศุลกากรมากขึ้น ศุลกากรจึงแจ้งการตรวจสอบข้อมูลในระบบเพิ่มเติม โดยมีกำหนดเวลาเริ่มต้นและรายละเอียดในการตรวจสอบข้อมูลดังนี้</p>
-
 <ol>
-<li><p>ตั้งแต่<em>วันที่ 8 พฤศจิกายน 2564</em> เป็นต้นไป โปรแกรมรับข้อมูลรายงานบัญชีสินค้า (Manifest) ในส่วนประเภทของขบวนการนำเข้า (Processing Indicator=23) สำหรับเอกสารรายงานบัญชีสินค้าทางเรือ (MMAN) เอกสารรายงานบัญชีสินค้าทางอากาศยาน (ABIL) เอกสารรายงานบัญชีสินค้าทางรถยนต์ (CMAN) โดยตรวจสอบข้อมูล รหัสโกดัง/รหัสสถานที่เก็บของ/รหัสสถานที่ตรวจปล่อย (Shed Number) กับแฟ้มข้อมูลอ้างอิง (REFARS) ให้<em>ตรวจสอบการเป็นสถานที่ตรวจปล่อยขาเข้า (Release Indicator Import= Y)</em>  <a href="https://ecs-support.github.io/KM/reference/area_code.html" target="_blank"><strong>[ตรวจสอบข้อมูลสถานที่ตรวจปล่อย]</strong></a> หากพบว่ามีการส่งข้อมูลรหัสสถานที่ที่ไม่เป็นสถานที่ตรวจปล่อยขาเข้า เข้ามาให้แสดงข้อความผิดพลาด <em>“Shed Number is not Release Indicator Import”</em></p></li>
-
-<li><p>ตั้งแต่<em>วันที่ 1 ธันวาคม 2564</em> เป็นต้นไป ระบบ e-Import จะตรวจสอบข้อมูล <em>หน่วยน้ำหนักรวม (Gross Weight Unit)</em> ที่ระบุในใบขนสินค้าขาเข้าต้องตรงกับหน่วยน้ำหนักรวม (Gross Weight Unit) ของข้อมูลบัญชีสินค้า (Manifest) หากไม่ถูกต้องตรงกัน ระบบคอมพิวเตอร์ศุลกากรจะไม่ออกเลขที่ใบขนสินค้าให้และแจ้งข้อผิดพลาด (Response message error) เป็น <em>“Gross Weight Unit &lt;&gt; Manifest”</em> กลับไปให้ผู้นำของเข้าและตรวจสอบรหัสสถานที่ตรวจปล่อย ในระบบ e-Import ในการส่งข้อมูลใบขนสินค้ากับข้อมูลบัญชีสินค้า (Manifest) สำหรับใบขนสินค้านำเข้าจากต่างประเทศ (Type 0) ใบขนสินค้าขาเข้ารับของไปก่อน (Type 3) และใบขนสินค้าขาเข้าเร่งด่วน (Type X) ที่ขนส่งโดยสารทาง เรือ รถไฟ บก อากาศยาน ไปรษณีย์ และผู้โดยสารนำพา โดยตรวจสอบข้อมูล <em>รหัสสถานที่ตรวจปล่อย (Release Port)</em> ที่ระบุในใบขนสินค้าขาเข้า ต้องตรงกับข้อมูลรหัสโกดังหรือสถานที่เก็บของ(Shed Number /Release port) ที่ระบุในบัญชีสินค้า (Manifest) ที่ใบขนสินค้าอ้างถึงดังกล่าว หากไม่ถูกต้องตรงกัน ระบบคอมพิวเตอร์ศุลกากรจะไม่ออกเลขที่ใบขนสินค้าให้และแจ้งข้อผิดพลาด (Response message error) เป็น <em>“RELEASE PORT NOT MATCH WITH MANIFEST”</em> กลับไปให้ผู้นำของเข้า ทั้งนี้ท่านสามารถพิจารณาแก้ไขข้อผิดพลาดดังกล่าวได้ ตามภาพ</p></li>
+<li>
+<p>ตั้งแต่<em>วันที่ 8 พฤศจิกายน 2564</em> เป็นต้นไป โปรแกรมรับข้อมูลรายงานบัญชีสินค้า (Manifest) ในส่วนประเภทของขบวนการนำเข้า (Processing Indicator=23) สำหรับเอกสารรายงานบัญชีสินค้าทางเรือ (MMAN) เอกสารรายงานบัญชีสินค้าทางอากาศยาน (ABIL) เอกสารรายงานบัญชีสินค้าทางรถยนต์ (CMAN) โดยตรวจสอบข้อมูล รหัสโกดัง/รหัสสถานที่เก็บของ/รหัสสถานที่ตรวจปล่อย (Shed Number) กับแฟ้มข้อมูลอ้างอิง (REFARS) ให้<em>ตรวจสอบการเป็นสถานที่ตรวจปล่อยขาเข้า (Release Indicator Import= Y)</em>  <a href="https://ecs-support.github.io/KM/reference/area_code.html">**[ตรวจสอบข้อมูลสถานที่ตรวจปล่อย]**</a> หากพบว่ามีการส่งข้อมูลรหัสสถานที่ที่ไม่เป็นสถานที่ตรวจปล่อยขาเข้า เข้ามาให้แสดงข้อความผิดพลาด <em>“Shed Number is not Release Indicator Import”</em></p>
+</li>
+<li>
+<p>ตั้งแต่<em>วันที่ 1 ธันวาคม 2564</em> เป็นต้นไป ระบบ e-Import จะตรวจสอบข้อมูล <em>หน่วยน้ำหนักรวม (Gross Weight Unit)</em> ที่ระบุในใบขนสินค้าขาเข้าต้องตรงกับหน่วยน้ำหนักรวม (Gross Weight Unit) ของข้อมูลบัญชีสินค้า (Manifest) หากไม่ถูกต้องตรงกัน ระบบคอมพิวเตอร์ศุลกากรจะไม่ออกเลขที่ใบขนสินค้าให้และแจ้งข้อผิดพลาด (Response message error) เป็น <em>“Gross Weight Unit &lt;&gt; Manifest”</em> กลับไปให้ผู้นำของเข้าและตรวจสอบรหัสสถานที่ตรวจปล่อย ในระบบ e-Import ในการส่งข้อมูลใบขนสินค้ากับข้อมูลบัญชีสินค้า (Manifest) สำหรับใบขนสินค้านำเข้าจากต่างประเทศ (Type 0) ใบขนสินค้าขาเข้ารับของไปก่อน (Type 3) และใบขนสินค้าขาเข้าเร่งด่วน (Type X) ที่ขนส่งโดยสารทาง เรือ รถไฟ บก อากาศยาน ไปรษณีย์ และผู้โดยสารนำพา โดยตรวจสอบข้อมูล <em>รหัสสถานที่ตรวจปล่อย (Release Port)</em> ที่ระบุในใบขนสินค้าขาเข้า ต้องตรงกับข้อมูลรหัสโกดังหรือสถานที่เก็บของ(Shed Number /Release port) ที่ระบุในบัญชีสินค้า (Manifest) ที่ใบขนสินค้าอ้างถึงดังกล่าว หากไม่ถูกต้องตรงกัน ระบบคอมพิวเตอร์ศุลกากรจะไม่ออกเลขที่ใบขนสินค้าให้และแจ้งข้อผิดพลาด (Response message error) เป็น <em>“RELEASE PORT NOT MATCH WITH MANIFEST”</em> กลับไปให้ผู้นำของเข้า ทั้งนี้ท่านสามารถพิจารณาแก้ไขข้อผิดพลาดดังกล่าวได้ ตามภาพ</p>
+</li>
 </ol>
-
-<p><img src="img-01.jpg" alt="" /></p>
-
+<p><img src="img-01.jpg" alt=""></p>
 <blockquote>
 <p>ที่มา: กรมศุลกากร</p>
 </blockquote>
@@ -765,7 +764,7 @@
     
     
     
-    <script src="/KM/customs/js/academia.min.dca966bb8f6003a0d344f02446eafcac.js"></script>
+    <script src="/KM/customs/js/academia.min.b54456eaad925d8f482e6ebd04af2d6a.js"></script>
 
 
     
@@ -794,7 +793,7 @@
       <div class="col-md-6">
         
         <p>
-          ECS@Support&copy;2022 &middot; 
+          ECS@Support©2022 &middot; 
           Powered by
           <a href="https://themefisher.com" target="_blank" rel="noopener">themefisher</a> for
           <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
