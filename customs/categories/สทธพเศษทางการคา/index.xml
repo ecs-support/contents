@@ -82,7 +82,7 @@
     </item>
     
     <item>
-      <title>ข้อควรระวังเกี่ยวกับกฎว่าด้วยถิ่นกำเนิดสินค้า</title>
+      <title>ตารางแสดงข้อมูลเพื่อใช้ตรวจสอบหนังสือรับรองถิ่นกำเนิดสินค้าเบื้องต้น</title>
       <link>https://ecs-support.github.io/KM/customs/pages/fta/checklist/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
@@ -95,9 +95,9 @@
 
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;../img/checklist_ftapng_Page1.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../img/checklist/checklist_ftapng_Page1.png&#34; &gt;
 
-&lt;img src=&#34;../img/checklist_ftapng_Page1.png&#34; &gt;
+&lt;img src=&#34;../img/checklist/checklist_ftapng_Page1.png&#34; &gt;
 &lt;/a&gt;
 
 &lt;/figure&gt;
@@ -110,9 +110,99 @@
 
 &lt;figure&gt;
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;../img/checklist_ftapng_Page2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../img/checklist/checklist_ftapng_Page2.png&#34; &gt;
 
-&lt;img src=&#34;../img/checklist_ftapng_Page2.png&#34; &gt;
+&lt;img src=&#34;../img/checklist/checklist_ftapng_Page2.png&#34; &gt;
+&lt;/a&gt;
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../img/checklist/checklist_ftapng_Page3.png&#34; &gt;
+
+&lt;img src=&#34;../img/checklist/checklist_ftapng_Page3.png&#34; &gt;
+&lt;/a&gt;
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../img/checklist/checklist_ftapng_Page4.png&#34; &gt;
+
+&lt;img src=&#34;../img/checklist/checklist_ftapng_Page4.png&#34; &gt;
+&lt;/a&gt;
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../img/checklist/checklist_ftapng_Page5.png&#34; &gt;
+
+&lt;img src=&#34;../img/checklist/checklist_ftapng_Page5.png&#34; &gt;
+&lt;/a&gt;
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../img/checklist/checklist_ftapng_Page6.png&#34; &gt;
+
+&lt;img src=&#34;../img/checklist/checklist_ftapng_Page6.png&#34; &gt;
+&lt;/a&gt;
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../img/checklist/checklist_ftapng_Page7.png&#34; &gt;
+
+&lt;img src=&#34;../img/checklist/checklist_ftapng_Page7.png&#34; &gt;
+&lt;/a&gt;
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;../img/checklist/checklist_ftapng_Page8.png&#34; &gt;
+
+&lt;img src=&#34;../img/checklist/checklist_ftapng_Page8.png&#34; &gt;
 &lt;/a&gt;
 
 &lt;/figure&gt;
@@ -121,10 +211,21 @@
   &lt;iframe src=&#34;../files/checklist_fta.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;1200&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
-&lt;!-- raw HTML omitted --&gt;
+
+
+&lt;br&gt;
+
+&lt;br&gt;
+&lt;div class=&#34;article-tags&#34;&gt;
+&lt;a class=&#34;badge badge-danger&#34; href=&#34;../files/checklist_fta.pdf&#34; target=&#34;_blank&#34; id=&#34;download_files_new&#34;&gt;Download&lt;/a&gt;
+
+&lt;/div&gt;
+&lt;br&gt;
+
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/list_strc_download.php?ini_content=fta_and_wto_160809_01_160809_04&amp;amp;ini_menu=menu_interest_and_law_160421_03&amp;amp;lang=th&amp;amp;root_left_menu=menu_interest_and_law_160421_03&amp;amp;left_menu=menu_interest_and_law_160421_03_160928_02&#34;&gt;กรมศุลกากร&lt;/a&gt;.&lt;br&gt;
-วันที่ปรับปรุงข้อมูลล่าสุด :  14 ม.ค. 2563&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/list_strc_download.php?ini_content=fta_and_wto_160809_01_160809_04&amp;amp;ini_menu=menu_interest_and_law_160421_03&amp;amp;lang=th&amp;amp;root_left_menu=menu_interest_and_law_160421_03&amp;amp;left_menu=menu_interest_and_law_160421_03_160928_02&#34;&gt;กรมศุลกากร&lt;/a&gt;.&lt;br&gt;
+วันที่ปรับปรุงข้อมูลล่าสุด :  13 กรกฎาคม 2564&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -203,6 +304,7 @@
   &lt;div class=&#34;book-tabs-content markdown-inner&#34;&gt;
     &lt;h4 id=&#34;ประกาศกระทรวงการคลง&#34;&gt;ประกาศกระทรวงการคลัง&lt;/h4&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142329324146505f47464b48464b4c&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากร ลด และเพิ่มอัตราอากรศุลกากรตามข้อผูกพันในความตกลงมาร์ราเกซจัดตั้งองค์การการค้าโลก ลงวันที่ 28 ธันวาคม 2564&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14223132414b505f4d464b4a464b46&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรลด และเพิ่มอัตราอากรศุลกากรตามข้อผูกพันในความตกลงมาร์ราเกชจัดตั้งองค์การการค้าโลก ลงวันที่ 10 พฤศจิกายน 2560&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142231324146505f4d464b4b464b46&#34;&gt;การยกเว้นอากรลดและเพิ่มอัตราอากรศุลกากรตามข้อผูกพันในความตกลงมาร์ราเกชจัดตั้งองค์การการค้าโลก (ฉบับที่ 3)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142231324146505f4d464b4b464a4f&#34;&gt;การยกเว้นอากรลดและเพิ่มอัตราอากรศุลกากรตามข้อผูกพันในความตกลงมาร์ราเกชจัดตั้งองค์การการค้าโลก (ฉบับที่ 2)&lt;/a&gt;&lt;/li&gt;
@@ -324,60 +426,9 @@
  
    &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#การสงวนสทธขอใชสทธพเศษทางภาษศลกากร&#34;&gt;การสงวนสิทธิ์ขอใช้สิทธิพิเศษทางภาษีศุลกากร&lt;/a&gt;
+    &lt;li&gt;
       &lt;ul&gt;
         &lt;li&gt;&lt;a href=&#34;#ประเทศสมาชก&#34;&gt;ประเทศสมาชิก&lt;/a&gt;&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#พธการการศลกากรสำหรบของทมถนกำเนดจากอาเซยน&#34;&gt;พิธีการการศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน&lt;/a&gt;
-      &lt;ul&gt;
-        &lt;li&gt;&lt;a href=&#34;#หมวด-1-การไดถนกำเนดสนคา&#34;&gt;หมวด 1 การได้ถิ่นกำเนิดสินค้า&lt;/a&gt;
-          &lt;ul&gt;
-            &lt;li&gt;&lt;a href=&#34;#3-หลกเกณฑการไดถนกำเนดสนคา&#34;&gt;3. หลักเกณฑ์การได้ถิ่นกำเนิดสินค้า&lt;/a&gt;&lt;/li&gt;
-          &lt;/ul&gt;
-        &lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#หมวด-2-การรบรองถนกำเนดสนคา&#34;&gt;หมวด 2 การรับรองถิ่นกำเนิดสินค้า&lt;/a&gt;
-          &lt;ul&gt;
-            &lt;li&gt;&lt;a href=&#34;#4-วธการรบรองถนกำเนดสนคา&#34;&gt;4. วิธีการรับรองถิ่นกำเนิดสินค้า&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&#34;#5-หลกเกณฑเกยวกบหนงสอรบรองถนกำเนดสนคา-form-d&#34;&gt;5. หลักเกณฑ์เกี่ยวกับหนังสือรับรองถิ่นกำเนิดสินค้า (Form D)&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&#34;#6-หลกเกณฑเกยวกบหนงสอรบรองถนกำเนดสนคาแบบอเลกทรอนกส-e-form-d&#34;&gt;6. หลักเกณฑ์เกี่ยวกับหนังสือรับรองถิ่นกำเนิดสินค้าแบบอิเล็กทรอนิกส์ (e-Form D)&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&#34;#7-การรบรองถนกำเนดสนคาดวยตนเอง&#34;&gt;7. การรับรองถิ่นกำเนิดสินค้าด้วยตนเอง&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&#34;#8-การรบรองถนกำเนดสนคาดวยตนเองภายใตโครงการนำรองของภมภาค&#34;&gt;8. การรับรองถิ่นกำเนิดสินค้าด้วยตนเองภายใต้โครงการนำร่องของภูมิภาค&lt;/a&gt;&lt;/li&gt;
-          &lt;/ul&gt;
-        &lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#หมวด-3-การปฏบตพธการศลกากรสำหรบผนำของเขา&#34;&gt;หมวด 3 การปฏิบัติพิธีการศุลกากรสำหรับผู้นำของเข้า&lt;/a&gt;
-          &lt;ul&gt;
-            &lt;li&gt;&lt;a href=&#34;#9-นยามศพท&#34;&gt;9. นิยามศัพท์&lt;/a&gt;&lt;/li&gt;
-          &lt;/ul&gt;
-        &lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#หมวด-31-การปฏบตพธการศลกากรกรณทวไป&#34;&gt;หมวด 3.1 การปฏิบัติพิธีการศุลกากรกรณีทั่วไป&lt;/a&gt;
-          &lt;ul&gt;
-            &lt;li&gt;&lt;a href=&#34;#10-การแสดงเอกสารการรบรองถนกำเนดสนคา&#34;&gt;10. การแสดงเอกสารการรับรองถิ่นกำเนิดสินค้า&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&#34;#11-การจดทำขอมลใบขนสนคาขาเขา&#34;&gt;11. การจัดทำข้อมูลใบขนสินค้าขาเข้า&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&#34;#12-การยนใบขนสนคาขาเขา&#34;&gt;12. การยื่นใบขนสินค้าขาเข้า&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&#34;#13-การไดรบสทธพเศษทางภาษศลกากรโดยไมตองแสดงเอกสารรบรองถนกำเนดสนคา&#34;&gt;13. การได้รับสิทธิพิเศษทางภาษีศุลกากรโดยไม่ต้องแสดงเอกสารรับรองถิ่นกำเนิดสินค้า&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&#34;#14-การปฏเสธการใหสทธพเศษทางภาษศลกากร&#34;&gt;14. การปฏิเสธการให้สิทธิพิเศษทางภาษีศุลกากร&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&#34;#15-ระยะเวลาในการเกบเอกสาร&#34;&gt;15. ระยะเวลาในการเก็บเอกสาร&lt;/a&gt;&lt;/li&gt;
-          &lt;/ul&gt;
-        &lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#หมวด-32-การปฏบตพธการศลกากรเฉพาะเรอง&#34;&gt;หมวด 3.2 การปฏิบัติพิธีการศุลกากรเฉพาะเรื่อง&lt;/a&gt;
-          &lt;ul&gt;
-            &lt;li&gt;&lt;a href=&#34;#16-การแสดงเอกสารการรบรองถนกำเนดสนคาหลงจากหมดอาย&#34;&gt;16. การแสดงเอกสารการรับรองถิ่นกำเนิดสินค้าหลังจากหมดอายุ&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&#34;#17-ของหลายรายการ&#34;&gt;17. ของหลายรายการ&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&#34;#18-การซอขายผานประเทศทสาม&#34;&gt;18. การซื้อขายผ่านประเทศที่สาม&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&#34;#19-back-to-back-proof-of-origin&#34;&gt;19. Back-to-Back Proof of Origin&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&#34;#20-back-to-back-proof-of-origin-ควบคกบการซอขายผานประเทศทสาม&#34;&gt;20. Back-to-Back Proof of Origin ควบคู่กับการซื้อขายผ่านประเทศที่สาม&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&#34;#21-ของนำเขาผานประเทศทมไดเปนสมาชกอาเซยน&#34;&gt;21. ของนำเข้าผ่านประเทศที่มิได้เป็นสมาชิกอาเซียน&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&#34;#22-ของแสดงในงานนทรรศการ&#34;&gt;22. ของแสดงในงานนิทรรศการ&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&#34;#23-การระงบสทธชวคราว&#34;&gt;23. การระงับสิทธิชั่วคราว&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&#34;#24-การผอนผนใหใชเอกสารการรบรองถนกำเนดสนคา&#34;&gt;24. การผ่อนผันให้ใช้เอกสารการรับรองถิ่นกำเนิดสินค้า&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&#34;#25-การวางประกนเพอโตแยงการจำแนกพกดศลกากร&#34;&gt;25. การวางประกันเพื่อโต้แย้งการจำแนกพิกัดศุลกากร&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&#34;#26-การขอคนอากรภายหลงการนำเขา&#34;&gt;26. การขอคืนอากรภายหลังการนำเข้า&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&#34;#27-หลกฐานการรบรองถนกำเนดสนคาภายใตเงอนไข-back-to-back-กรณ-re-export&#34;&gt;27. หลักฐานการรับรองถิ่นกำเนิดสินค้าภายใต้เงื่อนไข Back-to-Back กรณี Re-export&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;a href=&#34;#28-การนำของเขาในลกษณะของกอง&#34;&gt;28. การนำของเข้าในลักษณะของกอง&lt;/a&gt;&lt;/li&gt;
-          &lt;/ul&gt;
-        &lt;/li&gt;
-        &lt;li&gt;&lt;a href=&#34;#หมวด-4-บทเฉพาะกาล&#34;&gt;หมวด 4 บทเฉพาะกาล&lt;/a&gt;&lt;/li&gt;
       &lt;/ul&gt;
     &lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#ประกาศ--กฎหมาย-ทเกยวของ&#34;&gt;ประกาศ / กฎหมาย ที่เกี่ยวข้อง&lt;/a&gt;
@@ -396,11 +447,6 @@
 &lt;p&gt;อาเซียนดำเนินการจัดตั้งเขตการค้าเสรีอาเซียน (AFTA) โดยมุ่งเน้นไปที่การขจัดอุปสรรคทางการค้าทั้งหลายภายในภูมิภาค ทั้งในด้านภาษีและเครื่องกีดขวางทางการค้าต่างๆที่มิใช่ภาษี ยกตัวอย่างเช่นการจำกัดโควต้าการนำเข้า เป็นต้น&lt;/p&gt;
 &lt;p&gt;โดยจะยกเว้นแต่เพียงสินค้าที่มีผลกระทบต่อความมั่นคง ศีลธรรม ชีวิต และศิลปะ เท่านั้น ซึ่งมาตรการที่สำคัญที่สุดก็คงจะหนีไม่พ้นมาตรการทางภาษี โดยอาเซียนมีเป้าหมายในการลดภาษีในบัญชีลดภาษี (IL) ให้เหลือร้อยละ 0-5 ภายในค.ศ.2002 และตั้งเป้าให้เหลือร้อยละ 0 ภายใน ค.ศ.2010 สำหรับประเทศ ASEAN 6 (ประเทศไทย ประเทศอินโดนีเซีย ประเทศมาเลเซีย ประเทศสิงคโปร์ ประเทศฟิลิปปินส์ และประเทศบรูไน) ยกเว้น สินค้าอ่อนไหว (SL) เช่น กลุ่มสินค้าประเภทมันฝรั่ง กาแฟของประเทศไทย หรือ กลุ่มสินค้าประเภท กาแฟ ชา ของประเทศบรูไน เป็นต้น โดยสินค้าประเภทนี้กำหนดให้ต้องลดภาษีเหลือ 0-5% ภายใน ค.ศ.2010 และยกเลิกมาตรการที่มิใช่ภาษี และยกเว้นรายการสินค้าอ่อนไหวสูง (HSL) เช่น กลุ่มสินค้าประเภทข้าวของมาเลเซีย ที่จะต้องลดภาษีจากร้อยละ 40 ให้เหลือร้อยละ 20 ในค.ศ.2010 สำหรับกลุ่มประเทศ CLMV (ประเทศลาว ประเทศเวียดนาม ประเทศเมียนมาร์ และประเทศกัมพูชา) นั้น ได้มีเป้าหมายในการลดภาษีในบัญชีลดภาษี (IL) ให้เหลือ ร้อยละ 0-5 ภายใน ค.ศ.2010 และตั้งเป้าให้เหลือร้อยละ 0 ภายใน ค.ศ.2015 ยกเว้นสินค้าอ่อนไหว (SL) และสินค้าอ่อนไหวสูง (HSL) เช่นเดียวกัน&lt;/p&gt;
 &lt;p&gt;โดยการกำหนดมาตรการดังกล่าวก็เพื่อให้สอดคล้องกับเป้าหมายของประชาคมเศรษฐกิจอาเซียน (AEC) ที่มุ่งเป็นตลาดเดียวและฐานการผลิตร่วมกัน และเป้าหมายในการเชื่อมโยงเศรษฐกิจอาเซียนกับเศรษฐกิจโลกด้วย&lt;/p&gt;
-&lt;h2 id=&#34;การสงวนสทธขอใชสทธพเศษทางภาษศลกากร&#34;&gt;การสงวนสิทธิ์ขอใช้สิทธิพิเศษทางภาษีศุลกากร&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;./img/argumentative_reason.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;ที่มา&lt;/strong&gt; : ประกาศกรมศุลกากรที่ 152/.2563 เรื่อง หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน &lt;a href=&#34;https://ecs-support.github.io/KM/customs/post/announcement/customs/2563-152/2563-152.pdf&#34;&gt;[ดาวน์โหลด]&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 &lt;h3 id=&#34;ประเทศสมาชก&#34;&gt;ประเทศสมาชิก&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;ประเทศกัมพูชา&lt;/li&gt;
@@ -414,99 +460,6 @@
 &lt;li&gt;สิงคโปร์&lt;/li&gt;
 &lt;li&gt;อินโดนีเซีย&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;พธการการศลกากรสำหรบของทมถนกำเนดจากอาเซยน&#34;&gt;พิธีการการศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;ประกาศกรมศุลกากรที่ 152/.2563 เรื่อง หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน &lt;a href=&#34;https://ecs-support.github.io/KM/customs/post/announcement/customs/2563-152/2563-152.pdf&#34;&gt;[ดาวน์โหลด]&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;หมวด-1-การไดถนกำเนดสนคา&#34;&gt;หมวด 1 การได้ถิ่นกำเนิดสินค้า&lt;/h3&gt;
-&lt;h4 id=&#34;3-หลกเกณฑการไดถนกำเนดสนคา&#34;&gt;3. หลักเกณฑ์การได้ถิ่นกำเนิดสินค้า&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;./img/2563-152png_Page2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/2563-152png_Page3-1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;หมวด-2-การรบรองถนกำเนดสนคา&#34;&gt;หมวด 2 การรับรองถิ่นกำเนิดสินค้า&lt;/h3&gt;
-&lt;h4 id=&#34;4-วธการรบรองถนกำเนดสนคา&#34;&gt;4. วิธีการรับรองถิ่นกำเนิดสินค้า&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;./img/2563-152png_Page3-2.png&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;./img/2563-152png_Page4-1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h4 id=&#34;5-หลกเกณฑเกยวกบหนงสอรบรองถนกำเนดสนคา-form-d&#34;&gt;5. หลักเกณฑ์เกี่ยวกับหนังสือรับรองถิ่นกำเนิดสินค้า (Form D)&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;./img/2563-152png_Page4-2.png&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;./img/2563-152png_Page5.png&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;./img/2563-152png_Page6-1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h4 id=&#34;6-หลกเกณฑเกยวกบหนงสอรบรองถนกำเนดสนคาแบบอเลกทรอนกส-e-form-d&#34;&gt;6. หลักเกณฑ์เกี่ยวกับหนังสือรับรองถิ่นกำเนิดสินค้าแบบอิเล็กทรอนิกส์ (e-Form D)&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;./img/2563-152png_Page6-2.png&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;./img/2563-152png_Page7-1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h4 id=&#34;7-การรบรองถนกำเนดสนคาดวยตนเอง&#34;&gt;7. การรับรองถิ่นกำเนิดสินค้าด้วยตนเอง&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;./img/2563-152png_Page7-2.png&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;./img/2563-152png_Page8.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h4 id=&#34;8-การรบรองถนกำเนดสนคาดวยตนเองภายใตโครงการนำรองของภมภาค&#34;&gt;8. การรับรองถิ่นกำเนิดสินค้าด้วยตนเองภายใต้โครงการนำร่องของภูมิภาค&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;./img/2563-152png_Page9.png&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;./img/2563-152png_Page10.png&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;./img/2563-152png_Page11.png&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;./img/2563-152png_Page12-1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;หมวด-3-การปฏบตพธการศลกากรสำหรบผนำของเขา&#34;&gt;หมวด 3 การปฏิบัติพิธีการศุลกากรสำหรับผู้นำของเข้า&lt;/h3&gt;
-&lt;h4 id=&#34;9-นยามศพท&#34;&gt;9. นิยามศัพท์&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;./img/2563-152png_Page12-2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;หมวด-31-การปฏบตพธการศลกากรกรณทวไป&#34;&gt;หมวด 3.1 การปฏิบัติพิธีการศุลกากรกรณีทั่วไป&lt;/h3&gt;
-&lt;h4 id=&#34;10-การแสดงเอกสารการรบรองถนกำเนดสนคา&#34;&gt;10. การแสดงเอกสารการรับรองถิ่นกำเนิดสินค้า&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;./img/2563-152png_Page12-3.png&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;./img/2563-152png_Page13-1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h4 id=&#34;11-การจดทำขอมลใบขนสนคาขาเขา&#34;&gt;11. การจัดทำข้อมูลใบขนสินค้าขาเข้า&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;./img/2563-152png_Page13-2.png&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;./img/2563-152png_Page14.png&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;./img/2563-152png_Page15-1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h4 id=&#34;12-การยนใบขนสนคาขาเขา&#34;&gt;12. การยื่นใบขนสินค้าขาเข้า&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;./img/2563-152png_Page15-2.png&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;./img/2563-152png_Page16-1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h4 id=&#34;13-การไดรบสทธพเศษทางภาษศลกากรโดยไมตองแสดงเอกสารรบรองถนกำเนดสนคา&#34;&gt;13. การได้รับสิทธิพิเศษทางภาษีศุลกากรโดยไม่ต้องแสดงเอกสารรับรองถิ่นกำเนิดสินค้า&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;./img/2563-152png_Page16-2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h4 id=&#34;14-การปฏเสธการใหสทธพเศษทางภาษศลกากร&#34;&gt;14. การปฏิเสธการให้สิทธิพิเศษทางภาษีศุลกากร&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;./img/2563-152png_Page16-3.png&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;./img/2563-152png_Page17-1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h4 id=&#34;15-ระยะเวลาในการเกบเอกสาร&#34;&gt;15. ระยะเวลาในการเก็บเอกสาร&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;./img/2563-152png_Page17-2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h3 id=&#34;หมวด-32-การปฏบตพธการศลกากรเฉพาะเรอง&#34;&gt;หมวด 3.2 การปฏิบัติพิธีการศุลกากรเฉพาะเรื่อง&lt;/h3&gt;
-&lt;h4 id=&#34;16-การแสดงเอกสารการรบรองถนกำเนดสนคาหลงจากหมดอาย&#34;&gt;16. การแสดงเอกสารการรับรองถิ่นกำเนิดสินค้าหลังจากหมดอายุ&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;./img/2563-152png_Page17-3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h4 id=&#34;17-ของหลายรายการ&#34;&gt;17. ของหลายรายการ&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;./img/2563-152png_Page17-4.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h4 id=&#34;18-การซอขายผานประเทศทสาม&#34;&gt;18. การซื้อขายผ่านประเทศที่สาม&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;./img/2563-152png_Page17-5.png&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;./img/2563-152png_Page18-1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h4 id=&#34;19-back-to-back-proof-of-origin&#34;&gt;19. Back-to-Back Proof of Origin&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;./img/2563-152png_Page18-2.png&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;./img/2563-152png_Page19-1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h4 id=&#34;20-back-to-back-proof-of-origin-ควบคกบการซอขายผานประเทศทสาม&#34;&gt;20. Back-to-Back Proof of Origin ควบคู่กับการซื้อขายผ่านประเทศที่สาม&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;./img/2563-152png_Page19-2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h4 id=&#34;21-ของนำเขาผานประเทศทมไดเปนสมาชกอาเซยน&#34;&gt;21. ของนำเข้าผ่านประเทศที่มิได้เป็นสมาชิกอาเซียน&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;./img/2563-152png_Page19-3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h4 id=&#34;22-ของแสดงในงานนทรรศการ&#34;&gt;22. ของแสดงในงานนิทรรศการ&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;./img/2563-152png_Page19-4.png&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;./img/2563-152png_Page20-1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h4 id=&#34;23-การระงบสทธชวคราว&#34;&gt;23. การระงับสิทธิชั่วคราว&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;./img/2563-152png_Page20-2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h4 id=&#34;24-การผอนผนใหใชเอกสารการรบรองถนกำเนดสนคา&#34;&gt;24. การผ่อนผันให้ใช้เอกสารการรับรองถิ่นกำเนิดสินค้า&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;./img/2563-152png_Page21-1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h4 id=&#34;25-การวางประกนเพอโตแยงการจำแนกพกดศลกากร&#34;&gt;25. การวางประกันเพื่อโต้แย้งการจำแนกพิกัดศุลกากร&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;./img/2563-152png_Page21-2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h4 id=&#34;26-การขอคนอากรภายหลงการนำเขา&#34;&gt;26. การขอคืนอากรภายหลังการนำเข้า&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;./img/2563-152png_Page21-3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h4 id=&#34;27-หลกฐานการรบรองถนกำเนดสนคาภายใตเงอนไข-back-to-back-กรณ-re-export&#34;&gt;27. หลักฐานการรับรองถิ่นกำเนิดสินค้าภายใต้เงื่อนไข Back-to-Back กรณี Re-export&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;./img/2563-152png_Page21-4.png&#34; alt=&#34;&#34;&gt;
-&lt;img src=&#34;./img/2563-152png_Page22-1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h4 id=&#34;28-การนำของเขาในลกษณะของกอง&#34;&gt;28. การนำของเข้าในลักษณะของกอง&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;./img/2563-152png_Page22-2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;หมวด-4-บทเฉพาะกาล&#34;&gt;หมวด 4 บทเฉพาะกาล&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;./img/2563-152png_Page22-3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;hr&gt;
 &lt;h2 id=&#34;ประกาศ--กฎหมาย-ทเกยวของ&#34;&gt;ประกาศ / กฎหมาย ที่เกี่ยวข้อง&lt;/h2&gt;
 
 
@@ -521,6 +474,8 @@
   &lt;div class=&#34;book-tabs-content markdown-inner&#34;&gt;
     &lt;h4 id=&#34;ประกาศกระทรวงการคลง&#34;&gt;ประกาศกระทรวงการคลัง&lt;/h4&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142329324146505f47464b48464b4d&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน ลงวันที่ 28 ธันวาคม 2564&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14232832414d505f4c464b49464b48&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน ลงวันที่ 18 กันยายน 2563 (ฉบับที่ 2)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14223132414c505e4f464a4e464b48&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน ลงวันที่ 10 พฤศจิกายน 2560&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142231324149505f46464b4a464b4b&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน (30 ธันวาคม 2559)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142231324147505f49464b49464b49&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน (ฉบับที่ 2)&lt;/a&gt;&lt;/li&gt;
@@ -543,6 +498,30 @@
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;229/.2564&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142329324146505f46464b48464b46&#34;&gt;หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;149/.2564&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232932404f505f46464b4a464b4a&#34;&gt;การแสดงหนังสือรับรองถิ่นกำเนิดสินค้าและคำรับรองถิ่นกำเนิดสินค้า สำหรับผู้นำของเข้า ที่ได้รับผลกระทบจากการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019 (โควิด-19&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;84/.2564&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232932404e505f47464b4a464b4d&#34;&gt;แก้ไขเพิ่มเติมประกาศกรมศุลกากร ที่ 152/2563&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;50/.2564&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832414d505f4b464b4d464b48&#34;&gt;การแสดงหนังสือรับรองถิ่นกำเนิดสินค้า สำหรับผู้นำของเข้าที่ได้รับผลกระทบจากการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019(โควิด-19)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;203/.2563&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832414c505f4d464b48464b4b&#34;&gt;การแสดงหนังสือรับรองถิ่นกำเนิดสินค้า สำหรับผู้นำของเข้าที่ได้รับผลกระทบจากการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019 (โควิด-19)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;166/.2563&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832414c505f47464b48464b4a&#34;&gt;การแสดงหนังสือรับรองถิ่นกำเนิดสินค้า สำหรับผู้นำของเข้าที่ได้รับผลกระทบจากการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019(โควิด-19)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;152/.2563&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/post/announcement/customs/2563-152/2563-152.pdf&#34;&gt;หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน&lt;/a&gt;&lt;/td&gt;
@@ -609,7 +588,6 @@
 &lt;hr&gt;
 &lt;h3 id=&#34;ประกาศทเกยวของ&#34;&gt;ประกาศที่เกี่ยวข้อง&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/post/announcement/customs/2563-152/2563-152.pdf&#34;&gt;ประกาศกรมศุลกากรที่ 152/.2563 เรื่อง หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14223132414a505f4d464b4c464b46&#34;&gt;เอกสารประกอบการบรรยาย การสัมมนาเชิงปฏิบัติการหลักสูตร “การรับรองถิ่นกำเนิดสินค้าด้วยตนเอง (Self - Certification System โครงการที่ 1 และ 2 ) ของอาเซียน&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
@@ -680,9 +658,11 @@
   &lt;/label&gt;
   &lt;div class=&#34;book-tabs-content markdown-inner&#34;&gt;
     &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14232a32414b505f48464b4d&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-จีน&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142231324149505f46464b4a464b4c&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน-จีน (30 ธันวาคม 2559)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14223132414c505e4f464b46464b4a&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน - จีน ลงวันที่ 10 พฤศจิกายน 2560&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142329324146505f47464b49464a4f&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-จีน ลงวันที่ 28 ธันวาคม 2564&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14232932404e505f4c464a4f464b4d&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-จีน (ฉบับที่2)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14223132414c505e4f464b46464b4a&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน - จีน ลงวันที่ 10 พฤศจิกายน 2560&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142231324149505f46464b4a464b4c&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน-จีน (30 ธันวาคม 2559)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14232a32414b505f48464b4d&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-จีน ลงวันที่ 6 มกราคม 2555&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
   &lt;/div&gt;
@@ -711,6 +691,14 @@
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;218/.2564&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142329324146505f46464b47464b48&#34;&gt;หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-จีน&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;149/.2564&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232932404f505f46464b4a464b4a&#34;&gt;การแสดงหนังสือรับรองถิ่นกำเนิดสินค้าและคำรับรองถิ่นกำเนิดสินค้า สำหรับผู้นำของเข้า ที่ได้รับผลกระทบจากการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019 (โควิด-19&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;96/.2564&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232932404e505f49464b49464b48&#34;&gt;แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 132/.2562&lt;/a&gt;&lt;/td&gt;
@@ -892,6 +880,7 @@
   &lt;/label&gt;
   &lt;div class=&#34;book-tabs-content markdown-inner&#34;&gt;
     &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142329324146505f47464b4a464b48&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน - สาธารณรัฐเกาหลี ลงวันที่ 28 ธันวาคม 2564&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14232b324147505e4f464b4d&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-สาธารณรัฐเกาหลี&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14232b324147505f46464b46&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-สาธารณรัฐเกาหลี (ฉบับที่ 4)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14232b324147505f46464a4f&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-สาธารณรัฐเกาหลี (ฉบับที่ 3)&lt;/a&gt;&lt;/li&gt;
@@ -916,6 +905,14 @@
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;234/.2564&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142329324146505f46464b47464b4c&#34;&gt;หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราศุลกากรสำหรับเขตการค้าเสรีอาเซียน-สาธารณรัฐเกาหลี&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;149/.2564&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232932404f505f46464b4a464b4a&#34;&gt;การแสดงหนังสือรับรองถิ่นกำเนิดสินค้าและคำรับรองถิ่นกำเนิดสินค้า สำหรับผู้นำของเข้า ที่ได้รับผลกระทบจากการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019 (โควิด-19)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;50/.2564&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832414d505f4b464b4d464b48&#34;&gt;การแสดงหนังสือรับรองถิ่นกำเนิดสินค้า สำหรับผู้นำของเข้าที่ได้รับผลกระทบจากการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019(โควิด-19)&lt;/a&gt;&lt;/td&gt;
@@ -1019,8 +1016,11 @@
       
       <guid>https://ecs-support.github.io/KM/customs/pages/fta/ahk/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/asean-hong_kong.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;nav id=&#34;TableOfContents&#34;&gt;
+&lt;div class=&#34;toc collapsible-toc&#34;&gt;
+ &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
+ &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
+ 
+   &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
     &lt;li&gt;&lt;a href=&#34;#ความเปนมา&#34;&gt;ความเป็นมา&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#กฏวาดวยถนกาเนดสนคา&#34;&gt;กฏว่าด้วยถิ่นกําเนิดสินค้า&lt;/a&gt;&lt;/li&gt;
@@ -1036,7 +1036,10 @@
     &lt;li&gt;&lt;a href=&#34;#ประกาศ--กฎหมาย-ทเกยวของ&#34;&gt;ประกาศ / กฎหมาย ที่เกี่ยวข้อง&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
-&lt;!-- raw HTML omitted --&gt;
+   &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;br&gt;
+    &lt;/div&gt;
 &lt;h2 id=&#34;ความเปนมา&#34;&gt;ความเป็นมา&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;เมื่อเดือนพฤศจิกายน 2554 ฮ่องกงยื่นหนังสือแสดงเจตจํานงขอเข้าร่วมความตกลงการค้าเสรีอาเซียน-จีน (ACFTA)
@@ -1119,6 +1122,7 @@
   &lt;div class=&#34;book-tabs-content markdown-inner&#34;&gt;
     &lt;h4 id=&#34;ประกาศกระทรวงการคลง&#34;&gt;ประกาศกระทรวงการคลัง&lt;/h4&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142329324146505f47464b4a464a4f&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-ฮ่องกง ลงวันที่ 28 ธันวาคม 2564&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142328324147505f47464b46464b4d&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-ฮ่องกง&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -1138,6 +1142,42 @@
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;233/.2564&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142329324146505f46464b47464b4d&#34;&gt;หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราศุลกากรสำหรับเขตการค้าเสรีอาเซียน-ฮ่องกง&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;193/.2564&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142329324146505e4f464b46464b49&#34;&gt;แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 89/2562&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;149/.2564&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232932404f505f46464b4a464b4a&#34;&gt;การแสดงหนังสือรับรองถิ่นกำเนิดสินค้าและคำรับรองถิ่นกำเนิดสินค้า สำหรับผู้นำของเข้า ที่ได้รับผลกระทบจากการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019 (โควิด-19&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;50/.2564&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832414d505f4b464b4d464b48&#34;&gt;การแสดงหนังสือรับรองถิ่นกำเนิดสินค้า สำหรับผู้นำของเข้าที่ได้รับผลกระทบจากการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019(โควิด-19)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;27/.2564&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832414d505f48464b47464a4f&#34;&gt;แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 89/2562&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;203/.2563&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832414c505f46464a4f464b4d&#34;&gt;แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 89/2562&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;107/.2563&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832414b505f46464b4d464b4a&#34;&gt;แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 89/2562&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;93/.2563&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832414a505f4d464b4a464b4c&#34;&gt;แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 89/2562&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;57/.2563&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832414a505e4f464b4a464b4c&#34;&gt;แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 89/2562&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;89./2562&lt;/td&gt;
 &lt;td&gt;- &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142328324147505f47464b49464b49&#34;&gt; หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-ฮ่องกง&lt;/a&gt;&lt;/td&gt;
@@ -1243,6 +1283,7 @@
   &lt;/label&gt;
   &lt;div class=&#34;book-tabs-content markdown-inner&#34;&gt;
     &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142329324146505f47464b4a464b46&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน - สาธารณรัฐอินเดีย ลงวันที่ 28 ธันวาคม 2564&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14223132414c505e4f464b46464a4f&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน - สาธารณรัฐอินเดีย ลงวันที่ 10 พฤศจิกายน 2560&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142231324149505f46464b4b464b46&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน-สาธารณรัฐอินเดีย (30 ธันวาคม 2559)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142231324147505f49464b49464b4a&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-สาธารณรัฐอินเดีย&lt;/a&gt;&lt;/li&gt;
@@ -1263,6 +1304,26 @@
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;228/.2564&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142329324146505f46464b48464b47&#34;&gt;หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราศุลกากรสำหรับเขตการค้าเสรีอาเซียน-สาธารณรัฐอินเดีย&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;149/.2564&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232932404f505f46464b4a464b4a&#34;&gt;การแสดงหนังสือรับรองถิ่นกำเนิดสินค้าและคำรับรองถิ่นกำเนิดสินค้า สำหรับผู้นำของเข้า ที่ได้รับผลกระทบจากการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019 (โควิด-19&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;50/.2564&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832414d505f4b464b4d464b48&#34;&gt;การแสดงหนังสือรับรองถิ่นกำเนิดสินค้า สำหรับผู้นำของเข้าที่ได้รับผลกระทบจากการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019(โควิด-19)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;203/.2563&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832414c505f4d464b48464b4b&#34;&gt;การแสดงหนังสือรับรองถิ่นกำเนิดสินค้า สำหรับผู้นำของเข้าที่ได้รับผลกระทบจากการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019 (โควิด-19)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;166/.2563&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832414c505f47464b48464b4a&#34;&gt;การแสดงหนังสือรับรองถิ่นกำเนิดสินค้า สำหรับผู้นำของเข้าที่ได้รับผลกระทบจากการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019(โควิด-19)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;81/.2563&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832414a505f4a464b47464a4f&#34;&gt;การแสดงหนังสือรับรองถิ่นกำเนิดสินค้า สำหรับผู้นำของเข้าที่ได้รับผลกระทบจากการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019 (โควิด-19)&lt;/a&gt;&lt;/td&gt;
@@ -1390,6 +1451,7 @@
   &lt;div class=&#34;book-tabs-content markdown-inner&#34;&gt;
     &lt;h3 id=&#34;ประกาศกระทรวงการคลง&#34;&gt;ประกาศกระทรวงการคลัง&lt;/h3&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142329324146505f47464b4a464b47&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน - ญี่ปุ่น ลงวันที่ 28 ธันวาคม 2564&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142231324147505f49464b4c464a4e&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากญี่ปุ่น ลงวันที่ 10 พฤศจิกายน 2560&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142231324149505f46464b4a464b48&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากญี่ปุ่น (30 ธันวาคม 2559)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142231324147505f49464b4c464a4f&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากญี่ปุ่น (ฉบับที่ 2)&lt;/a&gt;&lt;/li&gt;
@@ -1412,6 +1474,26 @@
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;230/.2564&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142329324146505f46464b48464b4c&#34;&gt;หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราศุลกากรสำหรับเขตการค้าเสรีอาเซียน-ญี่ปุ่น&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;149/.2564&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232932404f505f46464b4a464b4a&#34;&gt;การแสดงหนังสือรับรองถิ่นกำเนิดสินค้าและคำรับรองถิ่นกำเนิดสินค้า สำหรับผู้นำของเข้า ที่ได้รับผลกระทบจากการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019 (โควิด-19)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;50/.2564&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832414d505f4b464b4d464b48&#34;&gt;การแสดงหนังสือรับรองถิ่นกำเนิดสินค้า สำหรับผู้นำของเข้าที่ได้รับผลกระทบจากการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019(โควิด-19)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;203/.2563&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832414c505f4d464b48464b4b&#34;&gt;การแสดงหนังสือรับรองถิ่นกำเนิดสินค้า สำหรับผู้นำของเข้าที่ได้รับผลกระทบจากการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019 (โควิด-19)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;166/.2563&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832414c505f47464b48464b4a&#34;&gt;การแสดงหนังสือรับรองถิ่นกำเนิดสินค้า สำหรับผู้นำของเข้าที่ได้รับผลกระทบจากการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019(โควิด-19)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;81/.2563&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832414a505f4a464b47464a4f&#34;&gt;การแสดงหนังสือรับรองถิ่นกำเนิดสินค้า สำหรับผู้นำของเข้าที่ได้รับผลกระทบจากการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019 (โควิด-19)&lt;/a&gt;&lt;/td&gt;
@@ -1452,8 +1534,7 @@
   &lt;div class=&#34;book-tabs-content markdown-inner&#34;&gt;
     &lt;h3 id=&#34;ประกาศสำนกพกดอตราศลกากร&#34;&gt;ประกาศสำนักพิกัดอัตราศุลกากร&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142231324147505f4d464a4e464a4e&#34;&gt;ประกาศสำนักพิกัดอัตราศุลกากร ที่ 1 /2555 เรื่อง การระบุพิกัดศุลกากรตามระบบฮาร์โมไนซ์ สำหรับสินค้าโควตาเหล็ก ภายใต้ความตกลงความเป็นหุ้นส่วนทางเศรษฐกิจไทย-ญี่ปุ่น&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14223132414d505f4b464b49464b46&#34;&gt;ประกาศสำนักพิกัดอัตราศุลกากรที่ ๕/๒๕๖๑ เรื่อง การสำแดงน้ำหนัก Net weight ในช่องที่ ๖ ของหนังสือรับรองถิ่นกำเนิดสินค้าภายใต้ความตกลงระหว่างราชอาณาจักรไทยและญี่ปุ่นสำหรับความเป็นหุ้นส่วนทางเศรษฐกิจ (Agreement between the Kingdom of Thailand and Japan for an Economic Partnership : JTEPA)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14232832414b505e4e464b48464b4a&#34;&gt;ประกาศกองพิกัดอัตราศุลกากร ที่ 4/2563 เรื่อง การใช้บัญชีราคาสินค้า (Invoice) ฉบับซื้อขายในประเทศ ประกอบการปฏิบัติพิธีการศุลกากร เพื่อขอรับสิทธิพิเศษทางภาษีศุลกากรภายใต้ความตกลงเขตการค้าเสรี&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
   &lt;/div&gt;
@@ -1583,10 +1664,12 @@
   &lt;div class=&#34;book-tabs-content markdown-inner&#34;&gt;
     &lt;h3 id=&#34;ประกาศกระทรวงการคลง&#34;&gt;ประกาศกระทรวงการคลัง&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/post/announcement/ministry/2563-08-new-zealand/&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากนิวซีแลนด์ (ฉบับที่ 2 ) ลงวันที่ 24 กรกฎาคม 2563 &lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14223132414c505e4f464a4f464b4c&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากนิวซีแลนด์ ลงวันที่ 10 พฤศจิกายน 2560&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142231324149505f46464b4a464b46&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากนิวซีแลนด์ (30 ธันวาคม 2559)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142231324147505f49464b4b464b4d&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากนิวซีแลนด์&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142329324146505f47464b4b464a4f&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากนิวซีแลนด์ ลงวันที่ 28 ธันวาคม 2564&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14223132414c505e4f464a4f464b4c&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากนิวซีแลนด์ ลงวันที่ 10 พฤศจิกายน 2560&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142231324149505f46464b4a464b46&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากนิวซีแลนด์ (30 ธันวาคม 2559)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142231324147505f49464b4b464b4d&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากนิวซีแลนด์&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14232932404f505e4f464b46464b4d&#34;&gt;การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากนิวซีแลนด์ (ฉบับที่ 2)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14232932404f505e4f464b47464a4e&#34;&gt;การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากนิวซีแลนด์ (ฉบับที่ 3)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
   &lt;/div&gt;
@@ -1605,6 +1688,10 @@
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;217/.2564&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142329324146505f46464b47464b47&#34;&gt;หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากนิวซีแลนด์&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;81/.2563&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832414a505f4a464b47464a4f&#34;&gt;การแสดงหนังสือรับรองถิ่นกำเนิดสินค้า สำหรับผู้นำของเข้าที่ได้รับผลกระทบจากการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019 (โควิด-19)&lt;/a&gt;&lt;/td&gt;
@@ -1743,6 +1830,7 @@
   &lt;div class=&#34;book-tabs-content markdown-inner&#34;&gt;
     &lt;h3 id=&#34;ประกาศกระทรวงการคลง&#34;&gt;ประกาศกระทรวงการคลัง&lt;/h3&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142329324146505f47464b4a464b4a&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากออสเตรเลีย ลงวันที่ 28 ธันวาคม 2564&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14232832414a505e4e464a4e464b48&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากออสเตรเลีย (ฉบับที่ 2) (ลงวันที่ 26 ธันวาคม 2561)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14223132414c505e4f464a4f464b4d&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากออสเตรเลีย ลงวันที่ 10 พฤศจิกายน 2560&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142231324149505f46464b4a464a4f&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากออสเตรเลีย (30 ธันวาคม 2559)&lt;/a&gt;&lt;/li&gt;
@@ -1765,6 +1853,10 @@
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;216/.2564&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142329324146505f46464b47464b46&#34;&gt;หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากออสเตรเลีย&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;81/.2563&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832414a505f4a464b47464a4f&#34;&gt;การแสดงหนังสือรับรองถิ่นกำเนิดสินค้า สำหรับผู้นำของเข้าที่ได้รับผลกระทบจากการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019 (โควิด-19)&lt;/a&gt;&lt;/td&gt;
