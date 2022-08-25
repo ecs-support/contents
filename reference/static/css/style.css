@@ -12,8 +12,11 @@ body {
 
 .table {
     table-layout: auto;
+    border: 1px solid rgba(0, 0, 0, .7);
     
 }
+
+
 .dataTables_length {
     margin-top: .5em;
     margin-bottom: .5em;
@@ -73,7 +76,9 @@ table.center {
 
 thead th {
     vertical-align: middle;
-    font-size: 1em;
+    font-family: "Kanit",
+    sans-serif;
+    font-size: 1.3em;
     font-weight: 500;
     background-color: #003366;
     color: white;
@@ -107,7 +112,7 @@ td {
 
 
 tr {
-    font-size: 1em;
+    font-size: 1.4em;
     vertical-align: middle;
 }
 
@@ -127,7 +132,7 @@ h2 {
 }
 
 .txt-update {
-    font-size: 1em;
+    font-size: 1.2em;
     font-weight: 600;    
 }
 .txt-update span {
