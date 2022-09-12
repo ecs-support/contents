@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Form test</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</head>
+<body>
+  <div class="pt-4"></div>
+<div class="container">
+  <div>
+    <h1 class="text-center">เอกสารแสดงความยินยอม (Consent Form)</h1><br>
+    <h3 >เอกสารแสดงความยินยอมในการเปิดเผยข้อมูลส่วนบุคคล</h3><br>
+    <p>อี-คัสตอม เซอร์วิส (“บริษัท”)
+        มีความมุ่งมั่นในการให้บริการแก่ท่านด้วยความปลอดภัยตามมาตรฐานของบริษัทและเสนอผลิตภัณฑ์และบริการที่เหมาะสมกับท่าน
+        เพื่อให้สอดคล้องกับกฎหมายและกฎระเบียบข้อบังคับที่เกี่ยวข้อง บริษัทจึงได้จัดทำหนังสือขอความยินยอมจากท่าน
+        ในการเก็บรวบรวม ใช้ เปิดเผยข้อมูลส่วนบุคคลของท่าน ที่ให้ไว้แก่บริษัทหรือที่บริษัทอาจเข้าถึงได้จากแหล่งอื่น
+        ดังรายละเอียดต่อไปนี้ </p>
+    
+  </div>
+  <form method="post" autocomplete="off" name="hello-sheet">
+    <div class="form-group">
+      <label for="name">ชื่อ สกุล</label>
+      <input type="text" class="form-control"  placeholder="ชื่อ สกุล" name="ชื่อ-สกุล">
+    </div>
+    <div class="form-group">
+    <label for="name">ชื่อเล่น</label>
+      <input type="text" class="form-control"  placeholder="ชื่อเล่น" name="ชื่อเล่น">
+    </div>
+     <div class="form-group">
+    <label for="name">เบอร์โทร</label>
+      <input type="text" class="form-control"  placeholder="เบอร์โทร" name="เบอร์โทร">
+    </div>
+  <div class="form-group">
+    <label for="exampleInputEmail1">อีเมล</label>
+    <input type="email" name="อีเมล" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="อีเมล">
+  </div>
+    
+  <button type="submit" name="submit" value="Send message" class="btn btn-primary">บันทึก</button>
+</form>
+</div>
+<script>
+            const scriptURL = 'https://script.google.com/macros/s/AKfycbygKWVjQjDCh63TMvA2ZQXL2G0q462TDs--sRn-ngsOP9xTdjrv4zMN075k9IM12Q0/exec'
+            const form = document.forms['hello-sheet']
+          
+            form.addEventListener('submit', e => {
+              e.preventDefault()
+              fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+                .then(response => alert("บันทึกข้อมูลเรียบร้อยแล้ว.."))
+                .catch(error => console.error('Error!', error.message))
+            })
+          </script>
+
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+</body>
+</html>

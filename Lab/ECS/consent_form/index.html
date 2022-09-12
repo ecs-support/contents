@@ -1,90 +1,82 @@
-<!-- https://ravindra24.com/how-to-submit-html-forms-data-to-google-sheet/ -->
 <!DOCTYPE html>
-<html lang="en">
+<html>
 
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, minimum-scale=1.0">
-    <title>Contact Us</title>
-    <link rel="shortcut icon" href="images/index.ico" type="image/x-icon">
-
-    <!-- CSS: Fontawesome -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <!-- CSS: Bootstrap v-5.3 -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css"
-        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-
+    <title>Form test</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
+    </script>
+    <link href="style.css" rel="stylesheet" />
+</head>
 
 <body>
-    <!-- space -->
-    <div class="py-lg-5 py-md-4 py-sm-3 py-2"></div>
-    <div class="row justify-content-center pt-5">
-        <div class="col-lg-7 col-md-10">
-            <h3 class="fw-normal text-center mb-5 border-bottom pb-2">Contact with Our Help Team</h3>
+    <div class="pt-4"></div>
+    <div class="container">
+        <div>
+            <h1 class="text-center">เอกสารแสดงความยินยอม (Consent Form)</h1><br>
+            <h3>เอกสารแสดงความยินยอมในการเปิดเผยข้อมูลส่วนบุคคล</h3><br>
+            <p>อี-คัสตอม เซอร์วิส (“บริษัท”)
+                มีความมุ่งมั่นในการให้บริการแก่ท่านด้วยความปลอดภัยตามมาตรฐานของบริษัทและเสนอผลิตภัณฑ์และบริการที่เหมาะสมกับท่าน
+                เพื่อให้สอดคล้องกับกฎหมายและกฎระเบียบข้อบังคับที่เกี่ยวข้อง บริษัทจึงได้จัดทำหนังสือขอความยินยอมจากท่าน
+                ในการเก็บรวบรวม ใช้ เปิดเผยข้อมูลส่วนบุคคลของท่าน
+                ที่ให้ไว้แก่บริษัทหรือที่บริษัทอาจเข้าถึงได้จากแหล่งอื่น
+                ดังรายละเอียดต่อไปนี้ </p>
+            
+                <iframe src="PDPA_policy.pdf" width="100%"
+                    height="1000px">
+                </iframe><br><br>
+                <p>อนึ่ง ก่อนให้ความยินยอม ข้าพเจ้าได้อ่านและเข้าใจข้อกำหนดและเงื่อนไขในการเปิดเผยข้อมูลส่วนบุคคล
+                    ซึ่งระบุไว้ด้านบนของความยินยอมนี้อย่างชัดเจนแล้ว</p><br>
 
-            <form class="form_overlay" method="POST" accept-charset="UTF-8" autocomplete="off" name="contact">
-                <div class="row g-4">
-                    <div class="col-lg-6">
-                        <div class="input_overlay">
-                            <label for="fname" class="lable">Enter your first name</label>
-                            <input type="text" name="first_name" class="form-control" required autocomplete="off">
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="input_overlay">
-                            <label for="lname" class="lable">Enter your last name</label>
-                            <input type="text" name="last_name" class="form-control" required autocomplete="off">
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="input_overlay">
-                            <label for="email" class="lable">Enter email address</label>
-                            <input type="text" name="email" class="form-control" required autocomplete="off">
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="input_overlay">
-                            <label for="phone" class="lable">Phone number</label>
-                            <input type="text" name="phone" class="form-control" required autocomplete="off">
-                        </div>
-                    </div>
-                    <div class="col-12">
-                        <div class="input_overlay">
-                            <label for="subject" class="lable">Subject name</label>
-                            <input type="text" name="subject" class="form-control" required autocomplete="off">
-                        </div>
-                    </div>
-                    <div class="col-12">
-                        <div class="input_overlay textarea">
-                            <label for="desc" class="lable">Description</label>
-                            <textarea name="description" cols="30" rows="4" class="form-control" required
-                                autocomplete="off"></textarea>
-                        </div>
-                    </div>
+        </div>
+        <form method="post" autocomplete="off" name="hello-sheet">
+            <div class="form-group">
+                <label for="name">ชื่อ สกุล</label>
+                <input type="text" class="form-control" placeholder="ชื่อ สกุล" name="ชื่อ-สกุล">
+            </div>
+          
+            <div class="form-group">
+                <label for="name">เบอร์โทร</label>
+                <input type="text" class="form-control" placeholder="เบอร์โทร" name="เบอร์โทร">
+            </div>
+            <div class="form-group">
+                <label for="exampleInputEmail1">อีเมล</label>
+                <input type="email" name="อีเมล" class="form-control" id="exampleInputEmail1"
+                    aria-describedby="emailHelp" placeholder="อีเมล">
+            </div>
+            <div class="form-group">
+            <fieldset>
+                <legend>ยินยอม ให้บริษัท เก็บรวบรวม ใช้ และเปิดเผยข้อมูลส่วนบุคคลเพื่อวัตถุประสงค์ทางการตลาด</legend>
 
-                    <div class="col-12 text-end">
-                        <button type="submit" class="btn btn-primary mt-3">Submit</button>
-                    </div>
-                    <p id="demo"></p>
+                <div>
+                    <input type="radio" id="huey" name="drone" value="huey" checked>
+                    <label for="huey">ให้ความยินยอม</label>
                 </div>
 
-            </form>
-        </div>
+                <div>
+                    <input type="radio" id="dewey" name="drone" value="dewey">
+                    <label for="dewey">ไม่ให้ความยินยอม</label>
+                </div>
+
+              
+            </fieldset>
+            </div>
+
+            <button type="submit" name="submit" value="Send message" class="btn btn-primary">บันทึก</button>
+        </form><br>
+        <p>​​​​​​​ทั้งนี้ ก่อนการแสดงเจตนา ข้าพเจ้าได้อ่านรายละเอียดจากเอกสารชี้แจงข้อมูล หรือได้รับคำอธิบายจากบริษัท
+            อี-คัสตอม เซอร์วิส จำกัด ถึงวัตถุประสงค์ในการเก็บรวบรวม ใช้หรือเปิดเผย (“ประมวลผล”) ข้อมูลส่วนบุคคล
+            และมีความเข้าใจดีแล้ว</p><br>
+            <p>ข้าพเจ้าให้ความยินยอมหรือปฏิเสธไม่ให้ความยินยอมในเอกสารนี้ด้วยความสมัครใจ ปราศจากการบังคับหรือชักจูง
+                และข้าพเจ้าทราบว่าข้าพเจ้าสามารถถอนความยินยอมนี้เสียเมื่อใดก็ได้เว้นแต่ในกรณีมีข้อจำกัดสิทธิตามกฎหมายหรือยังมีสัญญาระหว่างข้าพเจ้ากับบริษัท
+                อี-คัสตอม เซอร์วิส จำกัด​​​​​​​ ที่ให้ประโยชน์แก่ข้าพเจ้าอยู่</p>
     </div>
-
-
-    </main>
-
-
-
-
     <script>
         const scriptURL =
-            'https://script.google.com/macros/s/AKfycbyvuRDcxXtRtz4ePKzjFp34pftfLSWljkwgqKKcBwYFBov5-8ZmYMY-7x77Fo9Nd7w2/exec'
-
-
-        const form = document.forms['contact']
+            'https://script.google.com/macros/s/AKfycbygKWVjQjDCh63TMvA2ZQXL2G0q462TDs--sRn-ngsOP9xTdjrv4zMN075k9IM12Q0/exec'
+        const form = document.forms['hello-sheet']
 
         form.addEventListener('submit', e => {
             e.preventDefault()
@@ -92,14 +84,13 @@
                     method: 'POST',
                     body: new FormData(form)
                 })
-                .then(response => document.getElementById("demo").innerHTML =
-                    "<div class='alert alert-primary' role='alert'><b>Thank You for providing the details, We shall get back to you shortly !</b></div>",
-                    contact.reset())
+                .then(response => alert("บันทึกข้อมูลเรียบร้อยแล้ว.."))
                 .catch(error => console.error('Error!', error.message))
         })
     </script>
 
-
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 </body>
 
 </html>
