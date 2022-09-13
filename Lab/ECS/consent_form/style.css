@@ -13,11 +13,16 @@
 body {
     min-height: 100vh;
     width: 100%;
-    background: #c8e8e9;
+    background: lightgrey;
     display: flex;
     align-items: center;
     justify-content: center;
     letter-spacing: .5px;
+}
+h1 {
+    font-weight: 700;
+    font-size: 28px;
+    color: #34568B;
 }
 
 legend {
@@ -29,16 +34,31 @@ form {
     border: 1px solid lightgrey;
     align-items: center;
     justify-content: center;
-    padding: 20px 60px 30px 40px;
+    padding: 20px 30px 30px 40px;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
     border-radius: 6px;
 }
 .container {
-    width: 85%;
+    width: 95%;
     background: #fff;
     border-radius: 6px;
-    padding: 20px 60px 30px 40px;
+    padding: 20px 30px 60px 40px;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+.footer {
+
+    color:lightgrey;
+    text-align: right;
+
+}
+
+.head_contents {
+    padding: 30px 30px 30px 20px;
+
+}
+.pdf_content {
+    padding: 30px 30px 30px 20px;
+
 }
 
 .container .content {
