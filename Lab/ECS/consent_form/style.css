@@ -7,6 +7,7 @@
     box-sizing: border-box;
     font-family: "Kanit",    sans-serif;
     font-size: 18px;
+    font-weight: 400;
 }
 
 body {
@@ -20,6 +21,7 @@ body {
 }
 
 legend {
+    font-weight: 600;
     font-size: 19px;
 }
 
