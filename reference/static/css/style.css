@@ -13,6 +13,7 @@ body {
 .table {
     table-layout: auto;
     border: 1px solid rgba(0, 0, 0, .7);
+    padding-bottom: 1em;
     
 }
 
@@ -64,7 +65,16 @@ table.center {
     
 }
 
+.paginate_button {
+    padding-top: 2em;
 
+}
+
+.dataTables_info {
+    padding-top: 2em;
+    
+    }
+    
 .container-fluid {
     max-width: 100%;
     margin-top: 1em;  
@@ -133,7 +143,9 @@ h2 {
 
 .txt-update {
     font-size: 1.2em;
-    font-weight: 600;    
+    font-weight: 600;   
+    padding-top: 1em;  
+    padding-bottom: 1em;   
 }
 .txt-update span {
     background-color: #da532c;
