@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Source Themes Academia 4.3.1">
-  <meta name="generator" content="Hugo 0.83.1" />
+  <meta name="generator" content="Hugo 0.59.1" />
 
   
 
@@ -81,7 +81,7 @@
   
   
   
-  <link rel="stylesheet" href="/KM/customs/css/academia.min.21ea99570cf627cbfc87bc9f2ad15aa8.css">
+  <link rel="stylesheet" href="/KM/customs/css/academia.min.63f47c60ea5f0654672c5c92c082dae2.css">
 
   
     
@@ -92,9 +92,10 @@
     
     
     
-    <link rel="stylesheet" href="/KM/customs/css/academia.c314819be6171e5db0c364bfd5e2160b.css">
+    <link rel="stylesheet" href="/KM/customs/css/academia.8e7e7d4f5727c289dbe3c3e8c8235f37.css">
   
 
+  
   
   
   
@@ -142,7 +143,7 @@
 
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
 
-    <aside class="search-results" id="search">
+  <aside class="search-results" id="search">
   <div class="container">
     <section class="search-header">
 
@@ -172,12 +173,14 @@
     </section>
   </div>
 </aside>
- 
+
+
+  
 <nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
   <div class="container">
 
     
-      <a class="navbar-brand" href="/KM/customs/"><img src="/KM/customs/img/logo.png" alt="ECS"></a>
+      <a class="navbar-brand" href="/KM/customs/"><img src="/KM/customs/img/logo_ecs.png" alt="ECS"></a>
       
       <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation"><span><i class="fas fa-bars"></i></span>
       </button>
@@ -367,7 +370,9 @@
     </div>
   </div>
 </nav>
- <article class="article py-5" itemscope itemtype="http://schema.org/Article">
+
+
+  <article class="article py-5" itemscope itemtype="http://schema.org/Article">
 
     
 
@@ -481,17 +486,18 @@
      <div class="article-container">
 
         <div class="article-style" itemprop="articleBody">
-            <p><img src="featured.png" alt=""></p>
+            <p><img src="featured.png" alt="" /></p>
+
 <p>เพื่อเป็นการเพิ่มประสิทธิภาพให้ระบบคอมพิวเตอร์ของศุลกากรมีความสมบูรณ์ และเป็นประโยชน์ต่อผู้นำเข้าและพนักงานศุลกากรมากขึ้น ศุลกากรจึงแจ้งการตรวจสอบข้อมูลในระบบเพิ่มเติม โดยมีกำหนดเวลาเริ่มต้นและรายละเอียดในการตรวจสอบข้อมูลดังนี้</p>
+
 <ol>
-<li>
-<p>ตั้งแต่<em>วันที่ 8 พฤศจิกายน 2564</em> เป็นต้นไป โปรแกรมรับข้อมูลรายงานบัญชีสินค้า (Manifest) ในส่วนประเภทของขบวนการนำเข้า (Processing Indicator=23) สำหรับเอกสารรายงานบัญชีสินค้าทางเรือ (MMAN) เอกสารรายงานบัญชีสินค้าทางอากาศยาน (ABIL) เอกสารรายงานบัญชีสินค้าทางรถยนต์ (CMAN) โดยตรวจสอบข้อมูล รหัสโกดัง/รหัสสถานที่เก็บของ/รหัสสถานที่ตรวจปล่อย (Shed Number) กับแฟ้มข้อมูลอ้างอิง (REFARS) ให้<em>ตรวจสอบการเป็นสถานที่ตรวจปล่อยขาเข้า (Release Indicator Import= Y)</em>  <a href="https://ecs-support.github.io/KM/reference/area_code.html">**[ตรวจสอบข้อมูลสถานที่ตรวจปล่อย]**</a> หากพบว่ามีการส่งข้อมูลรหัสสถานที่ที่ไม่เป็นสถานที่ตรวจปล่อยขาเข้า เข้ามาให้แสดงข้อความผิดพลาด <em>“Shed Number is not Release Indicator Import”</em></p>
-</li>
-<li>
-<p>ตั้งแต่<em>วันที่ 1 ธันวาคม 2564</em> เป็นต้นไป ระบบ e-Import จะตรวจสอบข้อมูล <em>หน่วยน้ำหนักรวม (Gross Weight Unit)</em> ที่ระบุในใบขนสินค้าขาเข้าต้องตรงกับหน่วยน้ำหนักรวม (Gross Weight Unit) ของข้อมูลบัญชีสินค้า (Manifest) หากไม่ถูกต้องตรงกัน ระบบคอมพิวเตอร์ศุลกากรจะไม่ออกเลขที่ใบขนสินค้าให้และแจ้งข้อผิดพลาด (Response message error) เป็น <em>“Gross Weight Unit &lt;&gt; Manifest”</em> กลับไปให้ผู้นำของเข้าและตรวจสอบรหัสสถานที่ตรวจปล่อย ในระบบ e-Import ในการส่งข้อมูลใบขนสินค้ากับข้อมูลบัญชีสินค้า (Manifest) สำหรับใบขนสินค้านำเข้าจากต่างประเทศ (Type 0) ใบขนสินค้าขาเข้ารับของไปก่อน (Type 3) และใบขนสินค้าขาเข้าเร่งด่วน (Type X) ที่ขนส่งโดยสารทาง เรือ รถไฟ บก อากาศยาน ไปรษณีย์ และผู้โดยสารนำพา โดยตรวจสอบข้อมูล <em>รหัสสถานที่ตรวจปล่อย (Release Port)</em> ที่ระบุในใบขนสินค้าขาเข้า ต้องตรงกับข้อมูลรหัสโกดังหรือสถานที่เก็บของ(Shed Number /Release port) ที่ระบุในบัญชีสินค้า (Manifest) ที่ใบขนสินค้าอ้างถึงดังกล่าว หากไม่ถูกต้องตรงกัน ระบบคอมพิวเตอร์ศุลกากรจะไม่ออกเลขที่ใบขนสินค้าให้และแจ้งข้อผิดพลาด (Response message error) เป็น <em>“RELEASE PORT NOT MATCH WITH MANIFEST”</em> กลับไปให้ผู้นำของเข้า ทั้งนี้ท่านสามารถพิจารณาแก้ไขข้อผิดพลาดดังกล่าวได้ ตามภาพ</p>
-</li>
+<li><p>ตั้งแต่<em>วันที่ 8 พฤศจิกายน 2564</em> เป็นต้นไป โปรแกรมรับข้อมูลรายงานบัญชีสินค้า (Manifest) ในส่วนประเภทของขบวนการนำเข้า (Processing Indicator=23) สำหรับเอกสารรายงานบัญชีสินค้าทางเรือ (MMAN) เอกสารรายงานบัญชีสินค้าทางอากาศยาน (ABIL) เอกสารรายงานบัญชีสินค้าทางรถยนต์ (CMAN) โดยตรวจสอบข้อมูล รหัสโกดัง/รหัสสถานที่เก็บของ/รหัสสถานที่ตรวจปล่อย (Shed Number) กับแฟ้มข้อมูลอ้างอิง (REFARS) ให้<em>ตรวจสอบการเป็นสถานที่ตรวจปล่อยขาเข้า (Release Indicator Import= Y)</em>  <a href="https://ecs-support.github.io/KM/reference/area_code.html" target="_blank"><strong>[ตรวจสอบข้อมูลสถานที่ตรวจปล่อย]</strong></a> หากพบว่ามีการส่งข้อมูลรหัสสถานที่ที่ไม่เป็นสถานที่ตรวจปล่อยขาเข้า เข้ามาให้แสดงข้อความผิดพลาด <em>“Shed Number is not Release Indicator Import”</em></p></li>
+
+<li><p>ตั้งแต่<em>วันที่ 1 ธันวาคม 2564</em> เป็นต้นไป ระบบ e-Import จะตรวจสอบข้อมูล <em>หน่วยน้ำหนักรวม (Gross Weight Unit)</em> ที่ระบุในใบขนสินค้าขาเข้าต้องตรงกับหน่วยน้ำหนักรวม (Gross Weight Unit) ของข้อมูลบัญชีสินค้า (Manifest) หากไม่ถูกต้องตรงกัน ระบบคอมพิวเตอร์ศุลกากรจะไม่ออกเลขที่ใบขนสินค้าให้และแจ้งข้อผิดพลาด (Response message error) เป็น <em>“Gross Weight Unit &lt;&gt; Manifest”</em> กลับไปให้ผู้นำของเข้าและตรวจสอบรหัสสถานที่ตรวจปล่อย ในระบบ e-Import ในการส่งข้อมูลใบขนสินค้ากับข้อมูลบัญชีสินค้า (Manifest) สำหรับใบขนสินค้านำเข้าจากต่างประเทศ (Type 0) ใบขนสินค้าขาเข้ารับของไปก่อน (Type 3) และใบขนสินค้าขาเข้าเร่งด่วน (Type X) ที่ขนส่งโดยสารทาง เรือ รถไฟ บก อากาศยาน ไปรษณีย์ และผู้โดยสารนำพา โดยตรวจสอบข้อมูล <em>รหัสสถานที่ตรวจปล่อย (Release Port)</em> ที่ระบุในใบขนสินค้าขาเข้า ต้องตรงกับข้อมูลรหัสโกดังหรือสถานที่เก็บของ(Shed Number /Release port) ที่ระบุในบัญชีสินค้า (Manifest) ที่ใบขนสินค้าอ้างถึงดังกล่าว หากไม่ถูกต้องตรงกัน ระบบคอมพิวเตอร์ศุลกากรจะไม่ออกเลขที่ใบขนสินค้าให้และแจ้งข้อผิดพลาด (Response message error) เป็น <em>“RELEASE PORT NOT MATCH WITH MANIFEST”</em> กลับไปให้ผู้นำของเข้า ทั้งนี้ท่านสามารถพิจารณาแก้ไขข้อผิดพลาดดังกล่าวได้ ตามภาพ</p></li>
 </ol>
-<p><img src="img-01.jpg" alt=""></p>
+
+<p><img src="img-01.jpg" alt="" /></p>
+
 <blockquote>
 <p>ที่มา: กรมศุลกากร</p>
 </blockquote>
@@ -663,7 +669,9 @@
 
 
     </div>
-</article>     
+</article>
+
+      
 
     
     
@@ -766,7 +774,7 @@
     
     
     
-    <script src="/KM/customs/js/academia.min.b54456eaad925d8f482e6ebd04af2d6a.js"></script>
+    <script src="/KM/customs/js/academia.min.dca966bb8f6003a0d344f02446eafcac.js"></script>
 
 
     
@@ -780,18 +788,50 @@
 
 
 
-
+  
+  <div class="container">
+    <footer class="site-footer">
     <div class="container">
-
-
-
-
-
+        <div class="row">
+            <div class="col-md-6">
+                
+                <p>
+                    ECS@Support&copy;2022 &middot;  Powered by
+                    <a href="https://e-customs.co.th/", target=" _blank " rel="noopener ">Support Dept.</a>
+                </p>
+            </div>
+      
+        </div>
     </div>
+</footer>
+  </div>
+  
 
-
-
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
 
 </body>
-
 </html>
