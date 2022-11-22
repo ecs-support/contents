@@ -13,6 +13,7 @@
     
     
     <item>
+<<<<<<< HEAD
       <title>เขตการค้าเสรี (Free Trade Area)</title>
       <link>https://ecs-support.github.io/KM/customs/pages/fta/</link>
       <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
@@ -82,20 +83,31 @@
     </item>
     
     <item>
+=======
+>>>>>>> ecs_pc
       <title>แนวทางการจัดการปัญหาการนำเข้าสินค้าประเภทนม จากความตกลงเขตการค้าเสรี (FTA)</title>
       <link>https://ecs-support.github.io/KM/customs/post/knowledge/milk_wto_2021_02/</link>
       <pubDate>Mon, 22 Feb 2021 00:10:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/knowledge/milk_wto_2021_02/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;&lt;img src=&#34;./img/file-01jpg_Page1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/file-01jpg_Page2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/file-01jpg_Page3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/file-01jpg_Page4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+      <description>&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/file-01jpg_Page1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/file-01jpg_Page2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/file-01jpg_Page3.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/file-01jpg_Page4.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;div class=&#34;article-tags&#34;&gt;
+&lt;a class=&#34;badge badge-danger&#34; href=&#34;./file-01.pdf&#34; target=&#34;_blank&#34; id=&#34;download_files_new&#34;&gt;Download&lt;/a&gt;
+&lt;/div&gt;
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232832414d505f48464b4c464b46&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232832414d505f48464b4c464b46&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>

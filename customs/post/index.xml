@@ -18,6 +18,7 @@
       <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/law/oga/excise/2565/27/</guid>
+<<<<<<< HEAD
       <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดรหัสสินค้าสรรพสามิต สำหรับระบบแลกเปลี่ยนข้อมูลอิเล็กทรอนิกส์ (ELECTRONIC DATA INTERCHANGE) (ฉบับที่ 27) (น้ำมันดีเซล)&lt;/p&gt;
 &lt;p&gt;เพื่อให้รหัสสินค้าสรรพสามิตและอัตราภาษีสรรพสามิต  สำหรับระบบแลกเปลี่ยนข้อมูลอิเล็กทรอนิกส์ (ELECTRONIC DATA INTERCHANGE : EDI) ถูกต้องและเป็นปัจจุบัน อธิบดีกรมสรรพสามิตจึงกำหนดรหัสสินค้าสรรพสามิต รายการสินค้าสรรพสามิต และอัตราภาษีสรรพสามิต เฉพาะในส่วนของ&lt;em&gt;น้ำมันดีเซลที่มีปริมาณ กำมะถัน และน้ำมันดีเซลที่มีไบโอดีเซลประเภทเมทิลเอสเตอร์ของกรดไขมันผสมอยู่ ใน (1) (2) (5) (5/1) (5/2) (5/3) (5/4) และ (5/5) ของประเภทที่ 11.05 ไว้&lt;/em&gt;&lt;/p&gt;
@@ -25,6 +26,22 @@
 &lt;p&gt;&lt;img src=&#34;./img/docspng_Page2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;./img/docspng_Page3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;./img/docspng_Page4.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+=======
+      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดรหัสสินค้าสรรพสามิต สำหรับระบบแลกเปลี่ยนข้อมูลอิเล็กทรอนิกส์ (ELECTRONIC DATA INTERCHANGE) (ฉบับที่ 27) (น้ำมันดีเซล)&lt;/p&gt;
+
+&lt;p&gt;เพื่อให้รหัสสินค้าสรรพสามิตและอัตราภาษีสรรพสามิต  สำหรับระบบแลกเปลี่ยนข้อมูลอิเล็กทรอนิกส์ (ELECTRONIC DATA INTERCHANGE : EDI) ถูกต้องและเป็นปัจจุบัน อธิบดีกรมสรรพสามิตจึงกำหนดรหัสสินค้าสรรพสามิต รายการสินค้าสรรพสามิต และอัตราภาษีสรรพสามิต เฉพาะในส่วนของ&lt;em&gt;น้ำมันดีเซลที่มีปริมาณ กำมะถัน และน้ำมันดีเซลที่มีไบโอดีเซลประเภทเมทิลเอสเตอร์ของกรดไขมันผสมอยู่ ใน (1) (2) (5) (&lt;sup&gt;5&lt;/sup&gt;&amp;frasl;&lt;sub&gt;1&lt;/sub&gt;) (&lt;sup&gt;5&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2&lt;/sub&gt;) (&lt;sup&gt;5&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt;) (&lt;sup&gt;5&lt;/sup&gt;&amp;frasl;&lt;sub&gt;4&lt;/sub&gt;) และ (&lt;sup&gt;5&lt;/sup&gt;&amp;frasl;&lt;sub&gt;5&lt;/sub&gt;) ของประเภทที่ 11.05 ไว้&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;ประกาศนี้ให้บังคับตั้งแต่&lt;em&gt;วันที่ 21 พฤศจิกายน พ.ศ. 2565 เป็นต้นไป&lt;/em&gt; ทาง ECS ได้ทำการอัพเดทข้อมูลอัตราภาษีสรรพสามิต ตามประกาศดังกล่าวให้ผู้ใช้งานโดยอัตโนมัติแล้ว&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/docspng_Page2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/docspng_Page3.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/docspng_Page4.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+>>>>>>> ecs_pc
 
 
 &lt;br&gt;
@@ -37,8 +54,14 @@
 &lt;br&gt;
 
 
+<<<<<<< HEAD
 &lt;blockquote&gt;
 &lt;p&gt;ที่มา : &lt;a href=&#34;https://lawelcs.excise.go.th/api/api/pdfviewer/4440&#34;&gt;กรมสรรพสามิต&lt;/a&gt;&lt;/p&gt;
+=======
+
+&lt;blockquote&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://lawelcs.excise.go.th/api/api/pdfviewer/4440&#34; target=&#34;_blank&#34;&gt;กรมสรรพสามิต&lt;/a&gt;&lt;/p&gt;
+>>>>>>> ecs_pc
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -58,22 +81,41 @@
       <pubDate>Fri, 11 Nov 2022 06:10:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/law/oga/2565/11-11/</guid>
+<<<<<<< HEAD
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;
 &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;ประกาศกระทรวงสาธารณสุข เรื่อง กำหนดสารป้องกันแสงแดดที่อาจใช้เป็นส่วนผสมในการผลิตเครื่องสําอาง (ฉบับที่ 4) พ.ศ. 2565 อาศัยอำนาจตามความในมาตรา 5 วรรคหนึ่ง และมาตรา 6 (2) และ (3) แห่งพระราชบัญญัติเครื่องสําอาง พ.ศ. 2558 รัฐมนตรีว่าการกระทรวงสาธารณสุข โดยคำแนะนําของคณะกรรมการเครื่องสําอางออกประกาศไว้ดังต่อไปนี้&lt;/p&gt;
 &lt;p&gt;ข้อให้เพิ่มความต่อไปนี้เป็นช่องลำดับที่ 30 แห่งบัญชีแนบท้ายประกาศกระทรวงสาธารณสุข เรื่อง กำหนดสารป้องกันแสงแดดที่อาจใช้เป็นส่วนผสมในการผลิตเครื่องสําอาง พ.ศ. 2562 ลงวันที่ 18 กุมภาพันธ์ พ.ศ. 2562&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;img.jpg&#34; alt=&#34;&#34;&gt;
+=======
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;
+&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;ประกาศกระทรวงสาธารณสุข เรื่อง กำหนดสารป้องกันแสงแดดที่อาจใช้เป็นส่วนผสมในการผลิตเครื่องสําอาง (ฉบับที่ 4) พ.ศ. 2565 อาศัยอำนาจตามความในมาตรา 5 วรรคหนึ่ง และมาตรา 6 (2) และ (3) แห่งพระราชบัญญัติเครื่องสําอาง พ.ศ. 2558 รัฐมนตรีว่าการกระทรวงสาธารณสุข โดยคำแนะนําของคณะกรรมการเครื่องสําอางออกประกาศไว้ดังต่อไปนี้&lt;/p&gt;
+
+&lt;p&gt;ข้อให้เพิ่มความต่อไปนี้เป็นช่องลำดับที่ 30 แห่งบัญชีแนบท้ายประกาศกระทรวงสาธารณสุข เรื่อง กำหนดสารป้องกันแสงแดดที่อาจใช้เป็นส่วนผสมในการผลิตเครื่องสําอาง พ.ศ. 2562 ลงวันที่ 18 กุมภาพันธ์ พ.ศ. 2562&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img.jpg&#34; alt=&#34;&#34; /&gt;
+>>>>>>> ecs_pc
 
 
 
 &lt;br&gt;&lt;br&gt;
 &lt;/p&gt;
+<<<<<<< HEAD
+=======
+
+>>>>>>> ecs_pc
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;800&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> ecs_pc
 &lt;br&gt;
 
 &lt;br&gt;
@@ -93,7 +135,8 @@
       <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/law/customs/2565/137/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 &lt;p&gt;
 
 &lt;br&gt;
@@ -103,15 +146,29 @@
 &lt;strong&gt;ประกาศกรมศุลกากรที่ 137/.2565 เรื่อง แก้ไขประกาศกรมศุลกากรที่ 201/.2564 (การเชื่อมโยงข้อมูลใบอนุญาตหรือใบรับรองอิเล็กทรอนิกส์)&lt;/strong&gt;&lt;/p&gt;
 
 
+<<<<<<< HEAD
 &lt;br&gt;
 
 &lt;p&gt;ตามประกาศกรมศุลกากร ที่ 131/2561 เรื่อง การปฏิบัติพิธีการศุลกากรทางอิเล็กทรอนิกส์ สำหรับการเชื่อมโยงข้อมูลตามกฎหมายอื่นที่เกี่ยวข้องกับการศุลกากร อธิบดีกรมศุลกากร โดยผู้อำนวยการสำนักเทคโนโลยีสารสนเทศและการสื่อสารจัดทำประกาศกรมศุลกากร แจ้งให้ทราบถึงรหัสพิกัดศุลกากร และรหัสสถิติ รายการสินค้า ที่ต้องทำการเชื่อมโยงข้อมูลใบอนุญาตหรือใบรับรองอิเล็กทรอนิกส์ผ่านระบบ National Single Window (NSW) ก่อนการส่งข้อมูลใบขนสินค้า จึงออกประกาศไว้ ดังต่อไปนี้&lt;/p&gt;
 &lt;p&gt;ข้อ 1 ให้ยกเลิกการเชื่อมโยงข้อมูลใบอนุญาต/ใบรับรองอิเล็กทรอนิกส์ ในบัญชีแนบท้ายประกาศกรมศุลกากรที่ 201/2564 เรื่อง การเชื่อมโยงข้อมูลใบอนุญาต/ใบรับรองอิเล็กทรอนิกส์ร่วมกับ &lt;em&gt;กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช&lt;/em&gt; ลำดับที่ 2 พิกัดศุลกากร &lt;em&gt;0102.21.00 รหัสสถิติ 001&lt;/em&gt; ลำดับที่ 3 พิกัดศุลกากร &lt;em&gt;0102.21.00 รหัสสถิติ 002&lt;/em&gt; ลำดับที่ 9 พิกัดศุลกากร &lt;em&gt;0105.13.10 รหัสสถิติ 000&lt;/em&gt; ลำดับที่ 10 พิกัดศุลกากร &lt;em&gt;0105.99.10 รหัสสถิติ 000&lt;/em&gt; ลำดับที่ 28 พิกัดศุลกากร &lt;em&gt;0505.10.10 รหัสสถิติ 000&lt;/em&gt; และ ลำดับที่ 30 พิกัดศุลกากร &lt;em&gt;0505.90.10 รหัสสถิติ 000&lt;/em&gt; เนื่องจากไม่ได้เป็นสินค้าที่อยู่ในการควบคุมของกรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช แล้ว&lt;/p&gt;
 &lt;p&gt;ข้อ 2 ประกาศนี้ให้มีผลบังคับตั้งแต่ &lt;em&gt;วันที่ 7 พฤศจิกายน พ.ศ. 2565 เป็นต้นไป&lt;/em&gt;&lt;/p&gt;
+=======
+
+&lt;br&gt;
+
+
+&lt;p&gt;ตามประกาศกรมศุลกากร ที่ &lt;sup&gt;131&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2561&lt;/sub&gt; เรื่อง การปฏิบัติพิธีการศุลกากรทางอิเล็กทรอนิกส์ สำหรับการเชื่อมโยงข้อมูลตามกฎหมายอื่นที่เกี่ยวข้องกับการศุลกากร อธิบดีกรมศุลกากร โดยผู้อำนวยการสำนักเทคโนโลยีสารสนเทศและการสื่อสารจัดทำประกาศกรมศุลกากร แจ้งให้ทราบถึงรหัสพิกัดศุลกากร และรหัสสถิติ รายการสินค้า ที่ต้องทำการเชื่อมโยงข้อมูลใบอนุญาตหรือใบรับรองอิเล็กทรอนิกส์ผ่านระบบ National Single Window (NSW) ก่อนการส่งข้อมูลใบขนสินค้า จึงออกประกาศไว้ ดังต่อไปนี้&lt;/p&gt;
+
+&lt;p&gt;ข้อ 1 ให้ยกเลิกการเชื่อมโยงข้อมูลใบอนุญาต/ใบรับรองอิเล็กทรอนิกส์ ในบัญชีแนบท้ายประกาศกรมศุลกากรที่ &lt;sup&gt;201&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2564&lt;/sub&gt; เรื่อง การเชื่อมโยงข้อมูลใบอนุญาต/ใบรับรองอิเล็กทรอนิกส์ร่วมกับ &lt;em&gt;กรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช&lt;/em&gt; ลำดับที่ 2 พิกัดศุลกากร &lt;em&gt;0102.21.00 รหัสสถิติ 001&lt;/em&gt; ลำดับที่ 3 พิกัดศุลกากร &lt;em&gt;0102.21.00 รหัสสถิติ 002&lt;/em&gt; ลำดับที่ 9 พิกัดศุลกากร &lt;em&gt;0105.13.10 รหัสสถิติ 000&lt;/em&gt; ลำดับที่ 10 พิกัดศุลกากร &lt;em&gt;0105.99.10 รหัสสถิติ 000&lt;/em&gt; ลำดับที่ 28 พิกัดศุลกากร &lt;em&gt;0505.10.10 รหัสสถิติ 000&lt;/em&gt; และ ลำดับที่ 30 พิกัดศุลกากร &lt;em&gt;0505.90.10 รหัสสถิติ 000&lt;/em&gt; เนื่องจากไม่ได้เป็นสินค้าที่อยู่ในการควบคุมของกรมอุทยานแห่งชาติ สัตว์ป่า และพันธุ์พืช แล้ว&lt;/p&gt;
+
+&lt;p&gt;ข้อ 2 ประกาศนี้ให้มีผลบังคับตั้งแต่ &lt;em&gt;วันที่ 7 พฤศจิกายน พ.ศ. 2565 เป็นต้นไป&lt;/em&gt;&lt;/p&gt;
+
+>>>>>>> ecs_pc
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;800&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 
 &lt;br&gt;
@@ -124,8 +181,9 @@
 &lt;br&gt;
 
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324149505e4e464a4f464b49&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324149505e4e464a4f464b49&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -145,6 +203,7 @@
       <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/law/customs/2565/134/</guid>
+<<<<<<< HEAD
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 
@@ -204,12 +263,40 @@
 &lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;และให้ถือราคาที่ประกาศนี้เป็นเกณฑ์ประเมินเงินอากรขาออก ตั้งแต่&lt;em&gt;วันที่ 1 พฤศจิกายน พ.ศ. 2565 เป็นต้นไป&lt;/em&gt;&lt;/p&gt;
+=======
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+
+
+&lt;br&gt;
+&lt;br&gt;
+
+
+
+&lt;h2 id=&#34;ประกาศกรมศ-ลกากรท-134-2565-เร-อง-การเช-อมโยงข-อม-ลใบอน-ญาต-ร-วมก-บสำน-กงานมาตรฐานผล-ตภ-ณฑ-อ-ตสาหกรรม&#34;&gt;ประกาศกรมศุลกากรที่ 134/.2565 เรื่อง การเชื่อมโยงข้อมูลใบอนุญาต ร่วมกับสำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม&lt;/h2&gt;
+
+
+
+&lt;br&gt;
+
+
+&lt;p&gt;กรมศุลกากรเผยแพร่ ประกาศกรมศุลกากรที่ 134/.2565 เรื่อง การเชื่อมโยงข้อมูลใบอนุญาต/ใบรับรองอิเล็กทรอนิกส์ ร่วมกับ&lt;em&gt;สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม&lt;/em&gt; ให้มีผลบังคับตั้งแต่&lt;em&gt;วันที่ 21 ธันวาคม พ.ศ. 2565&lt;/em&gt; เป็นต้นไป&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+>>>>>>> ecs_pc
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;800&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> ecs_pc
 &lt;br&gt;
 
 &lt;br&gt;
@@ -220,8 +307,14 @@
 &lt;br&gt;
 
 
+<<<<<<< HEAD
 &lt;blockquote&gt;
 &lt;p&gt;ที่มา : &lt;a href=&#34;https://customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324148505f4d464b47464b46&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+=======
+
+&lt;blockquote&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.customs.go.th%2Fcont_strc_download_with_docno_date.php%3Flang%3Dth%26top_menu%3Dmenu_homepage%26current_id%3D142329324148505f4d464b48464b46&amp;amp;data=05%7C01%7Csarawut.w%40ecs-team.com%7Cb77973d6514543cdd39808dab2500eb9%7C5e2938024811495589db40264ed84eb0%7C0%7C0%7C638018354552227801%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;amp;sdata=TkgnqIityNRn0l5pnn%2F4acW4lhcRfaSZm9DdDWwgJhA%3D&amp;amp;reserved=0&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+>>>>>>> ecs_pc
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -232,7 +325,8 @@
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/law/customs/2565/97/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 &lt;p&gt;
 
 &lt;br&gt;
@@ -242,7 +336,9 @@
 &lt;strong&gt;ประกาศกรมศุลกากรที่ 97/.2565 เรื่อง จรรยาบรรณและการดำเนินการเกี่ยวกับการพักใช้ และเพิกถอนการอนุญาตตัวแทนออกของและผู้ปฏิบัติงานเกี่ยวกับการออกของ&lt;/strong&gt;&lt;/p&gt;
 
 
+
 &lt;br&gt;
+
 
 
 
@@ -250,6 +346,7 @@
   &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;800&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 
 &lt;br&gt;
@@ -262,8 +359,9 @@
 &lt;br&gt;
 
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324147505f4d464b48464a4e&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324147505f4d464b48464a4e&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -274,7 +372,8 @@
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/law/customs/2565/96/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 &lt;p&gt;
 
 &lt;br&gt;
@@ -284,7 +383,9 @@
 &lt;strong&gt;ประกาศกรมศุลกากรที่ 96/.2565 เรื่อง ระเบียบปฏิบัติเกี่ยวกับตัวแทนออกของและผู้ปฏิบัติงานเกี่ยวกับการออกของ&lt;/strong&gt;&lt;/p&gt;
 
 
+
 &lt;br&gt;
+
 
 
 
@@ -292,6 +393,7 @@
   &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;800&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 
 &lt;br&gt;
@@ -304,8 +406,9 @@
 &lt;br&gt;
 
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324147505f4d464b47464b4d&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324147505f4d464b47464b4d&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -316,7 +419,8 @@
       <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/law/customs/2565/94/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 &lt;p&gt;
 
 &lt;br&gt;
@@ -326,7 +430,9 @@
 &lt;strong&gt;ประกาศกรมศุลกากรที่ 94/.2565 เรื่อง การลงทะเบียนผู้ปฏิบัติพิธีการศุลกากรหรือดำเนินการในกระบวนการทางศุลกากร (ฉบับที่ 2)&lt;/strong&gt;&lt;/p&gt;
 
 
+
 &lt;br&gt;
+
 
 
 
@@ -334,6 +440,7 @@
   &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;800&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 
 &lt;br&gt;
@@ -346,8 +453,9 @@
 &lt;br&gt;
 
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324147505f4d464b47464b4b&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324147505f4d464b47464b4b&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -358,7 +466,8 @@
       <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/law/oga/tisi/2565/04-18/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 &lt;p&gt;
 
 &lt;br&gt;
@@ -366,16 +475,20 @@
 
 
 &lt;strong&gt;กฎกระทรวง กำหนดให้ผลิตภัณฑ์อุตสาหกรรมภาชนะและเครื่องใช้พลาสติกสำหรับอาหาร ต้องเป็นไปตามมาตรฐาน พ.ศ. 2565&lt;/strong&gt;&lt;/p&gt;
+
 &lt;p&gt;เนื่องจากผลิตภัณฑ์อุตสาหกรรมภาชนะและเครื่องใช้พลาสติกสำหรับอาหาร ที่วางจำหน่ายในท้องตลาดมีปริมาณสารตกค้างที่เป็นอันตรายต่อผู้บริโภค จึงจำเป็นต้องควบคุมผลิตภัณฑ์อุตสาหกรรมดังกล่าว เพื่อความปลอดภัยและป้องกันความเสียหายอันอาจจะเกิดแก่ประชาชน กิจการอุตสาหกรรม และเศรษฐกิจของประเทศ สมควรกำหนดให้ผลิตภัณฑ์อุตสาหกรรมภาชนะและเครื่องใช้พลาสติกสำหรับอาหาร ต้องเป็นไปตามมาตรฐานจึงจำเป็นต้องออก กฎกระทรวง กำหนดให้ผลิตภัณฑ์อุตสาหกรรม&lt;em&gt;ภาชนะและเครื่องใช้พลาสติกสำหรับอาหาร&lt;/em&gt; ต้องเป็นไปตามมาตรฐาน พ.ศ. 2565 กฎกระทรวงนี้ให้ใช้บังคับเมื่อพ้นกำหนด&lt;em&gt;สองร้อยเจ็ดสิบวัน&lt;/em&gt; นับแต่วันประกาศในราชกิจจานุเบกษาเป็นต้นไป&lt;/p&gt;
 
 
+
 &lt;br&gt;
+
 
 
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;800&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 
 &lt;br&gt;
@@ -397,7 +510,8 @@
       <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/law/customs/2565/49/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 &lt;p&gt;
 
 &lt;br&gt;
@@ -405,67 +519,82 @@
 
 
 &lt;strong&gt;ประกาศกรมศุลกากรที่ 49/.2565 เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไข การปฏิบัติพิธีการศุลกากรในการยกเว้นอากรศุลกากร สำหรับของที่นําเข้ามาเพื่อผลิตเป็นหน้ากาก&lt;/strong&gt; มีรายละเอียดที่สำคัญดังนี้&lt;/p&gt;
+
 &lt;p&gt;&lt;strong&gt;ข้อ 1&lt;/strong&gt; กำหนดให้ยกเว้นอากรสำหรับของไม่ว่าจะจัดอยู่ในพิกัดประเภทใดที่นําเข้ามาเพื่อผลิตเป็นหน้ากากชนิดที่ใช้ในห้องผ่าตัด ตามประเภทย่อย 6307.90.40 หน้ากากกรองเชื้อโรค หน้ากากทางการแพทย์นอกจากหน้ากากชนิดที่ใช้ในห้องผ่าตัด และหน้ากากกรองฝุ่น หมอกควัน หรือสารพิษ บรรดาที่เป็นอุปกรณ์เพื่อความปลอดภัยตามประเภทย่อย 6307.90.90 การยกเว้นอากร และการกำหนดให้ของที่ได้รับการยกเว้นอากร ให้เป็นไปตามหลักเกณฑ์ และเงื่อนไข ดังต่อไปนี้&lt;/p&gt;
+
 &lt;ol&gt;
 &lt;li&gt;ของที่ได้รับการยกเว้นอากรจะต้องนําไปใช้ผลิตหน้ากากชนิดที่ใช้ในห้องผ่าตัด ตามประเภทย่อย 6307.90.40 หน้ากากกรองเชื้อโรค หน้ากากทางการแพทย์นอกจากหน้ากากชนิดที่ใช้ ในห้องผ่าตัด และหน้ากากกรองฝุ่น หมอกควัน หรือสารพิษ บรรดาที่เป็นอุปกรณ์เพื่อความปลอดภัย ตามประเภทย่อย 6307.90.90 ภายในกำหนดเวลาหนึ่งปีนับแต่วันที่นําของเข้า หากปรากฏในภายหลังว่า ของที่ได้รับการยกเว้นอากรไม่สามารถหรือมิได้นําไปใช้ผลิต ภายในกำหนดเวลาหนึ่งปีนับแต่วันที่นําของเข้า ผู้นําของเข้าจะต้องชําระอากรตามปกติ หรือส่งของนั้นออกไปนอกราชอาณาจักร หากมีเหตุจำเป็นต้องขยายระยะเวลาให้ขอต่ออธิบดีกรมศุลกากรก่อนครบกำหนดดังกล่าว อธิบดีกรมศุลกากรอาจอนุญาตให้ขยายเวลาได้ไม่เกินหกเดือน&lt;/li&gt;
 &lt;li&gt;ผู้ขอใช้สิทธิต้องได้รับอนุมัติจากอธิบดีกรมศุลกากร&lt;/li&gt;
 &lt;/ol&gt;
+
 &lt;p&gt;&lt;strong&gt;ข้อ 2&lt;/strong&gt; เพื่อการพิจารณาอนุมัติให้ยกเว้นอากรศุลกากร ให้ผู้นําของเข้ายื่นคําร้องขอยกเว้นอากร พร้อมเอกสารหรือหลักฐาน ดังต่อไปนี้&lt;/p&gt;
+
 &lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;กรณีผู้นําของเข้าเป็นผู้ประกอบการอุตสาหกรรมผลิตหน้ากากชนิดที่ใช้ในห้องผ่าตัด ตามประเภทย่อย 6307.90.40 หน้ากากกรองเชื้อโรค หน้ากากทางการแพทย์นอกจากหน้ากากชนิดที่ใช้ ในห้องผ่าตัด และหน้ากากกรองฝุ่น หมอกควัน หรือสารพิษ บรรดาที่เป็นอุปกรณ์เพื่อความปลอดภัย ตามประเภทย่อย 6307.90.90 ให้ใช้เอกสารหรือหลักฐาน เฉพาะในการนําเข้าครั้งแรกดังต่อไปนี้&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;กรณีผู้นําของเข้าเป็นผู้ประกอบการอุตสาหกรรมผลิตหน้ากากชนิดที่ใช้ในห้องผ่าตัด ตามประเภทย่อย 6307.90.40 หน้ากากกรองเชื้อโรค หน้ากากทางการแพทย์นอกจากหน้ากากชนิดที่ใช้ ในห้องผ่าตัด และหน้ากากกรองฝุ่น หมอกควัน หรือสารพิษ บรรดาที่เป็นอุปกรณ์เพื่อความปลอดภัย ตามประเภทย่อย 6307.90.90 ให้ใช้เอกสารหรือหลักฐาน เฉพาะในการนําเข้าครั้งแรกดังต่อไปนี้&lt;/p&gt;
+
 &lt;ul&gt;
 &lt;li&gt;หนังสือรับรองจากกระทรวงอุตสาหกรรม หรือใบรับแจ้งการประกอบกิจการ โรงงานจำพวกที่ 2 (ร.ง. 2) หรือใบอนุญาตประกอบกิจการโรงงาน (ร.ง. 4) หรือหนังสือรับรองการประกอบ กิจการโรงงานในเขตประกอบการอุตสาหกรรมตามมาตรา 30 แห่งพระราชบัญญัติโรงงาน พ.ศ. 2535 (แบบ ข.2) หรือใบแจ้งการประกอบอุตสาหกรรมในนิคมอุตสาหกรรม (กนอ.03/2) หรือหนังสือรับแจ้ง การประกอบอุตสาหกรรม หรือใบอนุญาตให้ใช้ที่ดินและประกอบกิจการในนิคมอุตสาหกรรม (ฉบับต่ออายุ) (กนอ.03/6) ของผู้นําของเข้า&lt;/li&gt;
 &lt;li&gt;เอกสารแสดงกำลังการผลิตเต็มที่ของโรงงานต่อปี&lt;/li&gt;
 &lt;li&gt;เอกสารแสดงการรับรองตนเองของผู้ประกอบอุตสาหกรรมผลิตหน้ากาก ตามแบบแนบท้ายประกาศนี้ ว่าของที่นําเข้ามาจะนําไปผลิตเป็นหน้ากากชนิดที่ใช้ในห้องผ่าตัดตาม ประเภทย่อย 6307.90.40 หน้ากากกรองเชื้อโรค หน้ากากทางการแพทย์นอกจากหน้ากากชนิดที่ใช้ ในห้องผ่าตัด และหน้ากากกรองฝุ่น หมอกควัน หรือสารพิษ บรรดาที่เป็นอุปกรณ์เพื่อความปลอดภัย ตามประเภทย่อย 6307.90.90 เท่านั้น&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;ในการนําเข้าทุกครั้งให้ยื่นหรือแสดงเอกสารหรือหลักฐาน ดังต่อไปนี้&lt;/p&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;ในการนําเข้าทุกครั้งให้ยื่นหรือแสดงเอกสารหรือหลักฐาน ดังต่อไปนี้&lt;/p&gt;
+
 &lt;ul&gt;
-&lt;li&gt;เอกสารแสดงรายชื่อและที่อยู่ของผู้ประกอบอุตสาหกรรมผลิตหน้ากากที่เป็นลูกค้า ในการซื้อของที่ขอยกเว้นอากรศุลกากร&lt;/li&gt;
-&lt;li&gt;เอกสารแสดงการรับรองตนเองของผู้นําของเข้าตามแบบแนบท้ายประกาศนี้ ว่าของที่นําเข้ามาจะนําไปผลิตเป็นหน้ากากชนิดที่ใช้ในห้องผ่าตัดตามประเภทย่อย 6307.90.40 หน้ากาก กรองเชื้อโรค หน้ากากทางการแพทย์นอกจากหน้ากากชนิดที่ใช้ในห้องผ่าตัดและหน้ากากกรองฝุ่น หมอกควัน หรือสารพิษ บรรดาที่เป็นอุปกรณ์เพื่อความปลอดภัยตามประเภทย่อย 6307.90.90 เท่านั้น&lt;/li&gt;
-&lt;li&gt;หนังสือรับรองจากกระทรวงอุตสาหกรรม หรือใบรับแจ้งการประกอบกิจการ โรงงานจำพวกที่ 2 (ร.ง. 2) หรือใบอนุญาตประกอบกิจการโรงงาน (ร.ง. 4) หรือหนังสือรับรองการประกอบกิจการ โรงงานในเขตประกอบการอุตสาหกรรมตามมาตรา 30 แห่งพระราชบัญญัติโรงงาน พ.ศ. 2535 (แบบ ข.2) หรือใบแจ้งการประกอบอุตสาหกรรมในนิคมอุตสาหกรรม (กนอ.03/2) หรือหนังสือรับแจ้งการประกอบ อุตสาหกรรม หรือใบอนุญาตให้ใช้ที่ดินและประกอบกิจการในนิคมอุตสาหกรรม (ฉบับต่ออายุ) (กนอ.03/6) ของผู้ประกอบอุตสาหกรรมผลิตหน้ากาก&lt;/li&gt;
+&lt;li&gt;เอกสารแสดงรายชื่อและที่อยู่ของผู้ประกอบอุตสาหกรรมผลิตหน้ากากที่เป็นลูกค้า ในการซื้อของที่ขอยกเว้นอากรศุลกากร&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;เอกสารแสดงการรับรองตนเองของผู้นําของเข้าตามแบบแนบท้ายประกาศนี้ ว่าของที่นําเข้ามาจะนําไปผลิตเป็นหน้ากากชนิดที่ใช้ในห้องผ่าตัดตามประเภทย่อย 6307.90.40 หน้ากาก กรองเชื้อโรค หน้ากากทางการแพทย์นอกจากหน้ากากชนิดที่ใช้ในห้องผ่าตัดและหน้ากากกรองฝุ่น หมอกควัน หรือสารพิษ บรรดาที่เป็นอุปกรณ์เพื่อความปลอดภัยตามประเภทย่อย 6307.90.90 เท่านั้น&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;หนังสือรับรองจากกระทรวงอุตสาหกรรม หรือใบรับแจ้งการประกอบกิจการ โรงงานจำพวกที่ 2 (ร.ง. 2) หรือใบอนุญาตประกอบกิจการโรงงาน (ร.ง. 4) หรือหนังสือรับรองการประกอบกิจการ โรงงานในเขตประกอบการอุตสาหกรรมตามมาตรา 30 แห่งพระราชบัญญัติโรงงาน พ.ศ. 2535 (แบบ ข.2) หรือใบแจ้งการประกอบอุตสาหกรรมในนิคมอุตสาหกรรม (กนอ.03/2) หรือหนังสือรับแจ้งการประกอบ อุตสาหกรรม หรือใบอนุญาตให้ใช้ที่ดินและประกอบกิจการในนิคมอุตสาหกรรม (ฉบับต่ออายุ) (กนอ.03/6) ของผู้ประกอบอุตสาหกรรมผลิตหน้ากาก&lt;br /&gt;&lt;/li&gt;
 &lt;li&gt;สัญญาซื้อขายหรือเอกสารอื่นใดที่แสดงได้ว่าผู้นําของเข้า นําเข้ามาเพื่อส่งให้ผู้ประกอบอุตสาหกรรมผลิตหน้ากาก&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ol&gt;
+
 &lt;p&gt;&lt;strong&gt;ข้อ 3&lt;/strong&gt; ให้ผู้ขอใช้สิทธิยกเว้นอากรดำเนินการ ดังต่อไปนี้&lt;/p&gt;
+
 &lt;ol&gt;
 &lt;li&gt;ให้ผู้ขอใช้สิทธิยื่นคําร้องพร้อมเอกสารหรือหลักฐานประกอบตามที่กำหนดไว้ในข้อ 2 เพื่อขอใช้สิทธิต่อสำนักงานศุลกากร หรือด่านศุลกากร ณ ท่า ที่ หรือสนามบิน ที่นําของเข้าเพื่อประกอบการพิจารณา อนุมัติให้ได้สิทธิยกเว้นอากรศุลกากร กรณีผู้ขอใช้สิทธิยื่นคําร้องหรือเอกสารไม่ถูกต้อง หรือไม่ครบถ้วน กรมศุลกากรจะมี หนังสือแจ้งให้ผู้ขอใช้สิทธิทราบภายในเจ็ดวันนับแต่วันที่ได้รับคําร้อง และให้ผู้ขอใช้สิทธิยื่นหนังสือหรือเอกสาร เพิ่มเติมให้ถูกต้องครบถ้วนภายในเจ็ดวันนับแต่วันที่ได้รับหนังสือแจ้ง&lt;/li&gt;
 &lt;li&gt;กรมศุลกากรจะมีหนังสือแจ้งเลขที่อนุมัติหลักการ (Permit Number) ให้ผู้ขอใช้สิทธิทราบพร้อมแนบสำเนาเอกสารการอนุมัติหลักการ ซึ่งพิมพ์จากระบบฐานข้อมูลการลดอัตราอากร และยกเว้นอากรศุลกากรตามมาตรา 12 ภายในสิบห้าวันทำการนับแต่วันที่ได้รับคําร้องพร้อมเอกสารถูกต้อง ครบถ้วน หากไม่อนุมัติหลักการกรมศุลกากรจะมีหนังสือแจ้งเหตุผลการไม่อนุมัติให้ทราบ&lt;/li&gt;
 &lt;li&gt;กรณีผู้ได้รับอนุมัติหลักการยื่นคําร้องขอแก้ไขเพิ่มเติม หรือยกเลิกการได้รับอนุมัติหลักการเดิม ให้ยื่นคําร้องพร้อมเอกสารประกอบตามที่กำหนดไว้ในเรื่องนั้น เพื่อประกอบการพิจารณาให้ครบถ้วน กรณีเป็นการเปลี่ยนแปลงเกี่ยวกับชนิดสินค้าที่นําเข้า ให้ยื่นคําร้องล่วงหน้าก่อนการนําเข้า ที่สำนักงานศุลกากร หรือด่านศุลกากร ณ ท่า ที่ หรือสนามบินแห่งหนึ่งแห่งใดก็ได้ หากยังไม่ได้รับอนุมัติให้แก้ไขเปลี่ยนแปลง ต้องดำเนินการตามข้อ 5 ไปก่อน กรณียื่นคําร้องหรือเอกสารไม่ถูกต้องหรือไม่ครบถ้วน กรมศุลกากรจะมีหนังสือแจ้ง ให้ผู้ได้รับอนุมัติหลักการทราบภายในเจ็ดวันนับแต่วันที่ได้รับคําร้อง และให้ผู้ได้รับอนุมัติหลักการยื่นหนังสือ หรือเอกสารเพิ่มเติมให้ถูกต้องครบถ้วนภายในเจ็ดวันนับแต่วันที่ได้รับหนังสือแจ้ง&lt;/li&gt;
 &lt;li&gt;กรมศุลกากรจะมีหนังสือแจ้งผลการพิจารณาการขอแก้ไขเพิ่มเติมหลักการ ที่ได้รับอนุมัติไว้เดิมให้แก่ผู้ยื่นคําร้องทราบภายในสามสิบวันนับแต่วันที่ได้รับคําร้องและเอกสารถูกต้องครบถ้วน โดยการขอแก้ไขเพิ่มเติมดังกล่าว จะออกเลขที่อนุมัติหลักการใหม่พร้อมแนบสำเนาเอกสารการอนุมัติหลักการ ซึ่งพิมพ์จากระบบฐานข้อมูลการลดอัตราอากรและยกเว้นอากรตามมาตรา 12 หากเป็นการยื่นขอแก้ไขเพิ่มเติมความคลาดเคลื่อนเกี่ยวกับข้อมูลอนุมัติ วันเริ่มต้นการได้รับสิทธิและวันหมดอายุการใช้สิทธิ จะใช้เลขที่อนุมัติหลักการเดิม โดยมีการแก้ไขข้อมูลวันเริ่มต้น การได้รับสิทธิและวันหมดอายุให้ถูกต้องเท่านั้น&lt;/li&gt;
 &lt;/ol&gt;
+
 &lt;p&gt;&lt;strong&gt;ข้อ 4&lt;/strong&gt; ให้ผู้นําของเข้าจัดทำข้อมูลใบขนสินค้าขาเข้าตามมาตรฐานที่กรมศุลกากรกำหนด โดยบันทึกในช่องสิทธิพิเศษของแต่ละรายการระบุเป็น “CV7” และบันทึกข้อมูล (Import Declaration Detail (Permit) ดังนี้&lt;/p&gt;
+
 &lt;ol&gt;
 &lt;li&gt;ระบุเลขที่อนุมัติหลักการยกเว้นอากรในช่องเลขที่ใบอนุญาต/หนังสือรับรอง (Permit No.)&lt;/li&gt;
 &lt;li&gt;ระบุวันที่ได้รับอนุมัติหลักการ ในช่องวันที่ออกใบอนุญาต/หนังสือรับรอง (Issue Date)&lt;/li&gt;
 &lt;li&gt;ระบุเลขประจำตัวผู้เสียภาษีอากรของกรมศุลกากร (0944000163011) ในช่องเลขประจำตัวผู้เสียภาษีอากรของหน่วยงานผู้ออกใบอนุญาต/หนังสือรับรอง (Permit Issue Authority)&lt;/li&gt;
 &lt;/ol&gt;
+
 &lt;p&gt;&lt;strong&gt;ข้อ 5&lt;/strong&gt; การขอรับของออกไปก่อนที่จะได้รับอนุมัติให้ยกเว้นอากร ให้ผู้นําของเข้าดำเนินการดังนี้&lt;/p&gt;
+
 &lt;ol&gt;
 &lt;li&gt;ให้ชําระอากรในอัตราปกติ โดยในแต่ละรายการของข้อมูลใบขนสินค้าขาเข้าในช่องสิทธิพิเศษให้ระบุเป็น “000” หรือ “999” แล้วแต่กรณี&lt;/li&gt;
 &lt;li&gt;ระบุการใช้สิทธิ โดยบันทึกข้อมูลในส่วนรายการของใบขนสินค้าขาเข้า (Import Declaration Detail (Detail) ในช่อง Argumentative Reason Code เป็น “P12” (หมายถึง การยื่น ขอใช้สิทธิลดอัตราอากรและยกเว้นอากรศุลกากรตามมาตรา 12 แห่งพระราชกำหนดพิกัดอัตราศุลกากร พ.ศ. 2530 แต่ยังไม่ได้รับอนุมัติ) และในช่อง Argumentative Privilege Code ที่ขอใช้สิทธิ เป็น “CV7”&lt;/li&gt;
 &lt;li&gt;ให้แจ้งความประสงค์ขอตรวจสอบพิกัดและ/หรือราคา ในขณะส่งข้อมูลใบขนสินค้าขาเข้า เข้าสู่ระบบคอมพิวเตอร์ของศุลกากร&lt;/li&gt;
 &lt;li&gt;ต้องยื่นคําร้องในการขอคืนอากรภายในระยะเวลาที่กฎหมายกำหนด&lt;/li&gt;
 &lt;/ol&gt;
+
 &lt;p&gt;&lt;strong&gt;ข้อ 8&lt;/strong&gt; ภายหลังจากที่ได้รับการตรวจปล่อยไปจากอารักขาของศุลกากรแล้ว เช่น การขอขยายระยะเวลาการใช้วัตถุดิบ การขอส่งของกลับออกไปนอกราชอาณาจักร หรือการขอชําระค่าภาษีอากร ให้ผู้นําของเข้ายื่นคําร้อง ณ สำนักงานศุลกากรหรือด่านศุลกากรที่รับผิดชอบก่อนครบกำหนดระยะเวลาหนึ่งปีนับแต่วันที่นําของเข้า พร้อมทั้งยื่นบัญชีแสดงรายการแห่งของที่ขอดำเนินการ เช่น รายละเอียดวันที่นําของเข้า เลขที่ใบขนสินค้าขาเข้า เลขที่บัญชีราคาสินค้า ปริมาณที่นําเข้า ปริมาณคงเหลือ เป็นต้น และเอกสารหรือหลักฐานต่าง ๆ เพื่อให้พนักงานศุลกากรตรวจสอบ&lt;/p&gt;
+
 &lt;ol&gt;
 &lt;li&gt;กรณีส่งของกลับออกไปนอกราชอาณาจักร ให้นําพนักงานศุลกากรของสำนักงานหรือด่านศุลกากรที่พิจารณาคําร้อง ไปทำการตรวจ หรือควบคุม และชําระค่าธรรมเนียม และค่าใช้จ่าย (ถ้ามี) ตามที่กำหนดไว้ เมื่อส่งของตามที่ได้รับอนุมัติกลับออกนอกราชอาณาจักรแล้ว ให้แจ้งเลขที่ใบขนสินค้าขาออกให้พนักงานศุลกากรผู้ตรวจสอบทราบด้วย&lt;/li&gt;
 &lt;li&gt;กรณีขอชําระค่าภาษีอากร หากข้อมูลรายละเอียดการนําเข้าไม่ได้รับสิทธิยกเว้นอากรศุลกากรตามหลักเกณฑ์ วิธีการ และเงื่อนไขที่กำหนดไว้ในประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรศุลกากรสำหรับของที่นําเข้า มาเพื่อผลิตเป็นหน้ากาก (ฉบับที่ 4) ลงวันที่ 21 มีนาคม พ.ศ. 2504 และระเบียบพิธีการศุลกากร กรมศุลกากรจะเรียก เก็บค่าภาษีอากร ค่าใช้จ่าย (ถ้ามี) และเงินเพิ่มให้ครบถ้วน ตามระเบียบปฏิบัติปกติของพิธีการทั่วไป&lt;/li&gt;
 &lt;li&gt;กรณีขอขยายระยะเวลาการใช้วัตถุดิบ อธิบดีกรมศุลกากรอาจอนุญาต ให้ขยายระยะเวลาได้ไม่เกินหกเดือน&lt;/li&gt;
 &lt;/ol&gt;
+
 &lt;p&gt;&lt;strong&gt;ข้อ 10&lt;/strong&gt; ประกาศนี้ให้ใช้บังคับตั้งแต่&lt;em&gt;วันที่ 1 เมษายน 2565 เป็นต้นไป&lt;/em&gt;&lt;/p&gt;
 
 
+
 &lt;br&gt;
+
 
 
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;800&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 
 &lt;br&gt;
@@ -478,8 +607,9 @@
 &lt;br&gt;
 
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324147505e4f464a4e464b4b&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324147505e4f464a4e464b4b&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -490,12 +620,17 @@
       <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/series/hs_2022/fta/jtepa/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page5.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page3.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page4.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page5.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -505,10 +640,20 @@
       <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/series/hs_2022/fta/fta/</guid>
+<<<<<<< HEAD
       <description>&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page1.jpg&#34; alt=&#34;&#34;&gt;
 &lt;img src=&#34;./img/docsjpg_Page2.jpg&#34; alt=&#34;&#34;&gt;&lt;br&gt;
 &lt;img src=&#34;./img/docsjpg_Page3.jpg&#34; alt=&#34;&#34;&gt;
 &lt;img src=&#34;./img/docsjpg_Page4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+=======
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page1.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;./img/docsjpg_Page2.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&lt;img src=&#34;./img/docsjpg_Page3.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;./img/docsjpg_Page4.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+>>>>>>> ecs_pc
 
 
 &lt;br&gt;
@@ -520,60 +665,66 @@
 &lt;br&gt;
 
 
-&lt;h2 id=&#34;ประกาศทเกยวของ&#34;&gt;ประกาศที่เกี่ยวข้อง&lt;/h2&gt;
-&lt;h3 id=&#34;ประกาศกระทรวงการคลง&#34;&gt;ประกาศกระทรวงการคลัง&lt;/h3&gt;
+
+&lt;h2 id=&#34;ประกาศท-เก-ยวข-อง&#34;&gt;ประกาศที่เกี่ยวข้อง&lt;/h2&gt;
+
+&lt;h3 id=&#34;ประกาศกระทรวงการคล-ง&#34;&gt;ประกาศกระทรวงการคลัง&lt;/h3&gt;
+
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464a4f464b46&#34;&gt;การลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิด จากสาธารณรัฐประชาธิปไตยประชาชนลาว&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464b47464b46&#34;&gt;การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากสาธารณรัฐเปรู&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464b47464a4f&#34;&gt;การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากนิวซีแลนด์&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464b47464a4e&#34;&gt;การยกเว้นอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากสาธารณรัฐสิงคโปร์&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464b46464b4d&#34;&gt;การยกเว้นอากร ลด และเพิ่มอัตราอากรศุลกากร สำหรับของที่มีถิ่นกำเนิดจากสาธารณรัฐประชาธิปไตยประชาชนลาว&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464b46464b4c&#34;&gt;การยกเว้นอากรและการลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากสาธารณรัฐอินเดีย&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464b46464b4b&#34;&gt;การยกเว้นอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากสาธารณรัฐประชาชนจีน&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464b46464b4a&#34;&gt;การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากสาธารณรัฐชิลี&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464b46464b49&#34;&gt;การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากออสเตรเลีย&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464b46464b47&#34;&gt;การยกเว้นอากรและลดอัตราอากรศุลกากร ตามข้อผูกพันตามความตกลงหุ้นส่วนทางเศรษฐกิจระดับภูมิภาค&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464b46464a4e&#34;&gt;การยกเว้นอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากสาธารณรัฐแห่งสหภาพเมียนมา&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464a4f464b4d&#34;&gt;การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากญี่ปุ่น&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464a4f464b4b&#34;&gt;การยกเว้นอากรสำหรับของที่นำเข้ามาในพื้นที่พัฒนาร่วม&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464a4f464b4a&#34;&gt;การลดอัตราอากรศุลกากรสำหรับการให้สิทธิพิเศษทางการค้าระหว่างประเทศกำลังพัฒนา&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464a4f464b49&#34;&gt;การยกเว้นอากรสำหรับของที่มีถิ่นกำเนิดจากประเทศพัฒนาน้อยที่สุด&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464a4f464b47&#34;&gt;การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464a4e464b4d&#34;&gt;การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน - สาธารณรัฐเกาหลี&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464a4e464b4c&#34;&gt;การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน - ญี่ปุ่น&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464a4e464b4b&#34;&gt;การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน - สาธารณรัฐอินเดีย&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464a4e464b48&#34;&gt;การยกเว้นอากรและลดอัตราอากรศุลกากรสําหรับเขตการค้าเสรีอาเซียน - จีน&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464a4e464b4a&#34;&gt;การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน - ฮ่องกง&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464a4e464b47&#34;&gt;การยกเว้นอากรและลดอัตราอากรศุลกากร สําหรับเขตการค้าเสรีอาเซียน - ออสเตรเลีย - นิวซีแลนด์&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464b47464b47&#34;&gt;การยกเว้นอากร ลด และเพิ่มอัตราอากรศุลกากรตามข้อผูกพัน ในความตกลงมาร์ราเกชจัดตั้งองค์การการค้าโลก&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464a4f464b46&#34; target=&#34;_blank&#34;&gt;การลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิด จากสาธารณรัฐประชาธิปไตยประชาชนลาว&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464b47464b46&#34; target=&#34;_blank&#34;&gt;การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากสาธารณรัฐเปรู&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464b47464a4f&#34; target=&#34;_blank&#34;&gt;การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากนิวซีแลนด์&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464b47464a4e&#34; target=&#34;_blank&#34;&gt;การยกเว้นอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากสาธารณรัฐสิงคโปร์&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464b46464b4d&#34; target=&#34;_blank&#34;&gt;การยกเว้นอากร ลด และเพิ่มอัตราอากรศุลกากร สำหรับของที่มีถิ่นกำเนิดจากสาธารณรัฐประชาธิปไตยประชาชนลาว&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464b46464b4c&#34; target=&#34;_blank&#34;&gt;การยกเว้นอากรและการลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากสาธารณรัฐอินเดีย&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464b46464b4b&#34; target=&#34;_blank&#34;&gt;การยกเว้นอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากสาธารณรัฐประชาชนจีน&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464b46464b4a&#34; target=&#34;_blank&#34;&gt;การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากสาธารณรัฐชิลี&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464b46464b49&#34; target=&#34;_blank&#34;&gt;การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากออสเตรเลีย&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464b46464b47&#34; target=&#34;_blank&#34;&gt;การยกเว้นอากรและลดอัตราอากรศุลกากร ตามข้อผูกพันตามความตกลงหุ้นส่วนทางเศรษฐกิจระดับภูมิภาค&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464b46464a4e&#34; target=&#34;_blank&#34;&gt;การยกเว้นอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากสาธารณรัฐแห่งสหภาพเมียนมา&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464a4f464b4d&#34; target=&#34;_blank&#34;&gt;การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากญี่ปุ่น&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464a4f464b4b&#34; target=&#34;_blank&#34;&gt;การยกเว้นอากรสำหรับของที่นำเข้ามาในพื้นที่พัฒนาร่วม&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464a4f464b4a&#34; target=&#34;_blank&#34;&gt;การลดอัตราอากรศุลกากรสำหรับการให้สิทธิพิเศษทางการค้าระหว่างประเทศกำลังพัฒนา&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464a4f464b49&#34; target=&#34;_blank&#34;&gt;การยกเว้นอากรสำหรับของที่มีถิ่นกำเนิดจากประเทศพัฒนาน้อยที่สุด&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464a4f464b47&#34; target=&#34;_blank&#34;&gt;การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464a4e464b4d&#34; target=&#34;_blank&#34;&gt;การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน - สาธารณรัฐเกาหลี&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464a4e464b4c&#34; target=&#34;_blank&#34;&gt;การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน - ญี่ปุ่น&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464a4e464b4b&#34; target=&#34;_blank&#34;&gt;การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน - สาธารณรัฐอินเดีย&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464a4e464b48&#34; target=&#34;_blank&#34;&gt;การยกเว้นอากรและลดอัตราอากรศุลกากรสําหรับเขตการค้าเสรีอาเซียน - จีน&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464a4e464b4a&#34; target=&#34;_blank&#34;&gt;การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน - ฮ่องกง&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464a4e464b47&#34; target=&#34;_blank&#34;&gt;การยกเว้นอากรและลดอัตราอากรศุลกากร สําหรับเขตการค้าเสรีอาเซียน - ออสเตรเลีย - นิวซีแลนด์&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f47464b47464b47&#34; target=&#34;_blank&#34;&gt;การยกเว้นอากร ลด และเพิ่มอัตราอากรศุลกากรตามข้อผูกพัน ในความตกลงมาร์ราเกชจัดตั้งองค์การการค้าโลก&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;ประกาศกรมศลกากร&#34;&gt;ประกาศกรมศุลกากร&lt;/h3&gt;
+
+&lt;h3 id=&#34;ประกาศกรมศ-ลกากร&#34;&gt;ประกาศกรมศุลกากร&lt;/h3&gt;
+
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b47464a4f&#34;&gt;(215/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-ออสเตรเลีย-นิวซีแลนด์&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b47464b46&#34;&gt;(216/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากออสเตรเลีย&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b47464b47&#34;&gt;(217/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากนิวซีแลนด์&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b47464b48&#34;&gt;(218/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-จีน&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b47464b49&#34;&gt;(219/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากสาธารณรัฐประชาชนจีน&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b49464a4e&#34;&gt;(220/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากสาธารณรัฐสิงคโปร์&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b47464b4a&#34;&gt;(226/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากสาธารณรัฐเปรู&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b48464b48&#34;&gt;(227/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราศุลกากรสำหรับของที่มีถิ่นกำเนิดจากสาธารณรัฐชิลี&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b48464b47&#34;&gt;(228/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราศุลกากรสำหรับเขตการค้าเสรีอาเซียน-สาธารณรัฐอินเดีย&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b48464b46&#34;&gt;(229/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b48464b4c&#34;&gt;(230/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราศุลกากรสำหรับเขตการค้าเสรีอาเซียน-ญี่ปุ่น&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b48464a4f&#34;&gt;(231/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากญี่ปุ่น&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b48464a4e&#34;&gt;(232/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากสาธารณรัฐอินเดีย&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b47464b4d&#34;&gt;(233/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราศุลกากรสำหรับเขตการค้าเสรีอาเซียน-ฮ่องกง&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b47464b4c&#34;&gt;(234/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราศุลกากรสำหรับเขตการค้าเสรีอาเซียน-สาธารณรัฐเกาหลี&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b48464b49&#34;&gt;(235/.2564) หลักเกณฑ์และพิธีการการลดอัตราอากรศุลกากรสำหรับการให้สิทธิพิเศษทางการค้าระหว่างประเทศกำลังพัฒนา&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b48464b4a&#34;&gt;(236/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากรสำหรับของที่มีถิ่นกำเนิดจากประเทศพัฒนาน้อยที่สุด&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b4b464b4c&#34;&gt;(237/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากรและอัตราอากรศุลกากรตามข้อผูกพันตามความตกลงหุ้นส่วนทางเศรษฐกิจระดับภูมิภาค&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b4d464b48&#34;&gt;(238/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากร ลดและเพิ่มอัตราอากรศุลกากรตามข้อผูกพันในความตกลงมาร์ราเกชจัดตั้งองค์การการค้าโลก&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b4d464b49&#34;&gt;(239/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากร ลดและเพิ่มอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากสาธารณรัฐประชาธิปไตยประชาชนลาว&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b4d464b4d&#34;&gt;(243/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากสาธารณรัฐแห่งสหภาพเมียนมา&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b4d464b4b&#34;&gt;(244/.2564) หลักเกณฑ์และพิธีการการลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากสาธารณประชาธิปไตยประชาชนลาว&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b47464a4f&#34; target=&#34;_blank&#34;&gt;(215/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-ออสเตรเลีย-นิวซีแลนด์&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b47464b46&#34; target=&#34;_blank&#34;&gt;(216/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากออสเตรเลีย&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b47464b47&#34; target=&#34;_blank&#34;&gt;(217/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากนิวซีแลนด์&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b47464b48&#34; target=&#34;_blank&#34;&gt;(218/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-จีน&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b47464b49&#34; target=&#34;_blank&#34;&gt;(219/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากสาธารณรัฐประชาชนจีน&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b49464a4e&#34; target=&#34;_blank&#34;&gt;(220/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากสาธารณรัฐสิงคโปร์&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b47464b4a&#34; target=&#34;_blank&#34;&gt;(226/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากสาธารณรัฐเปรู&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b48464b48&#34; target=&#34;_blank&#34;&gt;(227/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราศุลกากรสำหรับของที่มีถิ่นกำเนิดจากสาธารณรัฐชิลี&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b48464b47&#34; target=&#34;_blank&#34;&gt;(228/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราศุลกากรสำหรับเขตการค้าเสรีอาเซียน-สาธารณรัฐอินเดีย&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b48464b46&#34; target=&#34;_blank&#34;&gt;(229/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b48464b4c&#34; target=&#34;_blank&#34;&gt;(230/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราศุลกากรสำหรับเขตการค้าเสรีอาเซียน-ญี่ปุ่น&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b48464a4f&#34; target=&#34;_blank&#34;&gt;(231/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากญี่ปุ่น&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b48464a4e&#34; target=&#34;_blank&#34;&gt;(232/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากสาธารณรัฐอินเดีย&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b47464b4d&#34; target=&#34;_blank&#34;&gt;(233/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราศุลกากรสำหรับเขตการค้าเสรีอาเซียน-ฮ่องกง&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b47464b4c&#34; target=&#34;_blank&#34;&gt;(234/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราศุลกากรสำหรับเขตการค้าเสรีอาเซียน-สาธารณรัฐเกาหลี&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b48464b49&#34; target=&#34;_blank&#34;&gt;(235/.2564) หลักเกณฑ์และพิธีการการลดอัตราอากรศุลกากรสำหรับการให้สิทธิพิเศษทางการค้าระหว่างประเทศกำลังพัฒนา&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b48464b4a&#34; target=&#34;_blank&#34;&gt;(236/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากรสำหรับของที่มีถิ่นกำเนิดจากประเทศพัฒนาน้อยที่สุด&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b4b464b4c&#34; target=&#34;_blank&#34;&gt;(237/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากรและอัตราอากรศุลกากรตามข้อผูกพันตามความตกลงหุ้นส่วนทางเศรษฐกิจระดับภูมิภาค&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b4d464b48&#34; target=&#34;_blank&#34;&gt;(238/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากร ลดและเพิ่มอัตราอากรศุลกากรตามข้อผูกพันในความตกลงมาร์ราเกชจัดตั้งองค์การการค้าโลก&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b4d464b49&#34; target=&#34;_blank&#34;&gt;(239/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากร ลดและเพิ่มอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากสาธารณรัฐประชาธิปไตยประชาชนลาว&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b4d464b4d&#34; target=&#34;_blank&#34;&gt;(243/.2564) หลักเกณฑ์และพิธีการการยกเว้นอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากสาธารณรัฐแห่งสหภาพเมียนมา&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b4d464b4b&#34; target=&#34;_blank&#34;&gt;(244/.2564) หลักเกณฑ์และพิธีการการลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากสาธารณประชาธิปไตยประชาชนลาว&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_simple_with_date.php?current_id=142329324146505f46464b46464b4b&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_simple_with_date.php?current_id=142329324146505f46464b46464b4b&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -584,7 +735,8 @@
       <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/law/customs/2564/229/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 &lt;p&gt;
 
 &lt;br&gt;
@@ -594,7 +746,9 @@
 &lt;strong&gt;ประกาศกรมศุลกากร ที่ 229/.2564 เรื่อง หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน&lt;/strong&gt;&lt;/p&gt;
 
 
+
 &lt;br&gt;
+
 
 
 
@@ -602,6 +756,7 @@
   &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;800&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 
 &lt;br&gt;
@@ -614,8 +769,9 @@
 &lt;br&gt;
 
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b48464b46&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b48464b46&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -626,17 +782,20 @@
       <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/law/customs/2564/218/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 &lt;p&gt;
 
 &lt;br&gt;
 &lt;br&gt;
 
 
-&lt;strong&gt;ประกาศกรมศุลกากร ที่ 218./2564 เรื่อง 	หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-จีน&lt;/strong&gt;&lt;/p&gt;
+&lt;strong&gt;ประกาศกรมศุลกากร ที่ 218./2564 เรื่อง     หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-จีน&lt;/strong&gt;&lt;/p&gt;
+
 
 
 &lt;br&gt;
+
 
 
 
@@ -644,6 +803,7 @@
   &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;800&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 
 &lt;br&gt;
@@ -656,8 +816,9 @@
 &lt;br&gt;
 
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b47464b48&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505f46464b47464b48&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -668,14 +829,22 @@
       <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/series/hs_2022/contacts/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page5.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page6.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page7.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page8.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page3.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page4.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page5.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page6.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page7.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page8.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 
 
 &lt;br&gt;
@@ -687,8 +856,9 @@
 &lt;br&gt;
 
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_simple_with_date.php?current_id=142329324146505f46464a4e464a4e&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_simple_with_date.php?current_id=142329324146505f46464a4e464a4e&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -699,11 +869,20 @@
       <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/series/hs_2022/news/</guid>
+<<<<<<< HEAD
       <description>&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page1.jpg&#34; alt=&#34;&#34;&gt;
 &lt;img src=&#34;./img/docsjpg_Page2.jpg&#34; alt=&#34;&#34;&gt;&lt;br&gt;
 &lt;img src=&#34;./img/docsjpg_Page3.jpg&#34; alt=&#34;&#34;&gt;
 &lt;img src=&#34;./img/docsjpg_Page4.jpg&#34; alt=&#34;&#34;&gt;
 &lt;img src=&#34;./img/docsjpg_Page5.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+=======
+      <description>&lt;p&gt;&lt;img src=&#34;./img/docsjpg_Page1.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;./img/docsjpg_Page2.jpg&#34; alt=&#34;&#34; /&gt;&lt;br /&gt;
+&lt;img src=&#34;./img/docsjpg_Page3.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;./img/docsjpg_Page4.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;img src=&#34;./img/docsjpg_Page5.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+>>>>>>> ecs_pc
 
 
 &lt;br&gt;
@@ -715,8 +894,9 @@
 &lt;br&gt;
 
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/data_files/a1433d64923dd1ade50c715fda5aee00.pdf&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/data_files/a1433d64923dd1ade50c715fda5aee00.pdf&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -727,8 +907,10 @@
       <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/law/customs/2564/194/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;docs.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;docs.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 
 
 &lt;br&gt;
@@ -742,8 +924,9 @@
 &lt;br&gt;
 
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505e4f464b4b464b47&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324146505e4f464b4b464b47&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -754,11 +937,13 @@
       <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/series/hs_2022/text_of_ahtn/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;800&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 
 &lt;br&gt;
@@ -770,8 +955,9 @@
 &lt;br&gt;
 
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_simple_with_date.php?current_id=142329324146505e4e464b46464b48&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_simple_with_date.php?current_id=142329324146505e4e464b46464b48&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -782,11 +968,13 @@
       <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/series/hs_2022/ahtn_2022_sen/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;800&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 
 &lt;br&gt;
@@ -798,8 +986,9 @@
 &lt;br&gt;
 
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_simple_with_date.php?current_id=142329324146505e4e464b46464b49&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_simple_with_date.php?current_id=142329324146505e4e464b46464b49&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -810,11 +999,13 @@
       <pubDate>Sat, 11 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/series/hs_2022/table/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;800&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 
 &lt;br&gt;
@@ -826,8 +1017,9 @@
 &lt;br&gt;
 
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_simple_with_date.php?current_id=142329324146505e4e464b46464b47&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_simple_with_date.php?current_id=142329324146505e4e464b46464b47&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -839,13 +1031,16 @@
       
       <guid>https://ecs-support.github.io/KM/customs/post/series/hs_2022/law_2022/</guid>
       <description>&lt;p&gt;พระราชกำหนดพิกัดอัตราศุลกากร (ฉบับที่ 7) พ.ศ. 2564 มีผลใช้บังคับ&lt;em&gt;ตั้งแต่ 1 ม.ค. 2565&lt;/em&gt; เป็นต้นไป โดยแบ่งเป็น 2 เล่ม เล่มที่ 1 จำนวน 462 หน้า และ เล่มที่ 2 จำนวน 461 หน้า&lt;/p&gt;
+
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;เล่มที่ 1 จำนวน 462 หน้า&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;./docs_01.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;800&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 
 &lt;br&gt;
@@ -857,17 +1052,21 @@
 &lt;br&gt;
 &lt;br&gt;
 
+
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;เล่มที่ 2 จำนวน 461 หน้า&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 
+
 &lt;br&gt;
+
 
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;./docs_02.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;800&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 
 &lt;br&gt;
@@ -878,8 +1077,9 @@
 &lt;/div&gt;
  &lt;br&gt;
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;&#34;&gt; เว็บไซต์ราชกิจจานุเบกษา&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : [ เว็บไซต์ราชกิจจานุเบกษา]()&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -891,11 +1091,14 @@
       
       <guid>https://ecs-support.github.io/KM/customs/post/series/hs_2022/seminar/</guid>
       <description>&lt;p&gt;เอกสารประกอบการสัมมนาโครงการฝึกอบรมหลักสูตรพิกัดศุลกากรระบบฮาร์โมไนซ์และพิกัดศุลกากรฮาร์โมไนซ์อาเซียน ฉบับปี 2022 สำหรับผู้ประกอบการและบุคคลทั่วไป&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;800&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 
 &lt;br&gt;
@@ -907,8 +1110,9 @@
 &lt;br&gt;
 
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/data_files/a1a13d94c2b5ddcb836bc93b9df8a115.pdf&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/data_files/a1a13d94c2b5ddcb836bc93b9df8a115.pdf&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -919,12 +1123,15 @@
       <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/law/customs/2564/180/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;800&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 
 &lt;br&gt;
@@ -937,8 +1144,9 @@
 &lt;br&gt;
 
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232932404f505f4c464b4c464a4f&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232932404f505f4c464b4c464a4f&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -949,13 +1157,17 @@
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/law/customs/na/2021-22-05/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;strong&gt;ประกาศกรมศุลกากร เรื่อง กำหนดราคาศุลกากรสำหรับสินค้าไม้เป็นเกณฑ์ประเมินเงินอากรขาออก  มีผลตั้งแต่วันที่ 1 พฤศจิกายน 2564 เป็นต้นไป&lt;/strong&gt;&lt;/p&gt;
+
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;800&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 
 &lt;br&gt;
@@ -968,8 +1180,9 @@
 &lt;br&gt;
 
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232932404f505f49464b4c464b4d&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232932404f505f49464b4c464b4d&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -980,60 +1193,80 @@
       <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/law/customs/2564/171/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;strong&gt;ประกาศกรมศุลกากร ที่ 171./2564 เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไข การปฏิบัติพิธีการศุลกากร ในการยกเว้นอากรศุลกากรสำหรับของที่นำเข้ามาเพื่อผลิตเป็นหน้ากาก&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ก-การปฏบตพธการศลกากรเพอขอยกเวนอากรศลกากร&#34;&gt;(ก) การปฏิบัติพิธีการศุลกากรเพื่อขอยกเว้นอากรศุลกากร&lt;/h2&gt;
+
+&lt;h2 id=&#34;ก-การปฏ-บ-ต-พ-ธ-การศ-ลกากรเพ-อขอยกเว-นอากรศ-ลกากร&#34;&gt;(ก) การปฏิบัติพิธีการศุลกากรเพื่อขอยกเว้นอากรศุลกากร&lt;/h2&gt;
+
 &lt;p&gt;ให้ผู้นําของเข้า ยื่นคําร้องขอยกเว้นอากรพร้อมเอกสาร ดังต่อไปนี้&lt;/p&gt;
+
 &lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;กรณีผู้นําของเข้าเป็นผู้ประกอบการอุตสาหกรรมผลิตหน้ากากชนิดที่ใช้ ในห้องผ่าตัดตามประเภทย่อย 6307.40.40 หน้ากากกรองเชื้อโรค หน้ากากทางการแพทย์นอกจากหน้ากาก ชนิดที่ใช้ในห้องผ่าตัด และหน้ากากกรองฝุ่น หมอกควัน หรือสารพิษ บรรดาที่เป็นอุปกรณ์เพื่อความปลอดภัย ตามประเภทย่อย 6307.90.90 ให้ใช้เอกสารหลักฐานเฉพาะในการนําเข้าครั้งแรก ดังนี้&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;กรณีผู้นําของเข้าเป็นผู้ประกอบการอุตสาหกรรมผลิตหน้ากากชนิดที่ใช้ ในห้องผ่าตัดตามประเภทย่อย 6307.40.40 หน้ากากกรองเชื้อโรค หน้ากากทางการแพทย์นอกจากหน้ากาก ชนิดที่ใช้ในห้องผ่าตัด และหน้ากากกรองฝุ่น หมอกควัน หรือสารพิษ บรรดาที่เป็นอุปกรณ์เพื่อความปลอดภัย ตามประเภทย่อย 6307.90.90 ให้ใช้เอกสารหลักฐานเฉพาะในการนําเข้าครั้งแรก ดังนี้&lt;/p&gt;
+
 &lt;ul&gt;
 &lt;li&gt;แสดงหนังสือรับรองจากกระทรวงอุตสาหกรรม หรือใบรับแจ้ง การประกอบกิจการโรงงานจําพวกที่ 2 (ร.ง. 2) หรือใบอนุญาตประกอบกิจการโรงงาน (ร.ง. 4) หรือหนังสือ รับรองการประกอบกิจการโรงงานในเขตประกอบการอุตสาหกรรมตามมาตรา 30 แห่งพระราชบัญญัติโรงงาน พ.ศ. 2535 (แบบ ข.2) หรือใบแจ้งการประกอบอุตสาหกรรมในนิคมอุตสาหกรรม (กนอ.03/2) หรือหนังสือ รับแจ้งการประกอบอุตสาหกรรม หรือใบอนุญาตให้ใช้ที่ดินและประกอบกิจการในนิคมอุตสาหกรรม (ฉบับต่ออายุ) (กนอ.03/6) ของผู้นําของเข้า&lt;/li&gt;
 &lt;li&gt;ยื่นเอกสารแสดงกําลังการผลิตเต็มที่ของโรงงานต่อปี&lt;/li&gt;
 &lt;li&gt;ยื่นเอกสารแสดงการรับรองตนเองของผู้ประกอบอุตสาหกรรมผลิต หน้ากากตามแบบแนบท้ายประกาศนี้ ว่าของที่นําเข้ามาจะนําไปผลิตเป็นหน้ากากชนิดที่ใช้ในห้องผ่าตัด ตามประเภทย่อย 6307.40.40 หน้ากากกรองเชื้อโรค หน้ากากทางการแพทย์นอกจากหน้ากากชนิด ที่ใช้ในห้องผ่าตัด และหน้ากากกรองฝุ่น หมอกควัน หรือสารพิษ บรรดาที่เป็นอุปกรณ์เพื่อความปลอดภัย ตามประเภทย่อย 6307.90.90 เท่านั้น&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;กรณีผู้นําของเข้ามิใช่ผู้ประกอบอุตสาหกรรมตาม &lt;strong&gt;ข้อ 1&lt;/strong&gt; ให้ใช้เอกสารหลักฐาน ในการนําเข้าทุกครั้ง ดังนี้&lt;/p&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;กรณีผู้นําของเข้ามิใช่ผู้ประกอบอุตสาหกรรมตาม &lt;strong&gt;ข้อ 1&lt;/strong&gt; ให้ใช้เอกสารหลักฐาน ในการนําเข้าทุกครั้ง ดังนี้&lt;/p&gt;
+
 &lt;ul&gt;
 &lt;li&gt;ยื่นเอกสารแสดงรายชื่อและที่อยู่ของผู้ประกอบอุตสาหกรรมผลิต หน้ากาก ที่เป็นลูกค้าในการซื้อของที่ขอยกเว้นอากรศุลกากร&lt;/li&gt;
 &lt;li&gt;ยื่นเอกสารแสดงการรับรองตนเองของผู้นําของเข้าตามแบบแนบท้าย ประกาศนี้ ว่าของที่นําเข้ามาจะนําไปผลิตเป็นหน้ากากชนิดที่ใช้ในห้องผ่าตัดตามประเภทย่อย 6307.40.40 หน้ากากกรองเชื้อโรค หน้ากากทางการแพทย์นอกจากหน้ากากชนิดที่ใช้ในห้องผ่าตัดและหน้ากากกรองฝุ่น หมอกควัน หรือสารพิษ บรรดาที่เป็นอุปกรณ์เพื่อความปลอดภัยตามประเภทย่อย 6307.90.90 เท่านั้น&lt;/li&gt;
 &lt;li&gt;แสดงหนังสือรับรองจากกระทรวงอุตสาหกรรม หรือใบรับแจ้ง การประกอบกิจการโรงงานจําพวกที่ 2 (ร.ง. 2) หรือใบอนุญาตประกอบกิจการโรงงาน (ร.ง. 4) หรือหนังสือ รับรองการประกอบกิจการโรงงานในเขตประกอบการอุตสาหกรรมตามมาตรา 30 แห่งพระราชบัญญัติโรงงาน พ.ศ. 2535 (แบบ ข.2) หรือใบแจ้งการประกอบอุตสาหกรรมในนิคมอุตสาหกรรม (กนอ.03/2) หรือหนังสือ รับแจ้งการประกอบอุตสาหกรรม หรือใบอนุญาตให้ใช้ที่ดินและประกอบกิจการในนิคมอุตสาหกรรม (ฉบับต่ออายุ) (กนอ.03/5) ของผู้ประกอบอุตสาหกรรมผลิตหน้ากาก&lt;/li&gt;
 &lt;li&gt;แสดงเอกสารสัญญาซื้อขายหรือเอกสารอื่นใดที่แสดงได้ว่าผู้นําของเข้า นําเข้ามาเพื่อส่งให้ผู้ประกอบอุตสาหกรรมผลิตหน้ากาก ให้ผู้นําของเข้าจัดทําข้อมูลใบขนสินค้าขาเข้าตามมาตรฐานที่กรมศุลกากรกําหนด โดยบันทึกในช่องสิทธิพิเศษของแต่ละรายการระบุเป็น &lt;em&gt;“CV5”&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;ข-ผขอใชสทธในการขออนมตยกเวนอากรศลกากรสาหรบของทนาเขามา-เพอผลตเปนหนากาก&#34;&gt;(ข) ผู้ขอใช้สิทธิในการขออนุมัติยกเว้นอากรศุลกากรสําหรับของที่นําเข้ามา เพื่อผลิตเป็นหน้ากาก&lt;/h2&gt;
+
+&lt;h2 id=&#34;ข-ผ-ขอใช-ส-ทธ-ในการขออน-ม-ต-ยกเว-นอากรศ-ลกากรส-าหร-บของท-น-าเข-ามา-เพ-อผล-ตเป-นหน-ากาก&#34;&gt;(ข) ผู้ขอใช้สิทธิในการขออนุมัติยกเว้นอากรศุลกากรสําหรับของที่นําเข้ามา เพื่อผลิตเป็นหน้ากาก&lt;/h2&gt;
+
 &lt;p&gt;ให้นําพิธีการทั่วไปเกี่ยวกับการขออนุมัติให้ลดอัตราอากรและยกเว้นอากรศุลกากร มาใช้บังคับกับการยกเว้นอากรศุลกากร สําหรับของที่นําเข้ามาเพื่อผลิตเป็นหน้ากาก&lt;/p&gt;
+
 &lt;ol&gt;
 &lt;li&gt;ให้ผู้นําของเข้ายื่นคําร้องพร้อมเอกสารประกอบตามที่กําหนดไว้ เพื่อขอใช้สิทธิต่อสํานักงานศุลกากร หรือด่านศุลกากร ณ ท่า ที่ หรือสนามบิน ที่นําของเข้าเพื่อประกอบ การพิจารณาอนุมัติให้ได้สิทธิยกเว้นอากรศุลกากร กรณีผู้ขอใช้สิทธิยื่นคําร้องหรือเอกสารไม่ถูกต้อง หรือไม่ครบถ้วน กรมศุลกากรจะมีหนังสือแจ้งให้ผู้ขอใช้สิทธิทราบภายในเจ็ดวันนับแต่วันที่ได้รับคําร้อง และให้ผู้นําของเข้า ยื่นหนังสือหรือเอกสารเพิ่มเติม ให้ถูกต้องครบถ้วนภายในเจ็ดวันนับแต่วันที่ได้รับหนังสือแจ้ง&lt;/li&gt;
 &lt;li&gt;กรมศุลกากรจะมีหนังสือแจ้งเลขที่อนุมัติหลักการ (Permit Number) ให้ผู้ขอใช้สิทธิทราบพร้อมแนบสําเนาเอกสารการอนุมัติหลักการ ซึ่งพิมพ์จากระบบฐานข้อมูลการลดอัตราอากร และยกเว้นอากรศุลกากรตามมาตรา 12 ภายในสิบห้าวันทําการนับแต่วันที่ได้รับคําร้องพร้อมเอกสารถูกต้อง ครบถ้วน หากไม่อนุมัติหลักการกรมศุลกากรจะมีหนังสือแจ้งเหตุผลการไม่อนุมัติให้ทราบ&lt;/li&gt;
 &lt;li&gt;กรณีผู้ได้รับอนุมัติหลักการยื่นคําร้องขอแก้ไขเพิ่มเติม หรือยกเลิก การได้รับอนุมัติหลักการเดิม ให้ยื่นคําร้องพร้อมเอกสารประกอบตามที่กําหนดไว้ในเรื่องนั้น เพื่อประกอบ การพิจารณาให้ครบถ้วน กรณีเป็นการเปลี่ยนแปลงเกี่ยวกับชนิดสินค้าที่นําเข้า ให้ยื่นคําร้องล่วงหน้าก่อนการนําเข้า ที่สํานักงานศุลกากร หรือด่านศุลกากร ณ ท่า ที่ หรือสนามบินแห่งหนึ่งแห่งใดก็ได้ หากยังไม่ได้รับอนุมัติ ให้แก้ไขเปลี่ยนแปลงต้องดําเนินการตาม (ง) ไปก่อน กรณียื่นคําร้องหรือเอกสารไม่ถูกต้องหรือไม่ครบถ้วน กรมศุลกากร จะมีหนังสือแจ้งให้ผู้ได้รับอนุมัติหลักการทราบภายในเจ็ดวันนับแต่วันที่ได้รับคําร้อง และให้ผู้ได้รับอนุมัติหลักการ ยื่นหนังสือหรือเอกสารเพิ่มเติมให้ถูกต้องครบถ้วนภายในเจ็ดวันนับแต่วันที่ได้รับหนังสือแจ้ง&lt;/li&gt;
 &lt;li&gt;กรมศุลกากรจะมีหนังสือแจ้งผลการพิจารณาการขอแก้ไขเพิ่มเติมหลักการ ที่ได้รับอนุมัติไว้เดิมให้แก่ผู้ยื่นคําร้องทราบ ภายในสามสิบวันนับแต่วันที่ได้รับคําร้องและเอกสารถูกต้องครบถ้วน โดยการขอแก้ไขเพิ่มเติมดังกล่าว จะออกเลขที่อนุมัติหลักการใหม่ พร้อมแนบสําเนาเอกสารการอนุมัติหลักการ ซึ่งพิมพ์จากระบบฐานข้อมูลการลดอัตราอากรและยกเว้นอากรตามมาตรา 12 หากเป็นการยื่นขอแก้ไขเพิ่มเติม การคลาดเคลื่อนเกี่ยวกับข้อมูลอนุมัติ วันเริ่มต้นการได้รับสิทธิและวันหมดอายุการใช้สิทธิ จะใช้เลขที่อนุมัติหลักการเดิม โดยมีการแก้ไขข้อมูล วันเริ่มต้นการได้รับสิทธิและวันหมดอายุให้ถูกต้องเท่านั้น&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;ค-ใหผนาของเขาบนทกขอมล-import-declaration-detail-permit&#34;&gt;(ค) ให้ผู้นําของเข้าบันทึกข้อมูล (Import Declaration Detail (Permit))&lt;/h2&gt;
+
+&lt;h2 id=&#34;ค-ให-ผ-น-าของเข-าบ-นท-กข-อม-ล-import-declaration-detail-permit&#34;&gt;(ค) ให้ผู้นําของเข้าบันทึกข้อมูล (Import Declaration Detail (Permit))&lt;/h2&gt;
+
 &lt;ol&gt;
 &lt;li&gt;ระบุเลขที่อนุมัติหลักการยกเว้นอากรในช่องเลขที่ใบอนุญาต/หนังสือ รับรอง (Permit No.)&lt;/li&gt;
 &lt;li&gt;ระบุวันที่ได้รับอนุมัติหลักการ ในช่องวันที่ออกใบอนุญาต/หนังสือรับรอง (Issue Date)&lt;/li&gt;
 &lt;li&gt;ระบุเลขประจําตัวผู้เสียภาษีอากรของกรมศุลกากร (09544000163011) ในช่องเลขประจําตัวผู้เสียภาษีอากรของหน่วยงานผู้ออกใบอนุญาต/หนังสือรับรอง (Permit Issue Authority)&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;ง-การขอรบของออกไปกอนทจะไดรบอนมตใหยกเวนอากร&#34;&gt;(ง) การขอรับของออกไปก่อนที่จะได้รับอนุมัติให้ยกเว้นอากร&lt;/h2&gt;
+
+&lt;h2 id=&#34;ง-การขอร-บของออกไปก-อนท-จะได-ร-บอน-ม-ต-ให-ยกเว-นอากร&#34;&gt;(ง) การขอรับของออกไปก่อนที่จะได้รับอนุมัติให้ยกเว้นอากร&lt;/h2&gt;
+
 &lt;p&gt;ให้ผู้นําของเข้า ดําเนินการดังนี้&lt;/p&gt;
+
 &lt;ol&gt;
 &lt;li&gt;ให้ชําระอากรในอัตราปกติ โดยในแต่ละรายการของข้อมูลใบขนสินค้าขาเข้า ใน&lt;strong&gt;ซ่องสิทธิพิเศษ&lt;/strong&gt;ให้ระบุเป็น &lt;em&gt;“000”&lt;/em&gt; หรือ &lt;em&gt;“999”&lt;/em&gt; แล้วแต่กรณี&lt;/li&gt;
 &lt;li&gt;ระบุการใช้สิทธิ โดยบันทึกข้อมูลในส่วนรายการของใบขนสินค้าขาเข้า (Import Declaration Detail (Detail) ในช่อง &lt;strong&gt;Argumentative Reason Code&lt;/strong&gt; เป็น &lt;em&gt;“P12”&lt;/em&gt; (หมายถึง การยื่นขอใช้สิทธิลดอัตราอากรและยกเว้นอากรศุลกากรตามมาตรา 12 แห่งพระราชกําหนดพิกัดอัตราศุลกากร พ.ศ. 2530 แต่ยังไม่ได้รับอนุมัติ) และในช่อง &lt;strong&gt;Argumentative Privilege Code ที่ขอใช้สิทธิ&lt;/strong&gt; เป็น &lt;em&gt;“CV5”&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;ให้แจ้งความประสงค์&lt;em&gt;ขอตรวจสอบพิกัดและ/หรือราคา&lt;/em&gt; ในขณะส่งข้อมูล ใบขนสินค้าขาเข้า เข้าสู่ระบบคอมพิวเตอร์ของศุลกากร&lt;/li&gt;
 &lt;li&gt;ต้องยื่นคําร้องในการขอคืนเงินอากรภายในระยะเวลาที่กฎหมายกําหนด&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&#34;จ-กรณการจดทาและยนใบขนสนคาในรปแบบเอกสาร&#34;&gt;(จ) กรณีการจัดทําและยื่นใบขนสินค้าในรูปแบบเอกสาร&lt;/h2&gt;
+
+&lt;h2 id=&#34;จ-กรณ-การจ-ดท-าและย-นใบขนส-นค-าในร-ปแบบเอกสาร&#34;&gt;(จ) กรณีการจัดทําและยื่นใบขนสินค้าในรูปแบบเอกสาร&lt;/h2&gt;
+
 &lt;p&gt;ให้ผู้นําของเข้า ยื่นเอกสารให้ครบถ้วน เพื่อขอใช้สิทธิยกเว้นอากรพร้อมกับการยื่นใบขนสินค้า โดยสําแดงเลขที่เอกสาร ชื่อหน่วยงานที่ออกเอกสาร และการขอใช้สิทธิตามประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรศุลกากร สําหรับของที่นําเข้ามาเพื่อผลิตเป็นหน้ากาก (ฉบับที่ 3) ลงวันที่ 4 ตุลาคม พ.ศ. 2524 ไว้ในใบขนสินค้า&lt;/p&gt;
-&lt;h2 id=&#34;ฉ-เมอหนวยบรการศลกากร-สานกงานศลกากร-หรอดานศลกากร-ณ-ทา-ท-หรอสนามบนทนาของเขา&#34;&gt;(ฉ) เมื่อหน่วยบริการศุลกากร สํานักงานศุลกากร หรือด่านศุลกากร ณ ท่า ที่ หรือสนามบินที่นําของเข้า&lt;/h2&gt;
+
+&lt;h2 id=&#34;ฉ-เม-อหน-วยบร-การศ-ลกากร-ส-าน-กงานศ-ลกากร-หร-อด-านศ-ลกากร-ณ-ท-า-ท-หร-อสนามบ-นท-น-าของเข-า&#34;&gt;(ฉ) เมื่อหน่วยบริการศุลกากร สํานักงานศุลกากร หรือด่านศุลกากร ณ ท่า ที่ หรือสนามบินที่นําของเข้า&lt;/h2&gt;
+
 &lt;p&gt;ได้ตรวจสอบความถูกต้องครบถ้วนของเอกสารและตรงตามข้อมูลใบขนสินค้าขาเข้าแล้ว จะพิจารณาอนุมัติการให้ยกเว้นอากร แต่ถ้าตรวจพบว่าเอกสารไม่ตรงกับข้อมูลใบขนสินค้าขาเข้าจะพิจารณา ดําเนินการตามระเบียบต่อไป&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;800&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 
 &lt;br&gt;
@@ -1046,13 +1279,16 @@
 &lt;br&gt;
 
 
-&lt;h2 id=&#34;เอกสารทเกยวของ&#34;&gt;เอกสารที่เกี่ยวข้อง&lt;/h2&gt;
+
+&lt;h2 id=&#34;เอกสารท-เก-ยวข-อง&#34;&gt;เอกสารที่เกี่ยวข้อง&lt;/h2&gt;
+
 &lt;ul&gt;
-&lt;li&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรศุลกากรสำหรับของที่นำเข้ามาเพื่อผลิตเป็นหน้ากาก (ฉบับที่ 3) &lt;a href=&#34;docs-01.pdf&#34;&gt;(ดาวน์โหลด)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;ประกาศกระทรวงการคลัง เรื่อง การลดอัตราอากรและยกเว้นอากรศุลกากรตามมาตรา 12 แห่งพระราชกำหนดพิกัดอัตราศุลกากร พ.ศ. 2530 (ฉบับที่ 9) &lt;a href=&#34;docs-02.pdf&#34;&gt;(ดาวน์โหลด)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรศุลกากรสำหรับของที่นำเข้ามาเพื่อผลิตเป็นหน้ากาก (ฉบับที่ 3) &lt;a href=&#34;docs-01.pdf&#34; target=&#34;_blank&#34;&gt;(ดาวน์โหลด)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ประกาศกระทรวงการคลัง เรื่อง การลดอัตราอากรและยกเว้นอากรศุลกากรตามมาตรา 12 แห่งพระราชกำหนดพิกัดอัตราศุลกากร พ.ศ. 2530 (ฉบับที่ 9) &lt;a href=&#34;docs-02.pdf&#34; target=&#34;_blank&#34;&gt;(ดาวน์โหลด)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232932404f505f49464b48464a4f&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232932404f505f49464b48464a4f&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -1063,19 +1299,24 @@
       <pubDate>Fri, 08 Oct 2021 06:10:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/law/customs/permission/2564/168/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;
 
 
 &lt;br&gt;
 
 &lt;/p&gt;
+
 &lt;p&gt;ประกาศกรมศุลกากรที่ 126/.2564 เรื่อง การเชื่อมโยงข้อมูลใบอนุญาต/ใบรับรองอิเล็กทรอนิกส์ร่วมกับ&lt;strong&gt;สำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม&lt;/strong&gt; มีผลบังคับตั้งแต่&lt;em&gt;วันที่ 1 พฤศจิกายน พ.ศ. 2564&lt;/em&gt; เป็นต้นไป&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/img-01.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/img-02.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/img-01.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;./img/img-02.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;800&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 
 &lt;br&gt;
@@ -1084,8 +1325,9 @@
 &lt;/div&gt;
 &lt;br&gt;
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232932404f505f48464b47464b47&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232932404f505f48464b47464b47&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -1096,17 +1338,24 @@
       <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/law/oga/excise/2564/15/</guid>
-      <description>&lt;h2 id=&#34;กำหนดรหสสนคาสรรพสามตสำหรบระบบแลกเปลยนขอมลอเลกทรอนกส-electronic-data-interchange-ฉบบท-15-สนคาบหรซกาแรต&#34;&gt;กำหนดรหัสสินค้าสรรพสามิตสำหรับระบบแลกเปลี่ยนข้อมูลอิเล็กทรอนิกส์ (ELECTRONIC DATA INTERCHANGE) (ฉบับที่ 15) (สินค้าบุหรี่ซิกาแรต)&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>
+
+&lt;h2 id=&#34;กำหนดรห-สส-นค-าสรรพสาม-ตสำหร-บระบบแลกเปล-ยนข-อม-ลอ-เล-กทรอน-กส-electronic-data-interchange-ฉบ-บท-15-ส-นค-าบ-หร-ซ-กาแรต&#34;&gt;กำหนดรหัสสินค้าสรรพสามิตสำหรับระบบแลกเปลี่ยนข้อมูลอิเล็กทรอนิกส์ (ELECTRONIC DATA INTERCHANGE) (ฉบับที่ 15) (สินค้าบุหรี่ซิกาแรต)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 &lt;p&gt;เพื่อให้รหัสสินค้าสรรพสามิตและอัตราภาษีสรรพสามิต สำหรับระบบแลกเปลี่ยนข้อมูลอิเล็กทรอนิกส์ (ELECTRONIC DATA INTERCHANGE : EDI) ถูกต้อง และเป็นปัจจุบัน อธิบดีกรมสรรพสามิตจึงกำหนดรหัสสินค้าสรรพสามิต รายการสินค้าสรรพสามิต และอัตราภาษีสรรพสามิต เฉพาะในส่วนของ&lt;em&gt;สินค้าบุหรี่ซิกาแรต&lt;/em&gt; ใน (1) &lt;strong&gt;ของประเภทที่ 14.01 และยาเส้น&lt;/strong&gt; ใน (1) ของ (ข) ของ (6) ของประเภทที่ 14.01 ไว้ ดังต่อไปนี้&lt;/p&gt;
 
 
+
 &lt;br&gt;
+
 
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;800&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 
 &lt;br&gt;
@@ -1119,8 +1368,9 @@
 &lt;br&gt;
 
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;http://edi.excise.go.th/system/upload/0016.pdf&#34;&gt;กรมสรรพสามิต&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://edi.excise.go.th/system/upload/0016.pdf&#34; target=&#34;_blank&#34;&gt;กรมสรรพสามิต&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -1131,17 +1381,24 @@
       <pubDate>Sun, 03 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/law/oga/excise/2564/14/</guid>
-      <description>&lt;h2 id=&#34;กำหนดรหสสนคาสรรพสามตสำหรบระบบแลกเปลยนขอมลอเลกทรอนกส-electronic-data-interchange-ฉบบท-14-สนคาเครองดม&#34;&gt;กำหนดรหัสสินค้าสรรพสามิตสำหรับระบบแลกเปลี่ยนข้อมูลอิเล็กทรอนิกส์ (ELECTRONIC DATA INTERCHANGE) (ฉบับที่ 14) (สินค้าเครื่องดื่ม)&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>
+
+&lt;h2 id=&#34;กำหนดรห-สส-นค-าสรรพสาม-ตสำหร-บระบบแลกเปล-ยนข-อม-ลอ-เล-กทรอน-กส-electronic-data-interchange-ฉบ-บท-14-ส-นค-าเคร-องด-ม&#34;&gt;กำหนดรหัสสินค้าสรรพสามิตสำหรับระบบแลกเปลี่ยนข้อมูลอิเล็กทรอนิกส์ (ELECTRONIC DATA INTERCHANGE) (ฉบับที่ 14) (สินค้าเครื่องดื่ม)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 &lt;p&gt;เพื่อให้รหัสสินค้าสรรพสามิตและอัตราภาษีสรรพสามิต สำหรับระบบแลกเปลี่ยนข้อมูลอิเล็กทรอนิกส์ (ELECTRONIC DATA INTERCHANGE : EDI) ชัดเจน ถูกต้อง และเป็นปัจจุบัน อธิบดีกรมสรรพสามิตจึงกำหนดรหัสสินค้าสรรพสามิต รายการสินค้าสรรพสามิต และอัตราภาษีสรรพสามิต สำหรับ&lt;em&gt;สินค้าเครื่องดื่ม&lt;/em&gt; &lt;strong&gt;ประเภทที่ 02.02 ประเภทที่ 02.03 ประเภทที่ 02.04 และผลิตภัณฑ์ที่ใช้เป็นเครื่องดื่มที่มีลักษณะผง เกล็ด หรือเครื่องดื่มเข้มข้นที่มีส่วนผสมของน้ำตาลและสามารถละลายน้ำได้&lt;/strong&gt; &lt;em&gt;แต่ไม่รวมถึงผลิตภัณฑ์เสริมอาหารและผลิตภัณฑ์นมที่อยู่ในรูปแบบผง ตามกฎหมายว่าด้วยอาหาร ใน(1) ของประเภทที่ 16.90&lt;/em&gt;&lt;/p&gt;
 
 
+
 &lt;br&gt;
+
 
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;800&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 
 &lt;br&gt;
@@ -1154,8 +1411,9 @@
 &lt;br&gt;
 
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;http://edi.excise.go.th/system/upload/0015.pdf&#34;&gt;กรมสรรพสามิต&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://edi.excise.go.th/system/upload/0015.pdf&#34; target=&#34;_blank&#34;&gt;กรมสรรพสามิต&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -1166,16 +1424,20 @@
       <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/law/ministry/2564/09-30/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;strong&gt;กฎกระทรวง กำหนดให้ผู้นำของเข้าเพื่อการผ่านแดน หรือการถ่ายลำได้รับยกเว้นไม่ต้องปฏิบัติตามกฎหมายว่าด้วยศุลกากรทั้งหมด หรือแต่บางส่วน (ฉบับที่ 2) พ.ศ. 2564&lt;/strong&gt;&lt;/p&gt;
 
 
+
 &lt;br&gt; 
+
 
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;800&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 
 &lt;br&gt;
@@ -1186,6 +1448,7 @@
 
 &lt;/div&gt;
 &lt;br&gt;
+
 
 
 &lt;blockquote&gt;
@@ -1200,19 +1463,26 @@
       <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/law/customs/2564/150/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;strong&gt;ประกาศกรมศุลกากร ที่ 150./2564 เรื่อง การขยายระยะเวลาการส่งออกของที่ขอคืนอากรและระยะเวลาการขอคืนอากรตามมาตรา 29 แห่งพระราชบัญญัติศุลกากร พ.ศ. 2560 ในสถานการณ์แพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019 (โควิด-19) (ฉบับที่ 2)&lt;/strong&gt;&lt;/p&gt;
+
 &lt;blockquote class=&#34;book-hint success&#34;&gt;
   ข้อ 1 &lt;strong&gt;กรณีที่ไม่สามารถส่งของที่ได้จากการผลิต ผสม ประกอบ บรรจุ หรือดําเนินการ ด้วยวิธีอื่นใด ออกไปนอกราชอาณาจักร&lt;/strong&gt; &lt;em&gt;ภายในกําหนดหนึ่งปีนับแต่วันนําวัตถุดิบเข้ามาในราชอาณาจักร&lt;/em&gt; ให้&lt;em&gt;ขยายระยะเวลาการส่งออกอีกหกเดือน&lt;/em&gt; &lt;strong&gt;นับแต่วันครบกําหนดระยะเวลาหนึ่งปีดังกล่าว สําหรับการนําเข้า วัตถุดิบ&lt;/strong&gt; ตั้งแต่&lt;em&gt;วันที่ 1 มิถุนายน 2564 ถึงวันที่ 31 ธันวาคม 2564&lt;/em&gt;
 &lt;/blockquote&gt;
+
 
 &lt;blockquote class=&#34;book-hint warning&#34;&gt;
   ข้อ 2 &lt;strong&gt;กรณีที่ไม่สามารถขอคืนอากร&lt;/strong&gt; &lt;em&gt;ภายในกําหนดหกเดือนนับแต่วันที่ส่งของออกไป นอกราชอาณาจักร&lt;/em&gt; ให้&lt;em&gt;ขยายระยะเวลาการขอคืนอากรอีกหกเดือน&lt;/em&gt; &lt;strong&gt;นับแต่วันครบกําหนดระยะเวลาหกเดือนดังกล่าว สําหรับของส่งออกที่ผลิตจากวัตถุดิบที่นําเข้า&lt;/strong&gt;ตั้งแต่&lt;em&gt;วันที่ 1 มิถุนายน 2564 ถึงวันที่ 31 ธันวาคม 2564&lt;/em&gt;
 &lt;/blockquote&gt;
 
+
 &lt;p&gt;ข้อ 3 กรณีอื่น ๆ นอกเหนือจากที่กําหนดไว้ในข้อ 1 และข้อ 2 ให้ขอผ่อนผันตามประกาศ กรมศุลกากรว่าด้วยการคืนอากรตามมาตรา 29 แห่งพระราชบัญญัติศุลกากร พ.ศ. 2560&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;&lt;img src=&#34;docs-01.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;docs-01.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 
 
 &lt;br&gt;
@@ -1225,8 +1495,9 @@
 &lt;br&gt;
 
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232932404f505f46464b4a464b48&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232932404f505f46464b4a464b48&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -1237,20 +1508,24 @@
       <pubDate>Thu, 23 Sep 2021 06:30:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/law/customs/2564/149/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;
 
 
 &lt;br&gt;&lt;br&gt;
 &lt;/p&gt;
+
 &lt;p&gt;&lt;strong&gt;ประกาศกรมศุลกากรที่ 149/.2564 เรื่อง  การแสดงหนังสือรับรองถิ่นกำเนิดสินค้าและคำรับรองถิ่นกำเนิดสินค้า สำหรับผู้นำของเข้า ที่ได้รับผลกระทบจากการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019 (โควิด-19)&lt;/strong&gt;&lt;/p&gt;
 
 
+
 &lt;br&gt;
+
 
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;800&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 
 &lt;br&gt;
@@ -1263,8 +1538,9 @@
 &lt;br&gt;
 
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232932404f505e4f464b4d464b4c&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232932404f505e4f464b4d464b4c&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -1275,12 +1551,17 @@
       <pubDate>Fri, 17 Sep 2021 06:30:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/law/customs/2564/2564-148/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;การขอรบเงนชดเชยคาภาษอากรตามพระราชบญญตชดเชยคาภาษอากรสนคาสงออกทผลตในราชอาณาจกร-พศ-2524&#34;&gt;การขอรับเงินชดเชยค่าภาษีอากรตามพระราชบัญญัติชดเชยค่าภาษีอากรสินค้าส่งออกที่ผลิตในราชอาณาจักร พ.ศ. 2524&lt;/h2&gt;
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;การขอร-บเง-นชดเชยค-าภาษ-อากรตามพระราชบ-ญญ-ต-ชดเชยค-าภาษ-อากรส-นค-าส-งออกท-ผล-ตในราชอาณาจ-กร-พ-ศ-2524&#34;&gt;การขอรับเงินชดเชยค่าภาษีอากรตามพระราชบัญญัติชดเชยค่าภาษีอากรสินค้าส่งออกที่ผลิตในราชอาณาจักร พ.ศ. 2524&lt;/h2&gt;
+
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;800&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 
 &lt;br&gt;
@@ -1293,8 +1574,9 @@
 &lt;br&gt;
 
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232932404f505f46464a4f464b48&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232932404f505f46464a4f464b48&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -1305,20 +1587,24 @@
       <pubDate>Thu, 16 Sep 2021 06:30:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/law/customs/2564/147/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;
 
 
 &lt;br&gt;&lt;br&gt;
 &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;แก้ไขเพิ่มเติมประกาศกรมศุลกากร ที่ 144/2560 เรื่อง หลักเกณฑ์และพิธีการสำหรับการลดอัตราอากรและยกเว้นอากรศุลกากรตามมาตรา 12 แห่งพระราชกำหนดพิกัดอัตราศุลกากร พ.ศ. 2530&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;แก้ไขเพิ่มเติมประกาศกรมศุลกากร ที่ &lt;sup&gt;144&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2560&lt;/sub&gt; เรื่อง หลักเกณฑ์และพิธีการสำหรับการลดอัตราอากรและยกเว้นอากรศุลกากรตามมาตรา 12 แห่งพระราชกำหนดพิกัดอัตราศุลกากร พ.ศ. 2530&lt;/strong&gt;&lt;/p&gt;
+
 
 
 &lt;br&gt;
+
 
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;800&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 
 &lt;br&gt;
@@ -1331,8 +1617,9 @@
 &lt;br&gt;
 
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232932404f505e4f464b4d464b4c&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232932404f505e4f464b4d464b4c&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -1343,20 +1630,24 @@
       <pubDate>Tue, 14 Sep 2021 06:30:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/law/customs/2564/145/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;
 
 
 &lt;br&gt;&lt;br&gt;
 &lt;/p&gt;
+
 &lt;p&gt;&lt;strong&gt;หลักเกณฑ์ วิธีการ และเงื่อนไขการปฏิบัติพิธีการศุลกากรในการยกเว้นอากรศุลกากร สำหรับโครงการระบบดาวเทียมสำรวจ ร้อมระบบภาคพื้นดินและระบบแอปพลิเคชั่นภูมิสารสนเทศ สำหรับโครงการระบบดาวเทียมสำรวจเพื่อการพัฒนา (THEOS-2)&lt;/strong&gt;&lt;/p&gt;
 
 
+
 &lt;br&gt;
+
 
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;800&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 
 &lt;br&gt;
@@ -1369,8 +1660,9 @@
 &lt;br&gt;
 
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232932404f505e4f464b4b464b49&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232932404f505e4f464b4b464b49&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -1381,11 +1673,13 @@
       <pubDate>Tue, 31 Aug 2021 06:30:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/law/customs/2564/2564-135/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;800&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 
 &lt;br&gt;
@@ -1398,8 +1692,9 @@
 &lt;br&gt;
 
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232932404e505f4d464b48464b47&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232932404e505f4d464b48464b47&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -1410,12 +1705,15 @@
       <pubDate>Mon, 30 Aug 2021 06:30:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/law/customs/2564/2564-137/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;docsjpg_Page1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;docsjpg_Page2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;docsjpg_Page1.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;docsjpg_Page2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;800&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 
 &lt;br&gt;
@@ -1428,8 +1726,9 @@
 &lt;br&gt;
 
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232932404e505f4d464b48464b47&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232932404e505f4d464b48464b47&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -1440,17 +1739,23 @@
       <pubDate>Wed, 18 Aug 2021 06:10:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/law/oga/moc/2564-08/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;
-&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;
+&lt;br&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;strong&gt;ประกาศกระทรวงพาณิชย์ เรื่อง กำหนดให้รถจักรยานยนต์ใช้แล้วเป็นสินค้าที่ต้องห้าม ในการนำเข้ามาในราชอาณาจักร&lt;/strong&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;strong&gt;รถจักรยานยนต์&lt;/strong&gt; หมายความว่า รถจักรยานยนต์, รถจักรยานยนต์ไฟฟ้า, รถโมเพ็ด(Moped), รถจักรยานที่ติดตั้งมอเตอร์ช่วย (รถจักรยานไฟฟ้า) รวมทั้งรถพ่วงข้าง ตามพิกัดศุลกากร&lt;strong&gt;ประเภท 87.11&lt;/strong&gt; และรถจักรยานยนต์ซึ่งเป็นโบราณวัตถุที่มีอายุเกินหนึ่งร้อยปี ตามพิกัดอัตราศุลกากร&lt;strong&gt;ประเภท 87.06&lt;/strong&gt; ทั้งนี้ ไม่รวมถึงรถพ่วงข้างที่ไม่ได้ติดตั้งมากับรถ&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;800&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
-&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;br&gt;&lt;/p&gt;
+
 &lt;p&gt;ประกาศนี้ให้ใช้บังคับเมื่อพ้นกำหนด&lt;em&gt;หนึ่งร้อยแปดสิบวัน&lt;/em&gt; นับแต่วันประกาศในราชกิจจานุเบกษาเป็นต้นไป (ประกาศในราชกิจจานุเบกษาเมื่อ&lt;em&gt;วันที่ 11 สิงหาคม 2564&lt;/em&gt;)&lt;/p&gt;
+
 
 
 &lt;br&gt;
@@ -1463,8 +1768,9 @@
 &lt;br&gt;
 
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.dft.go.th/th-th/Detail-Law/ArticleId/19592/19592&#34;&gt;กรมการค้าต่างประเทศ&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.dft.go.th/th-th/Detail-Law/ArticleId/19592/19592&#34; target=&#34;_blank&#34;&gt;กรมการค้าต่างประเทศ&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -1475,10 +1781,16 @@
       <pubDate>Mon, 16 Aug 2021 06:10:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/law/customs/permission/2564-126/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ประกาศกรมศลกากรท-1262564-เรอง-การเชอมโยงขอมลใบอนญาตใบรบรองอเลกทรอนกสรวมกบสำนกงานมาตรฐานผลตภณฑอตสาหกรรม&#34;&gt;ประกาศกรมศุลกากรที่ 126/.2564 เรื่อง การเชื่อมโยงข้อมูลใบอนุญาต/ใบรับรองอิเล็กทรอนิกส์ร่วมกับสำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม&lt;/h2&gt;
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;ประกาศกรมศ-ลกากรท-126-2564-เร-อง-การเช-อมโยงข-อม-ลใบอน-ญาต-ใบร-บรองอ-เล-กทรอน-กส-ร-วมก-บสำน-กงานมาตรฐานผล-ตภ-ณฑ-อ-ตสาหกรรม&#34;&gt;ประกาศกรมศุลกากรที่ 126/.2564 เรื่อง การเชื่อมโยงข้อมูลใบอนุญาต/ใบรับรองอิเล็กทรอนิกส์ร่วมกับสำนักงานมาตรฐานผลิตภัณฑ์อุตสาหกรรม&lt;/h2&gt;
+
 &lt;p&gt;มีผลบังคับ&lt;strong&gt;ตั้งแต่วันที่ 1 กันยายน พ.ศ. 2564 เป็นต้นไป&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;img-01.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;img-01.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 
 
 &lt;br&gt;
@@ -1491,8 +1803,9 @@
 &lt;br&gt;
 
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232932404e505f4d464b48464b47&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232932404e505f4d464b48464b47&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -1503,12 +1816,20 @@
       <pubDate>Mon, 16 Aug 2021 05:10:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/law/customs/permission/2564-125/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ประกาศกรมศลกากรท-1252564-เรอง-การเชอมโยงขอมลใบอนญาตใบรบรองอเลกทรอนกสรวมกบกรมประมง&#34;&gt;ประกาศกรมศุลกากรที่ 125/.2564 เรื่อง การเชื่อมโยงข้อมูลใบอนุญาต/ใบรับรองอิเล็กทรอนิกส์ร่วมกับกรมประมง&lt;/h2&gt;
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;ประกาศกรมศ-ลกากรท-125-2564-เร-อง-การเช-อมโยงข-อม-ลใบอน-ญาต-ใบร-บรองอ-เล-กทรอน-กส-ร-วมก-บกรมประมง&#34;&gt;ประกาศกรมศุลกากรที่ 125/.2564 เรื่อง การเชื่อมโยงข้อมูลใบอนุญาต/ใบรับรองอิเล็กทรอนิกส์ร่วมกับกรมประมง&lt;/h2&gt;
+
 &lt;p&gt;มีผลบังคับ&lt;strong&gt;ตั้งแต่วันที่ 1 กันยายน พ.ศ. 2564 เป็นต้นไป&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;125-2564jpg_Page2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;125-2564jpg_Page3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;125-2564jpg_Page4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;125-2564jpg_Page2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;125-2564jpg_Page3.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;125-2564jpg_Page4.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
 
 
 &lt;br&gt;
@@ -1521,19 +1842,11 @@
 &lt;br&gt;
 
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232932404e505f4d464b48464b46&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232932404e505f4d464b48464b46&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>ประกาศ / กฎหมาย</title>
-      <link>https://ecs-support.github.io/KM/customs/post/announcement/</link>
-      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/KM/customs/post/announcement/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -1542,14 +1855,21 @@
       <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/law/customs/2561/2561-07/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ประกาศกรมศลกากร-ท-72561-เรอง-อตราคาระวางบรรทกทางอากาศยานเฉลยตาม-zone&#34;&gt;ประกาศกรมศุลกากร ที่ 7/.2561 เรื่อง อัตราค่าระวางบรรทุกทางอากาศยานเฉลี่ยตาม ZONE&lt;/h2&gt;
-&lt;!-- raw HTML omitted --&gt;
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;ประกาศกรมศ-ลกากร-ท-7-2561-เร-อง-อ-ตราค-าระวางบรรท-กทางอากาศยานเฉล-ยตาม-zone&#34;&gt;ประกาศกรมศุลกากร ที่ 7/.2561 เรื่อง อัตราค่าระวางบรรทุกทางอากาศยานเฉลี่ยตาม ZONE&lt;/h2&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;800&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 
 &lt;br&gt;
@@ -1562,8 +1882,9 @@
 &lt;br&gt;
 
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.ratchakitcha.soc.go.th/DATA/PDF/2561/E/184/15.PDF&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.ratchakitcha.soc.go.th/DATA/PDF/2561/E/184/15.PDF&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -1574,19 +1895,24 @@
       <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/law/customs/2564/106/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ประกาศกรมศลกากรท-1062564-เรอง-แกไขเพมเตมประกาศกรมศลกากรท-1072561-การปฏบต-พธการศลกากรเฉพาะเรองวาดวยการนาเขา-การสงออก-และการนาผานสนคาสตวนาและผลตภณฑสตวนา-&#34;&gt;ประกาศกรมศุลกากรที่ 106/.2564 เรื่อง แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 107/.2561 (การปฏิบัติ พิธีการศุลกากรเฉพาะเรื่องว่าด้วยการนําเข้า การส่งออก และการนําผ่านสินค้าสัตว์น้ําและผลิตภัณฑ์สัตว์น้ํา )&lt;/h2&gt;
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;ประกาศกรมศ-ลกากรท-106-2564-เร-อง-แก-ไขเพ-มเต-มประกาศกรมศ-ลกากรท-107-2561-การปฏ-บ-ต-พ-ธ-การศ-ลกากรเฉพาะเร-องว-าด-วยการน-าเข-า-การส-งออก-และการน-าผ-านส-นค-าส-ตว-น-าและผล-ตภ-ณฑ-ส-ตว-น-า&#34;&gt;ประกาศกรมศุลกากรที่ 106/.2564 เรื่อง แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 107/.2561 (การปฏิบัติ พิธีการศุลกากรเฉพาะเรื่องว่าด้วยการนําเข้า การส่งออก และการนําผ่านสินค้าสัตว์น้ําและผลิตภัณฑ์สัตว์น้ํา )&lt;/h2&gt;
+
 &lt;p&gt;ตามที่กรมศุลกากรได้เผยแพร่ ประกาศกรมศุลกากรที่ 106/.2564 เรื่อง แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 107/.2561 (การปฏิบัติ พิธีการศุลกากรเฉพาะเรื่องว่าด้วยการนําเข้า การส่งออก และการนําผ่านสินค้าสัตว์น้ําและผลิตภัณฑ์สัตว์น้ํา ) ตามพิกัดอัตราศุลกากรประเภท &lt;strong&gt;13.02 03.03 13.04 และ 16.04&lt;/strong&gt; ให้ยกเลิกความในข้อ 2.1 และให้ใช้ความต่อไปนี้แทน
-&lt;!-- raw HTML omitted --&gt;
+&lt;br&gt;
 &lt;blockquote class=&#34;book-hint danger&#34;&gt;
   &lt;strong&gt;“2.1 ให้ผู้นําของเข้าส่งข้อมูลหนังสืออนุญาตให้นําสัตว์น้ําบางชนิดเข้ามาใน ราชอาณาจักรไทยและใบแจ้งอนุมัตินําสัตว์หรือซากสัตว์เข้าผ่านราชอาณาจักร (แบบ ร.6) และใบอนุญาตอื่น ๆ ที่เกี่ยวข้อง (ถ้ามี) เข้าระบบอิเล็กทรอนิกส์ตามที่กรมศุลกากรกําหนดเพื่อจัดทําใบขนสินค้าขาเข้า ซึ่งจะ ถูกกําหนดเงื่อนไขการสั่งการตรวจตามหลักบริหารความเสี่ยง ทั้งนี้ ในกรณีต้องเปิดตรวจ (Red Line) ให้ดําเนินการตามข้อ 2.2 ต่อไป”&lt;/strong&gt;
 &lt;/blockquote&gt;
 
-&lt;!-- raw HTML omitted --&gt;
+&lt;br&gt;
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;800&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;&lt;/p&gt;
+
 
 
 &lt;br&gt;
@@ -1599,8 +1925,9 @@
 &lt;br&gt;
 
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232932404e505f4b464b48464b49&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232932404e505f4b464b48464b49&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
@@ -1611,14 +1938,21 @@
       <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/law/customs/2561/106/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ประกาศกรมศลกากร-ท-1062561-เรอง-หลกเกณฑ-วธการ-และเงอนไขการปฏบตพธการศลกากร-นำเขาทางอเลกทรอนกสวาดวยรถยนตสำเรจรป&#34;&gt;ประกาศกรมศุลกากร ที่ 106/.2561 เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการปฏิบัติพิธีการศุลกากร นำเข้าทางอิเล็กทรอนิกส์ว่าด้วย&lt;strong&gt;รถยนต์สำเร็จรูป&lt;/strong&gt;&lt;/h2&gt;
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;ประกาศกรมศ-ลกากร-ท-106-2561-เร-อง-หล-กเกณฑ-ว-ธ-การ-และเง-อนไขการปฏ-บ-ต-พ-ธ-การศ-ลกากร-นำเข-าทางอ-เล-กทรอน-กส-ว-าด-วย-รถยนต-สำเร-จร-ป&#34;&gt;ประกาศกรมศุลกากร ที่ 106/.2561 เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการปฏิบัติพิธีการศุลกากร นำเข้าทางอิเล็กทรอนิกส์ว่าด้วย&lt;strong&gt;รถยนต์สำเร็จรูป&lt;/strong&gt;&lt;/h2&gt;
+
 &lt;p&gt;&lt;strong&gt;รถยนต์สำเร็จรูป&lt;/strong&gt; หมายความว่า &lt;strong&gt;รถยนต์โดยสาร&lt;/strong&gt;ตามพิกัดศุลกากร &lt;strong&gt;ประเภท 87.02&lt;/strong&gt; และ&lt;strong&gt;รถยนต์นั่ง&lt;/strong&gt; ตามพิกัดศุลกากร&lt;strong&gt;ประเภท 87.03&lt;/strong&gt; และให้หมายความรวมถึงรถยนต์สำเร็จรูปที่นำเข้าเก็บรักษาในคลังสินค้าทันฑ์บน หรือเขตปลอดอากร หรือเขตประกอบการเสรี และภายหลังมีการปฏิบัติการโอนย้ายภายในประเทศ หรือมีการชำระภาษีอากรเพื่อบริโภคภายในประเทศด้วย&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
 &lt;div class=&#34;responsive-wrap&#34;&gt;
   &lt;iframe src=&#34;./docs.pdf&#34; frameborder=&#34;0&#34; width=&#34;100%&#34; height=&#34;800&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;
     allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 
 
 &lt;br&gt;
@@ -1631,10 +1965,20 @@
 &lt;br&gt;
 
 
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14223132414d505f49464b4c464a4f&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14223132414d505f49464b4c464a4f&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>ประกาศ / กฎหมาย</title>
+      <link>https://ecs-support.github.io/KM/customs/post/announcement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/post/announcement/</guid>
+      <description></description>
     </item>
     
   </channel>
