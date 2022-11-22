@@ -122,12 +122,7 @@
 &lt;li&gt;ยกเว้นอากร ให้บันทึก Exemption Rate = 100&lt;/li&gt;
 &lt;li&gt;ลดเหลือกึ่งหนึ่ง ให้บันทึก Exemption Rate = 50&lt;/li&gt;
 &lt;li&gt;ลดเหลือร้อยละ 5 ให้บันทึก Exemption Rate = 95&lt;/li&gt;
-<<<<<<< HEAD
-&lt;/ul&gt;
-&lt;/li&gt;
-=======
 &lt;/ul&gt;&lt;/li&gt;
->>>>>>> ecs_pc
 &lt;li&gt;การวางประกัน ให้ระบุรหัสเหตุผลการวางประกันมาในช่อง Deposit Reason Code (D10) ที่ส่วนรายการในใบขนสินค้า
 (Deposit) ระบุจำนวนเงินวางประกันมาในช่อง Deposit Amount ที่ส่วนรายการในใบขนสินค้า (Duty) และที่ส่วนรายการในใบขนสินค้า (Deposit)
 

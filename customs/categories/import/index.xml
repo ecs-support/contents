@@ -153,11 +153,7 @@
 &lt;li&gt;บัญชีรายละเอียดบรรจุหีบห่อ (Packing List)&lt;/li&gt;
 &lt;li&gt;ใบตราส่งสินค้า (Bill of Lading)&lt;/li&gt;
 &lt;li&gt;ใบแจ้งยอดเบี้ยประกัน (Insurance Premium Invoice)&lt;/li&gt;
-<<<<<<< HEAD
-&lt;li&gt;ใบอนุญาตหรือหนังสืออนุญาตสำหรับสินค้าควบคุมการนำเข้าได้จาก &lt;a href=&#34;https://www.customs.go.th&#34;&gt;www.customs.go.th&lt;/a&gt; เลือกรายการของควบคุมการนำเข้า-ส่งออก&lt;/li&gt;
-=======
 &lt;li&gt;ใบอนุญาตหรือหนังสืออนุญาตสำหรับสินค้าควบคุมการนำเข้าได้จาก www.customs.go.th เลือกรายการของควบคุมการนำเข้า-ส่งออก&lt;/li&gt;
->>>>>>> ecs_pc
 &lt;li&gt;ใบรับรองแหล่งกำเนิดสินค้า (Certificate of Origin) กรณีขอลดอัตราอากร&lt;/li&gt;
 &lt;li&gt;เอกสารอื่น ๆ เช่น เอกสารแสดงส่วนผสม คุณลักษณะและการใช้งานของสินค้าแค็ตตาล็อก เป็นต้น&lt;/li&gt;
 &lt;/ul&gt;
@@ -572,45 +568,12 @@
     </item>
     
     <item>
-      <title>การนำหรือสั่งเครื่องสำอางเข้ามาในราชอาณาจักร</title>
-      <link>https://ecs-support.github.io/KM/customs/talk/import/import-04/</link>
-      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/KM/customs/talk/import/import-04/</guid>
-      <description>&lt;ul&gt;
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> d5b7d1cd2fdaf504191f7cec87151b8754a3292b
-&lt;li&gt;
-&lt;p&gt;การนำเข้าเครื่องสำอางสำเร็จรูปเพื่อขาย ต้องจดแจ้งรายละเอียดของเครื่องสำอางกับ อย.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;การนำเข้าเครื่องสำอางสำเร็จรูปที่ไม่ใช่เพื่อขาย หากมีการนำเข้า&lt;em&gt;รายการละไม่เกิน 6 ชิ้น&lt;/em&gt; ให้ถือว่า
-เป็นการนำเข้ามาในราชอาณาจักรที่อยู่ในอำนาจของพนักงานเจ้าหน้าที่ ณ ด่านนำเข้า ที่จะพิจารณาให้นำเข้าได้ โดยไม่ต้องแจ้งการนำเข้าต่อ อย. (นายด่านศุลกากรเป็นพนักงานเจ้าหน้าที่ ณ ด่านนำเข้า
-ตามประกาศกระทรวงสาธารณะสุข เรื่อง แต่งตั้งพนักงานเจ้าหน้าที่เพื่อปฏิบัติการตามพระราชบัญญัติเครื่องสำอาง พ.ศ. 2558)&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;ที่มา : กรมศุลกากร&lt;/li&gt;
-<<<<<<< HEAD
-=======
-=======
-&lt;li&gt;วันที่ปรับปรุงล่าสุด : 25 กันยายน 2563&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
       <title>การนำหรือสั่งอาหารเข้ามาในราชอาณาจักร</title>
       <link>https://ecs-support.github.io/KM/customs/talk/import/import-05/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/talk/import/import-05/</guid>
       <description>&lt;ul&gt;
->>>>>>> d5b7d1cd2fdaf504191f7cec87151b8754a3292b
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;การนำเข้าอาหารเพื่อจำหน่าย&lt;/strong&gt;จะต้องได้รับอนุญาตจากผู้อนุญาตก่อนการนำเข้า ตามมาตรา 15  แห่งพระราชบัญญัติอาหาร พ.ศ. 2522&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;การนำเข้า&lt;/strong&gt;&lt;strong&gt;อาหาร&lt;/strong&gt;&lt;strong&gt;เพื่อบริโภคส่วนตัว&lt;/strong&gt;ทางไปรษณีย์ระหว่างประเทศ หรือการนำติดตัวเข้ามา สามารถทำได้โดยไม่ต้องมีใบอนุญาตนำเข้า แต่ต้องอยู่ในเงื่อนไขดังนี้&lt;/p&gt;&lt;/li&gt;
@@ -628,10 +591,6 @@
 &lt;blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_faq.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;left_menu=menu_center_004&amp;amp;ini_menu=&amp;amp;current_id=14232832414c505e4e464b4b464b48&#34; target=&#34;_blank&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/li&gt;
-<<<<<<< HEAD
->>>>>>> ecs_pc
-=======
->>>>>>> d5b7d1cd2fdaf504191f7cec87151b8754a3292b
 &lt;li&gt;วันที่ปรับปรุงล่าสุด : 25 กันยายน 2563&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
@@ -639,39 +598,12 @@
     </item>
     
     <item>
-<<<<<<< HEAD
-=======
       <title>การนำหรือสั่งเครื่องสำอางเข้ามาในราชอาณาจักร</title>
       <link>https://ecs-support.github.io/KM/customs/talk/import/import-04/</link>
       <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/talk/import/import-04/</guid>
       <description>&lt;ul&gt;
-<<<<<<< HEAD
-<<<<<<< HEAD
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;การนำเข้าอาหารเพื่อจำหน่าย&lt;/strong&gt;จะต้องได้รับอนุญาตจากผู้อนุญาตก่อนการนำเข้า ตามมาตรา 15  แห่งพระราชบัญญัติอาหาร พ.ศ. 2522&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;การนำเข้า&lt;strong&gt;&lt;strong&gt;อาหาร&lt;/strong&gt;&lt;/strong&gt;เพื่อบริโภคส่วนตัว&lt;/strong&gt;ทางไปรษณีย์ระหว่างประเทศ หรือการนำติดตัวเข้ามา สามารถทำได้โดยไม่ต้องมีใบอนุญาตนำเข้า แต่ต้องอยู่ในเงื่อนไขดังนี้&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;ต้องไม่เข้าข่ายอาหารที่ห้ามนำเข้าตามประกาศกระทรวงสาธารณสุข เรื่อง กำหนดอาหาร&lt;br&gt;
-ที่ห้ามผลิต นำเข้า หรือจำหน่าย&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;จำนวนตามที่สำนักด่านอาหารและยากำหนดว่าเป็นปริมาณอาหารเพื่อบริโภคเฉพาะตน&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;ไม่ถือเป็นการนำเข้าเพื่อจำหน่าย คืออาหารไม่เกินจำนวนที่บริโภคได้ 30 วัน และไม่เกิน 30 กิโลกรัม หรือ 10 ลิตร อย่างไรก็ตาม พนักงานเจ้าหน้าที่ที่เกี่ยวข้องจะพิจารณาตามลักษณะของผลิตภัณฑ์ประกอบกับข้อเท็จจริงในการนำเข้า&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_faq.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;left_menu=menu_center_004&amp;amp;ini_menu=&amp;amp;current_id=14232832414c505e4e464b4b464b48&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/li&gt;
-=======
-=======
->>>>>>> d5b7d1cd2fdaf504191f7cec87151b8754a3292b
 &lt;li&gt;&lt;p&gt;การนำเข้าเครื่องสำอางสำเร็จรูปเพื่อขาย ต้องจดแจ้งรายละเอียดของเครื่องสำอางกับ อย.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;การนำเข้าเครื่องสำอางสำเร็จรูปที่ไม่ใช่เพื่อขาย หากมีการนำเข้า&lt;em&gt;รายการละไม่เกิน 6 ชิ้น&lt;/em&gt; ให้ถือว่า
@@ -682,10 +614,6 @@
 &lt;blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;ที่มา : กรมศุลกากร&lt;br /&gt;&lt;/li&gt;
-<<<<<<< HEAD
->>>>>>> ecs_pc
-=======
->>>>>>> d5b7d1cd2fdaf504191f7cec87151b8754a3292b
 &lt;li&gt;วันที่ปรับปรุงล่าสุด : 25 กันยายน 2563&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
@@ -693,7 +621,6 @@
     </item>
     
     <item>
->>>>>>> ecs_pc
       <title>ต้องการทราบว่ากรณีสินค้าที่ผลิตในราชอาณาจักรแล้วส่งออกไปเก็บไว้ยังต่างประเทศ หากนำเข้ามาขายในประเทศไทยจะได้รับยกเว้นอากรหรือไม่</title>
       <link>https://ecs-support.github.io/KM/customs/talk/import/import-02/</link>
       <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
