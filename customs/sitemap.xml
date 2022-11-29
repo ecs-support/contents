@@ -1414,27 +1414,47 @@
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/authors/admin/</loc>
-    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/authors/</loc>
-    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/categories/</loc>
-    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/tags/e-commerce/</loc>
+    <lastmod>2022-11-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/</loc>
-    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/categories/knowledge/</loc>
+    <lastmod>2022-11-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://ecs-support.github.io/KM/customs/tags/</loc>
-    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/post/knowledge/</loc>
+    <lastmod>2022-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ecs-support.github.io/KM/customs/post/knowledge/2022/11-29/</loc>
+    <lastmod>2022-11-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1543,17 +1563,7 @@
   </url>
   
   <url>
-    <loc>https://ecs-support.github.io/KM/customs/categories/knowledge/</loc>
-    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ecs-support.github.io/KM/customs/post/knowledge/2022/10-25/</loc>
-    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ecs-support.github.io/KM/customs/post/knowledge/</loc>
     <lastmod>2022-10-25T00:00:00+00:00</lastmod>
   </url>
   
