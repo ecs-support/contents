@@ -7,10 +7,19 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
-    <lastBuildDate>Mon, 30 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Jan 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ecs-support.github.io/KM/customs/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>บทความน่ารู้</title>
+      <link>https://ecs-support.github.io/KM/customs/post/knowledge/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>หลักเกณฑ์และพิธีการสำหรับการลดอัตราอากรและยกเว้นอากรศุลกากร ตามมาตรา 12 (ของนําเข้ามาเพื่อการศึกษาและการวิจัยของสถานศึกษา)</title>
@@ -60,15 +69,6 @@
 &lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142329324149505f4c464b4a464a4f&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>บทความน่ารู้</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/</link>
-      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/</guid>
-      <description></description>
     </item>
     
     <item>
