@@ -31,7 +31,7 @@
 &lt;/div&gt;
       
 &lt;div class=&#34;div-btn&#34;&gt;
-    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;badge badge-danger &#34;&gt;
+    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
   Download
 &lt;/a&gt;
 &lt;/div&gt;
@@ -67,7 +67,7 @@
 &lt;/div&gt;
       
 &lt;div class=&#34;div-btn&#34;&gt;
-    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;badge badge-danger &#34;&gt;
+    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
   ดาวน์โหลดประกาศ
 &lt;/a&gt;
 &lt;/div&gt;
@@ -76,7 +76,7 @@
 &lt;/div&gt;
       
 &lt;div class=&#34;div-btn&#34;&gt;
-    &lt;a  href=&#34;./annex_46-2566.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;badge badge-danger &#34;&gt;
+    &lt;a  href=&#34;./annex_46-2566.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
   ดาวน์โหลดภาคผนวก
 &lt;/a&gt;
 &lt;/div&gt;
@@ -103,7 +103,7 @@
 &lt;/div&gt;
       
 &lt;div class=&#34;div-btn&#34;&gt;
-    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;badge badge-danger &#34;&gt;
+    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
   Download
 &lt;/a&gt;
 &lt;/div&gt;

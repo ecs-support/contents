@@ -23,7 +23,7 @@
 &lt;p&gt;&lt;img src=&#34;docsjpg_Page3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
       
 &lt;div class=&#34;div-btn&#34;&gt;
-    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;badge badge-danger &#34;&gt;
+    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
   Download
 &lt;/a&gt;
 &lt;/div&gt;

@@ -7,7 +7,7 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
-    <lastBuildDate>Thu, 02 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Mar 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ecs-support.github.io/KM/customs/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>ข่าวสารเพื่อการนำเข้า-ส่งออก</title>
       <link>https://ecs-support.github.io/KM/customs/post/news/</link>
-      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/post/news/</guid>
       <description></description>
@@ -40,7 +40,7 @@
 &lt;/div&gt;
       
 &lt;div class=&#34;div-btn&#34;&gt;
-    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;badge badge-danger &#34;&gt;
+    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
   Download
 &lt;/a&gt;
 &lt;/div&gt;
@@ -76,7 +76,7 @@
 &lt;/div&gt;
       
 &lt;div class=&#34;div-btn&#34;&gt;
-    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;badge badge-danger &#34;&gt;
+    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
   ดาวน์โหลดประกาศ
 &lt;/a&gt;
 &lt;/div&gt;
@@ -85,7 +85,7 @@
 &lt;/div&gt;
       
 &lt;div class=&#34;div-btn&#34;&gt;
-    &lt;a  href=&#34;./annex_46-2566.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;badge badge-danger &#34;&gt;
+    &lt;a  href=&#34;./annex_46-2566.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
   ดาวน์โหลดภาคผนวก
 &lt;/a&gt;
 &lt;/div&gt;
@@ -121,7 +121,7 @@
 &lt;/div&gt;
       
 &lt;div class=&#34;div-btn&#34;&gt;
-    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;badge badge-danger &#34;&gt;
+    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
   Download
 &lt;/a&gt;
 &lt;/div&gt;
