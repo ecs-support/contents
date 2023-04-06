@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Javascript Login Form Validation</title>
+
+ <link rel="stylesheet" href="style.css" />
+ <!-- Include JS File Here -->
+ <script src="login.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header>Login Form</header>
+<form id="form_id" method="post" name="myform">
+<label>User:</label>
+<select id="username">
+    <option value="" disabled selected></option>
+    <option value="customs">GCL CUSTOMS TEAM</option>
+    <option value="transport">GCL TRANSPORT TEAM</option>
+    <option value="shipping">V-SERVE SHIPPING</option>
+    <option value="admin">Administrator</option>
+</select>
+<label>Password :</label>
+<div class="input-field">
+    <input class="pswrd" type="password" required id="password">
+    <span class="show">SHOW</span>
+    <label>Password</label>
+</div>
+
+<div class="button">
+    <div class="inner"></div>
+    <button value="Login" id="submit" onclick="validate()">LOGIN</button>
+</div>
+</form>
+
+</div>
+</div>
+</body>
+</html>

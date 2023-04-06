@@ -1,0 +1,148 @@
+
+ Sub OnBeforePrint
+
+BranchCode = vba.StaticVarGetValue("BranchCode")
+   RefNO = vba.StaticVarGetValue("RefNO")
+   dim TotalNW,TotalQty,TotalInvQty,TotalPackQty
+   DefaultYear = vba.StaticVarGetValue("DefaultYear")
+   rpt.txtTSalesCur.Text = rpt.txtTSalesCur.Tag
+  ' if rpt.txtTSalesCur.Text = "THB" then
+  '    rpt.txtTSalesTotalPrice.DataValue = rpt.txtTDSalesNetPriceTHB.DataValue
+  ' end if
+
+   set ResH = dbo.GetRecordset("DecHeader")
+   rpt.txtTGrossWeight.Text = vba.Format(ResH("TotalGrossW").value,"#,##0.000") & " " & ResH("WeightUnit").value
+   'rpt.txtManagerName.Text = "(" & ResH("ManagerName").value & ")"
+  ' rpt.txtManagerNo.Text = ResH("ManagerNo").value
+   'rpt.txtDecDate.Text = vba.ShowDate(ResH("UDateDeclare").value)
+   'SQLText = "select * from Mas_Manager where CardID='" & ResH("ManagerNo").value & "'"
+   'set r = dbo.OpenRecordset("Manager",SQLText)
+   'if not (r.eof = true and r.bof = true) then
+    '  rpt.txtCardDate.Text = vba.ShowDate(r("CardBeginDate").value) & " - " & vba.ShowDate(r("CardFinishDate").value)
+   'else
+      'rpt.txtCardDate.Text = ""
+   'end if
+   'dbo.CloseRecordset("Manager")
+   'set r = nothing
+   set ResH = dbo.GetRecordset("DecHeader")
+   a = Masterinfo.GetConstant("IsCounterService")
+   bb = vba.StaticvarGetValue("IsShowName")
+   rpt.txtDecDate.Text = vba.ShowDate(ResH("UDateDeclare").value,DefaultYear) ' วันที่ได้ 02
+        if a = 1 then
+             rpt.txtManagerName.Text = "(" & ResH("ManagerName").value & " / " &ResH("ManagerNo").value & ")"   ' ชื่อผู้จัดการ
+        '     rpt.txtManagerNo.Text = ResH("ManagerNo").value  ' tax ผู้จัดการ
+    '.....หาวันที่เริ่มต้นกับวันที่หมดอายุบัตรผู้จัดการ
+             SQLText = "select * from Mas_Manager where CardID='" & ResH("ManagerNo").value & "'"
+             set r = dbo.OpenRecordset("Manager",SQLText)
+             if not (r.eof = true and r.bof = true) then
+   	rpt.txtCardDate.Text = vba.ShowDate(r("CardBeginDate").value,DefaultYear ) & " - " & vba.ShowDate(r("CardFinishDate").value,DefaultYear )
+             else
+     	rpt.txtCardDate.Text = ""
+             end if
+             dbo.CloseRecordset("Manager")
+             set r = nothing
+      else
+             sqltext = "select  isOtherSign from Autos_Sign where Refno = '" & RefNo & "' and AppName = 'IDEC'"
+                 set rSign = dbo.OpenRecordset("sSign",SQLText)
+		if  not (rSign.eof = true and rSign.Bof ) then
+    		select case bb
+ 			case "0": rpt.txtManagerName.Text = "(" & rpt.txtExpName.Text  & ")"
+			case "1":
+				if  rpt.txtBrokerName.datavalue  <> "" then
+		                  		 rpt.txtManagerName.Text =  "(" &  rpt.txtBrokerNameEng.Text & ")"
+          			          	else
+		                    		rpt.txtManagerName.Text = "(" & rpt.txtExpName.Text  & ")"
+		          		end if
+			
+		  	case else
+				if   rSign("IsOtherSign") = 1 then
+		     			rpt.txtManagerName.Text = "(" & rpt.txtExpName.Text  & ")"
+		 		else
+ 		          			if  rpt.txtBrokerName.datavalue  <> "" then
+		                  			 rpt.txtManagerName.Text =  "(" &  rpt.txtBrokerNameEng.Text & ")"
+          			          		else
+		                    			rpt.txtManagerName.Text = "(" & rpt.txtExpName.Text  & ")"
+		          			end if
+				end if
+		end select
+		else
+		      rpt.txtManagerName.Text =""
+		     rpt.txtCardDate.Text = ""
+                               end if
+   end if
+
+'.....
+
+   rpt.txtcompcode.text  = ""
+   sqltext = "Select CompCode,NMBDiv from DecI_Invoice where RefNo =  '" & RefNo & "'"
+    set rInv = dbo.OpenRecordset("RInv",SQLText)
+     if not(rInv.eof = true and rInv.bof = true) then
+	'rpt.txtcompcode.text = rInv("CompCode").value & "/"
+	'msgbox  rpt.txtcompcode.text 
+	do while not rInv.eof
+                         if   rinv("CompCode").value <> "" and rinv("NMBDiv").value <> "" then
+		if instr(  rpt.txtcompcode.text ,  rinv("CompCode").value& "/" & rinv("NMBDiv").value) = 0 then
+       	                            rpt.txtcompcode.text  = rpt.txtcompcode.text  & rinv("CompCode").value& "/"  & rinv("NMBDiv").value &","
+                                end if
+                          end if
+	          rinv.movenext
+	loop
+     end if
+     if len( rpt.txtCompCode.text) > 0 then
+	if right(rpt.txtCompCode.text,1) = "," then
+		rpt.txtCompCode.text = left(rpt.txtCompCode.text ,len(rpt.txtCompCode.text) -1)
+	end if
+    end if
+
+   rpt.txtJobNO1.Text = ""
+   if ResH("ECS_JobNO").value <> "" then   rpt.txtJobNO1.Text = "Job No." & ResH("ECS_JobNO").value
+   rpt.txtStatus.Text = "STATUS=" & vba.Format(ResH("DocStatus").value,"00")
+  rpt.txtUser.text ="By User : " & ResH("RecByUser").value
+   select case ResH("DocStatus").value
+      case 1: rpt.txtAuditDate.Text = vba.ShowDate(ResH("RecDate").value,DefaultYear )
+      case 2: rpt.txtAuditDate.Text = vba.ShowDate(ResH("UDateDeclare").value,DefaultYear )
+      case 3: rpt.txtAuditDate.Text = vba.ShowDate(ResH("UDateRelease").value,DefaultYear )
+      case 4: rpt.txtAuditDate.Text = vba.ShowDate(ResH("UDateActual").value,DefaultYear )
+      case 98: rpt.txtAuditDate.Text = vba.ShowDate(ResH("CancelDate").value,DefaultYear )
+      case 99: rpt.txtAuditDate.Text = vba.ShowDate(ResH("CancelAcceptDate").value,DefaultYear )
+   end select
+'.....................................................
+' GET DATA FROM DecI_DeclareNote  ที่  Title = REMARK
+   rpt.txtOtherRemark.text = ""
+  sqltext =" select * from DecI_DeclareNote where RefNo = '"& RefNO & "' and BranchCode = '" & BranchCode & "' and Title IN ('REMARK','TPACK')"
+  set rMark= dbo.OpenRecordSet("rMark",sqltext)
+  if not (rMark.eof = true and rMark.bof = true) then
+      rpt.txtOtherRemark.datavalue =  rMark("DReMark").value
+   end if
+'.........................................................
+
+'.....................................................
+' GET DATA FROM DecI_DeclareNote  ที่  Title = REMARK1
+   rpt.txtOtherRemark1.text = ""
+  sqltext =" select * from DecI_DeclareNote where RefNo = '"& RefNO & "' and BranchCode = '" & BranchCode & "' and Title IN ('REMARK1','TPACK')"
+  set rMark= dbo.OpenRecordSet("rMark",sqltext)
+  if not (rMark.eof = true and rMark.bof = true) then
+      rpt.txtOtherRemark1.datavalue =  rMark("DReMark").value
+   end if
+'.....................................................
+
+'.....................................................
+' GET DATA FROM DecI_DeclareNote  ที่  Title = UPDATE
+   rpt.txtUpdate.text = ""
+  sqltext =" select * from DecI_DeclareNote where RefNo = '"& RefNO & "' and BranchCode = '" & BranchCode & "' and Title = 'UPDATE'"
+  set rMark= dbo.OpenRecordSet("rMark",sqltext)
+  if not (rMark.eof = true and rMark.bof = true) then
+      rpt.txtUpdate.datavalue =  rMark("DReMark").value
+   end if
+'.........................................................
+End Sub
+
+
+
+Sub OnFormat
+ if    rpt.txtTExpense.Text = "" then
+	rpt.Field27.visible = false
+else
+	rpt.Field27.visible = true
+end if
+End Sub
