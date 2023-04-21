@@ -7,10 +7,28 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
-    <lastBuildDate>Tue, 11 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Apr 2023 06:10:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://ecs-support.github.io/KM/customs/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OGA</title>
+      <link>https://ecs-support.github.io/KM/customs/categories/oga/</link>
+      <pubDate>Fri, 21 Apr 2023 06:10:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/categories/oga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ประกาศกระทรวงกลาโหม</title>
+      <link>https://ecs-support.github.io/KM/customs/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B9%82%E0%B8%AB%E0%B8%A1/</link>
+      <pubDate>Fri, 21 Apr 2023 06:10:00 +0000</pubDate>
+      
+      <guid>https://ecs-support.github.io/KM/customs/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%A3%E0%B8%A7%E0%B8%87%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B9%82%E0%B8%AB%E0%B8%A1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ประกาศกรมศุลกากร</title>
@@ -22,20 +40,20 @@
     </item>
     
     <item>
-      <title>News</title>
-      <link>https://ecs-support.github.io/KM/customs/categories/news/</link>
-      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      <title>Knowledge</title>
+      <link>https://ecs-support.github.io/KM/customs/categories/knowledge/</link>
+      <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/categories/news/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/categories/knowledge/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Knowledge</title>
-      <link>https://ecs-support.github.io/KM/customs/categories/knowledge/</link>
-      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+      <title>News</title>
+      <link>https://ecs-support.github.io/KM/customs/categories/news/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/categories/knowledge/</guid>
+      <guid>https://ecs-support.github.io/KM/customs/categories/news/</guid>
       <description></description>
     </item>
     
@@ -54,15 +72,6 @@
       <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ecs-support.github.io/KM/customs/categories/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%95/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>OGA</title>
-      <link>https://ecs-support.github.io/KM/customs/categories/oga/</link>
-      <pubDate>Fri, 11 Nov 2022 06:10:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/KM/customs/categories/oga/</guid>
       <description></description>
     </item>
     
