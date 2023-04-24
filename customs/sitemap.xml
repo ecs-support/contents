@@ -849,6 +849,7 @@
     <lastmod>2020-05-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ecs-support.github.io/KM/customs/authors/admin/</loc>
+<<<<<<< HEAD
     <lastmod>2023-04-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ecs-support.github.io/KM/customs/authors/</loc>
@@ -859,12 +860,28 @@
   </url><url>
     <loc>https://ecs-support.github.io/KM/customs/</loc>
     <lastmod>2023-04-24T00:00:00+00:00</lastmod>
+=======
+    <lastmod>2023-04-21T06:10:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ecs-support.github.io/KM/customs/authors/</loc>
+    <lastmod>2023-04-21T06:10:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ecs-support.github.io/KM/customs/categories/</loc>
+    <lastmod>2023-04-21T06:10:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ecs-support.github.io/KM/customs/</loc>
+    <lastmod>2023-04-21T06:10:00+00:00</lastmod>
+>>>>>>> 0cbdbfc32d19cfc3807299626dfc4a4a4b026953
   </url><url>
     <loc>https://ecs-support.github.io/KM/customs/categories/oga/</loc>
     <lastmod>2023-04-21T06:10:00+00:00</lastmod>
   </url><url>
     <loc>https://ecs-support.github.io/KM/customs/tags/</loc>
+<<<<<<< HEAD
     <lastmod>2023-04-24T00:00:00+00:00</lastmod>
+=======
+    <lastmod>2023-04-21T06:10:00+00:00</lastmod>
+>>>>>>> 0cbdbfc32d19cfc3807299626dfc4a4a4b026953
   </url><url>
     <loc>https://ecs-support.github.io/KM/customs/post/law/oga/2566/04-21/</loc>
     <lastmod>2023-04-21T06:10:00+00:00</lastmod>
