@@ -1,0 +1,918 @@
+<!DOCTYPE html>
+
+<html lang= "en-us">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academia 4.3.1">
+  <meta name="theme-name" content="academia-hugo"/>
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Administrator">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="ผู้ส่งของออกที่ประสงค์จะส่งสินค้าทั่วไป ออกจากราชอาณาจักรผ่านเขตแดนทางบก จะต้องจัดทำข้อมูล “ใบขนสินค้าขาออก (กศก. 101 ⁄ 1)” ตามรูปแบบและมาตรฐานที่กรมศุลกากรกำหนด โดยจะต้องจัดทำข้อมูลใบขนฯ ดังกล่าวในรูปแบบอิเล็กทรอนิกส์ แล้วส่งมายังระบบคอมพิวเตอร์ของกรมศุลกากร ก่อนการขนย้ายของมายังด่านศุลกากรที่จะส่งของออก เมื่อระบบคอมพิวเตอร์ได้ตรวจสอบข้อมูลใบขนฯ ที่ส่งมาแล้ว หากไม่พบข้อผิดพลาด ระบบจะแจ้งเลขที่ใบขนสินค้าขาออกตอบกลับไปยังผู้ส่งของออก เพื่อให้ผู้ส่งออกไปดำเนินการชำระค่าภาษีอากร (ถ้ามี) และทำการขนย้ายของไปยังด่านศุลกากรเพื่อรับการตรวจปล่อยต่อไป">
+
+  
+  <link rel="alternate" hreflang="en-us" href="/pages/export/road/">
+
+  
+
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#fc6f5c">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kanit:400,700|Sarabun|Roboto+Mono&display=swap">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academia.min.ab15b63a20a4379c195db25d7c6d96a8.css">
+
+  
+    
+    
+    
+    
+      
+    
+    
+    
+    <link rel="stylesheet" href="/css/academia.813409d7d6c5d4f42d490c83c35b2ee7.css">
+  
+
+  
+  
+  
+  
+
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="/pages/export/road/">
+
+  
+  
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="ECS">
+  <meta property="og:url" content="/pages/export/road/">
+  <meta property="og:title" content="พิธีการส่งออกทางบก | ECS">
+  <meta property="og:description" content="ผู้ส่งของออกที่ประสงค์จะส่งสินค้าทั่วไป ออกจากราชอาณาจักรผ่านเขตแดนทางบก จะต้องจัดทำข้อมูล “ใบขนสินค้าขาออก (กศก. 101 ⁄ 1)” ตามรูปแบบและมาตรฐานที่กรมศุลกากรกำหนด โดยจะต้องจัดทำข้อมูลใบขนฯ ดังกล่าวในรูปแบบอิเล็กทรอนิกส์ แล้วส่งมายังระบบคอมพิวเตอร์ของกรมศุลกากร ก่อนการขนย้ายของมายังด่านศุลกากรที่จะส่งของออก เมื่อระบบคอมพิวเตอร์ได้ตรวจสอบข้อมูลใบขนฯ ที่ส่งมาแล้ว หากไม่พบข้อผิดพลาด ระบบจะแจ้งเลขที่ใบขนสินค้าขาออกตอบกลับไปยังผู้ส่งของออก เพื่อให้ผู้ส่งออกไปดำเนินการชำระค่าภาษีอากร (ถ้ามี) และทำการขนย้ายของไปยังด่านศุลกากรเพื่อรับการตรวจปล่อยต่อไป"><meta property="og:image" content="/img/icon-192.png">
+  <meta property="twitter:image" content="/img/icon-192.png"><meta property="og:locale" content="en-us">
+  
+  <meta property="article:published_time" content="2020-05-18T00:00:00&#43;00:00">
+  
+  <meta property="article:modified_time" content="2020-05-18T00:00:00&#43;00:00">
+  
+
+  
+
+
+  
+
+
+
+
+
+  <title>พิธีการส่งออกทางบก | ECS</title>
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-target="TableOfContents" data-offset="71" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href= "/KM/customs/" ><img class="logo-brand" src="/img/logo.png" alt= "ECS"></a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation"><span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#hero"><span>หน้าแรก</span></a>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>พิธีการศุลกากร</span><span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu">
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/pages/import/"><span>การนำเข้าสินค้า</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/pages/export/"><span>การส่งออกสินค้า</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/pages/transit/"><span>สินค้าถ่ายลำ/ผ่านแดน</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/pages/tax-inc/"><span>สิทธิประโยชน์ทางภาษี</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/pages/fta/"><span>สิทธิพิเศษทางการค้า</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/pages/ata-carnet/"><span>A.T.A. CARNET</span></a>
+            </li>
+            
+          </ul>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>เรื่องน่ารู้</span><span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu">
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/pages/restricted/"><span>ของควบคุมการนำเข้า-ส่งออก</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/pages/tariff/"><span>พิกัดศุลกากร</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/pages/price/"><span>ราคาศุลกากร</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/pages/customs/"><span>กรมศุลกากร</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/pages/company/"><span>ผู้ประกอบการ</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/post/news/"><span>ข่าวสาร</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="https://ecs-support.github.io/KM/reference/"><span>Reference data</span></a>
+            </li>
+            
+          </ul>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>ประกาศ/กฎหมาย</span><span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu">
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/post/law/customs/"><span>ประกาศกรมศุลกากร</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/post/law/ministry/"><span>ประกาศกระทรวง</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/post/law/oga/"><span>ประกาศหน่วยงานอื่น ๆ</span></a>
+            </li>
+            
+          </ul>
+        </li>
+
+        
+        
+
+        
+        <li class="nav-item dropdown">
+          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>คลังความรู้</span><span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu">
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/pages/knowledge/iso/"><span>ISO 27001</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/pages/docs/section/"><span>เอกสารเผยแพร่</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/post/knowledge/"><span>บทความน่ารู้</span></a>
+            </li>
+            
+            <li class="dropdown-item my-0 py-0 mx-0 px-0">
+              <a href="/faq/"><span>FAQ</span></a>
+            </li>
+            
+          </ul>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+  
+
+        
+
+        
+
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+  
+
+<button id="myBtn" onclick="topFunction()" title="Go to top"><i class="fas fa-chevron-up"></i></button>
+
+
+
+<div class="container-fluid header-seriex">
+  <div class="row flex-xl-nowrap">
+    
+    <div class="col-12 col-md-4 col-xl-4 docs-sidebar">
+    
+      
+    
+
+
+
+
+
+<form class="docs-search d-flex align-items-center">
+  <button class="btn docs-toggle d-md-none p-0 mr-3" type="button" data-toggle="collapse" data-target="#docs-nav"
+    aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    <span><i class="fas fa-bars"></i></span>
+  </button>
+
+  
+  <input name="q" type="search" class="form-control" id="search-query" placeholder="Search..."
+    autocomplete="off">
+  
+</form>
+
+<nav class="collapse docs-links" id="docs-nav">
+  
+  
+
+  <div class="docs-toc-item ">
+    <a class="docs-toc-link series-head" href="/pages/export/" >การส่งออกสินค้า (Export)</a>
+    <ul class="nav docs-sidenav series-item">
+      
+      <li >
+        <a id="txt_side" href="/pages/export/">นิยาม</a>
+      </li>
+      
+      <li class="active" id="series-border" >
+        <a id="txt_side" href="/pages/export/road/">พิธีการส่งออกทางบก</a>
+      </li>
+      
+      <li >
+        <a id="txt_side" href="/pages/export/sea/">พิธีการส่งออกทางเรือ</a>
+      </li>
+      
+      <li >
+        <a id="txt_side" href="/pages/export/air/">พิธีการส่งออกทางอากาศ</a>
+      </li>
+      
+      <li >
+        <a id="txt_side" href="/pages/export/e-export/">คู่มือสำหรับการส่งออก (e-Export)</a>
+      </li>
+      
+      <li >
+        <a id="txt_side" href="/pages/export/re-export/">การคืนอากรตามมาตรา 28 (Re-export)</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  
+</nav>
+
+    </div>
+
+
+    
+    <main class="col-12 col-md-8 col-xl-9 py-md-3 pl-md-5 docs-content series-content" role="main">
+    
+
+   
+
+ 
+
+      <article class="article" itemscope itemtype="http://schema.org/Article">
+
+        <div class="container-fluid docs-article-container">
+         
+          <h1 id = "title_underline" itemprop="name">พิธีการส่งออกทางบก     
+      
+          </h1>
+         
+
+
+
+       
+
+          <div class="article-style" itemprop="articleBody">
+            <p><img src="https://github.com/ecs-support/ECS_contents/raw/master/ECS_Academia/content/customs/import-export/export/img/flowTH2-1.jpg" alt=""></p>
+<h2 id="1-การยนใบขนสนคา">1. การยื่นใบขนสินค้า</h2>
+<p>ผู้ส่งของออกที่ประสงค์จะส่งสินค้าทั่วไป ออกจากราชอาณาจักรผ่านเขตแดนทางบก จะต้องจัดทำข้อมูล “ใบขนสินค้าขาออก (กศก. 101 ⁄ 1)” ตามรูปแบบและมาตรฐานที่กรมศุลกากรกำหนด โดยจะต้องจัดทำข้อมูลใบขนฯ ดังกล่าวในรูปแบบอิเล็กทรอนิกส์ แล้วส่งมายังระบบคอมพิวเตอร์ของกรมศุลกากร ก่อนการขนย้ายของมายังด่านศุลกากรที่จะส่งของออก เมื่อระบบคอมพิวเตอร์ได้ตรวจสอบข้อมูลใบขนฯ ที่ส่งมาแล้ว หากไม่พบข้อผิดพลาด ระบบจะแจ้งเลขที่ใบขนสินค้าขาออกตอบกลับไปยังผู้ส่งของออก เพื่อให้ผู้ส่งออกไปดำเนินการชำระค่าภาษีอากร (ถ้ามี) และทำการขนย้ายของไปยังด่านศุลกากรเพื่อรับการตรวจปล่อยต่อไป</p>
+<p>1.1 ข้อมูลที่ควรจัดเตรียมเพื่อใช้ประกอบการยื่นใบขนสินค้าขาออก</p>
+<ul>
+<li>บัญชีราคาสินค้า (Invoice)</li>
+<li>บัญชีรายละเอียดบรรจุหีบห่อ (Packing List)</li>
+<li>ใบอนุญาตหรือหนังสืออนุญาต (กรณีเป็นของต้องกำกัดหรือสินค้าที่ต้องควบคุมการส่งออก)</li>
+</ul>
+<p>1.2 วิธีการส่งข้อมูลใบขนสินค้าขาออกมายังระบบคอมพิวเตอร์ของกรมศุลกากร สามารถทำได้ 4 ช่องทางดังนี้</p>
+<ul>
+<li>ผู้ส่งของออกส่งข้อมูลใบขนสินค้าขาออกด้วยตนเอง โดยจะต้องลงทะเบียนเป็นผู้ผ่านพิธีการศุลกากร หรือดำเนินการในกระบวนการศุลกากรกับกรมศุลกากรก่อน</li>
+<li>ผู้ส่งของออกมอบหมายให้ตัวแทนออกของ (Customs Broker) เป็นผู้ส่งข้อมูลแทน</li>
+<li>ผู้ส่งของออกให้เคาน์เตอร์บริการ (Service Counter) เป็นผู้ส่งข้อมูล</li>
+<li>ผู้ส่งของออกยื่นใบขนสินค้าขาออกในรูปแบบเอกสาร พร้อมทั้งแบบรายละเอียดข้อมูลใบขนสินค้าขาออก (ใบนําคีย์) ณ ด่านศุลกากรที่ส่งออก</li>
+</ul>
+<h2 id="2-การชำระคาภาษอากร">2. การชำระค่าภาษีอากร</h2>
+<p>เมื่อผู้ส่งของออกได้ยื่นข้อมูลใบขนสินค้าเข้าสู่ระบบคอมพิวเตอร์ของกรมศุลกากรและได้รับการตอบกลับเลขที่ใบขนสินค้าแล้ว ผู้ส่งของออกจะต้องดำเนินการชำระค่าภาษีอากร (ถ้ามี) และค่าธรรมเนียมศุลกากรให้แล้วเสร็จก่อนไปดำเนินการรับการตรวจปล่อย โดยผู้ส่งของออกสามารถชำระค่าภาษีอากรและค่าธรรมเนียมศุลกากรได้ 3 ช่องทางดังต่อไปนี้</p>
+<p>2.1 ชำระด้วยตนเองที่หน่วยรับชำระเงินทุกแห่งของกรมศุลกากร ทั้งในรูปแบบเงินสด บัตรภาษี บัตรเดบิต บัตรเครดิต และเช็คของผู้ประกอบการที่มีธนาคารค้ำประกันและได้รับอนุมัติจากกรมศุลกากร</p>
+<p>2.2 ชำระในระบบ e-Payment คือ การชำระเงินค่าภาษีอากรพร้อมกับการส่งข้อมูลใบขนสินค้า โดยการตัดยอดบัญชีธนาคารของผู้ส่งของออกตามที่ได้แจ้งไว้กับกรมศุลกากร</p>
+<p>2.3 ชำระในระบบ e-Bill Payment คือ การใช้เอกสารของกรมศุลกากร (เช่น ใบขนสินค้า ใบสั่งเก็บ) ซึ่งมี QR Code หรือ Bar Code หรือเลขอ้างอิงตามที่ปรากฏในเอกสารนั้น ไปชำระ ณ เคาน์เตอร์ของธนาคารหรือ Internet Banking หรือ ATM หรือช่องทางการรับชำระเงินอื่น ๆ ของธนาคาร หรือ ผ่านตัวแทนรับชำระเงิน ที่ทำความตกลงกับกรมศุลกากร ได้แก่ เคาน์เตอร์เซอร์วิสของ 7-11 และ บิ๊กซี</p>
+<h2 id="3-การสงขอมลใบกำกบการขนยายสนคา">3. การส่งข้อมูลใบกำกับการขนย้ายสินค้า</h2>
+<p>เมื่อผู้ส่งของออกได้ทำการบรรจุสินค้าลงในยานพาหนะแล้วเสร็จ ผู้ส่งของออกต้องจัดทำข้อมูลใบกำกับการขนย้ายสินค้าตามรูปแบบและมาตรฐานที่กรมศุลกากรกำหนด แล้วส่งข้อมูลใบกำกับในรูปแบบอิเล็กทรอนิกส์มายังระบบคอมพิวเตอร์ของกรมศุลกากร หากระบบตรวจสอบแล้วไม่พบข้อผิดพลาด ระบบจะกำหนดเลขที่ใบกำกับการขนย้ายสินค้าแล้วตอบกลับไปยังผู้ส่งของออกเพื่อทำการขนย้ายต่อไป ทั้งนี้การส่งข้อมูลข้างต้นจะต้องทำก่อนการขนย้ายของมายังด่านศุลกากรที่จะส่งของออก</p>
+<p>โดยในการจัดทำข้อมูลใบกำกับดังกล่าว ผู้ส่งของออกจะต้องทำข้อมูลใบกำกับตามบัญชีสินค้า ที่ทำการบรรจุจริงเป็นรายยานพาหนะที่ใช้ขนย้าย และให้ใช้ใบกำกับการขนย้ายสินค้าหรือเลขที่ใบกำกับดังกล่าวเป็นบัญชีสินค้า (แบบ ศ.บ.3) สำหรับแสดงต่อเจ้าพนักงานศุลกากรที่ด่านพรมแดน ก่อนนำยานพาหนะผ่านเขตแดนทางบกออกไปนอกราชอาณาจักร</p>
+<h2 id="4-การตรวจสอบและตดบญช">4. การตรวจสอบและตัดบัญชี</h2>
+<p><strong>การตรวจสอบและตัดบัญชีใบกำกับการขนย้ายสินค้า</strong></p>
+<p>เมื่อทำการบรรจุสินค้าและส่งข้อมูลใบกำกับการขนย้ายสินค้าแล้วเสร็จ ผู้ส่งของออกจะต้องควบคุมยานพาหนะมายังด่านศุลกากรที่จะส่งของออก แล้วแจ้งเลขที่ใบกำกับการขนย้ายต่อเจ้าพนักงานศุลกากร เจ้าพนักงานศุลกากรจะทำการตรวจสอบความถูกต้องและทำการตัดบัญชีใบกำกับการเคลื่อนย้าย พร้อมทั้งตรวจสอบข้อมูลใบขนสินค้าขาออกที่ระบุไว้ในใบกำกับ และดำเนินการตามคำสั่งการตรวจตามผลการวิเคราะห์ความเสี่ยงของระบบคอมพิวเตอร์ ดังต่อไปนี้</p>
+<p>4.1 กรณีมีคำสั่ง  <strong>“ยกเว้นการตรวจ (Green Line)”</strong>  ผู้ส่งของออกสามารถไปติดต่อเจ้าพนักงานศุลกากร เพื่อนำยานพาหนะไปยังด่านพรมแดนเพื่อผ่านเขตแดนทางบกออกไปนอกราชอาณาจักรได้ทันที</p>
+<p>4.2 กรณีมีคำสั่ง  <strong>“ให้เปิดตรวจ (Red Line)”</strong>  ผู้ส่งของออกจะต้องติดต่อเจ้าพนักงานศุลกากร เพื่อทำการตรวจสอบของก่อนนำยานพาหนะไปยังด่านพรมแดน</p>
+<!-- raw HTML omitted -->
+<p><img src="http://www.customs.go.th/data_files/8ae1611b3bda95f9a0ed2953787fb446.jpg" alt=""></p>
+<blockquote>
+<p>ติดต่อสอบถาม : ด่านศุลกากรอรัญประเทศ สำนักงานศุลกากรภาคที่ 1 โทรศัพท์ 0-3723-0313.<br>
+ที่มา :  <a href="http://www.customs.go.th/content_with_menu1.php?ini_menu=menu_business_160421_02&amp;ini_content=business_160426_02_160914_02_160914_01&amp;root_left_menu=menu_business_160421_02_160421_02&amp;lang=th&amp;root_left_menu=menu_business_160421_02_160421_02&amp;left_menu=menu_business_160421_02_160421_02_160914_01">กรมศุลกากร</a><br>
+ปรับปรุงล่าสุด : 20 มีนาคม 2563.</p>
+</blockquote>
+
+          </div>
+          
+          
+          <div class="article-widget">
+            
+<div class="post-nav">
+      
+    <div class="post-nav-item box">
+        <div class="meta-nav meta-next">Next <i class=" fas fa-angle-double-right fa-lg"></i><br>
+            <a href="/pages/export/sea/" rel="prev">พิธีการส่งออกทางเรือ</a></div>
+    </div>
+    
+    <br>
+    <br>
+</div>
+          </div>
+          
+
+        
+  </div>
+
+     
+
+ <div class="body-footer">
+
+<br> 
+
+<div class="article-tags">
+  
+ <a class="badge badge-light"
+   href="">การส่งออก</a>
+  
+</div>
+
+
+
+ 
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  <div class="media author-card" itemscope itemtype="http://schema.org/Person">
+    
+      
+      <img class="portrait mr-3" src="/authors/admin/avatar_hu7b237977ae91ce0a2f834b564f9b5c19_37003_250x250_fill_lanczos_center_3.png" itemprop="image" alt="Avatar">
+    
+
+    <div class="media-body">
+      <h5 class="card-title" itemprop="name"><a href="/">Administrator</a></h5>
+      <h6 class="card-subtitle">Support Department</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="/#contact" >
+              <i class="fas fa-envelope"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://twitter.com/GeorgeCushen" target="_blank" rel="noopener">
+              <i class="fab fa-twitter"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ" target="_blank" rel="noopener">
+              <i class="ai ai-google-scholar"></i>
+            </a>
+          </li>
+        
+          
+          
+          
+            
+          
+          
+          
+          
+          
+            
+          
+          <li>
+            <a itemprop="sameAs" href="https://github.com/gcushen" target="_blank" rel="noopener">
+              <i class="fab fa-github"></i>
+            </a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+
+
+
+
+  
+  <h3>Related</h3>
+  <ul>
+    
+    <li><a href="/pages/export/air/">พิธีการส่งออกทางอากาศ</a></li>
+    
+    <li><a href="/pages/export/sea/">พิธีการส่งออกทางเรือ</a></li>
+    
+    <li><a href="/post/knowledge/postal-guide/">การนำของเข้าและส่งของออกทางไปรษณีย์</a></li>
+    
+    <li><a href="/pages/export/e-export/15.transfer-of-goods-to-load-port/">การขนย้ายสินค้าผ่านสถานีรับบรรทุก ณ ด่านศุลกากรที่ส่งออก</a></li>
+    
+    <li><a href="/pages/export/e-export/11.submission-in-document-format/">การจัดทำและยื่นใบขนสินค้าในรูปแบบเอกสาร (Manual)</a></li>
+    
+  </ul>
+
+   <br>
+   <p>Last Update : <span> May 18, 2020</span></p>
+ </div>
+
+
+  
+       
+    
+
+      </article>
+
+       
+        
+
+    </main>
+  </div>
+
+  </div>
+
+  
+
+  
+
+
+
+
+<script src="/js/mathjax-config.js"></script>
+
+
+
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+  
+
+  
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+    
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/languages/python.min.js"></script>
+    
+  
+
+  
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+
+
+<script>
+  const search_index_filename = "/index.json";
+  const i18n = {
+    'placeholder': "Search...",
+    'results': "results found",
+    'no_results': "No results found"
+  };
+  const content_type = {
+    'post': "Posts",
+    'project': "Projects",
+    'publication' : "Publications",
+    'talk' : "Talks"
+    };
+</script>
+
+
+
+
+
+
+
+<script id="search-hit-fuse-template" type="text/x-template">
+  <div class="search-hit" id="summary-{{key}}">
+  <div class="search-hit-content">
+    <div class="search-hit-name">
+      <a href="{{relpermalink}}">{{title}}</a>
+      <div class="article-metadata search-hit-type">{{type}}</div>
+      <p class="search-hit-description">{{snippet}}</p>
+    </div>
+  </div>
+  </div>
+</script>
+
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+  
+
+
+
+<script src="/js/academia.min.429978a6487d9a1cb0c1e04e4fe0eb1c.js"></script>
+
+
+
+
+
+
+
+
+
+  
+  <div class="container">
+    <footer class="site-footer">
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-md-6 mb-4 mb-md-0">
+          
+          <p class="mb-0">
+            ECS@Support©2023 &middot; 
+            Powered by
+            <a href="https://gethugothemes.com" target="_blank" rel="noopener">Gethugothemes</a>
+          </p>
+        </div>
+        <div class="col-md-6">
+          <ul class="list-inline network-icon text-right mb-0">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <li class="list-inline-item">
+              <a href="https://twitter.com/Twitter" target="_blank" rel="noopener" title="DM Me"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+            </li>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <li class="list-inline-item">
+              <a href="skype:echo123?call"  title="Skype Me"><i class="fab fa-skype" aria-hidden="true"></i></a>
+            </li>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <li class="list-inline-item">
+              <a href="https://keybase.io/" target="_blank" rel="noopener" title="Chat on Keybase"><i class="fab fa-keybase" aria-hidden="true"></i></a>
+            </li>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <li class="list-inline-item">
+              <a href="https://discourse.gohugo.io" target="_blank" rel="noopener" title="Discuss on Forum"><i class="fas fa-comments" aria-hidden="true"></i></a>
+            </li>
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+  </footer>
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

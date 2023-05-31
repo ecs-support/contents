@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ประกาศ / กฎหมาย on ECS</title>
+    <link>/post/law/</link>
+    <description>Recent content in ประกาศ / กฎหมาย on ECS</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>ECS@Support&amp;copy;{year}</copyright>
+    <lastBuildDate>Thu, 25 May 2023 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/post/law/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ประกาศกรมศุลกากร</title>
+      <link>/post/law/customs/</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/law/customs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ประกาศหน่วยงานอื่น ๆ</title>
+      <link>/post/law/oga/</link>
+      <pubDate>Mon, 22 May 2023 06:10:00 +0000</pubDate>
+      
+      <guid>/post/law/oga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ประกาศกระทรวง</title>
+      <link>/post/law/ministry/</link>
+      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/law/ministry/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

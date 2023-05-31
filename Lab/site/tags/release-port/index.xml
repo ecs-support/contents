@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Release port on ECS</title>
+    <link>/tags/release-port/</link>
+    <description>Recent content in Release port on ECS</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>ECS@Support&amp;copy;{year}</copyright>
+    <lastBuildDate>Tue, 02 Nov 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/release-port/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>การตรวจสอบข้อมูลในระบบคอมพิวเตอร์ศุลกากรเพิ่มเติม</title>
+      <link>/post/news/2021/11-02/</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/news/2021/11-02/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;เพื่อเป็นการเพิ่มประสิทธิภาพให้ระบบคอมพิวเตอร์ของศุลกากรมีความสมบูรณ์ และเป็นประโยชน์ต่อผู้นำเข้าและพนักงานศุลกากรมากขึ้น ศุลกากรจึงแจ้งการตรวจสอบข้อมูลในระบบเพิ่มเติม โดยมีกำหนดเวลาเริ่มต้นและรายละเอียดในการตรวจสอบข้อมูลดังนี้&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;ตั้งแต่&lt;em&gt;วันที่ 8 พฤศจิกายน 2564&lt;/em&gt; เป็นต้นไป โปรแกรมรับข้อมูลรายงานบัญชีสินค้า (Manifest) ในส่วนประเภทของขบวนการนำเข้า (Processing Indicator=23) สำหรับเอกสารรายงานบัญชีสินค้าทางเรือ (MMAN) เอกสารรายงานบัญชีสินค้าทางอากาศยาน (ABIL) เอกสารรายงานบัญชีสินค้าทางรถยนต์ (CMAN) โดยตรวจสอบข้อมูล รหัสโกดัง/รหัสสถานที่เก็บของ/รหัสสถานที่ตรวจปล่อย (Shed Number) กับแฟ้มข้อมูลอ้างอิง (REFARS) ให้&lt;em&gt;ตรวจสอบการเป็นสถานที่ตรวจปล่อยขาเข้า (Release Indicator Import= Y)&lt;/em&gt;  &lt;a href=&#34;https://ecs-support.github.io/KM/reference/area_code.html&#34;&gt;**[ตรวจสอบข้อมูลสถานที่ตรวจปล่อย]**&lt;/a&gt; หากพบว่ามีการส่งข้อมูลรหัสสถานที่ที่ไม่เป็นสถานที่ตรวจปล่อยขาเข้า เข้ามาให้แสดงข้อความผิดพลาด &lt;em&gt;“Shed Number is not Release Indicator Import”&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ตั้งแต่&lt;em&gt;วันที่ 1 ธันวาคม 2564&lt;/em&gt; เป็นต้นไป ระบบ e-Import จะตรวจสอบข้อมูล &lt;em&gt;หน่วยน้ำหนักรวม (Gross Weight Unit)&lt;/em&gt; ที่ระบุในใบขนสินค้าขาเข้าต้องตรงกับหน่วยน้ำหนักรวม (Gross Weight Unit) ของข้อมูลบัญชีสินค้า (Manifest) หากไม่ถูกต้องตรงกัน ระบบคอมพิวเตอร์ศุลกากรจะไม่ออกเลขที่ใบขนสินค้าให้และแจ้งข้อผิดพลาด (Response message error) เป็น &lt;em&gt;“Gross Weight Unit &amp;lt;&amp;gt; Manifest”&lt;/em&gt; กลับไปให้ผู้นำของเข้าและตรวจสอบรหัสสถานที่ตรวจปล่อย ในระบบ e-Import ในการส่งข้อมูลใบขนสินค้ากับข้อมูลบัญชีสินค้า (Manifest) สำหรับใบขนสินค้านำเข้าจากต่างประเทศ (Type 0) ใบขนสินค้าขาเข้ารับของไปก่อน (Type 3) และใบขนสินค้าขาเข้าเร่งด่วน (Type X) ที่ขนส่งโดยสารทาง เรือ รถไฟ บก อากาศยาน ไปรษณีย์ และผู้โดยสารนำพา โดยตรวจสอบข้อมูล &lt;em&gt;รหัสสถานที่ตรวจปล่อย (Release Port)&lt;/em&gt; ที่ระบุในใบขนสินค้าขาเข้า ต้องตรงกับข้อมูลรหัสโกดังหรือสถานที่เก็บของ(Shed Number /Release port) ที่ระบุในบัญชีสินค้า (Manifest) ที่ใบขนสินค้าอ้างถึงดังกล่าว หากไม่ถูกต้องตรงกัน ระบบคอมพิวเตอร์ศุลกากรจะไม่ออกเลขที่ใบขนสินค้าให้และแจ้งข้อผิดพลาด (Response message error) เป็น &lt;em&gt;“RELEASE PORT NOT MATCH WITH MANIFEST”&lt;/em&gt; กลับไปให้ผู้นำของเข้า ทั้งนี้ท่านสามารถพิจารณาแก้ไขข้อผิดพลาดดังกล่าวได้ ตามภาพ&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;img-01.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ที่มา: กรมศุลกากร&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

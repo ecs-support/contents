@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>รวม ศบ. on ECS</title>
+    <link>/tags/%E0%B8%A3%E0%B8%A7%E0%B8%A1-%E0%B8%A8%E0%B8%9A./</link>
+    <description>Recent content in รวม ศบ. on ECS</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>ECS@Support&amp;copy;{year}</copyright>
+    
+	    <atom:link href="/tags/%E0%B8%A3%E0%B8%A7%E0%B8%A1-%E0%B8%A8%E0%B8%9A./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>การรวม ศบ. คืออะไร</title>
+      <link>/talk/import/import-08/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/import/import-08/</guid>
+      <description>&lt;p&gt;ศบ. ย่อมาจาก ศุลกากรทางบก เป็นแบบรายงานยานพาหนะและสินค้าที่บรรทุกมาในยานพาหนะนั้นๆ เทียบได้กับ บัญชีสินค้าสำหรับเรือ (Manifest) ปัจจุบันสามารถส่งได้ทั้งอิเล็กทรอนิกส์ หรือ มายื่นเป็นกระดาษกับเจ้าหน้าที่ที่ด่านพรมแดน  เมื่อผ่านด่านพรมแดนจะได้เลขที่บัญชีสินค้าทางบก เป็นเลข 17 หลัก ต้องเอาไปใส่ในช่องเลขที่ใบตราส่งในใบขนสินค้าขาเข้า  เช่น&lt;/p&gt;
+&lt;p&gt;รถยนต์หมายเลข 11111 ขนส่งของมาทั้งหมด 2 ราย&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;นาย ก  ผ้า 5 กล่อง น้ำหนัก 100 กก.&lt;/li&gt;
+&lt;li&gt;นาย ข. เสื้อ 20 กล่อง น้ำหนัก 2000 กก.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;ยื่น ศบ.1 ที่ด่านพรมแดน  ได้เลขที่ 5141  02  11  100000215&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;รหัสด่าน&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;ปี&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;เดือน&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;เลขลำดับของแต่ละเดือน&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5141&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;02&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;11&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;100000215&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;ในการทำใบขนฯจะแยกยื่นเป็นของแต่ละคน&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;ของนาย ก. จะนำเลข 17 หลักไปใส่ในช่อง Master Bill of Lading  นำรายการที่ 1 ไปใสในช่อง House Bill of Lading&lt;/p&gt;
+&lt;p&gt;ปกติ ถ้าใน ศบ. มีรายการเดียว  จะทำใบขนฯ 1 ฉบับ ตามจำนวนของที่บรรทุกมา  แต่เนื่องจากมีของบางอย่างนำเข้าหลายเที่ยวในวันเดียวกันและประสงค์จะขอทำใบขนฯรวมฉบับเดียว   หรือ  เป็นของที่นำเข้าหลายวันเนื่องจากไม่สามารถมาในวันเดียวกันได้ เช่น  สินค้าเกษตร   กรมศุลกากรอนุญาตให้ทำใบขนสินค้าใบเดียวได้ต่อเมื่อเป็นของไม่มีอากร และ VAT   โดย ดำเนินการ ดังนี้&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;กรณีรถทุกคันมาถึงด่านศุลกากรทั้งหมด&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;รถแต่ละคันที่มาถึงด่านพรมแดน ต้องยื่น ศบ. ของแต่ละคัน  แล้วรวมจำนวนของโดยทำใบขนฯใช้เลข ศบ.1 เที่ยวแรก  วันนำเข้าตามรถเที่ยวแรก    และศุลกากรจะเป็นผู้ดำเนินการรวม ศบ. ของทุกคันในใบขนฯ  โดยนำเลขที่  ศบ. และ เลขทะเบียนรถทุกคันมาบันทึกในใบขนฯ เรียกว่า รวม ศบ.  จากนั้น หากเป็นของที่ต้องมีใบอนุญาต ต้องไปติดต่อหน่วยงานที่กำกับเรื่องใบอนุญาตเพื่อส่งข้อมูลเข้ามาในระบบใบอนุญาต แล้วจึงจะไปชำระค่าภาษีอากร และตรวจปล่อยของไปจากศุลกากร&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;กรณีรถมาหลายวัน และ จะขอทำใบขนฯใบเดียวและขอตรวจปล่อยตามรถแต่ละคัน เรียกว่า ตรวจปล่อยบางส่วน (Partly)   ซึ่งเป็นอำนาจของ นายด่านฯที่จะอนุมัติให้ตรวจปล่อยเป็นบางส่วนไปก่อนก็ได้ โดยไม่ต้องรอรถทั้งหมดที่ทยอยมา    ปัจจุบันใช้กับของที่ได้รับสิทธิไม่ต้องชำระอากรและภาษีมูลค่าเพิ่ม เช่น สินค้าเกษตร&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;เมื่อรถคันแรกมาถึง จะใช้เลข ศบ. ของรถคันแรกทำใบขนฯตามจำนวนทั้งหมดที่จะนำเข้าและใช้วันนำเข้าตามรถเที่ยวแรก  และ ผู้นำเข้ายื่นคำขอตรวจปล่อยบางส่วน เมื่อได้รับอนุมัติจะมีการตรวจปล่อยสินค้าแต่ละเที่ยว จนกว่ารถทั้งหมดจะมาครบ   ในขั้นตอนต่อไปจะดำเนินการเหมือนรถมาพร้อมกันในวันเดียวกัน   ใบขนสินค้าจะสมบูรณ์ในวันสุดท้าย แต่เนื่องจากเป็นของที่ไม่มีค่าภาษีอากรจึงไม่มีข้อกังวลใดๆ&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_faq.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;left_menu=menu_center_004&amp;amp;ini_menu=&amp;amp;current_id=142328324146505f47464a4e464b48&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;วันที่ปรับปรุงล่าสุด : 8 สิงหาคม 2562&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

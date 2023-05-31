@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>โครงสร้างของมาตรฐาน on ECS</title>
+    <link>/tags/%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%90%E0%B8%B2%E0%B8%99/</link>
+    <description>Recent content in โครงสร้างของมาตรฐาน on ECS</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>ECS@Support&amp;copy;{year}</copyright>
+    <lastBuildDate>Wed, 16 Jun 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B8%A3%E0%B8%90%E0%B8%B2%E0%B8%99/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>โครงสร้างของมาตรฐาน ISO 27001:2013</title>
+      <link>/pages/knowledge/iso/structure/</link>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/knowledge/iso/structure/</guid>
+      <description>&lt;p&gt;มาตรฐาน ISO 27001 (Information Security Management System-ISMS) มาตรฐานการจัดการความมั่นคงปลอดภัยของสารสนเทศ ประกอบด้วยข้อกำหนดที่ครอบคลุมถึงการ จัดทำ นำไปปฏิบัติ ทบทวนและเฝ้าระวัง รักษาความต่อเนื่อง รวมถึงปรับปรุงระบบให้สอดคล้องกับสถานะการณ์  ผู้ที่ประยุกต์ใช้มาตรฐานนี้ต้องจัดทำเอกสารให้ครอบคลุมข้อกำหนดข้างต้น และระบบที่จัดทำขึ้นนี้จะต้องเหมาะสมกับความเสี่ยงเชิงธุรกิจขององค์กร&lt;/p&gt;
+&lt;p&gt;มาตรฐานนี้ใช้แนวทาง PDCA (Plan-Do-Check-Act) เป็นโครงสร้างเช่นเดียวกับมาตรฐานที่รู้จักกันอย่างแพร่หลาย เช่น ISO 9001(Quality Management System-QMS) ISO14001(Environmental Management System-EMS) ดังนั้นองค์กรที่มีระบบ QMS,EMS อยู่แล้วสามารถเข้าใจแนวทางของ ISMS ได้ไม่ยากนัก เพียงแต่เปลี่ยนมุมมองมาสนใจที่ Information และวางแนวทางบริหารให้เกิดความมั่นคงปลอดภัย โดยผ่านกระบวนการ วางแผน (Plan) นำไปปฏิบัติ(Do) ทบทวนและตรวจสอบ(Check) และแก้ไขปรับปรุง (Act)&lt;/p&gt;
+&lt;p&gt;จะเห็นได้ว่าหลักการ PCDA สอดคล้องกับสามัญสำนึกทั่วไป  คือก่อนทำอะไรควรมีการวางแผนล่วงหน้า พิจารณาให้รอบคอบแล้วลงจึงมือทำตามแผน หลังจากนั้นก็ตรวจสอบผลลัพธ์ว่าเป็นไปตามแผนที่วางไว้หรือไม่ หากไม่เป็นไปตามแผนก็ต้องแก้ไขปรับปรุง และนำบทเรียนมาพิจารณาในการวางแผนก่อนทำงานครั้งต่อไป  ซึ่งแนวคิดนี้สามารถประยุกต์ใช้ในการทำมาตรฐาน ISO/IEC 27001 ได้เป็นอย่างดี การที่องค์กรหนึ่งผ่านการรับรองมาตรฐานระบบการความมั่นคงปลอดภัยของสารสนเทศ ISO 27001 นั้นหมายถึง องค์กรดังกล่าวได้นำข้อกำหนดของมาตรฐาน ISO 27001 มาประยุกต์ใช้อย่างครบถ้วน และมีหลักฐานที่เป็นรูปธรรมให้เชื่อได้ว่าองค์กรดังกล่าวมีระบบการจัดการความมั่นคงปลอดภัยของสารสนเทศที่ได้มาตรฐานสากล&lt;/p&gt;
+&lt;p&gt;โครงสร้างของมาตรฐาน ISO 27001:2013 แบ่งเนื้อหาออกเป็น 14 หัวข้อ (Domain) ซึ่งแต่ละหัวข้อประกอบด้วยวัตถุประสงค์จํานวนแตกต่างกัน รวมแล้วจํานวน 35 วัตถุประสงค์ (Control objectives) และภายใต้วัตถุประสงค์แต่ละข้อประกอบด้วยมาตรการในการรักษาความมันคงปลอดภัย แตกต่างกัน รวมแล้ว 114 ข้อ (Controls).&lt;/p&gt;
+&lt;h2 id=&#34;ขอกาหนดดานการรกษาความมนคงปลอดภย&#34;&gt;ข้อกําหนดด้านการรักษาความมั่นคงปลอดภัย&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;../img/specification/imgpng_Page16.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ขอกำหนดดานการรกษาความมนคงปลอดภยและมาตรการควบคม&#34;&gt;ข้อกำหนดด้านการรักษาความมั่นคงปลอดภัยและมาตรการควบคุม&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;../img/specification/imgpng_Page17.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/specification/imgpng_Page18.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/specification/imgpng_Page19.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/specification/imgpng_Page20.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/specification/imgpng_Page21.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/specification/imgpng_Page22.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/specification/imgpng_Page23.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/specification/imgpng_Page24.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/specification/imgpng_Page25.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Reference :&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;สํานักงานพัฒนาวิทยาศาสตร์และเทคโนโลยีแห่งชาติ, 2560; บริษัท ที-เน็ต จํากัด, 2556; ภูมิพัฒน์ สุขศรีใส, 2559&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://dspace.spu.ac.th/bitstream/123456789/5754/1/&#34;&gt;http://dspace.spu.ac.th/bitstream/123456789/5754/1/&lt;/a&gt;เล่มสารนิพนธ์แบบรวมเล่ม.pdf&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.club27001.com/2013/08/isoiec-27001_21.html&#34;&gt;http://www.club27001.com/2013/08/isoiec-27001_21.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

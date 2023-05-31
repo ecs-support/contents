@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>การบริหารความเสี่ยง on ECS</title>
+    <link>/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%A3%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%A2%E0%B8%87/</link>
+    <description>Recent content in การบริหารความเสี่ยง on ECS</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>ECS@Support&amp;copy;{year}</copyright>
+    <lastBuildDate>Thu, 27 Jan 2022 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%A3%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AA%E0%B8%A2%E0%B8%87/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>การบริหารความเสี่ยงทางศุลกากร ในยุคดิจิทัล</title>
+      <link>/post/knowledge/2022/01-27/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/knowledge/2022/01-27/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;โลกปัจจุบัน คือ ยุคแห่งการเปลี่ยนแปลงที่มาก รุนแรง ผันผวนและฉับพลันรวดเร็ว หรือที่นิยมเรียกว่า &lt;strong&gt;“VUCA”&lt;/strong&gt; ซึ่ง ย่อมาจาก&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;V-Volatility หมายถึง ภาวะที่มีความผันผวนสูง ยากจะคาดเดา&lt;/li&gt;
+&lt;li&gt;U-Uncertainty หมายถึง ภาวะที่มีความไม่ แน่นอนสูง สามารถเปลี่ยนแปลงได้มาก&lt;/li&gt;
+&lt;li&gt;C-Complexity หมายถึง ภาวะที่มีความซับซ้อนสูง มีปัจจัยที่ต้องนํามาพิจารณา ประกอบการตัดสินใจจำนวนมาก และ&lt;/li&gt;
+&lt;li&gt;A-Ambiguity หมายถึง ภาวะที่มีความคลุมเครือสูง ไม่ชัดเจน ยากจะคาดเดาผลลัพธ์ ได้ ลักษณะประการหนึ่งของ VUCA ที่สามารถสังเกตได้ชัดเจน คือ การเปลี่ยนแปลงด้านเทคโนโลยีสารสนเทศไปสู่ยุคดิจิทัลเต็ม รูปแบบ (Digitization) เป็นยุคของการใช้ประโยชน์จากข้อมูลที่ถูกจัดเก็บในแหล่งต่าง ๆ ทั้งภายในองค์กร และภายนอกองค์กร ทั้งข้อมูลที่มีโครงสร้าง (Structured Data) และข้อมูลที่มีโครงสร้างไม่ชัดเจน (Unstructured Data) ซึ่งรวมเรียกเป็นฐานข้อมูล ขนาดใหญ่ (Big Data)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;นอกจากการเปลี่ยนแปลงดังกล่าวจะเป็นไปตามพัฒนาการทางประวัติศาสตร์ของโลกแล้วสถานการณ์การแพร่ระบาดของเชื้อไวรัสโควิด-19 ยังเป็นปัจจัยกระตุ้นให้ทั่วโลกต่างก้าวเข้าสู่สังคมดิจิทัลรวดเร็วมากยิ่งขึ้น มาตรการป้องกันการแพร่ระบาด ทำให้การสั่งซื้อสินค้า การประชุมหารือ และการดำเนินการต่าง ๆ เปลี่ยนมาเป็นกิจกรรมทางอิเล็กทรอนิกส์ผ่านระบบเครือข่าย อินเตอร์เน็ตอย่างเต็มรูปแบบ สิ่งต่าง ๆ เหล่านี้ ทำให้ปริมาณข้อมูลที่เกิดขึ้นผ่านกระบวนการต่าง ๆ ยิ่งเพิ่มมากขึ้นหลายเท่าตัว ในทุกวงการรวมถึงศุลกากรด้วย&lt;/p&gt;
+&lt;p&gt;ที่ผ่านมาพลวัตของกระบวนการทางศุลกากรก็มีแนวทางสอดคล้องกับทิศทางของสังคมโลกและสังคมไทยที่เปลี่ยนไป การปฏิบัติพิธีการศุลกากรผ่านระบบอิเล็กทรอนิกส์ การส่งข้อมูลใบขนสินค้า ใบอนุญาต/ใบรับรองต่าง ๆ แทนการยื่นเอกสาร แบบกระดาษ เป็นกระบวนการที่พบเห็นโดยทั่วไป ไม่ว่าจะเป็นการนําเข้า-ส่งออก ที่ท่าเรือ ท่าอากาศยาน หรือตามด่านพรมแดน ล้วนเป็นผลมาจากการปรับตัวและการพัฒนาอย่างต่อเนื่องของกรมศุลกากร&lt;/p&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;br&gt;
+
+&lt;br&gt;
+&lt;div class=&#34;article-tags&#34;&gt;
+&lt;a class=&#34;badge badge-danger&#34; href=&#34;./docs.pdf&#34; target=&#34;_blank&#34; id=&#34;download_files_new&#34;&gt;Download&lt;/a&gt;
+
+&lt;/div&gt;
+&lt;br&gt;
+
+
+&lt;blockquote&gt;
+&lt;p&gt;ที่มา : กรมศุลกากร&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

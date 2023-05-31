@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AJCEP on ECS</title>
+    <link>/tags/ajcep/</link>
+    <description>Recent content in AJCEP on ECS</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>ECS@Support&amp;copy;{year}</copyright>
+    <lastBuildDate>Thu, 02 Mar 2023 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/ajcep/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>อัพเดทการใช้ตารางกฎเฉพาะรายสินค้า (PSRs) “AJCEP” &amp; “ATIGA”</title>
+      <link>/post/news/2023/03-02/</link>
+      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/news/2023/03-02/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;docsjpg_Page2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;docsjpg_Page3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      
+&lt;div class=&#34;div-btn&#34;&gt;
+    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
+  Download
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232932414a505e4f464b49464b47&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

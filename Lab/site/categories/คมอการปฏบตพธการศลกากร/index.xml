@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>คู่มือการปฏิบัติพิธีการศุลกากร on ECS</title>
+    <link>/categories/%E0%B8%84%E0%B8%A1%E0%B8%AD%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%8F%E0%B8%9A%E0%B8%95%E0%B8%9E%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/</link>
+    <description>Recent content in คู่มือการปฏิบัติพิธีการศุลกากร on ECS</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>ECS@Support&amp;copy;{year}</copyright>
+    <lastBuildDate>Sun, 16 May 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/categories/%E0%B8%84%E0%B8%A1%E0%B8%AD%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%8F%E0%B8%9A%E0%B8%95%E0%B8%9E%E0%B8%98%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>โครงสร้างข้อมูลใบขนสินค้าขาออก</title>
+      <link>/pages/export/e-export/1.data-structure/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/export/e-export/1.data-structure/</guid>
+      <description>&lt;p&gt;โครงสร้างข้อมูลใบขนสินค้าขาออก แบ่งได้เป็น 6 ส่วนดังนี้&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;#export-declaration-control&#34;&gt;&lt;strong&gt;Export Declaration Control&lt;/strong&gt;&lt;/a&gt;	ประกอบด้วย	70 Fields&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#export-invoice-control&#34;&gt;&lt;strong&gt;Export Invoice Control&lt;/strong&gt;&lt;/a&gt;	ประกอบด้วย	35 Fields&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#export-invoice-detail&#34;&gt;&lt;strong&gt;Export Invoice Detail&lt;/strong&gt;&lt;/a&gt;	ประกอบด้วย	72 Fields&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#export-invoice-duty&#34;&gt;&lt;strong&gt;Export Invoice Detail (Duty)&lt;/strong&gt;&lt;/a&gt;	ประกอบด้วย	11 Fields&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#export-invoice-permit&#34;&gt;&lt;strong&gt;Export Invoice Detail (Permit)&lt;/strong&gt;&lt;/a&gt;	ประกอบด้วย	 3 Fields&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#export-invoice-deposit&#34;&gt;&lt;strong&gt;Export Invoice Detail (Deposit)&lt;/strong&gt;&lt;/a&gt;	ประกอบด้วย	 2 Fields&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;เงอนไขการบนทกขอมล&#34;&gt;เงื่อนไขการบันทึกข้อมูล&lt;/h2&gt;
+&lt;p&gt;เงื่อนไขการบันทึกข้อมูล ในกรณีผู้บันทึกไม่สามารถหาข้อมูลได้&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;หาก Field ใด กำหนดให้ต้องระบุค่า &lt;strong&gt;(Value = M)&lt;/strong&gt; แต่ผู้บันทึกไม่สามารถหาข้อมูลได้&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;สำหรับ Field ที่เป็น Alphabet (แสดงออกเป็นตัวอักษร) ให้ระบุค่าเป็น N/A&lt;/li&gt;
+&lt;li&gt;สำหรับ Field ที่เป็น Numeric (แสดงออกเป็นตัวเลข) ให้ระบุค่าเป็น 0 (ศูนย์)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;หาก Field ใด กำหนดให้ไม่ต้องระบุค่า &lt;strong&gt;(Value = O)&lt;/strong&gt; และผู้บันทึกไม่สามารถหาข้อมูลได้ ก็ไม่ต้องบันทึกค่าใด ๆ&lt;/li&gt;
+&lt;li&gt;หาก Field ใด กำหนดให้ต้องระบุค่า เมื่อเข้าเงื่อนไขที่กำหนด &lt;strong&gt;(Value = C)&lt;/strong&gt; แต่ผู้บันทึกไม่สามารถหาข้อมูลได้&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;สำหรับ Field ที่เป็น Alphabet (แสดงออกเป็นตัวอักษร) ให้ระบุค่าเป็น N/A&lt;/li&gt;
+&lt;li&gt;สำหรับ Field ที่เป็น Numeric (แสดงออกเป็นตัวเลข) ให้ระบุค่าเป็น 0 (ศูนย์)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;อกษรยอ-ทใชในการอธบายรปแบบชนดของขอมล&#34;&gt;อักษรย่อ ที่ใช้ในการอธิบายรูปแบบชนิดของข้อมูล&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;อักษรย่อ&lt;/th&gt;
+&lt;th&gt;คำอธิบาย&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;n3&lt;/td&gt;
+&lt;td&gt;ข้อมูลชนิดตัวเลข (Numeric Characters) คงที่ คือ 3 ตัวอักษร&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;a3&lt;/td&gt;
+&lt;td&gt;ข้อมูลชนิดตัวอักษร (Alphabetic Characters) คงที่ คือ 3 ตัวอักษร&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;an3&lt;/td&gt;
+&lt;td&gt;ข้อมูลชนิดตัวอักษรหรือตัวเลข คงที่ คือ 3 ตัวอักษร&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;n..3&lt;/td&gt;
+&lt;td&gt;ข้อมูลชนิดตัวเลขความยาวข้อมูลแปรผันตามความยาวสูงสุด 3 ตัวอักษร&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;a..3&lt;/td&gt;
+&lt;td&gt;ข้อมูลชนิดตัวอักษรความยาวข้อมูลแปรผันตามความยาวสูงสุด 3 ตัวอักษร&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;an..3&lt;/td&gt;
+&lt;td&gt;ข้อมูลชนิดตัวอักษรหรือตัวเลขความยาวข้อมูลแปรผันตามความยาวสูงสุด 3 ตัวอักษร&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;n..16,2&lt;/td&gt;
+&lt;td&gt;ข้อมูลชนิดตัวเลขความยาวข้อมูลแปรผันตามความยาวสูงสุด 16 ตัวอักษรรวมความยาวทศนิยมสูงสุด 2 ตัวอักษร&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;export-declaration-control&#34;&gt;Export Declaration Control&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page5.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page6.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page7.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page8.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page9.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page10.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page11.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page12.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page13.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page14.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page15.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page16.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page117jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page18.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;export-invoice-control&#34;&gt;Export Invoice Control&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page19.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page20.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page21.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page22.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page23.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;export-invoice-detail&#34;&gt;Export Invoice Detail&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page24.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page25.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page26.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page27.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page28.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page29.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page30.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page31.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page32.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page33.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page34.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page35.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page36.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;export-invoice-duty&#34;&gt;Export Invoice Duty&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page37.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page38.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;export-invoice-permit&#34;&gt;Export Invoice Permit&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page39.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;export-invoice-deposit&#34;&gt;Export Invoice Deposit&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page40.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>หลักการบันทึกข้อมูลใบขนสินค้าขาออก</title>
+      <link>/pages/export/e-export/2.principles-for-recording/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/export/e-export/2.principles-for-recording/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;สามารถใช้สิทธิ์ &lt;strong&gt;Freezone, I-EAT Free Zone, Bond&lt;/strong&gt; &lt;em&gt;เพียงอย่างใดอย่างหนึ่ง&lt;/em&gt; ในแต่ละรายการของ
+ใบขนสินค้า (บันทึกการขอใช้สิทธิ์ในส่วนของ Export Declaration Control)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;รายการบันทึกในส่วนของ Export Declaration Detail เมื่อบันทึกขอใช้ &lt;em&gt;สิทธิ์ชดเชยอากร
+(Compensation)&lt;/em&gt; แล้ว&lt;em&gt;ไม่สามารถบันทึกขอใช้สิทธิ์ (Y)&lt;/em&gt; ในส่วนของ &lt;strong&gt;มาตรา 29, BOI, สุทธินํากลับ, Re-Export&lt;/strong&gt; อีกได้&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;การสําแดงพิกัดศุลกากร (Tariff Code) ให้สําแดงตรงกับชนิดของของที่ส่งออก (ยกเลิกการสําแดงพิกัด
+ศุลกากร 99&amp;hellip;. ทุกกรณี)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ใบขนสินค้าขาออก ถ้า Export Tariff เป็น &lt;em&gt;PART3&lt;/em&gt; (ภาค 3 พิกัดอัตราศุลกากรขาออก) ต้องระบุรหัสสิทธิ
+พิเศษ Privilege Code = &lt;em&gt;003&lt;/em&gt; เว้นแต่ กรณีใบขนสินค้าขาออก ถ้า Export Tariff เป็น &lt;em&gt;PART4&lt;/em&gt; (ภาค 4 ของที่ได้รับ
+ยกเว้นอากร) ต้องระบุรหัสสิทธิพิเศษ Privilege Code = &lt;em&gt;004&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>หลักการรวมรายการสินค้า</title>
+      <link>/pages/export/e-export/3.list-of-products/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/export/e-export/3.list-of-products/</guid>
+      <description>&lt;h2 id=&#34;ใชสทธตามมาตรา-29&#34;&gt;ใช้สิทธิ์ตามมาตรา 29&lt;/h2&gt;
+&lt;p&gt;สามารถบันทึกข้อมูลรายละเอียดใบขนสินค้าจัดกลุ่มรายการตามพิกัดศุลกากร และ สูตรการผลิต และ Model (ถ้ามี) โดยต้องสําแดงชนิดสินค้าให้มีรายละเอียดที่จําเป็น เพื่อให้สามารถเชื่อมโยงกับสูตรการผลิตที่ต้องการขอคืนอากรได้&lt;/p&gt;
+&lt;h2 id=&#34;ใชสทธชดเชย&#34;&gt;ใช้สิทธิ์ชดเชย&lt;/h2&gt;
+&lt;p&gt;สามารถบันทึกข้อมูลรายละเอียดใบขนสินค้าจัดกลุ่มรายการตามพิกัดศุลกากร และ ชนิดของของตามเงื่อนไขที่ระบุในการขอชดเชยค่าภาษีอากร&lt;/p&gt;
+&lt;h2 id=&#34;ใชสทธคลงสนคาทณฑบน&#34;&gt;ใช้สิทธิ์คลังสินค้าทัณฑ์บน&lt;/h2&gt;
+&lt;h3 id=&#34;ใชสทธคลงสนคาทณฑบนทวไป-คลงสนคาทณฑบนประเภทแสดงสนคา-คลงสนคาทณฑบนประเภทคลงเกบ&#34;&gt;ใช้สิทธิ์คลังสินค้าทัณฑ์บนทั่วไป, คลังสินค้าทัณฑ์บนประเภทแสดงสินค้า, คลังสินค้าทัณฑ์บนประเภทคลังเก็บ&lt;/h3&gt;
+&lt;p&gt;สามารถบันทึกข้อมูลรายละเอียดใบขนสินค้าจัดกลุ่มรายการตามพิกัดศุลกากร และ ตามเลขที่ใบขนสินค้าขาเข้า และ รายการใบขนสินค้าขาเข้า ที่นําเข้ามาในราชอาณาจักร โดยต้องสําแดงรายละเอียดสินค้าให้ครบถ้วน ตามเงื่อนไขที่ระบุในการขอยกเว้นอากร&lt;/p&gt;
+&lt;h3 id=&#34;ใชสทธคลงสนคาทณฑบนประเภทโรงผลต&#34;&gt;ใช้สิทธิ์คลังสินค้าทัณฑ์บนประเภทโรงผลิต&lt;/h3&gt;
+&lt;p&gt;สามารถบันทึกข้อมูลรายละเอียดใบขนสินค้าจัดกลุ่มรายการตามพิกัดศุลกากร และ สูตรการผลิต ต้องสําแดงรายละเอียดชนิดสินค้าให้ครบถ้วน ตามเงื่อนไขที่ระบุในการขอยกเว้นอากร&lt;/p&gt;
+&lt;h2 id=&#34;ใชสทธ-boi&#34;&gt;ใช้สิทธิ์ BOI&lt;/h2&gt;
+&lt;p&gt;สามารถบันทึกข้อมูลรายละเอียดใบขนสินค้าจัดกลุ่มรายการตามพิกัดศุลกากร และ สูตรการผลิต ต้องสําแดงรายละเอียดชนิดสินค้าให้ครบถ้วน ตามเงื่อนไขที่ระบุในการขอใช้สิทธิ์ส่งเสริมการลงทุน (BOI)&lt;/p&gt;
+&lt;h2 id=&#34;ใชสทธสทธนากลบ-และ-re-export&#34;&gt;ใช้สิทธิ์สุทธินํากลับ และ Re-Export&lt;/h2&gt;
+&lt;p&gt;สามารถบันทึกข้อมูลรายละเอียดใบขนสินค้าจัดกลุ่มรายการตามพิกัดศุลกากร และเลขที่ใบขนสินค้าขาเข้าและ รายการในใบขนสินค้าขาเข้าที่นําเข้ามาในราชอาณาจักร&lt;/p&gt;
+&lt;h2 id=&#34;ใชสทธประเภท-อนๆ&#34;&gt;ใช้สิทธิ์ประเภท อื่นๆ&lt;/h2&gt;
+&lt;p&gt;สามารถบันทึกข้อมูลรายละเอียดใบขนสินค้าจัดกลุ่มรายการตามพิกัดศุลกากร และ ชนิดของของ&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>การยกเว้นอากรตามภาค 4</title>
+      <link>/pages/export/e-export/4.part-4/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/export/e-export/4.part-4/</guid>
+      <description>&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;1 ภาค 4 สุทธินำกลับ&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;h2 id=&#34;1-ภาค-4-รายการสทธนำกลบ&#34;&gt;1 ภาค 4 รายการสุทธินำกลับ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Re-Importation Certificate = Y (ในส่วนของ Export Declaration Detail)&lt;/li&gt;
+&lt;li&gt;Export Tariff = &lt;em&gt;1PART4&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Privilege Code = 004&lt;/li&gt;
+&lt;li&gt;Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;2 ภาค 4 นำกลับไปซ่อม&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;h2 id=&#34;2-ภาค-4-รายการนำกลบไปซอม&#34;&gt;2 ภาค 4 รายการนำกลับไปซ่อม&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Re-Importation Certificate = Y (ในส่วนของ Export Declaration Detail)&lt;/li&gt;
+&lt;li&gt;Export Tariff = &lt;em&gt;2PART4&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Privilege Code = 004&lt;/li&gt;
+&lt;li&gt;Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก&lt;/li&gt;
+&lt;li&gt;Declaration No = เลขที่ใบขนสินค้าขาเข้าที่อ้างถึง ซึ่งนําของเข้ามาครั้งแรก&lt;/li&gt;
+&lt;li&gt;Declaration Line Number = รายการในใบขนสินค้าขาเข้าที่อ้างถึง&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;3 ภาค 4 สิทธิ์ส่งออกทัณฑ์บนนําเข้าชั่วคราว&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;h2 id=&#34;3-ภาค-4-สทธสงออกทณฑบนนาเขาชวคราว&#34;&gt;3 ภาค 4 สิทธิ์ส่งออกทัณฑ์บนนําเข้าชั่วคราว&lt;/h2&gt;
+&lt;p&gt;ของที่นําเข้ามาพร้อมกับตน หรือนําเข้ามาเป็นการชั่วคราวและ จะส่งกลับออกไปภายใน&lt;em&gt;ไม่เกินหกเดือน&lt;/em&gt; &lt;strong&gt;นับตั้งแต่วันที่นําเข้ามา&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Re-Export = Y (ในส่วนของ Export Declaration Detail)&lt;/li&gt;
+&lt;li&gt;Export Tariff = &lt;em&gt;3PART4&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Privilege Code = 004&lt;/li&gt;
+&lt;li&gt;Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก&lt;/li&gt;
+&lt;li&gt;Declaration No = เลขที่ใบขนสินค้าขาเข้าที่อ้างถึง ซึ่งนําของเข้ามาตามมาตรา 28&lt;/li&gt;
+&lt;li&gt;Declaration Line Number = รายการในใบขนสินค้าขาเข้าที่อ้างถึง&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;18 ภาค 4 สิทธิ์ Re-Export&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;h2 id=&#34;18-ภาค-4-สทธ-re-export&#34;&gt;18 ภาค 4 สิทธิ์ Re-Export&lt;/h2&gt;
+&lt;p&gt;ของส่งออกที่เป็นของที่นําเข้ามาไม่เกิน &lt;em&gt;2 ปี&lt;/em&gt; และยังไม่ได้เปลี่ยนแปลงรูปร่างลักษณะแต่ประการใด&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Re-Export = Y (ในส่วนของ Export Declaration Detail)&lt;/li&gt;
+&lt;li&gt;Export Tariff = &lt;em&gt;18PART4&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Privilege Code = 004&lt;/li&gt;
+&lt;li&gt;Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก&lt;/li&gt;
+&lt;li&gt;Declaration No = เลขที่ใบขนสินค้าขาเข้าที่อ้างถึง&lt;/li&gt;
+&lt;li&gt;Declaration Line Number = รายการในใบขนสินค้าขาเข้าที่อ้างถึง&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;ข้อควรระวัง&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;ไม่ใช่&lt;/em&gt; สิทธิคืนอากรขาเข้าตามมาตรา 28  (Re-Export) ซึ่งมีเงื่อนไขต้องส่งกลับออกไปนอกราชอาณาจักรทั้งฉบับ และส่งออกภายใน &lt;em&gt;1 ปี&lt;/em&gt; นับแต่วันที่นำของนั้นเข้ามาในราชอาณาจักร โดยให้&lt;strong&gt;ชำระค่าภาษีอากรหนึ่งใน 10 หรือไม่เกิน 1,000 บาท&lt;/strong&gt; &lt;em&gt;ต่อใบขนสินค้าขาเข้า&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>สิทธิประโยชน์ทางภาษีอากร</title>
+      <link>/pages/export/e-export/5.tax-incentives/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/export/e-export/5.tax-incentives/</guid>
+      <description>&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;Re-Export&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;h2 id=&#34;re-export&#34;&gt;Re-Export&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;ของนําเข้ามาแล้วส่งกลับออกไปภายใน 1 ปี โดยเสียอากร 1 ใน 10&lt;/em&gt; (ตามมาตรา 28 พระราชบัญญัติศุลกากร พ.ศ. 2560) ให้ระบุค่าดังนี้&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Re-Export = Y (ในส่วนของ Export Declaration Detail)&lt;/li&gt;
+&lt;li&gt;Privilege Code = 003&lt;/li&gt;
+&lt;li&gt;Export Tariff = 9PART3&lt;/li&gt;
+&lt;li&gt;Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก&lt;/li&gt;
+&lt;li&gt;Declaration NO = เลขที่ใบขนสินค้าขาเข้าที่อ้างถึง ซึ่งนําของเข้ามาตามมาตรา 28&lt;/li&gt;
+&lt;li&gt;Declaration Line Number = รายการในใบขนสินค้าขาเข้าที่อ้างถึง&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;ขอคืนอากรตามมาตรา 29&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;h2 id=&#34;ขอคนอากรตามมาตรา-29&#34;&gt;ขอคืนอากรตามมาตรา 29&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Export Tax Incentives ID = เลขทะเบียนผู้ใช้สิทธิประโยชน์ทางภาษีอากรที่นําของออก (ใน
+ส่วนของ Export Decalration Detail)&lt;/li&gt;
+&lt;li&gt;19 bis = Y (ในส่วนของ Export Declaration Detail)&lt;/li&gt;
+&lt;li&gt;Privilege Code = 003&lt;/li&gt;
+&lt;li&gt;Export Tariff = 9PART3&lt;/li&gt;
+&lt;li&gt;Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก&lt;/li&gt;
+&lt;li&gt;Model Number = เลขที่สูตรการผลิต&lt;/li&gt;
+&lt;li&gt;Model Version = เวอร์ชันของสูตรการผลิต&lt;/li&gt;
+&lt;li&gt;Model Company Tax Number = เลขประจําตัวผู้เสียภาษีอากรของบริษัทผู้ยื่นสูตร&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;คลังสินค้าทัณฑ์บน&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;h2 id=&#34;คลงสนคาทณฑบน&#34;&gt;คลังสินค้าทัณฑ์บน&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;คลังสินค้าทัณฑ์บนส่งออกไปต่างประเทศ&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Export Tax Incentives ID = เลขทะเบียนผู้ใช้สิทธิประโยชน์ทางภาษีอากรที่นําของออก
+(ในส่วนของ Export Decalration Detail)&lt;/li&gt;
+&lt;li&gt;Bond = Y (ในส่วนของ Export Declaration Detail)&lt;/li&gt;
+&lt;li&gt;ระบบจะตรวจสอบว่าเลขประจําตัวผู้เสียภาษีอากรของผู้ส่งของออกต้องเท่ากับเลขประจําตัว
+ผู้เสียภาษีอากรที่จดทะเบียนคลังสินค้าทัณฑ์บน หรือ ที่เจ้าของคลังทัณฑ์บนได้แจ้งอนุญาตไว้
+ในระบบทะเบียนไว้ในระบบผู้ใช้สิทธิประโยชน์ทางภาษีอากร&lt;/li&gt;
+&lt;li&gt;Privilege Code = 003&lt;/li&gt;
+&lt;li&gt;Export Tariff = 9PART3&lt;/li&gt;
+&lt;li&gt;Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออกสําหรับคลังสินค้าทัณฑ์บน
+ทั่วไป&lt;/li&gt;
+&lt;li&gt;Declaration No = เลขที่ใบขนสินค้าขาเข้า&lt;/li&gt;
+&lt;li&gt;Declaration Line Number = รายการในใบขนสินค้าขาเข้าที่อ้างถึง
+สําหรับคลังสินค้าทัณฑ์บนประเภทโรงผลิต และแบ่งบรรจุ&lt;/li&gt;
+&lt;li&gt;Model Number = เลขที่สูตรการผลิต&lt;/li&gt;
+&lt;li&gt;Model Version = เวอร์ชันของสูตรการผลิต&lt;/li&gt;
+&lt;li&gt;Model Company Tax Number = เลขประจําตัวผู้เสียภาษีอากรของบริษัทผู้ยื่นสูตร&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;เขตปลอดอากร (Free Zone)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;h2 id=&#34;เขตปลอดอากร-free-zone&#34;&gt;เขตปลอดอากร (Free Zone)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;ส่งออกจาก เขตปลอดอากร (Free Zone) ไปต่างประเทศ&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Export Tax Incentives ID = เลขทะเบียนผู้ใช้สิทธิประโยชน์ทางภาษีอากรที่นําของออก
+(ในส่วนของ Export Decalration Detail)&lt;/li&gt;
+&lt;li&gt;Free Zone = Y (ในส่วนของ Export Declaration Detail)&lt;/li&gt;
+&lt;li&gt;ระบบจะตรวจสอบว่าเลขประจําตัวผู้เสียภาษีอากรของผู้ส่งของออกต้องเท่ากับเลขประจําตัว
+ผู้เสียภาษีอากรที่จดทะเบียนผู้ ประกอบการในเขตปลอดอากร หรือที่ผู้ ประกอบการใน
+เขตปลอดอากรได้แจ้งอนุญาตไว้ในระบบทะเบียนผู้ใช้สิทธิประโยชน์ทางภาษีอากร&lt;/li&gt;
+&lt;li&gt;Privilege Code = 003&lt;/li&gt;
+&lt;li&gt;Export Tariff = 9PART3&lt;/li&gt;
+&lt;li&gt;Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;เขตประกอบการเสรี (I-EAT)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;h2 id=&#34;เขตประกอบการเสร-i-eat&#34;&gt;เขตประกอบการเสรี (I-EAT)&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;ส่งออกจากเขตประกอบการเสรี (I-EAT) ไปต่างประเทศ&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Export Tax Incentives ID = เลขทะเบียนผู้ใช้สิทธิประโยชน์ทางภาษีอากรที่นําของออก (ใน
+ส่วนของ Export Decalration Detail)&lt;/li&gt;
+&lt;li&gt;I-EAT Free Zone = Y (ในส่วนของ Export Declaration Detail)&lt;/li&gt;
+&lt;li&gt;ระบบจะตรวจสอบว่าเลขประจําตัวผู้เสียภาษีอากรของผู้ส่งของออกต้องเท่ากับเลขประจําตัว
+ผู้เสียภาษีอากรที่จดทะเบียนผู้ประกอบการในเขตประกอบการเสรีหรือที่ผู้ประกอบการใน
+เขตประกอบการเสรีได้แจ้งอนุญาตําว้ในระบบทะเบียนผู้ใช้สิทธิประโยชน์ทางภาษีอากร&lt;/li&gt;
+&lt;li&gt;Privilege Code = 003&lt;/li&gt;
+&lt;li&gt;Export Tariff = 9PART3&lt;/li&gt;
+&lt;li&gt;Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;ชดเชยค่าภาษีอากร&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;h2 id=&#34;ชดเชยคาภาษอากร&#34;&gt;ชดเชยค่าภาษีอากร&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Compensation = Y (ในส่วนของ Export Declaration Detail)&lt;/li&gt;
+&lt;li&gt;Privilege Code = 003&lt;/li&gt;
+&lt;li&gt;Export Tariff = 9PART3&lt;/li&gt;
+&lt;li&gt;Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;ส่งเสริมการลงทุน BOI&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;h2 id=&#34;สงเสรมการลงทน-boi&#34;&gt;ส่งเสริมการลงทุน BOI&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;BOI = Y (ในส่วนของ Export Declaration Detail)&lt;/li&gt;
+&lt;li&gt;Privilege Code = 003&lt;/li&gt;
+&lt;li&gt;Export Tariff = 9PART3&lt;/li&gt;
+&lt;li&gt;Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก&lt;/li&gt;
+&lt;li&gt;BOI License No = เลขที่บัตรส่งเสริมการลงทุน BOI&lt;/li&gt;
+&lt;li&gt;กรณีมีการโอนสิทธิ์ BOI ให้ใช้สําเนาใบขนสินค้าขาออกฉบับพิมพ์จากผู้ส่งของออกโดยระบุวันที่
+รับบรรทุก (Load Date) พร้อมแสดงรายการการโอนสิทธิ์ BOI ด้วย&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>การตรวจสอบข้อมูลใบขนสินค้าขาออก</title>
+      <link>/pages/export/e-export/6.check-data-declalation/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/export/e-export/6.check-data-declalation/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;การตรวจสอบความถูกต้องเบื้องต้น ระบบคอมพิวเตอร์ของศุลกากรจะตรวจสอบความถูกต้อง
+เบื้องต้นกับแฟ้มข้อมูลอ้างอิง และกับข้อมูลการอนุมัติ/อนุญาตตามกฎหมายที่เกี่ยวข้อง&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;การตรวจสอบพบความผิดพลาด ระบบคอมพิวเตอร์ของศุลกากรจะตอบรหัสข้อผิดพลาด ทุกข้อกลับไปให้ผู้ส่งข้อมูล (ตาม XML User) ในคราวเดียว ให้ผู้ส่งของออกทําการแก้ไขข้อมูล และส่งข้อมูลใหม่เพื่อแก้ไขข้อมูลใบขนสินค้าขาออกเข้าสู่ระบบคอมพิวเตอร์ของศุลกากร&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;หากไม่พบข้อผิดพลาด ระบบคอมพิวเตอร์ของศุลกากรจะกําหนด เลขที่ใบขนสินค้า ขาออก
+ทางอิเล็กทรอนิกส์จํานวน 14 หลัก ในสถานะพร้อมชําระค่าภาษีอากร (ถ้ามี) และแจ้งเลขที่ใบขนสินค้าขาออกทางระบบอิเล็กทรอนิกส์ตอบกลับไปยังผู้ส่งข้อมูล (ตาม XML User) โดยมีประเภทของเอกสารหลักมีค่าเป็น 1 = ใบขนสินค้าขาออก&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;การยื่นเอกสารใบแนบ 4 ใบขนสินค้าขาออกต่อศุลกากร เมื่อระบบคอมพิวเตอร์ของศุลกากร
+ผู้รับข้อมูลได้ทําการตอบรับ ข้อมูลอิเล็กทรอนิกส์นั้นในการปฏิบัติพิธีการ ถือเป็นการยื่นเอกสารนั้น ๆ ตาม กฎหมายว่าด้วยศุลกากร และกฎหมายอื่นที่เกี่ยวข้องกับการศุลกากรแล้ว&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;การยกเลิกใบขนสินค้าขาออก กรณี ผู้ส่งของออกไม่ประสงค์จะทําการส่งของออก ตามใบขนสินค้าขาออก ที่ได้ส่งข้อมูลทางอิเล็กทรอนิกส์ มายังระบบคอมพิวเตอร์ของศุลกากรแล้ว หรือข้อมูลใบขนสินค้าขาออกที่ได้รับการตอบรับเลขที่ใบขนสินค้าขาออกแล้วผิดพลาด ให้ผู้ส่งของออก (ตาม XML User) ขอยกเลิกเลขที่ใบขนสินค้าขาออกฉบับนั้น ๆ ทางอิเล็กทรอนิกส์ เพื่อให้ระบบคอมพิวเตอร์ของศุลกากรทําการยกเลิกเลขที่ใบขนสินค้าฉบับนั้นออกจากระบบ ก่อนการส่งข้อมูลอิเล็กทรอนิกส์ของใบขนสินค้าขาออกที่ถูกต้องมาใหม่&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>การตรวจสอบข้อมูลใบขนสินค้า กับระบบทะเบียนผู้มาติดต่อ</title>
+      <link>/pages/export/e-export/7.contact-registration/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/export/e-export/7.contact-registration/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;การตรวจสอบลายเซ็นอิเล็กทรอนิกส์ (Digital Signature)&lt;/strong&gt; มีเงื่อนไขดังนี้&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;VAT ID ของ ลายเซ็นอิเล็กทรอนิกส์ ต้องเท่ากับเลขประจำตัวผู้เสียภาษีอากรของผู้นำเข้า/ผู้ส่งออก (Company Tax No) หรือ&lt;/li&gt;
+&lt;li&gt;VAT ID ของ ลายเซ็นอิเล็กทรอนิกส์ ต้องเท่ากับเลขประจำตัวผู้เสียภาษีอากรของตัวแทนออกของ (Broker Tax No)  หรือ&lt;/li&gt;
+&lt;li&gt;VAT ID ของ ลายเซ็นอิเล็กทรอนิกส์ ต้องเท่ากับเลขประจำตัวผู้เสียภาษีอากรของตัวแทนออกของรับจ้างช่วง (Sub Broker Tax Number) หรือ&lt;/li&gt;
+&lt;li&gt;VAT ID ของ ลายเซ็นอิเล็กทรอนิกส์ ต้องเท่ากับเลขประจำตัวผู้เสียภาษีอากรของ Company Tax No ของ Registration ID กรณีเป็น Service Counter เท่านั้น&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;การตรวจสอบความสัมพันธ์ของผู้นำเข้า/ผู้ส่งออกกับตัวแทนออกของ&lt;/strong&gt; ต้องมีการว่าจ้างระหว่าง ผู้นำเข้า/ส่งออกกับตัวแทนออกของ จะตรวจสอบกับระบบทะเบียน ดังนี้&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ผู้นำเข้า/ผู้ส่งออกต้องว่าจ้างตัวแทนออกของ และ&lt;/li&gt;
+&lt;li&gt;ตัวแทนออกของต้องได้รับจ้างผู้นำเข้า/ผู้ส่งออก&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;การตรวจสอบความสัมพันธ์ของตัวแทนออกของรับจ้างช่วง กับตัวแทนออกของที่มีความสัมพันธ์กับผู้นำเข้า/ผู้ส่งออก&lt;/strong&gt; จะตรวจสอบกับระบบทะเบียน ดังนี้&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ผู้รับจ้างช่วงต้องได้รับการว่าจ้างจากตัวแทนออกของ และ&lt;/li&gt;
+&lt;li&gt;ตัวแทนออกของต้องได้รับจ้างผู้นำเข้า/ผู้ส่งออก และ&lt;/li&gt;
+&lt;li&gt;ผู้นำเข้า/ผู้ส่งออกต้องว่าจ้างตัวแทนออกของ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;สำหรับกรณีผู้นำเข้า/ผู้ส่งออก มีการมอบอำนาจให้ตัวแทนออกของทำการว่าจ้างช่วงได้&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;การตรวจสอบความสัมพันธ์ของ ผู้จัดการ/ผู้รับมอบอำนาจ (ช่อง Manager ID Card) กับผู้นำเข้า/ผู้ส่งออก หรือตัวแทนออกของ&lt;/strong&gt; มีการตรวจสอบเฉพาะกรณีที่ส่งข้อมูลผ่านระบบของ Service Counter เท่านั้น จะตรวจสอบกับระบบทะเบียน ดังนี้&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ต้องเป็น ผู้จัดการ/ผู้รับมอบอำนาจ ของ ผู้ส่งออก/ผู้นำเข้า หรือ&lt;/li&gt;
+&lt;li&gt;ต้องเป็น ผู้จัดการ/ผู้รับมอบอำนาจ ของ ตัวแทนออกของ หรือ&lt;/li&gt;
+&lt;li&gt;ต้องเป็น ผู้จัดการ/ผู้รับมอบอำนาจ ของ ตัวแทนออกของผู้รับจ้างช่วง ของ ตัวแทนออกของ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>รูปแบบเลขที่ใบขนสินค้า</title>
+      <link>/pages/export/e-export/8.declaration-no/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/export/e-export/8.declaration-no/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page49.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>การชําระภาษีอากร</title>
+      <link>/pages/export/e-export/9.duty-payment/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/export/e-export/9.duty-payment/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;การบันทึกข้อมูลการชําระภาษีอากรผ่านธนาคาร&lt;/li&gt;
+&lt;li&gt;การวางคํ้าประกันของธนาคาร เมื่อผู้ส่งของออกดําเนินการตั้งภาระค้ำประกันตามมาตรฐานที่กรมศุลกากรกําหนดแล้ว ระบบคอมพิวเตอร์ของศุลกากรจะออกเลขที่รับประกันธนาคาร พร้อมกับเปลี่ยนสถานะ ใบขนสินค้าขาออกเป็น &lt;strong&gt;“ใบขนสินค้าที่ชําระค่าภาษีอากรแล้ว”&lt;/strong&gt; โดยอัตโนมัติ&lt;/li&gt;
+&lt;li&gt;ชําระค่าภาษีอากร เมื่อผู้ส่งของออกชําระภาษีอากรแล้วระบบคอมพิวเตอร์ของศุลกากรจะออกเลขชําระค่าภาษีอากร พร้อมกับเปลี่ยนสถานะใบขนสินค้าขาออกเป็น &lt;strong&gt;“ใบขนสินค้าที่ชําระค่าภาษีอากรแล้ว”&lt;/strong&gt; โดยอัตโนมัติ&lt;/li&gt;
+&lt;li&gt;การวางคํ้าประกันของธนาคารและชําระค่าภาษีอากร เมื่อผู้ส่งของออกดําเนินการตั้งภาระค้ำประกันตามมาตรฐานที่กรมศุลกากรกําหนด และชําระภาษีอากรแล้ว ระบบคอมพิวเตอร์ของศุลกากรจะออกเลขที่รับประกันธนาคารและเลขชําระค่าภาษีอากร พร้อมกับเปลี่ยนสถานะใบขนสินค้าขาออกเป็น &lt;strong&gt;“ใบขนสินค้าที่ชําระค่าภาษีอากรแล้ว”&lt;/strong&gt; โดยอัตโนมัติ&lt;/li&gt;
+&lt;li&gt;ยกเว้นอากร ระบบคอมพิวเตอร์ของศุลกากรจะออก วันที่ยกเว้นอากร (ไม่มีเลขที่ยกเว้นอากร)
+พร้อมกับเปลี่ยนสถานะใบขนสินค้าขาออกเป็น &lt;strong&gt;“ใบขนสินค้าที่ยกเว้นอากรแล้ว”&lt;/strong&gt; โดยอัตโนมัติ&lt;/li&gt;
+&lt;li&gt;ตอบกลับข้อมูล ระบบคอมพิวเตอร์ของศุลกากรจะตอบกลับเลขที่วางประกัน หรือเลขที่ชําระอากรหรือวันที่ยกเว้นอากร กลับไปให้ผู้ส่งข้อมูลใบขนสินค้าขาออก (ตาม XML User)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>การส่งข้อมูลใบขนสินค้าขาออกโดยใช้เคาน์เตอร์บริการ</title>
+      <link>/pages/export/e-export/10.counter-service/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/export/e-export/10.counter-service/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page51.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>การจัดทำและยื่นใบขนสินค้าในรูปแบบเอกสาร (Manual)</title>
+      <link>/pages/export/e-export/11.submission-in-document-format/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/export/e-export/11.submission-in-document-format/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page52.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>การบรรจุสินค้า</title>
+      <link>/pages/export/e-export/12.product-packaging/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/export/e-export/12.product-packaging/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page53.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>โครงสร้างข้อมูลใบกำกับการขนย้ายสินค้า</title>
+      <link>/pages/export/e-export/13.goods-control-list-structure/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/export/e-export/13.goods-control-list-structure/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;ใบกํากับการขนย้ายสินค้า&lt;/strong&gt; แบ่งออกเป็น 2 ส่วน ได้แก่&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;#goods-transition-control&#34;&gt;&lt;strong&gt;Goods Transition Control&lt;/strong&gt;&lt;/a&gt; ประกอบด้วย 31 Field&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#goods-transition-detail&#34;&gt;&lt;strong&gt;Goods Transition Detail&lt;/strong&gt;&lt;/a&gt; ประกอบด้วย 8 Field&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;เงื่อนไขการบันทึกข้อมูล&lt;/strong&gt; ในกรณีผู้บันทึกไม่สามารถหาข้อมูลได้&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;หาก Field ใด กำหนดให้ต้องระบุค่า &lt;strong&gt;(Value = M)&lt;/strong&gt; แต่ผู้บันทึกไม่สามารถหาข้อมูลได้&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;สำหรับ Field ที่เป็น Alphabet (แสดงออกเป็นตัวอักษร) ให้ระบุค่าเป็น N/A&lt;/li&gt;
+&lt;li&gt;สำหรับ Field ที่เป็น Numeric (แสดงออกเป็นตัวเลข) ให้ระบุค่าเป็น 0 (ศูนย์)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;หาก Field ใด กำหนดให้ไม่ต้องระบุค่า &lt;strong&gt;(Value = O)&lt;/strong&gt; และผู้บันทึกไม่สามารถหาข้อมูลได้ ก็ไม่ต้องบันทึกค่าใด ๆ&lt;/li&gt;
+&lt;li&gt;หาก Field ใด กำหนดให้ต้องระบุค่า เมื่อเข้าเงื่อนไขที่กำหนด &lt;strong&gt;(Value = C)&lt;/strong&gt; แต่ผู้บันทึกไม่สามารถหาข้อมูลได้&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;สำหรับ Field ที่เป็น Alphabet (แสดงออกเป็นตัวอักษร) ให้ระบุค่าเป็น N/A&lt;/li&gt;
+&lt;li&gt;สำหรับ Field ที่เป็น Numeric (แสดงออกเป็นตัวเลข) ให้ระบุค่าเป็น 0 (ศูนย์)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;อักษรย่อ&lt;/strong&gt; ที่ใช้ในการอธิบายรูปแบบชนิดของข้อมูล&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;อักษรย่อ&lt;/th&gt;
+&lt;th&gt;คำอธิบาย&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;n3&lt;/td&gt;
+&lt;td&gt;ข้อมูลชนิดตัวเลข (Numeric Characters) คงที่คือ 3 ตัวอักษร&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;a3&lt;/td&gt;
+&lt;td&gt;ข้อมูลชนิดตัวอักษร (Alphabetic Characters) คงที่คือ 3 ตัวอักษร&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;an3&lt;/td&gt;
+&lt;td&gt;ข้อมูลชนิดตัวอักษรหรือตัวเลข คงที่ คือ 3 ตัวอักษร&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;n..3&lt;/td&gt;
+&lt;td&gt;ข้อมูลชนิดตัวเลขความยาวข้อมูลแปรผันตามความยาวสูงสุด 3 ตัวอักษร&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;a..3&lt;/td&gt;
+&lt;td&gt;ข้อมูลชนิดตัวอักษรความยาวข้อมูลแปรผันตามความยาวสูงสุด 3 ตัวอักษร&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;an..3&lt;/td&gt;
+&lt;td&gt;ข้อมูลชนิดตัวอักษรหรือตัวเลขความยาวข้อมูลแปรผันตามความยาวสูงสุด 3 ตัวอักษร&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;n..16,2&lt;/td&gt;
+&lt;td&gt;ข้อมูลชนิดตัวเลขความยาวข้อมูลแปรผันตามความยาวสูงสุด 16 ตัวอักษรรวมความยาวทศนิยมสูงสุด 2 ตัวอักษร&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;goods-transition-control&#34;&gt;Goods Transition Control&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page55.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page56.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page57.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page58.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page59.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page60.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;goods-transition-detail&#34;&gt;Goods Transition Detail&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page61.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page62.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>การจัดทําข้อมูลใบกํากับการขนย้ายสินค้า</title>
+      <link>/pages/export/e-export/14.prepare-goods-control-list/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/export/e-export/14.prepare-goods-control-list/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#ทางเรอ&#34;&gt;ทางเรือ&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#รหสสถานทตรวจปลอย-และรบบรรทก-เหมอนกน&#34;&gt;รหัสสถานที่ตรวจปล่อย และรับบรรทุก &lt;em&gt;เหมือนกัน&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#รหสสถานทตรวจปลอย-และรบบรรทก-แตกตางกน&#34;&gt;รหัสสถานที่ตรวจปล่อย และรับบรรทุก &lt;em&gt;แตกต่างกัน&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#การสงออกทางดานศลกากรทางทะเลโดยเรอหางยาว&#34;&gt;การส่งออกทางด่านศุลกากรทางทะเลโดยเรือหางยาว&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#ทางรถไฟ&#34;&gt;ทางรถไฟ&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#ทางรถยนต&#34;&gt;ทางรถยนต์&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#เรอตามลานา&#34;&gt;เรือตามลํานํ้า&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#ทางทอสายสง&#34;&gt;ทางท่อ/สายส่ง&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#ทางเครองบน&#34;&gt;ทางเครื่องบิน&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#ทางไปรษณย&#34;&gt;ทางไปรษณีย์&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#ทางผโดยสารนาพาขนอากาศยาน&#34;&gt;ทางผู้โดยสารนําพาขึ้นอากาศยาน&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#การสงขอมลโดยใชเคานเตอรบรการ&#34;&gt;การส่งข้อมูลโดยใช้เคาน์เตอร์บริการ&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#การยนใบขนสนคาในรปแบบเอกสาร-manual&#34;&gt;การยื่นใบขนสินค้าในรูปแบบเอกสาร (Manual)&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page65.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page66.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page67.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ทางเรอ&#34;&gt;ทางเรือ&lt;/h2&gt;
+&lt;h3 id=&#34;รหสสถานทตรวจปลอย-และรบบรรทก-เหมอนกน&#34;&gt;รหัสสถานที่ตรวจปล่อย และรับบรรทุก &lt;em&gt;เหมือนกัน&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page68.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;รหสสถานทตรวจปลอย-และรบบรรทก-แตกตางกน&#34;&gt;รหัสสถานที่ตรวจปล่อย และรับบรรทุก &lt;em&gt;แตกต่างกัน&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page69.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page70-1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;การสงออกทางดานศลกากรทางทะเลโดยเรอหางยาว&#34;&gt;การส่งออกทางด่านศุลกากรทางทะเลโดยเรือหางยาว&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page70-2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ทางรถไฟ&#34;&gt;ทางรถไฟ&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page71.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page72-1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ทางรถยนต&#34;&gt;ทางรถยนต์&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page72-2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page73.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;เรอตามลานา&#34;&gt;เรือตามลํานํ้า&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page74.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ทางทอสายสง&#34;&gt;ทางท่อ/สายส่ง&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page75.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ทางเครองบน&#34;&gt;ทางเครื่องบิน&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page76.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ทางไปรษณย&#34;&gt;ทางไปรษณีย์&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page77.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ทางผโดยสารนาพาขนอากาศยาน&#34;&gt;ทางผู้โดยสารนําพาขึ้นอากาศยาน&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page78.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;การสงขอมลโดยใชเคานเตอรบรการ&#34;&gt;การส่งข้อมูลโดยใช้เคาน์เตอร์บริการ&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page79-1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;การยนใบขนสนคาในรปแบบเอกสาร-manual&#34;&gt;การยื่นใบขนสินค้าในรูปแบบเอกสาร (Manual)&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page79-2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>การขนย้ายสินค้าผ่านสถานีรับบรรทุก ณ ด่านศุลกากรที่ส่งออก</title>
+      <link>/pages/export/e-export/15.transfer-of-goods-to-load-port/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/export/e-export/15.transfer-of-goods-to-load-port/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page80.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page81.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>การตัดบัญชีใบกำกับการขนย้ายสินค้า</title>
+      <link>/pages/export/e-export/16.goods-load/</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/export/e-export/16.goods-load/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page82.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page83.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page84.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page85.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>สินค้าที่ส่งออกไปนอกราชอาณาจักรไม่ครบจำนวน (Short Packing)</title>
+      <link>/pages/export/e-export/17.short-packing/</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/export/e-export/17.short-packing/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page86.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page87.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;short-declaration-control&#34;&gt;Short Declaration Control&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page88.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page89.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;short-declaration-detail&#34;&gt;Short Declaration Detail&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page90.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page91.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ขอตรวจรบสนคากลบคน&#34;&gt;ขอตรวจรับสินค้ากลับคืน&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page92.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;change-vesselflight-schedule-message&#34;&gt;Change Vessel/Flight Schedule Message&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page93.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page94.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page95.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page96.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;การเปลยนเขตทาทจะขนถาย&#34;&gt;การเปลี่ยนเขตท่าที่จะขนถ่าย&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page97.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page98.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page99.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;การรบบรรทกของสงออก&#34;&gt;การรับบรรทุกของส่งออก&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page100.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page101.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ตารางแฟ้มข้อมูลอ้างอิง (Reference File)</title>
+      <link>/pages/export/e-export/18.reference-file/</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/export/e-export/18.reference-file/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page102.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>การปฏิบัติงานกรณีเครื่องคอมพิวเตอร์ขัดข้อง ( แผนฉุกเฉิน )</title>
+      <link>/pages/export/e-export/19.emergency/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/export/e-export/19.emergency/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page103.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page104.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page105.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page106.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page107.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>คู่มือการปฏิบัติพิธีการศุลกากรสำหรับการส่งออก (e-Export)</title>
+      <link>/pages/export/e-export/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/export/e-export/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../img/export-Customs-clearance-handbook.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ภาพรวมระบบ&#34;&gt;ภาพรวมระบบ&lt;/h2&gt;
+&lt;p&gt;คู่มือการปฏิบัติพิธีการศุลกากรส่งออกทางอิเล็กทรอนิกส์ว่าด้วยกระบวนการทางศุลกากรสําหรับการส่งออก (e-Export) กําหนดขึ้นเพื่อประโยชน์ในการส่งของออก ให้การปฏิบัติพิธีการศุลกากรสามารถกระทําโดยวิธีการทางอิเล็กทรอนิกส์ได้ โดยให้ใช้บังคับเป็นการทั่วไปสําหรับการส่งของออกไปนอกราชอาณาจักรทางเรือ
+ทางรถไฟ ทางรถยนต์ คนเดินออกไปทางเครื่องบิน ทางไปรษณีย์ ทางท่อขนส่งทางบก ทางสายส่งไฟฟ้า ทางเรือที่เข้าออกด่านศุลกากรทางบก เรือเล็กทางทะเลที่เข้าออกด่านศุลกากรทางทะเล ทางผู้โดยสารนําพาขึ้นอากาศยาน&lt;/p&gt;
+&lt;p&gt;การส่งของออกไปนอกราชอาณาจักร หมายถึง การนําของใด ๆ จากภายในราชอาณาจักรขนหรือย้ายขน โดยทางเรือ ทางรถไฟ ทางรถยนต์ คนเดินออกไป ทางเครื่องบิน ทางไปรษณีย์ ทางท่อขนส่งทางบก ทางสายส่งไฟฟ้า ทางเรือที่เข้าออกด่านศุลกากรทางบก เรือเล็กทางทะเลที่เข้าออกด่านศุลกากรทางทะเล ทางผู้โดยสารนําพาขึ้นอากาศยาน เป็นต้น เพื่อส่งออกไปนอกราชอาณาจักร และให้ดําเนินการโดยวิธีการทางอิเล็กทรอนิกส์ ณ ด่านศุลกากรสุดท้าย (Last Port) ที่ระบุไว้ว่าจะทําการขน หรือย้ายขนของเพื่อส่งออกไปนอกราชอาณาจักร&lt;/p&gt;
+&lt;p&gt;ในการปฏิบัติพิธีการศุลกากรหร อดําเนินการในกระบวนการทางศุลกากรกับของที่เก็บในคลังสินค้าทัณฑ์บน หรืออยู่ในเขตปลอดอากร และ/หรือในเขตประกอบการเสรี ให้ดําเนินการโดยวิธีการทางอิเล็กทรอนิกส์ ณ ด่านศุลกากรสุดท้าย (Last Port) ที่ระบุไว้ว่าจะทําการขน หรือย้ายขนของเพื่อส่งออกไปนอกราชอาณาจักร&lt;/p&gt;
+&lt;p&gt;หากเรื่องใดที่เป็นข้อปฏิบัติเฉพาะของหน่วยงานที่สํานัก/สํานักงานศุลกากรที่รับผิดชอบ เสนอระเบียบปฏิบัติและขอความเห็นชอบจากกรมศุลกากร ให้กําหนดเพิ่มเติมเป็นการเฉพาะหรือแตกต่างไปจากที่กําหนดในคู่มือฉบับนี้ ให้ถือปฏิบัติตามข้อปฎิบัติดังกล่าวนั้น&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;แผนภาพแสดงกระบวนการส่งออกด้วยวิธีทางอิเล็กทรอนิกส์ (e-Export System)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ระบบพธการสงออกทางอเลกทรอนกส-e-export&#34;&gt;ระบบพิธีการส่งออกทางอิเล็กทรอนิกส์ (e-Export)&lt;/h2&gt;
+&lt;p&gt;ประกอบด้วย 5 ขั้นตอนคือ&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;การจัดทําใบขนสินค้าขาออก&lt;/li&gt;
+&lt;li&gt;การบรรจุสินค้าและการจัดทําใบกํากับการขนย้ายสินค้า&lt;/li&gt;
+&lt;li&gt;การขนย้ายสินค้าผ่านสถานีรับบรรทุก ณ ด่านศุลกากรที่ส่งออก&lt;/li&gt;
+&lt;li&gt;การตัดบัญชีใบกํากับการขนย้าย&lt;/li&gt;
+&lt;li&gt;การรับบรรทุกของส่งออก&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;เอกสารอ้างอิง&lt;/strong&gt; : &lt;a href=&#34;e-Export-guide.pdf&#34;&gt;ประกาศกรมศุลกากรที่ 132 / 2561 เรื่อง &lt;strong&gt;คู่มือการปฏิบัติพิธีการศุลกากรทางอิเล็กทรอนิกส์ว่าด้วยกระบวนการทางศุลกากรสำหรับการส่งออก (e-Export)&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>สรุปโครงสร้างใบขนสินค้าที่เปลี่ยนแปลง</title>
+      <link>/pages/export/e-export/20.change/</link>
+      <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/export/e-export/20.change/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#วตถประสงคของการปรบปรงโครงสรางใบขนสนคา&#34;&gt;วัตถุประสงค์ของการปรับปรุงโครงสร้างใบขนสินค้า&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#ภาพแสดงการปรบปรงโครงสรางใบขนสนคา&#34;&gt;ภาพแสดงการปรับปรุงโครงสร้างใบขนสินค้า&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#กรณท-1-เพอรองรบการเชอมโยงกบกรมสรรพากร&#34;&gt;กรณีที่ 1 เพื่อรองรับการเชื่อมโยงกับกรมสรรพากร&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#กรณท-2-เพอรองรบการวางประกนทางอเลกทรอนกส-e-guarantee-deposit&#34;&gt;กรณีที่ 2 เพื่อรองรับการวางประกันทางอิเล็กทรอนิกส์ (e-Guarantee Deposit)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#กรณท-3-เพอรองรบการสาแดงใบขนสนคาโอนยายภายในประเทศ-และใบขนสนคาทใชสทธประโยชนทางภาษอากร-ตาง-ๆ&#34;&gt;กรณีที่ 3 เพื่อรองรับการสําแดงใบขนสินค้าโอนย้ายภายในประเทศ และใบขนสินค้าที่ใช้สิทธิประโยชน์ทางภาษีอากร ต่าง ๆ&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#กรณท-4-เพอรองรบกรณขอโตแยงวางประกน&#34;&gt;กรณีที่ 4 เพื่อรองรับกรณีขอโต้แย้ง/วางประกัน&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#กรณท-5-เพอรองรบการรบรองถนกาเนดสนคาดวยตนเอง-self-certification&#34;&gt;กรณีที่ 5 เพื่อรองรับการรับรองถิ่นกําเนิดสินค้าด้วยตนเอง (Self Certification)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#กรณท-6-เพอรองรบกรณ-aeos&#34;&gt;กรณีที่ 6 เพื่อรองรับกรณี AEOs&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#กรณท-7-เพอรองรบการแลกเปลยนขอมล-acdd&#34;&gt;กรณีที่ 7 เพื่อรองรับการแลกเปลี่ยนข้อมูล ACDD&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#กรณท-8-เพอใหรองรบกบการเชอมโยงขอมลสาหรบ-3-กรมภาษสาหรบการชาระคาภาษอากรในอนาคตดวยบญชเดบตบตรภาษ&#34;&gt;กรณีที่ 8 เพื่อให้รองรับกับการเชื่อมโยงข้อมูลสําหรับ 3 กรมภาษีสําหรับการชําระค่าภาษีอากรในอนาคตด้วยบัญชีเดบิตบัตรภาษี&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#กรณท-9-ปรบปรงการสาแดงขอมลเพอใหเปนไปตามมาตรฐานสากล&#34;&gt;กรณีที่ 9 ปรับปรุงการสําแดงข้อมูลเพื่อให้เป็นไปตามมาตรฐานสากล&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#กรณท-10-ปรบปรงขนาดการเกบขอมลของแตละ-field-ใหเพยงพอตอการสาแดงใบขนสนคา-และปรบปรงชอ-field-และการสาแดงใหชดเจนยงขน&#34;&gt;กรณีที่ 10 ปรับปรุงขนาดการเก็บข้อมูลของแต่ละ Field ให้เพียงพอต่อการสําแดงใบขนสินค้า และปรับปรุงชื่อ Field และการสําแดงให้ชัดเจนยิ่งขึ้น&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;วตถประสงคของการปรบปรงโครงสรางใบขนสนคา&#34;&gt;วัตถุประสงค์ของการปรับปรุงโครงสร้างใบขนสินค้า&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page108.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ภาพแสดงการปรบปรงโครงสรางใบขนสนคา&#34;&gt;ภาพแสดงการปรับปรุงโครงสร้างใบขนสินค้า&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page109.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;กรณท-1-เพอรองรบการเชอมโยงกบกรมสรรพากร&#34;&gt;กรณีที่ 1 เพื่อรองรับการเชื่อมโยงกับกรมสรรพากร&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page110.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;กรณท-2-เพอรองรบการวางประกนทางอเลกทรอนกส-e-guarantee-deposit&#34;&gt;กรณีที่ 2 เพื่อรองรับการวางประกันทางอิเล็กทรอนิกส์ (e-Guarantee Deposit)&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page111.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page112.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;กรณท-3-เพอรองรบการสาแดงใบขนสนคาโอนยายภายในประเทศ-และใบขนสนคาทใชสทธประโยชนทางภาษอากร-ตาง-ๆ&#34;&gt;กรณีที่ 3 เพื่อรองรับการสําแดงใบขนสินค้าโอนย้ายภายในประเทศ และใบขนสินค้าที่ใช้สิทธิประโยชน์ทางภาษีอากร ต่าง ๆ&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page113.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page114.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;กรณท-4-เพอรองรบกรณขอโตแยงวางประกน&#34;&gt;กรณีที่ 4 เพื่อรองรับกรณีขอโต้แย้ง/วางประกัน&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page115.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page116.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;กรณท-5-เพอรองรบการรบรองถนกาเนดสนคาดวยตนเอง-self-certification&#34;&gt;กรณีที่ 5 เพื่อรองรับการรับรองถิ่นกําเนิดสินค้าด้วยตนเอง (Self Certification)&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page117.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;กรณท-6-เพอรองรบกรณ-aeos&#34;&gt;กรณีที่ 6 เพื่อรองรับกรณี AEOs&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page118.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;กรณท-7-เพอรองรบการแลกเปลยนขอมล-acdd&#34;&gt;กรณีที่ 7 เพื่อรองรับการแลกเปลี่ยนข้อมูล ACDD&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page119.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;กรณท-8-เพอใหรองรบกบการเชอมโยงขอมลสาหรบ-3-กรมภาษสาหรบการชาระคาภาษอากรในอนาคตดวยบญชเดบตบตรภาษ&#34;&gt;กรณีที่ 8 เพื่อให้รองรับกับการเชื่อมโยงข้อมูลสําหรับ 3 กรมภาษีสําหรับการชําระค่าภาษีอากรในอนาคตด้วยบัญชีเดบิตบัตรภาษี&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page120.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;กรณท-9-ปรบปรงการสาแดงขอมลเพอใหเปนไปตามมาตรฐานสากล&#34;&gt;กรณีที่ 9 ปรับปรุงการสําแดงข้อมูลเพื่อให้เป็นไปตามมาตรฐานสากล&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page121.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page122-01.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;กรณท-10-ปรบปรงขนาดการเกบขอมลของแตละ-field-ใหเพยงพอตอการสาแดงใบขนสนคา-และปรบปรงชอ-field-และการสาแดงใหชดเจนยงขน&#34;&gt;กรณีที่ 10 ปรับปรุงขนาดการเก็บข้อมูลของแต่ละ Field ให้เพียงพอต่อการสําแดงใบขนสินค้า และปรับปรุงชื่อ Field และการสําแดงให้ชัดเจนยิ่งขึ้น&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page122-02.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page123.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page124.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page125.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page126.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page127.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ตารางแฟ้มข้อมูลอ้างอิง (Reference File)</title>
+      <link>/pages/export/e-export/100.backup/</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/export/e-export/100.backup/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page102.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page103.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page104.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page105.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page106.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page107.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page108.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page109.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page110.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
