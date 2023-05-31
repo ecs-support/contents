@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ราคาขายปลีกแนะนำ on ECS</title>
+    <link>/tags/%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B8%A2%E0%B8%9B%E0%B8%A5%E0%B8%81%E0%B9%81%E0%B8%99%E0%B8%B0%E0%B8%99%E0%B8%B3/</link>
+    <description>Recent content in ราคาขายปลีกแนะนำ on ECS</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>ECS@Support&amp;copy;{year}</copyright>
+    <lastBuildDate>Thu, 03 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B8%82%E0%B8%B2%E0%B8%A2%E0%B8%9B%E0%B8%A5%E0%B8%81%E0%B9%81%E0%B8%99%E0%B8%B0%E0%B8%99%E0%B8%B3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ราคาขายปลีกแนะนำ</title>
+      <link>/post/knowledge/retail-price/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/knowledge/retail-price/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;ราคาขายปลีกแนะนำ คือ ราคาขายที่ผู้ประกอบอุตสาหกรรมหรือผู้นำเข้าประสงค์ จะกำหนดเป็นราคาขายปลีกแนะนำให้ผู้ขายปลีกขาย สินค้าของตนให้แก่ผู้บริโภครายสุดท้ายในตลาดปกติ โดยราคาดังกล่าวเป็นราคาที่กรมสรรพสามิตใช้เป็นฐานภาษีในการคำนวณภาษีในกรณีภาษีตามมูลค่า สำหรับสินค้าที่เสียภาษีสรรพสามิต&lt;/p&gt;
+&lt;h2 id=&#34;การบนทกขอมลราคาขายปลกแนะนำ&#34;&gt;การบันทึกข้อมูลราคาขายปลีกแนะนำ&lt;/h2&gt;
+&lt;p&gt;แบ่งได้เป็น 3 ประเภทคือ&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;ให้ระบุราคาขายปลีกแนะนำตามที่ได้แจ้งไว้กับกรมสรรพสามิตที่ช่อง Deducted Amount&lt;/li&gt;
+&lt;li&gt;กรณีสินค้าที่มี&lt;strong&gt;อัตราภาษีตามปริมาณเพียงอย่างเดียว เช่น น้ำมัน และผลิตภัณฑ์น้ำมัน (น้ำมันหล่อลื่นอัตราภาษี 5 บาทต่อลิตร)&lt;/strong&gt; ให้ระบุ &lt;strong&gt;“0.1”&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;กรณีสินค้าที่นำเข้า&lt;strong&gt;คลังทัณฑ์บน เขตปลอดอากร เขตประกอบการเสรี และของที่ได้รับยกเว้นอากรตามภาค 4 และสินค้าที่กำหนดอัตราภาษีสรรพสามิตตามมูลค่าร้อยละศูนย์&lt;/strong&gt; ให้ระบุ &lt;strong&gt;“0.2”&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;img-01.jpg&#34; alt=&#34;enter image description here&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;img-02.jpg&#34; alt=&#34;enter image description here&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;img-03.jpg&#34; alt=&#34;enter image description here&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;โครงสรางราคาขายปลกแนะนำ&#34;&gt;โครงสร้างราคาขายปลีกแนะนำ&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;price-structure.jpg&#34; alt=&#34;enter image description here&#34;&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;ต้นทุนการผลิต&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ในกรณีสินค้าที่ผลิตในราชอาณาจักร หมายถึง ต้นทุนทั้งหมดที่มีอยู่ในการผลิตสินค้า ซึ่งได้แก่ ค่าวัตถุดิบ ค่าแรงงาน และค่าใช้จ่ายอื่นที่ใช้ในกระบวนการผลิต&lt;/li&gt;
+&lt;li&gt;ในกรณีสินค้านำเข้า หมายถึง ราคาของสินค้าและค่าใช้จ่ายที่ใช้ในการนำเข้าสินค้ามาในราชอาณาจักร ซึ่งได้แก่ ราคา ซี.ไอ.เอฟ. อากรศุลกากร และค่าใช้จ่ายอื่นที่ใช้ในการดำเนินพิธีการศุลกากร.&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;ค่าบริหารจัดการ&lt;/strong&gt; หมายถึง ค่าใช้จ่ายในสำนักงาน ซึ่งได้แก่ ค่าโฆษณา ค่าขนส่ง ค่าประกันภัย ค่าภาษีสรรพสามิต ค่าภาษีอื่น ที่จัดเก็บจากการขายสินค้านั้น ค่าธรรมเนียม (ในการรับฝากของในอารักขาศุลกากร) เงินบำรุงกองทุนหรือองค์การตามที่กฎหมาย กำหนดให้เรียกเก็บจากผู้มีหน้าที่เสียภาษีสำหรับสินค้านั้น และค่าใช้จ่ายอื่นที่เกี่ยวข้องกับการการบริหารการขายสินค้าผู้ประกอบอุตสาหกรรมหรือผู้นำเข้า&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;กำไรมาตรฐาน&lt;/strong&gt; หมายถึง ให้พิจารณาจากราคาขายปลีกแนะนำหักต้นทุนการผลิตและค่าบริหารจัดการ&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;หลกเกณฑ-วธการ-แจงราคาขายปลกแนะนำ&#34;&gt;หลักเกณฑ์ วิธีการ แจ้งราคาขายปลีกแนะนำ&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;notifications_price.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ประกาศทเกยวของ&#34;&gt;ประกาศที่เกี่ยวข้อง&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;ประกาศกรมศุลกากรที่ 114/.2560 เรื่อง การปฏิบัติพิธีการศุลกากรนำเข้าทางอิเล็กทรอนิกส์สำหรับสินค้านำเข้าตามกฎหมายว่าด้วยภาษีสรรพสามิต&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;strong&gt;ประกาศกรมศุลกากรที่ 127/.2560 เรื่อง การปฏิบัติพิธีการศุลกากรนำเข้าทางอิเล็กทรอนิกส์ สำหรับสินค้านำเข้า ที่กรมสรรพสามิตประกาศขยายกำหนดเวลาการปฏิบัติตามพระราชบัญญัติภาษีสรรพสามิต พ.ศ.2560&lt;/strong&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ที่มา : กรมสรรพสามิต&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

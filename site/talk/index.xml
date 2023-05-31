@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FAQ. on ECS</title>
+    <link>/talk/</link>
+    <description>Recent content in FAQ. on ECS</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>ECS@Support&amp;copy;{year}</copyright>
+    <lastBuildDate>Sun, 19 Sep 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>สิทธิประโยชน์ทางภาษี</title>
+      <link>/talk/incentive/</link>
+      <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/incentive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Import.</title>
+      <link>/talk/import/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/import/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Customs Clearance.</title>
+      <link>/talk/clearance/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/clearance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Export.</title>
+      <link>/talk/export/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/export/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

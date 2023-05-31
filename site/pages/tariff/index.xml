@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>พิกัดศุลกากร on ECS</title>
+    <link>/pages/tariff/</link>
+    <description>Recent content in พิกัดศุลกากร on ECS</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>ECS@Support&amp;copy;{year}</copyright>
+    <lastBuildDate>Sun, 21 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/pages/tariff/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>การจำแนกพิกัดศุลกากร</title>
+      <link>/pages/tariff/tariff_classification/</link>
+      <pubDate>Tue, 02 Mar 2021 08:10:00 +0000</pubDate>
+      
+      <guid>/pages/tariff/tariff_classification/</guid>
+      <description>&lt;p&gt;ระบบพิกัด HS Code จัดแบ่งกลุ่มสินค้าตามขั้นตอนการผลิตออกเป็น 21 หมวด 97 ตอน (5,386 ประเภท)&lt;/p&gt;
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 1 สัตว์มีชีวิต ผลิตภัณฑ์จากสัตว์ (ตอนที่ 1 - 5)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;01  สัตว์มีชีวิต&lt;/li&gt;
+&lt;li&gt;02  เนื้อสัตว์และส่วนอื่นของสัตว์ที่บริโภคได้&lt;/li&gt;
+&lt;li&gt;03  ปลา สัตว์น้ำจำพวกครัสตาเซีย โมลลุสก์ และสัตว์น้ำที่ไม่มีกระดูกสันหลังอื่น ๆ&lt;/li&gt;
+&lt;li&gt;04  ผลิตภัณฑ์นม ไข่สัตว์ปีก น้ำผึ้งธรรมชาติ ผลิตภัณฑ์จากสัตว์ที่บริโภคได้ ซึ่งไม่ได้ระบุหรือรวมไว้ในที่อื่น&lt;/li&gt;
+&lt;li&gt;05  ผลิตภัณฑ์จากสัตว์ที่ไม่ได้ระบุหรือรวมไว้ในที่อื่น&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 2 ผลิตภัณฑ์จากพืช (ตอนที่ 6 -14)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;06  ต้นไม้ และพืชอื่น ๆ ที่มีชีวิต หัว รากและสิ่งที่คล้ายกัน ดอกไม้และใบไม้ที่ใช้ประดับ&lt;/li&gt;
+&lt;li&gt;07  พืชผักรวมทั้งรากและหัวบางชนิดที่บริโภคได้&lt;/li&gt;
+&lt;li&gt;08  ผลไม้และลูกนัตที่บริโภคได้ เปลือกผลไม้จำพวกส้มหรือเปลือกแตงโม&lt;/li&gt;
+&lt;li&gt;09  กาแฟ ชา ชามาเต้ และเครื่องเทศ&lt;/li&gt;
+&lt;li&gt;10  ธัญพืช&lt;/li&gt;
+&lt;li&gt;11  ผลิตภัณฑ์ของอุตสาหกรรมโม่สีเมล็ดธัญพืช มอลต์ สตาร์ช อินูลิน และกลูเทนจากข้าวสาลี&lt;/li&gt;
+&lt;li&gt;12  เมล็ดพืชและผลไม้ ที่มีน้ำมัน เมล็ดธัญพืช เมล็ดพืชและผลไม้เบ็ดเตล็ด พืชที่ใช้ในอุตสาหกรรม หรือใช้เป็นยาฟาง และหญ้าแห้งที่ใช้เป็นอาหารสัตว์&lt;/li&gt;
+&lt;li&gt;13  ครั่ง รวมทั้งกัม เรซิน น้ำเลี้ยง (แซป) และสิ่งสกัดอื่น ๆ จากพืช&lt;/li&gt;
+&lt;li&gt;14  วัตถุจากพืชที่ใช้ถักสาน ผลิตผลจากพืชที่ไม่ได้ระบุหรือรวมไว้ในที่อื่น&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 3 ไขมันและน้ำมันที่ได้จากสัตว์หรือพืช และผลิตภัณฑ์ที่แยกได้จากไขมันและน้ำมันดังกล่าวฯ (ตอนที่ 15)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;15   ไขมันและน้ำมันที่ได้จากสัตว์หรือพืช และผลิตภัณฑ์ที่แยกได้จากไขมันและน้ำมันดังกล่าว ไขมันที่บริโภคได้ซึ่งจัดทำแล้ว ไขที่ได้จากสัตว์หรือพืช&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 4 อาหารปรุงแต่ง เครื่องดื่ม สุรา และน้ำส้มสายชู ยาสูบ และผลิตภัณฑ์ที่ใช้แทนยาสูบฯ (ตอนที่ 16 - 24)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;16  ของปรุงแต่งจากเนื้อสัตว์ ปลา หรือสัตว์น้ำจำพวกครัสตาเซีย โมลลุสก์ หรือจากสัตว์น้ำที่ไม่มีกระดูกสันหลังอื่น ๆ&lt;/li&gt;
+&lt;li&gt;17  น้ำตาลและขนมทำจากน้ำตาล (ชูการ์คอนแฟกชันเนอรี)&lt;/li&gt;
+&lt;li&gt;18  โกโก้และของปรุงแต่งที่ทำจากโกโก้&lt;/li&gt;
+&lt;li&gt;19  ของปรุงแต่งจากธัญพืช แป้ง สตาร์ช หรือนม ผลิตภัณฑ์อาหารจำพวกเพสทรี&lt;/li&gt;
+&lt;li&gt;20  ของปรุงแต่งทำจากพืชผัก ผลไม้ ลูกนัต หรือจากส่วนอื่นของพืช&lt;/li&gt;
+&lt;li&gt;21  ของปรุงแต่งเบ็ดเตล็ดที่ทำจากพืช&lt;/li&gt;
+&lt;li&gt;22  เครื่องดื่มสุรา น้ำส้มสายชู&lt;/li&gt;
+&lt;li&gt;23  กากและเศษที่เหลือจากอุตสาหกรรมผลิตอาหาร อาหารที่จัดทำไว้สำหรับการเลี้ยงสัตว์&lt;/li&gt;
+&lt;li&gt;24  ยาสูบและผลิตภัณฑ์ที่ใช้แทนยาสูบ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 6 ผลิตภัณฑ์ทางเคมี(ตอนที่ 28 - 38)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;28  เคมีภัณฑ์อนินทรีย์ สารประกอบอินทรีย์ประเภทสารประกอบอนินทรีย์ ของโลหะมีค่า และโลหะจำพวกแรร์เอิร์ท ของธาตุกัมมันตรังสีหรือไอโซโทป&lt;/li&gt;
+&lt;li&gt;29  เคมีภัณฑ์อินทรีย์&lt;/li&gt;
+&lt;li&gt;30  ผลิตภัณฑ์ทางเภสัชสัชกรรม&lt;/li&gt;
+&lt;li&gt;31  ปุ๋ย&lt;/li&gt;
+&lt;li&gt;32  สิ่งสกัดที่ใช้ฟอกหนังหรือย้อมสี แทนนินและอนุพันธ์ของแทนนิน สีย้อม สารสี (พิกเมนต์)และวัตถุแต่งสี อื่นๆ สีทาและวานิชพัตตี้และมาสติกอื่นๆรวมทั้งหมึก&lt;/li&gt;
+&lt;li&gt;33  เอสเซนเชียลออยล์และเรซินนอยด์ เครื่องหอม เครื่องสำอางหรือสิ่งปรุงแต่งสำหรับประทินร่างกายหรือประเทืองโฉมเครื่องประเทืองโฉม (ทอยเล็ดเพรพาเรชัน)&lt;/li&gt;
+&lt;li&gt;34  สบู่ สารอินทรีย์ที่เป็นตัวลดแรงตึงผิว สิ่งปรุงแต่งที่ใช้ซักล้าง สิ่งปรุงแต่งที่ใช้หล่อลื่น ไขเทียม ไขปรุงแต่ง สิ่งปรุงแต่งที่ใช้ขัดเงาหรือขัดถู เทียนไข และของที่คล้ายกัน เพสต์สำหรับทำแบบ &amp;ldquo;ไขที่ใช้ทางทันตกรรม&amp;rdquo; สิ่งปรุงแต่งทางทันตกรรมซึ่งมีปลาสเตอร์เป็นหลัก&lt;/li&gt;
+&lt;li&gt;35  สารแอลบูมินอยด์ โมดิไฟด์ สตาร์ช กาว เอนไซม์&lt;/li&gt;
+&lt;li&gt;36  วัตถุระเบิด ผลิตภัณฑ์จำพวกดอกไม้เพลิง ไม้ขีดไฟ แอลลอยด์ที่ทำให้เกิดประกายไฟ สิ่งปรุงแต่งที่สันดาปได้บางชนิด&lt;/li&gt;
+&lt;li&gt;37  ของที่ใช้ในการถ่ายรูปหรือถ่ายภาพยนตร์&lt;/li&gt;
+&lt;li&gt;38  เคมีภัณฑ์เบ็ดเตล็ด&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 7 ผลิตภัณฑ์ของพลาสติกและยาง (ตอนที่ 39 - 40)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;39  พลาสติกและของที่ทำด้วยพลาสติก&lt;/li&gt;
+&lt;li&gt;40  ยาง และของทำด้วยยาง&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 8 ผลิตภัณฑ์จากหนังและหนังเฟอร์ (ตอนที่ 41 - 43)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;41  หนังดิบ(นอกจากเฟอร์) และหนังฟอก&lt;/li&gt;
+&lt;li&gt;42  เครื่องหนัง เครื่องอานและเครื่องเทียมลาก เครื่องใช้สำหรับเดินทาง กระเป๋าถือและภาชนะที่คล้ายกัน ของที่ทำด้วยไส้สัตว์(นอกจากไส้ตัวไหม)&lt;/li&gt;
+&lt;li&gt;43  หนังเฟอร์ เฟอร์เทียม และผลิตภัณฑ์ของดังกล่าว&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 9 ไม้และของทำด้วยไม้ (ตอนที่ 44 - 46)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;44  ไม้และของทำด้วยไม้ ถ่านไม้&lt;/li&gt;
+&lt;li&gt;45  ไม้ก๊อก และของทำด้วยไม้ก๊อก&lt;/li&gt;
+&lt;li&gt;46  ผลิตภัณฑ์ทำด้วยฟาง ทำด้วยเอสพาร์โตหรือวัตถุถักสานอื่นๆ เครื่องจักสานและเครื่องสาน&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 10 เยื่อไม้และกระดาษ (ตอนที่ 47 - 49)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;47  เยื่อไม้หรือเยื่อไม้ที่ได้จากวัตถุจำพวกเส้นใยเซลลูโลสอื่นๆ เศษและของที่ใช้ไม่ได้ที่เป็นกระดาษหรือกระดาษแข็ง&lt;/li&gt;
+&lt;li&gt;48  กระดาษและกระดาษแข็ง ของทำด้วยเยื่อกระดาษหรือทำด้วยกระดาษหรือกระดาษแข็ง&lt;/li&gt;
+&lt;li&gt;49  หนังสือที่พิมพ์เป็นเล่ม หนังสือพิมพ์ รูปภาพ และผลิตภัณฑ์อื่นๆ ของอุตสาหกรรมการพิมพ์ ต้นฉบับเขียนหรือดีดพิมพ์ และแปลน&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 11 สิ่งทอและของทำด้วยสิ่งทอ (ตอนที่ 50 - 63)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;50  ไหม&lt;/li&gt;
+&lt;li&gt;51  ขนแกะ ขนละเอียดหรือขนหยาบของสัตว์ ด้ายขนม้าและผ้าทอ&lt;/li&gt;
+&lt;li&gt;52  ฝ้าย&lt;/li&gt;
+&lt;li&gt;53  เส้นใยสิ่งทอจากพืชอื่นๆ ด้ายกระดาษ และผ้าทอจากด้ายกระดาษ&lt;/li&gt;
+&lt;li&gt;54  ใยยาวประดิษฐ์&lt;/li&gt;
+&lt;li&gt;55  เส้นใยสั้นประดิษฐ์&lt;/li&gt;
+&lt;li&gt;56  แวดดิ้ง สักหลาดและผ้าไม่ทอ ด้ายชนิดพิเศษ เชือกชนิดทไวน์ ชนิดคอร์เดจ ชนิดโรปและเคเบิล และของทำด้วยสิ่งดังกล่าว&lt;/li&gt;
+&lt;li&gt;57  พรมและสิ่งทอปูพื้นอื่นๆ&lt;/li&gt;
+&lt;li&gt;58  ผ้าทอชนิดพิเศษ ผ้าสิ่งทอที่ทำปุยแบบทัฟต์ ผ้าลูกไม้เทเพสทรี ผ้าที่ใช้ตกแต่ง ผ้าปัก&lt;/li&gt;
+&lt;li&gt;59  ผ้าสิ่งทอที่อาบซึม เคลือบ หุ้มหรืออัดเป็นชั้น ของทำด้วยสิ่งทอชนิดที่เหมาะสำหรับใช้ในอุตสาหกรรม&lt;/li&gt;
+&lt;li&gt;60  ผ้าถักแบบนิตหรือแบบโครเชต์&lt;/li&gt;
+&lt;li&gt;61  เครื่องแต่งกายและของที่ใช้ประกอบกับเครื่องแต่งกาย ถักแบบนิตหรือแบบโครเชต์&lt;/li&gt;
+&lt;li&gt;62  เครื่องแต่งกายและของที่ใช้ประกอบกับเครื่องแต่งกาย ที่ไม่ได้ถักแบบนิตหรือแบบโครเชต์&lt;/li&gt;
+&lt;li&gt;63  ของทำด้วยสิ่งทอที่จัดทำแล้วอื่นๆ ของเป็นชุด เสื้อผ้าที่ใช้แล้วและของที่ใช้แล้วทำด้วยสิ่งทอ ผ้าขี้ริ้ว&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 12 ของสำเร็จรูป (ตอนที่ 64 - 67)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;64  รองเท้า สนับแข้งและของที่คล้ายกัน รวมทั้งส่วนประกอบของของดังกล่าว&lt;/li&gt;
+&lt;li&gt;65  เครื่องสวมศรีษะและส่วนประกอบของเครื่องสวมศรีษะ&lt;/li&gt;
+&lt;li&gt;66  ร่ม ร่มปักกันแดด ไม้เท้า ไม้เท้าที่เป็นที่นั่ง แส้(วิป) แส้ขี่ม้าและส่วนประกอบของของดังกล่าว&lt;/li&gt;
+&lt;li&gt;67  ขนแข็งและขนอ่อนของสัตว์ปีกที่จัดเตรียมแล้ว และของทำด้วยของดังกล่าว ดอกไม้เทียม ของทำด้วยผมคน&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 13 หิน ผลิตภัณฑ์เซรามิก เครื่องแก้ว (ตอนที่ 68 - 70)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;68  ของทำด้วยหิน ปลาสเตอร์ ซีเมนต์ แอสแบสทอส ไมกา หรือวัตถุที่คล้ายกัน&lt;/li&gt;
+&lt;li&gt;69  ผลิตภัณฑ์เซรามิก&lt;/li&gt;
+&lt;li&gt;70  แก้วและเครื่องแก้ว&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 14 ไข่มุก รัตนชาติ(ตอนที่ 71)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;71  ไข่มุกธรรมชาติ หรือไข่มุกเลี้ยง รัตนชาติหรือกึ่งรัตนชาติ โลหะมีค่า โลหะที่หุ้มติดด้วยโลหะมีค่า และของที่ทำด้วยของดังกล่าว เครื่องเพชรพลอย และรูปพรรณที่เป็นของเทียม เหรียญกษาปณ์&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 15 โลหะสามัญและของทำด้วยโลหะสามัญ (ตอนที่ 72 - 83)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;72  เหล็กและเหล็กกล้า&lt;/li&gt;
+&lt;li&gt;73  ของทำด้วยเหล็กหรือเหล็กกล้า&lt;/li&gt;
+&lt;li&gt;74  ทองแดงและชองทำด้วยทองแดง&lt;/li&gt;
+&lt;li&gt;75  นิกเกิลและของทำด้วยนิกเกิล&lt;/li&gt;
+&lt;li&gt;76  อะลูมิเนียมและของทำด้วยอะลูมิเนียม&lt;/li&gt;
+&lt;li&gt;78  ตะกั่วและของทำด้วยตะกั่ว&lt;/li&gt;
+&lt;li&gt;79  สังกะสีและของทำด้วยสังกะสี&lt;/li&gt;
+&lt;li&gt;80  ดีบุกและของทำด้วยดีบุก&lt;/li&gt;
+&lt;li&gt;81  โลหะสามัญชนิดอื่น เซอร์เมต และของทำด้วยของดังกล่าว&lt;/li&gt;
+&lt;li&gt;82  เครื่องมือ เครื่องใช้ ของใช้ชนิดมีคม ช้อนและส้อม ทำด้วยโลหะสามัญ ส่วนประกอบของของดังกล่าวทำด้วยโลหะสามัญ&lt;/li&gt;
+&lt;li&gt;83  ของเบ็ดเตล็ดทำด้วยโลหะสามัญ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 16 เครื่องจักร เครื่องกล อุปกรรณ์ไฟฟ้า (ตอนที่ 84 - 85)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;84  เครื่องปฏิกรณ์นิวเคลียร์ บอยเลอร์ เครื่องจักร เครื่องใช้กล และส่วนประกอบของเครื่องดังกล่าว&lt;/li&gt;
+&lt;li&gt;85  เครื่องจักรไฟฟ้า เครื่องอุปกรณ์ไฟฟ้า และส่วนประกอบของเครื่องดังกล่าว เครื่องบันทึกเสียงและเครื่องถอดเสียง เครื่องบันทึกและเครื่องถอดภาพ และเสียงทางโทรทัศน์ รวมทั้งส่วนประกอบและอุปกรณ์ของเครื่องดังกล่าว&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 17 ยานบก ยานน้ำ อากาศยาน (ตอนที่ 86 - 89)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;86  หัวรถจักรของรถไฟหรือรถราง รถที่เดินบนรางและส่วนประกอบของของดังกล่าว สิ่งติดตั้งถาวรและอุปกรณ์ติดตั้งสำหรับรางรถไฟหรือรถราง และส่วนประกอบของสิ่งดังกล่าว เครื่องอุปกรณ์กล (รวมถึงที่เป็นเครื่องกลไฟฟ้า) สำหรับให้สัญญาณทางจราจรทุกชนิด&lt;/li&gt;
+&lt;li&gt;87  ยานบกนอกจากรถที่เดินบนรางรถไฟหรือรางรถราง ส่วนประกอบและอุปกรณ์ประกอบของยานดังกล่าว&lt;/li&gt;
+&lt;li&gt;88  อากาศยาน ยานอวกาศ และส่วนประกอบของยานดังกล่าว&lt;/li&gt;
+&lt;li&gt;89  เรือและสิ่งก่อสร้างลอยน้ำ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 18 อุปกรณ์ทางทัศนศาสตร์ การแพทย์ เครื่องดนตรี นาฬิกา (ตอนที่ 90 - 92)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;90  อุปกรณ์และเครื่องอุปกรณ์ที่ใช้ในทางทัศนศาสตร์ การถ่ายรูป การถ่ายทำภาพยนตร์ การวัด การตรวจสอบ การวัดความเที่ยง การแพทย์หรือการศัลยกรรม รวมทั้งส่วนประกอบ และอุปกรณ์ประกอบของของดังกล่าว&lt;/li&gt;
+&lt;li&gt;91  นาฬิกาชนิดคล็อกและชนิดวอตซ์ และส่วนประกอบของนาฬิกาดังกล่าว&lt;/li&gt;
+&lt;li&gt;92  เครื่องดนตรี รวมทั้งส่วนประกอบและอุปกรณ์ประกอบของเครื่องดนตรี&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 19 อาวุธและกระสุน (ตอนที่ 93)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;93  อาวุธและกระสุน รวมทั้งส่วนประกอบและอุปกรณ์ประกอบของของดังกล่าว&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 20 ผลิตภัณฑ์เบ็ดเตล็ด (ตอนที่ 94 - 96)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;94  เฟอร์นิเจอร์ เครื่องเตียง ฟูก ฐานรองฟูก เบาะ และสิ่งตกแต่งยัดไส้ที่คล้ายกัน เครื่องประทีปโคมไฟ ที่ไม่ได้ระบุหรือรวมไว้ในที่อื่น เครื่องหมายที่มีแสงสว่าง แผ่นป้ายชื่อที่มีแสงสว่างและของที่คล้ายกัน รวมทั้งอาคารสำเร็จรูป&lt;/li&gt;
+&lt;li&gt;95  ของเล่น ของเล่นเกม และของใช้ที่จำเป็นในการเล่นกีฬา ส่วนประกอบและอุปกรณ์ประกอบของของดังกล่าว&lt;/li&gt;
+&lt;li&gt;96  ผลิตภัณฑ์เบ็ดเตล็ด&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 21 ศิลปกรรม โบราณวัตถุ (ตอนที่ 97)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;97  ศิลปกรรม ของที่นักสะสมรวบรวม และโบราณวัตถุ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;hr&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;strong&gt;หรือแบ่งออกเป็น&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;วัตถุดิบ	508	รายการ&lt;/li&gt;
+&lt;li&gt;กึ่งสำเร็จรูป	2,124	รายการ&lt;/li&gt;
+&lt;li&gt;ผลิตภัณฑ์สำเร็จรูป	2,754	รายการ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;โดยมีการคิดอากร&lt;/strong&gt; ตามกลุ่มต่าง ๆ โดยประมาณดังนี้&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;วัตถุดิบ	0 – 1	%&lt;/li&gt;
+&lt;li&gt;กึ่งสำเร็จรูป	3 – 5	%&lt;/li&gt;
+&lt;li&gt;ผลิตภัณฑ์สำเร็จรูป	10 – 40	%&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>รหัสสถิติสินค้า ฉบับปี 2565</title>
+      <link>/pages/tariff/ts_2022/</link>
+      <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/tariff/ts_2022/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;จัดแบ่งกลุ่มสินค้าตามขั้นตอนการผลิตออกเป็น &lt;strong&gt;21 หมวด 97 ตอน&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 1 สัตว์มีชีวิต ผลิตภัณฑ์จากสัตว์ (ตอนที่ 1 - 5)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./01/&#34;&gt;01 สัตว์มีชีวิต&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./02/&#34;&gt;02 เนื้อสัตว์และส่วนอื่นของสัตว์ที่บริโภคได้&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./03/&#34;&gt;03 ปลา สัตว์น้ำจำพวกครัสตาเซีย โมลลุสก์ และสัตว์น้ำที่ไม่มีกระดูกสันหลังอื่น ๆ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./04/&#34;&gt;04 ผลิตภัณฑ์นม ไข่สัตว์ปีก น้ำผึ้งธรรมชาติ ผลิตภัณฑ์จากสัตว์ที่บริโภคได้ ซึ่งไม่ได้ระบุหรือรวมไว้ในที่อื่น&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./05/&#34;&gt;05 ผลิตภัณฑ์จากสัตว์ที่ไม่ได้ระบุหรือรวมไว้ในที่อื่น&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 2 ผลิตภัณฑ์จากพืช (ตอนที่ 6 -14)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./06/&#34;&gt;06 ต้นไม้ และพืชอื่น ๆ ที่มีชีวิต หัว รากและสิ่งที่คล้ายกัน ดอกไม้และใบไม้ที่ใช้ประดับ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./07/&#34;&gt;07 พืชผักรวมทั้งรากและหัวบางชนิดที่บริโภคได้&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./08/&#34;&gt;08 ผลไม้และลูกนัตที่บริโภคได้ เปลือกผลไม้จำพวกส้มหรือเปลือกแตงโม&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./09/&#34;&gt;09 กาแฟ ชา ชามาเต้ และเครื่องเทศ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./10/&#34;&gt;10 ธัญพืช&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./11/&#34;&gt;11 ผลิตภัณฑ์ของอุตสาหกรรมโม่สีเมล็ดธัญพืช มอลต์ สตาร์ช อินูลิน และกลูเทนจากข้าวสาลี&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./12/&#34;&gt;12 เมล็ดพืชและผลไม้ ที่มีน้ำมัน เมล็ดธัญพืช เมล็ดพืชและผลไม้เบ็ดเตล็ด พืชที่ใช้ในอุตสาหกรรม หรือใช้เป็นยาฟาง และหญ้าแห้งที่ใช้เป็นอาหารสัตว์&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./13/&#34;&gt;13 ครั่ง รวมทั้งกัม เรซิน น้ำเลี้ยง (แซป) และสิ่งสกัดอื่น ๆ จากพืช&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./14/&#34;&gt;14 วัตถุจากพืชที่ใช้ถักสาน ผลิตผลจากพืชที่ไม่ได้ระบุหรือรวมไว้ในที่อื่น&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 3 ไขมันและน้ำมันที่ได้จากสัตว์หรือพืช และผลิตภัณฑ์ที่แยกได้จากไขมันและน้ำมันดังกล่าวฯ (ตอนที่ 15)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./15/&#34;&gt;15 ไขมันและน้ำมันที่ได้จากสัตว์หรือพืช และผลิตภัณฑ์ที่แยกได้จากไขมันและน้ำมันดังกล่าว ไขมันที่บริโภคได้ซึ่งจัดทำแล้ว ไขที่ได้จากสัตว์หรือพืช&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 4 อาหารปรุงแต่ง เครื่องดื่ม สุรา และน้ำส้มสายชู ยาสูบ และผลิตภัณฑ์ที่ใช้แทนยาสูบฯ (ตอนที่ 16 - 24)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./16/&#34;&gt;16 ของปรุงแต่งจากเนื้อสัตว์ ปลา หรือสัตว์น้ำจำพวกครัสตาเซีย โมลลุสก์ หรือจากสัตว์น้ำที่ไม่มีกระดูกสันหลังอื่น ๆ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./17/&#34;&gt;17 น้ำตาลและขนมทำจากน้ำตาล (ชูการ์คอนแฟกชันเนอรี)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./18/&#34;&gt;18 โกโก้และของปรุงแต่งที่ทำจากโกโก้&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./19/&#34;&gt;19 ของปรุงแต่งจากธัญพืช แป้ง สตาร์ช หรือนม ผลิตภัณฑ์อาหารจำพวกเพสทรี&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./20/&#34;&gt;20 ของปรุงแต่งทำจากพืชผัก ผลไม้ ลูกนัต หรือจากส่วนอื่นของพืช&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./21/&#34;&gt;21 ของปรุงแต่งเบ็ดเตล็ดที่ทำจากพืช&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./22/&#34;&gt;22 เครื่องดื่มสุรา น้ำส้มสายชู&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./23/&#34;&gt;23 กากและเศษที่เหลือจากอุตสาหกรรมผลิตอาหาร อาหารที่จัดทำไว้สำหรับการเลี้ยงสัตว์&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./24/&#34;&gt;24 ยาสูบและผลิตภัณฑ์ที่ใช้แทนยาสูบ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 6 ผลิตภัณฑ์ทางเคมี(ตอนที่ 28 - 38)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./28/&#34;&gt;28 เคมีภัณฑ์อนินทรีย์ สารประกอบอินทรีย์ประเภทสารประกอบอนินทรีย์ ของโลหะมีค่า และโลหะจำพวกแรร์เอิร์ท ของธาตุกัมมันตรังสีหรือไอโซโทป&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./29/&#34;&gt;29 เคมีภัณฑ์อินทรีย์&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./30/&#34;&gt;30 ผลิตภัณฑ์ทางเภสัชสัชกรรม&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./31/&#34;&gt;31 ปุ๋ย&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./32/&#34;&gt;32 สิ่งสกัดที่ใช้ฟอกหนังหรือย้อมสี แทนนินและอนุพันธ์ของแทนนิน สีย้อม สารสี (พิกเมนต์)และวัตถุแต่งสี อื่นๆ สีทาและวานิชพัตตี้และมาสติกอื่นๆรวมทั้งหมึก&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./33/&#34;&gt;33 เอสเซนเชียลออยล์และเรซินนอยด์ เครื่องหอม เครื่องสำอางหรือสิ่งปรุงแต่งสำหรับประทินร่างกายหรือประเทืองโฉมเครื่องประเทืองโฉม (ทอยเล็ดเพรพาเรชัน)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./34/&#34;&gt;34 สบู่ สารอินทรีย์ที่เป็นตัวลดแรงตึงผิว สิ่งปรุงแต่งที่ใช้ซักล้าง สิ่งปรุงแต่งที่ใช้หล่อลื่น ไขเทียม ไขปรุงแต่ง สิ่งปรุงแต่งที่ใช้ขัดเงาหรือขัดถู เทียนไข และของที่คล้ายกัน เพสต์สำหรับทำแบบ &amp;ldquo;ไขที่ใช้ทางทันตกรรม&amp;rdquo; สิ่งปรุงแต่งทางทันตกรรมซึ่งมีปลาสเตอร์เป็นหลัก&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./35/&#34;&gt;35 สารแอลบูมินอยด์ โมดิไฟด์ สตาร์ช กาว เอนไซม์&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./36/&#34;&gt;36 วัตถุระเบิด ผลิตภัณฑ์จำพวกดอกไม้เพลิง ไม้ขีดไฟ แอลลอยด์ที่ทำให้เกิดประกายไฟ สิ่งปรุงแต่งที่สันดาปได้บางชนิด&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./37/&#34;&gt;37 ของที่ใช้ในการถ่ายรูปหรือถ่ายภาพยนตร์&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./38/&#34;&gt;38 เคมีภัณฑ์เบ็ดเตล็ด&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 7 ผลิตภัณฑ์ของพลาสติกและยาง (ตอนที่ 39 - 40)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./39/&#34;&gt;39 พลาสติกและของที่ทำด้วยพลาสติก&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./40/&#34;&gt;40 ยาง และของทำด้วยยาง&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 8 ผลิตภัณฑ์จากหนังและหนังเฟอร์ (ตอนที่ 41 - 43)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./41/&#34;&gt;41 หนังดิบ(นอกจากเฟอร์) และหนังฟอก&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./42/&#34;&gt;42 เครื่องหนัง เครื่องอานและเครื่องเทียมลาก เครื่องใช้สำหรับเดินทาง กระเป๋าถือและภาชนะที่คล้ายกัน ของที่ทำด้วยไส้สัตว์(นอกจากไส้ตัวไหม)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./43/&#34;&gt;43 หนังเฟอร์ เฟอร์เทียม และผลิตภัณฑ์ของดังกล่าว&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 9 ไม้และของทำด้วยไม้ (ตอนที่ 44 - 46)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./44/&#34;&gt;44 ไม้และของทำด้วยไม้ ถ่านไม้&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./45/&#34;&gt;45 ไม้ก๊อก และของทำด้วยไม้ก๊อก&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./46/&#34;&gt;46 ผลิตภัณฑ์ทำด้วยฟาง ทำด้วยเอสพาร์โตหรือวัตถุถักสานอื่นๆ เครื่องจักสานและเครื่องสาน&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 10 เยื่อไม้และกระดาษ (ตอนที่ 47 - 49)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./47/&#34;&gt;47 เยื่อไม้หรือเยื่อไม้ที่ได้จากวัตถุจำพวกเส้นใยเซลลูโลสอื่นๆ เศษและของที่ใช้ไม่ได้ที่เป็นกระดาษหรือกระดาษแข็ง&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./48/&#34;&gt;48 กระดาษและกระดาษแข็ง ของทำด้วยเยื่อกระดาษหรือทำด้วยกระดาษหรือกระดาษแข็ง&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./49/&#34;&gt;49 หนังสือที่พิมพ์เป็นเล่ม หนังสือพิมพ์ รูปภาพ และผลิตภัณฑ์อื่นๆ ของอุตสาหกรรมการพิมพ์ ต้นฉบับเขียนหรือดีดพิมพ์ และแปลน&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 11 สิ่งทอและของทำด้วยสิ่งทอ (ตอนที่ 50 - 63)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./50/&#34;&gt;50 ไหม&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./51/&#34;&gt;51 ขนแกะ ขนละเอียดหรือขนหยาบของสัตว์ ด้ายขนม้าและผ้าทอ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./52/&#34;&gt;52 ฝ้าย&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./53/&#34;&gt;53 เส้นใยสิ่งทอจากพืชอื่นๆ ด้ายกระดาษ และผ้าทอจากด้ายกระดาษ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./54/&#34;&gt;54 ใยยาวประดิษฐ์&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./55/&#34;&gt;55 เส้นใยสั้นประดิษฐ์&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./56/&#34;&gt;56 แวดดิ้ง สักหลาดและผ้าไม่ทอ ด้ายชนิดพิเศษ เชือกชนิดทไวน์ ชนิดคอร์เดจ ชนิดโรปและเคเบิล และของทำด้วยสิ่งดังกล่าว&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./57/&#34;&gt;57 พรมและสิ่งทอปูพื้นอื่นๆ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./58/&#34;&gt;58 ผ้าทอชนิดพิเศษ ผ้าสิ่งทอที่ทำปุยแบบทัฟต์ ผ้าลูกไม้เทเพสทรี ผ้าที่ใช้ตกแต่ง ผ้าปัก&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./59/&#34;&gt;59 ผ้าสิ่งทอที่อาบซึม เคลือบ หุ้มหรืออัดเป็นชั้น ของทำด้วยสิ่งทอชนิดที่เหมาะสำหรับใช้ในอุตสาหกรรม&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./60/&#34;&gt;60 ผ้าถักแบบนิตหรือแบบโครเชต์&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./61/&#34;&gt;61 เครื่องแต่งกายและของที่ใช้ประกอบกับเครื่องแต่งกาย ถักแบบนิตหรือแบบโครเชต์&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./62/&#34;&gt;62 เครื่องแต่งกายและของที่ใช้ประกอบกับเครื่องแต่งกาย ที่ไม่ได้ถักแบบนิตหรือแบบโครเชต์&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./63/&#34;&gt;63 ของทำด้วยสิ่งทอที่จัดทำแล้วอื่นๆ ของเป็นชุด เสื้อผ้าที่ใช้แล้วและของที่ใช้แล้วทำด้วยสิ่งทอ ผ้าขี้ริ้ว&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 12 ของสำเร็จรูป (ตอนที่ 64 - 67)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./64/&#34;&gt;64 รองเท้า สนับแข้งและของที่คล้ายกัน รวมทั้งส่วนประกอบของของดังกล่าว&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./65/&#34;&gt;65 เครื่องสวมศรีษะและส่วนประกอบของเครื่องสวมศรีษะ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./66/&#34;&gt;66 ร่ม ร่มปักกันแดด ไม้เท้า ไม้เท้าที่เป็นที่นั่ง แส้(วิป) แส้ขี่ม้าและส่วนประกอบของของดังกล่าว&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./67/&#34;&gt;67 ขนแข็งและขนอ่อนของสัตว์ปีกที่จัดเตรียมแล้ว และของทำด้วยของดังกล่าว ดอกไม้เทียม ของทำด้วยผมคน&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 13 หิน ผลิตภัณฑ์เซรามิก เครื่องแก้ว (ตอนที่ 68 - 70)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./68/&#34;&gt;68 ของทำด้วยหิน ปลาสเตอร์ ซีเมนต์ แอสแบสทอส ไมกา หรือวัตถุที่คล้ายกัน&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./69/&#34;&gt;69 ผลิตภัณฑ์เซรามิก&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./70/&#34;&gt;70 แก้วและเครื่องแก้ว&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 14 ไข่มุก รัตนชาติ(ตอนที่ 71)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./71/&#34;&gt;71 ไข่มุกธรรมชาติ หรือไข่มุกเลี้ยง รัตนชาติหรือกึ่งรัตนชาติ โลหะมีค่า โลหะที่หุ้มติดด้วยโลหะมีค่า และของที่ทำด้วยของดังกล่าว เครื่องเพชรพลอย และรูปพรรณที่เป็นของเทียม เหรียญกษาปณ์&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 15 โลหะสามัญและของทำด้วยโลหะสามัญ (ตอนที่ 72 - 83)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./72/&#34;&gt;72 เหล็กและเหล็กกล้า&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./73/&#34;&gt;73 ของทำด้วยเหล็กหรือเหล็กกล้า&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./74/&#34;&gt;74 ทองแดงและชองทำด้วยทองแดง&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./75/&#34;&gt;75 นิกเกิลและของทำด้วยนิกเกิล&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./76/&#34;&gt;76 อะลูมิเนียมและของทำด้วยอะลูมิเนียม&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./78/&#34;&gt;78 ตะกั่วและของทำด้วยตะกั่ว&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./79/&#34;&gt;79 สังกะสีและของทำด้วยสังกะสี&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./80/&#34;&gt;80 ดีบุกและของทำด้วยดีบุก&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./81/&#34;&gt;81 โลหะสามัญชนิดอื่น เซอร์เมต และของทำด้วยของดังกล่าว&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./82/&#34;&gt;82 เครื่องมือ เครื่องใช้ ของใช้ชนิดมีคม ช้อนและส้อม ทำด้วยโลหะสามัญ ส่วนประกอบของของดังกล่าวทำด้วยโลหะสามัญ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./83/&#34;&gt;83 ของเบ็ดเตล็ดทำด้วยโลหะสามัญ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 16 เครื่องจักร เครื่องกล อุปกรรณ์ไฟฟ้า (ตอนที่ 84 - 85)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./84/&#34;&gt;84 เครื่องปฏิกรณ์นิวเคลียร์ บอยเลอร์ เครื่องจักร เครื่องใช้กล และส่วนประกอบของเครื่องดังกล่าว&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./85/&#34;&gt;85 เครื่องจักรไฟฟ้า เครื่องอุปกรณ์ไฟฟ้า และส่วนประกอบของเครื่องดังกล่าว เครื่องบันทึกเสียงและเครื่องถอดเสียงเครื่องบันทึกและเครื่องถอดภาพ และเสียงทางโทรทัศน์ รวมทั้งส่วนประกอบและอุปกรณ์ของเครื่องดังกล่าว&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 17 ยานบก ยานน้ำ อากาศยาน (ตอนที่ 86 - 89)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./86/&#34;&gt;86 หัวรถจักรของรถไฟหรือรถราง รถที่เดินบนรางและส่วนประกอบของของดังกล่าว สิ่งติดตั้งถาวรและอุปกรณ์ติดตั้งสำหรับรางรถไฟหรือรถราง และส่วนประกอบของสิ่งดังกล่าว เครื่องอุปกรณ์กล (รวมถึงที่เป็นเครื่องกลไฟฟ้า) สำหรับให้สัญญาณทางจราจรทุกชนิด&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./87/&#34;&gt;87 ยานบกนอกจากรถที่เดินบนรางรถไฟหรือรางรถราง ส่วนประกอบและอุปกรณ์ประกอบของยานดังกล่าว&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./88/&#34;&gt;88 อากาศยาน ยานอวกาศ และส่วนประกอบของยานดังกล่าว&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./89/&#34;&gt;89 เรือและสิ่งก่อสร้างลอยน้ำ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 18 อุปกรณ์ทางทัศนศาสตร์ การแพทย์ เครื่องดนตรี นาฬิกา (ตอนที่ 90 - 92)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./90/&#34;&gt;90 อุปกรณ์และเครื่องอุปกรณ์ที่ใช้ในทางทัศนศาสตร์ การถ่ายรูป การถ่ายทำภาพยนตร์ การวัด การตรวจสอบ การวัดความเที่ยง การแพทย์หรือการศัลยกรรม รวมทั้งส่วนประกอบ และอุปกรณ์ประกอบของของดังกล่าว&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./91/&#34;&gt;91 นาฬิกาชนิดคล็อกและชนิดวอตซ์ และส่วนประกอบของนาฬิกาดังกล่าว&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./92/&#34;&gt;92 เครื่องดนตรี รวมทั้งส่วนประกอบและอุปกรณ์ประกอบของเครื่องดนตรี&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 19 อาวุธและกระสุน (ตอนที่ 93)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./93/&#34;&gt;93 อาวุธและกระสุน รวมทั้งส่วนประกอบและอุปกรณ์ประกอบของของดังกล่าว&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 20 ผลิตภัณฑ์เบ็ดเตล็ด (ตอนที่ 94 - 96)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./94/&#34;&gt;94 เฟอร์นิเจอร์ เครื่องเตียง ฟูก ฐานรองฟูก เบาะ และสิ่งตกแต่งยัดไส้ที่คล้ายกัน เครื่องประทีปโคมไฟ ที่ไม่ได้ระบุหรือรวมไว้ในที่อื่น เครื่องหมายที่มีแสงสว่าง แผ่นป้ายชื่อที่มีแสงสว่างและของที่คล้ายกัน รวมทั้งอาคารสำเร็จรูป&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./95/&#34;&gt;95 ของเล่น ของเล่นเกม และของใช้ที่จำเป็นในการเล่นกีฬา ส่วนประกอบและอุปกรณ์ประกอบของของดังกล่าว&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./96/&#34;&gt;96 ผลิตภัณฑ์เบ็ดเตล็ด&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;book-collapsible&#34;&gt;
+&lt;button class=&#34;collapsible&#34;&gt;หมวด 21 ศิลปกรรม โบราณวัตถุ (ตอนที่ 97)&lt;/button&gt;
+&lt;div class=&#34;content&#34;&gt;
+  &lt;p&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./97/&#34;&gt;97 ศิลปกรรม ของที่นักสะสมรวบรวม และโบราณวัตถุ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- raw HTML omitted --&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./aa/&#34;&gt;สินค้าเคมีภัณฑ์&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./ab/&#34;&gt;สินค้าเหล็กและเหล็กกล้า&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>เอกสารที่เกี่ยวข้อง</title>
+      <link>/pages/tariff/annount/</link>
+      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/tariff/annount/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;ที่&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;รายละเอียด&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;วันที่ปรับปรุงล่าสุด&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/list_strc_download.php?ini_content=customs_tariff_and_statistic_200508_01&amp;amp;ini_menu=menu_interest_and_law_160421_01&amp;amp;left_menu=menu_customs_tariff_and_statistic&amp;amp;xleft_menu=&amp;amp;show_search=&amp;amp;root_content_group=&amp;amp;order_by=co_last_update_datetime&amp;amp;cg_order_by=&amp;amp;cg_sort_type=&amp;amp;root_left_menu=menu_interest_and_law_160421_01&#34;&gt;รายการอ้างอิงสินค้าทางการแพทย์และรายการยาที่สำคัญพร้อมประเภทพิกัดศุลกากรที่เกี่ยวข้องกับโรคติดเชื้อไวรัสโคโรนา 2019 (COVID-19)&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;18 มิถุนายน 2563&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232832414d505f47464a4e464b4a&#34;&gt;รายการอ้างอิงในการจำแนกประเภทพิกัดศุลกากรสำหรับวัคซีนและอุปกรณ์ทางการแพทย์ที่เกี่ยวข้องกับ COVID-19&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2 กุมภาพันธ์ 2564&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;3.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232832414c505f4c464b4c464a4f&#34;&gt;HS Code INN List 124 Covid-19&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;21 ธันวาคม 2563&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232832414b505e4f464b4b464b46&#34;&gt;รายการอ้างอิงในการจำแนกประเภทพิกัดศุลกากรสำหรับสินค้าทางการแพทย์ที่เกี่ยวข้องกับ COVID-19 ฉบับที่ 3&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;18 มิถุนายน 2563&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142231324149505e4e464a4f464a4e&#34;&gt;ตารางเทียบพิกัดศุลกากรประเภทย่อย AHTN 2012 - AHTN 2017&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;20 มิถุนายน 2562&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;6.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14223132414b505f46464b46464a4f&#34;&gt;ราชกิจจานุเบกษา แก้คำผิด พระราชกำหนดพิกัดอัตราศุลกากร (ฉบับที่ 6) พ.ศ. 2559&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;18 กันยายน 2560&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;7.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142231324149505f4b464b4c464a4e&#34;&gt;ปรับปรุงแก้ไขรหัสสถิติ 2832.10 และ 2832.20 (8 มีนาคม 2560)&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;8 มีนาคม 2560&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;8.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142231324149505e4f464b4b464a4e&#34;&gt;รหัสสถิติสินค้า ฉบับปี พ.ศ. 2560 (9 ก.พ. 2560)&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;9 กุมภาพันธ์ 2560&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;9.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142231324149505e4e464a4f464b49&#34;&gt;Text of AHTN 2017 with Corrigendum Oct 2016&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;16 มกราคม 2560&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142231324149505e4e464b46464b46&#34;&gt;คำอธิบายพิกัดศุลกากรเพิ่มเติม (Supplementary Explanatory Notes - SEN 2017)&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;6 มกราคม 2560&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;11.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142231324149505e4e464b48464b4d&#34;&gt;ชื่อผู้ประสานงาน (Contact Point) สำนักเทคโนโลยีสารสนเทศและการสื่อสาร สำหรับรหัสสถิติสินค้า ปี 2560&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4 มกราคม 2560&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;12.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142231324149505e4f464b4a464b46&#34;&gt;ประกาศกระทรวงการคลัง (มีผลใช้บังคับ 1 มกราคม พ.ศ.2560)&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;31 ธันวาคม 2559&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;13.&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=142231324149505e4e464b4b464b4c&#34;&gt;พระราชกำหนดพิกัดอัตราศุลกากร (ฉบับที่ 6) พ.ศ. 2559&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;27 ธันวาคม 2559&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>การยกเว้นอากรตามภาค 4 แห่งพระราชกำหนดพิกัดอัตราศุลกากร พ.ศ. 2530</title>
+      <link>/pages/tariff/part-4/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/tariff/part-4/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../img/part-4.png&#34; alt=&#34;การยกเว้นอากรตามภาค 4&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>พิกัดศุลกากรระบบฮาร์โมไนซ์ HS 2022</title>
+      <link>/pages/tariff/hs_2022/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/tariff/hs_2022/</guid>
+      <description>
+
+&lt;script&gt; 
+ location.replace(&#34;/KM/customs/pages/tariff/hs_2022/section/&#34;)  
+&lt;/script&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/pages/tariff/hs_2022/section/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/tariff/hs_2022/section/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

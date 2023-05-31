@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>คู่มือสิทธิประโยชน์ทางภาษีอากร on ECS</title>
+    <link>/pages/tax-inc/tax-guide/</link>
+    <description>Recent content in คู่มือสิทธิประโยชน์ทางภาษีอากร on ECS</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>ECS@Support&amp;copy;{year}</copyright>
+    <lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/pages/tax-inc/tax-guide/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>คู่มือระบบพิธีการศุลกากรสำหรับสิทธิประโยชน์ทางภาษีอากร (e-Tax Incentives)</title>
+      <link>/pages/tax-inc/tax-guide/1.guide/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/tax-inc/tax-guide/1.guide/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../img/cover-tax-incentives.png&#34; alt=&#34;enter image description here&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ขอบเขตการใชงานคมอระบบพธการศลกากรทางอเลกทรอนกสสำหรบสทธประโยชนทางภาษอากร&#34;&gt;ขอบเขตการใช้งานคู่มือระบบพิธีการศุลกากรทางอิเล็กทรอนิกส์สำหรับสิทธิประโยชน์ทางภาษีอากร&lt;/h2&gt;
+&lt;p&gt;คู่มือระบบพิธีการศุลกากรทางอิเล็กทรอนิกส์สำหรับสิทธิประโยชน์ทางภาษีอากร (e-Tax Incentives) กำหนดขึ้นเพื่อ ประโยชน์พิธีการโอนย้ายของภายในประเทศ ระหว่างผู้ประกอบการที่ได้รับสิทธิประโยชน์ทางภาษีอากร  ให้การผ่านพิธีการศุลกากรสามารถกระทำโดยวิธีการทางอิเล็กทรอนิกส์แบบไร้เอกสาร โดยให้ใช้บังคับเป็นการทั่วไปสำหรับการโอนย้ายของภายในประเทศระหว่างผู้ประกอบการที่ได้รับสิทธิประโยชน์ทางภาษีอากร&lt;/p&gt;
+&lt;p&gt;หากเรื่องใดที่เป็นข้อปฏิบัติเฉพาะของหน่วยงานที่สำนัก/สำนักงานศุลกากรที่รับผิดชอบเสนอระเบียบ ปฏิบัติและขอความเห็นชอบจากกรมศุลกากร  ให้กำหนดเพิ่มเติมเป็นการเฉพาะหรือแตกต่างไปจากที่กำหนดในคู่มือฉบับนี้ ให้ถือปฏิบัติตามข้อปฎิบัติดังกล่าวนั้น
+&lt;blockquote class=&#34;book-hint success&#34;&gt;
+  &lt;h2 id=&#34;การผานพธการใบขนสนคาโอนยายภายในประเทศดวยวธทางอเลกทรอนกส-ม-3-ขนตอนดงน&#34;&gt;การผ่านพิธีการใบขนสินค้าโอนย้ายภายในประเทศด้วยวิธีทางอิเล็กทรอนิกส์ มี 3 ขั้นตอนดังนี้&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;ผู้ประกอบการคลังสินค้าทัณฑ์บน/ผู้ประกอบการขอคืนอากรตามมาตรา 29 หรือ ผู้ประกอบการ  ได้รับการส่งเสริมการลงทุน BOI ซึ่งเป็นผู้ขายจัดทำ&lt;em&gt;ใบขนสินค้าขาออกโอนย้ายภายในประเทศ (B)&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ผู้ประกอบการสิทธิประโยชน์อื่น ๆ ซึ่งเป็นผู้ซื้อจัดทำ&lt;em&gt;ใบขนสินค้าขาเข้าโอนย้ายภายในประเทศ (A)&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;ผู้ประกอบการผู้ขายขนย้ายของออก &lt;em&gt;กรณีติดเงื่อนไขความเสี่ยง&lt;/em&gt; ต้องได้รับการตรวจปล่อยจากพนักงานศุลกากรเรียบร้อยแล้ว&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;/blockquote&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;กระบวนการผานพธการใบขนสนคาโอนยายภายในประเทศดวยวธทางอเลกทรอนกส&#34;&gt;กระบวนการผ่านพิธีการใบขนสินค้าโอนย้ายภายในประเทศด้วยวิธีทางอิเล็กทรอนิกส์&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/KnowledgeCenter/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page2.jpg&#34; alt=&#34;enter image description here&#34;&gt;&lt;/p&gt;
+&lt;blockquote class=&#34;book-hint info&#34;&gt;
+  &lt;strong&gt;ที่มา :&lt;/strong&gt;  ประกาศกรมศุลกากรที่ 119 / 2561 เรื่อง คู่มือการผ่านพิธีการศุลกากรทางอิเล็กทรอนิกส์ ว่าด้วยกระบวนการทางศุลกากรสำหรับการใช้สิทธิประโยชน์ทางภาษีอากร (e-Tax Incentives) . &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14223132414d505f4a464a4e464b4b&#34;&gt;[ดาวน์โหลดประกาศ]&lt;/a&gt;
+&lt;/blockquote&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>เลขทะเบียนสิทธิประโยชน์ทางภาษีอากร</title>
+      <link>/pages/tax-inc/tax-guide/2.incentive-regis-id/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/tax-inc/tax-guide/2.incentive-regis-id/</guid>
+      <description>&lt;h2 id=&#34;คลงสนคาทณฑบน&#34;&gt;คลังสินค้าทัณฑ์บน&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/KnowledgeCenter/raw/master/img/e-tax-incentive/tax-incentive-no-1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;หลักที่ 1 &lt;strong&gt;ประเภทสิทธิประโยชน์ทางภาษีอากร&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;W – คลังสินค้าทัณฑ์บน&lt;/li&gt;
+&lt;li&gt;F – เขตปลอดอากร&lt;/li&gt;
+&lt;li&gt;I – เขตประกอบการเสรี&lt;/li&gt;
+&lt;li&gt;D – มาตรา  29&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;หลักที่ 2-3 &lt;strong&gt;ประเภทย่อยของคลังสินค้าทัณฑ์บน&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;01 - คลังสินค้าทัณฑ์บนทั่วไป&lt;/li&gt;
+&lt;li&gt;02  - คลังสินค้าทัณฑ์บนประเภทโรงผลิตสินค้า&lt;/li&gt;
+&lt;li&gt;03  - คลังสินค้าทัณฑ์บนประเภทร้านค้าปลอดอากร ขาเข้า&lt;/li&gt;
+&lt;li&gt;04  - คลังสินค้าทัณฑ์บนประเภทร้านค้าปลอดอากร ขาออก&lt;/li&gt;
+&lt;li&gt;05  - คลังสินค้าทัณฑ์บนประเภทร้านค้าปลอดอากรในเมือง&lt;/li&gt;
+&lt;li&gt;06  – คลังเก็บของสำหรับร้านค้าปลอดอากร&lt;/li&gt;
+&lt;li&gt;07  – คลังเสบียงทัณฑ์บน&lt;/li&gt;
+&lt;li&gt;08  - คลังสินค้าทัณฑ์บนทั่วไปสำหรับจัดแสดงสินค้าหรือนิทรรศการ  (คสท.)&lt;/li&gt;
+&lt;li&gt;09  – คลังสินค้าทัณฑ์บนสำหรับอู่ซ่อมหรือสร้างเรือ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;หลักที่ 4-6 &lt;strong&gt;รหัสจังหวัด&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;หลักที่ 7-14  &lt;strong&gt;Running ตัวเลข 8 หลัก&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;เขตปลอดอากรเขตประกอบการเสร&#34;&gt;เขตปลอดอากร/เขตประกอบการเสรี&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/KnowledgeCenter/raw/master/img/e-tax-incentive/tax-incentive-no-2.jpg&#34; alt=&#34;enter image description here&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;หลักที่ 1 ประเภทสิทธิประโยชน์ทางภาษีอากร&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;W – คลังสินค้าทัณฑ์บน&lt;/li&gt;
+&lt;li&gt;F – เขตปลอดอากร&lt;/li&gt;
+&lt;li&gt;I – เขตประกอบการเสรี&lt;/li&gt;
+&lt;li&gt;D – มาตรา  29&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;ประเภทย่อยของเขตปลอดอากร&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;01 – พาณิชยกรรม&lt;/li&gt;
+&lt;li&gt;02 – อุตสาหกรรม&lt;/li&gt;
+&lt;li&gt;03 – อุตสาหกรรมและพาณิชยกรรม&lt;/li&gt;
+&lt;li&gt;04 – ครัวการบิน&lt;/li&gt;
+&lt;li&gt;05 – เขตปลอดอากรท่าอากาศยานสุวรรณภูมิ&lt;/li&gt;
+&lt;li&gt;06 – ซ่อมหรือสร้างอากาศยานหรือเรือ&lt;/li&gt;
+&lt;li&gt;07 – ปิโตรเลียม&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;ประเภทย่อยของผู้ได้รับใบอนุญาตประกอบกิจการในเขตปลอดอากร&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;51 – พาณิชยกรรม&lt;/li&gt;
+&lt;li&gt;52 – อุตสาหกรรมผลิตผสมประกอบ&lt;/li&gt;
+&lt;li&gt;53 – อุตสาหกรรมและพาณิชยกรรม&lt;/li&gt;
+&lt;li&gt;54 – ครัวการบิน&lt;/li&gt;
+&lt;li&gt;55 – ท่าอากาศยานสุวรรณภูมิ&lt;/li&gt;
+&lt;li&gt;56 – ซ่อมหรือสร้างอากาศยานหรือเรือ&lt;/li&gt;
+&lt;li&gt;57 – ปิโตรเลียม&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;ประเภทย่อยของเขตประกอบการเสรี&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;01 – พาณิชยกรรม&lt;/li&gt;
+&lt;li&gt;02 – อุตสาหกรรม&lt;/li&gt;
+&lt;li&gt;03 – อุตสาหกรรมและพาณิชยกรรม&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;ประเภทย่อยของของผู้ประกอบการในเขตประกอบการเสรี&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;51 – พาณิชยกรรม&lt;/li&gt;
+&lt;li&gt;52 – อุตสาหกรรม&lt;/li&gt;
+&lt;li&gt;53 – อุตสาหกรรมและพาณิชยกรรม&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;หลักที่ 4-6 รหัสจังหวัด&lt;/li&gt;
+&lt;li&gt;หลักที่ 7-10  รหัสเขตฯ 4 หลัก&lt;/li&gt;
+&lt;li&gt;หลักที่ 11-14
+&lt;ul&gt;
+&lt;li&gt;มีค่า &amp;lsquo;0000&amp;rsquo; (กรณีเป็นผู้จัดตั้งเขตฯ)&lt;/li&gt;
+&lt;li&gt;มีค่า Running No. (กรณีเป็นประกอบกิจการในเขตฯ)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;ขอคนอากรตามมาตรา--29&#34;&gt;ขอคืนอากรตามมาตรา  29&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/KnowledgeCenter/raw/master/img/e-tax-incentive/tax-incentive-no-3.jpg&#34; alt=&#34;enter image description here&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;หลักที่ 1 &lt;strong&gt;ประเภทสิทธิประโยชน์ทางภาษีอากร&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;W – คลังสินค้าทัณฑ์บน&lt;/li&gt;
+&lt;li&gt;F – เขตปลอดอากร&lt;/li&gt;
+&lt;li&gt;I – เขตประกอบการเสรี&lt;/li&gt;
+&lt;li&gt;D – มาตรา  29&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;หลักที่ 2-3 &lt;strong&gt;ประเภทย่อยของผู้ประกอบการขอคืนอากรตามมาตรา  29&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;01 –   ผู้นำเข้า ชำระเงินสด 100% (ชำระเงินสดอย่างเดียว)&lt;/li&gt;
+&lt;li&gt;02 – ผู้นำเข้า  ชำระเงินสด หรือวางประกัน 100%&lt;/li&gt;
+&lt;li&gt;03 –   ผู้นำเข้า  ชำระเงินสด หรือวางประกัน 50% หรือ  ชำระเงินสด  100%&lt;/li&gt;
+&lt;li&gt;04 –   ผู้นำเข้า  ชำระเงินสด หรือวางประกัน 5% หรือ  ชำระเงินสด  100%&lt;/li&gt;
+&lt;li&gt;05 – ผู้ส่งออก&lt;/li&gt;
+&lt;li&gt;06 – ผู้ผลิต&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;หลักที่ 4-6 	&lt;strong&gt;รหัสจังหวัด&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;หลักที่ 7-14  &lt;strong&gt;Running ตัวเลข 8 หลัก&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>โครงสร้างข้อมูลใบขนสินค้าขาออกโอนย้ายภายในประเทศ</title>
+      <link>/pages/tax-inc/tax-guide/3.data_structure_export/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/tax-inc/tax-guide/3.data_structure_export/</guid>
+      <description>&lt;h2 id=&#34;โครงสรางขอมล&#34;&gt;โครงสร้างข้อมูล&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;โครงสร้างข้อมูลใบขนสินค้าขาออกโอนย้ายภายในประเทศ แบ่งได้เป็น 6 ส่วนดังนี้&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;#export-declaration-control&#34;&gt;&lt;strong&gt;Export Declaration Control&lt;/strong&gt;&lt;/a&gt;	ประกอบด้วย	70 Fields&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#export-invoice-control&#34;&gt;&lt;strong&gt;Export Invoice Control&lt;/strong&gt;&lt;/a&gt;	ประกอบด้วย	35 Fields&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#export-invoice-detail&#34;&gt;&lt;strong&gt;Export Invoice Detail&lt;/strong&gt;&lt;/a&gt;	ประกอบด้วย	73 Fields&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#export-invoice-duty&#34;&gt;&lt;strong&gt;Export Invoice Detail (Duty)&lt;/strong&gt;&lt;/a&gt;	ประกอบด้วย	12 Fields&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#export-invoice-permit&#34;&gt;&lt;strong&gt;Export Invoice Detail (Permit)&lt;/strong&gt;&lt;/a&gt;	ประกอบด้วย	 4 Fields&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#export-invoice-deposit&#34;&gt;&lt;strong&gt;Export Invoice Detail (Deposit)&lt;/strong&gt;&lt;/a&gt;	ประกอบด้วย	 2 Fields&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;เงอนไขการบนทกขอมล&#34;&gt;เงื่อนไขการบันทึกข้อมูล&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;เงื่อนไขการบันทึกข้อมูล ในกรณีผู้บันทึกไม่สามารถหาข้อมูลได้&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;หาก Field ใด กำหนดให้ต้องระบุค่า &lt;strong&gt;(Value = M)&lt;/strong&gt; แต่ผู้บันทึกไม่สามารถหาข้อมูลได้&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;สำหรับ Field ที่เป็น Alphabet (แสดงออกเป็นตัวอักษร) ให้ระบุค่าเป็น N/A&lt;/li&gt;
+&lt;li&gt;สำหรับ Field ที่เป็น Numeric (แสดงออกเป็นตัวเลข) ให้ระบุค่าเป็น 0 (ศูนย์)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;หาก Field ใด กำหนดให้ไม่ต้องระบุค่า &lt;strong&gt;(Value = O)&lt;/strong&gt; และผู้บันทึกไม่สามารถหาข้อมูลได้ ก็ไม่ต้องบันทึกค่าใด ๆ&lt;/li&gt;
+&lt;li&gt;หาก Field ใด กำหนดให้ต้องระบุค่า เมื่อเข้าเงื่อนไขที่กำหนด &lt;strong&gt;(Value = C)&lt;/strong&gt; แต่ผู้บันทึกไม่สามารถหาข้อมูลได้&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;สำหรับ Field ที่เป็น Alphabet (แสดงออกเป็นตัวอักษร) ให้ระบุค่าเป็น N/A&lt;/li&gt;
+&lt;li&gt;สำหรับ Field ที่เป็น Numeric (แสดงออกเป็นตัวเลข) ให้ระบุค่าเป็น 0 (ศูนย์)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;อกษรยอ&#34;&gt;อักษรย่อ&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;อักษรย่อ ที่ใช้ในการอธิบายรูปแบบชนิดของข้อมูล&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;อักษรย่อ&lt;/th&gt;
+&lt;th&gt;คำอธิบาย&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;n3&lt;/td&gt;
+&lt;td&gt;ข้อมูลชนิดตัวเลข (Numeric Characters) คงที่ คือ 3 ตัวอักษร&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;a3&lt;/td&gt;
+&lt;td&gt;ข้อมูลชนิดตัวอักษร (Alphabetic Characters) คงที่ คือ 3 ตัวอักษร&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;an3&lt;/td&gt;
+&lt;td&gt;ข้อมูลชนิดตัวอักษรหรือตัวเลข คงที่ คือ 3 ตัวอักษร&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;n..3&lt;/td&gt;
+&lt;td&gt;ข้อมูลชนิดตัวเลขความยาวข้อมูลแปรผันตามความยาวสูงสุด 3 ตัวอักษร&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;a..3&lt;/td&gt;
+&lt;td&gt;ข้อมูลชนิดตัวอักษรความยาวข้อมูลแปรผันตามความยาวสูงสุด 3 ตัวอักษร&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;an..3&lt;/td&gt;
+&lt;td&gt;ข้อมูลชนิดตัวอักษรหรือตัวเลขความยาวข้อมูลแปรผันตามความยาวสูงสุด 3 ตัวอักษร&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;n..16,2&lt;/td&gt;
+&lt;td&gt;ข้อมูลชนิดตัวเลขความยาวข้อมูลแปรผันตามความยาวสูงสุด 16 ตัวอักษรรวมความยาวทศนิยมสูงสุด 2 ตัวอักษร&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;export-declaration-control&#34;&gt;Export Declaration Control&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page5.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page6.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page7.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page8.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page9.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page10.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page11.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page12.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page13.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page14.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page15.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;export-invoice-control&#34;&gt;Export Invoice Control&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page16.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page17.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page18.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page19.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;export-invoice-detail&#34;&gt;Export Invoice Detail&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page20.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page21.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page22.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page23.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page24.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page25.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page26.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page27.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page28.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page29-1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;export-invoice-duty&#34;&gt;Export Invoice Duty&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page29-2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page30.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;export-invoice-permit&#34;&gt;Export Invoice Permit&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page31.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;export-invoice-deposit&#34;&gt;Export Invoice Deposit&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page32.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>โครงสร้างข้อมูลใบขนสินค้าขาเข้าโอนย้ายภายในประเทศ</title>
+      <link>/pages/tax-inc/tax-guide/4.data_structure_import/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/tax-inc/tax-guide/4.data_structure_import/</guid>
+      <description>&lt;h2 id=&#34;โครงสรางขอมล&#34;&gt;โครงสร้างข้อมูล&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;โครงสร้างข้อมูลใบขนสินค้าขาเข้าโอนย้ายภายในประเทศ แบ่งได้เป็น 6 ส่วนดังนี้&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;#import-declaration-control&#34;&gt;&lt;strong&gt;Import Declaration Control&lt;/strong&gt;&lt;/a&gt;	ประกอบด้วย	73 Fields&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#import-invoice-control&#34;&gt;&lt;strong&gt;Import Invoice Control&lt;/strong&gt;&lt;/a&gt;	ประกอบด้วย	35 Fields&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#import-invoice-detail&#34;&gt;&lt;strong&gt;Import Invoice Detail&lt;/strong&gt;&lt;/a&gt;	ประกอบด้วย	76 Fields&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#import-invoice-duty&#34;&gt;&lt;strong&gt;Import Invoice Detail (Duty)&lt;/strong&gt;&lt;/a&gt;	ประกอบด้วย	14 Fields&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#import-invoice-permit&#34;&gt;&lt;strong&gt;Import Invoice Detail (Permit)&lt;/strong&gt;&lt;/a&gt;	ประกอบด้วย	 3 Fields&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#import-invoice-deposit&#34;&gt;&lt;strong&gt;Import Invoice Detail (Deposit)&lt;/strong&gt;&lt;/a&gt;	ประกอบด้วย	 2 Fields&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;เงอนไขการบนทกขอมล&#34;&gt;เงื่อนไขการบันทึกข้อมูล&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;เงื่อนไขการบันทึกข้อมูล ในกรณีผู้บันทึกไม่สามารถหาข้อมูลได้&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;หาก Field ใด กำหนดให้ต้องระบุค่า &lt;strong&gt;(Value = M)&lt;/strong&gt; แต่ผู้บันทึกไม่สามารถหาข้อมูลได้&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;สำหรับ Field ที่เป็น Alphabet (แสดงออกเป็นตัวอักษร) ให้ระบุค่าเป็น N/A&lt;/li&gt;
+&lt;li&gt;สำหรับ Field ที่เป็น Numeric (แสดงออกเป็นตัวเลข) ให้ระบุค่าเป็น 0 (ศูนย์)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;หาก Field ใด กำหนดให้ไม่ต้องระบุค่า &lt;strong&gt;(Value = O)&lt;/strong&gt; และผู้บันทึกไม่สามารถหาข้อมูลได้ ก็ไม่ต้องบันทึกค่าใด ๆ&lt;/li&gt;
+&lt;li&gt;หาก Field ใด กำหนดให้ต้องระบุค่า เมื่อเข้าเงื่อนไขที่กำหนด &lt;strong&gt;(Value = C)&lt;/strong&gt; แต่ผู้บันทึกไม่สามารถหาข้อมูลได้&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;สำหรับ Field ที่เป็น Alphabet (แสดงออกเป็นตัวอักษร) ให้ระบุค่าเป็น N/A&lt;/li&gt;
+&lt;li&gt;สำหรับ Field ที่เป็น Numeric (แสดงออกเป็นตัวเลข) ให้ระบุค่าเป็น 0 (ศูนย์)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;อกษรยอ-ทใชในการอธบายรปแบบชนดของขอมล&#34;&gt;อักษรย่อ ที่ใช้ในการอธิบายรูปแบบชนิดของข้อมูล&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;อักษรย่อ ที่ใช้ในการอธิบายรูปแบบชนิดของข้อมูล&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;อักษรย่อ&lt;/th&gt;
+&lt;th&gt;คำอธิบาย&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;n3&lt;/td&gt;
+&lt;td&gt;ข้อมูลชนิดตัวเลข (Numeric Characters) คงที่ คือ 3 ตัวอักษร&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;a3&lt;/td&gt;
+&lt;td&gt;ข้อมูลชนิดตัวอักษร (Alphabetic Characters) คงที่ คือ 3 ตัวอักษร&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;an3&lt;/td&gt;
+&lt;td&gt;ข้อมูลชนิดตัวอักษรหรือตัวเลข คงที่ คือ 3 ตัวอักษร&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;n..3&lt;/td&gt;
+&lt;td&gt;ข้อมูลชนิดตัวเลขความยาวข้อมูลแปรผันตามความยาวสูงสุด 3 ตัวอักษร&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;a..3&lt;/td&gt;
+&lt;td&gt;ข้อมูลชนิดตัวอักษรความยาวข้อมูลแปรผันตามความยาวสูงสุด 3 ตัวอักษร&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;an..3&lt;/td&gt;
+&lt;td&gt;ข้อมูลชนิดตัวอักษรหรือตัวเลขความยาวข้อมูลแปรผันตามความยาวสูงสุด 3 ตัวอักษร&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;n..16,2&lt;/td&gt;
+&lt;td&gt;ข้อมูลชนิดตัวเลขความยาวข้อมูลแปรผันตามความยาวสูงสุด 16 ตัวอักษรรวมความยาวทศนิยมสูงสุด 2 ตัวอักษร&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;import-declaration-control&#34;&gt;Import Declaration Control&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page35.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page36.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page37.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page38.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page39.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page40.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page41.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page42.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page43.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page44.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page45.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page46.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page47.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page48.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page49.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page50.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;import-invoice-control&#34;&gt;Import Invoice Control&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page51.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page52.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page53.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page54.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page55.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;import-invoice-detail&#34;&gt;Import Invoice Detail&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page56.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page57.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page58.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page59.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page60.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page61.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page62.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page63.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page64.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page65.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page66.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;import-invoice-duty&#34;&gt;Import Invoice Duty&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page67.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page68.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;import-invoice-permit&#34;&gt;Import Invoice Permit&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page69.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;import-invoice-deposit&#34;&gt;Import Invoice Deposit&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page70.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>การตรวจสอบข้อมูลใบขนสินค้า กับระบบทะเบียนผู้มาติดต่อ</title>
+      <link>/pages/tax-inc/tax-guide/5.visitor-registration/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/tax-inc/tax-guide/5.visitor-registration/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;การตรวจสอบลายเซ็นอิเล็กทรอนิกส์ (Digital Signature) มีเงื่อนไขดังนี้&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;VAT ID ของ ลายเซ็นอิเล็กทรอนิกส์ ต้องเท่ากับเลขประจำตัวผู้เสียภาษีอากรของผู้นำเข้า/ผู้ส่งออก (Company Tax No) หรือ&lt;/li&gt;
+&lt;li&gt;VAT ID ของ ลายเซ็นอิเล็กทรอนิกส์ ต้องเท่ากับเลขประจำตัวผู้เสียภาษีอากรของตัวแทนออกของ (Broker Tax No)  หรือ&lt;/li&gt;
+&lt;li&gt;VAT ID ของ ลายเซ็นอิเล็กทรอนิกส์ ต้องเท่ากับเลขประจำตัวผู้เสียภาษีอากรของตัวแทนออกของรับจ้างช่วง (Sub Broker Tax Number) หรือ&lt;/li&gt;
+&lt;li&gt;VAT ID ของ ลายเซ็นอิเล็กทรอนิกส์ ต้องเท่ากับเลขประจำตัวผู้เสียภาษีอากรของ Company Tax No ของ Registration ID กรณีเป็น Service Counter เท่านั้น&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;การตรวจสอบความสัมพันธ์ของผู้นำเข้า/ผู้ส่งออกกับตัวแทนออกของ ต้องมีการว่าจ้างระหว่าง ผู้นำเข้า/ส่งออกกับตัวแทนออกของ จะตรวจสอบกับระบบทะเบียน ดังนี้&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ผู้นำเข้า/ผู้ส่งออกต้องว่าจ้างตัวแทนออกของ และ&lt;/li&gt;
+&lt;li&gt;ตัวแทนออกของต้องได้รับจ้างผู้นำเข้า/ผู้ส่งออก&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;การตรวจสอบความสัมพันธ์ของตัวแทนออกของรับจ้างช่วง กับตัวแทนออกของที่มีความสัมพันธ์กับ   ผู้นำเข้า/ผู้ส่งออก จะตรวจสอบกับระบบทะเบียน ดังนี้&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ผู้รับจ้างช่วงต้องได้รับการว่าจ้างจากตัวแทนออกของ และ&lt;/li&gt;
+&lt;li&gt;ตัวแทนออกของต้องได้รับจ้างผู้นำเข้า/ผู้ส่งออก และ&lt;/li&gt;
+&lt;li&gt;ผู้นำเข้า/ผู้ส่งออกต้องว่าจ้างตัวแทนออกของ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;สำหรับกรณีผู้นำเข้า/ผู้ส่งออก มีการมอบอำนาจให้ตัวแทนออกของทำการว่าจ้างช่วงได้&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;การตรวจสอบความสัมพันธ์ของ ผู้จัดการ/ผู้รับมอบอำนาจ (ช่อง Manager ID Card) กับผู้นำเข้า/ผู้ส่งออก หรือตัวแทนออกของ มีการตรวจสอบเฉพาะกรณีที่ส่งข้อมูลผ่านระบบของ Service Counter เท่านั้น จะตรวจสอบกับระบบทะเบียน ดังนี้&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ต้องเป็น ผู้จัดการ/ผู้รับมอบอำนาจ ของ ผู้ส่งออก/ผู้นำเข้า หรือ&lt;/li&gt;
+&lt;li&gt;ต้องเป็น ผู้จัดการ/ผู้รับมอบอำนาจ ของ ตัวแทนออกของ หรือ&lt;/li&gt;
+&lt;li&gt;ต้องเป็น ผู้จัดการ/ผู้รับมอบอำนาจ ของ ตัวแทนออกของผู้รับจ้างช่วง ของ ตัวแทนออกของ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>เครื่องหมายและเลขหมายหีบห่อ (Shipping Marks)</title>
+      <link>/pages/tax-inc/tax-guide/6.shipping-marks/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/tax-inc/tax-guide/6.shipping-marks/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;เครื่องหมายและเลขหมายหีบห่อ (Shipping Marks) ต้องสำแดงเครื่องหมายและเลขหมายหีบห่อให้ตรงกับความเป็นจริง ซึ่งจะต้องตรงกับใบตราส่งสินค้า โดยให้สำแดง ดังนี้
+&lt;blockquote class=&#34;book-hint success&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;ถ้าเครื่องหมายและเลขหมายหีบห่อเป็นข้อความให้บันทึกเป็นข้อความตามจริง หากเครื่องหมายและเลขหมายหีบห่อมี &lt;em&gt;ความยาวเกิน 512 ตัวอักษร&lt;/em&gt;  &lt;code&gt;ให้บันทึกเพียง 512 ตัวอักษรได้&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;ถ้าเครื่องหมายและเลขหมายหีบห่อเป็นข้อความที่เป็น &lt;em&gt;ภาษาต่างประเทศ&lt;/em&gt; ซึ่งไม่สามารถบันทึกข้อความนั้นได้ เช่น ภาษาจีน ให้ระบุคำว่า &lt;code&gt;“PICTURE”&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;ถ้าเครื่องหมายและเลขหมายหีบห่อเป็น&lt;em&gt;รูปภาพ&lt;/em&gt; ให้ระบุคำว่า &lt;code&gt;“PICTURE”&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/blockquote&gt;
+&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;กรณี&lt;em&gt;ผ่อนผันไม่ต้องสำแดงเครื่องหมายและเลขหมายหีบห่อ (Shipping Marks)&lt;/em&gt; ในการจัดทำข้อมูลใบขนสินค้าขาเข้าให้ระบุคำว่า &lt;code&gt;“NO SHIPPING MARK”&lt;/code&gt; แทนได้ สำหรับกรณี ดังต่อไปนี้&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote class=&#34;book-hint warning&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;กรณีหีบห่อของใช้ส่วนตัวตาม &lt;em&gt;ประเภทที่ 5 ภาค 4&lt;/em&gt; แห่งพระราชกำหนดพิกัดอัตราศุลกากร พ.ศ. 2530&lt;/li&gt;
+&lt;li&gt;กรณีหีบห่อ&lt;em&gt;ของที่ได้รับเอกสิทธิ์&lt;/em&gt; ตามข้อผูกพันที่ประเทศไทยมีต่อองค์การสหประชาชาติตามกฎหมายระหว่างประเทศหรือตามสัญญากับนานาประเทศ&lt;/li&gt;
+&lt;li&gt;ของที่&lt;em&gt;มิได้บรรจุหีบห่อ&lt;/em&gt; เช่น รถยนต์ ยางรถยนต์ รางรถไฟ ลวด โลหะเป็นแท่งหรือก้อน กระดาษพิมพ์หนังสือเป็นม้วน กระเบื้อง&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;ของเหลวบรรจุในขวดใหญ่และมีวัตถุถักหุ้มขวด&lt;/em&gt; เช่น น้ำกรด&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;ของที่มาเป็นกอง&lt;/em&gt; เช่น ถ่านหิน&lt;/li&gt;
+&lt;li&gt;ของที่&lt;em&gt;บรรจุหีบห่อเดียว&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;ของที่บรรจุใน&lt;em&gt;หีบห่อที่เป็นมาตรฐานเดียว (Standard Packing)&lt;/em&gt; เช่น ลังไม้ หรือลังกระดาษที่มีขนาดกว้างยาวเท่ากัน ของที่บรรจุมีจำนวนเท่ากัน เช่น นมสด สุรา เบียร์ อาหารปนแป้ง วิทยุ&lt;/li&gt;
+&lt;li&gt;ของที่มาเป็น&lt;em&gt;ถังเหล็กหรือถังไฟเบอร์ (Drum or Fiber Drum)&lt;/em&gt; ที่มีลักษณะขนาด น้ำหนัก และจำนวนของที่บรรจุเท่ากัน เช่น จุกขวด น้ำยาดับกลิ่น น้ำมันเครื่อง สีทา&lt;/li&gt;
+&lt;li&gt;ของที่บรรจุมาใน&lt;em&gt;ถุงกระดาษหรือกระสอบ&lt;/em&gt; ที่มีลักษณะขนาด น้ำหนัก และจำนวนของที่บรรจุเท่ากัน เช่น ปุ๋ย แอมโมเนีย แป้ง ข้าวสาลี หิน กากเพชร น้ำตาล&lt;/li&gt;
+&lt;li&gt;ของที่บรรจุมาใน&lt;em&gt;หีบโปร่ง (Crate)&lt;/em&gt; เช่น เครื่องยนต์&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/blockquote&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>จำนวนและน้ำหนักของสินค้า</title>
+      <link>/pages/tax-inc/tax-guide/7.quantity-and-weight/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/tax-inc/tax-guide/7.quantity-and-weight/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;จำนวนหีบห่อรวม (Total Package Amount) ให้บันทึกค่าลักษณะหีบห่อตามมาตรฐาน หากสินค้ามีหลายลักษณะรวมกัน ให้ระบุจำนวนหีบห่อรวม.&lt;/li&gt;
+&lt;li&gt;ลักษณะหีบห่อรวม (Total Package Unit Code) ให้บันทึกค่าลักษณะหีบห่อตามมาตรฐาน UNECE Recommendation 21 หากสินค้ามีหลายลักษณะรวมกัน เช่น กล่อง Roll Drum ให้ระบุหน่วยเป็น &lt;strong&gt;PK&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;น้ำหนักสุทธิรวม (Total Net Weight) ต้องมีค่าเท่ากับน้ำหนักสุทธิ (Net Weight) รวมทุกรายการเท่านั้น.&lt;/li&gt;
+&lt;li&gt;หน่วยของน้ำหนักสุทธิ (Net Weight Unit Code ตามมาตรฐาน UNECE Recommendation 20 มีค่าได้ดังต่อไปนี้
+&lt;strong&gt;KGM&lt;/strong&gt; – Kilogram , &lt;strong&gt;TNE&lt;/strong&gt; – Metric Ton , &lt;strong&gt;GRM&lt;/strong&gt; – Gram , &lt;strong&gt;CTM&lt;/strong&gt; – Carat.&lt;/li&gt;
+&lt;li&gt;น้ำหนักรวม (Total Gross Weight) ต้องมีค่าเท่ากับหรือมากกว่าน้ำหนักสุทธิรวม (Total Net Weight) เท่านั้น สำหรับทางอากาศใช้น้ำหนักตาม D/O.&lt;/li&gt;
+&lt;li&gt;หน่วยของน้ำหนักรวม (Total Gross Weight Unit Code) ตามมาตรฐาน UNECE Recommendation 20  มีค่าได้ดังต่อไปนี้
+&lt;strong&gt;KGM&lt;/strong&gt; – Kilogram,  &lt;strong&gt;TNE&lt;/strong&gt; – Metric Ton ,  &lt;strong&gt;GRM&lt;/strong&gt; – Gram , &lt;strong&gt;CTM&lt;/strong&gt; – Carat&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ต้องการให้ตรวจสอบข้อมูลใบขนสินค้า (Assessment Request Code)</title>
+      <link>/pages/tax-inc/tax-guide/8.assessment-request/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/tax-inc/tax-guide/8.assessment-request/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;“Assessment Request Code”&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;“มีปัญหาพิกัด ราคา พบพนักงานศุลกากร ที่ ด่านศุลกากร ที่นำเข้า”&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;กรณีมีปัญหาและต้องการพบพนักงานศุลกากร  ณ  คลังสินค้าทัณฑ์บน (Bond Port) เขตปลอดอากร  (FreeZone Port) เขตประกอบการเสรี (IEAT Freezone Port)
+&lt;ul&gt;
+&lt;li&gt;ในเรื่องปัญหาพิกัดศุลกากร อัตราศุลกากร ราคาศุลกากร&lt;/li&gt;
+&lt;li&gt;ในเรื่องที่ต้องแจ้งความไว้ต่อพนักงานศุลกากรก่อนการส่งมอบว่าจะยื่นคำขอคืนเงินอากร และได้มีการแจ้งเหตุผลไว้ในช่อง หมายเหตุ &lt;strong&gt;&amp;ldquo;Remark&amp;rdquo;&lt;/strong&gt; แล้ว&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;กรณีของนำเข้าเป็นของที่มีลักษณะ ดังต่อไปนี้&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;ของนำเข้าตามภาค 4 แห่งพระราชกำหนดพิกัดอัตราศุลกากร&lt;/li&gt;
+&lt;li&gt;ของเก่าใช้แล้ว&lt;/li&gt;
+&lt;li&gt;ของด้อยสภาพ&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;ในการจัดทำข้อมูลใบขนสินค้าขาเข้าตาม (1) หรือ (2) ให้ระบุค่า &lt;strong&gt;&lt;em&gt;“Y”&lt;/em&gt;&lt;/strong&gt; ในช่อง  &lt;strong&gt;&lt;em&gt;“Assessment Request Code”&lt;/em&gt; “มีปัญหาพิกัด ราคา พบพนักงานศุลกากร ที่ด่านศุลกากรที่นำเข้า”&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;ระบบคอมพิวเตอร์ของศุลกากรจะสั่งการตรวจใบขนสินค้าขาเข้าเป็น &lt;strong&gt;“เปิดตรวจ”&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;พบพนักงานศุลกากร ณ หน่วยบริการศุลกากรที่นำของเข้า เพื่อยื่นหลักฐานหรือเอกสารมาแสดง หรือร้องขอให้พนักงานศุลกากรพิจารณาดำเนินการใด ๆ&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/pages/tax-inc/tax-guide/back/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/tax-inc/tax-guide/back/</guid>
+      <description>
+
+&lt;script&gt;
+
+location.replace(&#34;/KM/customs/pages/tax-inc/&#34;)
+&lt;/script&gt;
+
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

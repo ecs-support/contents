@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AHK on ECS</title>
+    <link>/tags/ahk/</link>
+    <description>Recent content in AHK on ECS</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>ECS@Support&amp;copy;{year}</copyright>
+    <lastBuildDate>Thu, 11 Feb 2021 03:10:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/ahk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ความตกลงการค้าเสรีอาเซียน-ฮ่องกง (ASEAN – Hong Kong, China Free Trade Agreement)</title>
+      <link>/pages/fta/ahk/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/fta/ahk/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../img/asean-hong_kong.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;div class=&#34;toc collapsible-toc&#34;&gt;
+ &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
+ &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
+ 
+   &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#ความเปนมา&#34;&gt;ความเป็นมา&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#กฏวาดวยถนกาเนดสนคา&#34;&gt;กฏว่าด้วยถิ่นกําเนิดสินค้า&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#ระเบยบปฏบตเกยวกบหนงสอรบรองถนกาเนดสนคาhttpwwwdftgothportals0e0b8aae0b8b4e0b897e0b898e0b8b4e0b89be0b8a3e0b8b0e0b982e0b8a2e0b88ae0b899e0b98ce0b897e0b8b2e0b887e0b881e0b8b2e0b8a3e0b884e0b989e0b8b2e0b8ade0b8b2e0b980e0b88be0b8b5e0b8a2e0b899-e0b8aee0b988e0b8ade0b887e0b881e0b887ahkfta20annex203-120operational20certification20procedurespdfver2562-05-29-133025-493&#34;&gt;&lt;a href=&#34;http://www.dft.go.th/Portals/0/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B9%89%E0%B8%B2/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%87/AHKFTA%20Annex%203-1%20(Operational%20Certification%20Procedures).pdf?ver=2562-05-29-133025-493&#34;&gt;ระเบียบปฏิบัติเกี่ยวกับหนังสือรับรองถิ่นกําเนิดสินค้า&lt;/a&gt;&lt;/a&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#1-สนคาทใบกำกบสนคาออกโดยบคคลทสาม-third-party-invoicing&#34;&gt;1. สินค้าที่ใบกำกับสินค้าออกโดยบุคคลที่สาม (Third Party Invoicing)&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#2-ยนยนการเคลอนยายสนคา-movement-confirmation-mc&#34;&gt;2. ยืนยันการเคลื่อนย้ายสินค้า (Movement Confirmation: MC)&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#การขอใชสทธยกเวนลดหยอนภาษภายใตความตกลงทางการคา&#34;&gt;การขอใชสิทธิยกเว้น/ลดหย่อนภาษีภายใต้ความตกลงทางการค้า&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#เอกสารทเกยวของ&#34;&gt;เอกสารที่เกี่ยวข้อง&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#การลดภาษ-แตละประเทศ&#34;&gt;การลดภาษี แต่ละประเทศ&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#ประกาศ--กฎหมาย-ทเกยวของ&#34;&gt;ประกาศ / กฎหมาย ที่เกี่ยวข้อง&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+   &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;br&gt;
+    &lt;/div&gt;
+&lt;h2 id=&#34;ความเปนมา&#34;&gt;ความเป็นมา&lt;/h2&gt;
+&lt;p&gt;เมื่อเดือนพฤศจิกายน 2554 ฮ่องกงยื่นหนังสือแสดงเจตจํานงขอเข้าร่วมความตกลงการค้าเสรีอาเซียน-จีน (ACFTA)
+อย่างเป็นทางการต่อสํานักเลขาธิการอาเซียน ในช่วงการประชุมผู้นําอาเซียน-จีน&lt;/p&gt;
+&lt;p&gt;สํานักเลขาธิการอาเซียนได้ว่าจ้าง Singapore&amp;rsquo;s National University ทําการศึกษาผลกระทบต่อประเทศสมาชิกอาเซียน ผลการศึกษาเบื้องต้นระบุว่า ในภาพรวมการเข้าเป็นสมาชิก ACFTA ของฮ่องกงจะก่อให้เกิดเป็นประโยชน์ในด้านการเจริญเติบโตทางเศรษฐกิจ Welfare และ Flow ของสินค้าที่จะเข้าสู่ตลาดจีนได้สะดวกขึ้น พร้อมทั้งยังก่อให้เกิดผลทางบวกกับการรวมกลุ่มในภูมิภาค อย่างไรก็ตาม อาเซียนจะได้รับประโยชน์เพิ่มขึ้น จากเดิมเพียงเล็กน้อย หากการเข้าเป็นภาคีของฮ่องกงจะเป็นลักษณะ EqualTreatment (คือจีนจะต้องเปิดตลาดให้อาเซียนเพิ่มเติมจนเท่ากับที่จีนเปิดให้ฮ่องกง) และอาเซียนจะเสียประโยชน์ หากจีนเปิดตลาดให้อาเซียนได้เพียงร้อยละ 80 ของที่จีนเปิดให้ฮ่องกง และไทยอาจได้รับผลกระทบในภาคบริการ ด้านการเงิน ธนาคาร และประกันภัย ซึ่งเป็นสาขาที่ฮ่องกงมีศักยภาพ ซึ่งในทางปฏิบัติแล้วคงเป็นไปได้ยากที่จีนจะเปิดตลาดให้กับอาเซียนในระดับดังกล่าว&lt;/p&gt;
+&lt;p&gt;ที่ประชุมรัฐมนตรีการค้าอาเซียน (AEM-Retreat) เมื่อวันที่ 8 มีนาคม 2556 ณ ประเทศเวียดนาม มีมติเสนอให้อาเซียนจัดทําเขตการค้าเสรีกับฮ่องกง (ASEAN-Hong Kong FTA) แทนการรับฮ่องกงเข้าเป็น ภาคีสมาชิกความตกลงเขตการค้าเสรีอาเซียน-จีน ที่ประชุมผู้นําอาเซียนได้รับรองมติของ AEM ให้อาเซียนจัดทํา
+เขตการค้าเสรีกับฮ่องกง (ASEAN-Hong Kong FTA) เมื่อวันที่ 25 เมษายน 2556 ณ ประเทศบรูไน&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ในการประชุมเจ้าหน้าที่อาวุโสเศรษฐกิจอาเซียน–ฮ่องกง (SEOM–Hong Kong Consultations) ครั้งที่ 1 เมื่อเดือนกรกฎาคม 2556 ที่ประชุมมีมติว่าฮ่องกงและอาเซียนควรจะเริ่มการเจรจาในปี 2557&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;รัฐมนตรีเศรษฐกิจอาเซียนและฮ่องกง ได้ลงนามความตกลงการค้าเสรีอาเซียน-อาเซียน (AHKFTA) และความตกลงด้านการลงทุนอาเซียน-ฮ่องกง (AHKIA) เมื่อวันที่ 12 พฤศจิกายน 2560&lt;/li&gt;
+&lt;li&gt;เมื่อวันที่ 28 ธันวาคม 2561 ไทยได้มอบสัตยาบันสารให้แก่สํานักเลขาธิการอาเซียน&lt;/li&gt;
+&lt;li&gt;ความตกลงการค้าเสรีอาเซียน-อาเซียน (AHKFTA) มีผลใช้บังคับตั้งแต่วันที่ 11 มิถุนายน 2562  &lt;em&gt;(เฉพาะฮ่องกง ไทย สิงคโปร์ เวียดนาม และเมียนมา)&lt;/em&gt; และความตกลงการลงทุนอาเซียน-ฮ่องกง (AHKIA) มีผลใช้บังคับตั้งแต่วันที่ 17 มิถุนายน 2562 ซึ่งความตกลง AHKFTA และความตกลง AHKIA จะก่อให้เกิดประโยชน์กับทั้งสองฝ่าย ด้านการค้าสินค้า ฮ่องกงจะได้ประโยชน์จากการที่อาเซียนลดภาษีศุลกากร และสามารถส่งสินค้ามาอาเซียนในอัตราภาษีที่ต่ําลง ในขณะที่อาเซียนจะได้
+ประโยชน์จากการที่ฮ่องกงตกลงว่าในอนาคตจะไม่ขึ้นภาษีสินค้าที่มีอัตราภาษีเป็น 0 ทุกรายการภายใต้ AHKFTA&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;กฏวาดวยถนกาเนดสนคา&#34;&gt;กฏว่าด้วยถิ่นกําเนิดสินค้า&lt;/h2&gt;
+&lt;p&gt;สินค้านําเข้าที่จะขอใช้สิทธิพิเศษทางภาษีศุลกากรภายใต้ความตกลง AHKFTA จะต้องเป็นสินค้าที่ผลิตได้ ตาม&lt;a href=&#34;http://www.dft.go.th/Portals/0/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B9%89%E0%B8%B2/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%87/AHKFTA%20Chapter%203%20Rules%20of%20Origin.pdf&#34;&gt;กฎว่าด้วยถิ่นกําเนิดสินค้า (Rules of Origin: ROO)&lt;/a&gt; ข้อใดข้อหนึ่ง ดังนี้&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;กฎการใช้วัตถุดิบภายในประเทศทั้งหมด (Wholly Obtained or Produced Goods: WO) เป็นสินค้าที่ได้มาทั้งหมดหรือมีการผลิตทั้งหมดในภาคีผู้ส่งออก หรือ&lt;/li&gt;
+&lt;li&gt;เกณฑ์การผลิตทั้งหมดในภาคีนั้นจากวัตถุดิบที่ได้ถิ่นกําเนิดของภาคีใดภาคีหนึ่งหรือมากกว่า (Produced Exclusively: PE)&lt;/li&gt;
+&lt;li&gt;กฎทั่วไป คือ เกณฑ์สัดส่วนมูลค่าการผลิตในภูมิภาค (Regional Value Content: RVC) โดยสินค้าที่ได้มาหรือผลิตขึ้นโดยมิได้ใช้วัตถุดิบภายในประเทศทั้งหมด แต่มีสัดส่วนของวัตถุดิบที่ได้ถิ่นกําเนิดภายในกลุ่มประเทศอาเซียนและฮ่องกง ไม่น้อยกว่า 40% ของราคา F.O.B. (RVC ≥ 40%)&lt;/li&gt;
+&lt;li&gt;กฎถิ่นกําเนิดเฉพาะรายสินค้า (Product Specific Rules: PSRs) สินค้า 237 รายการ หากสินค้านั้นผลิตได้ตามกฎเฉพาะรายสินค้าตามที่ระบุไว้ในภาคผนวก 3-2 ซึ่งประกอบด้วยกฎ (1) WO (2) กฎทางเลือกระหว่าง RVC ≥ 40% หรือ เกณฑ์การเปลี่ยนพิกัดอัตราศุลกากร (Change in Tariff Classification: CTC)
+(3) เกณฑ์กระบวนการผลิตเฉพาะ (Specific Process: SP) (&lt;a href=&#34;http://www.dft.go.th/Portals/0/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B9%89%E0%B8%B2/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%87/AHKFTA%20Annex%203-2%20(Product%20Specific%20Rules).pdf?ver=2562-05-29-133025-803&#34;&gt;Annex 3-2&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;สินค้าที่ยังหาข้อสรุปไม่ได้ 557 รายการ ซึ่งปรากฏในตารางภาคผนวก 3-3 อาทิสินแร่และแร่ธาตุ พลาสติก อัญมณีสิ่งทอและเครื่องนุ่งห่ม เป็นต้น ทั้งสองฝ่ายเห็นพ้องให้เจรจาให้แล้วเสร็จภายใน 1 ปีหลังจากที่ความตกลง AHKFTA มีผลใช้บังคับ ซึ่งในระหว่างที่ยังไม่ได้ข้อยุตินี้ อาเซียนและฮ่องกงตกลงใช้เกณฑ์ถิ่นกําเนิดสินค้า (1) WO หรือ (2) PE หรือ (3) RVC ≥ 40% สําหรับสินค้า 557 รายการ (&lt;a href=&#34;http://www.dft.go.th/Portals/0/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B9%89%E0%B8%B2/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%87/AHKFTA%20Annex%203-3%20(Product%20Specific%20Rules%20to%20be%20review).pdf?ver=2562-05-29-133025-803&#34;&gt;Annex 3-3&lt;/a&gt;)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;ระเบยบปฏบตเกยวกบหนงสอรบรองถนกาเนดสนคาhttpwwwdftgothportals0e0b8aae0b8b4e0b897e0b898e0b8b4e0b89be0b8a3e0b8b0e0b982e0b8a2e0b88ae0b899e0b98ce0b897e0b8b2e0b887e0b881e0b8b2e0b8a3e0b884e0b989e0b8b2e0b8ade0b8b2e0b980e0b88be0b8b5e0b8a2e0b899-e0b8aee0b988e0b8ade0b887e0b881e0b887ahkfta20annex203-120operational20certification20procedurespdfver2562-05-29-133025-493&#34;&gt;&lt;a href=&#34;http://www.dft.go.th/Portals/0/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B9%89%E0%B8%B2/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%87/AHKFTA%20Annex%203-1%20(Operational%20Certification%20Procedures).pdf?ver=2562-05-29-133025-493&#34;&gt;ระเบียบปฏิบัติเกี่ยวกับหนังสือรับรองถิ่นกําเนิดสินค้า&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;1-สนคาทใบกำกบสนคาออกโดยบคคลทสาม-third-party-invoicing&#34;&gt;1. สินค้าที่ใบกำกับสินค้าออกโดยบุคคลที่สาม (Third Party Invoicing)&lt;/h3&gt;
+&lt;p&gt;กรณีที่ผู้ส่งออกมีความประสงค์จะขอหนังสือรับรองถิ่นกําเนิดสินค้า (Form AHK) สําหรับสินค้าที่ใบกํากับสินค้า (invoice) ออกโดยบุคคลที่สาม ให้ปฏิบัติตามหลักเกณฑ์ดังต่อไปนี้&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ทําเครื่องหมาย ( P )  หน้าข้อความ &lt;strong&gt;“Third Party Invoicing”&lt;/strong&gt; ในช่อง 13 ของหนังสือรับรองถิ่นกําเนิด
+สินค้า (Form AHK)&lt;/li&gt;
+&lt;li&gt;ระบุชื่อ และประเทศ ของบุคคลที่สามที่ออกใบกํากับสินค้า (the company issuing the invoice)
+ในช่อง 7 ของหนังสือรับรองถิ่นกําเนิดสินค้า (Form AHK)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2-ยนยนการเคลอนยายสนคา-movement-confirmation-mc&#34;&gt;2. ยืนยันการเคลื่อนย้ายสินค้า (Movement Confirmation: MC)&lt;/h3&gt;
+&lt;p&gt;กรณีที่ผู้ส่งออกได้นําเข้าสินค้าจากภาคีสมาชิกเพื่อส่งออก (Re-export) ไปยังภาคีสมาชิกใดภาคีสมาชิกหนึ่ง และมีความประสงค์ จะขอหนังสือรับรองถิ่นกําเนิดสินค้า (Form AHK) เพื่อยืนยันการเคลื่อนย้ายสินค้า (Movement Confirmation: MC) ให้ทําเครื่องหมาย (P) หน้าข้อความ “Movement Confirmation” ในช่อง 13 ของหนังสือรับรองถิ่นกําเนิดสินค้า (Form AHK) และผู้ส่งออกต้องแสดงเอกสารหลักฐานประกอบการขอ
+หนังสือรับรองถิ่นกําเนิดสินค้า (Form AHK) เพื่อยืนยันการเคลื่อนย้ายสินค้า (MC) ดังนี้&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ต้นฉบับหนังสือรับรองถิ่นกําเนิดสินค้า (Form AHK) จากภาคีสมาชิกต้นทางที่ยังไม่หมดอายุ&lt;/li&gt;
+&lt;li&gt;ต้นฉบับหรือสําเนาใบกํากับสินค้า (Invoice) ที่ใช้ในการนําเข้าและส่งออก&lt;/li&gt;
+&lt;li&gt;สําเนาใบตราส่งสินค้าทางเรือ (Bill of Lading) หรือสําเนาใบตราส่งสินค้าทางอากาศ (Air Waybill) หรือเอกสารหลักฐานอื่น ที่แสดงการขนส่งสินค้าระหว่างประเทศที่ใช้ในการนําเข้าและส่งออก&lt;/li&gt;
+&lt;li&gt;ต้นฉบับหรือสําเนาใบขนสินค้าขาเข้า&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;การขอใชสทธยกเวนลดหยอนภาษภายใตความตกลงทางการคา&#34;&gt;การขอใชสิทธิยกเว้น/ลดหย่อนภาษีภายใต้ความตกลงทางการค้า&lt;/h2&gt;
+&lt;p&gt;การขอใช้สิทธิยกเว้น/ลดหย่อนภาษีภายใต้ความตกลงฯ สินค้าที่กําเนิดหรือผลิตได้ดังกล่าวจะต้องมี หนังสือรับรองถิ่นกําเนิดสินค้า (&lt;a href=&#34;http://www.dft.go.th/Portals/0/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B9%89%E0%B8%B2/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%87/CO%20Form%20AHK%20-%20FINAL.pdf?ver=2562-05-29-133025-803&#34;&gt;Form AHK&lt;/a&gt;) ไปแสดงต่อศุลกากรประเทศผู้นําเข้า โดยจะต้องระบุข้อมูลขั้นต่ํา (&lt;a href=&#34;http://www.dft.go.th/Portals/0/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B9%89%E0%B8%B2/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%87/AHKFTA%20APPENDIX%20(List%20of%20Data%20Requirement).pdf?ver=2562-05-29-133025-493&#34;&gt;List of Data Requirement&lt;/a&gt;) ลงใน Form AHK&lt;/p&gt;
+&lt;p&gt;นอกจากนี้ทางที่ประชุมได้จัดตั้งคณะอนุกรรมการว่าด้วยกฎถิ่นกําเนิดสินค้า เพื่อเจรจาจัดทํากฎถิ่นกําเนิดสินค้าเฉพาะรายสินค้าให้แล้วเสร็จในปี 2563 ซึ่งในปัจจุบันยังใช้กฎแบบชั่วคราวอยู่ เพื่อให้เหมาะสมกับลักษณะการผลิตและการค้าของผู้ประกอบการอาเซียนและฮ่องกง รวมทั้งจัดตั้งคณะอนุกรรมการด้านการ
+ลงทุน เพื่อเจรจาให้แล้วเสร็จภายในปี 2563&lt;/p&gt;
+&lt;p&gt;ปัจจุบัน ฮ่องกงเป็นคู่ค้าอันดับ 9 ของไทย โดยในครึ่งแรกของปี 2562 (ม.ค.-มิ.ย.) การค้าระหว่างไทยกับฮ่องกง มีมูลค่า 7,079.67 ล้านเหรียญสหรัฐ แบ่งเป็นมูลค่าการส่งออกสินค้าจากไทยไปฮ่องกง 5,741.81 ล้านเหรียญสหรัฐ และมูลค่าการนําเข้าสินค้าจากฮ่องกงมาไทย 1,337.86 ล้านเหรียญสหรัฐ สินค้าส่งออกสําคัญของไทยไปฮ่องกง เช่น เครื่องคอมพิวเตอร์อุปกรณ์และส่วนประกอบ อัญมณีและเครื่องประดับ แผงวงจรไฟฟ้า ผลไม้สด แช่เย็น แช่แข็งและแห้ง เครื่องโทรสาร โทรศัพท์อุปกรณ์และส่วนประกอบ เป็นต้น สินค้านําเข้าจากฮ่องกง เช่น เครื่องเพชรพลอย อัญมณีเงินแท่งและทองคํา เครื่องประดับอัญมณีเครื่องจักรไฟฟ้าและ ส่วนประกอบ ผ้าผืน เครื่องใช้ไฟฟ้าในบ้าน เคมีภัณฑ์เป็นต้น&lt;/p&gt;
+&lt;h2 id=&#34;เอกสารทเกยวของ&#34;&gt;เอกสารที่เกี่ยวข้อง&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;เอกสารประกอบการสัมมนา &lt;strong&gt;การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน- ฮ่องกง&lt;/strong&gt; เมื่อวันที่ 14 สิงหาคม 2562 &lt;a href=&#34;https://github.com/ecs-support/knowledge-center/raw/master/data/free-trade-area/seminar-asian-hongkong.pdf&#34;&gt;[&lt;strong&gt;ดาวน์โหลดเอกสาร&lt;/strong&gt;]&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;การลดภาษ-แตละประเทศ&#34;&gt;การลดภาษี แต่ละประเทศ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.dft.go.th/Portals/0/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B9%89%E0%B8%B2/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%87/AHKFTA%20Annex%202-1-%20Part%2012%20-%20Schedule%20of%20Hong%20Kong%20China.pdf?ver=2562-06-06-094702-237&#34;&gt;ฮ่องกง ผูกพันลดภาษีสินค้าทุกรายการภายใต้&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.dft.go.th/Portals/0/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B9%89%E0%B8%B2/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%87/AHKFTA%20Annex%202-1-%20Part%2012%20-%20Schedule%20of%20Hong%20Kong%20China.pdf?ver=2562-06-06-094702-237&#34;&gt;AHKFTA ที่ร้อยละ 0 (ANNEX 2-1 HK)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.dft.go.th/Portals/0/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B9%89%E0%B8%B2/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%87/AHKFTA%20Annex%202-1-%20Part%209%20-%20Schedule%20of%20Singapore.pdf?ver=2562-06-06-094702-237&#34;&gt;สิงคโปร์ ผูกพันลดภาษีสินค้าทุกรายการภายใต้ AHKFTA ที่ร้อยละ 0 (ANNEX 2-1 SG)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;ไทย&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;เวียดนาม&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.dft.go.th/Portals/0/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B9%89%E0%B8%B2/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%87/AHKFTA%20Annex%202-1-%20Part%207%20-%20Schedule%20of%20Myanmar%20-%20final.xls?ver=2562-05-31-111325-703&#34;&gt;เมียนมา&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.dft.go.th/Portals/0/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B9%89%E0%B8%B2/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%87/AHKFTA%20Annex%202-1-%20Part%203%20-%20Schedule%20of%20Cambodia%20-final.xls?ver=2562-05-31-111324-830&#34;&gt;กัมพูชา&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.dft.go.th/Portals/0/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B9%89%E0%B8%B2/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%87/AHKFTA%20Annex%202-1-%20Part%205%20-%20Schedule%20of%20Lao%20PDR%20-%20final.xls?ver=2562-05-31-111324-847&#34;&gt;ลาว&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;อินโดนีเซีย&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;มาเลเซีย&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://http//www.dft.go.th/Portals/0/%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B9%8C%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B9%89%E0%B8%B2/%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%8B%E0%B8%B5%E0%B8%A2%E0%B8%99-%E0%B8%AE%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%87/AHKFTA%20Annex%202-1-%20Part%202%20-%20Schedule%20of%20Brunei%20Darussalam%20-%20final.xls?ver=2562-05-31-111323-440&#34;&gt;บรูไนดารุสลาม&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;ฟิลิปปินส์&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ที่มาข้อมูล : &lt;a href=&#34;http://www.dft.go.th/th-th/DFT-Service/ServiceData-Information/dft-service-data-privilege/Detail-dft-service-data-privilege/ArticleId/13403/13403&#34;&gt;กรมการค้าต่างประเทศ&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;ประกาศ--กฎหมาย-ทเกยวของ&#34;&gt;ประกาศ / กฎหมาย ที่เกี่ยวข้อง&lt;/h2&gt;
+
+
+
+
+&lt;div class=&#34;book-tabs&#34;&gt;
+
+  &lt;input type=&#34;radio&#34; class=&#34;hidden&#34; name=&#34;tabs-uniqueid&#34; id=&#34;tabs-uniqueid-0&#34; checked=&#34;checked&#34; /&gt;
+  &lt;label for=&#34;tabs-uniqueid-0&#34;&gt;
+    ประกาศกระทรวงการคลัง
+  &lt;/label&gt;
+  &lt;div class=&#34;book-tabs-content markdown-inner&#34;&gt;
+    &lt;h4 id=&#34;ประกาศกระทรวงการคลง&#34;&gt;ประกาศกระทรวงการคลัง&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142329324146505f47464b4a464a4f&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-ฮ่องกง ลงวันที่ 28 ธันวาคม 2564&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142328324147505f47464b46464b4d&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-ฮ่องกง&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/div&gt;
+
+  &lt;input type=&#34;radio&#34; class=&#34;hidden&#34; name=&#34;tabs-uniqueid&#34; id=&#34;tabs-uniqueid-1&#34;  /&gt;
+  &lt;label for=&#34;tabs-uniqueid-1&#34;&gt;
+    ประกาศกรมศุลกากร
+  &lt;/label&gt;
+  &lt;div class=&#34;book-tabs-content markdown-inner&#34;&gt;
+    &lt;h4 id=&#34;ประกาศกรมศลกากร&#34;&gt;ประกาศกรมศุลกากร&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;เลขที่&lt;/th&gt;
+&lt;th&gt;รายละเอียด&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;45/.2565&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142329324147505e4e464b4c464b48&#34;&gt;การแสดงหนังสือรับรองถิ่นกำเนิดสินค้าและคำรับรองถิ่นกำเนิดสินค้า สำหรับผู้นำของเข้าที่ได้รับผลกระทบจากการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019 (โควิด-19)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;30/.2565&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142329324146505f4c464b46464b49&#34;&gt;แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 233/2564&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;233/.2564&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142329324146505f46464b47464b4d&#34;&gt;หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราศุลกากรสำหรับเขตการค้าเสรีอาเซียน-ฮ่องกง&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;193/.2564&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142329324146505e4f464b46464b49&#34;&gt;แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 89/2562&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;149/.2564&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232932404f505f46464b4a464b4a&#34;&gt;การแสดงหนังสือรับรองถิ่นกำเนิดสินค้าและคำรับรองถิ่นกำเนิดสินค้า สำหรับผู้นำของเข้า ที่ได้รับผลกระทบจากการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019 (โควิด-19&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;50/.2564&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832414d505f4b464b4d464b48&#34;&gt;การแสดงหนังสือรับรองถิ่นกำเนิดสินค้า สำหรับผู้นำของเข้าที่ได้รับผลกระทบจากการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019(โควิด-19)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;27/.2564&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832414d505f48464b47464a4f&#34;&gt;แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 89/2562&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;203/.2563&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832414c505f46464a4f464b4d&#34;&gt;แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 89/2562&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;107/.2563&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832414b505f46464b4d464b4a&#34;&gt;แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 89/2562&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;93/.2563&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832414a505f4d464b4a464b4c&#34;&gt;แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 89/2562&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;57/.2563&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832414a505e4f464b4a464b4c&#34;&gt;แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 89/2562&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;89./2562&lt;/td&gt;
+&lt;td&gt;- &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142328324147505f47464b49464b49&#34;&gt; หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-ฮ่องกง&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+  &lt;/div&gt;
+
+  &lt;input type=&#34;radio&#34; class=&#34;hidden&#34; name=&#34;tabs-uniqueid&#34; id=&#34;tabs-uniqueid-2&#34;  /&gt;
+  &lt;label for=&#34;tabs-uniqueid-2&#34;&gt;
+    ประกาศสำนักพิกัดอัตราศุลกากร
+  &lt;/label&gt;
+  &lt;div class=&#34;book-tabs-content markdown-inner&#34;&gt;
+    &lt;h4 id=&#34;ประกาศสำนกพกดอตราศลกากร&#34;&gt;ประกาศสำนักพิกัดอัตราศุลกากร&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142328324147505f47464b46464a4f&#34;&gt;ประกาศกองพิกัดอัตราศุลกากร ที่3/2562 การใช้สิทธิพิเศษทางภาษีศุลกากรตามประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-ฮ่องกง&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14232832414b505e4e464b48464a4f&#34;&gt;ประกาศกองพิกัดอัตราศุลกากร ที่ 4/2563 เรื่อง การใช้บัญชีราคาสินค้า (Invoice) ฉบับซื้อขายในประเทศ ประกอบการปฏิบัติพิธีการศุลกากร เพื่อขอรับสิทธิพิเศษทางภาษีศุลกากรภายใต้ความตกลงเขตการค้าเสรี&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142329324147505f49464a4f464b4a&#34;&gt;ประกาศกองพิกัดอัตราศุลกากร ที่ 9/2565 เรื่อง ตารางปัญหาและแนวทางแก้ไขการใช้หลักฐานการรับรองถิ่นกำเนิดสินค้าภายใต้ความตกลงการค้าเสรี&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;blockquote class=&#34;book-hint success&#34;&gt;
+  &lt;p&gt;&lt;strong&gt;สอบถามข้อมูลเพิ่มเติมได้ที่ :&lt;/strong&gt; ส่วนกฎว่าด้วยถิ่นกำเนิดสินค้า (สกก.) กองพิกัดอัตราศุลกากร (กพก.)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;หมายเลขโทรศัพท์ : 0-2667-7014 หรือ 0-2667-6459&lt;/li&gt;
+&lt;li&gt;อีเมล์ : &lt;a href=&#34;mailto:80150000@customs.go.th&#34;&gt;80150000@customs.go.th&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_simple_net_with_download.php?ini_content=usage_fta_and_wto_01_23&amp;amp;&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>รายชื่อประเทศที่ได้รับสิทธิสำหรับเขตการค้าเสรีอาเซียน-ฮ่องกง</title>
+      <link>/post/law/customs/2564/2564-27/</link>
+      <pubDate>Thu, 11 Feb 2021 03:10:00 +0000</pubDate>
+      
+      <guid>/post/law/customs/2564/2564-27/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;ประกาศกรมศุลกากรที่ 27/.2564 เรื่อง แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 89/.2562 เพิ่มเติมรายชื่อประเทศที่ได้รับสิทธิยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรี&lt;em&gt;อาเซียน-ฮ่องกง&lt;/em&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;img src=&#34;img-01.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232832414d505f48464b47464a4f&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ปรับปรุงรายชื่อประเทศที่ได้รับสิทธิยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-ฮ่องกง</title>
+      <link>/post/announcement/customs/2563-107/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/announcement/customs/2563-107/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;ประกาศกรมศุลกากรที่ 107/.2563 เรื่อง แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 89/.2562 เพื่อ&lt;strong&gt;ปรับปรุงรายชื่อประเทศ ที่ได้รับสิทธิยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-ฮ่องกง&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;img-02.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;./2563-107.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ที่มาบทความ : &lt;a href=&#34;http://th.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232832414b505f46464b4d464b4a&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>เขตการค้าเสรีอาเซียน-ฮ่องกง</title>
+      <link>/pages/docs/fta/ahk/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/docs/fta/ahk/</guid>
+      <description>&lt;h2 id=&#34;เอกสารประกอบการสมมนา-การยกเวนอากรและลดอตราอากรศลกากรสำหรบเขตการคาเสรอาเซยน--ฮองกง-เมอวนท-14-สงหาคม-2562&#34;&gt;เอกสารประกอบการสัมมนา การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน- ฮ่องกง เมื่อวันที่ 14 สิงหาคม 2562&lt;/h2&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;br&gt;
+
+&lt;br&gt;
+&lt;div class=&#34;article-tags&#34;&gt;
+&lt;a class=&#34;badge badge-danger&#34; href=&#34;./docs.pdf&#34; target=&#34;_blank&#34; id=&#34;download_files_new&#34;&gt;Download&lt;/a&gt; 
+&lt;/div&gt;
+&lt;br&gt;
+
+
+&lt;blockquote&gt;
+&lt;p&gt;ที่มา : กรมศุลกากร&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

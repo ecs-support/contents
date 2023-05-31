@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ข้อกำหนดหลัก on ECS</title>
+    <link>/tags/%E0%B8%82%E0%B8%AD%E0%B8%81%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B8%94%E0%B8%AB%E0%B8%A5%E0%B8%81/</link>
+    <description>Recent content in ข้อกำหนดหลัก on ECS</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>ECS@Support&amp;copy;{year}</copyright>
+    <lastBuildDate>Wed, 16 Jun 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/%E0%B8%82%E0%B8%AD%E0%B8%81%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B8%94%E0%B8%AB%E0%B8%A5%E0%B8%81/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ข้อกำหนดหลักตามมาตรฐาน ISO 27001:2013</title>
+      <link>/pages/knowledge/iso/core/</link>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/knowledge/iso/core/</guid>
+      <description>&lt;p&gt;เพื่อให้เข้าใจภาพกว้างของมาตรฐาซึ่งเป็นพื้นฐานสำหรับ การศึกษารายละเอียดเพิ่มเติมในเอกสารมาตรฐานฉบับเต็มได้ง่ายขึ้น&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;บริบทขององค์กร (Context of the organization)&lt;/li&gt;
+&lt;li&gt;ภาวะผู้นํา (Leadership)&lt;/li&gt;
+&lt;li&gt;การวางแผน (Planning)&lt;/li&gt;
+&lt;li&gt;การสนับสนุน (Support)&lt;/li&gt;
+&lt;li&gt;การดําเนินการ (Operation)&lt;/li&gt;
+&lt;li&gt;การประเมินประสิทธิภาพและประสิทธิผล (Performance evaluation)&lt;/li&gt;
+&lt;li&gt;การปรับปรุง (Improvement)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;1บรบทขององคกร-context-of-the-organization&#34;&gt;1.บริบทขององค์กร (Context of the organization)&lt;/h2&gt;
+&lt;h3 id=&#34;11-ทำความเขาใจองคกรและบรบทขององคกร-understanding-the-organization-and-its-context&#34;&gt;1.1 ทำความเข้าใจองค์กรและบริบทขององค์กร (Understanding the organization and its context)&lt;/h3&gt;
+&lt;p&gt;พื้นฐานสำคัญในการวางระบบการจัดการความมั่นคงปลอดภัยของสารสนเทศ ISO27001:2013 คือความเข้าใจบริบทขององค์กร โดยต้องระบุประเด็นภายใน(Internal issues) และประเด็นภายนอก(External issues) นำทั้ง2ประเด็นนี้มาพิจารณาในการวางระบบให้ครอบคลุมอย่างเหมาะสมไม่ตกหล่นประเด็นสำคัญ&lt;/p&gt;
+&lt;h3 id=&#34;12-กาหนดความจาเปนและความคาดหวงของผทเกยวของ-understanding-the-needs-and-expectations-of-interested-parties&#34;&gt;1.2 กําหนดความจําเป็นและความคาดหวังของผู้ที่เกี่ยวข้อง (Understanding the needs and expectations of interested parties)&lt;/h3&gt;
+&lt;p&gt;ในการทำ ISO27001 จะต้องรู้ว่าใครคือผู้เกี่ยวข้อง (Interested parties) และพวกเขามีความต้องการและคาดหวังอะไร(needs and expectations)จากองค์กรของเรา ระบบงานใดมีความสำคัญเพราะเป็นงานที่เกี่ยวข้องกับการส่งมอบสินค้าหรือบริการให้กับผู้เกี่ยวข้อง บริบทขององค์กรเป็นข้อมูลสำคัญในการกำหนดขอบเขตของการจัดทำระบบ(Scope)&lt;/p&gt;
+&lt;h3 id=&#34;13-การกาหนดขอบเขตของระบบบรหารจดการความมนคงปลอดภยสารสนเทศ-determining-the-scope-of-the-information-security-management-system&#34;&gt;1.3 การกําหนดขอบเขตของระบบบริหารจัดการความมั่นคงปลอดภัยสารสนเทศ (Determining the scope of the information security management system)&lt;/h3&gt;
+&lt;p&gt;ขอบเขต(Scope)ของการทำ ISO27001:2013 ต้องพิจารณาถึงข้อกำหนดและความต้องการของผู้เกี่ยวข้อง(Interested parties) ตรงนี้เป็นเงื่อนไขสำคัญที่องค์กรต้องทำความเข้าใจและกำหนดขอบเขตให้เหมาะสมและเพียงพอคือไม่กำหนดขอบเขตเล็กเกินไปจนตกหล่นผู้เกี่ยวข้อง หรือขอบเขตกว้างเกินกว่าความสามารถในการบริหารจัดการส่งผลให้ระบบขาดประสิทธิภาพ&lt;/p&gt;
+&lt;h3 id=&#34;14-ระบบบรหารจดการความมนคงปลอดภยสารสนเทศ-information-security-management-system&#34;&gt;1.4 ระบบบริหารจัดการความมั่นคงปลอดภัยสารสนเทศ (Information security management system)&lt;/h3&gt;
+&lt;p&gt;จัดทำระบบการจัดการความมั่นคงปลอดภัยสารสนเทศ(ISMS) โดยกำหนดนโยบาย จัดทำเอกสารที่เกี่ยวข้อง นำไปปฏิบัติและรักษาไว้ รวมถึงปรับปรุงอย่างต่อเนื่อง โดยISMSต้องสอดคล้องตามข้อกําหนดของ ISO27001:2013 Information Security Management System&lt;/p&gt;
+&lt;h2 id=&#34;ขอ-2-ภาวะผนา-leadership&#34;&gt;ข้อ 2 ภาวะผู้นํา (Leadership)&lt;/h2&gt;
+&lt;h3 id=&#34;21-ภาวะผนาและการใหความสาคญ-leadership-and-commitment&#34;&gt;2.1 ภาวะผู้นําและการให้ความสําคัญ (Leadership and commitment)&lt;/h3&gt;
+&lt;p&gt;ผู้บริหารระดับสูงต้องแสดงให้เห็นถึงภาวะผู้นําและให้ความสําคัญต่อระบบการจัดการความมั่นคงปลอดภัยสารสนเทศ(&lt;strong&gt;ISMS&lt;/strong&gt;)&lt;/p&gt;
+&lt;h3 id=&#34;22-นโยบาย-policy&#34;&gt;2.2 นโยบาย (Policy)&lt;/h3&gt;
+&lt;p&gt;ผู้บริหารระดับสูงกําหนดนโยบายความมั่นคงปลอดภัยสารสนเทศให้สอดคล้องกับจุดประสงค์ขององค์กรและสอดคล้องกับข้อกำหนด&lt;/p&gt;
+&lt;h3 id=&#34;23-บทบาท-หนาทความรบผดชอบ-และอานาจหนาท-organizational-roles-responsibilities-and-authorities&#34;&gt;2.3 บทบาท หน้าที่ความรับผิดชอบ และอํานาจหน้าที่ (Organizational roles, responsibilities and authorities)&lt;/h3&gt;
+&lt;p&gt;กำหนดหน้าที่และความรับผิดชอบทางด้านความมั่นคงปลอดภัยของสารสนเทศ&lt;/p&gt;
+&lt;h2 id=&#34;ขอ-3-การวางแผน-planning&#34;&gt;ข้อ 3 การวางแผน (Planning)&lt;/h2&gt;
+&lt;h3 id=&#34;31-การดาเนนการเพอจดการกบความเสยงและโอกาส-actions-to-address-risks-and-opportunities&#34;&gt;3.1 การดําเนินการเพื่อจัดการกับความเสี่ยงและโอกาส (Actions to address risks and opportunities)&lt;/h3&gt;
+&lt;p&gt;การวางแผนงานสำหรับระบบการจัดการความมั่นคงปลอดภัยของสารสนเทศ จะต้องพิจารณาถึงบริบทขององค์กร พิจารณาความเสี่ยงที่เกี่ยวข้องจากนั้นวางแนวทางจัดการอย่างเหมาะสม&lt;/p&gt;
+&lt;h3 id=&#34;32-วตถประสงคดานความมนคงปลอดภยสารสนเทศและแผนการบรรลวตถประสงค-information-security-objectives-and-plans-to-achieve-them&#34;&gt;3.2 วัตถุประสงค์ด้านความมั่นคงปลอดภัยสารสนเทศและแผนการบรรลุวัตถุประสงค์ (Information security objectives and plans to achieve them)&lt;/h3&gt;
+&lt;p&gt;กำหนดวัตถุประสงค์ด้านความมั่นคงปลอดภัยสารสนเทศ(&lt;strong&gt;Information Security Objectives&lt;/strong&gt;)และแผนการบรรลุวัตถุประสงค์ โดยวัตถุประสงค์นี้จะต้องวัดผลได้ และสอดคล้องกับนโยบายความมั่นคงปลอดภัยของสารสนเทศ(&lt;strong&gt;Information Security Policy&lt;/strong&gt;)&lt;/p&gt;
+&lt;h2 id=&#34;ขอ-4-การสนบสนน-support&#34;&gt;ข้อ 4 การสนับสนุน (Support)&lt;/h2&gt;
+&lt;h3 id=&#34;41-ทรพยากร-resources&#34;&gt;4.1 ทรัพยากร (Resources)&lt;/h3&gt;
+&lt;p&gt;การทำระบบให้สำเร็จจำเป็นต้องมีทรัพยากรเพียงพอและเหมาะสม ประกอบด้วย บุคลากร เวลา งบประมาณ และการสนับสนุนจากผู้บริหารอย่างเป็นรูปธรรม&lt;/p&gt;
+&lt;h3 id=&#34;42-สมรรถนะ-competence&#34;&gt;4.2 สมรรถนะ (Competence)&lt;/h3&gt;
+&lt;p&gt;บุคลากรที่มีส่วนร่วมในการจัดทำระบบจะต้องมีความรู้ความสามารถ ซึ่งต้องมีการให้ความรู้ที่ตรงกับภาระหน้าที่เพื่อให้บุคลากรสามารถปฏิบัติได้อย่างถูกต้อง&lt;/p&gt;
+&lt;h3 id=&#34;43-การสรางความตระหนก-awareness&#34;&gt;4.3 การสร้างความตระหนัก (Awareness)&lt;/h3&gt;
+&lt;p&gt;ความตระหนักเป็นเรื่องสำคัญในด้านความมั่นคงปลอดภัยของสารสนเทศ เพราะหากบุคลกรมีความตระหนักที่เพียงพอ ย่อมจะลดความเสี่ยงได้โดยปริยาย เช่น เรื่องการใช้รหัสผ่านที่แข็งแรงเดายาก ถ้าบุคลากรมีความตระหนักก็จะเข้าใจและปฏิบัติตามส่งผลการความเสี่ยงลดลง&lt;/p&gt;
+&lt;h3 id=&#34;44-การสอสาร-communication&#34;&gt;4.4 การสื่อสาร (Communication)&lt;/h3&gt;
+&lt;p&gt;การสื่อสารประกอบด้วยสื่อสารภายใน(Internal Communication) และการสื่อสารภายนอก (External Communication) เพื่อให้ความรู้ ข่าวสารที่เป็นประโยชน์ เป็นวิธีในการสร้างความตระหนักที่ได้ผลดี&lt;/p&gt;
+&lt;h3 id=&#34;45-เอกสารสารสนเทศ-documented-information&#34;&gt;4.5 เอกสารสารสนเทศ (Documented information)&lt;/h3&gt;
+&lt;p&gt;เอกสารมีความจำเป็นในการทำงานร่วมกันเพื่อให้เกิดความชัดเจนแก่ผู้ปฏิบัติและผู้ตรวจสอบ (Auditor) เอกสารในระบบISO27001:2013 นั้นจะต้องผ่านการจัดทำโดยผู้ที่มีความรู้ มีผู้ทบทวน และอนุมัติก่อนจะนำไปใช้งาน&lt;/p&gt;
+&lt;h2 id=&#34;ขอ-5-การดาเนนการ-operation&#34;&gt;ข้อ 5 การดําเนินการ (Operation)&lt;/h2&gt;
+&lt;h3 id=&#34;51-การวางแผนทเกยวของกบการดาเนนการและการควบคม-operational-planning-and-control&#34;&gt;5.1 การวางแผนที่เกี่ยวข้องกับการดําเนินการและการควบคุม (Operational planning and control)&lt;/h3&gt;
+&lt;p&gt;ข้อนี้กล่าวถึงการปฏิบัติตามแผนที่วางไว้ โดยลงมือปฏิบัติตามแผนจัดการความเสี่ยง&lt;/p&gt;
+&lt;h3 id=&#34;52-การประเมนความเสยงดานความมนคงปลอดภยสารสนเทศ-information-security-risk-assessment&#34;&gt;5.2 การประเมินความเสี่ยงด้านความมั่นคงปลอดภัยสารสนเทศ (Information security risk assessment)&lt;/h3&gt;
+&lt;p&gt;ประเมินความเสี่ยงต้องทำเป็นระยะ ไม่ใช่ทำครั้งเดียวจบ เพราะเมื่อเวลาผ่านไปก็จะมีความเสี่ยงใหม่เกิดขึ้นมา ไม่ว่าจะเป็นความเสี่ยงจากเทคโนโลยีใหม่ๆ หรือสภาพแวดล้อม สังคมและการเมือง&lt;/p&gt;
+&lt;h3 id=&#34;53-การจดการกบความเสยงดานความมนคงปลอดภยสารสนเทศ-information-security-risk-treatment&#34;&gt;5.3 การจัดการกับความเสี่ยงด้านความมั่นคงปลอดภัยสารสนเทศ (Information security risk treatment)&lt;/h3&gt;
+&lt;p&gt;Information Security Risk Treatment เป็นเครื่องมือการจัดการความเสี่ยงที่จัดทำขึ้นภายหลังการประเมินความเสี่ยงของทรัพย์สินสารสนเทศ โดยกำหนดรายละเอียด ขั้นตอนวิธีการต่างๆ เพื่อนำไปปฏิบัติให้ได้ผลลัพธ์ตามที่กำหนดไว้&lt;/p&gt;
+&lt;h2 id=&#34;ขอ-6-การประเมนประสทธภาพและประสทธผล-performance-evaluation&#34;&gt;ข้อ 6 การประเมินประสิทธิภาพและประสิทธิผล (Performance evaluation)&lt;/h2&gt;
+&lt;h3 id=&#34;61-การเฝาระวง-การวดผล-การวเคราะห-และการประเมน-monitoring-measurement-analysis-and-evaluation&#34;&gt;6.1 การเฝ้าระวัง การวัดผล การวิเคราะห์ และการประเมิน (Monitoring, measurement, analysis and evaluation)&lt;/h3&gt;
+&lt;p&gt;เรื่องสำคัญที่พลาดไม่ได้คือ การเฝ้าระวัง (Monitor) การวัด(measure) การวิเคราะห์( analyze) และการประเมิน(evaluate) performance ของระบบ ทำให้รู้ได้ว่าผลลัพธ์เป็นไปตามที่วางแผนหรือไม่อย่างไร&lt;/p&gt;
+&lt;h3 id=&#34;62-การตรวจประเมนภายใน-internal-audit&#34;&gt;6.2 การตรวจประเมินภายใน (Internal audit)&lt;/h3&gt;
+&lt;p&gt;การตรวจประเมินภายใน (Internal Audit) เป็นเครื่องมือสำคัญที่ทำให้รู้ว่าระบบที่เราจัดทำขึ้นมานั้น มีความสมบูรณ์จัดทำครบถ้วนตามข้อกำหนด มีการนำไปปฏิบัติหรือไม่ และได้ผลลัพธ์เป็นอย่างไร ตรวจสอบความเข้าใจ การปฏิบัติและเอกสารบันทึกที่เกี่ยวข้อง&lt;/p&gt;
+&lt;h3 id=&#34;63-การทบทวนของผบรหาร-management-review&#34;&gt;6.3 การทบทวนของผู้บริหาร (Management review)&lt;/h3&gt;
+&lt;p&gt;Management Review เป็นการประชุมเพื่อรายงานผลของการจัดทำระบบ ISO27001:2013 Information Security Management (ISMS) ต่อผู้บริหารระดับสูง (Top Management) โดยรายงานถึงการเปลี่ยนแปลงภายในและภายนอกที่มีผลกระทบต่อระบบฯ ผลการประเมินความเสี่ยงและการจัดการความเสี่ยง ผลการเฝ้าระวังด้านInformation Security ผลการตรวจประเมินภายใน(Internal Audit) ข้อบกพร่องจากการตรวจประเมินภายใน เป็นต้น&lt;/p&gt;
+&lt;h2 id=&#34;ขอ-7-การปรบปรง-improvement&#34;&gt;ข้อ 7 การปรับปรุง (Improvement)&lt;/h2&gt;
+&lt;h3 id=&#34;71-ความไมสอดคลองและการดาเนนการแกไข-nonconformity-and-corrective-action&#34;&gt;7.1 ความไม่สอดคล้องและการดําเนินการแก้ไข (Nonconformity and corrective action)&lt;/h3&gt;
+&lt;p&gt;การระบุความไม่สอดคล้อง(Nonconformity) และแก้ไขความไม่สอดคล้อง (corrective action) อย่างเป็นระบบ มีผู้รับผิดชอบและมีบันทึกที่เป็นลายลักษณ์อักษรเกี่ยวกับความไม่สอดคล้องและแนวทางการแก้ไข&lt;/p&gt;
+&lt;h3 id=&#34;72-การปรบปรงอยางตอเนอง-continual-improvement&#34;&gt;7.2 การปรับปรุงอย่างต่อเนื่อง (Continual improvement)&lt;/h3&gt;
+&lt;p&gt;ข้อกำหนดระบุให้องค์กรปรับปรุงระบบให้มีความเหมาะสม เพียงพอ และมีการปรับปรุงอย่างต่อเนื่อง&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Reference : &lt;a href=&#34;http://www.club27001.com/2014/02/27001-2013-requirement-overview-part1.html&#34;&gt;http://www.club27001.com/2014/02/27001-2013-requirement-overview-part1.html&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

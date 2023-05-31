@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>การยกเว้นอากรตามภาค 4 on ECS</title>
+    <link>/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B8%81%E0%B9%80%E0%B8%A7%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%A0%E0%B8%B2%E0%B8%84-4/</link>
+    <description>Recent content in การยกเว้นอากรตามภาค 4 on ECS</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>ECS@Support&amp;copy;{year}</copyright>
+    <lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A2%E0%B8%81%E0%B9%80%E0%B8%A7%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%A0%E0%B8%B2%E0%B8%84-4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ประเภท 1 ภาค 4 รายการสุทธินำกลับ</title>
+      <link>/pages/tariff/part-4/1-4/</link>
+      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/tariff/part-4/1-4/</guid>
+      <description>&lt;p&gt;ของที่ส่งออกรวมทั้งของที่ส่งกลับออกไป ซึ่งนำกลับเข้ามา &lt;em&gt;ภายในหนึ่งปีโดยไม่เปลี่ยนแปลงลักษณะหรือรูปแต่ประการใด&lt;/em&gt; และในเวลาที่ส่งออกนั้นได้รับใบสุทธิสำหรับนำกลับเข้ามาแล้วได้รับยกเว้นอากร  ให้ผู้ขอยกเว้นอากร จัดทำและส่งข้อมูลใบขนสินค้าโดยระบุค่าดังนี้&lt;/p&gt;
+&lt;h3 id=&#34;ขาออก&#34;&gt;ขาออก&lt;/h3&gt;
+&lt;blockquote class=&#34;book-hint success&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Re-Importation Certificate = Y (ในส่วนของ Export Declaration Detail)&lt;/li&gt;
+&lt;li&gt;Export Tariff = &lt;strong&gt;1PART4&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Privilege Code = 004&lt;/li&gt;
+&lt;li&gt;Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;ขาเชา&#34;&gt;ขาเช้า&lt;/h3&gt;
+&lt;blockquote class=&#34;book-hint info&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;ระบุ Re - Importation Certificate = Y ที่ส่วนรายการในใบขนสินค้า&lt;/li&gt;
+&lt;li&gt;การสำแดงพิกัดศุลกากรและรหัสสถิติสินค้าให้สำแดงตรงกับชนิดของของที่นำเข้า&lt;/li&gt;
+&lt;li&gt;ระบุ Import Tariff = &lt;strong&gt;1PART4&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;ระบุ Privilege Code = ตามสิทธิ ณ ขณะนำเข้า&lt;/li&gt;
+&lt;li&gt;อัตราอากร ใช้ Tariff Code และ Tariff Sequence&lt;/li&gt;
+&lt;li&gt;อากร ยกเว้น (บันทึก Exemption Rate = 100%)&lt;/li&gt;
+&lt;li&gt;VAT ยกเว้น (บันทึก Exemption Rate = 100%)&lt;/li&gt;
+&lt;li&gt;บันทึกเลขที่ใบขนสินค้าขาออกและรายการที่ของใบขนสินค้าขาออกที่อ้างถึง&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;มูลค่าการนำเข้า CIF = &lt;em&gt;ค่าของ&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;ศกษาเพมเตม&#34;&gt;ศึกษาเพิ่มเติม&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;../../img/1-4.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ประเภท 2 ภาค 4 รายการนำกลับไปซ่อม</title>
+      <link>/pages/tariff/part-4/2-4/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/tariff/part-4/2-4/</guid>
+      <description>&lt;p&gt;ของที่นำเข้ามาในประเทศไทยซึ่งได้เสียอากรไว้ครบถ้วนแล้ว และภายหลังส่งกลับออกไปซ่อม ณ ต่างประเทศ และนำกลับเข้าภายใน&lt;em&gt;หนึ่งปี&lt;/em&gt; หลังจากได้รับใบสุทธินำกลับ จะได้รับยกเว้นเพียงเท่าราคาหรือปริมาณแห่งของเดิมที่ส่งออกไปเท่านั้น สำหรับ &lt;em&gt;ราคาหรือปริมาณที่เพิ่มขึ้น เนื่องจากการซ่อม จะต้องชำระอากรตามพิกัดของของเดิมที่ส่งออกไป&lt;/em&gt; ทั้งนี้ &lt;em&gt;ไม่รวมค่าใช้จ่ายในการขนส่งและการประกันภัย&lt;/em&gt; ให้ผู้ขอยกเว้นอากร จัดทำและส่งข้อมูลใบขนสินค้าโดยระบุค่าดังนี้&lt;/p&gt;
+&lt;h3 id=&#34;ขาออก&#34;&gt;ขาออก&lt;/h3&gt;
+&lt;blockquote class=&#34;book-hint success&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Re-Importation Certificate = Y (ในส่วนของ Export Declaration Detail)&lt;/li&gt;
+&lt;li&gt;Export Tariff = &lt;strong&gt;2PART4&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Privilege Code = 004&lt;/li&gt;
+&lt;li&gt;Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก&lt;/li&gt;
+&lt;li&gt;Declaration No = เลขที่ใบขนสินค้าขาเข้าที่อ้างถึง ซึ่งนําของเข้ามาครั้งแรก&lt;/li&gt;
+&lt;li&gt;Declaration Line Number = รายการในใบขนสินค้าขาเข้าที่อ้างถึง&lt;/li&gt;
+&lt;li&gt;Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;ขาเชา&#34;&gt;ขาเช้า&lt;/h3&gt;
+&lt;p&gt;&lt;blockquote class=&#34;book-hint info&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;ระบุ Re - Importation Certificate = Y ที่ส่วนรายการในใบขนสินค้า&lt;/li&gt;
+&lt;li&gt;การสำแดงพิกัดศุลกากรและรหัสสถิติสินค้าให้สำแดงตรงกับชนิดของของที่นำเข้า&lt;/li&gt;
+&lt;li&gt;ระบุ Import Tariff = &lt;strong&gt;2PART4&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;ระบุ Privilege Code = 000 (ใช้อัตราอากรที่ลดหย่อนเป็นการทั่วไปเท่านั้น)&lt;/li&gt;
+&lt;li&gt;อัตราอากร ใช้ Tariff Code และ Tariff Sequence&lt;/li&gt;
+&lt;li&gt;อากร ชำระตามปกติ&lt;/li&gt;
+&lt;li&gt;VAT ชำระตามปกติ&lt;/li&gt;
+&lt;li&gt;บันทึกเลขที่ใบขนสินค้าขาออกและรายการที่ของใบขนสินค้าขาออกที่อ้างถึง&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&#34;book-hint danger&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;มูลค่าการนำเข้า CIF = &lt;em&gt;ค่าซ่อม&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/blockquote&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ประเภท 3 ภาค 4 สิทธิทัณฑ์บนนำเข้าชั่วคราว</title>
+      <link>/pages/tariff/part-4/3-4/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/tariff/part-4/3-4/</guid>
+      <description>&lt;p&gt;ของนำเข้ามาพร้อมกับตนหรือนำเข้ามาเป็นการชั่วคราว และจะส่งกลับออกไปภายใน&lt;em&gt;ไม่เกิน  6 เดือน&lt;/em&gt; นับตั้งแต่วันที่นำเข้ามา ได้รับยกเว้นอากร&lt;/p&gt;
+&lt;h3 id=&#34;ประเภทของสทธทณฑบนนำเขาชวคราว&#34;&gt;ประเภทของสิทธิทัณฑ์บนนำเข้าชั่วคราว&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;ประเภท&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;รายละเอียดทัณฑ์บนชั่วคราว&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;strong&gt;(ก)&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;ของที่ใช้ในการแสดงละครหรือการแสดงอย่างอื่นที่คล้ายกัน ซึ่งผู้แสดงที่ท่องเที่ยวนำเข้ามา&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;strong&gt;(ข)&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;เครื่องประกอบและของใช้ในการทดลอง หรือการแสดงเพื่อวิทยาศาสตร์ หรือการศึกษา ซึ่งบุคคลที่เข้ามาในราชอาณาจักรเป็นการชั่วคราวนำเข้ามาเพื่อจัดการทดลองหรือแสดง&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;strong&gt;(ค)&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;รถสำหรับเดินบนถนน เรือและอากาศยาน บรรดาที่เจ้าของนำเข้ามาพร้อมกับตน&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;strong&gt;(ง)&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;เครื่องถ่ายรูปและเครื่องบันทึกเสียง ซึ่งบุคคลที่เข้ามาในราชอาณาจักรเป็นการชั่วคราวนำเข้ามาเพื่อใช้ถ่ายรูปหรือบันทึกเสียงต่างๆ แต่ฟิล์มและแผ่นสำหรับถ่ายรูปหรือสิ่งที่ใช้บันทึกเสียง ซึ่งนำมาใช้ในการนี้ ต้องเป็นไปตามเงื่อนไข และปริมาณที่รัฐมนตรีว่าการกระทรวงการคลังกำหนด&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;strong&gt;(จ)&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;อาวุธปืนและกระสุนปืน ซึ่งบุคคลที่เข้ามาในราชอาณาจักรเป็นการชั่วคราวนำเข้ามา  พร้อมกับตน&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;strong&gt;(ฉ)&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;ของที่นำเข้ามาเป็นการชั่วคราว  โดยมุ่งหมายจะแสดงในงานสาธารณะที่เปิดให้ประชาชนดูได้ทั่วไป&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;strong&gt;(ช)&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;ของที่นำเข้ามาเพื่อซ่อม แต่ต้องปฏิบัติภายในเงื่อนไขที่อธิบดีกรมศุลกากรกำหนด&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;strong&gt;(ซ)&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;ตัวอย่างสินค้า นอกจากที่ระบุไว้ในประเภทที่ 14 ซึ่งบุคคลที่เข้ามาในราชอาณาจักรเป็นการชั่วคราว นำเข้ามาพร้อมกับตนและมีสภาพ ซึ่งเมื่อจะส่งกลับออกไปสามารถตรวจได้แน่นอนว่า เป็นของอันเดียวกับที่นำเข้ามา แต่ต้องมีปริมาณ หรือค่าซึ่งเมื่อรวมกันเข้าแล้วไม่เกินกว่าที่จะเห็นได้ว่าเป็นตัวอย่างตามธรรมดา&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;strong&gt;(ญ)&lt;/strong&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;เครื่องมือ และสิ่งประกอบสำหรับงานก่อสร้าง งานพัฒนาการ รวมทั้งกิจการชั่วคราวอย่างอื่นตามที่อธิบดีกรมศุลกากรจะเห็นสมควร โดยให้ได้รับยกเว้นเพียงเท่าเงินอากรที่จะพึงเสียในขณะนำเข้าหักด้วยจำนวนเงินอากรที่คำนวณตามระยะเวลาที่ของนั้นอยู่ในประเทศ ในอัตราร้อยละ 1 ต่อเดือนของจำนวนอากรที่จะพึงต้องเสียในขณะนำเข้า ในการคำนวณให้นับเศษของเดือนเป็น 1 เดือน และจะต้องชำระอากรก่อนส่งกลับออกไป&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;ให้ผู้ขอยกเว้นอากร จัดทำและส่งข้อมูลใบขนสินค้าโดยระบุค่าดังนี้&lt;/p&gt;
+&lt;h3 id=&#34;ขาออก&#34;&gt;ขาออก&lt;/h3&gt;
+&lt;blockquote class=&#34;book-hint success&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Re-Export = Y (ในส่วนของ Export Declaration Detail)&lt;/li&gt;
+&lt;li&gt;Privilege Code = 004&lt;/li&gt;
+&lt;li&gt;Export Tariff = &lt;strong&gt;3PART4&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก&lt;/li&gt;
+&lt;li&gt;Declaration No = เลขที่ใบขนสินค้าขาเข้าที่อ้างถึง ซึ่งนําของเข้ามาตามมาตรา 28&lt;/li&gt;
+&lt;li&gt;Declaration Line Number = รายการในใบขนสินค้าขาเข้าที่อ้างถึง&lt;/li&gt;
+&lt;li&gt;Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;ขาเชา&#34;&gt;ขาเช้า&lt;/h3&gt;
+&lt;p&gt;&lt;blockquote class=&#34;book-hint info&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;ระบุ Import Tariff = &lt;strong&gt;3PART4&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;ระบุ Privilege Code = ตามสิทธิ ณ ขณะนำเข้า&lt;/li&gt;
+&lt;li&gt;อัตราอากร ใช้ Tariff Code และ Tariff Sequence&lt;/li&gt;
+&lt;li&gt;อากร ยกเว้น (บันทึก Exemption Rate = 100%)&lt;/li&gt;
+&lt;li&gt;VAT ยกเว้น (บันทึก Exemption Rate = 100%)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&#34;book-hint danger&#34;&gt;
+  &lt;strong&gt;การกำหนดค่าวางเงินประกัน&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;(วางประกันที่ด่านศุลกากร ไม่ต้องบันทึกในโปรแกรม)&lt;/em&gt;&lt;/strong&gt;
+&lt;/blockquote&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;ให้วางเป็นสัญญาประกันทัณฑ์บนเพื่อการปฏิบัติพิธีการ&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;คำนวณจาก ค่าภาษีอากรอันพึงจะต้องชำระตามปกติ แล้วคำนวณเงินเพิ่มอีก&lt;em&gt;ร้อยละ 20&lt;/em&gt; ของเงินภาษีอากรที่ได้ประเมินไว้ และรวมกำหนดเป็นเงินประกัน&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ให้ยื่นคำร้องต่อหน่วยงานศุลกากร &lt;em&gt;ณ ด่านศุลกากร ที่นำของเข้า&lt;/em&gt; โดยระบุเลขที่ใบขนสินค้าขาเข้า ที่ของใช้สิทธิตามประเภทที่ 3 ภาค 4 เพื่อตรวจสอบการใช้สิทธิในการนำของที่นำเข้ามาเป็นการชั่วคราว และจะต้องแสดงหลักฐานให้เป็นที่พอใจว่า นำเข้ามาใช้ประโยชน์ในกิจการตามที่ระบุไว้ ตามพิกัดอัตราศุลกากรแต่ละประเภท&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;การวางเป็นสัญญาประกันทัณฑ์บนเพื่อการปฏิบัติพิธีการ&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;โดยให้คำนวณเงินเพิ่มอีกร้อยละ 20 ของเงินภาษีอากรที่ได้ประเมินไว้  การวางประกันรูปแบบนี้ ปัจจุบันยังไม่สามารถบันทึกในระบบใบขนสินค้าขาเข้าได้ การวางประกันผู้นำเข้าต้องติดต่อหน่วยงานศุลกากร ณ ด่านศุลกากร ที่นำของเข้า&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ประเภท 5 ภาค 4 สิทธิของใช้ส่วนตัว (ของส่วนตัว)</title>
+      <link>/pages/tariff/part-4/5-4/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/tariff/part-4/5-4/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;ของส่วนตัว ที่เจ้าของนำเข้ามาพร้อมกับตนสำหรับใช้เองหรือใช้ในวิชาชีพ และมีจำนวนพอสมควรแก่ฐานะ ได้รับยกเว้นอากร &lt;strong&gt;&lt;em&gt;เว้นแต่ รถยนต์ อาวุธปืนและกระสุนปืน และเสบียง&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;สุรา หรือ CIGARETTE หรือ CIGAR หรือยาเส้น&lt;/strong&gt; ซึ่งเป็นของส่วนตัวที่ผู้เดินทางนำเข้ามาพร้อมกับตนนั้น ยกเว้นอากรให้ได้ แต่ต้องไม่เกินปริมาณ ดังนี้
+&lt;blockquote class=&#34;book-hint danger&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;CIGARETTE &lt;em&gt;200 มวน&lt;/em&gt; หรือ CIGAR หรือยาเส้น อย่างละ &lt;em&gt;250 กรัม&lt;/em&gt; หรือหลายชนิดรวมกันมีน้ำหนัก ทั้งหมด 250 กรัม แต่ทั้งนี้ CIGARETTE ต้องไม่เกิน 200 มวน&lt;/li&gt;
+&lt;li&gt;สุรา &lt;em&gt;1 ลิตร&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;ของส่วนตัวตามประเภทที่ 5 จะต้องนำเข้ามาถึงประเทศไทยไม่เกิน 1 เดือนก่อนที่ผู้นำของเข้ามาถึง หรือไม่เกิน 6 เดือนนับแต่วันที่ผู้นำของเข้าเข้ามาถึง อธิบดีกรมศุลกากรมีอำนาจขยายกำหนดเวลาที่กล่าวข้างต้นได้ เมื่อเห็นว่ามีพฤติการณ์พิเศษ&lt;/li&gt;
+&lt;li&gt;บุคคลซึ่งจะได้รับการพิจารณายกเว้นอากรของใช้ส่วนตัว ประเภทที่ 5 ภาค 4 ได้แก่ คนต่างด้าว หรือคนไทยที่เดินทางไปมา ระหว่างประเทศไม่ว่าจะเป็นการชั่วคราว หรือเป็นการย้ายภูมิลำเนาแต่สิ่งของนั้นจะต้องมีจำนวนพอสมควรแก่ฐานะของบุคคลนั้นๆ ถ้ามีจำนวนมากมายเกินสมควร ก็จะยกเว้นค่าอากรให้ไม่ได้ จะต้องพิจารณาตามความเหมาะสมแก่ฐานะของบุคคลเป็นราย ๆ ไป&lt;/li&gt;
+&lt;li&gt;ให้ผู้ได้รับยกเว้นอากรจัดทำและส่งข้อมูลใบขนสินค้าขาเข้า โดยระบุค่าดังนี้&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ขาเชา&#34;&gt;ขาเช้า&lt;/h3&gt;
+&lt;blockquote class=&#34;book-hint info&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;การสำแดงพิกัดศุลกากรและรหัสสถิติสินค้าให้สำแดงตรงกับชนิดของของที่นำเข้า&lt;/li&gt;
+&lt;li&gt;ระบุ Import Tariff = &lt;strong&gt;5PART4&lt;/strong&gt; (ของส่วนตัวที่เจ้าของนำเข้ามาพร้อมกับตน)&lt;/li&gt;
+&lt;li&gt;ระบุ Privilege Code = ตามสิทธิ ณ ขณะนำเข้า&lt;/li&gt;
+&lt;li&gt;อัตราอากร ใช้ Tariff Code และ Tariff Sequence&lt;/li&gt;
+&lt;li&gt;อากร ยกเว้น (บันทึก Exemption Rate = 100%)&lt;/li&gt;
+&lt;li&gt;VAT ยกเว้น (บันทึก Exemption Rate = 100%)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ให้ยื่นคำร้องต่อหน่วยงานศุลกากร ณ ด่านศุลกากร ที่นำของเข้า โดยระบุเลขที่ใบขนสินค้าขาเข้าที่ของใช้สิทธิตามประเภท 5 ภาค 4 เพื่อตรวจสอบการใช้สิทธิในการยกเว้นอากรของใช้ส่วนตัว&lt;/li&gt;
+&lt;li&gt;การยกเว้นอากรของส่วนตัวที่ผู้โดยสารนำเข้ามาพร้อมกับตน ตามพิกัดประเภทที่ 5 ภาค 4  &lt;em&gt;ไม่ต้องจัดทำใบขนสินค้าขาเข้า กรณี&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote class=&#34;book-hint warning&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;ของส่วนตัวที่ผู้โดยสารถือติดตัวเข้ามาพร้อมกับตน (ACCOMPANIED BAGGAGE) จากต่างประเทศทางอากาศยาน มีราคาไม่เกิน 20,000 บาท ให้ได้รับยกเว้นอากร ทั้งนี้ ไม่รวมถึงของที่นำติดตัวเข้ามา แต่มีลักษณะเป็นสินค้าในเชิงการค้า แม้ราคาไม่เกิน 20,000 บาท ก็ตาม&lt;/li&gt;
+&lt;li&gt;สุรา หรือ CIGARETTE หรือ CIGAR หรือยาเส้น ซึ่งเป็นของส่วนตัวที่ผู้โดยสารถือติดตัวเข้ามาพร้อมกับตนให้ได้รับยกเว้นอากรต่อเมื่อไม่เกินปริมาณ ดังต่อไปนี้
+&lt;ul&gt;
+&lt;li&gt;CIGARETTE 200 มวน หรือ CIGAR หรือยาเส้น อย่างละ 250 กรัม หรือ หลายชนิดรวมกันมีน้ำหนักทั้งหมด 250 กรัม แต่ทั้งนี้ CIGARETTE ต้องไม่เกิน 200 มวน&lt;/li&gt;
+&lt;li&gt;สุรา 1 ลิตร&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/blockquote&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>การยกเว้นอากรตามภาค 4 แห่งพระราชกำหนดพิกัดอัตราศุลกากร พ.ศ. 2530</title>
+      <link>/pages/tariff/part-4/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/tariff/part-4/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../img/part-4.png&#34; alt=&#34;การยกเว้นอากรตามภาค 4&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ประเภท 6 ภาค 4 สิทธิของใช้ส่วนตัว (ของใช้ในบ้านเรือนที่ใช้แล้ว)</title>
+      <link>/pages/tariff/part-4/6-4/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/tariff/part-4/6-4/</guid>
+      <description>&lt;p&gt;&lt;em&gt;ของใช้ในบ้านเรือนที่ใช้แล้ว&lt;/em&gt; &lt;strong&gt;ที่เจ้าของนำเข้ามาพร้อมกับตน เนื่องในการย้ายภูมิลำเนาและมีจำนวนพอสมควรแก่ฐานะ&lt;/strong&gt; ได้รับยกเว้นอากร ของใช้ในบ้านเรือนตามประเภทที่ 6 จะต้องนำเข้ามาถึงประเทศไทย&lt;strong&gt;ไม่เกิน 1 เดือน&lt;/strong&gt;ก่อนที่ผู้นำของเข้ามาถึง หรือ&lt;strong&gt;ไม่เกิน 6 เดือนนับแต่วันที่ผู้นำของเข้าเข้ามาถึง&lt;/strong&gt; ให้ผู้ได้รับยกเว้นอากร จัดทำและส่งข้อมูลใบขนสินค้าขาเข้า โดยระบุค่าดังนี้&lt;/p&gt;
+&lt;h3 id=&#34;ขาเชา&#34;&gt;ขาเช้า&lt;/h3&gt;
+&lt;blockquote class=&#34;book-hint info&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;การสำแดงพิกัดศุลกากรและรหัสสถิติสินค้าให้สำแดงตรงกับชนิดของของที่นำเข้า&lt;/li&gt;
+&lt;li&gt;ระบุ Import Tariff = &lt;strong&gt;6PART4&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;ระบุ Privilege Code = ตามสิทธิ ณ ขณะนำเข้า&lt;/li&gt;
+&lt;li&gt;อัตราอากร ใช้ Tariff Code และ Tariff Sequence&lt;/li&gt;
+&lt;li&gt;อากร ยกเว้น (บันทึก Exemption Rate = 100%)&lt;/li&gt;
+&lt;li&gt;VAT ยกเว้น (บันทึก Exemption Rate = 100%)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/blockquote&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>ประเภท 7 ภาค 4 สิทธิของนำเข้าส่วนประกอบและอุปกรณ์ประกอบของอากาศยานหรือเรือ</title>
+      <link>/pages/tariff/part-4/7-4/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/tariff/part-4/7-4/</guid>
+      <description>&lt;p&gt;ของที่นำเข้ามาเพื่อใช้ซ่อมสร้างอากาศยานหรือเรือจะได้รับการยกเว้นอาการสำหรับส่วนประกอบ อุปกรณ์ประกอบ วัสดุที่นำเข้ามาเพื่อใช้ซ่อมหรือสร้างอากาศยาน หรือส่วนของอากาศยาน ให้ผู้ได้รับยกเว้นอากรจัดทำและส่งข้อมูลใบขนสินค้าขาเข้า โดยระบุค่าดังนี้&lt;/p&gt;
+&lt;h3 id=&#34;ขาเชา&#34;&gt;ขาเช้า&lt;/h3&gt;
+&lt;blockquote class=&#34;book-hint info&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;การสำแดงพิกัดศุลกากรและรหัสสถิติสินค้าให้สำแดงตรงกับชนิดของของที่นำเข้า&lt;/li&gt;
+&lt;li&gt;ระบุ Import Tariff = &lt;strong&gt;7PART4&lt;/strong&gt; (ของซ่อมสร้างอากาศยานหรือเรือ)&lt;/li&gt;
+&lt;li&gt;ระบุ Privilege Code = ตามสิทธิ ณ ขณะนำเข้า&lt;/li&gt;
+&lt;li&gt;อัตราอากร ใช้ Tariff Code และ Tariff Sequence&lt;/li&gt;
+&lt;li&gt;อากร ยกเว้น (บันทึก Exemption Rate = 100%)&lt;/li&gt;
+&lt;li&gt;VAT ยกเว้น (บันทึก Exemption Rate = 100%)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/blockquote&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>ประเภท 10 ภาค 4 สิทธิของนำเข้าที่ได้รับเอกสิทธิ์</title>
+      <link>/pages/tariff/part-4/10-4/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/tariff/part-4/10-4/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../../img/10-4_2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ของที่ได้รับเอกสิทธิ์&lt;/strong&gt; ตามข้อผูกพันที่ประเทศไทยมีอยู่ต่อองค์การสหประชาชาติ หรือตามกฎหมายระหว่างประเทศ หรือตามสัญญากับนานาประเทศ หรือทางการทูต ซึ่งได้ปฏิบัติต่อกันโดยอัธยาศัยไมตรี ได้รับยกเว้นอากร&lt;/p&gt;
+&lt;p&gt;กองพิกัดอัตราศุลกากร โดยฝ่ายมาตรฐานพิกัดอัตราศุลกากรที่ 3.2 ส่วนมาตรฐานพิกัดอัตราศุลกากร 3 มีภารกิจหน้าที่ และความรับผิดชอบในการพิจารณาคำขออนุมัติยกเว้นอากรตามประเภท 10 เฉพาะกรณี&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;กรณีของที่ได้รับเอกสิทธิ์ตามข้อผูกพันที่ประเทศไทยมีอยู่กับองค์การสหประชาชาติ หรือองค์การระหว่างประเทศ หรือตามกฎหมายระหว่างประเทศ หรือตามสัญญากับนานาประเทศ หรือตามความตกลงที่ประเทศไทยมีกับองค์การต่างประเทศเป็นการเฉพาะ ซึ่งไม่ผ่านกระทรวงการต่างประเทศ.&lt;/li&gt;
+&lt;li&gt;กรณีของที่คณะกรรมการพิจารณายกเว้นอากรนำเข้าสื่อ วัสดุ เครื่องมือ และอุปกรณ์ทางการศึกษา ภายใต้ความตกลงเกี่ยวกับการนำเข้ามาซึ่งอุปกรณ์การศึกษา วิทยาศาสตร์ และวัฒนธรรม (The Florence Agreement) ซึ่งเป็นไปตามข้อตกลงที่ประเทศไทยมีต่อองค์การศึกษา วิทยาศาสตร์ และวัฒนธรรมแห่งสหประชาชาติ (UNESCO) ได้พิจารณาและจะแจ้งมติผลการพิจารณาต่อกรมศุลกากร เพื่อขอยกเว้นอากร.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;เมื่อฝ่ายมาตรฐานพิกัดอัตราศุลกากรที่ 3.2 ส่วนมาตรฐานพิกัดอัตราศุลกากร 3 ได้พิจารณาคำขออนุมัติยกเว้นอากรแล้ว จะมีหนังสือแจ้งผลการพิจารณายกเว้นอากรตามประเภท 10 ภาค 4 ให้กับหน่วยงานที่ยื่นขอยกเว้นอากร และแจ้งผลการพิจารณา ไปยังสำนักงานศุลกากร หรือ ด่านศุลกากร ณ ท่าหรือที่ ที่นำของเข้าเพื่อปฏิบัติพิธีการศุลกากรต่อไป ให้ผู้ได้รับยกเว้นอากรจัดทำและส่งข้อมูลใบขนสินค้าขาเข้า โดยระบุค่าดังนี้&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../img/10-4_1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;ขาเชา&#34;&gt;ขาเช้า&lt;/h3&gt;
+&lt;blockquote class=&#34;book-hint info&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;การสำแดงพิกัดศุลกากรและรหัสสถิติสินค้าให้สำแดงตรงกับชนิดของของที่นำเข้า&lt;/li&gt;
+&lt;li&gt;ระบุ Import Tariff = &lt;strong&gt;10PART4&lt;/strong&gt; (ของที่ได้รับเอกสิทธิ์)&lt;/li&gt;
+&lt;li&gt;ระบุ Privilege Code = ตามสิทธิ ณ ขณะนำเข้า&lt;/li&gt;
+&lt;li&gt;อัตราอากร ใช้ Tariff Code และ Tariff Sequence&lt;/li&gt;
+&lt;li&gt;อากร ยกเว้น (บันทึก Exemption Rate = 100%)&lt;/li&gt;
+&lt;li&gt;VAT ยกเว้น (บันทึก Exemption Rate = 100%)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/blockquote&gt;
+
+&lt;p&gt;กรณีจัดทำ &lt;strong&gt;คำร้องขอรับของไปก่อน&lt;/strong&gt; แทนการจัดทำใบขนสินค้าขาเข้า&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;กรณีมีความจำเป็นต้องนำออกไปจากอารักขาของศุลกากรโดยรีบด่วน&lt;/li&gt;
+&lt;li&gt;ยังไม่สามารถดำเนินการเรื่องยกเว้นอากรได้แล้วเสร็จ&lt;/li&gt;
+&lt;li&gt;ให้วางเงินสด หรือหนังสือค้ำประกันของธนาคาร หรือหนังสือของส่วนราชการเพื่อเป็นการประกันค่าภาษีอากร&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;ให้ผู้นำเข้าจัดทำและส่งข้อมูลคำร้องขอรับของไปก่อน โดยระบุค่าดังนี้&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;คำรองขอรบของไปกอน&#34;&gt;คำร้องขอรับของไปก่อน&lt;/h2&gt;
+&lt;blockquote class=&#34;book-hint warning&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Document Type = 3&lt;/em&gt; (คำร้องขอรับของไปก่อน)&lt;/li&gt;
+&lt;li&gt;การสำแดงพิกัดศุลกากรและรหัสสถิติสินค้าให้สำแดงตรงกับชนิดของของที่นำเข้า&lt;/li&gt;
+&lt;li&gt;ระบุ Import Tariff = &lt;strong&gt;10PART4&lt;/strong&gt; (ของที่ได้รับเอกสิทธิ์)&lt;/li&gt;
+&lt;li&gt;ระบุ Privilege Code = ตามสิทธิ ณ ขณะนำเข้า&lt;/li&gt;
+&lt;li&gt;อัตราอากร ใช้ Tariff Code และ Tariff Sequence&lt;/li&gt;
+&lt;li&gt;การวางประกัน ให้บันทึกเงินวางประกันในช่อง Deposit Amount&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/blockquote&gt;
+
+&lt;blockquote class=&#34;book-hint success&#34;&gt;
+  &lt;strong&gt;สอบถามข้อมูลเพิ่มเติมได้ที่ :&lt;/strong&gt;&lt;br&gt;
+ส่วนมาตรฐานพิกัดอัตราศุลกากร 3 (สพศ. 3) กองพิกัดอัตราศุลกากร (กพก.)&lt;br&gt;
+หมายเลขโทรศัพท์ : 02-667-6411, 02-667-7205, 02-667-6423, 02-667-7000 ต่อ 20-5913
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/list_strc_simple_step.php?ini_content=customs_tariff_exemption_01&amp;amp;ini_menu=menu_interest_and_law_160421_01&amp;amp;lang=th&amp;amp;root_left_menu=menu_customs_tariff_exemption&amp;amp;left_menu=menu_customs_tariff_exemption_01&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ประเภท 11 ภาค 4 สิทธิของนำเข้ามาเพื่อบริจาค</title>
+      <link>/pages/tariff/part-4/11-4/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/tariff/part-4/11-4/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../../img/11-4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;ของที่นำเข้ามาหรือส่งออกไปเพื่อบริจาคเป็นสาธารณกุศลแก่ประชาชนโดยผ่านส่วนราชการหรือองค์การสาธารณกุศล &lt;em&gt;(ยกเว้นรถยนต์)&lt;/em&gt; ได้รับยกเว้นอากร ให้ผู้ได้รับยกเว้นอากรจัดทำและส่งข้อมูลใบขนสินค้าขาเข้า โดยระบุค่าดังนี้&lt;/p&gt;
+&lt;h3 id=&#34;ขาเชา&#34;&gt;ขาเช้า&lt;/h3&gt;
+&lt;blockquote class=&#34;book-hint info&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;การสำแดงพิกัดศุลกากรและรหัสสถิติสินค้าให้สำแดงตรงกับชนิดของของที่นำเข้า&lt;/li&gt;
+&lt;li&gt;ระบุ Import Tariff = &lt;strong&gt;11PART4&lt;/strong&gt; (ของบริจาค)&lt;/li&gt;
+&lt;li&gt;ระบุ Privilege Code = ตามสิทธิ ณ ขณะนำเข้า&lt;/li&gt;
+&lt;li&gt;อัตราอากร ใช้ Tariff Code และ Tariff Sequence&lt;/li&gt;
+&lt;li&gt;อากร ยกเว้น (บันทึก Exemption Rate = 100%)&lt;/li&gt;
+&lt;li&gt;VAT ยกเว้น (บันทึก Exemption Rate = 100%)&lt;/li&gt;
+&lt;li&gt;ระบุ Permit No = เลขที่ขอยกเว้นอากร ที่ได้รับ&lt;/li&gt;
+&lt;li&gt;VAT ยกเว้น (บันทึก Exemption Rate = 100%)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/blockquote&gt;
+
+&lt;p&gt;กรณีจัดทำ&lt;strong&gt;คำร้องขอรับของไปก่อน&lt;/strong&gt; แทนการจัดทำใบขนสินค้าขาเข้า&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;กรณีมีความจำเป็นต้องนำออกไปจากอารักขาของศุลกากรโดยรีบด่วน&lt;/li&gt;
+&lt;li&gt;ยังไม่สามารถดำเนินการเรื่องยกเว้นอากรได้แล้วเสร็จ&lt;/li&gt;
+&lt;li&gt;ให้วางเงินสด หรือหนังสือค้ำประกันของธนาคาร หรือหนังสือของส่วนราชการเพื่อเป็นการประกันค่าภาษีอากร&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;ให้ผู้นำเข้าจัดทำและส่งข้อมูลคำร้องขอรับของไปก่อน โดยระบุค่าดังนี้&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;คำรองขอรบของไปกอน&#34;&gt;คำร้องขอรับของไปก่อน&lt;/h2&gt;
+&lt;blockquote class=&#34;book-hint warning&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Document Type = 3&lt;/em&gt; (คำร้องขอรับของไปก่อน)&lt;/li&gt;
+&lt;li&gt;การสำแดงพิกัดศุลกากรและรหัสสถิติสินค้าให้สำแดงตรงกับชนิดของของที่นำเข้า&lt;/li&gt;
+&lt;li&gt;ระบุ Import Tariff = &lt;strong&gt;11PART4&lt;/strong&gt; (ของบริจาค)&lt;/li&gt;
+&lt;li&gt;ระบุ Privilege Code = ตามสิทธิ ณ ขณะนำเข้า&lt;/li&gt;
+&lt;li&gt;อัตราอากร ใช้ Tariff Code และ Tariff Sequence&lt;/li&gt;
+&lt;li&gt;การวางประกัน ให้บันทึกเงินวางประกันในช่อง Deposit Amount&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/blockquote&gt;
+
+&lt;p&gt;กองพิกัดอัตราศุลกากร โดยฝ่ายมาตรฐานพิกัดอัตราศุลกากรที่ 3.2 ส่วนมาตรฐานพิกัดอัตราศุลกากร 3 มีภารกิจหน้าที่ และความรับผิดชอบในการพิจารณาคำขออนุมัติยกเว้นอากรตามประเภท 11 ในทุกกรณี เมื่อฝ่ายมาตรฐานพิกัดอัตราศุลกากรที่ 3.2 ส่วนมาตรฐานพิกัดอัตราศุลกากร 3 ได้พิจารณาคำขออนุมัติยกเว้นอากรแล้ว จะมีหนังสือแจ้งผลการพิจารณายกเว้นอากรตามประเภท 11 ภาค 4 ให้กับส่วนราชการหรือองค์การสาธารณกุศลที่ยื่นขอยกเว้นอากร และแจ้งผล การพิจารณา ไปยังสำนักงานศุลกากร หรือด่านศุลกากร ณ ท่าหรือที่ที่นำของเข้าเพื่อปฏิบัติพิธีการศุลกากรต่อไป&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;กฎหมาย/ระเบียบที่เกี่ยวข้อง&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ประกาศกรมศุลกากร ที่ 81/.2551 เรื่อง &lt;a href=&#34;../2551-81.pdf&#34;&gt;หลักเกณฑ์และเงื่อนไขสำหรับของตามภาค 4 ประเภท 11&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ประกาศกรมศุลกากร ที่ 190/.2561  เรื่อง &lt;a href=&#34;../2561-190.pdf&#34;&gt;หลักเกณฑ์ วิธีการ และเงื่อนไขเกี่ยวกับการยกเว้นอากรของตามประเภท 11 ของภาค 4 แห่งพระราชกำหนดพิกัดอัตราศุลกากร พ.ศ. 2530&lt;/a&gt; ลงวันที่ 31 กรกฎาคม 2561.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;สอบถามข้อมูลเพิ่มเติมได้ที่ : ส่วนมาตรฐานพิกัดอัตราศุลกากร 3 (สพศ. 3) กองพิกัดอัตราศุลกากร (กพก.) หมายเลขโทรศัพท์ : 02-667-6411, 02-667-7205, 02-667-6419&lt;/li&gt;
+&lt;li&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/list_strc_simple_step.php?ini_content=customs_tariff_exemption_02&amp;amp;ini_menu=menu_interest_and_law_160421_01&amp;amp;lang=th&amp;amp;root_left_menu=menu_customs_tariff_exemption&amp;amp;left_menu=menu_customs_tariff_exemption_02&#34;&gt;กรมศลุกากร&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;วันที่ปรับปรุงล่าสุด : 9 กรกฎาคม 2563&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ประเภท 13 ภาค 4 ยุทธภัณฑ์ที่ใช้ในราชการ</title>
+      <link>/pages/tariff/part-4/13-4/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/tariff/part-4/13-4/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../../img/13-4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ให้ผู้ได้รับยกเว้นอากรจัดทำและส่งข้อมูลใบขนสินค้าขาเข้า โดยระบุค่าดังนี้&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;ขาเชา&#34;&gt;ขาเช้า&lt;/h3&gt;
+&lt;blockquote class=&#34;book-hint info&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;การสำแดงพิกัดศุลกากรและรหัสสถิติสินค้าให้สำแดงตรงกับชนิดของของที่นำเข้า&lt;/li&gt;
+&lt;li&gt;ระบุ Import Tariff = &lt;strong&gt;13PART4&lt;/strong&gt; (ยุทธภัณฑ์ที่ใช้ในราชการ)&lt;/li&gt;
+&lt;li&gt;ระบุ Privilege Code = ตามสิทธิ ณ ขณะนำเข้า&lt;/li&gt;
+&lt;li&gt;อัตราอากร ใช้ Tariff Code และ Tariff Sequence&lt;/li&gt;
+&lt;li&gt;อากร ยกเว้น (บันทึก Exemption Rate = 100%)&lt;/li&gt;
+&lt;li&gt;VAT ยกเว้น (บันทึก Exemption Rate = 100%)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;กรณีจัดทำคำร้องขอรับของไปก่อน แทนการจัดทำใบขนสินค้าขาเข้า&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;กรณีมีความจำเป็นต้องนำออกไปจากอารักขาของศุลกากรโดยรีบด่วน&lt;/li&gt;
+&lt;li&gt;ยังไม่สามารถดำเนินการเรื่องยกเว้นอากรได้แล้วเสร็จ&lt;/li&gt;
+&lt;li&gt;ให้วางเงินสด หรือหนังสือค้ำประกันของธนาคาร หรือหนังสือของส่วนราชการเพื่อเป็นการประกันค่าภาษีอากร&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;ให้ผู้นำเข้าจัดทำและส่งข้อมูลคำร้องขอรับของไปก่อน โดยระบุค่าดังนี้&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;คำรองขอรบของไปกอน&#34;&gt;คำร้องขอรับของไปก่อน&lt;/h2&gt;
+&lt;blockquote class=&#34;book-hint warning&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Document Type = 3&lt;/em&gt; (คำร้องขอรับของไปก่อน)&lt;/li&gt;
+&lt;li&gt;การสำแดงพิกัดศุลกากรและรหัสสถิติสินค้าให้สำแดงตรงกับชนิดของของที่นำเข้า&lt;/li&gt;
+&lt;li&gt;ระบุ Import Tariff = &lt;strong&gt;13PART4&lt;/strong&gt; (ยุทธภัณฑ์ที่ใช้ในราชการ)&lt;/li&gt;
+&lt;li&gt;ระบุ Privilege Code = ตามสิทธิ ณ ขณะนำเข้า&lt;/li&gt;
+&lt;li&gt;อัตราอากร ใช้ Tariff Code และ Tariff Sequence&lt;/li&gt;
+&lt;li&gt;การวางประกัน ให้บันทึกเงินวางประกันในช่อง Deposit Amount&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/blockquote&gt;
+
+&lt;hr&gt;
+&lt;p&gt;กองพิกัดอัตราศุลกากร โดยฝ่ายมาตรฐานพิกัดอัตราศุลกากรที่ 3.2 ส่วนมาตรฐานพิกัดอัตราศุลกากร 3 มีภารกิจหน้าที่ และความรับผิดชอบในการพิจารณาคำขออนุมัติยกเว้นอากรตามประเภท 13 เฉพาะกรณี.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;กรณีของนั้นระบุไว้ชัดแจ้งในบัญชีรายการยุทธภัณฑ์ แต่มิได้นำเข้าโดยกระทรวงกลาโหม สำนักงานตำรวจแห่งชาติ กรมศุลกากร กรมสรรพสามิต กรมการปกครอง หรือคู่สัญญากับส่วนราชการดังกล่าว.&lt;/li&gt;
+&lt;li&gt;กรณีของนั้นไม่ระบุไว้ชัดแจ้งในบัญชีรายการยุทธภัณฑ์ แม้เป็นชนิดของที่กรมศุลกากรเคยอนุมัติไปแล้วก็ตาม ให้สำนักงานศุลกากรหรือด่านศุลกากรที่ของนำเข้าเสนอเรื่องพร้อมความเห็นไปยังกองพิกัดอัตราศุลกากร พิจารณาอนุมัติเป็นราย ๆ ไป.&lt;/li&gt;
+&lt;li&gt;ของที่มีปัญหาและไม่อาจพิจารณาได้ ให้สำนักงานศุลกากรหรือด่านศุลกากรที่ของนำเข้า ส่งเรื่องพร้อมระบุปัญหาและความเห็น ให้กองพิกัดอัตราศุลกากร พิจารณาเสนออธิบดีกรมศุลกากร เพื่อพิจารณาต่อไป&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;เมื่อฝ่ายมาตรฐานพิกัดอัตราศุลกากรที่ 3.2 ส่วนมาตรฐานพิกัดอัตราศุลกากร 3 ได้พิจารณาคำขออนุมัติยกเว้นอากรแล้ว จะมีหนังสือแจ้งผลการพิจารณายกเว้นอากรตามประเภท 13 ภาค 4 ไปยังสำนักงานศุลกากร หรือด่านศุลกากร ณ ท่าหรือที่ที่นำของเข้าเพื่อปฏิบัติพิธีการศุลกากรต่อไป&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;กฎหมาย/ระเบียบที่เกี่ยวข้อง&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ประกาศกรมศุลกากร ที่ 150/.2561 เรื่อง หลักเกณฑ์ และวิธีการเกี่ยวกับการยกเว้นอากรของตามประเภท 13 ภาค 4.&lt;/li&gt;
+&lt;li&gt;บัญชีรายการยุทธภัณฑ์ของกระทรวงกลาโหมเพื่อการผ่อนผันขอยกเว้นค่าอากรทางศุลกากร ฉบับที่กระทรวงการคลัง และกระทรวงกลาโหมให้ความเห็นชอบแล้ว.&lt;/li&gt;
+&lt;li&gt;พระราชบัญญัติควบคุมยุทธภัณฑ์ พ.ศ. 2530.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;สอบถามข้อมูลเพิ่มเติมได้ที่ :&lt;/strong&gt;
+ส่วนมาตรฐานพิกัดอัตราศุลกากร 3 (สพศ. 3) กองพิกัดอัตราศุลกากร (กพก.)
+หมายเลขโทรศัพท์ : 02-667-6411, 02-667-7205, 02-667-6419.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/list_strc_simple_step.php?ini_content=customs_tariff_exemption_03&amp;amp;ini_menu=menu_interest_and_law_160421_01&amp;amp;lang=th&amp;amp;root_left_menu=menu_customs_tariff_exemption&amp;amp;left_menu=menu_customs_tariff_exemption_03&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;วันที่ปรับปรุงล่าสุด : 9 กรกฎาคม 2563&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ประเภท 14 ภาค 4 ตัวอย่างสินค้า</title>
+      <link>/pages/tariff/part-4/14-4/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/tariff/part-4/14-4/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;ให้ผู้ได้รับยกเว้นอากรจัดทำและส่งข้อมูลใบขนสินค้าขาเข้า โดยระบุค่าดังนี้&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;ขาเชา&#34;&gt;ขาเช้า&lt;/h3&gt;
+&lt;blockquote class=&#34;book-hint info&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;การสำแดงพิกัดศุลกากรและรหัสสถิติสินค้าให้สำแดงตรงกับชนิดของของที่นำเข้า&lt;/li&gt;
+&lt;li&gt;ระบุ Privilege Code = ตามสิทธิ ณ ขณะนำเข้า&lt;/li&gt;
+&lt;li&gt;อัตราอากร ใช้ Tariff Code และ Tariff Sequence&lt;/li&gt;
+&lt;li&gt;อากร ยกเว้น (บันทึก Exemption Rate = 100%)&lt;/li&gt;
+&lt;li&gt;VAT ยกเว้น (บันทึก Exemption Rate = 100%)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/blockquote&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>ประเภท 15 ภาค 4 คอนเทนเนอร์และคอนเทนเนอร์แร็ค</title>
+      <link>/pages/tariff/part-4/15-4/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/tariff/part-4/15-4/</guid>
+      <description>&lt;p&gt;ภาชนะบรรจุของชนิดที่ใช้บรรจุของเพื่อความสะดวกหรือความปลอดภัยในการขนส่งระหว่างประเทศที่เรียกว่า &lt;em&gt;คอนเทนเนอร์&lt;/em&gt; ซึ่งนำเข้าและจะส่งกลับออกไป ไม่ว่าจะโดยมีของบรรจุอยู่หรือไม่&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../img/15-4.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ประเภท 16 ภาค 4 สิทธิของนำเข้ามาสำหรับคนพิการ</title>
+      <link>/pages/tariff/part-4/16-4/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/tariff/part-4/16-4/</guid>
+      <description>&lt;p&gt;ของที่นำเข้ามาสำหรับคนพิการใช้โดยเฉพาะ หรือใช้ในกรณีฟื้นฟูสมรรถภาพคนพิการ ได้รับยกเว้นอากร  ให้ผู้ได้รับยกเว้นอากรจัดทำและส่งข้อมูลใบขนสินค้าขาเข้า โดยระบุค่าดังนี้&lt;/p&gt;
+&lt;h3 id=&#34;ขาเชา&#34;&gt;ขาเช้า&lt;/h3&gt;
+&lt;blockquote class=&#34;book-hint info&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;การสำแดงพิกัดศุลกากรและรหัสสถิติสินค้าให้สำแดงตรงกับชนิดของของที่นำเข้า&lt;/li&gt;
+&lt;li&gt;ระบุ Import Tariff = &lt;strong&gt;16PART4&lt;/strong&gt; ของที่นำเข้ามาสำหรับคนพิการ&lt;/li&gt;
+&lt;li&gt;ระบุ Privilege Code = ตามสิทธิ ณ ขณะนำเข้า&lt;/li&gt;
+&lt;li&gt;อัตราอากร ใช้ Tariff Code และ Tariff Sequence&lt;/li&gt;
+&lt;li&gt;อากร ยกเว้น (บันทึก Exemption Rate = 100%)&lt;/li&gt;
+&lt;li&gt;VAT ยกเว้น (บันทึก Exemption Rate = 100%)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/blockquote&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>ประเภท 17 ภาค 4 สิทธิของนำเข้ามาสำหรับการประชุมระหว่างประเทศ</title>
+      <link>/pages/tariff/part-4/17-4/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/tariff/part-4/17-4/</guid>
+      <description>&lt;p&gt;การยกเว้นอากรสำหรับของที่นำเข้ามา เพื่อใช้ในการประชุมระหว่างประเทศ โดยได้รับยกเว้นอากรให้ปฏิบัติตามหลักเกณฑ์และเงื่อนไขดังต่อไปนี้&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;เป็นของที่นำเข้ามาเพื่อใช้ในการประชุมระหว่างประเทศ ซึ่งจัดขึ้นโดยหน่วยงานของรัฐบาลไทย หรือของรัฐบาลต่างประเทศ องค์การระหว่างประเทศที่รัฐบาลไทยได้รับรอง หรือโดยหน่วยงานของเอกชนที่การประชุมนั้น เป็นประโยชน์แก่การพัฒนาทางเศรษฐกิจ ทางสังคม หรือทางเทคโนโลยีของประเทศ&lt;/li&gt;
+&lt;li&gt;เป็นของจำเป็นที่ใช้ในการประชุม ได้แก่ แฟ้มเอกสาร เอกสาร สื่อบันทึกข้อมูล แบบพิมพ์ ของที่ระลึกที่มีมูลค่าแต่ละชิ้นเพียงเล็กน้อย เป็นต้น ซึ่งของต้องจัดทำจนเห็นได้ว่าเป็นของที่นำเข้าเพื่อแจกจ่ายแก่ผู้เข้าร่วมประชุม&lt;/li&gt;
+&lt;li&gt;เป็นของซึ่งเตรียมมาโดยเฉพาะสำหรับใช้หมดสิ้นไปในการประชุม เช่น วัสดุที่ใช้ใน
+การแสดง หรือทดลองประกอบการประชุม และมีปริมาณพอสมควร&lt;/li&gt;
+&lt;li&gt;ของอื่น ๆ นอกเหนือที่ระบุไว้ในข้อ (2) และ (3) ต้องส่งกลับออกไปภายใน 3 เดือนนับแต่วันนำเข้า โดยผู้นำของเข้าต้องทำสัญญาไว้ต่อกรมศุลกากรตามเงื่อนไขที่กำหนด&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;ให้ผู้ได้รับยกเว้นอากรจัดทำและส่งข้อมูลใบขนสินค้าขาเข้า โดยระบุค่าดังนี้&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;ขาเชา&#34;&gt;ขาเช้า&lt;/h3&gt;
+&lt;blockquote class=&#34;book-hint info&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;การสำแดงพิกัดศุลกากรและรหัสสถิติสินค้าให้สำแดงตรงกับชนิดของของที่นำเข้า&lt;/li&gt;
+&lt;li&gt;ระบุ Import Tariff = &lt;strong&gt;17PART4&lt;/strong&gt; ของที่นำเข้ามาเพื่อใช้ในการประชุมระหว่างประเทศ&lt;/li&gt;
+&lt;li&gt;ระบุ Privilege Code = ตามสิทธิ ณ ขณะนำเข้า&lt;/li&gt;
+&lt;li&gt;อัตราอากร ใช้ Tariff Code และ Tariff Sequence&lt;/li&gt;
+&lt;li&gt;อากร ยกเว้น (บันทึก Exemption Rate = 100%)&lt;/li&gt;
+&lt;li&gt;VAT ยกเว้น (บันทึก Exemption Rate = 100%)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/blockquote&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>ประเภท 18 ภาค 4 สิทธิ์ Re-Export</title>
+      <link>/pages/tariff/part-4/18-4/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/tariff/part-4/18-4/</guid>
+      <description>&lt;p&gt;ของส่งออกที่เป็นของที่นําเข้ามาไม่เกิน &lt;em&gt;2 ปี&lt;/em&gt; และยังไม่ได้เปลี่ยนแปลง รูปร่างลักษณะแต่ประการใด&lt;/p&gt;
+&lt;h3 id=&#34;ขาออก&#34;&gt;ขาออก&lt;/h3&gt;
+&lt;blockquote class=&#34;book-hint success&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Re-Export = Y (ในส่วนของ Export Declaration Detail)&lt;/li&gt;
+&lt;li&gt;Privilege Code = 004&lt;/li&gt;
+&lt;li&gt;Export Tariff = &lt;em&gt;18PART4&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Tariff Code = บันทึกพิกัดศุลกากรให้ตรงกับชนิดของของที่ส่งออก&lt;/li&gt;
+&lt;li&gt;Declaration No = เลขที่ใบขนสินค้าขาเข้าที่อ้างถึง&lt;/li&gt;
+&lt;li&gt;Declaration Line Number = รายการในใบขนสินค้าขาเข้าที่อ้างถึง&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;ขอควรระวง&#34;&gt;ข้อควรระวัง&lt;/h3&gt;
+&lt;blockquote class=&#34;book-hint warning&#34;&gt;
+  ไม่ใช่สิทธิคืนอากรขาเข้า ตามมาตรา 28  (Re-Export) ซึ่งมีเงื่อนไขต้องส่งกลับออกไปนอกราชอาณาจักรทั้งฉบับ และส่งออกภายใน &lt;em&gt;1 ปี&lt;/em&gt; นับแต่วันที่นำของนั้นเข้ามาในราชอาณาจักร โดยให้ &lt;strong&gt;ชำระค่าภาษีอากรหนึ่งใน 10 หรือไม่เกิน 1,000 บาท&lt;/strong&gt; &lt;em&gt;ต่อใบขนสินค้าขาเข้า&lt;/em&gt;
+&lt;/blockquote&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>ประเภท 19 ภาค 4 ภาชนะสำหรับบรรจุของ</title>
+      <link>/pages/tariff/part-4/19-4/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/tariff/part-4/19-4/</guid>
+      <description>&lt;h2 id=&#34;ประเภท-19-ภาค-4-ภาชนะสำหรบบรรจของ-รวมทง-อปกรณทใชบรรจ-ยด-รด-กนกระแทก-ไมวาจะทำดวยวตถใด-ๆ-กตาม-ทนำเขามาและจะสงกลบออกไป&#34;&gt;ประเภท 19 ภาค 4 ภาชนะสำหรับบรรจุของ รวมทั้ง อุปกรณ์ที่ใช้บรรจุ ยึด รัด กันกระแทก ไม่ว่าจะทำด้วยวัตถุใด ๆ ก็ตาม ที่นำเข้ามาและจะส่งกลับออกไป&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;../../img/heading_returnable_packaging.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../img/19-4.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;..././img/19-4-01.png&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;../../img/19-4-02.png&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;../../img/19-4-03.png&#34; alt=&#34;&#34;&gt;
+&lt;img src=&#34;../../img/19-4-04.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;reference-data&#34;&gt;Reference data:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ประกาศกรมศุลกากรที่ 154/.2561 เรื่อง &lt;strong&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232832404e505e4f464a4e464b4d&#34; title=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232832404e505e4f464a4e464b4d&#34;&gt;หลักเกณฑ์ วิธีการ และเงื่อนไขเกี่ยวกับการยกเว้นอากรของตามประเภท 19 ภาค 4&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;ประกาศกรมศุลกากรที่ 162/.2563 เรื่อง &lt;strong&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232832414c505f47464a4f464b46&#34; title=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232832414c505f47464a4f464b46&#34;&gt;แก้ไขเพิ่มเติมประกาศกรมศุลกากร ที่ 154/.2561&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;ที่มา : &lt;a href=&#34;http://ccc.customs.go.th/cont_strc_faq.php?current_id=14232a32414b505f48&amp;amp;left_menu=interesting_article&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;วันที่ปรับปรุงล่าสุด : 22 ธันวาคม 2563&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

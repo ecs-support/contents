@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ตู้คอนเทนเนอร์ on ECS</title>
+    <link>/tags/%E0%B8%95%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%AD%E0%B8%A3/</link>
+    <description>Recent content in ตู้คอนเทนเนอร์ on ECS</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>ECS@Support&amp;copy;{year}</copyright>
+    <lastBuildDate>Tue, 25 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/tags/%E0%B8%95%E0%B8%84%E0%B8%AD%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%99%E0%B9%80%E0%B8%99%E0%B8%AD%E0%B8%A3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>รหัสขนาดและประเภทตู้สินค้า</title>
+      <link>/post/knowledge/container-size-and-type/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/knowledge/container-size-and-type/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;ตู้คอนเทนเนอร์ จำเป็นต่อการการขนย้ายสินค้าเป็นอย่างมาก ได้พัฒนาขึ้นเนื่องจากความน่าจะเป็นของสภาพและค่าใช้จ่ายในการขนส่ง ข้อดีของการขนส่งสินค้าคือ จะทำให้การยกของหรือการเคลื่อนย้ายสินค้ารวดเร็วยิ่งขึ้น การเคลื่อนย้ายภายในท่าเรือ หรือ การเคลื่อนย้ายสินค้าระหว่างท่าเรือ กับผู้ส่งสินค้าหรือผู้ผลิตสินค้าเป็นไปอย่างรวดเร็ว ประหยัดเวลาและค่าใช้จ่าย&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./img/45G1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;รหัส &lt;strong&gt;45G1&lt;/strong&gt; (ตามภาพ) สำหรับท่านที่อยู่ในแวดวงโลจิสติกส์ คงคุ้นเคยกับรหัสดังกล่าวซึ่งได้แสดงไว้บนตู้คอนเทนเนอร์ อาจจะมีรหัสที่เหมือนกัน หรือแตกต่างกันไปบ้าง ตามขนาดและประเภทตู้สินค้า วันนี้เราจะมาทำความเข้าใจถึงความหมายของตัวเลข / ตัวอักษร แต่ละตัวของชุดรหัสดังกล่าว ว่ามีความหมายว่าอย่างไร เค้าเอาไว้ใช้ทำอะไรกัน และมีประโยชน์อย่างไร&lt;/p&gt;
+&lt;p&gt;Container Size and Type Code เป็นรหัสเพื่อให้ทราบถึงขนาดและประเภทตู้สินค้า  เช่น &lt;strong&gt;45G1&lt;/strong&gt; เป็นรหัส 4 หลัก ที่อยู่บนตู้คอนเทนเนอร์ รหัสเหล่านี้ได้ถูกกำหนดตามมาตรฐาน ISO 6346 จัดทำโดยสำนักคอนเทนเนอร์ระหว่างประเทศ (International Container Bureau) โดยมาตรฐานดังกล่าวกำหนดให้แสดงขนาดและชนิดของตู้ไว้ด้วยกัน จึงได้กำหนดให้มีอักขระ 4 ตัว โดยแบ่งเป็นกลุ่มละ 2 ตัวเพื่อแสดงถึงขนาดและประเภทสินค้า&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;1-ขนาด-size&#34;&gt;1. ขนาด (Size)&lt;/h2&gt;
+&lt;p&gt;รหัสขนาดตู้คอนเทนเนอร์ประกอบด้วยข้อมูล 2 หลัก ประกอบไปด้วย&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;หลักที่ 1&lt;/strong&gt; บอกความยาว (Length) ตู้สินค้า&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;หลักที่ 2&lt;/strong&gt;  บอกความสูงและความกว้าง (Hight/Width) ตู้สินค้า
+&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;11-ความยาว-length&#34;&gt;1.1 ความยาว (Length)&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;m&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;ft&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Character&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2.991&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;10&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;6.068&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;20&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;9.125&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;30&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;12.192&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;40&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Unassigned&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;None&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Unassigned&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;6&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;None&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Unassigned&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;7&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;None&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Unassigned&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;8&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;None&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Unassigned&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;9&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;None&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;7.150&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;A&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;None&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;7.315&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;24&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;B&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;7.430&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;code&gt;24&#39;6&amp;quot;&lt;/code&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;C&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;7.450&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;D&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;None&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;7.820&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;E&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;None&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;8.100&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;F&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;None&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;12.500&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;41&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;G&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;13.106&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;43&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;H&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;13.600&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;K&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;None&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;13.716&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;45&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;L&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;14.630&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;48&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;M&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;14.935&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;49&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;N&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;16.154&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;P&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;None&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Unassigned&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;R&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;None&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;หลักที่ 3-4 ใช้บอกประเภทตู้สินค้า
+&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Group code&lt;/th&gt;
+&lt;th&gt;Group name&lt;/th&gt;
+&lt;th&gt;Detailed codes&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;GP&lt;/td&gt;
+&lt;td&gt;General purpose&lt;/td&gt;
+&lt;td&gt;G0, G1, G2, G3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;VH&lt;/td&gt;
+&lt;td&gt;General purpose with ventilation&lt;/td&gt;
+&lt;td&gt;V0, V2, V4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;BU&lt;/td&gt;
+&lt;td&gt;Dry bulk container - nonpressurized&lt;/td&gt;
+&lt;td&gt;B0, B1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;BK&lt;/td&gt;
+&lt;td&gt;Dry bulk container - pressurized&lt;/td&gt;
+&lt;td&gt;B3, B4, B5, B6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;SN&lt;/td&gt;
+&lt;td&gt;Named cargo&lt;/td&gt;
+&lt;td&gt;S0, S1, S2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;RE&lt;/td&gt;
+&lt;td&gt;Thermal container refrigerated&lt;/td&gt;
+&lt;td&gt;R0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;RT&lt;/td&gt;
+&lt;td&gt;Thermal container refrigerated and heated&lt;/td&gt;
+&lt;td&gt;R1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;RS&lt;/td&gt;
+&lt;td&gt;Thermal container self-powered refrigerated/heated&lt;/td&gt;
+&lt;td&gt;R2, R3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;HR&lt;/td&gt;
+&lt;td&gt;Thermal container refrigerated and/or heated with removable equipment&lt;/td&gt;
+&lt;td&gt;H0, H1, H2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;HI&lt;/td&gt;
+&lt;td&gt;Thermal container insulated&lt;/td&gt;
+&lt;td&gt;H5, H6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;UT&lt;/td&gt;
+&lt;td&gt;Open-top container&lt;/td&gt;
+&lt;td&gt;U0, U1, U2, U3, U4, U5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;PL&lt;/td&gt;
+&lt;td&gt;Platform-based container with incomplete superstructure&lt;/td&gt;
+&lt;td&gt;P0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;PF&lt;/td&gt;
+&lt;td&gt;Platform container - fixed&lt;/td&gt;
+&lt;td&gt;P1, P2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;PC&lt;/td&gt;
+&lt;td&gt;Platform container - folding (collapsible)&lt;/td&gt;
+&lt;td&gt;P3, P4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;PS&lt;/td&gt;
+&lt;td&gt;Platform-based container with complete superstructure&lt;/td&gt;
+&lt;td&gt;P5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;TN&lt;/td&gt;
+&lt;td&gt;Tank container for nondangerous liquids&lt;/td&gt;
+&lt;td&gt;T0, T1, T2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;TD&lt;/td&gt;
+&lt;td&gt;Tank container for dangerous liquids&lt;/td&gt;
+&lt;td&gt;T3, T4, T5, T6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;TG&lt;/td&gt;
+&lt;td&gt;Tank container for gases&lt;/td&gt;
+&lt;td&gt;T7, T8, T9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;AS&lt;/td&gt;
+&lt;td&gt;Air/surface container&lt;/td&gt;
+&lt;td&gt;A0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;strong&gt;Reference :&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://containertracking.how/Iso6346/SizeTypeCode&#34;&gt;http://containertracking.how/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bic-code.org/marking-of-containers/&#34;&gt;https://www.bic-code.org/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
