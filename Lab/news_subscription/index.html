@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <base target="_top">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    </head>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@400;500;600;700&display=swap');
+        .container {
+          position: relative;          
+          
+        }
+        * {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+          font-family: 'Kanit', sans-serif;
+        }
+    </style>
+    <body>
+
+        <div class="page-header__banner" style="background-image: url(&quot;https://www.pttgcgroup.com/storage/banner/investor-relations/email-sub.jpg&quot;); transform: translate(0px, 0px);"></div>
+
+        <div class="container">
+            <img src="./img/cover.png" alt="Snow" style="width:100%;">
+            <div class="row">
+                <div class="col-10">
+                    <form id="myForm" onsubmit="handleFormSubmit(this)">
+                  
+                    <br>
+                        
+                        <div class="form-row">
+                            <div class="form-group col-md-6">
+                            <label for="email">อีเมล *</label>
+                            <input type="email" class="form-control" id="email" name="email" placeholder="อีเมล">
+                        </div>
+                    </div>
+
+
+                        <div class="form-row">
+                            <div class="form-group col-md-6">
+                                <label for="first_name">ชื่อ *</label>
+                                <input type="text" class="form-control" id="first_name" name="first_name" placeholder="ชื่อ">
+                            </div>
+                            <div class="form-group col-md-6">
+                                <label for="last_name">นามสกุล *</label>
+                                <input type="text" class="form-control" id="last_name" name="last_name" placeholder="นามสกุล">
+                            </div>
+                        </div>
+
+                         <div class="form-row">
+                            <div class="form-group col-md-6">
+                                <label for="company">บริษัท *</label>
+                                <input type="text" class="form-control" id="company" name="company" placeholder="บริษัท">
+                            </div>
+                            <div class="form-group col-md-6">
+                                <label for="position">ตำแหน่ง *</label>
+                                <input type="text" class="form-control" id="position" name="position" placeholder="ตำแหน่ง">
+                            </div>
+                        </div>
+
+                            <div class="form-row">
+                            <div class="form-group col-md-3">
+                                <label for="phone">เบอร์ติดต่อ *</label>
+                                <input type="text" class="form-control" id="phone" name="phone" placeholder="เบอร์ติดต่อ">
+                            </div>
+                            <div class="form-group col-md-9">
+                                <label for="profile">Profile *</label>
+                                <input type="text" class="form-control" id="profile" name="profile" placeholder="4 ตัวหน้าของ Ref ที่ใช้ในการส่งข้อมูลให้หน่วยงาน เช่น (DXXX000000088 ให้ใส่ DXXX)">
+                            </div>
+                        </div>
+
+                        <div class="col-12">
+                        <div class="form-check">
+                      <input class="form-check-input" type="checkbox" id="inlineFormCheck">
+                    <label class="form-check-label" for="inlineFormCheck">
+                    ข้าพเจ้าให้ความยินยอมแก่ บริษัท อี-คัสตอม เซอร์วิส จำกัด ในการเก็บ และใช้ <a href="https://www.e-customs.co.th/e-customs/PDPA.html" target="_blank">ข้อมูลส่วนบุคคล</a>  ของข้าพเจ้า เพื่อส่งข่าวสารผ่านอีเมลที่ข้าพเจ้าได้ให้ไว้ เมื่อกรอกแบบฟอร์มการลงทะเบียนครบถ้วนแล้ว ระบบจะดำเนินการส่งอีเมล์ตามที่อยู่อีเมลระบุไว้ให้โดยอัตโนมัติ
+                    </label>
+                  </div>
+                  </div>
+
+                        <div class="col-12">
+                            <br>
+                          
+                          <button type="submit" class="btn btn-outline-danger btn-lg">ส่งข้อมูล</button>
+                    
+                          <br>
+                          <br>
+                            <p class="mb-4">หากท่านประสงค์จะเพิกถอนความยินยอมที่ได้ให้ไว้นี้ ท่านสามารถแจ้งบริษัทฯ <a href="#" target="_blank">ได้ที่นี่</a> </p>
+                        
+                   
+                    </form>
+                    <div id="output"></div>
+                </div>
+            </div>      
+        </div>
+        <?!= include('JavaScript'); ?>
+    </body>
+</html>
