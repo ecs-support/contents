@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ภาษีสรรพสามิต on ECS</title>
-    <link>https://ecs-support.github.io/KM/customs/tags/%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%95/</link>
+    <link>/tags/%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%95/</link>
     <description>Recent content in ภาษีสรรพสามิต on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
     <lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://ecs-support.github.io/KM/customs/tags/%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%95/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%95/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ภาษีสรรพสามิต</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/import/excise/intro/</link>
+      <link>/pages/import/excise/intro/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/import/excise/intro/</guid>
+      <guid>/pages/import/excise/intro/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/excise_logo.jpg&#34; alt=&#34;enter image description here&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
@@ -162,10 +162,10 @@
     
     <item>
       <title>ราคาขายปลีกแนะนำ</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/import/excise/retail/intro/</link>
+      <link>/pages/import/excise/retail/intro/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/import/excise/retail/intro/</guid>
+      <guid>/pages/import/excise/retail/intro/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;ราคาขายปลีกแนะนำ&lt;/strong&gt; คือ ราคาขายที่ผู้ประกอบอุตสาหกรรมหรือผู้นำเข้าประสงค์ จะกำหนดเป็นราคาขายปลีกแนะนำให้ผู้ขายปลีกขาย สินค้าของตนให้แก่ผู้บริโภครายสุดท้ายในตลาดปกติ โดยราคาดังกล่าวเป็นราคาที่กรมสรรพสามิตใช้เป็นฐานภาษีในการคำนวณภาษีในกรณีภาษีตามมูลค่า สำหรับสินค้าที่เสียภาษีสรรพสามิต&lt;/p&gt;
 &lt;blockquote class=&#34;book-hint success&#34;&gt;
@@ -196,10 +196,10 @@
     
     <item>
       <title>การบันทึกข้อมูลในใบขนสินค้า</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/import/excise/retail/input/</link>
+      <link>/pages/import/excise/retail/input/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/import/excise/retail/input/</guid>
+      <guid>/pages/import/excise/retail/input/</guid>
       <description>&lt;p&gt;แบ่งได้เป็น 3 ประเภทคือ&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;ให้ระบุราคาขายปลีกแนะนำตามที่ได้แจ้งไว้กับกรมสรรพสามิตที่ช่อง &lt;strong&gt;Deducted Amount&lt;/strong&gt;&lt;/li&gt;
@@ -218,10 +218,10 @@
     
     <item>
       <title>หน้าที่ของผู้เสียภาษีสรรพสามิต</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/import/excise/responsibility/</link>
+      <link>/pages/import/excise/responsibility/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/import/excise/responsibility/</guid>
+      <guid>/pages/import/excise/responsibility/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/doc_02/doc-02jpg_Page3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
@@ -258,10 +258,10 @@
     
     <item>
       <title>การแจ้งราคาขายปลีกแนะนำ</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/import/excise/retail/retail_01/</link>
+      <link>/pages/import/excise/retail/retail_01/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/import/excise/retail/retail_01/</guid>
+      <guid>/pages/import/excise/retail/retail_01/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../img/doc_02/doc-02jpg_Page6.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;แบบแจงราคาขายปลกแนะนำ&#34;&gt;แบบแจ้งราคาขายปลีกแนะนำ&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;../../img/doc_02/doc-02jpg_Page8.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -273,10 +273,10 @@
     
     <item>
       <title>ราคาขายปลีกแนะนำ</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/import/excise/retail/</link>
+      <link>/pages/import/excise/retail/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/import/excise/retail/</guid>
+      <guid>/pages/import/excise/retail/</guid>
       <description>
 
 &lt;script&gt; 
@@ -288,10 +288,10 @@
     
     <item>
       <title>โครงสร้างราคาขายปลีกแนะนำ</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/import/excise/retail/retail_02/</link>
+      <link>/pages/import/excise/retail/retail_02/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/import/excise/retail/retail_02/</guid>
+      <guid>/pages/import/excise/retail/retail_02/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/doc-01jpg_Page18.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -318,10 +318,10 @@
     
     <item>
       <title>สิทธิประโยชน์ทางภาษี</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/import/excise/incentive/</link>
+      <link>/pages/import/excise/incentive/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/import/excise/incentive/</guid>
+      <guid>/pages/import/excise/incentive/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;กรณีสินค้านำเข้า ให้ได้รับสิทธิการยกเว้นภาษี   (เฉพาะสินค้าที่ได้รับยกเว้นอากรตามกฎหมายศุลกากร)&lt;/li&gt;
 &lt;li&gt;กรณีสินค้าส่งออก ให้ได้รับสิทธิการยกเว้น การคืนภาษี และการลดอัตราภาษี&lt;/li&gt;
@@ -341,10 +341,10 @@
     
     <item>
       <title>การพิจารณาและกำหนดราคาขายปลีกแนะนำ</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/import/excise/retail/consider/</link>
+      <link>/pages/import/excise/retail/consider/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/import/excise/retail/consider/</guid>
+      <guid>/pages/import/excise/retail/consider/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/doc-02jpg_Page7.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
@@ -415,10 +415,10 @@
     
     <item>
       <title>ตัวอย่างการคำนวณภาษีสินค้าสรรพสามิต</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/import/excise/calculate_excise/</link>
+      <link>/pages/import/excise/calculate_excise/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/import/excise/calculate_excise/</guid>
+      <guid>/pages/import/excise/calculate_excise/</guid>
       <description>&lt;div class=&#34;toc collapsible-toc&#34;&gt;
  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
  &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
@@ -512,13 +512,13 @@
     
     <item>
       <title>ตัวอย่างสินค้า หรือนำสินค้าเข้ามาโดยมิใช่เพื่อการค้า</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/import/excise/retail/law/</link>
+      <link>/pages/import/excise/retail/law/</link>
       <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/import/excise/retail/law/</guid>
+      <guid>/pages/import/excise/retail/law/</guid>
       <description>&lt;p&gt;&lt;strong&gt;ประกาศกรมสรรพสามิต เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไข ผ่อนผันการแจ้งราคาขายปลีกแนะนำและโครงสร้างราคาขายปลีกแนะนำการจดทะเบียนสรรพสามิต และการจัดทำบัญชีรับจ่ายสินค้าที่นำเข้ามาในราชอาณาจักร สำหรับสินค้าที่นำติดตัวเข้ามา หรือนำสินค้าเข้ามาเพื่อเป็นตัวอย่างสินค้า หรือนำสินค้าเข้ามาโดยมิใช่เพื่อการค้า&lt;/strong&gt;&lt;/p&gt;
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;../docs/doc-04.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;../docs/doc-04.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
 &lt;/div&gt;
       
 &lt;div class=&#34;div-btn&#34;&gt;
@@ -534,10 +534,10 @@
     
     <item>
       <title>สืบค้นรหัสสินค้าสรรพสามิต</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/import/excise/search_by_product/</link>
+      <link>/pages/import/excise/search_by_product/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/import/excise/search_by_product/</guid>
+      <guid>/pages/import/excise/search_by_product/</guid>
       <description>&lt;p&gt;&lt;strong&gt;สืบค้นรหัสสินค้าสรรพสามิตสำหรับระบบแลกเปลี่ยนข้อมูลอิเล็กทรอนิกส์ตามชนิดสินค้า&lt;/strong&gt;&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -622,10 +622,10 @@
     
     <item>
       <title>การจัดเก็บ การส่งเงิน การยกเว้น และการขอคืนเงินบํารุงกองทุน</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/import/excise/government-funded/</link>
+      <link>/pages/import/excise/government-funded/</link>
       <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/import/excise/government-funded/</guid>
+      <guid>/pages/import/excise/government-funded/</guid>
       <description>&lt;p&gt;ระเบียบกระทรวงการคลังว่าด้วยการจัดเก็บ การส่งเงิน การยกเว้น และการขอคืนเงินบํารุงกองทุน ไว้ชัดเจน ดําเนินการจัดเก็บภาษีสรรพสามิตเพิ่มในอัตราที่กําหนดไว้ตามพระราชบัญญัติเพื่อนํารายได้จากการจัดเก็บ ภาษีสรรพสามิตจากสินค้าสุราและยาสูบ นําส่งเข้ากองทุนตามอัตราส่วนที่กําหนดไว้ในระเบียบ ประกอบด้วย&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;เงินบํารุงกองทุนสนับสนุน&lt;em&gt;การสร้างเสริมสุขภาพ (สสส.) 2%&lt;/em&gt; ของภาษีสุราและยาสูบ&lt;/li&gt;
@@ -661,10 +661,10 @@
     
     <item>
       <title>ประกาศกรมสรรพสามิต แยกตามประเภทสินค้าและบริการ</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/import/excise/excise_announcement_product_list/</link>
+      <link>/pages/import/excise/excise_announcement_product_list/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/import/excise/excise_announcement_product_list/</guid>
+      <guid>/pages/import/excise/excise_announcement_product_list/</guid>
       <description>&lt;h2 id=&#34;ประกาศกรมสรรพสามตทออกตามความในกฎกระทรวงกำหนดพกดอตราภาษสรรพสามต-พศ-2560-และทแกไขเพมเตม-รวมถงประกาศระเบยบคำสงอน-ๆ-ทเกยวของ-แยกตามประเภทสนคาและบรการ&#34;&gt;ประกาศกรมสรรพสามิตที่ออกตามความในกฎกระทรวงกำหนดพิกัดอัตราภาษีสรรพสามิต พ.ศ. 2560 และที่แก้ไขเพิ่มเติม รวมถึงประกาศ/ระเบียบ/คำสั่งอื่น ๆ ที่เกี่ยวข้อง แยกตามประเภทสินค้าและบริการ&lt;/h2&gt;
 &lt;h3 id=&#34;1-สนคานำมนและผลตภณฑนำมน&#34;&gt;1. สินค้าน้ำมันและผลิตภัณฑ์น้ำมัน&lt;/h3&gt;
 &lt;ul&gt;
@@ -774,10 +774,10 @@
     
     <item>
       <title>คู่มือสำหรับประชาชนของกรมสรรพสามิต</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/import/excise/excise_announcement_list/</link>
+      <link>/pages/import/excise/excise_announcement_list/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/import/excise/excise_announcement_list/</guid>
+      <guid>/pages/import/excise/excise_announcement_list/</guid>
       <description>&lt;p&gt;&lt;strong&gt;คู่มือสำหรับประชาชนของกรมสรรพสามิต ตามพระราชบัญญัติภาษีสรรพสามิต พ.ศ. 2560 (6 งาน 65 กระบวนงาน)&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;1-งานจดทะเบยน&#34;&gt;1. งานจดทะเบียน&lt;/h2&gt;
 &lt;ul&gt;
@@ -872,10 +872,10 @@
     
     <item>
       <title>รหัสสินค้าสรรพสามิต (น้ำมันเชื้อเพลิงสำหรับเครื่องบินไอพ่น นอกจาก (1))</title>
-      <link>https://ecs-support.github.io/KM/customs/post/announcement/oga/excise-13/</link>
+      <link>/post/announcement/oga/excise-13/</link>
       <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/announcement/oga/excise-13/</guid>
+      <guid>/post/announcement/oga/excise-13/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;ประกาศกรมสรรพสามต-เรอง-กำหนดรหสสนคาสรรพสามตสำหรบระบบแลกเปลยนขอมลอเลกทรอนกส-electronic-data-interchange-ฉบบท-13&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดรหัสสินค้าสรรพสามิตสำหรับระบบแลกเปลี่ยนข้อมูลอิเล็กทรอนิกส์ (ELECTRONIC DATA INTERCHANGE) (ฉบับที่ 13)&lt;/h2&gt;
 &lt;p&gt;เพื่อให้รหัสสินค้าสรรพสามิตและอัตราภาษีสรรพสามิต สำหรับระบบแลกเปลี่ยนข้อมูลอิเล็กทรอนิกส์ (ELECTRONIC DATA INTERCHANGE : EDI) ถูกต้องและเป็นปัจจุบัน อธิบดีกรมสรรพสามิตจึงกำหนดรหัสสินค้าสรรพสามิต รายการภาษีสรรพสามิต และอัตราภาษีสรรพสามิต &lt;em&gt;ใน (2) ของประเภทที่ 01.04 น้ำมันเชื้อเพลิงสำหรับเครื่องบินไอพ่น ตอนที่ 1 สินค้าน้ำมันและผลิตภัณฑ์น้ำมัน&lt;/em&gt; ตามบัญชีแนบท้าย กฎกระทรวงกำหนดพิกัดอัตราภาษีสรรพสามิต พ.ศ.2560 ซึ่งแก้ไขเพิ่มเติมโดยกฎกระทรวงกำหนดพิกัดอัตราภาษีสรรพสามิต (ฉบับที่ 14) พ.ศ.2564 ลงวันที่ 20 เมษายน พ.ศ.2564 มีผลบังคับใช้ตั้งแต่&lt;em&gt;วันที่ 21 เมษายน พ.ศ. 2564 เป็นต้นไป&lt;/em&gt;&lt;/p&gt;
@@ -896,10 +896,10 @@
     
     <item>
       <title>รหัสสินค้าสรรพสามิต (น้ำมันเชื้อเพลิงสำหรับเครื่องบินไอพ่น นอกจาก (1))</title>
-      <link>https://ecs-support.github.io/KM/customs/post/law/oga/excise-13/</link>
+      <link>/post/law/oga/excise-13/</link>
       <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/law/oga/excise-13/</guid>
+      <guid>/post/law/oga/excise-13/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;ประกาศกรมสรรพสามต-เรอง-กำหนดรหสสนคาสรรพสามตสำหรบระบบแลกเปลยนขอมลอเลกทรอนกส-electronic-data-interchange-ฉบบท-13&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดรหัสสินค้าสรรพสามิตสำหรับระบบแลกเปลี่ยนข้อมูลอิเล็กทรอนิกส์ (ELECTRONIC DATA INTERCHANGE) (ฉบับที่ 13)&lt;/h2&gt;
 &lt;p&gt;เพื่อให้รหัสสินค้าสรรพสามิตและอัตราภาษีสรรพสามิต สำหรับระบบแลกเปลี่ยนข้อมูลอิเล็กทรอนิกส์ (ELECTRONIC DATA INTERCHANGE : EDI) ถูกต้องและเป็นปัจจุบัน อธิบดีกรมสรรพสามิตจึงกำหนดรหัสสินค้าสรรพสามิต รายการภาษีสรรพสามิต และอัตราภาษีสรรพสามิต &lt;em&gt;ใน (2) ของประเภทที่ 01.04 น้ำมันเชื้อเพลิงสำหรับเครื่องบินไอพ่น ตอนที่ 1 สินค้าน้ำมันและผลิตภัณฑ์น้ำมัน&lt;/em&gt; ตามบัญชีแนบท้าย กฎกระทรวงกำหนดพิกัดอัตราภาษีสรรพสามิต พ.ศ.2560 ซึ่งแก้ไขเพิ่มเติมโดยกฎกระทรวงกำหนดพิกัดอัตราภาษีสรรพสามิต (ฉบับที่ 14) พ.ศ.2564 ลงวันที่ 20 เมษายน พ.ศ.2564 มีผลบังคับใช้ตั้งแต่&lt;em&gt;วันที่ 21 เมษายน พ.ศ. 2564 เป็นต้นไป&lt;/em&gt;&lt;/p&gt;
@@ -920,10 +920,10 @@
     
     <item>
       <title>อัตราภาษีสรรพสามิต น้ำมันเชื้อเพลิงสำหรับเครื่องบินไอพ่น</title>
-      <link>https://ecs-support.github.io/KM/customs/post/announcement/oga/excise-edi-12/</link>
+      <link>/post/announcement/oga/excise-edi-12/</link>
       <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/announcement/oga/excise-edi-12/</guid>
+      <guid>/post/announcement/oga/excise-edi-12/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;ประกาศกรมสรรพสามต-เรอง-กำหนดรหสสนคาสรรพสามตสำหรบระบบแลกเปลยนขอมลอเลกทรอนกส-electronic-data-interchange-ฉบบท-12&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดรหัสสินค้าสรรพสามิตสำหรับระบบแลกเปลี่ยนข้อมูลอิเล็กทรอนิกส์ (ELECTRONIC DATA INTERCHANGE) (ฉบับที่ 12)&lt;/h2&gt;
 &lt;p&gt;เพื่อให้รหัสสินค้าสรรพสามิตและอัตราภาษีสรรพสามิต สำหรับระบบแลกเปลี่ยนข้อมูลอิเล็กทรอนิกส์ (ELECTRONIC DATA INTERCHANGE : EDI) ถูกต้องและเป็นปัจจุบัน อธิบดีกรมสรรพสามิตจึงกำหนดรหัสสินค้าสรรพสามิต รายการภาษีสรรพสามิต และอัตราภาษีสรรพสามิต ใน (2) ของประเภทที่ &lt;em&gt;01.04&lt;/em&gt; &lt;em&gt;น้ำมันเชื้อเพลิงสำหรับเครื่องบินไอพ่น&lt;/em&gt; ตอนที่ 1 สินค้าน้ำมันและผลิตภัณฑ์น้ำมัน ตามบัญชีแนบท้าย กฎกระทรวงกำหนดพิกัดอัตราภาษีสรรพสามิต พ.ศ.2560 ซึ่งแก้ไขเพิ่มเติมโดยกฎกระทรวงกำหนดพิกัดอัตราภาษีสรรพสามิต (ฉบับที่ 13) พ.ศ.2563 ลง&lt;em&gt;วันที่ 3 พฤศจิกายน พ.ศ.2563&lt;/em&gt; ไว้ ดังต่อไปนี้&lt;/p&gt;
@@ -939,10 +939,10 @@
     
     <item>
       <title>อัตราภาษีสรรพสามิต น้ำมันเชื้อเพลิงสำหรับเครื่องบินไอพ่น</title>
-      <link>https://ecs-support.github.io/KM/customs/post/law/oga/excise-edi-12/</link>
+      <link>/post/law/oga/excise-edi-12/</link>
       <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/law/oga/excise-edi-12/</guid>
+      <guid>/post/law/oga/excise-edi-12/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;ประกาศกรมสรรพสามต-เรอง-กำหนดรหสสนคาสรรพสามตสำหรบระบบแลกเปลยนขอมลอเลกทรอนกส-electronic-data-interchange-ฉบบท-12&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดรหัสสินค้าสรรพสามิตสำหรับระบบแลกเปลี่ยนข้อมูลอิเล็กทรอนิกส์ (ELECTRONIC DATA INTERCHANGE) (ฉบับที่ 12)&lt;/h2&gt;
 &lt;p&gt;เพื่อให้รหัสสินค้าสรรพสามิตและอัตราภาษีสรรพสามิต สำหรับระบบแลกเปลี่ยนข้อมูลอิเล็กทรอนิกส์ (ELECTRONIC DATA INTERCHANGE : EDI) ถูกต้องและเป็นปัจจุบัน อธิบดีกรมสรรพสามิตจึงกำหนดรหัสสินค้าสรรพสามิต รายการภาษีสรรพสามิต และอัตราภาษีสรรพสามิต ใน (2) ของประเภทที่ &lt;em&gt;01.04&lt;/em&gt; &lt;em&gt;น้ำมันเชื้อเพลิงสำหรับเครื่องบินไอพ่น&lt;/em&gt; ตอนที่ 1 สินค้าน้ำมันและผลิตภัณฑ์น้ำมัน ตามบัญชีแนบท้าย กฎกระทรวงกำหนดพิกัดอัตราภาษีสรรพสามิต พ.ศ.2560 ซึ่งแก้ไขเพิ่มเติมโดยกฎกระทรวงกำหนดพิกัดอัตราภาษีสรรพสามิต (ฉบับที่ 13) พ.ศ.2563 ลง&lt;em&gt;วันที่ 3 พฤศจิกายน พ.ศ.2563&lt;/em&gt; ไว้ ดังต่อไปนี้&lt;/p&gt;
@@ -958,10 +958,10 @@
     
     <item>
       <title>อัตราภาษีสรรพสามิต รถยนต์นั่งสามล้อ, บุหรี่ซิกาแรต และยาเส้น</title>
-      <link>https://ecs-support.github.io/KM/customs/post/announcement/oga/excise-edi-11/</link>
+      <link>/post/announcement/oga/excise-edi-11/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/announcement/oga/excise-edi-11/</guid>
+      <guid>/post/announcement/oga/excise-edi-11/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;ประกาศกรมสรรพสามต-เรอง-กำหนดรหสสนคาสรรพสามตสำหรบระบบแลกเปลยนขอมลอเลกทรอนกส-electronic-data-interchange-ฉบบท-11&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดรหัสสินค้าสรรพสามิตสำหรับระบบแลกเปลี่ยนข้อมูลอิเล็กทรอนิกส์ (ELECTRONIC DATA INTERCHANGE) (ฉบับที่ 11)&lt;/h2&gt;
 &lt;p&gt;เพื่อให้รหัสสินค้าสรรพสามิตและอัตราภาษีสรรพสามิต สำหรับระบบแลกเปลี่ยนข้อมูลอิเล็กทรอนิกส์ (ELECTRONIC DATA INTERCHANGE : EDI) ถูกต้องและเป็นปัจจุบัน อธิบดีกรมสรรพสามิตจึงกำหนดรหัสสินค้าสรรพสามิต รายการภาษีสรรพสามิต และอัตราภาษีสรรพสามิต เฉพาะในส่วนของ&lt;strong&gt;สินค้ารถยนต์นั่งสามล้อ (ก) ของ (5) ของประเภทที่ 06.01 และ 06.02 บุหรี่ซิกาแรต ใน (1) ของประเภทที่ 14.01 และยาเส้นใน (6) ของประเภทที่ 14.01&lt;/strong&gt; ไว้ดังต่อไปนี้ มีผลบังคับใช้ &lt;strong&gt;&lt;em&gt;ตั้งแต่วันที่ 9 กรกฎาคม 2563 เป็นต้นไป&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -978,10 +978,10 @@
     
     <item>
       <title>อัตราภาษีสรรพสามิต รถยนต์นั่งสามล้อ, บุหรี่ซิกาแรต และยาเส้น</title>
-      <link>https://ecs-support.github.io/KM/customs/post/law/oga/excise-edi-11/</link>
+      <link>/post/law/oga/excise-edi-11/</link>
       <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/law/oga/excise-edi-11/</guid>
+      <guid>/post/law/oga/excise-edi-11/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;ประกาศกรมสรรพสามต-เรอง-กำหนดรหสสนคาสรรพสามตสำหรบระบบแลกเปลยนขอมลอเลกทรอนกส-electronic-data-interchange-ฉบบท-11&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดรหัสสินค้าสรรพสามิตสำหรับระบบแลกเปลี่ยนข้อมูลอิเล็กทรอนิกส์ (ELECTRONIC DATA INTERCHANGE) (ฉบับที่ 11)&lt;/h2&gt;
 &lt;p&gt;เพื่อให้รหัสสินค้าสรรพสามิตและอัตราภาษีสรรพสามิต สำหรับระบบแลกเปลี่ยนข้อมูลอิเล็กทรอนิกส์ (ELECTRONIC DATA INTERCHANGE : EDI) ถูกต้องและเป็นปัจจุบัน อธิบดีกรมสรรพสามิตจึงกำหนดรหัสสินค้าสรรพสามิต รายการภาษีสรรพสามิต และอัตราภาษีสรรพสามิต เฉพาะในส่วนของ&lt;strong&gt;สินค้ารถยนต์นั่งสามล้อ (ก) ของ (5) ของประเภทที่ 06.01 และ 06.02 บุหรี่ซิกาแรต ใน (1) ของประเภทที่ 14.01 และยาเส้นใน (6) ของประเภทที่ 14.01&lt;/strong&gt; ไว้ดังต่อไปนี้ มีผลบังคับใช้ &lt;strong&gt;&lt;em&gt;ตั้งแต่วันที่ 9 กรกฎาคม 2563 เป็นต้นไป&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -998,10 +998,10 @@
     
     <item>
       <title>ราคาขายปลีกแนะนำ</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/retail-price/</link>
+      <link>/post/knowledge/retail-price/</link>
       <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/retail-price/</guid>
+      <guid>/post/knowledge/retail-price/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;ราคาขายปลีกแนะนำ คือ ราคาขายที่ผู้ประกอบอุตสาหกรรมหรือผู้นำเข้าประสงค์ จะกำหนดเป็นราคาขายปลีกแนะนำให้ผู้ขายปลีกขาย สินค้าของตนให้แก่ผู้บริโภครายสุดท้ายในตลาดปกติ โดยราคาดังกล่าวเป็นราคาที่กรมสรรพสามิตใช้เป็นฐานภาษีในการคำนวณภาษีในกรณีภาษีตามมูลค่า สำหรับสินค้าที่เสียภาษีสรรพสามิต&lt;/p&gt;
 &lt;h2 id=&#34;การบนทกขอมลราคาขายปลกแนะนำ&#34;&gt;การบันทึกข้อมูลราคาขายปลีกแนะนำ&lt;/h2&gt;
@@ -1050,10 +1050,10 @@
     
     <item>
       <title>อัตราภาษีสรรพสามิต สินค้ารถจักรยานยนต์ (ประเภท 07.01)</title>
-      <link>https://ecs-support.github.io/KM/customs/post/announcement/oga/excise-edi-09/</link>
+      <link>/post/announcement/oga/excise-edi-09/</link>
       <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/announcement/oga/excise-edi-09/</guid>
+      <guid>/post/announcement/oga/excise-edi-09/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;ประกาศกรมสรรพสามต-เรอง-กำหนดรหสสนคาสรรพสามตสำหรบระบบแลกเปลยนขอมลอเลกทรอนกส-electronic-data-interchange-ฉบบท-9&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดรหัสสินค้าสรรพสามิตสำหรับระบบแลกเปลี่ยนข้อมูลอิเล็กทรอนิกส์ (ELECTRONIC DATA INTERCHANGE) (ฉบับที่ 9)&lt;/h2&gt;
 &lt;p&gt;เพื่อให้รหัสสินค้าสรรพสามิตและอัตราภาษีสรรพสามิต สำหรับระบบแลกเปลี่ยนข้อมูลอิเล็กทรอนิกส์ (ELECTRONIC DATA INTERCHANGE : EDI) ถูกต้องและเป็นปัจจุบัน อธิบดีกรมสรรพสามิตจึงกำหนดรหัสสินค้าสรรพสามิต รายการสินค้าสรรพสามิต และอัตราภาษีสรรพสามิต เฉพาะในส่วนของสินค้า&lt;em&gt;รถจักรยานยนต์ ในประเภทที่ 07.01&lt;/em&gt; ไว้ มีผลบังคับใช้ &lt;strong&gt;&lt;em&gt;ตั้งแต่วันที่ 1 มกราคม 2563 เป็นต้นไป&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -1069,10 +1069,10 @@
     
     <item>
       <title>อัตราภาษีสรรพสามิต สินค้ารถจักรยานยนต์ (ประเภท 07.01)</title>
-      <link>https://ecs-support.github.io/KM/customs/post/law/oga/excise-edi-09/</link>
+      <link>/post/law/oga/excise-edi-09/</link>
       <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/law/oga/excise-edi-09/</guid>
+      <guid>/post/law/oga/excise-edi-09/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;ประกาศกรมสรรพสามต-เรอง-กำหนดรหสสนคาสรรพสามตสำหรบระบบแลกเปลยนขอมลอเลกทรอนกส-electronic-data-interchange-ฉบบท-9&#34;&gt;ประกาศกรมสรรพสามิต เรื่อง กำหนดรหัสสินค้าสรรพสามิตสำหรับระบบแลกเปลี่ยนข้อมูลอิเล็กทรอนิกส์ (ELECTRONIC DATA INTERCHANGE) (ฉบับที่ 9)&lt;/h2&gt;
 &lt;p&gt;เพื่อให้รหัสสินค้าสรรพสามิตและอัตราภาษีสรรพสามิต สำหรับระบบแลกเปลี่ยนข้อมูลอิเล็กทรอนิกส์ (ELECTRONIC DATA INTERCHANGE : EDI) ถูกต้องและเป็นปัจจุบัน อธิบดีกรมสรรพสามิตจึงกำหนดรหัสสินค้าสรรพสามิต รายการสินค้าสรรพสามิต และอัตราภาษีสรรพสามิต เฉพาะในส่วนของสินค้า&lt;em&gt;รถจักรยานยนต์ ในประเภทที่ 07.01&lt;/em&gt; ไว้ มีผลบังคับใช้ &lt;strong&gt;&lt;em&gt;ตั้งแต่วันที่ 1 มกราคม 2563 เป็นต้นไป&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -1088,10 +1088,10 @@
     
     <item>
       <title>ภาษีสรรพสามิต</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/import/excise/</link>
+      <link>/pages/import/excise/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/import/excise/</guid>
+      <guid>/pages/import/excise/</guid>
       <description>
 
 &lt;script&gt; 

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ใบกำกับการขนย้ายสินค้า on ECS</title>
-    <link>https://ecs-support.github.io/KM/customs/tags/%E0%B9%83%E0%B8%9A%E0%B8%81%E0%B8%B3%E0%B8%81%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%82%E0%B8%99%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2/</link>
+    <link>/tags/%E0%B9%83%E0%B8%9A%E0%B8%81%E0%B8%B3%E0%B8%81%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%82%E0%B8%99%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2/</link>
     <description>Recent content in ใบกำกับการขนย้ายสินค้า on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
     <lastBuildDate>Fri, 28 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://ecs-support.github.io/KM/customs/tags/%E0%B9%83%E0%B8%9A%E0%B8%81%E0%B8%B3%E0%B8%81%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%82%E0%B8%99%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/%E0%B9%83%E0%B8%9A%E0%B8%81%E0%B8%B3%E0%B8%81%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%82%E0%B8%99%E0%B8%A2%E0%B8%B2%E0%B8%A2%E0%B8%AA%E0%B8%99%E0%B8%84%E0%B8%B2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ความหมายของรหัสและข้อมูลต่าง ๆ บนตู้คอนเทรนเนอร์</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/container-no/</link>
+      <link>/post/knowledge/container-no/</link>
       <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/container-no/</guid>
+      <guid>/post/knowledge/container-no/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;1. รหัสเจ้าของตู้ (HPC)&lt;/strong&gt; เป็นอักษรแทนชื่อบริษัทเจ้าของตู้ เช่น HPC,TNY, CMA, EGS, TCL เป็นต้น&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;2. รหัสระบุประเภท (U)&lt;/strong&gt; จะมีเพียง 1 ตัวที่อยู่ท้าย รหัสเจ้าของตู้ จากรูปภาพคือตัวอักษร &lt;strong&gt;U&lt;/strong&gt; มีความหมายคือ ตู้คอนเทนเนอร์ มีรายละเอียดประเภทดังนี้&lt;/p&gt;
@@ -46,10 +46,10 @@
     
     <item>
       <title>รหัสขนาดและประเภทตู้สินค้า</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/container-size-and-type/</link>
+      <link>/post/knowledge/container-size-and-type/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/container-size-and-type/</guid>
+      <guid>/post/knowledge/container-size-and-type/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;ตู้คอนเทนเนอร์ จำเป็นต่อการการขนย้ายสินค้าเป็นอย่างมาก ได้พัฒนาขึ้นเนื่องจากความน่าจะเป็นของสภาพและค่าใช้จ่ายในการขนส่ง ข้อดีของการขนส่งสินค้าคือ จะทำให้การยกของหรือการเคลื่อนย้ายสินค้ารวดเร็วยิ่งขึ้น การเคลื่อนย้ายภายในท่าเรือ หรือ การเคลื่อนย้ายสินค้าระหว่างท่าเรือ กับผู้ส่งสินค้าหรือผู้ผลิตสินค้าเป็นไปอย่างรวดเร็ว ประหยัดเวลาและค่าใช้จ่าย&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;./img/45G1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;

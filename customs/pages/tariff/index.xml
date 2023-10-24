@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>พิกัดศุลกากร on ECS</title>
-    <link>https://ecs-support.github.io/KM/customs/pages/tariff/</link>
+    <link>/pages/tariff/</link>
     <description>Recent content in พิกัดศุลกากร on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
     <lastBuildDate>Sun, 21 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://ecs-support.github.io/KM/customs/pages/tariff/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/pages/tariff/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>การจำแนกพิกัดศุลกากร</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tariff/tariff_classification/</link>
+      <link>/pages/tariff/tariff_classification/</link>
       <pubDate>Tue, 02 Mar 2021 08:10:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tariff/tariff_classification/</guid>
+      <guid>/pages/tariff/tariff_classification/</guid>
       <description>&lt;p&gt;ระบบพิกัด HS Code จัดแบ่งกลุ่มสินค้าตามขั้นตอนการผลิตออกเป็น 21 หมวด 97 ตอน (5,386 ประเภท)&lt;/p&gt;
 &lt;div class=&#34;book-collapsible&#34;&gt;
 &lt;button class=&#34;collapsible&#34;&gt;หมวด 1 สัตว์มีชีวิต ผลิตภัณฑ์จากสัตว์ (ตอนที่ 1 - 5)&lt;/button&gt;
@@ -311,10 +311,10 @@
     
     <item>
       <title>รหัสสถิติสินค้า ฉบับปี 2565</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tariff/ts_2022/</link>
+      <link>/pages/tariff/ts_2022/</link>
       <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tariff/ts_2022/</guid>
+      <guid>/pages/tariff/ts_2022/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;จัดแบ่งกลุ่มสินค้าตามขั้นตอนการผลิตออกเป็น &lt;strong&gt;21 หมวด 97 ตอน&lt;/strong&gt;&lt;/p&gt;
 &lt;div class=&#34;book-collapsible&#34;&gt;
@@ -600,10 +600,10 @@
     
     <item>
       <title>เอกสารที่เกี่ยวข้อง</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tariff/annount/</link>
+      <link>/pages/tariff/annount/</link>
       <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tariff/annount/</guid>
+      <guid>/pages/tariff/annount/</guid>
       <description>&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -685,20 +685,20 @@
     
     <item>
       <title>การยกเว้นอากรตามภาค 4 แห่งพระราชกำหนดพิกัดอัตราศุลกากร พ.ศ. 2530</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tariff/part-4/</link>
+      <link>/pages/tariff/part-4/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tariff/part-4/</guid>
+      <guid>/pages/tariff/part-4/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/part-4.png&#34; alt=&#34;การยกเว้นอากรตามภาค 4&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>พิกัดศุลกากรระบบฮาร์โมไนซ์ HS 2022</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tariff/hs_2022/</link>
+      <link>/pages/tariff/hs_2022/</link>
       <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tariff/hs_2022/</guid>
+      <guid>/pages/tariff/hs_2022/</guid>
       <description>
 
 &lt;script&gt; 
@@ -710,10 +710,10 @@
     
     <item>
       <title></title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tariff/hs_2022/section/</link>
+      <link>/pages/tariff/hs_2022/section/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tariff/hs_2022/section/</guid>
+      <guid>/pages/tariff/hs_2022/section/</guid>
       <description></description>
     </item>
     

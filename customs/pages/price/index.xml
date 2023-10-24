@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ราคาศุลกากร (CUSTOMS VALUATION) on ECS</title>
-    <link>https://ecs-support.github.io/KM/customs/pages/price/</link>
+    <link>/pages/price/</link>
     <description>Recent content in ราคาศุลกากร (CUSTOMS VALUATION) on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
     <lastBuildDate>Sun, 21 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://ecs-support.github.io/KM/customs/pages/price/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/pages/price/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>วิธีการชำระเงิน</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/price/payment-solutions/</link>
+      <link>/pages/price/payment-solutions/</link>
       <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/price/payment-solutions/</guid>
+      <guid>/pages/price/payment-solutions/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/payment.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;การค้าระหว่างประเทศ มีลักษณะพิเศษไม่เหมือนกับการค้าภายในประเทศอยู่หลายประการ เช่น ผู้ซื้อกับผู้ขายอยู่ห่างไกลกัน คือ อยู่กันคนละประเทศ ดังนั้น การติดต่อกันจึงไม่สะดวกเหมือนกับการค้าระหว่างผู้ซื้อและผู้ขายในประเทศเดียวกัน หรือในเมืองเดียวกัน ภาษา ขนบธรรมเนียมประเพณี การปฏิบัติทางการค้าของทั้งสองฝ่ายแตกต่างกัน ความไว้เนื้อเชื่อใจกันอาจมีน้อยในระยะแรกๆ นอกจากนี้ยังมีอุปสรรคอื่นๆ เช่น ต้องมีการส่งสินค้าข้ามเขตแดนจากประเทศหนึ่งไปยังอีกประเทศหนึ่ง การบรรจุสินค้า และจัดหาพาหนะที่บรรทุกสินค้าต้องปฏิบัติตามกฎหมายหรือข้อบังคับต่างๆ เกี่ยวกับการโอนเงินข้ามประเทศ เป็นต้น&lt;/p&gt;
 &lt;p&gt;เมื่อผู้ซื้อและผู้ขายได้มีการตกลงเกี่ยวกับข้อสัญญาซื้อขายกันแล้ว กล่าวคือ ได้มีการตกลงเรื่องคุณภาพและปริมาณสินค้า ราคา กำหนดเวลา สถานที่ส่งมอบสินค้า และเงื่อนไขการชำระเงิน ฯลฯ ผู้ขายก็มีหน้าที่ต้องส่งสินค้าตามที่ตกลง ส่วนผู้ซื้อนั้นมีหน้าที่จะต้องชำระเงินค่าสินค้าที่ซื้อตามสัญญา วิธีการชำระเงินค่าสินค้าที่พบเห็นกันบ่อยในการค้าระหว่างประเทศมี 4 วิธี ได้แก่&lt;/p&gt;
@@ -40,10 +40,10 @@
     
     <item>
       <title>เงื่อนไขการชำระเงิน (Terms of payment)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/price/term-of-payment/</link>
+      <link>/pages/price/term-of-payment/</link>
       <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/price/term-of-payment/</guid>
+      <guid>/pages/price/term-of-payment/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/term-of-payment.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;เงื่อนไขการชำระเงินที่มีกำหนดระยะเวลา (Deferred Payment)  หมายความว่า ผู้ซื้อ (buyer) ไม่ต้องชำระเงินต่อผู้ขายทันทีที่เห็นตั๋ว แต่ให้ทำการรับรองตั๋วแลกเงิน (accept bill) เพื่อที่จะชำระเงินตามเวลาที่ตกลงกันไว้ในอนาคต&lt;/p&gt;
 &lt;h2 id=&#34;ประเภทของเงอนไขการชำระเงนทมกำหนดเวลา-deferred-payment&#34;&gt;ประเภทของเงื่อนไขการชำระเงินที่มีกำหนดเวลา (Deferred payment)&lt;/h2&gt;
@@ -106,10 +106,10 @@
     
     <item>
       <title>ระบบราคาแกตต์ (GATT Valuation)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/price/gatt_valuation/</link>
+      <link>/pages/price/gatt_valuation/</link>
       <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/price/gatt_valuation/</guid>
+      <guid>/pages/price/gatt_valuation/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/gatt.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
@@ -437,10 +437,10 @@
     
     <item>
       <title>ข้อตกลงในการส่งมอบสินค้าระหว่างประเทศ (Incoterms®2010)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/price/incoterms-2010/</link>
+      <link>/pages/price/incoterms-2010/</link>
       <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/price/incoterms-2010/</guid>
+      <guid>/pages/price/incoterms-2010/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/WorkingArea/raw/master/KnowledgeCenter/e-Customs/img/incoterms-2010-infographic-1024x814.jpg&#34; alt=&#34;INCOTERMS 2010&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Incoterms (International Commercial Terms)&lt;/strong&gt; เป็นข้อกำหนดการส่งมอบสินค้า (Term of Shipment) ระหว่างผู้ซื้อกับผู้ขายที่เป็นสากล ซึ่งกำหนดขึ้นโดยหอการค้านานาชาติ (International Chamber Of Commerce - ICC) ได้มีการประชุมบรรดาสมาชิกของหอการค้า นานาชาติทุก 10 ปี เพื่อวางกฎเกณฑ์ข้อตกลงในการส่งมอบสินค้าระหว่างประเทศ (International Commercial Terms: INCOTERMS)&lt;/p&gt;
 &lt;p&gt;เริ่มใช้ในปี ค.ศ. 1936 (พ.ศ. 2479) ต่อมาได้มีการแก้ไขเพิ่มเติมอีกหลายครั้ง ตั้งแต่ปี ค.ศ. 1953, 1967, 1980, 1990, 2000 และฉบับปัจจุบันปรับปรุงแก้ไขเพิ่มเติมเมื่อปี ค.ศ. 2010 (เริ่มใช้เมื่อ 1 มกราคม 2011) เพื่อให้กฎเกณฑ์ดังกล่าวสอดคล้องกับหลักปฏิบัติทางการค้าเทคโนโลยี การสื่อสารทางอิเล็กทรอนิกส์ และระบบ Logistic and Supply Chain ที่พัฒนาและเปลี่ยนแปลงไป โดยกำหนดให้ขอบเขตของ INCOTERMS 2010 จำกัดอยู่เฉพาะเรื่อง ที่เกี่ยวข้องกับสิทธิและหน้าที่ ของคู่สัญญาซื้อขายในเรื่องการส่งมอบสินค้าที่ขาย ประกอบด้วย 11 ข้อตกลง ซึ่งได้แก่&lt;/p&gt;
@@ -513,10 +513,10 @@
     
     <item>
       <title>ข้อตกลงในการส่งมอบสินค้าระหว่างประเทศ (Incoterms®2020)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/price/incoterm-2020/</link>
+      <link>/pages/price/incoterm-2020/</link>
       <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/price/incoterm-2020/</guid>
+      <guid>/pages/price/incoterm-2020/</guid>
       <description>&lt;p&gt;สภาหอการค้านานาชาติ (International Chamber of Commerce :ICC) เป็นผู้กำหนดคำเฉพาะทางการค้า (Trade term) เป็นคำเฉพาะ ที่ใช้ระบุในสัญญาซื้อขาย สินค้าระหว่างประเทศ ที่สามารถกำหนดหน้าที่ความรับผิดชอบในการจัดส่ง การขนส่ง การประกันภัยการรับมอบสินค้าที่ตกลงซื้อขาย ระหว่างผู้ซื้อ และผู้ขาย ตลอดจนความเสี่ยงภัยของสินค้าที่ผู้ขายรับผิดชอบ จะเปลี่ยนไปเป็นความรับผิดชอบของผู้ซื้อเมื่อใด ที่เรียกว่า &lt;strong&gt;Incoterms.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;โดยไม่ต้องมีข้อความบรรยาย หน้าที่ความรับผิดชอบ ระหว่างคู่สัญญาไว้อย่างละเอียดยาว ๆ เพื่ออำนวยความสะดวกในการทำสัญญาซื้อขายสินค้าระหว่างประเทศ ในบางกรณีการตกลงซื้อขายสินค้าภายในประเทศ ก็อาจมีการนำ &lt;strong&gt;Incoterms.&lt;/strong&gt; มาใช้ก็ได้&lt;/p&gt;
 &lt;p&gt;ICC เป็นผู้กำหนดคำและจัดพิมพ์ Incoterms ครั้งแรก พ.ศ.2479 (ค.ศ.1936) และมีการปรับปรุงให้เหมาะสมกับสถานการณ์และภาวะการค้าของโลกมาตลอด ทุก ๆ &lt;em&gt;10 ปี&lt;/em&gt; จะมีการแก้ไขปรับปรุงที่สำคัญหนึ่งครั้ง และได้มีการแก้ไขเพิ่มเติมอีกหลายครั้ง ตั้งแต่ปี ค.ศ. 1953, 1967, 1980, 1990, 2000, 2010 และฉบับปัจจุบัน ปรับปรุงแก้ไขเพิ่มเติมเมื่อปี ค.ศ. 2019 (เริ่มใช้เมื่อ 1 มกราคม 2020) เพื่อให้กฎเกณฑ์ดังกล่าวสอดคล้องกับหลักปฏิบัติทางการค้าเทคโนโลยี การสื่อสารทางอิเล็กทรอนิกส์ และระบบ Logistic and Supply Chain ที่พัฒนาและเปลี่ยนแปลงไป Incoterms®2020 ได้จัดให้มีการรองรับความต้องการของตลาด ที่เกี่ยวกับใบตราส่งที่จดแจ้งว่าสินค้าได้ถูกบรรทุกแล้ว (Bills of Lading: BL with an on-board notation) สำหรับกฎ FCA (Free Carrier) การวางแนวทางของความคุ้มครองประกันภัยในระดับที่แตกต่างกัน สำหรับกฎ CIF (Cost Insurance and Freight) และ CIP (Carriage and Insurance Paid To) การเปิดโอกาสให้เลือกใช้พาหนะขนส่งของตนเองสำหรับกฎ FCA, DAP (Delivery at Place), DPU (Delivery at Place Unloaded) และ DDP (Delivered Duty Paid) การเปลี่ยนแปลงตัวย่อ 3 ตัวสำหรับกฎ DAT (Delivered at Terminal) เป็น DPU และได้เพิ่มข้อกำหนด ด้านความปลอดภัย ภายใต้ภาระหน้าที่และค่าใช้จ่ายที่เกี่ยวกับการขนส่งอีกด้วย&lt;/p&gt;
@@ -568,10 +568,10 @@
     
     <item>
       <title>กำหนดราคาศุลกากรสำหรับสินค้าไม้เป็นเกณฑ์ประเมินเงินอากรขาออก</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/price/wooden_goods/</link>
+      <link>/pages/price/wooden_goods/</link>
       <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/price/wooden_goods/</guid>
+      <guid>/pages/price/wooden_goods/</guid>
       <description>&lt;p&gt;&lt;strong&gt;ประกาศกรมศุลกากร เรื่อง กำหนดราคาศุลกากรสำหรับสินค้าไม้เป็นเกณฑ์ประเมินเงินอากรขาออก&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;อาศัยอํานาจตามความในมาตรา 9 แห่งพระราชกําหนดพิกัดอัตราศุลกากร พ.ศ. 2530 แก้ไขเพิ่มเติม โดยพระราชบัญญัติแก้ไขเพิ่มเติมพระราชกําหนดพิกัดอัตราศุลกากร พ.ศ. 2530 (ฉบับที่ 4) พ.ศ. 2543 อธิบดีกรมศุลกากรเห็นควรกําหนดราคาศุลกากรสําหรับสินค้าไม้ดังต่อไปนี้ และให้ถือราคาที่ประกาศนี้ เป็นเกณฑ์ประเมินเงินอากรขาออก &lt;em&gt;ตั้งแต่วันที่ 1 พฤษภาคม พ.ศ. 2566 เป็นต้นไป&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;../img/woodpng_Page1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -581,7 +581,7 @@
 
 &lt;/div&gt;
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;../data/wood.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;../data/wood.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
 &lt;/div&gt;
       
 &lt;div class=&#34;div-btn&#34;&gt;

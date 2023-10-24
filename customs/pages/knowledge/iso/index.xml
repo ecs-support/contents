@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ระบบการบริหารจัดการความมั่นคงปลอดภัยของสารสนเทศ on ECS</title>
-    <link>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/</link>
+    <link>/pages/knowledge/iso/</link>
     <description>Recent content in ระบบการบริหารจัดการความมั่นคงปลอดภัยของสารสนเทศ on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
     <lastBuildDate>Wed, 16 Jun 2021 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://ecs-support.github.io/KM/customs/pages/knowledge/iso/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/pages/knowledge/iso/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>มาตรฐานระบบบริหารความมั่นคงปลอดภัยสารสนเทศ</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/overview/</link>
+      <link>/pages/knowledge/iso/overview/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/overview/</guid>
+      <guid>/pages/knowledge/iso/overview/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./img/logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;ความก้าวหน้าของเทคโนโลยีสารสนเทศที่เพิ่มมากขึ้น ส่งผลให้ความต้องการในการดูแลความมั่นคงปลอดภัยของ สารสนเทศเพิ่มสูงขึ้นด้วย องค์กรต่างๆ ทั้งภาครัฐและภาคเอกชนต่างก็ให้ความส าคัญอย่างมากต่อการพัฒนาระบบเพื่อ การดูแลรักษาความมั่นคงปลอดภัยของสารสนเทศขององค์กร มีการพัฒนามาตรฐานเกี่ยวกับการดูแลรักษาความมั่นคง ปลอดภัยสารสนเทศออกมาอย่างต่อเนื่อง เพื่อป้องกันความเสียหายที่จะเกิดขึ้นจากภัยคุกคามในรูปแบบต่างๆ ที่มีต่อ ระบบสารสนเทศขององค์กร ซึ่งนับวันจะทวีความรุนแรง และท้าทายต่อผู้บริหารองค์กรที่รับผิดชอบในการดูแลระบบเป็น อย่างมาก&lt;/p&gt;
 &lt;p&gt;มาตรฐาน ISO/IEC27001 เป็นมาตรฐานที่พัฒนาขึ้นโดย ISO (International Organization for Standardization) โดย เป็นข้อกำหนดสำหรับการพัฒนาระบบบริหารความมั่นคงปลอดภัยสารสนเทศ (Information security management system, ITSM) เพื่อสร้างความมั่นใจถึงความมีประสิทธิผลและประสิทธิภาพของความมั่นคงปลอดภัยสารสนเทศของ องค์กร รวมถึงการด าเนินการที่สอดคล้องตามข้อกำหนดด้านระบบความมั่นคงปลอดภัยทั้งของลูกค้า ข้อกฏหมาย และ ระเบียบข้อบังคับต่างๆ ที่เกี่ยวข้องด้วย&lt;/p&gt;
@@ -161,10 +161,10 @@
     
     <item>
       <title>ข้อกำหนดหลักตามมาตรฐาน ISO 27001:2013</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/core/</link>
+      <link>/pages/knowledge/iso/core/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/core/</guid>
+      <guid>/pages/knowledge/iso/core/</guid>
       <description>&lt;p&gt;เพื่อให้เข้าใจภาพกว้างของมาตรฐาซึ่งเป็นพื้นฐานสำหรับ การศึกษารายละเอียดเพิ่มเติมในเอกสารมาตรฐานฉบับเต็มได้ง่ายขึ้น&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;บริบทขององค์กร (Context of the organization)&lt;/li&gt;
@@ -234,10 +234,10 @@
     
     <item>
       <title>โครงสร้างของมาตรฐาน ISO 27001:2013</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/structure/</link>
+      <link>/pages/knowledge/iso/structure/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/structure/</guid>
+      <guid>/pages/knowledge/iso/structure/</guid>
       <description>&lt;p&gt;มาตรฐาน ISO 27001 (Information Security Management System-ISMS) มาตรฐานการจัดการความมั่นคงปลอดภัยของสารสนเทศ ประกอบด้วยข้อกำหนดที่ครอบคลุมถึงการ จัดทำ นำไปปฏิบัติ ทบทวนและเฝ้าระวัง รักษาความต่อเนื่อง รวมถึงปรับปรุงระบบให้สอดคล้องกับสถานะการณ์  ผู้ที่ประยุกต์ใช้มาตรฐานนี้ต้องจัดทำเอกสารให้ครอบคลุมข้อกำหนดข้างต้น และระบบที่จัดทำขึ้นนี้จะต้องเหมาะสมกับความเสี่ยงเชิงธุรกิจขององค์กร&lt;/p&gt;
 &lt;p&gt;มาตรฐานนี้ใช้แนวทาง PDCA (Plan-Do-Check-Act) เป็นโครงสร้างเช่นเดียวกับมาตรฐานที่รู้จักกันอย่างแพร่หลาย เช่น ISO 9001(Quality Management System-QMS) ISO14001(Environmental Management System-EMS) ดังนั้นองค์กรที่มีระบบ QMS,EMS อยู่แล้วสามารถเข้าใจแนวทางของ ISMS ได้ไม่ยากนัก เพียงแต่เปลี่ยนมุมมองมาสนใจที่ Information และวางแนวทางบริหารให้เกิดความมั่นคงปลอดภัย โดยผ่านกระบวนการ วางแผน (Plan) นำไปปฏิบัติ(Do) ทบทวนและตรวจสอบ(Check) และแก้ไขปรับปรุง (Act)&lt;/p&gt;
 &lt;p&gt;จะเห็นได้ว่าหลักการ PCDA สอดคล้องกับสามัญสำนึกทั่วไป  คือก่อนทำอะไรควรมีการวางแผนล่วงหน้า พิจารณาให้รอบคอบแล้วลงจึงมือทำตามแผน หลังจากนั้นก็ตรวจสอบผลลัพธ์ว่าเป็นไปตามแผนที่วางไว้หรือไม่ หากไม่เป็นไปตามแผนก็ต้องแก้ไขปรับปรุง และนำบทเรียนมาพิจารณาในการวางแผนก่อนทำงานครั้งต่อไป  ซึ่งแนวคิดนี้สามารถประยุกต์ใช้ในการทำมาตรฐาน ISO/IEC 27001 ได้เป็นอย่างดี การที่องค์กรหนึ่งผ่านการรับรองมาตรฐานระบบการความมั่นคงปลอดภัยของสารสนเทศ ISO 27001 นั้นหมายถึง องค์กรดังกล่าวได้นำข้อกำหนดของมาตรฐาน ISO 27001 มาประยุกต์ใช้อย่างครบถ้วน และมีหลักฐานที่เป็นรูปธรรมให้เชื่อได้ว่าองค์กรดังกล่าวมีระบบการจัดการความมั่นคงปลอดภัยของสารสนเทศที่ได้มาตรฐานสากล&lt;/p&gt;
@@ -267,10 +267,10 @@
     
     <item>
       <title>การตรวจสอบ ด้านเทคโนโลยีสารสนเทศ</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/int_audit/</link>
+      <link>/pages/knowledge/iso/int_audit/</link>
       <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/int_audit/</guid>
+      <guid>/pages/knowledge/iso/int_audit/</guid>
       <description>&lt;p&gt;ในการดำเนินงานขององค์กรจะมีระบบงานต่างๆ ที่จะขับเคลื่อนให้การทำงานขององค์กร สามารถบรรลุ ผลสำเร็จ โดยอาศัยระบบเทคโนโลยีสารสนเทศเป็นเครื่องมือช่วยสนับสนุนการปฏิบัติงานให้เกิดความสะดวก คล่องตัว และรวดเร็วยิ่งขึ้น โดยผ่านระบบ Application ซึ่งเป็นโปรแกรมการปฏิบัติงานต่างๆ ภายในระบบเทคโนโลยีสารสนเทศ ความเสี่ยง เริ่มตั้งแต่การนำข้อมูลเข้า เช่น งานจัดเก็บรายได้ของกรมสรรพสามิต อาจมีความเสี่ยงระบบล่ม ไม่สามารถบันทึกข้อมูลได้ หรือระบบถูกบุคคลที่ไม่ได้รับอนุญาตเข้าใช้ข้อมูล&lt;/p&gt;
 &lt;h2 id=&#34;การควบคมภายในดานเทคโนโลยสารสนเทศ&#34;&gt;การควบคุมภายในด้านเทคโนโลยีสารสนเทศ&lt;/h2&gt;
 &lt;p&gt;ประกอบด้วยการควบคุมทั่วไป (General Control) และการควบคุมเฉพาะระบบงาน (Application Control)&lt;/p&gt;
@@ -328,25 +328,56 @@
     
     <item>
       <title>การทำความเข้าใจความต้องการ ความคาดหวัง ของผู้มีส่วนได้เสีย</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/</link>
+      <link>/pages/knowledge/iso/law/</link>
       <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/</guid>
+      <guid>/pages/knowledge/iso/law/</guid>
       <description>
 
 &lt;script&gt; 
- location.replace(&#34;/KM/customs/pages/knowledge/iso/section/&#34;)  
+ location.replace(&#34;/pages/knowledge/iso/section/&#34;)  
 &lt;/script&gt;
 
 </description>
     </item>
     
     <item>
+      <title>พระราชบัญญัติลิขสิทธิ์ (ฉบับที่ 5) พ.ศ. 2565</title>
+      <link>/pages/knowledge/iso/law/copyright-5-act-2565/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/knowledge/iso/law/copyright-5-act-2565/</guid>
+      <description>&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;./docs.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;เหตุผลในการประกาศใช้พระราชบัญญัติฉบับนี้ คือ โดยที่ประเทศไทยจะเข้าเป็นภาคีสนธิสัญญาว่าด้วยลิขสิทธิ์ขององค์การทรัพย์สินทางปัญญาโลก (WIPO Copyright Treaty) เพื่อเพิ่มประสิทธิภาพในการคุ้มครองงานอันมีลิขสิทธิ์ให้ทันต่อการเปลี่ยนแปลงทางเทคโนโลยี และปรับปรุงบทบัญญัติเกี่ยวกับการคุ้มครองมาตรการทางเทคโนโลยีเพื่อให้เป็นไปตามสนธิสัญญาดังกล่าว รวมทั้งปรับปรุงบทบัญญัติเกี่ยวกับข้อยกเว้นความรับผิดของผู้ให้บริการเพื่อให้การบังคับใช้กฎหมายมีประสิทธิภาพ สร้างความร่วมมือระหว่างผู้ให้บริการและเจ้าของลิขสิทธิ์ในการแก้ไขปัญหาการละเมิดลิขสิทธิ์บนอินเทอร์เน็ต และเพื่อให้การคุ้มครองงาน
+อันมีลิขสิทธิ์มีประสิทธิภาพมากขึ้น ทันต่อการเปลี่ยนแปลงทางเทคโนโลยีและพฤติกรรมของผู้บริโภค จึงจำเป็นต้องตราพระราชบัญญัตินี้&lt;/p&gt;
+&lt;/blockquote&gt;
+      
+&lt;div class=&#34;div-btn&#34;&gt;
+    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
+  ดาวน์โหลดประกาศ
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../section/&#34;&gt;กลับเมนูหลัก&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.etda.or.th/getattachment/fa9266c8-e8b8-4201-9180-449be880078f/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%9A%E0%B8%8D%E0%B8%8D%E0%B8%95%E0%B8%A5%E0%B8%82%E0%B8%AA%E0%B8%97%E0%B8%98-(%E0%B8%89%E0%B8%9A%E0%B8%9A%E0%B8%97-5)-%E0%B8%9E-%E0%B8%A8-2565.aspx&#34;&gt;สำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
       <title>หลักเกณฑ์การเก็บรักษาข้อมูลจราจรทางคอมพิวเตอร์ของผู้ให้บริการ พ.ศ. 2564</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/computer-traffic-2564/</link>
+      <link>/pages/knowledge/iso/law/computer-traffic-2564/</link>
       <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/computer-traffic-2564/</guid>
+      <guid>/pages/knowledge/iso/law/computer-traffic-2564/</guid>
       <description>&lt;p&gt;กระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม ได้ออกประกาศ ลงวันที่ 13 สิงหาคม 2564 เรื่อง หลักเกณฑ์การเก็บรักษาข้อมูลจราจรทางคอมพิวเตอร์ของผู้ให้บริการ พ.ศ. 2564 โดยเป็นการปรับปรุงหลักเกณฑ์การเก็บรักษาข้อมูลจราจรทางคอมพิวเตอร์ของผู้ให้บริการให้มีความเหมาะสมกับสภาวะเศรษฐกิจ สังคม และเทคโนโลยีในปัจจุบัน&lt;/p&gt;
 &lt;p&gt;ประกาศนี้ให้ใช้บังคับตั้งแต่วันถัดจากวันประกาศในราชกิจจานุเบกษาเป็นต้นไป (ประกาศในราชกิจจานุเบกษา เล่ม 138 ตอนพิเศษ 188 ง วันที่ 13 สิงหาคม 2564) และให้ยกเลิกประกาศกระทรวงเทคโนโลยีสารสนเทศและการสื่อสาร เรื่อง หลักเกณฑ์การเก็บรักษาข้อมูลจราจรทางคอมพิวเตอร์ของผู้ให้บริการ พ.ศ. 2550&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;img-01.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -355,7 +386,7 @@
 &lt;br&gt;
 
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;./docs.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
@@ -379,10 +410,10 @@
     
     <item>
       <title>พระราชบัญญัติ ว่าด้วยการกระทำความผิดเกี่ยวกับคอมพิวเตอร์ พ.ศ. 2550</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/com-act-2550/</link>
+      <link>/pages/knowledge/iso/law/com-act-2550/</link>
       <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/com-act-2550/</guid>
+      <guid>/pages/knowledge/iso/law/com-act-2550/</guid>
       <description>&lt;h2 id=&#34;มาตราทเกยวของ&#34;&gt;มาตราที่เกี่ยวข้อง&lt;/h2&gt;
 &lt;h3 id=&#34;มาตรา-5&#34;&gt;มาตรา 5&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;ผู้ใดเข้าถึงโดยมิชอบซึ่งระบบคอมพิวเตอร์ที่มีมาตรการป้องกันการเข้าถึงโดยเฉพาะและมาตรการนั้นมิได้มีไว้สำหรับตน&lt;/strong&gt; ต้องระวางโทษจำคุกไม่เกินหกเดือน หรือปรับไม่เกินหนึ่งหมื่นบาท หรือทั้งจำทั้งปรับ&lt;/p&gt;
@@ -402,7 +433,7 @@
 &lt;br&gt;
 
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;./docs.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
@@ -426,10 +457,10 @@
     
     <item>
       <title>พระราชบัญญัติว่าด้วยการกระทำความผิดเกี่ยวกับคอมพิวเตอร์ (ฉบับที่ 2) พ.ศ. 2560</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/com-2-act-2560/</link>
+      <link>/pages/knowledge/iso/law/com-2-act-2560/</link>
       <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/com-2-act-2560/</guid>
+      <guid>/pages/knowledge/iso/law/com-2-act-2560/</guid>
       <description>&lt;h2 id=&#34;มาตราทเกยวของ&#34;&gt;มาตราที่เกี่ยวข้อง&lt;/h2&gt;
 &lt;h3 id=&#34;มาตรา-11&#34;&gt;มาตรา 11&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;ผู้ใดส่งข้อมูลคอมพิวเตอร์หรือจดหมายอิเล็กทรอนิกส์แก่บุคคลอื่นอันมีลักษณะเป็นการก่อให้เกิดความเดือนร้อนรำคาญแก่ผู้รับข้อมูลคอมพิวเตอร์หรือจดหมายอิเล็กทรอนิกส์ โดยไม่เปิดโอกาสให้ผู้รับสามารถบอกเลิกหรือแจ้งความประสงค์เพื่อปฏิเสธการตอบรับได้โดยง่าย&lt;/strong&gt; ต้องระวางโทษปรับไม่เกินสองแสนบาท รัฐมนตรีอาจประกาศกำหนดลักษณะและวิธีการส่ง และลักษณ์และปริมาณของข้อมูล ซึ่งไม่เป็นการก่อให้เกิดควรามเดือนร้อนรำคาญแก่ผู้รับ และลักษณะอันเป็นการปฏิเสธการตอบรับได้โดยง่าย&lt;/p&gt;
@@ -454,7 +485,7 @@
 &lt;br&gt;
 
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;./docs.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
@@ -478,17 +509,17 @@
     
     <item>
       <title>ประกาศคณะกรรมการธุรกรรมทางอิเล็กทรอนิกส์ เรื่อง แนวทางการใช้บริการคลาวด์ พ.ศ. 2562</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/cloud-2562/</link>
+      <link>/pages/knowledge/iso/law/cloud-2562/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/cloud-2562/</guid>
+      <guid>/pages/knowledge/iso/law/cloud-2562/</guid>
       <description>&lt;p&gt;ปัจจุบันผู้ให้บริการธุรกรรมทางอิเล็กทรอนิกส์ทั้งภาครัฐและภาคเอกชน มีการให้บริการผ่านช่องทางออนไลน์อย่างแพร่หลาย โดยใช้บริการคลาวด์ (Cloud Computing) เป็นเทคโนโลยีพื้นฐานในการให้บริการธุรกรรมทางอิเล็กทรอนิกส์ ดังนั้น คณะกรรมการธุรกรรมทางอิเล็กทรอนิกส์ จึงมีประกาศประกาศ เรื่อง แนวทางการใช้บริการคลาวด์ พ.ศ. 2562 เพื่อส่งเสริมและพัฒนาการให้บริการแบบคลาวด์ ที่เกี่ยวข้องกับธุรกรรมทางอิเล็กทรอนิกส์ให้มีความมั่นคงปลอดภัย ความน่าเชื่อถือ ตลอดจนมีมาตรฐานเป็นที่ยอมรับในระดับสากล&lt;/p&gt;
 &lt;p&gt;
 
 &lt;br&gt;
 
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;./docs.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
@@ -512,10 +543,10 @@
     
     <item>
       <title>พระราชกฤษฎีกาว่าด้วยวิธีการแบบปลอดภัยในการทำธุรกรรมทางอิเล็กทรอนิกส์ พ.ศ. 2553</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/safe-act-2553/</link>
+      <link>/pages/knowledge/iso/law/safe-act-2553/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/safe-act-2553/</guid>
+      <guid>/pages/knowledge/iso/law/safe-act-2553/</guid>
       <description>&lt;p&gt;เป็นกฎหมายที่กำหนดให้ธุรกรรมทางอิเล็กทรอนิกส์ใดที่ได้กระทำตามวิธีการแบบปลอดภัยที่กำหนดในพระราชกฤษฎีกาฯ ให้สันนิษฐานไว้ว่าเป็นวิธีการที่เชื่อถือได้&lt;/p&gt;
 &lt;h2 id=&#34;มาตราทเกยวของ&#34;&gt;มาตราที่เกี่ยวข้อง&lt;/h2&gt;
 &lt;h3 id=&#34;มาตรา-7&#34;&gt;มาตรา 7&lt;/h3&gt;
@@ -538,7 +569,7 @@
 &lt;br&gt;
 
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;./docs.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
@@ -559,10 +590,10 @@
     
     <item>
       <title>พระราชบัญญัติ การรักษาความมั่นคงปลอดภัยไซเบอร์ พ.ศ. 2562</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/cyber-act-2562/</link>
+      <link>/pages/knowledge/iso/law/cyber-act-2562/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/cyber-act-2562/</guid>
+      <guid>/pages/knowledge/iso/law/cyber-act-2562/</guid>
       <description>&lt;p&gt;พระราชบัญญัตินี้มีบทบัญญัติบางประการเกี่ยวกับการจำกัดสิทธิและเสรีภาพของบุคคล ซึ่งมาตรา 26 ประกอบกับมาตรา 28 มาตรา 32 มาตรา 33 มาตรา 34 มาตรา 36 และ มาตรา 37 ของรัฐธรรมนูญแห่งราชอาณาจักรไทย บัญญัติให้กระทำได้โดยอาศัยอำนาจตามบทบัญญัติแห่งกฎหมาย เหตุผลและความจำเป็นในการจำกัดสิทธิและเสรีภาพของบุคคลตามพระราชบัญญัตินี้ เพื่อให้การรักษาความมั่นคงปลอดภัยไซเบอร์มีประสิทธิภาพ และเพื่อให้มีมาตรการป้องกัน รับมือ และลดความเสี่ยงจากภัยคุกคามทางไซเบอร์อันกระทบต่อความมั่นคงของรัฐและความสงบเรียบร้อยภายในประเทศ ซึ่งการตราพระราชบัญญัตินี้สอดคล้องกับเงื่อนไขที่บัญญัติไว้ในมาตรา 26 ของรัฐธรรมนูญแห่งราชอาณาจักรไทยแล้ว&lt;/p&gt;
 &lt;h2 id=&#34;สวนท-4-การรบมอกบภยคกคามทางไซเบอร&#34;&gt;ส่วนที่ 4 การรับมือกับภัยคุกคามทางไซเบอร์&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;มาตรา 58&lt;/strong&gt; &lt;strong&gt;ในกรณีที่เกิดหรือคาดว่าจะเกิดภัยคุกคามทางไซเบอร์ต่อระบบสารสนเทศ&lt;/strong&gt;&lt;/p&gt;
@@ -575,7 +606,7 @@
 &lt;br&gt;
 
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;./docs.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
@@ -599,10 +630,10 @@
     
     <item>
       <title>พระราชบัญญัติคุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2562</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/personal-act-2562/</link>
+      <link>/pages/knowledge/iso/law/personal-act-2562/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/personal-act-2562/</guid>
+      <guid>/pages/knowledge/iso/law/personal-act-2562/</guid>
       <description>&lt;div class=&#34;toc collapsible-toc&#34;&gt;
  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
  &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
@@ -656,7 +687,7 @@
 &lt;br&gt;
 
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;./docs.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
@@ -678,10 +709,10 @@
     
     <item>
       <title>พระราชบัญญัติลิขสิทธิ์ (ฉบับที่ 2) พ.ศ. 2558</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/copyright-2-act-2558/</link>
+      <link>/pages/knowledge/iso/law/copyright-2-act-2558/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/copyright-2-act-2558/</guid>
+      <guid>/pages/knowledge/iso/law/copyright-2-act-2558/</guid>
       <description>&lt;h2 id=&#34;มาตราทเกยวของ&#34;&gt;มาตราที่เกี่ยวข้อง&lt;/h2&gt;
 &lt;h3 id=&#34;มาตรา-32--3&#34;&gt;มาตรา 32 / 3&lt;/h3&gt;
 &lt;p&gt;มีหลักฐานอันควรเชื่อได้ว่ามีการละเมิดลิขสิทธิ์ในระบบคอมพิวเตอร์ของผู้ให้บริการ เจ้าของลิขสิทธิ์อาจยื่นคําร้องต่อศาล เพื่อมีคําสั่งให้ผู้ให้บริการระงับการละเมิดลิขสิทธิ์นั้น เพื่อประโยชน์แห่งมาตรานี้&lt;strong&gt;ผู้ให้บริการ&lt;/strong&gt; หมายความว่า&lt;/p&gt;
@@ -709,7 +740,7 @@
 &lt;br&gt;
 
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;./docs.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
@@ -732,16 +763,16 @@
     
     <item>
       <title>พระราชบัญญัติลิขสิทธิ์ (ฉบับที่ 3) พ.ศ. 2558</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/copyright-3-act-2558/</link>
+      <link>/pages/knowledge/iso/law/copyright-3-act-2558/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/copyright-3-act-2558/</guid>
+      <guid>/pages/knowledge/iso/law/copyright-3-act-2558/</guid>
       <description>&lt;p&gt;
 
 &lt;br&gt;
 
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;./docs.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
@@ -765,16 +796,16 @@
     
     <item>
       <title>พระราชบัญญัติลิขสิทธิ์ (ฉบับที่ 4) พ.ศ. 2561</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/copyright-4-act-2561/</link>
+      <link>/pages/knowledge/iso/law/copyright-4-act-2561/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/copyright-4-act-2561/</guid>
+      <guid>/pages/knowledge/iso/law/copyright-4-act-2561/</guid>
       <description>&lt;p&gt;
 
 &lt;br&gt;
 
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;./docs.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
@@ -798,16 +829,16 @@
     
     <item>
       <title>พระราชบัญญัติว่าด้วยธุรกรรมทางอิเล็กทรอนิกส์ (ฉบับที่ 3) พ.ศ. 2562</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/eta-3-act-2562/</link>
+      <link>/pages/knowledge/iso/law/eta-3-act-2562/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/eta-3-act-2562/</guid>
+      <guid>/pages/knowledge/iso/law/eta-3-act-2562/</guid>
       <description>&lt;p&gt;
 
 &lt;br&gt;
 
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;./docs.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
@@ -828,16 +859,16 @@
     
     <item>
       <title>พระราชบัญญัติว่าด้วยธุรกรรมทางอิเล็กทรอนิกส์ (ฉบับที่ 4) พ.ศ. 2562</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/eta-4-act-2562/</link>
+      <link>/pages/knowledge/iso/law/eta-4-act-2562/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/eta-4-act-2562/</guid>
+      <guid>/pages/knowledge/iso/law/eta-4-act-2562/</guid>
       <description>&lt;p&gt;
 
 &lt;br&gt;
 
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;./docs.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
@@ -858,16 +889,16 @@
     
     <item>
       <title>พระราชบัญญัติว่าด้วยธุรกรรมทางอิเล็กทรอนิกส์ พ.ศ. 2544</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/eta-act-2544/</link>
+      <link>/pages/knowledge/iso/law/eta-act-2544/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/eta-act-2544/</guid>
+      <guid>/pages/knowledge/iso/law/eta-act-2544/</guid>
       <description>&lt;p&gt;
 
 &lt;br&gt;
 
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;./docs.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
@@ -888,10 +919,10 @@
     
     <item>
       <title>พระราชบัญญิตลิขสิทธิ์ พ.ศ. 2537</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/copyright-act-2537/</link>
+      <link>/pages/knowledge/iso/law/copyright-act-2537/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/copyright-act-2537/</guid>
+      <guid>/pages/knowledge/iso/law/copyright-act-2537/</guid>
       <description>&lt;p&gt;พระราชบัญญัติฉบับนี้มีวัตถุประสงค์เพื่อให้ความคุ้มครองผลประโยชน์และป้องกันสิทธิของผู้สร้างสรรค์ ซึ่งเป็นบุคคลที่เป็นเจ้าของผลงานสร้างสรรค์โดยใช้ความคิด และสติปัญญาของตนในการรังสรรค์งานขึ้น เนื่องจากกฎหมายไม่ได้กำหนดแบบเพื่อให้ได้รับความคุ้มครอง ดังนั้นการคุ้มครองดังกล่าวจะได้โดยอัตโนมัติ พระราชบัญญัตินี้ยังสนับสนุนส่งเสริมให้มีการสร้างสรรค์ผลงานอันมีลิขสิทธิ์เพิ่มขึ้น ยิ่งไปกว่านั้น พระราชบัญญัตินี้ยังให้ความคุ้มครองครอบคลุมถึง โปรแกรมคอมพิวเตอร์ โดยถือว่าเป็นงานวรรณกรรมประเภทหนึ่งตามพระราชบัญญัตินี้อีกด้วย.&lt;/p&gt;
 &lt;h2 id=&#34;มาตราทเกยวของ&#34;&gt;มาตราที่เกี่ยวข้อง&lt;/h2&gt;
 &lt;h3 id=&#34;มาตรา-27&#34;&gt;&lt;strong&gt;มาตรา 27&lt;/strong&gt;&lt;/h3&gt;
@@ -922,7 +953,7 @@
 &lt;br&gt;
 
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;./docs.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
@@ -945,10 +976,10 @@
     
     <item>
       <title>มาตรฐานการรักษาความมั่นคงปลอดภัยของระบบสารสนเทศตามวิธีการแบบปลอดภัย พ.ศ. 2555</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/safe-act-2555/</link>
+      <link>/pages/knowledge/iso/law/safe-act-2555/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/safe-act-2555/</guid>
+      <guid>/pages/knowledge/iso/law/safe-act-2555/</guid>
       <description>&lt;p&gt;คณะกรรมการธุรกรรมทางอิเล็กทรอนิกส์ได้ออกประกาศกำหนดหลักเกณฑ์และรายละเอียดของมาตรฐานการรักษาความมั่นคงปลอดภัยของระบบสารสนเทศตามวิธีการแบบปลอดภัยในแต่ละระดับชั้น ซึ่งมาตรฐานดังกล่าวจะครอบคลุมการธำรงไว้ซึ่งความลับ (Confidentiality) ความถูกต้องความครบถ้วน (Integrity) และ การสภาพพร้อมใช้งาน (Availability) ของระบบสารสนเทศ และให้ความสำคัญกับการดูแลรักษาความมั่นคงปลอดภัยของระบบสารสนเทศใน 11 เรื่อง ได้แก่&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;การสร้างความมั่นคงปลอดภัยด้านบริหารจัดการ&lt;/li&gt;
@@ -968,7 +999,7 @@
 &lt;br&gt;
 
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;./docs.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
@@ -989,16 +1020,16 @@
     
     <item>
       <title>พระราชบัญญัติว่าด้วยธุรกรรมทางอิเล็กทรอนิกส์ (ฉบับที่ 2) พ.ศ. 2551</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/eta-2-act-2551/</link>
+      <link>/pages/knowledge/iso/law/eta-2-act-2551/</link>
       <pubDate>Wed, 13 Feb 2008 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/law/eta-2-act-2551/</guid>
+      <guid>/pages/knowledge/iso/law/eta-2-act-2551/</guid>
       <description>&lt;p&gt;
 
 &lt;br&gt;
 
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;./docs.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
@@ -1019,10 +1050,10 @@
     
     <item>
       <title></title>
-      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/section/</link>
+      <link>/pages/knowledge/iso/section/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/section/</guid>
+      <guid>/pages/knowledge/iso/section/</guid>
       <description></description>
     </item>
     

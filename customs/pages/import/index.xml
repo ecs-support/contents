@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>การนำเข้าสินค้า (Import) on ECS</title>
-    <link>https://ecs-support.github.io/KM/customs/pages/import/</link>
+    <link>/pages/import/</link>
     <description>Recent content in การนำเข้าสินค้า (Import) on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
     <lastBuildDate>Tue, 12 May 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://ecs-support.github.io/KM/customs/pages/import/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/pages/import/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>การนำของเข้าและส่งของออกทางไปรษณีย์</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/import/postal_guide/</link>
+      <link>/pages/import/postal_guide/</link>
       <pubDate>Thu, 05 Aug 2021 01:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/import/postal_guide/</guid>
+      <guid>/pages/import/postal_guide/</guid>
       <description>&lt;div class=&#34;toc collapsible-toc&#34;&gt;
  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
  &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
@@ -104,10 +104,10 @@
     
     <item>
       <title>มาตรการตอบโต้การทุ่มตลาด (Anti-dumping)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/import/1_ad/</link>
+      <link>/pages/import/1_ad/</link>
       <pubDate>Sat, 09 May 2020 00:02:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/import/1_ad/</guid>
+      <guid>/pages/import/1_ad/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/trade-protect/anti_dumping.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
@@ -318,10 +318,10 @@
     
     <item>
       <title>การนำเข้า ส่งออก โดยผู้ประกอบการของเร่งด่วน</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/import/express/</link>
+      <link>/pages/import/express/</link>
       <pubDate>Thu, 05 Aug 2021 01:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/import/express/</guid>
+      <guid>/pages/import/express/</guid>
       <description>&lt;h2 id=&#34;การนำเขา-สงออก-โดยผประกอบการของเรงดวน-express-consignment&#34;&gt;การนำเข้า ส่งออก โดยผู้ประกอบการของเร่งด่วน (Express Consignment)&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;ผู้ประกอบการของเร่งด่วน (express consignment)&lt;/strong&gt; คือ ผู้ที่กรมศุลกากรจดทะเบียนให้เป็นผู้รับผิดชอบการขนส่งเข้ามาใน หรือ นำออกไปนอกราชอาณาจักร โดยให้บริการกับผู้รับฝากแบบ ประตูถึงประตู (DOOR TO DOOR) และต้องดำเนินพิธีการศุลกากรตามที่กรมศุลกากรกำหนดแทนผู้นำเข้าหรือ ผู้ส่งออก ผู้ประกอบการเร่งด่วน ได้แก่ Fed Ex, UPS, DHL, TNT&lt;/p&gt;
 &lt;p&gt;ของเร่งด่วนที่นำเข้ามาเข้ามาจากต่างประเทศ สามารถจัดแบ่งได้ 4 ประเภท ดังนี้&lt;/p&gt;
@@ -362,10 +362,10 @@
     
     <item>
       <title>พิธีการการนำเข้าสินค้า (Import)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/import/customs-clearance/</link>
+      <link>/pages/import/customs-clearance/</link>
       <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/import/customs-clearance/</guid>
+      <guid>/pages/import/customs-clearance/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/import-Customs-clearance.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 
@@ -653,10 +653,10 @@
     
     <item>
       <title>มาตรการตอบโต้การอุดหนุน (Countervailing Duty)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/import/2_cvd/</link>
+      <link>/pages/import/2_cvd/</link>
       <pubDate>Sat, 09 May 2020 03:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/import/2_cvd/</guid>
+      <guid>/pages/import/2_cvd/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/trade-protect/CVD.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;มาตรการตอบโต้การอุดหนุน (Countervailing Duty: CVD) เป็นมาตรการทางการค้าที่ประเทศผู้นำเข้าใช้เพื่อปกป้องอุตสาหกรรมภายในที่ได้รับความเสียหาย หรือมีแนวโน้มที่จะได้รับความเสียหายจากการอุดหนุน อันเกิดจากการนำเข้าสินค้าจากต่างประเทศที่ไม่เป็นธรรม&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;การอุดหนุน (Subsidies) คืออะไร&lt;/strong&gt;&lt;/p&gt;
@@ -847,10 +847,10 @@
     
     <item>
       <title>วิธีปฏิบัติสำหรับการส่งออกสินค้าทางไปรษณีย์</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/import/export/</link>
+      <link>/pages/import/export/</link>
       <pubDate>Thu, 05 Aug 2021 01:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/import/export/</guid>
+      <guid>/pages/import/export/</guid>
       <description>&lt;p&gt;สามารถดำเนินการได้ 2 กรณี คือ&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;em&gt;กรณีที่ไม่ต้องทำใบขนสินค้าขาออก&lt;/em&gt; ให้กระทำได้ ณ ที่ทำการไปรษณีย์ทุกแห่งตามระเบียบข้อบังคับของ บริษัทไปรษณีย์ไทย จำกัด โดยไม่ต้องผ่านการตรวจสอบของเจ้าหน้าที่ศุลกากร ได้แก่ การส่งของดังต่อไปนี้&lt;/li&gt;
@@ -882,10 +882,10 @@
     
     <item>
       <title>มาตรการปกป้องการนำเข้าสินค้าที่เพิ่มขึ้น (Safeguard Measure)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/import/3_sg/</link>
+      <link>/pages/import/3_sg/</link>
       <pubDate>Sat, 09 May 2020 04:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/import/3_sg/</guid>
+      <guid>/pages/import/3_sg/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/trade-protect/SG.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;มาตรการปกป้องการนำเข้าสินค้าที่เพิ่มขึ้น เป็นมาตรการทางการค้าที่ประเทศผู้นำเข้า ใช้ในการคุ้มครองอุตสาหกรรมภายในที่ได้รับความเสียหาย หรือมีแนวโน้มที่จะได้รับความเสียหาย จากการนำข้าที่เพิ่มมากขึ้นมากกว่าปกติ เพื่อเปิดโอกาสให้อุตสาหกรรมภายในของประเทศดังกล่าว สามารถปรับตัวให้สามารถแข่งขันกับสินค้านำเข้าได้&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;การใช้มาตรการ SG ของไทย&lt;/strong&gt;&lt;/p&gt;
@@ -1066,10 +1066,10 @@
     
     <item>
       <title>คู่มือการปฏิบัติพิธีการศุลกากรสำหรับการนำเข้า (e-Import)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/import/guide/</link>
+      <link>/pages/import/guide/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/import/guide/</guid>
+      <guid>/pages/import/guide/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./img/import-Customs-clearance-handbook.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;คู่มือการปฏิบัติพิธีการศุลกากรทางอิเล็กทรอนิกส์ว่าด้วยกระบวนการทางศุลกากรสำหรับการนำเข้า    (e-Import) กำหนดขึ้นเพื่อประโยชน์ในการนำของเข้ามาในราชอาณาจักร ให้การปฏิบัติพิธีการศุลกากรสามารถกระทำโดยวิธีการทางอิเล็กทรอนิกส์ โดยให้ใช้บังคับเป็นการทั่วไปสำหรับการนำของเข้ามาในราชอาณาจักร
 ทางเรือ ทางรถไฟ ทางรถยนต์ คนเดินเข้ามา ทางเครื่องบิน  ทางไปรษณีย์ ทางท่อขนส่งทางบก ทางสายส่งไฟฟ้า ทางเรือที่เข้าออกด่านศุลกากรทางบก เรือเล็กทางทะเลที่เข้าออกด่านศุลกากรทางทะเล ทางผู้โดยสารนำพาขึ้นอากาศยาน&lt;/p&gt;
@@ -1083,17 +1083,17 @@
 &lt;p&gt;&lt;img src=&#34;./img/e-import_system.png&#34; alt=&#34;แผนภาพแสดงกระบวนการนำเข้าด้วยวิธีทางอิเล็กทรอนิกส์ (e-Import System)&#34;&gt;
 แผนภาพแสดงกระบวนการนำเข้าด้วยวิธีทางอิเล็กทรอนิกส์ (e-Import System)&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;ที่มา&lt;/strong&gt; : &lt;a href=&#34;https://ecs-support.github.io/KM/customs/pages/docs/guide-import/&#34;&gt;ประกาศกรมศุลกากรที่ 133 / 2561 เรื่อง &lt;strong&gt;คู่มือการปฏิบัติพิธีการศุลกากรทางอิเล็กทรอนิกส์ว่าด้วยกระบวนการทางศุลกากรสำหรับการนำเข้า (e-Import)&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ที่มา&lt;/strong&gt; : &lt;a href=&#34;https://ecs-support.github.io/pages/docs/guide-import/&#34;&gt;ประกาศกรมศุลกากรที่ 133 / 2561 เรื่อง &lt;strong&gt;คู่มือการปฏิบัติพิธีการศุลกากรทางอิเล็กทรอนิกส์ว่าด้วยกระบวนการทางศุลกากรสำหรับการนำเข้า (e-Import)&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
     
     <item>
       <title>การวางประกันเกี่ยวกับปัญหาพิกัดศุลกากร</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/import/reverve/</link>
+      <link>/pages/import/reverve/</link>
       <pubDate>Thu, 18 Feb 2021 05:10:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/import/reverve/</guid>
+      <guid>/pages/import/reverve/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;จากประกาศกรมศุลกากรที่ 28/.2564 เรื่อง พิธีการศุลกากรนำเข้าทางอิเล็กทรอนิกส์ว่าด้วยการวางประกันปัญหาพิกัดอัตราศุลกากร มีผลบังคับใช้ตั้งแต่วันที่ 17 กุมภาพันธ์ 2564 โดยมีวัตถุประสงค์เพื่อสร้างความชัดเจนให้กับผู้ประกอบการ ในกรณีที่มีปัญหาข้อโต้แย้งพิกัดอัตราศุลกากร ณ ขณะนำเข้าและผู้ประกอบการประสงค์จะนำของออกไปก่อนโดยการวางประกัน&lt;/p&gt;
 &lt;p&gt;เพื่อลดข้อโต้แย้งและการวางประกันปัญหาพิกัดอัตราศุลกากร เพื่อแก้ไขปัญหาที่เกิดขึ้นเกี่ยวกับปัญหาพิกัดอัตราศุลกากรสำหรับสินค้า ณ ขณะนำเข้า โดยกำหนดให้สำนักงานศุลกากรแต่งตั้งคณะผู้เชี่ยวชาญพิกัดอัตราศุลกากรประจำสำนักงาน เพื่อทำหน้าที่ในการให้คำปรึกษา กรณีที่เจ้าหน้าที่ผู้ตรวจปล่อยสงสัยหรือมีข้อโต้แย้งเกี่ยวกับพิกัดอัตราศุลกากรสำหรับสินค้าที่กำลังผ่านพิธีการศุลกากร ทั้งนี้ เพื่อลดการใช้ดุลยพินิจของเจ้าหน้าที่ผู้ตรวจปล่อย และลดภาระผู้ประกอบการในการวางประกันสินค้าที่ไม่มีปัญหาพิกัดอีกด้วย ในกรณีที่ผู้ประกอบการประสงค์ จะวางประกัน หากยังมีข้อโต้แย้งในเรื่องพิกัดอัตราศุลกากร อยู่นั้น กรมศุลกากรได้ออกมาตรการเพื่อให้หน่วยงานที่เกี่ยวข้องเร่งรัดดำเนินการพิจารณาพิกัดอัตราศุลกากร สำหรับสินค้าที่มีปัญหานั้น เพื่อให้ได้ข้อยุติโดยเร็ว โดยกรมศุลกากรสั่งการให้สำนักงานศุลกากรแต่งตั้งคณะทำงานพิจารณาปัญหาพิกัดอัตราศุลกากรประจำสำนักงาน ทำหน้าที่ในการให้ความเห็นพิกัดอัตราศุลกากรสำหรับสินค้านั้นโดยเร็ว ก่อนส่งให้กองพิกัดอัตราศุลกากรวินิจฉัยในขั้นตอนสุดท้ายต่อไป ทั้งนี้กรมศุลกากรได้มีการกำหนดระยะเวลาแล้วเสร็จในแต่ละขั้นตอนไว้ ซึ่งการดำเนินการดังกล่าว จะช่วยให้การพิจารณาปัญหาพิกัด ภายหลังการนำเข้า มีความรวดเร็ว เป็นมาตรฐาน อันจะเป็นประโยชน์กับผู้ประกอบการในการคำนวณต้นทุนการนำเข้าสินค้า และลดปัญหาข้อโต้แย้ง เรื่องพิกัดอัตราศุลกากรสำหรับสินค้าที่เคยมีปัญหา หากมีการนำเข้ามาอีกในอนาคต&lt;/p&gt;
@@ -1136,18 +1136,18 @@
 
 &lt;h2 id=&#34;เอกสารทเกยวของ&#34;&gt;เอกสารที่เกี่ยวข้อง&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;ประกาศกรมศุลกากรที่ 28/.2564 เรื่อง &lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/post/announcement/customs/2564-28/&#34;&gt;พิธีการศุลกากรนำเข้าทางอิเล็กทรอนิกส์ว่าด้วยการวางประกันปัญหาพิกัดอัตราศุลกากร&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;สรุปประเด็นพิจารณาในที่ประชุม การปฏิบัติพิธีการศุลกากรกรณีผู้นำของเข้าแจ้งความสงวนสิทธิขอคืนอากรและการวางประกันเกี่ยวกับ ปัญหาพิกัดศุลกากร &lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/pages/import/reverve/reverve&#34;&gt;[อ่านรายละเอียดเพิ่มเติม]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ประกาศกรมศุลกากรที่ 28/.2564 เรื่อง &lt;a href=&#34;/KM/customs/post/announcement/customs/2564-28/&#34;&gt;พิธีการศุลกากรนำเข้าทางอิเล็กทรอนิกส์ว่าด้วยการวางประกันปัญหาพิกัดอัตราศุลกากร&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;สรุปประเด็นพิจารณาในที่ประชุม การปฏิบัติพิธีการศุลกากรกรณีผู้นำของเข้าแจ้งความสงวนสิทธิขอคืนอากรและการวางประกันเกี่ยวกับ ปัญหาพิกัดศุลกากร &lt;a href=&#34;/KM/customs/pages/import/reverve/reverve&#34;&gt;[อ่านรายละเอียดเพิ่มเติม]&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>การนำเข้ารถยนต์สำเร็จรูป</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/import/import-car/</link>
+      <link>/pages/import/import-car/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/import/import-car/</guid>
+      <guid>/pages/import/import-car/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/import-car.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;nav id=&#34;TableOfContents&#34;&gt;
@@ -1172,7 +1172,7 @@
 &lt;!-- raw HTML omitted --&gt;
 &lt;h2 id=&#34;ประกาศทเกยวของ&#34;&gt;ประกาศที่เกี่ยวข้อง&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/post/law/customs/2561/2561-106/&#34;&gt;ประกาศกรมศุลกากร ที่ 106/ 2561 เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการปฏิบัติพิธีการศุลกากรนำเข้าทางอิเล็กทรอนิกส์ว่าด้วยรถยนต์สำเร็จรูป&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/KM/customs/post/law/customs/2561/2561-106/&#34;&gt;ประกาศกรมศุลกากร ที่ 106/ 2561 เรื่อง หลักเกณฑ์ วิธีการ และเงื่อนไขการปฏิบัติพิธีการศุลกากรนำเข้าทางอิเล็กทรอนิกส์ว่าด้วยรถยนต์สำเร็จรูป&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/ecs-support/knowledge-center/raw/master/data/moc/used_car.pdf&#34;&gt;ประกาศกระทรวงพาณิชย์ เรื่อง กำหนดให้รถยนต์ใช้แล้วเป็นสินค้าที่ต้องห้ามหรือต้องขออนุญาตในการนำเข้ามาในราชอาณาจักร พ.ศ. 2562&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;การปฏบตพธการ&#34;&gt;การปฏิบัติพิธีการ&lt;/h2&gt;
@@ -1205,10 +1205,10 @@
     
     <item>
       <title>ของตกค้าง</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/import/overtime/</link>
+      <link>/pages/import/overtime/</link>
       <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/import/overtime/</guid>
+      <guid>/pages/import/overtime/</guid>
       <description>&lt;p&gt;เนื่องจากในปัจจุบันมีใบขนสินค้าผ่านแดน ที่ส่งข้อมูลหลังจากวันนำเข้า&lt;em&gt;เกิน 60 วัน&lt;/em&gt; ทำให้ระบบกรมศุลกากรได้ Lock ไม่ให้ส่งข้อมูลใบขนสินค้าผ่านแดน ทำให้มีคำถามกลับเข้ามาถึงกฎหมายที่เกี่ยวข้อง และขั้นตอนการปฏิบัติพิธีการศุลกากร สำหร้ับเรื่องดังกล่าว ในส่วนของโปรแกรม เราจำเป็นต้องทราบว่าระบบหลังบ้านกรมศุลกากร จะทำการตรวจสอบและ lock สินค้าที่อยู่ในอารักขาของศุลกากร&lt;em&gt;เกิน 60 วัน&lt;/em&gt; นับแต่วันที่นําเข้า โดย&lt;em&gt;ไม่มีการยื่นใบขนสินค้า&lt;/em&gt; หรือ &lt;em&gt;ไม่ได้เสียอากรหรือวางประกันค่าอากรที่ศุลกากรเรียกเก็บ&lt;/em&gt; ไม่สามารถส่งข้อมูลทางอิเล็กทรอนิกส์ได้&lt;/p&gt;
 &lt;p&gt;เราจึงรวบรวมข้อกฎหมายและขั้นตอนการปฏิบัติของหน่วยงานต่าง ๆ ที่เกี่ยวข้องกับของตกค้าง เพื่อใช้ประกอบทำความเข้าใจ และใช้เป็นแนวทางในการแก้ปัญหาในเรื่องดังกล่าวดังนี้&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/remainder-01.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -1251,10 +1251,10 @@
     
     <item>
       <title>มาตรการปกป้องและตอบโต้ทางการค้า</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/import/trade-protect/</link>
+      <link>/pages/import/trade-protect/</link>
       <pubDate>Sat, 09 May 2020 01:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/import/trade-protect/</guid>
+      <guid>/pages/import/trade-protect/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/trade-protect/trade-protection.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;การค้าเป็นสิ่งคัญที่ทุกประเทศจะนำมาใช้ในการพัฒนาประเทศให้เจริญรุ่งเรือง และเป็นกลไก สำคัญที่จะพัฒนาประเทศ แต่เนื่องจากการผลิตสินค้าในประเทศนั้น อาจมีค่าแรงสูงและกระบวนการผลิตที่ทำให้สินค้ามีราคาสูงจึงเป็นเรื่องปกติที่คนในประเทศจะใช้สินค้านำเข้าราคาถูกจากประเทศอื่น เช่น จีน หรือเวียดนาม ที่มีค่าแรงขั้นต่ำราคาถูก ที่มาโจมตีสินค้าภายในประเทศได้ กรณีนี้จึงต้องมีมาตรการป้องกันเศรษฐกิจและสินค้าภายในประเทศตนเอง เพื่อให้คนในประเทศหันมาอุดหนุนสินค้าของประเทศตนเอง โดยองค์การการค้าโลกได้มีวิธีที่จะให้ประเทศสมาชิกใช้มาตรการต่าง ๆ เพื่อป้องกันการทุ่มตลาดจากประเทศอื่น ๆ ได้เช่น  มาตรการตอบโต้การทุ่มตลาด (Anti-dumping: AD) และมาตรการตอบโต้การอุดหนุน (Countervailing Duty: CVD), มาตรการสนับสนุนของรัฐ รวมทั้งใช้เป็นมาตรการทางการค้า ที่ประเทศผู้นำเข้าใช้เพื่อปกป้องอุตสาหกรรมภายในที่ได้รับความเสียหาย หรือมีแนวโน้มที่จะได้รับความเสียหาย อันเกิดจากการนำเข้าสินค้าจากต่างประเทศที่ไม่เป็นธรรม&lt;/p&gt;
 </description>
@@ -1262,10 +1262,10 @@
     
     <item>
       <title>การนำของเข้าทางไปรษณีย์</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/import/postal/</link>
+      <link>/pages/import/postal/</link>
       <pubDate>Thu, 05 Aug 2021 01:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/import/postal/</guid>
+      <guid>/pages/import/postal/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/postal.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
@@ -1358,10 +1358,10 @@
     
     <item>
       <title>ภาษีสรรพสามิต</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/import/excise/</link>
+      <link>/pages/import/excise/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/import/excise/</guid>
+      <guid>/pages/import/excise/</guid>
       <description>
 
 &lt;script&gt; 

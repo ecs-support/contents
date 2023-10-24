@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>การส่งออก on ECS</title>
-    <link>https://ecs-support.github.io/KM/customs/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%81/</link>
+    <link>/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%81/</link>
     <description>Recent content in การส่งออก on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
     <lastBuildDate>Sun, 16 May 2021 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://ecs-support.github.io/KM/customs/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%81/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%81/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>การส่งออกสินค้า (Export)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/export/</link>
+      <link>/pages/export/</link>
       <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/export/</guid>
+      <guid>/pages/export/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;img/e-export.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;การส่งออกสินค้า (Export) คือ การจัดส่งสินค้าและบริการจากต้นทางสู่ปลายทางในทางบก ทางน้ำหรือทางอากาศ โดยผู้ส่งสินค้าหรือบริการออกเรียกว่า &lt;strong&gt;ผู้ส่งออก&lt;/strong&gt; ส่วนในทางการค้าระหว่างประเทศ การส่งออกหมายถึง การขายสินค้าและบริการในประเทศไปสู่ตลาดอื่น (ตลาดสากล) ในการส่งออกและนำเข้าซึ่งสินค้าจะต้องมีหน่วยงานที่ต้องเกี่ยวข้องด้วยคือ กรมศุลกากร แม้ว่าจะเป็นการนำเข้า หรือส่งออกผ่านทางระบบอินเทอร์เน็ตเองก็จำเป็นต้องเกี่ยวข้องกับกรมศุลการกรด้วย และที่สำคัญต้องอยู่ภายใต้กฎหมายการนำเข้าและส่งออกของประเทศนั้น ๆ&lt;/p&gt;
 &lt;blockquote&gt;
@@ -28,27 +28,27 @@
   &lt;ul class=&#34;list-unstyled&#34;&gt;
     
       &lt;li&gt;
-        &lt;h5&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/pages/export/road/&#34;&gt;พิธีการส่งออกทางบก&lt;/a&gt;&lt;/h5&gt;
+        &lt;h5&gt;&lt;a href=&#34;/pages/export/road/&#34;&gt;พิธีการส่งออกทางบก&lt;/a&gt;&lt;/h5&gt;
         &lt;p&gt;ผู้ส่งของออกที่ประสงค์จะส่งสินค้าทั่วไป ออกจากราชอาณาจักรผ่านเขตแดนทางบก จะต้องจัดทำข้อมูล “ใบขนสินค้าขาออก (กศก. 101 ⁄ 1)” ตามรูปแบบและมาตรฐานที่กรมศุลกากรกำหนด โดยจะต้องจัดทำข้อมูลใบขนฯ ดังกล่าวในรูปแบบอิเล็กทรอนิกส์ แล้วส่งมายังระบบคอมพิวเตอร์ของกรมศุลกากร ก่อนการขนย้ายของมายังด่านศุลกากรที่จะส่งของออก เมื่อระบบคอมพิวเตอร์ได้ตรวจสอบข้อมูลใบขนฯ ที่ส่งมาแล้ว หากไม่พบข้อผิดพลาด ระบบจะแจ้งเลขที่ใบขนสินค้าขาออกตอบกลับไปยังผู้ส่งของออก เพื่อให้ผู้ส่งออกไปดำเนินการชำระค่าภาษีอากร (ถ้ามี) และทำการขนย้ายของไปยังด่านศุลกากรเพื่อรับการตรวจปล่อยต่อไป&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
-        &lt;h5&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/pages/export/sea/&#34;&gt;พิธีการส่งออกทางเรือ&lt;/a&gt;&lt;/h5&gt;
+        &lt;h5&gt;&lt;a href=&#34;/pages/export/sea/&#34;&gt;พิธีการส่งออกทางเรือ&lt;/a&gt;&lt;/h5&gt;
         &lt;p&gt;ในการส่งออกสินค้า ผู้ส่งออกจะต้องปฏิบัติตามกฎหมาย ระเบียบ และประกาศที่กรมศุลกากรและหน่ายงานอื่น ๆ ที่เกี่ยวข้องในการส่งออก กำหนดไว้ให้ครบถ้วนเช่นเดียวกับการนำเข้า โดยมีคำแนะนำในการจัดเตรียมเอกสาร เพื่อปฏิบัติตามขั้นตอนพิธีการศุลกากรในการส่งออกสินค้า&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
-        &lt;h5&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/pages/export/air/&#34;&gt;พิธีการส่งออกทางอากาศ&lt;/a&gt;&lt;/h5&gt;
+        &lt;h5&gt;&lt;a href=&#34;/pages/export/air/&#34;&gt;พิธีการส่งออกทางอากาศ&lt;/a&gt;&lt;/h5&gt;
         &lt;p&gt;การปฏิบัติพิธีการศุลกากรส่งออกสินค้าทางอากาศยานในปัจจุบัน เป็นการดำเนินการผ่านระบบอิเล็กทรอนิกส์แบบไร้เอกสาร (Paperless) โดยมีจุดมุ่งหมาย ในการอำนวยความสะดวกทางการค้า และเพื่อส่งเสริมความสามารถในการแข่งขันบนเวทีการค้าโลก ผู้ที่ประสงค์จะดำเนินการปฏิบัติพิธีการ ศุลกากรส่งออกสินค้าทางอิเล็กทรอนิกส์แบบไร้เอกสาร (e-Export) ณ สำนักงานศุลกากรตรวจสินค้าท่าอากาศยานสุวรรณภูมิ ต้องทำการลงทะเบียนกับกรมศุลกากร เพื่อบันทึกข้อมูลไว้ในฐานข้อมูลระบบคอมพิวเตอร์ของกรมศุลกากร.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
-        &lt;h5&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/pages/export/e-export/&#34;&gt;คู่มือสำหรับการส่งออก (e-Export)&lt;/a&gt;&lt;/h5&gt;
+        &lt;h5&gt;&lt;a href=&#34;/pages/export/e-export/&#34;&gt;คู่มือสำหรับการส่งออก (e-Export)&lt;/a&gt;&lt;/h5&gt;
         &lt;p&gt;คู่มือการปฏิบัติพิธีการศุลกากรส่งออกทางอิเล็กทรอนิกส์ว่าด้วยกระบวนการทางศุลกากรสําหรับการส่งออก (e-Export) กําหนดขึ้นเพื่อประโยชน์ในการส่งของออก ให้การปฏิบัติพิธีการศุลกากรสามารถกระทําโดยวิธีการทางอิเล็กทรอนิกส์ได้ โดยให้ใช้บังคับเป็นการทั่วไปสําหรับการส่งของออกไปนอกราชอาณาจักร.&lt;/p&gt;
       &lt;/li&gt;
     
       &lt;li&gt;
-        &lt;h5&gt;&lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/pages/export/re-export/&#34;&gt;การคืนอากรตามมาตรา 28 (Re-export)&lt;/a&gt;&lt;/h5&gt;
+        &lt;h5&gt;&lt;a href=&#34;/pages/export/re-export/&#34;&gt;การคืนอากรตามมาตรา 28 (Re-export)&lt;/a&gt;&lt;/h5&gt;
         &lt;p&gt;ผู้นําของเข้ามาในราชอาณาจักรและเสียอากรแล้ว หากส่งของนั้นกลับออกไปนอกราชอาณาจักร หรือ ส่งไปเป็นของใช้สิ้นเปลืองในเรือ หรืออากาศยานที่เดินทางออกไปนอกราชอาณาจักร ให้มีสิทธิขอคืนอากรขาเข้า สําหรับของนั้นเก้าในสิบส่วน หรือส่วนที่เกินหนึ่งพันบาทของจํานวนที่ได้เรียกเก็บไว้ โดยคํานวณตามใบขนสินค้าขาออกแต่ละฉบับ แล้วแต่จํานวนใดจะสูงกว่า&lt;/p&gt;
       &lt;/li&gt;
     
@@ -60,10 +60,10 @@
     
     <item>
       <title>โครงสร้างข้อมูลใบขนสินค้าขาออก</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/export/e-export/1.data-structure/</link>
+      <link>/pages/export/e-export/1.data-structure/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/export/e-export/1.data-structure/</guid>
+      <guid>/pages/export/e-export/1.data-structure/</guid>
       <description>&lt;p&gt;โครงสร้างข้อมูลใบขนสินค้าขาออก แบ่งได้เป็น 6 ส่วนดังนี้&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;#export-declaration-control&#34;&gt;&lt;strong&gt;Export Declaration Control&lt;/strong&gt;&lt;/a&gt;	ประกอบด้วย	70 Fields&lt;/li&gt;
@@ -176,10 +176,10 @@
     
     <item>
       <title>พิธีการส่งออกทางบก</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/export/road/</link>
+      <link>/pages/export/road/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/export/road/</guid>
+      <guid>/pages/export/road/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/ECS_contents/raw/master/ECS_Academia/content/customs/import-export/export/img/flowTH2-1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;1-การยนใบขนสนคา&#34;&gt;1. การยื่นใบขนสินค้า&lt;/h2&gt;
 &lt;p&gt;ผู้ส่งของออกที่ประสงค์จะส่งสินค้าทั่วไป ออกจากราชอาณาจักรผ่านเขตแดนทางบก จะต้องจัดทำข้อมูล “ใบขนสินค้าขาออก (กศก. 101 ⁄ 1)” ตามรูปแบบและมาตรฐานที่กรมศุลกากรกำหนด โดยจะต้องจัดทำข้อมูลใบขนฯ ดังกล่าวในรูปแบบอิเล็กทรอนิกส์ แล้วส่งมายังระบบคอมพิวเตอร์ของกรมศุลกากร ก่อนการขนย้ายของมายังด่านศุลกากรที่จะส่งของออก เมื่อระบบคอมพิวเตอร์ได้ตรวจสอบข้อมูลใบขนฯ ที่ส่งมาแล้ว หากไม่พบข้อผิดพลาด ระบบจะแจ้งเลขที่ใบขนสินค้าขาออกตอบกลับไปยังผู้ส่งของออก เพื่อให้ผู้ส่งออกไปดำเนินการชำระค่าภาษีอากร (ถ้ามี) และทำการขนย้ายของไปยังด่านศุลกากรเพื่อรับการตรวจปล่อยต่อไป&lt;/p&gt;
@@ -221,10 +221,10 @@
     
     <item>
       <title>หลักการบันทึกข้อมูลใบขนสินค้าขาออก</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/export/e-export/2.principles-for-recording/</link>
+      <link>/pages/export/e-export/2.principles-for-recording/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/export/e-export/2.principles-for-recording/</guid>
+      <guid>/pages/export/e-export/2.principles-for-recording/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;สามารถใช้สิทธิ์ &lt;strong&gt;Freezone, I-EAT Free Zone, Bond&lt;/strong&gt; &lt;em&gt;เพียงอย่างใดอย่างหนึ่ง&lt;/em&gt; ในแต่ละรายการของ
@@ -249,10 +249,10 @@
     
     <item>
       <title>พิธีการส่งออกทางเรือ</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/export/sea/</link>
+      <link>/pages/export/sea/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/export/sea/</guid>
+      <guid>/pages/export/sea/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/ECS_contents/raw/master/ECS_Academia/content/customs/import-export/export/img/flowTH2-2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;ในการส่งออกสินค้า ผู้ส่งออกจะต้องปฏิบัติตามกฎหมาย ระเบียบ และประกาศที่กรมศุลกากรและหน่ายงานอื่น ๆ ที่เกี่ยวข้องในการส่งออก กำหนดไว้ให้ครบถ้วนเช่นเดียวกับการนำเข้า โดยมีคำแนะนำในการจัดเตรียมเอกสาร เพื่อปฏิบัติตามขั้นตอนพิธีการศุลกากรในการส่งออกสินค้า ดังนี้&lt;/p&gt;
 &lt;h2 id=&#34;ประเภทใบขนสนคา&#34;&gt;ประเภทใบขนสินค้า&lt;/h2&gt;
@@ -348,10 +348,10 @@
     
     <item>
       <title>หลักการรวมรายการสินค้า</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/export/e-export/3.list-of-products/</link>
+      <link>/pages/export/e-export/3.list-of-products/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/export/e-export/3.list-of-products/</guid>
+      <guid>/pages/export/e-export/3.list-of-products/</guid>
       <description>&lt;h2 id=&#34;ใชสทธตามมาตรา-29&#34;&gt;ใช้สิทธิ์ตามมาตรา 29&lt;/h2&gt;
 &lt;p&gt;สามารถบันทึกข้อมูลรายละเอียดใบขนสินค้าจัดกลุ่มรายการตามพิกัดศุลกากร และ สูตรการผลิต และ Model (ถ้ามี) โดยต้องสําแดงชนิดสินค้าให้มีรายละเอียดที่จําเป็น เพื่อให้สามารถเชื่อมโยงกับสูตรการผลิตที่ต้องการขอคืนอากรได้&lt;/p&gt;
 &lt;h2 id=&#34;ใชสทธชดเชย&#34;&gt;ใช้สิทธิ์ชดเชย&lt;/h2&gt;
@@ -372,10 +372,10 @@
     
     <item>
       <title>พิธีการส่งออกทางอากาศ</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/export/air/</link>
+      <link>/pages/export/air/</link>
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/export/air/</guid>
+      <guid>/pages/export/air/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/flowTH2-3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
@@ -510,10 +510,10 @@
     
     <item>
       <title>การยกเว้นอากรตามภาค 4</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/export/e-export/4.part-4/</link>
+      <link>/pages/export/e-export/4.part-4/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/export/e-export/4.part-4/</guid>
+      <guid>/pages/export/e-export/4.part-4/</guid>
       <description>&lt;div class=&#34;book-collapsible&#34;&gt;
 &lt;button class=&#34;collapsible&#34;&gt;1 ภาค 4 สุทธินำกลับ&lt;/button&gt;
 &lt;div class=&#34;content&#34;&gt;
@@ -587,10 +587,10 @@
     
     <item>
       <title>สิทธิประโยชน์ทางภาษีอากร</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/export/e-export/5.tax-incentives/</link>
+      <link>/pages/export/e-export/5.tax-incentives/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/export/e-export/5.tax-incentives/</guid>
+      <guid>/pages/export/e-export/5.tax-incentives/</guid>
       <description>&lt;div class=&#34;book-collapsible&#34;&gt;
 &lt;button class=&#34;collapsible&#34;&gt;Re-Export&lt;/button&gt;
 &lt;div class=&#34;content&#34;&gt;
@@ -730,10 +730,10 @@
     
     <item>
       <title>การตรวจสอบข้อมูลใบขนสินค้าขาออก</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/export/e-export/6.check-data-declalation/</link>
+      <link>/pages/export/e-export/6.check-data-declalation/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/export/e-export/6.check-data-declalation/</guid>
+      <guid>/pages/export/e-export/6.check-data-declalation/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;การตรวจสอบความถูกต้องเบื้องต้น ระบบคอมพิวเตอร์ของศุลกากรจะตรวจสอบความถูกต้อง
@@ -759,10 +759,10 @@
     
     <item>
       <title>การตรวจสอบข้อมูลใบขนสินค้า กับระบบทะเบียนผู้มาติดต่อ</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/export/e-export/7.contact-registration/</link>
+      <link>/pages/export/e-export/7.contact-registration/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/export/e-export/7.contact-registration/</guid>
+      <guid>/pages/export/e-export/7.contact-registration/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;การตรวจสอบลายเซ็นอิเล็กทรอนิกส์ (Digital Signature)&lt;/strong&gt; มีเงื่อนไขดังนี้&lt;/p&gt;
@@ -805,20 +805,20 @@
     
     <item>
       <title>รูปแบบเลขที่ใบขนสินค้า</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/export/e-export/8.declaration-no/</link>
+      <link>/pages/export/e-export/8.declaration-no/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/export/e-export/8.declaration-no/</guid>
+      <guid>/pages/export/e-export/8.declaration-no/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page49.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>การชําระภาษีอากร</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/export/e-export/9.duty-payment/</link>
+      <link>/pages/export/e-export/9.duty-payment/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/export/e-export/9.duty-payment/</guid>
+      <guid>/pages/export/e-export/9.duty-payment/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;การบันทึกข้อมูลการชําระภาษีอากรผ่านธนาคาร&lt;/li&gt;
 &lt;li&gt;การวางคํ้าประกันของธนาคาร เมื่อผู้ส่งของออกดําเนินการตั้งภาระค้ำประกันตามมาตรฐานที่กรมศุลกากรกําหนดแล้ว ระบบคอมพิวเตอร์ของศุลกากรจะออกเลขที่รับประกันธนาคาร พร้อมกับเปลี่ยนสถานะ ใบขนสินค้าขาออกเป็น &lt;strong&gt;“ใบขนสินค้าที่ชําระค่าภาษีอากรแล้ว”&lt;/strong&gt; โดยอัตโนมัติ&lt;/li&gt;
@@ -833,40 +833,40 @@
     
     <item>
       <title>การส่งข้อมูลใบขนสินค้าขาออกโดยใช้เคาน์เตอร์บริการ</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/export/e-export/10.counter-service/</link>
+      <link>/pages/export/e-export/10.counter-service/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/export/e-export/10.counter-service/</guid>
+      <guid>/pages/export/e-export/10.counter-service/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page51.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>การจัดทำและยื่นใบขนสินค้าในรูปแบบเอกสาร (Manual)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/export/e-export/11.submission-in-document-format/</link>
+      <link>/pages/export/e-export/11.submission-in-document-format/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/export/e-export/11.submission-in-document-format/</guid>
+      <guid>/pages/export/e-export/11.submission-in-document-format/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page52.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>การบรรจุสินค้า</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/export/e-export/12.product-packaging/</link>
+      <link>/pages/export/e-export/12.product-packaging/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/export/e-export/12.product-packaging/</guid>
+      <guid>/pages/export/e-export/12.product-packaging/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page53.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>โครงสร้างข้อมูลใบกำกับการขนย้ายสินค้า</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/export/e-export/13.goods-control-list-structure/</link>
+      <link>/pages/export/e-export/13.goods-control-list-structure/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/export/e-export/13.goods-control-list-structure/</guid>
+      <guid>/pages/export/e-export/13.goods-control-list-structure/</guid>
       <description>&lt;p&gt;&lt;strong&gt;ใบกํากับการขนย้ายสินค้า&lt;/strong&gt; แบ่งออกเป็น 2 ส่วน ได้แก่&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;#goods-transition-control&#34;&gt;&lt;strong&gt;Goods Transition Control&lt;/strong&gt;&lt;/a&gt; ประกอบด้วย 31 Field&lt;/li&gt;
@@ -942,10 +942,10 @@
     
     <item>
       <title>การจัดทําข้อมูลใบกํากับการขนย้ายสินค้า</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/export/e-export/14.prepare-goods-control-list/</link>
+      <link>/pages/export/e-export/14.prepare-goods-control-list/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/export/e-export/14.prepare-goods-control-list/</guid>
+      <guid>/pages/export/e-export/14.prepare-goods-control-list/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
@@ -1004,10 +1004,10 @@
     
     <item>
       <title>การขนย้ายสินค้าผ่านสถานีรับบรรทุก ณ ด่านศุลกากรที่ส่งออก</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/export/e-export/15.transfer-of-goods-to-load-port/</link>
+      <link>/pages/export/e-export/15.transfer-of-goods-to-load-port/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/export/e-export/15.transfer-of-goods-to-load-port/</guid>
+      <guid>/pages/export/e-export/15.transfer-of-goods-to-load-port/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page80.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page81.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
@@ -1015,10 +1015,10 @@
     
     <item>
       <title>การตัดบัญชีใบกำกับการขนย้ายสินค้า</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/export/e-export/16.goods-load/</link>
+      <link>/pages/export/e-export/16.goods-load/</link>
       <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/export/e-export/16.goods-load/</guid>
+      <guid>/pages/export/e-export/16.goods-load/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page82.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page83.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page84.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -1028,10 +1028,10 @@
     
     <item>
       <title>สินค้าที่ส่งออกไปนอกราชอาณาจักรไม่ครบจำนวน (Short Packing)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/export/e-export/17.short-packing/</link>
+      <link>/pages/export/e-export/17.short-packing/</link>
       <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/export/e-export/17.short-packing/</guid>
+      <guid>/pages/export/e-export/17.short-packing/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page86.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page87.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -1060,20 +1060,20 @@
     
     <item>
       <title>ตารางแฟ้มข้อมูลอ้างอิง (Reference File)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/export/e-export/18.reference-file/</link>
+      <link>/pages/export/e-export/18.reference-file/</link>
       <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/export/e-export/18.reference-file/</guid>
+      <guid>/pages/export/e-export/18.reference-file/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page102.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>การปฏิบัติงานกรณีเครื่องคอมพิวเตอร์ขัดข้อง ( แผนฉุกเฉิน )</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/export/e-export/19.emergency/</link>
+      <link>/pages/export/e-export/19.emergency/</link>
       <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/export/e-export/19.emergency/</guid>
+      <guid>/pages/export/e-export/19.emergency/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page103.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page104.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page105.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -1084,10 +1084,10 @@
     
     <item>
       <title>คู่มือการปฏิบัติพิธีการศุลกากรสำหรับการส่งออก (e-Export)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/export/e-export/</link>
+      <link>/pages/export/e-export/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/export/e-export/</guid>
+      <guid>/pages/export/e-export/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/export-Customs-clearance-handbook.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;ภาพรวมระบบ&#34;&gt;ภาพรวมระบบ&lt;/h2&gt;
 &lt;p&gt;คู่มือการปฏิบัติพิธีการศุลกากรส่งออกทางอิเล็กทรอนิกส์ว่าด้วยกระบวนการทางศุลกากรสําหรับการส่งออก (e-Export) กําหนดขึ้นเพื่อประโยชน์ในการส่งของออก ให้การปฏิบัติพิธีการศุลกากรสามารถกระทําโดยวิธีการทางอิเล็กทรอนิกส์ได้ โดยให้ใช้บังคับเป็นการทั่วไปสําหรับการส่งของออกไปนอกราชอาณาจักรทางเรือ
@@ -1114,10 +1114,10 @@
     
     <item>
       <title>สรุปโครงสร้างใบขนสินค้าที่เปลี่ยนแปลง</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/export/e-export/20.change/</link>
+      <link>/pages/export/e-export/20.change/</link>
       <pubDate>Sun, 16 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/export/e-export/20.change/</guid>
+      <guid>/pages/export/e-export/20.change/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
@@ -1174,10 +1174,10 @@
     
     <item>
       <title>ตารางแฟ้มข้อมูลอ้างอิง (Reference File)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/export/e-export/100.backup/</link>
+      <link>/pages/export/e-export/100.backup/</link>
       <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/export/e-export/100.backup/</guid>
+      <guid>/pages/export/e-export/100.backup/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page102.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page103.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;../img/e-Export-guidejpg_Page104.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -1192,10 +1192,10 @@
     
     <item>
       <title>การนำของเข้าและส่งของออกทางไปรษณีย์</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/postal-guide/</link>
+      <link>/post/knowledge/postal-guide/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/postal-guide/</guid>
+      <guid>/post/knowledge/postal-guide/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;การส่งของทางไปรษณีย์ระหว่างประเทศ จะผ่านการดำเนินการโดย บริษัท ไปรษณีย์ไทย จำกัด การส่งของทางไปรษณีย์ สามารถดำเนินการได้ 5 ประเภท คือ (1)ทางอากาศ (2)ภาคพื้น (3) EMS (4)ไปรษณีย์ลงทะเบียน (5)ไปรษณีย์ธรรมดา ของที่นำเข้ามาในราชอาณาจักรไทย จะถูกคัดแยกออกเป็น 3 ประเภท และ ปฏิบัติพิธีการศุลกากร&lt;/p&gt;
 &lt;h2 id=&#34;บทนำ&#34;&gt;บทนำ&lt;/h2&gt;
@@ -1255,13 +1255,13 @@
     
     <item>
       <title>คู่มือการปฏิบัติพิธีการศุลกากรสำหรับการส่งออก (e-Export)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/docs/guide-export/</link>
+      <link>/pages/docs/guide-export/</link>
       <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/docs/guide-export/</guid>
+      <guid>/pages/docs/guide-export/</guid>
       <description>&lt;h2 id=&#34;ประกาศกรมศลกากรท-1322561-เรอง-คมอการปฏบตพธการศลกากรทางอเลกทรอนกสวาดวยกระบวนการทางศลกากรสำหรบการสงออก-e-export&#34;&gt;ประกาศกรมศุลกากรที่ 132/.2561 เรื่อง คู่มือการปฏิบัติพิธีการศุลกากรทางอิเล็กทรอนิกส์ว่าด้วยกระบวนการทางศุลกากรสำหรับการส่งออก (e-Export)&lt;/h2&gt;
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;./docs.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
@@ -1282,10 +1282,10 @@
     
     <item>
       <title>ระเบียบการส่งออกข้าวฉบับล่าสุด</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/rice-export/</link>
+      <link>/post/knowledge/rice-export/</link>
       <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/rice-export/</guid>
+      <guid>/post/knowledge/rice-export/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;การกำหนดให้ข้าวเป็นสินค้าที่ต้องขออนุญาตในการส่งออก ในระยะแรกเป็นไปโดยอาศัยอำนาจตามพระราชบัญญัติ(พ.ร.บ.) ควบคุมการส่งออกไปนอกและการนำเข้ามาในราชอาณาจักร ซึ่งสินค้าบางอย่าง พ.ศ.2482 โดยตราเป็นพระราชกฤษฎีกาควบคุมการส่งออกไปนอกราชอาณาจักรซึ่งสินค้าบางอย่าง (ฉบับ 13)พ.ศ.2490 ซึ่งมีรายการสินค้าอยู่หลายข้อหลายรายการ มีข้าวชนิดต่างๆ และผลิตภัณฑ์เป็นสินค้าในรายการที่ต้องขออนุญาตในการส่งออกด้วย ต่อมากระทรวงพาณิชย์ออกประกาศเรื่องการส่งสินค้าออกไปนอกราชอาณาจักร(ฉบับที่ 7) พ.ศ.2509 อนุญาตให้ส่งสินค้าตามพระราชกฤษฎีกาดังกล่าวออกไปได้เป็นการทั่วไป เว้นแต่สินค้าตามรายการท้ายประกาศกระทรวงพาณิชย์ดังกล่าว ซึ่งมีรายการข้าวเปลือก ข้าวกล้อง ข้าวสาร ข้าวเหนียว ปลายข้าว รำข้าว และสิ่งใดฯที่แปรสภาพสภาพจากข้าวทุกชนิด&lt;/p&gt;
 &lt;p&gt;ในปี 2522 มีการตรา พ.ร.บ.การส่งออกฯ พ.ศ. 2522 ออกใช้บังคับแทนฉบับเดิม โดยมีบทเฉพาะกาล ตามมาตรา 25 ให้บรรดา พระราชกฤษฎีกา กฎกระทรวง ประกาศ และระเบียบ ที่ออกตาม พ.ร.บ.ควบคุมการส่งออกไปนอกและการนำเข้ามาในราชอาณาจักร ซึ่งสินค้าบางอย่าง พ.ศ.2482 ยังมีผลใช้บังคับต่อไป จนกว่าจะมีกฎกระทรวง ประกาศ ระเบียบตามกฎหมายฉบับนี้ออกใช้บังคับ ดังนั้น ข้าวเปลือก ข้าวกล้อง ข้าวสาร ข้าวเหนียว ปลายข้าว รำข้าว และสิ่งใดฯที่แปรสภาพสภาพจากข้าวทุกชนิด จึงยังเป็นสินค้าที่ต้องขออนุญาตส่งออก แต่ตอมามีประกาศกระทรวงพาณิชย์ว่าด้วยการส่งสินค้าออกไปนอกราชอาณาจักร(ฉบับที่ 66) พ.ศ.ยกเลิกการกำหนดให้ผลิตภัณฑ์ที่ทำจากข้าวทุกชนิดและสิ่งใดฯที่แปรสภาพจากข้าวทุกชนิด เป็นสินค้าที่ต้องขออนุญาตในการส่งออก&lt;/p&gt;
@@ -1315,10 +1315,10 @@
     
     <item>
       <title>ขอทราบขั้นตอนของศุลกากรในการส่งสินค้าออกไปต่างประเทศ</title>
-      <link>https://ecs-support.github.io/KM/customs/talk/export/export-01/</link>
+      <link>/talk/export/export-01/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/talk/export/export-01/</guid>
+      <guid>/talk/export/export-01/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;ต้องลงทะเบียนเป็นผู้ผ่านพิธีการศุลกากรกับกรมฯ&lt;/li&gt;
 &lt;li&gt;เมื่อพร้อมที่จะส่งสินค้าออกต้องเตรียมเอกสารที่ใช้ในการส่งออกเช่น บัญชีราคาสินค้า,หนังสืออนุญาต , หลักฐานการได้รับสิทธิ์พิเศษต่าง ๆ และส่งข้อมูลของเอกสารต่างๆเข้าสู่ระบบคอมพิวเตอร์ของกรมฯ โดยอาจใช้ตัวแทนออกของ หรือ ใช้บริการ Counter Service หรือ ให้เจ้าหน้าที่ศุลกากรบันทึกข้อมูลให้&lt;/li&gt;

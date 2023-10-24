@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ศุลกากรทางบก on ECS</title>
-    <link>https://ecs-support.github.io/KM/customs/tags/%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%9A%E0%B8%81/</link>
+    <link>/tags/%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%9A%E0%B8%81/</link>
     <description>Recent content in ศุลกากรทางบก on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
     <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://ecs-support.github.io/KM/customs/tags/%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%9A%E0%B8%81/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/%E0%B8%A8%E0%B8%A5%E0%B8%81%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%9A%E0%B8%81/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>การรวม ศบ. คืออะไร</title>
-      <link>https://ecs-support.github.io/KM/customs/talk/import/import-08/</link>
+      <link>/talk/import/import-08/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/talk/import/import-08/</guid>
+      <guid>/talk/import/import-08/</guid>
       <description>&lt;p&gt;ศบ. ย่อมาจาก ศุลกากรทางบก เป็นแบบรายงานยานพาหนะและสินค้าที่บรรทุกมาในยานพาหนะนั้นๆ เทียบได้กับ บัญชีสินค้าสำหรับเรือ (Manifest) ปัจจุบันสามารถส่งได้ทั้งอิเล็กทรอนิกส์ หรือ มายื่นเป็นกระดาษกับเจ้าหน้าที่ที่ด่านพรมแดน  เมื่อผ่านด่านพรมแดนจะได้เลขที่บัญชีสินค้าทางบก เป็นเลข 17 หลัก ต้องเอาไปใส่ในช่องเลขที่ใบตราส่งในใบขนสินค้าขาเข้า  เช่น&lt;/p&gt;
 &lt;p&gt;รถยนต์หมายเลข 11111 ขนส่งของมาทั้งหมด 2 ราย&lt;/p&gt;
 &lt;ol&gt;

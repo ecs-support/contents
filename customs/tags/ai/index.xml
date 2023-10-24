@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI on ECS</title>
-    <link>https://ecs-support.github.io/KM/customs/tags/ai/</link>
+    <link>/tags/ai/</link>
     <description>Recent content in AI on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
     <lastBuildDate>Fri, 17 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://ecs-support.github.io/KM/customs/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ความตกลงการค้าเสรีอาเซียน-อินเดีย. (ASEAN – INDIA Free Trade Agreement - AIFTA)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/fta/ai/</link>
+      <link>/pages/fta/ai/</link>
       <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/fta/ai/</guid>
+      <guid>/pages/fta/ai/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/asean_india.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;

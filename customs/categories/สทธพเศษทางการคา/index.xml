@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>สิทธิพิเศษทางการค้า on ECS</title>
-    <link>https://ecs-support.github.io/KM/customs/categories/%E0%B8%AA%E0%B8%97%E0%B8%98%E0%B8%9E%E0%B9%80%E0%B8%A8%E0%B8%A9%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B2/</link>
+    <link>/categories/%E0%B8%AA%E0%B8%97%E0%B8%98%E0%B8%9E%E0%B9%80%E0%B8%A8%E0%B8%A9%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B2/</link>
     <description>Recent content in สิทธิพิเศษทางการค้า on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
     <lastBuildDate>Tue, 21 Sep 2021 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://ecs-support.github.io/KM/customs/categories/%E0%B8%AA%E0%B8%97%E0%B8%98%E0%B8%9E%E0%B9%80%E0%B8%A8%E0%B8%A9%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B2/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/categories/%E0%B8%AA%E0%B8%97%E0%B8%98%E0%B8%9E%E0%B9%80%E0%B8%A8%E0%B8%A9%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>เขตการค้าเสรี (Free Trade Area)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/fta/</link>
+      <link>/pages/fta/</link>
       <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/fta/</guid>
+      <guid>/pages/fta/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./img/free-trade-area.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Free Trade Area หรือเขตการค้าเสรี เป็นการทำความตกลงทางการค้าของประเทศ อาจเป็น 2 ประเทศ (ทวิภาคี) หรือเป็นกลุ่มประเทศ (พหุภาคี) ที่จะร่วมมือขจัดอุปสรรคทางการค้าทั้งที่เป็นภาษีศุลกากรและไม่ใช่ภาษีศุลกากร.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;เขตการค้าเสรี (FTA)&lt;/strong&gt;  คือ การรวมกลุ่มทางเศรษฐกิจของกลุ่มประเทศต่าง ๆ เพื่อให้มีการเก็บภาษีศุลกากรระหว่างกัน ในอัตราที่น้อยที่สุด หรือ ในอัตราร้อยละ 0 ซึ่งประเทศที่มีการรวมกลุ่มเขตการค้าเสรีนั้น จะได้เปรียบทางการค้ามากกว่า ประเทศที่อยู่นอกกลุ่มในเรื่องของอัตราภาษี โดยการเปิดเสรีทางการค้านั้น ไม่เพียงแต่เฉพาะด้านสินค้าเท่านั้น แต่ยังรวมถึงด้านบริการ และการลงทุนด้วย เช่น เขตการค้าเสรีในภูมิภาคอเมริกา (Free Trade Area of the Americas) เขตการค้าเสรีอเมริกาเหนือ (NAFTA) เป็นต้น.&lt;/p&gt;
@@ -83,10 +83,10 @@
     
     <item>
       <title>ตารางแสดงข้อมูลเพื่อใช้ตรวจสอบหนังสือรับรองถิ่นกำเนิดสินค้าเบื้องต้น</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/fta/checklist/</link>
+      <link>/pages/fta/checklist/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/fta/checklist/</guid>
+      <guid>/pages/fta/checklist/</guid>
       <description>
 
 
@@ -208,7 +208,7 @@
 &lt;/figure&gt;
 
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;../files/checklist_fta.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;../files/checklist_fta.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
@@ -231,10 +231,10 @@
     
     <item>
       <title>ข้อตกลงองค์การการค้าโลก (WTO)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/fta/wto/</link>
+      <link>/pages/fta/wto/</link>
       <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/fta/wto/</guid>
+      <guid>/pages/fta/wto/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/wto-logo.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
@@ -414,10 +414,10 @@
     
     <item>
       <title>เขตการค้าเสรีอาเซียน (ASEAN Free Trade Area  AFTA)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/fta/atiga/</link>
+      <link>/pages/fta/atiga/</link>
       <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/fta/atiga/</guid>
+      <guid>/pages/fta/atiga/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://www.worldatlas.com/r/w728-h425-c728x425/upload/21/c9/14/shutterstock-194495666.jpg&#34; alt=&#34;enter image description here&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
@@ -669,10 +669,10 @@
     
     <item>
       <title>ความตกลงการค้าเสรีอาเซียน - จีน (ASEAN - China Free Trade Agreement)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/fta/acn/</link>
+      <link>/pages/fta/acn/</link>
       <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/fta/acn/</guid>
+      <guid>/pages/fta/acn/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/ACN.jpg&#34; alt=&#34;ภาพโดย : supplychainasia.org&#34;&gt;&lt;/p&gt;
 &lt;div style= &#34;height:30px&#34;&gt;
 
@@ -880,10 +880,10 @@
     
     <item>
       <title>ความตกลงการค้าเสรีอาเซียน-สาธารณรัฐเกาหลี (ASEAN - Korea Free Trade Agreement)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/fta/ak/</link>
+      <link>/pages/fta/ak/</link>
       <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/fta/ak/</guid>
+      <guid>/pages/fta/ak/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/asian-korea.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
@@ -1084,10 +1084,10 @@
     
     <item>
       <title>ความตกลงการค้าเสรีอาเซียน-ฮ่องกง (ASEAN – Hong Kong, China Free Trade Agreement)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/fta/ahk/</link>
+      <link>/pages/fta/ahk/</link>
       <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/fta/ahk/</guid>
+      <guid>/pages/fta/ahk/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/asean-hong_kong.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
@@ -1301,10 +1301,10 @@
     
     <item>
       <title>ความตกลงการค้าเสรีอาเซียน-อินเดีย. (ASEAN – INDIA Free Trade Agreement - AIFTA)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/fta/ai/</link>
+      <link>/pages/fta/ai/</link>
       <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/fta/ai/</guid>
+      <guid>/pages/fta/ai/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/asean_india.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
@@ -1487,10 +1487,10 @@
     
     <item>
       <title>ความตกลงการค้าเสรีไทย-ญี่ปุ่น (Japan-Thailand Economic Partnership Agreement-JTEPA)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/fta/jtepa/</link>
+      <link>/pages/fta/jtepa/</link>
       <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/fta/jtepa/</guid>
+      <guid>/pages/fta/jtepa/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/jtepa.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
@@ -1536,11 +1536,11 @@
   &lt;div class=&#34;book-tabs-content markdown-inner&#34;&gt;
     &lt;h3 id=&#34;ประกาศกระทรวงการคลง&#34;&gt;ประกาศกระทรวงการคลัง&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142329324146505f47464b4a464b47&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน - ญี่ปุ่น ลงวันที่ 28 ธันวาคม 2564&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142231324147505f49464b4c464a4e&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากญี่ปุ่น ลงวันที่ 10 พฤศจิกายน 2560&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142231324149505f46464b4a464b48&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากญี่ปุ่น (30 ธันวาคม 2559)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142231324147505f49464b4c464a4f&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากญี่ปุ่น (ฉบับที่ 2)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14223132414c505e4f464a4f464b4a&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากญี่ปุ่น&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142231324147505f49464b4c464a4e&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากญี่ปุ่น ลงวันที่ 10 พฤศจิกายน 2560&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142329324146505f47464b4b464a4e&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากญี่ปุ่น ลงวันที่ 28 ธันวาคม 2564&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142231324149505f46464b4a464b48&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากญี่ปุ่น (30 ธันวาคม 2559)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142231324147505f49464b4c464a4f&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากญี่ปุ่น (ฉบับที่ 2)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14223132414c505e4f464a4f464b4a&#34;&gt;ประกาศกระทรวงการคลัง เรื่อง การยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากญี่ปุ่น&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
   &lt;/div&gt;
@@ -1560,52 +1560,56 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;230/.2564&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142329324146505f46464b48464b4c&#34;&gt;หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราศุลกากรสำหรับเขตการค้าเสรีอาเซียน-ญี่ปุ่น&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;47/2565&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142329324147505e4e464b4c464b48&#34;&gt;การแสดงหนังสือรับรองถิ่นกำเนิดสินค้าและคำรับรองถิ่นกำเนิดสินค้า สำหรับผู้นำของเข้าที่ได้รับผลกระทบจากการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019 (โควิด-19)&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;149/.2564&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232932404f505f46464b4a464b4a&#34;&gt;การแสดงหนังสือรับรองถิ่นกำเนิดสินค้าและคำรับรองถิ่นกำเนิดสินค้า สำหรับผู้นำของเข้า ที่ได้รับผลกระทบจากการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019 (โควิด-19)&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;231/2564&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142329324146505f46464b48464a4f&#34;&gt;หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากญี่ปุ่น&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;50/.2564&lt;/td&gt;
+&lt;td&gt;149/2564&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232932404f505f46464b4a464b4a&#34;&gt;การแสดงหนังสือรับรองถิ่นกำเนิดสินค้าและคำรับรองถิ่นกำเนิดสินค้า สำหรับผู้นำของเข้า ที่ได้รับผลกระทบจากการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019 (โควิด-19&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;50/2564&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832414d505f4b464b4d464b48&#34;&gt;การแสดงหนังสือรับรองถิ่นกำเนิดสินค้า สำหรับผู้นำของเข้าที่ได้รับผลกระทบจากการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019(โควิด-19)&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;203/.2563&lt;/td&gt;
+&lt;td&gt;203/2563&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832414c505f4d464b48464b4b&#34;&gt;การแสดงหนังสือรับรองถิ่นกำเนิดสินค้า สำหรับผู้นำของเข้าที่ได้รับผลกระทบจากการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019 (โควิด-19)&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;166/.2563&lt;/td&gt;
+&lt;td&gt;166/2563&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832414c505f47464b48464b4a&#34;&gt;การแสดงหนังสือรับรองถิ่นกำเนิดสินค้า สำหรับผู้นำของเข้าที่ได้รับผลกระทบจากการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019(โควิด-19)&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;81/.2563&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832414a505f4a464b47464a4f&#34;&gt;การแสดงหนังสือรับรองถิ่นกำเนิดสินค้า สำหรับผู้นำของเข้าที่ได้รับผลกระทบจากการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019 (โควิด-19)&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;81/2563&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832414a505f4a464b47464a4f&#34;&gt;การแสดงหนังสือรับรองถิ่นกำเนิดสินค้า สำหรับผู้นำของเข้าที่ได้รับผลกระทบจากการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019 (โควิด-19)&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;152/.2560&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14223132414b505f4b464b48464b4b&#34;&gt;หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากนิวซีแลนด์&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;155/2560&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14223132414b505f4b464b48464b4d&#34;&gt;หลักเกณฑ์และพิธีการสำหรับการยกเว้นอากรและลดอัตราศุลกากรสำหรับของที่มีถิ่นกำเนิดจากญี่ปุ่น&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;232/.2559&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142231324149505f49464b46464b4b&#34;&gt;หลักเกณฑ์และพิธีการการยกเว้นอากรและการลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากนิวซีแลนด์&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;238/2559&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142231324149505f49464b47464b47&#34;&gt;หลักเกณฑ์และพิธีการการยกเว้นอากรและการลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากญี่ปุ่น&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;7/.2555&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232932404e505f46464b47&#34;&gt;ประกาศกรมศุลกากร ที่ ๗/๒๕๕๕ เรื่อง หลักเกณฑ์และพิธีการเกี่ยวกับการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากนิวซีแลนด์&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;78/2555&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232832414d505f4d464b49&#34;&gt;ประกาศกรมศุลกากรที่ ๗๘/๒๕๕๕ เรื่อง แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ ๕/๒๕๕๕&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;128/.2549&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232a324147505f4a464b47&#34;&gt;หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากนิวซีแลนด์&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;5/2555&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232932404e505f47464a4e&#34;&gt;ประกาศกรมศุลกากร ที่ ๕/๒๕๕๕ เรื่อง หลักเกณฑ์และพิธีการสำหรับการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากญี่ปุ่น&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;41/.2548&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232a32404f505f4b464b47&#34;&gt;ระเบียบพิธีการสำหรับการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดนิวซีแลนด์ ตามข้อผูกพันตามความตกลงหุ้นส่วนเศรษฐกิจที่ใกล้ชิดกันยิ่งขึ้น ไทย-นิวซีแลนด์ (Thailand ? New Zealand Closer Economic Partnership Agreement)&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;68/2552&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232a32414a505f49464b4c&#34;&gt;แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 83/2550&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;38/.2548&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232a32404f505f4b464a4e&#34;&gt;แก้ไขเพิ่มเติมรหัสสถิติสินค้า*ความตกลงหุ้นส่วนเศรษฐกิจใกล้ชิดไทยขนิวซีแลนด์&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;83/2550&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=14232a324148505f4b464a4e&#34;&gt;หลักเกณฑ์และพิธีการสำหรับการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากญี่ปุ่น&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -1619,7 +1623,11 @@
   &lt;div class=&#34;book-tabs-content markdown-inner&#34;&gt;
     &lt;h3 id=&#34;ประกาศสำนกพกดอตราศลกากร&#34;&gt;ประกาศสำนักพิกัดอัตราศุลกากร&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14232832414b505e4e464b48464b4a&#34;&gt;ประกาศกองพิกัดอัตราศุลกากร ที่ 4/2563 เรื่อง การใช้บัญชีราคาสินค้า (Invoice) ฉบับซื้อขายในประเทศ ประกอบการปฏิบัติพิธีการศุลกากร เพื่อขอรับสิทธิพิเศษทางภาษีศุลกากรภายใต้ความตกลงเขตการค้าเสรี&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142231324147505f4d464a4e464a4e&#34;&gt;ประกาศสำนักพิกัดอัตราศุลกากร ที่ 1/2555 เรื่อง การระบุพิกัดศุลกากรตามระบบฮาร์โมไนซ์ สำหรับสินค้าโควตาเหล็ก ภายใต้ความตกลงความเป็นหุ้นส่วนทางเศรษฐกิจไทย-ญี่ปุ่น&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14223132414d505f4b464b49464b46&#34;&gt;ประกาศสำนักพิกัดอัตราศุลกากรที่ ๕/๒๕๖๑ เรื่อง การสำแดงน้ำหนัก Net weight ในช่องที่ ๖ ของหนังสือรับรองถิ่นกำเนิดสินค้าภายใต้ความตกลงระหว่างราชอาณาจักรไทยและญี่ปุ่นสำหรับความเป็นหุ้นส่วนทางเศรษฐกิจ (Agreement between the Kingdom of Thailand and Japan for an Economic Partnership : JTEPA)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=14232832414b505e4e464b49464a4f&#34;&gt;ประกาศกองพิกัดอัตราศุลกากร ที่ 4/2563 เรื่อง การใช้บัญชีราคาสินค้า (Invoice) ฉบับซื้อขายในประเทศ ประกอบการปฏิบัติพิธีการศุลกากร เพื่อขอรับสิทธิพิเศษทางภาษีศุลกากรภายใต้ความตกลงเขตการค้าเสรี&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142329324147505f49464a4e464b4b&#34;&gt;ประกาศกองพิกัดอัตราศุลกากร ที่ 9/2565 เรื่อง ตารางปัญหาและแนวทางแก้ไขการใช้หลักฐานการรับรองถิ่นกำเนิดสินค้าภายใต้ความตกลงการค้าเสรี&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;current_id=142329324148505f47464b4d464b4b&#34;&gt;ประกาศกองนโยบายและอุทธรณ์พิกัดอัตราศุลกากร ที่ 2/2565 เรื่อง การซื้อขายผ่านประเทศที่สามภายใต้ความตกลงระหว่างราชอาณาจักรไทย-ญี่ปุ่น สำหรับความเป็นหุ้นส่วนทางเศรษฐกิจ (JTEPA) ลงวันที่ 25 สิงหาคม 2565&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
   &lt;/div&gt;
@@ -1641,10 +1649,10 @@
     
     <item>
       <title>ความตกลงการค้าเสรีไทย-นิวซีแลนด์ (Thailand - New Zealand Closer Economic Partnership - TNZCEP)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/fta/tnz/</link>
+      <link>/pages/fta/tnz/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/fta/tnz/</guid>
+      <guid>/pages/fta/tnz/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/thai-new-zealand.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
@@ -1835,10 +1843,10 @@
     
     <item>
       <title>ความตกลงการค้าเสรีไทย-ออสเตรเลีย (Thailand - Australia Free Trade Agreement - TAFTA)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/fta/tafta/</link>
+      <link>/pages/fta/tafta/</link>
       <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/fta/tafta/</guid>
+      <guid>/pages/fta/tafta/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/thai-australia.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
@@ -2022,10 +2030,10 @@
     
     <item>
       <title>ความตกลงหุ้นส่วนทางเศรษฐกิจระดับภูมิภาค (RCEP)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/fta/rcep/</link>
+      <link>/pages/fta/rcep/</link>
       <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/fta/rcep/</guid>
+      <guid>/pages/fta/rcep/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;RCEP.jpg&#34; alt=&#34;enter image description here&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
@@ -2176,6 +2184,10 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
+&lt;td&gt;84/2566&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;../../../post/law/customs/2566/2566-84/&#34;&gt;หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรตามข้อผูกพันตามความตกลงหุ้นส่วนทางเศรษฐกิจระดับภูมิภาค (ฉบับที่ 7)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td&gt;151/2565&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;current_id=142329324149505f49464b49464a4e&#34;&gt;แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 237/2564&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -2233,7 +2245,7 @@
 &lt;h2 id=&#34;ประกาศกรมศลกากร&#34;&gt;ประกาศกรมศุลกากร&lt;/h2&gt;
 &lt;p&gt;ประกาศกรมศุลกากรที่ 237/.2564 เรื่อง &lt;strong&gt;หลักเกณฑ์และพิธีการการยกเว้นอากรและอัตราอากรศุลกากรตามข้อผูกพันตามความตกลงหุ้นส่วนทางเศรษฐกิจระดับภูมิภาค&lt;/strong&gt;&lt;/p&gt;
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./docs/00237/237-2564_RCEP.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;./docs/00237/237-2564_RCEP.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
@@ -2250,7 +2262,7 @@
 &lt;h2 id=&#34;ประกาศกระทรวงการคลง&#34;&gt;ประกาศกระทรวงการคลัง&lt;/h2&gt;
 &lt;p&gt;ประกาศกระทรวงการคลัง เรื่อง &lt;strong&gt;การยกเว้นอากรและลดอัตราอากรศุลกากรตามข้อผูกพันตามความตกลงหุ้นส่วนทางเศรษฐกิจระดับภูมิภาค&lt;/strong&gt; ลงวันที่ 28 ธันวาคม 2564&lt;/p&gt;
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./docs/rcep.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;./docs/rcep.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
@@ -2381,10 +2393,10 @@
     
     <item>
       <title>ความตกลง JTEPA ที่จะใช้บังคับในปี 2565</title>
-      <link>https://ecs-support.github.io/KM/customs/post/news/2021/09-21/</link>
+      <link>/post/news/2021/09-21/</link>
       <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/news/2021/09-21/</guid>
+      <guid>/post/news/2021/09-21/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;
 
 
@@ -2397,7 +2409,7 @@
 &lt;br&gt;
 
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;./docs.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
@@ -2419,10 +2431,10 @@
     
     <item>
       <title>แก้ไขเพิ่มเติมประกาศกรมศุลกากร ที่ 152/2563 [ATIGA]</title>
-      <link>https://ecs-support.github.io/KM/customs/post/law/customs/2564/2564-84/</link>
+      <link>/post/law/customs/2564/2564-84/</link>
       <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/law/customs/2564/2564-84/</guid>
+      <guid>/post/law/customs/2564/2564-84/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;ประกาศกรมศลกากร-ท-842564-เรอง-แกไขเพมเตมประกาศกรมศลกากรท-1522563-หลกเกณฑและพธการการยกเวนอากรและลดอตราอากรศลกากรสำหรบของทมถนกำเนดจากอาเซยน&#34;&gt;ประกาศกรมศุลกากร ที่ 84./2564 เรื่อง แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 152/.2563 (หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน)&lt;/h2&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -2436,10 +2448,10 @@
     
     <item>
       <title>การแสดงหนังสือรับรองถิ่นกำเนิดสินค้า สำหรับผู้ที่ได้รับผลกระทบจาก ไวรัสโคโรนา 2019 (โควิด-19)</title>
-      <link>https://ecs-support.github.io/KM/customs/post/law/customs/2564/2564-50/</link>
+      <link>/post/law/customs/2564/2564-50/</link>
       <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/law/customs/2564/2564-50/</guid>
+      <guid>/post/law/customs/2564/2564-50/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;ประกาศกรมศลกากรท-502564-เรอง-การแสดงหนงสอรบรองถนกำเนดสนคา-สำหรบผนำของเขาทไดรบผลกระทบจากการแพรระบาดของโรคตดเชอไวรสโคโรนา-2019-โควด-19&#34;&gt;ประกาศกรมศุลกากรที่ 50/.2564 เรื่อง การแสดงหนังสือรับรองถิ่นกำเนิดสินค้า สำหรับผู้นำของเข้าที่ได้รับผลกระทบจากการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019 (โควิด-19)&lt;/h2&gt;
 &lt;p&gt;ประกาศนี้ให้ใช้บังคับตั้งแต่&lt;em&gt;วันที่ 1 เมษายน 2564 จนถึงวันที่ 30 กันยายน 2564&lt;/em&gt;&lt;/p&gt;
@@ -2484,10 +2496,10 @@
     
     <item>
       <title>เขตปลอดอากรกิจการพาณิชย์อิเล็กทรอนิกส์ ภายในเขตส่งเสริมเศรษฐกิจพิเศษในพื้นที่เขตพัฒนาพิเศษภาคตะวันออก</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/2021-03-15/</link>
+      <link>/post/knowledge/2021/03-15/</link>
       <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/2021-03-15/</guid>
+      <guid>/post/knowledge/2021/03-15/</guid>
       <description>&lt;h2 id=&#34;บทความทางวชาการ---เขตปลอดอากรกจการพาณชยอเลกทรอนกส-ภายในเขตสงเสรมเศรษฐกจพเศษในพนทเขตพฒนาพเศษภาคตะวนออก&#34;&gt;บทความทางวิชาการ - เขตปลอดอากรกิจการพาณิชย์อิเล็กทรอนิกส์ ภายในเขตส่งเสริมเศรษฐกิจพิเศษในพื้นที่เขตพัฒนาพิเศษภาคตะวันออก&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;โครงการเขตพัฒนาพิเศษภาคตะวันออก (Eastern Economic Corridor : EEC) เป็นการลงทุนขนาดใหญ่
@@ -2500,12 +2512,21 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
 และสิทธิประโยชน์ด้านอื่นๆ รวมถึงการอำนวยความสะดวกในการประกอบธุรกิจอีกด้วย โดยได้มีการประกาศรายชื่อ
 เขตส่งเสริมเพื่อกิจการพิเศษที่ประกาศแล้ว ได้แก่ เขตส่งเสริมรูปแบบนิคมอุตสาหกรรม จำนวน 21 แห่ง เขตส่งเสริม
 รูปแบบอุตสาหกรรมเป้าหมายพิเศษเฉพาะด้าน (Cluster) จำนวน 2 แห่ง&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;&lt;img src=&#34;./img/docjpg_Page2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/docjpg_Page3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/docjpg_Page4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;90%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+      
+&lt;div class=&#34;div-btn&#34;&gt;
+    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
+  ดาวน์โหลดเอกสาร
+&lt;/a&gt;
+&lt;/div&gt;
 &lt;blockquote&gt;
 &lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232832414d505f4a464b4b464a4e&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -2514,20 +2535,28 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>การรับรองถิ่นกำเนิดสินค้าด้วยตนเองของอาเซียน</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/2021-03-12/</link>
+      <link>/post/knowledge/2021/03-12/</link>
       <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/2021-03-12/</guid>
+      <guid>/post/knowledge/2021/03-12/</guid>
       <description>&lt;p&gt;ในปัจจุบันความตกลงการค้าเสรีที่ประเทศไทยใช้บังคับมีจำนวนทั้งสิ้น 13 ฉบับอันประกอบไปด้วยความตกลงในระดับทวิภาคี 6 ฉบับ และความตกลงในระดับภูมิภาค 7 ฉบับ ซึ่งแต่ละความตกลงได้กำหนดหลักเกณฑ์ และรูปแบบของการใช้หลักฐาน การรับรองถิ่นกำเนิดสินค้าเพื่อขอรับสิทธิพิเศษทางอากรศุลกากรที่แตกต่างกันไป&lt;/p&gt;
 &lt;p&gt;หลักฐานการรับรองถิ่นกำเนิดสินค้า (Proof of Origin) เป็นสิ่งแสดงว่าสินค้าที่นำเข้ามีถิ่นกำเนิด หรือ “สัญชาติ” ทางการค้าของประเทศใด สำหรับความตกลงการค้าสินค้าของอาเซียน (ASEAN Trade in Goods Agreement: ATIGA) ผู้ประกอบการสามารถเลือกใช้
 หลักฐานการรับรองถิ่นกำเนิดสินค้าได้ถึง 3 รูปแบบอันได้แก่ หนังสือรับรองถิ่นกำเนิดสินค้า (Form D) หนังสือรับรองถิ่นกำเนิดสินค้าแบบอิเล็กทรอนิกส์ (e-Form D) และคำรับรองถิ่นกำเนิดสินค้า (Origin Declaration) ทั้งนี้ คำรับรองถิ่นกำเนิดสินค้าภายใต้การรับรองถิ่นกำเนิดสินค้าด้วยตนเองของอาเซียน (ASEAN-wide Self-certifiation: AWSC) เป็นหลักฐานการรับรองถิ่นกำเนิดสินค้ารูปแบบล่าสุด ที่ผู้ประกอบการควรทราบ เนื่องจากมีลักษณะและรูปแบบแตกต่างจาก Form D และ e-Form D และเริ่มใช้ตั้งแต่ วันที่ 20 กันยายน 2563 เป็นต้นมา&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;&lt;img src=&#34;./img/imgjpg_Page1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/imgjpg_Page2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/imgjpg_Page3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/imgjpg_Page4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;90%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+      
+&lt;div class=&#34;div-btn&#34;&gt;
+    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
+  ดาวน์โหลดเอกสาร
+&lt;/a&gt;
+&lt;/div&gt;
 &lt;blockquote&gt;
 &lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232832414d505f4a464b4a464b47&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -2536,10 +2565,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>ความตกลงว่าด้วยการค้าสินค้าภายใต้เขตการค้าเสรีอาเซียน-สาธารณรัฐเกาหลี</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/akfta_03_2021/</link>
+      <link>/post/knowledge/akfta_03_2021/</link>
       <pubDate>Wed, 03 Mar 2021 08:10:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/akfta_03_2021/</guid>
+      <guid>/post/knowledge/akfta_03_2021/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;&lt;img src=&#34;./img/pagesjpg_Page1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;./img/pagesjpg_Page2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -2555,10 +2584,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>แนวทางการจัดการปัญหาการนำเข้าสินค้าประเภทนม จากความตกลงเขตการค้าเสรี (FTA)</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/milk_wto_2021_02/</link>
+      <link>/post/knowledge/milk_wto_2021_02/</link>
       <pubDate>Mon, 22 Feb 2021 00:10:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/milk_wto_2021_02/</guid>
+      <guid>/post/knowledge/milk_wto_2021_02/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;&lt;img src=&#34;./img/file-01jpg_Page1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;./img/file-01jpg_Page2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -2574,10 +2603,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>รายชื่อประเทศที่ได้รับสิทธิสำหรับเขตการค้าเสรีอาเซียน-ฮ่องกง</title>
-      <link>https://ecs-support.github.io/KM/customs/post/law/customs/2564/2564-27/</link>
+      <link>/post/law/customs/2564/2564-27/</link>
       <pubDate>Thu, 11 Feb 2021 03:10:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/law/customs/2564/2564-27/</guid>
+      <guid>/post/law/customs/2564/2564-27/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;ประกาศกรมศุลกากรที่ 27/.2564 เรื่อง แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 89/.2562 เพิ่มเติมรายชื่อประเทศที่ได้รับสิทธิยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรี&lt;em&gt;อาเซียน-ฮ่องกง&lt;/em&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -2592,32 +2621,15 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     </item>
     
     <item>
-      <title>การแสดงหนังสือรับรองถิ่นกำเนิดสินค้า จากการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019 (โควิด-19)</title>
-      <link>https://ecs-support.github.io/KM/customs/post/announcement/customs/2563-203/</link>
-      <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/KM/customs/post/announcement/customs/2563-203/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ประกาศกรมศลกากรท-2032563-เรอง-การแสดงหนงสอรบรองถนกำเนดสนคา-สำหรบผนำของเขาทไดรบผลกระทบจากการแพรระบาดของโรคตดเชอไวรสโคโรนา-2019-โควด-19&#34;&gt;ประกาศกรมศุลกากรที่ 203/.2563 เรื่อง การแสดงหนังสือรับรองถิ่นกำเนิดสินค้า สำหรับผู้นำของเข้าที่ได้รับผลกระทบจากการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019 (โควิด-19)&lt;/h2&gt;
-&lt;p&gt;ให้ใช้บังคับตั้งแต่&lt;em&gt;วันที่ 1 มกราคม 2564 ถึงวันที่ 31 มีนาคม 2564&lt;/em&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232832414c505f4d464b48464b4b&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
       <title>คำอธิบายรหัส Certified Exporter Code</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/certified-exporter-code/</link>
+      <link>/post/knowledge/2020/10-28/</link>
       <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/certified-exporter-code/</guid>
+      <guid>/post/knowledge/2020/10-28/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;คำอธบายรหส-certified-exporter-code-ภายใตการรบรองถนกำเนดสนคาดวยตนเองของอาเซยน-asean-wide-self-certification---awsc&#34;&gt;คำอธิบายรหัส Certified Exporter Code ภายใต้การรับรองถิ่นกำเนิดสินค้าด้วยตนเองของอาเซียน (ASEAN-Wide Self-Certification - AWSC)&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;img-01.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232832414c505f47464b46464b48&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -2626,10 +2638,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>รูปแบบหนังสือรับรองถิ่นกำเนิดสินค้า (Form FTA) ที่ออกจากสาธารณรัฐอินเดีย</title>
-      <link>https://ecs-support.github.io/KM/customs/post/announcement/customs/dt_2563-10/</link>
+      <link>/post/announcement/customs/dt_2563-10/</link>
       <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/announcement/customs/dt_2563-10/</guid>
+      <guid>/post/announcement/customs/dt_2563-10/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;ประกาศกองพกดอตราศลากากรท-102563-เรอง-รปแบบหนงสอรบรองถนกำเนดสนคา-form-fta-ทออกจากสาธารณรฐอนเดย&#34;&gt;ประกาศกองพิกัดอัตราศุลากากรที่ 10/.2563 เรื่อง รูปแบบหนังสือรับรองถิ่นกำเนิดสินค้า (Form FTA) ที่ออกจากสาธารณรัฐอินเดีย&lt;/h2&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -2644,29 +2656,11 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     </item>
     
     <item>
-      <title>การแสดงหนังสือรับรองถิ่นกำเนิดสินค้า สำหรับผู้ที่ได้รับผลกระทบจาก ไวรัสโคโรนา 2019 (โควิด-19)</title>
-      <link>https://ecs-support.github.io/KM/customs/post/announcement/customs/2563-166/</link>
-      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ecs-support.github.io/KM/customs/post/announcement/customs/2563-166/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;ประกาศกรมศลกากรท-1662563-เรอง-การแสดงหนงสอรบรองถนกำเนดสนคา-สำหรบผนำของเขาทไดรบผลกระทบจากการแพรระบาดของโรคตดเชอไวรสโคโรนา-2019-โควด-19&#34;&gt;ประกาศกรมศุลกากรที่ 166/.2563 เรื่อง การแสดงหนังสือรับรองถิ่นกำเนิดสินค้า สำหรับผู้นำของเข้าที่ได้รับผลกระทบจากการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019 (โควิด-19)&lt;/h2&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232832414c505f47464b48464b4a&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
       <title>รายชื่อประเทศที่ได้รับสิทธิสำหรับเขตการค้าเสรีอาเซียน-ฮ่องกง</title>
-      <link>https://ecs-support.github.io/KM/customs/post/announcement/customs/2563-155/</link>
+      <link>/post/announcement/customs/2563-155/</link>
       <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/announcement/customs/2563-155/</guid>
+      <guid>/post/announcement/customs/2563-155/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;ประกาศกรมศุลกากรที่ 155/.2563 เรื่อง แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 89/.2562 (หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรี&lt;em&gt;อาเซียน-ฮ่องกง&lt;/em&gt;) มีการแก้ไขเพิ่มเติม รายชื่อประเทศที่ได้รับสิทธิยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-ฮ่องกง&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;img-01.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -2679,10 +2673,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>ปรับปรุงพิกัดอัตราอากรขาเข้า สำหรับเขตการค้าเสรีอาเซียน-จีน</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/acn_10_2020/</link>
+      <link>/post/knowledge/acn_10_2020/</link>
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/acn_10_2020/</guid>
+      <guid>/post/knowledge/acn_10_2020/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;กรมศุลกากรได้มีการปรับปรุงฐานข้อมูลพิกัดอัตราอากรขาเข้า สำหรับเขตการค้าเสรีอาเซียน-จีน  โดยมีการปรับปรุงปิดพิกัดอัตราอากรที่หมดอายุ และเพิ่มเติมอัตราอากรขาเข้า ตามข้อตกลงเข้ามาในระบบ (รายละเอียดตามเอกสารแนบ)&lt;/p&gt;
 &lt;p&gt;เอกสารแนบดังกล่าวทางทีม Support ได้จัดทำขึ้นเพื่อเพิ่มความสะดวกในการตรวจสอบการใช้สิทธิพิเศษของผู้ประกอบการ โดยนำข้อมูลของกรมศุลกากรที่เผยแพร่เพื่อให้ download มาจัดทำในรูปแบบที่ผู้ใช้งานตรวจสอบได้สะดวกขึ้น สำหรับข้อมูลชุดนี้ โปรแกรมได้ทำการอัพเดทเข้าในระบบให้โดยอัตโนมัติเรียบร้อยแล้ว&lt;/p&gt;
@@ -2696,10 +2690,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>รายชื่อประเทศสมาชิกอาเซียนที่สามารถออกหนังสือรับรองถิ่นกำเนิดสินค้า (Form D) ลงนามอยู่ในรูปแบบอิเล็กทรอนิกส์</title>
-      <link>https://ecs-support.github.io/KM/customs/post/announcement/customs/dt_2563-08/</link>
+      <link>/post/announcement/customs/dt_2563-08/</link>
       <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/announcement/customs/dt_2563-08/</guid>
+      <guid>/post/announcement/customs/dt_2563-08/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;img-01.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;ประกาศกองพิกัดอัตราศุลกากรที่ 8/.2563 เรื่อง รายชื่อประเทศสมาชิกอาเซียนที่สามารถออกหนังสือรับรองถิ่นกำเนิดสินค้า (Form D) ที่มีตราประทับและลายมือชื่อของผู้มีอำนาจลงนามอยู่ในรูปแบบอิเล็กทรอนิกส์ ภายใต้ความตกลงการค้าสินค้าของอาเซียน&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;มีผลบังคับตั้งแต่&lt;em&gt;วันที่ 22 กันยายน 2563&lt;/em&gt; เป็นต้นไป&lt;/p&gt;
@@ -2717,10 +2711,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>พิธีการการศุลกากรสำหรับของที่มีถิ่นกำเนิดจากอาเซียน</title>
-      <link>https://ecs-support.github.io/KM/customs/post/announcement/customs/2563-152/</link>
+      <link>/post/announcement/customs/2563-152/</link>
       <pubDate>Mon, 21 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/announcement/customs/2563-152/</guid>
+      <guid>/post/announcement/customs/2563-152/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;ประกาศกรมศุลกากรที่ 152/.2563 เรื่อง หลักเกณฑ์และพิธีการการยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับของที่&lt;strong&gt;มีถิ่นกำเนิดจากอาเซียน&lt;/strong&gt;(รายละเอียดตามเอกสารแนบ) มีผลบังคับใช้ &lt;strong&gt;&lt;em&gt;ตั้งแต่วันที่ 20 กันยายน 2563 เป็นต้นไป&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;img-01.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -2734,10 +2728,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>รูปแบบหนังสือรับรองถิ่นกำเนิดสินค้า (Form AI) ที่ออกจากสาธารณรัฐอินเดีย</title>
-      <link>https://ecs-support.github.io/KM/customs/post/announcement/customs/dt_2563-06/</link>
+      <link>/post/announcement/customs/dt_2563-06/</link>
       <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/announcement/customs/dt_2563-06/</guid>
+      <guid>/post/announcement/customs/dt_2563-06/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;img.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;ประกาศกองพกดอตราศลกากรท-62553-เรอง-รปแบบหนงสอรบรองถนกำเนดสนคา-form-ai-ทออกจากสาธารณรฐอนเดย&#34;&gt;ประกาศกองพิกัดอัตราศุลกากรที่ 6/.2553 เรื่อง รูปแบบหนังสือรับรองถิ่นกำเนิดสินค้า (Form AI) ที่ออกจากสาธารณรัฐอินเดีย.&lt;/h2&gt;
 &lt;p&gt;มีผลบังคับตั้งแต่&lt;em&gt;วันที่ 14 กรกฎาคม 2563&lt;/em&gt; เป็นต้นไป&lt;/p&gt;
@@ -2750,15 +2744,15 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>ปรับปรุงรายชื่อประเทศที่ได้รับสิทธิยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-ฮ่องกง</title>
-      <link>https://ecs-support.github.io/KM/customs/post/announcement/customs/2563-107/</link>
+      <link>/post/announcement/customs/2563-107/</link>
       <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/announcement/customs/2563-107/</guid>
+      <guid>/post/announcement/customs/2563-107/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;ประกาศกรมศุลกากรที่ 107/.2563 เรื่อง แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 89/.2562 เพื่อ&lt;strong&gt;ปรับปรุงรายชื่อประเทศ ที่ได้รับสิทธิยกเว้นอากรและลดอัตราอากรศุลกากรสำหรับเขตการค้าเสรีอาเซียน-ฮ่องกง&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;img-02.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./2563-107.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;./2563-107.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;blockquote&gt;

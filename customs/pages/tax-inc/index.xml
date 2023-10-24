@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>สิทธิประโยชน์ทางภาษีอากร on ECS</title>
-    <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/</link>
+    <link>/pages/tax-inc/</link>
     <description>Recent content in สิทธิประโยชน์ทางภาษีอากร on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
     <lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://ecs-support.github.io/KM/customs/pages/tax-inc/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/pages/tax-inc/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>การคืนอากรตามมาตรา 29</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/section_29/</link>
+      <link>/pages/tax-inc/section_29/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/section_29/</guid>
+      <guid>/pages/tax-inc/section_29/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/drawback.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;nav id=&#34;TableOfContents&#34;&gt;
@@ -101,10 +101,10 @@
     
     <item>
       <title>คลังสินค้าทัณฑ์บน (Bonded Warehouse)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/bond/</link>
+      <link>/pages/tax-inc/bond/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/bond/</guid>
+      <guid>/pages/tax-inc/bond/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/bonded.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;จัดตั้งขึ้นเพื่อประโยชน์ในการเก็บรักษาของที่นำเข้าจากต่างประเทศ การบรรจุหรือแบ่งบรรจุ การขนถ่ายสินค้า การกระจายสินค้า และเพื่อกิจการอื่น ๆ ที่อธิบดีกรมศุลกากรเห็นสมควรอันจะเป็นการช่วยสนับสนุนการผลิต การประกอบอุตสาหกรรม และการค้าระหว่างประเทศให้มีประสิทธิภาพมากยิ่งขึ้น&lt;/p&gt;
 
@@ -398,10 +398,10 @@
     
     <item>
       <title>เขตปลอดอากร (Freezone)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/freezone/</link>
+      <link>/pages/tax-inc/freezone/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/freezone/</guid>
+      <guid>/pages/tax-inc/freezone/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/freezone.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
@@ -537,10 +537,10 @@
     
     <item>
       <title>เขตประกอบการเสรี (I-EA-T)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/ieat/</link>
+      <link>/pages/tax-inc/ieat/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/ieat/</guid>
+      <guid>/pages/tax-inc/ieat/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/i-eat-02.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
@@ -677,10 +677,10 @@
     
     <item>
       <title>การชดเชยค่าภาษีอากร (Compensation)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/compensation/</link>
+      <link>/pages/tax-inc/compensation/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/compensation/</guid>
+      <guid>/pages/tax-inc/compensation/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/compensation.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;การชดเชยค่าภาษีอากร&lt;/strong&gt; ตาม&lt;a href=&#34;../compensation_2524.pdf&#34;&gt;พระราชบัญญัติชดเชยค่าภาษีอากร สินค้าส่งออกที่ผลิตในราชอาณาจักร พ.ศ. 2524&lt;/a&gt; เป็นมาตรการหนึ่งของรัฐบาลเพื่อพัฒนาศักยภาพในการผลิตสินค้าส่งออกและสนับสนุนการส่งสินค้าที่ผลิตในประเทศไทยออกไปจำหน่ายต่างประเทศให้มากขึ้น เพื่อให้สามารถแข่งขันในตลาดต่างประเทศได้ โดยคณะกรรมการพิจารณาชดเชยค่าภาษีอากรสินค้าส่งออกที่ผลิตในราชอาณาจักร จะกำหนดอัตราเงินชดเชยค่าภาษีอากรสำหรับสินค้าที่ส่งออกและมีการจ่ายเงินชดเชยค่าสินค้าส่งออกในรูปแบบบัตรภาษี&lt;/p&gt;
 
@@ -966,10 +966,10 @@
     
     <item>
       <title>การส่งเสริมการลงทุน (BOI)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/boi/</link>
+      <link>/pages/tax-inc/boi/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/boi/</guid>
+      <guid>/pages/tax-inc/boi/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/boi.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
@@ -1120,10 +1120,10 @@
     
     <item>
       <title>การคืนอากรสำหรับของที่นำเข้ามาแล้วส่งกลับออกไป (Re-export)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/re-export/</link>
+      <link>/pages/tax-inc/re-export/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/re-export/</guid>
+      <guid>/pages/tax-inc/re-export/</guid>
       <description>&lt;p&gt;ของที่นำเข้ามาในราชอาณาจักรและเสียอากรแล้ว หากส่งของนั้นกลับออกไปนอกราชอาณาจักร หรือส่งไปเป็นของใช้สิ้นเปลืองในเรือหรืออากาศยาน ที่เดินทางออกไปนอกราชอาณาจักรให้มีสิทธิขอคืนอากรขาเข้าสำหรับของนั้นเก้าในสิบส่วน หรือส่วนที่เกินหนึ่งพันบาทของจำนวนที่ได้เรียกเก็บไว้โดยคำนวณตาม
 ใบขนสินค้าขาออกแต่ละฉบับ แล้วแต่จำนวนใดจะสูงกว่าตามหลักเกณฑ์ดังต่อไปนี้&lt;/p&gt;
 &lt;ul&gt;
@@ -1201,11 +1201,11 @@
     
     <item>
       <title>คู่มือสิทธิประโยชน์ทางภาษีอากร</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/tax-guide/</link>
+      <link>/pages/tax-inc/tax-guide/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/tax-guide/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../img/tax-incentive.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <guid>/pages/tax-inc/tax-guide/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../img/incentive.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;พระราชบัญญัติศุลกากร พ.ศ. 2560 ซึ่งมีผลบังคับใช้ตั้งแต่ 13 พฤศจิกายน 2560 เป็นต้นมา ได้ยกเลิกบรรดาพระราชบัญญัติศุลกากรทุกฉบับที่เคยมีมา โดยได้จัดหมวดหมู่ของกฎหมายออกเป็น 9 หมวด และมีจำนวนถึง 3 หมวดที่บัญญัติในเรื่องสิทธิประโยชน์ทางภาษีอากร กล่าวคือ&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;หมวดที่ 2 ส่วนที่ 3 ว่าด้วยเรื่อง การคืนอากร ซึ่งมีมาตรา 29 เป็นบทบัญญัติที่สำคัญ&lt;/li&gt;
@@ -1220,10 +1220,10 @@
     
     <item>
       <title>การโอนย้ายของออกจากสิทธิประโยชน์ (ต้นทาง)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/tranfer/</link>
+      <link>/pages/tax-inc/tranfer/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/tranfer/</guid>
+      <guid>/pages/tax-inc/tranfer/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./img/warehouse.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;เลอกสทธประโยชนตนทาง-การโอนยายสนคา&#34;&gt;เลือกสิทธิประโยชน์ต้นทาง การโอนย้ายสินค้า&lt;/h2&gt;
 &lt;ul&gt;

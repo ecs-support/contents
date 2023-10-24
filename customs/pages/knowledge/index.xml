@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ชุดความรู้ on ECS</title>
-    <link>https://ecs-support.github.io/KM/customs/pages/knowledge/</link>
+    <link>/pages/knowledge/</link>
     <description>Recent content in ชุดความรู้ on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
-    <lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Feb 2022 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://ecs-support.github.io/KM/customs/pages/knowledge/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/pages/knowledge/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>บัตรภาษีอิเล็กทรอนิกส์</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/digital-tax/</link>
+      <link>/pages/knowledge/digital-tax/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/digital-tax/</guid>
+      <guid>/pages/knowledge/digital-tax/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./img/cover.png&#34; alt=&#34;&#34;&gt;&lt;br&gt;
 &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
@@ -87,8 +87,8 @@
 &lt;p&gt;&lt;img src=&#34;./img/img-09.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;เอกสารทเกยวของ&#34;&gt;เอกสารที่เกี่ยวข้อง&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;คู่มือการดำเนินธุรกรรมทางอิเล็กทรอนิกส์สำหรับการชดเชยค่าภาษีอากรด้วยบัตรภาษีอิเล็กทรอนิกส์ (Digital Tax Compensation) &lt;a href=&#34;https://ecs-support.github.io/KM/customs/post/announcement/customs/2564-16/&#34;&gt;[&lt;strong&gt;ดาวน์โหลด&lt;/strong&gt;]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;เอกสารประกอบการสัมมนา &lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/pages/knowledge/digital-tax/seminar/&#34;&gt;[&lt;strong&gt;ดาวน์โหลด&lt;/strong&gt;]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;คู่มือการดำเนินธุรกรรมทางอิเล็กทรอนิกส์สำหรับการชดเชยค่าภาษีอากรด้วยบัตรภาษีอิเล็กทรอนิกส์ (Digital Tax Compensation) &lt;a href=&#34;/post/announcement/customs/2564-16/&#34;&gt;[&lt;strong&gt;ดาวน์โหลด&lt;/strong&gt;]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;เอกสารประกอบการสัมมนา &lt;a href=&#34;/pages/knowledge/digital-tax/seminar/&#34;&gt;[&lt;strong&gt;ดาวน์โหลด&lt;/strong&gt;]&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote class=&#34;book-hint success&#34;&gt;
   สอบถามรายละเอียดเพิ่มเติมได้ที่ &lt;strong&gt;คลินิกสิทธิประโยชน์ทางภาษีอากร โทร. 02-6677000 ต่อ 5179&lt;/strong&gt;
@@ -101,10 +101,10 @@
     
     <item>
       <title>ระบบการบริหารจัดการความมั่นคงปลอดภัยของสารสนเทศ</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/</link>
+      <link>/pages/knowledge/iso/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/</guid>
+      <guid>/pages/knowledge/iso/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./img/logo.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;“มาตรฐาน ISO 27001”&lt;/strong&gt; เกิดขึ้นจากองค์กร ISO - International Organization for Standardization โดยเวอร์ชั่นล่าสุดคือ &lt;strong&gt;ISO 27001:2013&lt;/strong&gt; ประกาศใช้เมื่อวันที่ 1 ตุลาคม ค.ศ.2013 เป็นมาตรฐานสากลสำหรับระบบการจัดการความปลอดภัยของข้อมูล (Information Security Management Systems : ISMS) จัดทำขึ้นเพื่อให้องค์กรนำข้อกำหนดไปใช้ในการประเมินความเสี่ยง ออกแบบด้านการรักษาความปลอดภัย และการนำไปปฏิบัติ รวมถึงการบริหารจัดการความปลอดภัยของข้อมูลทั้งที่เป็นดิจิทัลและเอกสารได้อย่างปลอดภัย เป็นมาตรฐานสากลเพียงมาตรฐานเดียว ที่สามารถตรวจประเมินได้สำหรับระบบการจัดการความปลอดภัยของข้อมูล&lt;/p&gt;
 &lt;p&gt;มาตรฐานนี้จะมุ่งเน้นการรักษาความปลอดภัยของข้อมูลสารสนเทศ ตามระดับความเสี่ยงด้านการรักษาความลับ การรักษาความถูกต้องสมบูรณ์ และความพร้อมใช้งาน โดยมีแนวทางบริหารจัดการให้ข้อมูลสารสนเทศขององค์กรสามารถเข้าถึงได้เฉพาะผู้ที่มีสิทธิ ข้อมูลสารสนเทศมีความถูกต้อง ครบถ้วนสมบูรณ์ไม่ถูกเปลี่ยนแปลงหรือแก้ไขจากผู้ที่ไม่ได้รับอนุญาต และข้อมูลสารสนเทศมีความพร้อมที่จะให้ผู้มีสิทธิเข้าใช้งานอยู่เสมอ การที่องค์กรนํามาตรฐาน ISO 27001 มาประยุกต์ใช้ในการดําเนินงาน จะสามารถทําให้ผู้มีส่วนได้ส่วนเสีย เกิดความมั่นใจในความมั่นคงปลอดภัยของข้อมูลสารสนเทศมากยิ่งขึ้น เนื่องจากการดําเนินงานตามมาตรฐาน ISO 27001 จะช่วยปกป้องข้อมูลสารสนเทศขององค์กร จากความเสี่ยงของภัยคุกคามต่าง ๆ ไม่วาจะเป็นไวรัสคอมพิวเตอร์ที่ทําให้ข้อมูลสารสนเทศเสียหาย การบุกรุกระบบเพื่อขโมยข้อมูลสารสนเทศ การบุกรุกระบบเพื่อเปลี่ยนแปลงข้อมูลสารสนเทศ หรือความเสียหายที่เกิดจากความไม่ตั้งใจของผู้ใช้งานในระบบ ฯลฯ ซึ่งส่งผลกระทบต่อการดําเนินงานขององค์กร สร้างความเสียหายด้านรายได้ เวลา ภาพลักษณ์ และความน่าเชื่อถือ ขององค์กร&lt;/p&gt;

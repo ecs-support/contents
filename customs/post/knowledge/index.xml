@@ -2,27 +2,328 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>บทความน่ารู้ on ECS</title>
-    <link>https://ecs-support.github.io/KM/customs/post/knowledge/</link>
+    <link>/post/knowledge/</link>
     <description>Recent content in บทความน่ารู้ on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
-    <lastBuildDate>Tue, 23 May 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://ecs-support.github.io/KM/customs/post/knowledge/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/post/knowledge/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>คู่มือการใช้ระบบพิมพ์ใบเสร็จรับเงินและเอกสารทางการเงิน (ERV)</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/2023/05-23/</link>
-      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      <title>สิทธิประโยชน์และสิทธิพิเศษทางศุลกากร สำหรับผู้ประกอบการระดับมาตรฐานเออีโอ (AEO-MRA)</title>
+      <link>/post/knowledge/2023/09-28/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/2023/05-23/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;div style= &#34;height:30px&#34;&gt;
+      <guid>/post/knowledge/2023/09-28/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;img.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;กรมศุลกากรเผยแพร่เอกสาร บทความวิชาการ - &lt;em&gt;สิทธิประโยชน์และสิทธิพิเศษทางศุลกากร ภายใต้ความตกลงยอมรับร่วมกัน สำหรับผู้ประกอบการระดับมาตรฐานเออีโอ (AEO-MRA)&lt;/em&gt;  มีรายละเอียดดังนี้&lt;/p&gt;
+&lt;p&gt;องค์การศุลกากรโลก (World Customs Organization: WCO) ให้ความสำคัญในกระบวนการรักษาความปลอดภัยทางโลจิสติกส์ และการค้าระหว่างประเทศตั้งแต่ต้นทางของการขนส่งจึงได้กำหนดกรอบมาตรฐานในการรักษาความปลอดภัยและการอำนวยความสะดวกทางการค้าระหว่างประเทศ เรียกว่า SAFE Framework of Standards to Secure and Facilitate Global Trade (SAFE Framework) หนึ่งในกลไกสำคัญของ SAFE Framework คือ โครงการ Authorized Economic Operator (AEO) ซึ่งหมายถึงองค์กรหรือบริษัทที่มีหน้าที่เกี่ยวข้องกับการเคลื่อนย้ายสินค้าที่ได้รับการรับรองจากศุลกากรของแต่ละประเทศว่าได้ปฏิบัติตามกรอบมาตรฐานขององค์การศุลกากรโลกหรือมาตรฐานอื่นที่เทียบเท่า ในเรื่องการรักษาความปลอดภัยในห่วงโซ่อุปทาน ทั้งนี้ผู้เกี่ยวข้องในห่วงโซ่อุปทาน รวมถึง ผู้ผลิต ผู้นำเข้า ผู้ส่งออก ตัวแทนออกของ ผู้ขนส่ง ผู้รวบรวมสินค้า ท่าเรือ ท่าอากาศยาน ผู้ประกอบการกิจการท่ารถ เจ้าของโรงพักสินค้าและตัวแทนจำหน่ายสินค้า เป็นต้น&lt;/p&gt;
+&lt;p&gt;กรมศุลกากรในฐานะสมาชิกองค์การศุลกากรโลกได้ลงนามใน Letter of Intent เมื่อวันที่ 9 พฤษภาคม 2549 เพื่อแสดงเจตนารมณ์ในการนำกรอบมาตรฐานความปลอดภัยขององค์การศุลกากรโลก (SAFE Framework) มาใช้เพื่อให้หน่วยงานศุลกากรและภาคเอกชนตระหนักถึงความปลอดภัยในห่วงโซ่อุปทาน เพิ่มขีดความสามารถในการแข่งขันทางการค้าระหว่างประเทศ และอำนวยความสะดวกทางการค้าในการปฏิบัติพิธีการศุลกากร โดยได้เริ่มดำเนินโครงการผู้ประกอบการระดับมาตรฐานเออีโอตั้งแต่ปี 2550 ซึ่งผู้ประกอบการระดับมาตรฐานเออีโอ จะได้รับสิทธิประโยชน์และสิทธิพิเศษในด้านต่าง ๆ ได้แก่ด้านพิธีการศุลกากร ด้านสิทธิประโยชน์ทางภาษีอากร หรือด้านคดี&lt;/p&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
 
 &lt;/div&gt;
-กรมศุลกากรเผยแพร่เอกสาร &lt;em&gt;คู่มือการใช้ระบบพิมพ์ใบเสร็จรับเงินและเอกสารทางการเงิน (ERV)&lt;/em&gt; ตามประกาศกรมศุลกากรที่ 69/2566 เรื่อง &lt;strong&gt;การชำระค่าภาษีอากร ค่าธรรมเนียมศุลกากร รายได้อื่น และเงินประกัน ผ่านช่องทางการให้บริการของธนาคาร หรือตัวแทนรับชำระ (Bill Payment) และ การพิมพ์ใบเสร็จรับเงิน กศก. 123 ที่ชำระผ่านระบบอิเล็กทรอนิกส์&lt;/strong&gt; ลงวันที่ 11 เมษายน 2566 มีผลใช้บังคับตั้งแต่&lt;em&gt;วันที่ 24 พฤษภาคม 2566 เป็นต้นไป&lt;/em&gt; (&lt;a href=&#34;https://ecs-support.github.io/KM/customs/post/law/customs/2566/69/&#34;&gt;ดาวน์โหลดประกาศ&lt;/a&gt;)&lt;/p&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;90%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+      
+&lt;div class=&#34;div-btn&#34;&gt;
+    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
+  ดาวน์โหลดเอกสาร
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;blockquote class=&#34;book-hint info&#34;&gt;
+  &lt;strong&gt;บทความโดย :&lt;/strong&gt; นางกิจจาลักษณ์ ศรีนุชศาสตร์ รองอธิบดีกรมศุลกากร
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232932414c505f48464a4f464b4a&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;br&gt;
+วันที่ปรับปรุงล่าสุด : 27 กันยายน 2566&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>สิทธิประโยชน์ทางภาษีอากรเพื่อส่งเสริมอุตสาหกรรมยานยนต์ไฟฟ้า</title>
+      <link>/post/knowledge/2023/09-21/</link>
+      <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/knowledge/2023/09-21/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;img.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;กรมศุลกากรเผยแพร่เอกสาร บทความวิชาการ - &lt;em&gt;สิทธิประโยชน์ทางภาษีอากรเพื่อส่งเสริมอุตสาหกรรมยานยนต์ไฟฟ้า&lt;/em&gt;  มีรายละเอียดดังนี้&lt;/p&gt;
+&lt;p&gt;ตลาดยานยนต์ไฟฟ้าของโลกเติบโตขึ้นอย่างมากจากยอดขายประมาณ 7.8 พันคันในปีพ.ศ.2553 มาสู่ยอดขาย 10.2 ล้านคันในปี 2565 โดยมีจีนเป็นผู้ผลิตอันดับหนึ่งของโลกด้วยส่วนแบ่งการตลาดประมาณร้อยละ 58 โดยนอกจากแนวโน้มของรถยนต์นั่งส่วนบุคคลไฟฟ้า จะเติบโตแล้ว ในปัจจุบันยังมีการขยายตัวของการใช้รถยนต์เพื่อการพาณิชย์ไฟฟ้าด้วย ทั้งนี้ตลาดยานยนต์ไฟฟ้ารายใหญ่ อยู่ที่ประเทศจีน ยุโรป สหรัฐอเมริกา เกาหลีเหนือ ญี่ปุ่น ตามลำดับ โดยมีประเทศจีนเป็นตลาดที่ใหญ่ที่สุดในโลก&lt;/p&gt;
+&lt;p&gt;รายงานของธนาคารโลกร่วมกับ International Association of Public Transport (UITP) เรื่องElectric Mobility &amp;amp; Development ตั้งแต่ปีพ.ศ. 2561 ชี้ให้เห็นว่าตลาดยานยนต์ไฟฟ้าของโลกมีการแทรกแซงโดยรัฐบาลด้วยวิธีการต่าง ๆ ทั้งการส่งเสริมเบื้องต้นอย่างง่ายด้วยมาตรการทางศุลกากรและกฎระเบียบพื้นฐาน หรือมาตรการที่สูงขึ้นไป เช่น การอุดหนุน การให้สิทธิพิเศษ หรือการพัฒนาเครือข่ายประจุแบตเตอรี่ เป็นต้น นอกจากนี้รายงานของธนาคารโลกยังแสดงให้เห็นถึงศักยภาพ ของการสนับสนุนยานยนต์ไฟฟ้าว่าสามารถเป็นการลดปัญหาเรื่องพลังงานและสิ่งแวดล้อมได้ โดยบริหารจัดการการสัญจรด้วยยานยนต์ไฟฟ้า ในเรื่องการใช้แหล่งพลังงานหมุนเวียน รวมถึงการใช้และการผลิตแบตเตอรี่ที่ส่งผลกระทบต่อสิ่งแวดล้อมให้น้อยที่สุด&lt;/p&gt;
+&lt;p&gt;ดังนั้น การส่งเสริมและสนับสนุนอุตสาหกรรมยานยนต์ไฟฟ้าด้วยมาตรการต่าง ๆ จะเป็นหลักประกันการเติบโตของอุตสาหกรรมนี้ ในประเทศไทย เพื่อประโยชน์ในด้านการเจริญเติบโตทางเศรษฐกิจและในด้านสิ่งแวดล้อม ในการนี้กรมศุลกากรได้มีบทบาทในเรื่องนี้ ร่วมกับหน่วยงานที่เกี่ยวข้องตามมติคณะรัฐมนตรีซึ่งต่อมาได้มีประกาศกระทรวงการคลังเรื่องการลดอัตราอากรและยกเว้นอากรศุลกากรสำหรับรถยนต์ไฟฟ้าแบบแบตเตอรี่สำเร็จรูป และประกาศกรมศุลกากรเรื่องหลักเกณฑ์ และพิธีการสำหรับการยกเว้นอากรศุลกากร สำหรับชิ้นส่วนยานยนต์ไฟฟ้าหรือเรือแบบพลังงานไฟฟ้าจากแบตเตอรี่&lt;/p&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;90%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+      
+&lt;div class=&#34;div-btn&#34;&gt;
+    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
+  ดาวน์โหลดเอกสาร
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;blockquote class=&#34;book-hint info&#34;&gt;
+  &lt;strong&gt;บทความโดย :&lt;/strong&gt; นางกิจจาลักษณ์ ศรีนุชศาสตร์ รองอธิบดีกรมศุลกากร
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232932414c505f47464b4b464a4f&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;br&gt;
+วันที่ปรับปรุงล่าสุด : 20 กันยายน 2566&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>คำวินิจฉัยอุทธรณ์ - เครื่องปรับสภาพผิวหน้าด้วยคลื่นความถี่สูง</title>
+      <link>/post/knowledge/2023/09-11/</link>
+      <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/knowledge/2023/09-11/</guid>
+      <description>&lt;p&gt;กรมศุลกากรเผยแพร่เอกสาร คำวินิจฉัยอุทธรณ์ - &lt;em&gt;เครื่องปรับสภาพผิวหน้าด้วยคลื่นความถี่สูง&lt;/em&gt;  มีรายละเอียดดังนี้&lt;/p&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+&lt;p&gt;&lt;img src=&#34;img.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+      
+&lt;div class=&#34;div-btn&#34;&gt;
+    &lt;a  href=&#34;img.png&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
+  ดาวน์โหลดเอกสาร
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;blockquote class=&#34;book-hint info&#34;&gt;
+  สอบถามข้อมูลเพิ่มเติมได้ที่ : ส่วนอุทธรณ์พิกัดอัตราศุลกากร (สอพ.) กองพิกัดอัตราศุลกากร (กพก.)&lt;br&gt;
+หมายเลขโทรศัพท์ : 0-2667-7000 ต่อ 20-4628&lt;br&gt;
+อีเมล์ : &lt;a href=&#34;mailto:80170000@customs.go.th&#34;&gt;80170000@customs.go.th&lt;/a&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232932414b505f47464b4d464b47&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;br&gt;
+วันที่ปรับปรุงล่าสุด : 8 กันยายน 2566&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>แนวทางการเพิ่มประสิทธิภาพการควบคุมทางศุลกากรด้วยฐานข้อมูลภาพเอกซเรย์ (X-Ray Image Integration Database- XIID)</title>
+      <link>/post/knowledge/2023/08-24/</link>
+      <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/knowledge/2023/08-24/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;บทความวิชาการ - แนวทางการเพิ่มประสิทธิภาพการควบคุมทางศุลกากรด้วยฐานข้อมูลภาพเอกซเรย์ (X-Ray Image Integration Database- XIID)&lt;/strong&gt;&lt;/p&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;90%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+      
+&lt;div class=&#34;div-btn&#34;&gt;
+    &lt;a  href=&#34;docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
+  ดาวน์โหลดเอกสาร
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232932414c505e4f464a4f464b4b&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;br&gt;
+วันที่ปรับปรุงล่าสุด : 24 สิงหาคม 2566&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>แนวทางการเพิ่มประสิทธิภาพการควบคุมทางศุลกากรด้วยโปรไฟล์ข้อมูลบัญชีสินค้า (Manifest Profile)</title>
+      <link>/post/knowledge/2023/08-17/</link>
+      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/knowledge/2023/08-17/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;บทความวิชาการ - แนวทางการเพิ่มประสิทธิภาพการควบคุมทางศุลกากรด้วยโปรไฟล์ข้อมูลบัญชีสินค้า (Manifest Profile)&lt;/strong&gt;&lt;/p&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;90%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+      
+&lt;div class=&#34;div-btn&#34;&gt;
+    &lt;a  href=&#34;docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
+  ดาวน์โหลดเอกสาร
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232932414c505e4e464b48464b47&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;br&gt;
+วันที่ปรับปรุงล่าสุด : 17 สิงหาคม 2566&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>การพักใช้ และเพิกถอนการอนุญาตตัวแทนออกของ</title>
+      <link>/post/knowledge/2023/07-24/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/knowledge/2023/07-24/</guid>
+      <description>&lt;h2 id=&#34;จรรยาบรรณและการดำเนนการเกยวกบการพกใช-และเพกถอนการอนญาตตวแทนออกของและผปฏบตงานเกยวกบการออกของ&#34;&gt;จรรยาบรรณและการดำเนินการเกี่ยวกับการพักใช้ และเพิกถอนการอนุญาตตัวแทนออกของและผู้ปฏิบัติงานเกี่ยวกับการออกของ&lt;/h2&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+&lt;p&gt;&lt;img src=&#34;img-01.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;img-02.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      
+&lt;div class=&#34;div-btn&#34;&gt;
+    &lt;a  href=&#34;docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
+  ดาวน์โหลดเอกสาร
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;เอกสารอ้างอิง&lt;/em&gt; : ประกาศกรมศุลกากรที่ 97/2565 เรื่อง &lt;strong&gt;จรรยาบรรณและการดำเนินการเกี่ยวกับการพักใช้ และเพิกถอนการอนุญาตตัวแทนออกของและผู้ปฏิบัติงานเกี่ยวกับการออกของ&lt;/strong&gt; &lt;a href=&#34;/../post/law/customs/2565/2565-97/&#34;&gt;(ดาวน์โหลดประกาศ)&lt;/a&gt;&lt;/p&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;ที่มา :&lt;/strong&gt; ฝ่ายทะเบียนตัวแทนออกของ ส่วนทะเบียนและสิทธิพิเศษ &lt;br&gt;
+&lt;strong&gt;ปรับปรุงล่าสุด :&lt;/strong&gt; กรกฎาคม 2566&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>การปฏิบัติพิธีการศุลกากรสำหรับโครงการผู้ประกอบการระดับมาตรฐานเออีโอ</title>
+      <link>/post/knowledge/2023/07-10/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/knowledge/2023/07-10/</guid>
+      <description>&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+&lt;p&gt;&lt;img src=&#34;AEO-MRA.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+&lt;blockquote class=&#34;book-hint success&#34;&gt;
+  สอบถามข้อมูลเพิ่มเติมได้ที่ : ส่วนมาตรฐานเออีโอ กองมาตรฐานพิธีการและราคาศุลกากร&lt;br&gt;
+หมายเลขโทรศัพท์ : 02-667-7168, 02-667-7902, 02-667-6520&lt;br&gt;
+อีเมล์ : &lt;a href=&#34;mailto:aeodiv2014@gmail.com&#34;&gt;aeodiv2014@gmail.com&lt;/a&gt;, &lt;a href=&#34;mailto:aeothai.customs@gmail.com&#34;&gt;aeothai.customs@gmail.com&lt;/a&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://aeo.customs.go.th/cont_strc_simple_with_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;ini_menu=&amp;amp;left_menu=&amp;amp;current_id=14232b324147505e4f&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;br&gt;
+วันที่ปรับปรุงล่าสุด : 2 ตุลาคม 2562&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ประเภท 3 ภาค 4 ทัณฑ์บนนำเข้าชั่วคราว (ฉ) และได้นำออกไปแสดงในงานแสดงสินค้าอัญมณีและเครื่องประดับไทย</title>
+      <link>/post/knowledge/2023/06-29/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/knowledge/2023/06-29/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;กรมศุลกากรเผยแพร่เอกสาร การยกเว้นจากบทบังคับตามความในมาตรา 10 แห่งพระราชกำหนดพิกัดอัตราศุลกากร พ.ศ. 2530 สำหรับของที่นำเข้ามาพร้อมกับตนหรือนำเข้ามาเป็นการชั่วคราวตาม &lt;em&gt;ภาค 4 ประเภทที่ 3 (ฉ) และได้นำออกไปแสดงในงานแสดงสินค้าอัญมณีและเครื่องประดับไทย&lt;/em&gt;  มีรายละเอียดดังนี้&lt;/p&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+&lt;p&gt;&lt;img src=&#34;img-01.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;img-02.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+      
+&lt;div class=&#34;div-btn&#34;&gt;
+    &lt;a  href=&#34;docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
+  ดาวน์โหลดเอกสาร
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;blockquote class=&#34;book-hint success&#34;&gt;
+  &lt;strong&gt;สอบถามข้อมูลเพิ่มเติมได้ที่ :&lt;/strong&gt; ศูนย์บริการศุลกากร อาคารเฉลิมพระเกียรติ 7 รอบพระชนมพรรษา ชั้น 1
+&lt;strong&gt;หมายเลขโทรศัพท์ :&lt;/strong&gt; 1164
+&lt;strong&gt;อีเมล์ :&lt;/strong&gt; &lt;a href=&#34;mailto:1164@customs.go.th&#34;&gt;1164@customs.go.th&lt;/a&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;http://ccc.customs.go.th/cont_strc_faq.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;left_menu=interesting_article&amp;amp;ini_menu=&amp;amp;current_id=14232b32414c505e4e&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;br&gt;
+วันที่ปรับปรุงล่าสุด : 29 มิถุนายน 2566&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>คำวินิจฉัยอุทธรณ์ - ปลอกคอสำหรับการป้องกันการกัดหรือการเลียแผล</title>
+      <link>/post/knowledge/2023/06-14/</link>
+      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/knowledge/2023/06-14/</guid>
+      <description>&lt;p&gt;กรมศุลกากรเผยแพร่เอกสาร คำวินิจฉัยอุทธรณ์ - &lt;em&gt;ปลอกคอสำหรับการป้องกันการกัดหรือการเลียแผล (ELIZABETHAN COLLARS)&lt;/em&gt;  มีรายละเอียดดังนี้&lt;/p&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+&lt;p&gt;&lt;img src=&#34;img.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+      
+&lt;div class=&#34;div-btn&#34;&gt;
+    &lt;a  href=&#34;img.png&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
+  ดาวน์โหลดเอกสาร
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;blockquote class=&#34;book-hint info&#34;&gt;
+  สอบถามข้อมูลเพิ่มเติมได้ที่ : ส่วนอุทธรณ์พิกัดอัตราศุลกากร (สอพ.) กองพิกัดอัตราศุลกากร (กพก.)&lt;br&gt;
+หมายเลขโทรศัพท์ : 0-2667-7000 ต่อ 20-4628&lt;br&gt;
+อีเมล์ : &lt;a href=&#34;mailto:80170000@customs.go.th&#34;&gt;80170000@customs.go.th&lt;/a&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232932414b505f47464b4d464b47&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;br&gt;
+วันที่ปรับปรุงล่าสุด : 13 มิถุนายน 2566&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>คู่มือการใช้ระบบพิมพ์ใบเสร็จรับเงินและเอกสารทางการเงิน (ERV)</title>
+      <link>/post/knowledge/2023/06-07/</link>
+      <pubDate>Wed, 07 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/knowledge/2023/06-07/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+&lt;p&gt;กรมศุลกากรเผยแพร่เอกสาร &lt;em&gt;คู่มือการใช้ระบบพิมพ์ใบเสร็จรับเงินและเอกสารทางการเงิน (ERV)&lt;/em&gt; ตามประกาศกรมศุลกากรที่ 69/2566 เรื่อง &lt;strong&gt;การชำระค่าภาษีอากร ค่าธรรมเนียมศุลกากร รายได้อื่น และเงินประกัน ผ่านช่องทางการให้บริการของธนาคาร หรือตัวแทนรับชำระ (Bill Payment) และ การพิมพ์ใบเสร็จรับเงิน กศก. 123 ที่ชำระผ่านระบบอิเล็กทรอนิกส์&lt;/strong&gt; ลงวันที่ 11 เมษายน 2566 มีผลใช้บังคับตั้งแต่&lt;em&gt;วันที่ 24 พฤษภาคม 2566 เป็นต้นมา&lt;/em&gt; (&lt;a href=&#34;https://ecs-support.github.io/KM/customs/post/law/customs/2566/69/&#34;&gt;ดาวน์โหลดประกาศ&lt;/a&gt;)&lt;/p&gt;
 &lt;div style= &#34;height:30px&#34;&gt;
 
 &lt;/div&gt;
@@ -30,30 +331,68 @@
 
 &lt;/div&gt;
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;./docs.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
 &lt;/div&gt;
       
 &lt;div class=&#34;div-btn&#34;&gt;
     &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
-  ดาวน์โหลดประกาศ
+  ดาวน์โหลดเอกสาร
 &lt;/a&gt;
 &lt;/div&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;กรณีพบปัญหา&lt;/strong&gt; เกี่ยวกับการใช้ระบบพิมพ์ใบเสร็จรับเงินและเอกสารทางการเงิน โปรดแจ้งอีเมล์มาที่ &lt;a href=&#34;mailto:ervsupport@customs.go.th&#34;&gt;ervsupport@customs.go.th&lt;/a&gt; หรือติดต่อส่วนบริหารรายได้ สำนักงานเลขานุการกรม 02-6676147, 02-6677815, 02-6676150, 02-6677476, 02-6677475
-02-6677000 ต่อ 20-4554 หรือ 20-5017&lt;/p&gt;
+&lt;blockquote class=&#34;book-hint warning&#34;&gt;
+  &lt;em&gt;กรณีพบปัญหา&lt;/em&gt; &lt;strong&gt;เกี่ยวกับการใช้ระบบพิมพ์ใบเสร็จรับเงินและเอกสารทางการเงิน&lt;/strong&gt; โปรดแจ้งอีเมล์มาที่ &lt;a href=&#34;mailto:ervsupport@customs.go.th&#34;&gt;ervsupport@customs.go.th&lt;/a&gt;&lt;br&gt;
+หรือติดต่อส่วนบริหารรายได้ สำนักงานเลขานุการกรม 02-6676147, 02-6677815, 02-6676150, 02-6677476, 02-6677475  02-6677000 ต่อ 20-4554 หรือ 20-5017
 &lt;/blockquote&gt;
+
 &lt;blockquote&gt;
-&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_download.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232932414b505e4f464b4b464b46&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/data_files/ca2f382eb0d06c433acc266b0b6ef143.pdf&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ภาพรวมการใช้ระบบพิมพ์ใบเสร็จรับเงินและเอกสารทางการเงิน (ERV)</title>
+      <link>/post/knowledge/2023/05-23/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/knowledge/2023/05-23/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+กรมศุลกากรเผยแพร่เอกสาร &lt;em&gt;ภาพรวมการใช้ระบบพิมพ์ใบเสร็จรับเงินและเอกสารทางการเงิน (ERV)&lt;/em&gt; ตามประกาศกรมศุลกากรที่ 69/2566 เรื่อง &lt;strong&gt;การชำระค่าภาษีอากร ค่าธรรมเนียมศุลกากร รายได้อื่น และเงินประกัน ผ่านช่องทางการให้บริการของธนาคาร หรือตัวแทนรับชำระ (Bill Payment) และ การพิมพ์ใบเสร็จรับเงิน กศก. 123 ที่ชำระผ่านระบบอิเล็กทรอนิกส์&lt;/strong&gt; ลงวันที่ 11 เมษายน 2566 มีผลใช้บังคับตั้งแต่&lt;em&gt;วันที่ 24 พฤษภาคม 2566 เป็นต้นไป&lt;/em&gt; (&lt;a href=&#34;https://ecs-support.github.io/KM/customs/post/law/customs/2566/69/&#34;&gt;ดาวน์โหลดประกาศ&lt;/a&gt;)&lt;/p&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;./docs.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+      
+&lt;div class=&#34;div-btn&#34;&gt;
+    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
+  ดาวน์โหลดเอกสาร
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;blockquote class=&#34;book-hint warning&#34;&gt;
+  &lt;em&gt;กรณีพบปัญหา&lt;/em&gt; &lt;strong&gt;เกี่ยวกับการใช้ระบบพิมพ์ใบเสร็จรับเงินและเอกสารทางการเงิน&lt;/strong&gt; โปรดแจ้งอีเมล์มาที่ &lt;a href=&#34;mailto:ervsupport@customs.go.th&#34;&gt;ervsupport@customs.go.th&lt;/a&gt;&lt;br&gt;
+หรือติดต่อส่วนบริหารรายได้ สำนักงานเลขานุการกรม 02-6676147, 02-6677815, 02-6676150, 02-6677476, 02-6677475  02-6677000 ต่อ 20-4554 หรือ 20-5017
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/data_files/592fd5dd07d12536fba009aae535e26d.pdf&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
     
     <item>
       <title>Q &amp; A ถามตอบ การใช้ระบบพิมพ์ใบเสร็จรับเงินและเอกสารทางการเงิน (ERV)</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/2023/05-22/</link>
+      <link>/post/knowledge/2023/05-22/</link>
       <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/2023/05-22/</guid>
+      <guid>/post/knowledge/2023/05-22/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;กรมศุลกากรเผยแพร่ เอกสาร Q &amp;amp; A ถามตอบในงานการบรรยายเพื่อซักซ้อมความเข้าใจการใช้งาน ระบบพิมพ์ใบเสร็จรับเงินและเอกสารทางการเงิน (ERV) เมื่อวันพุธที่ 10 พฤษภาคม 2566 ที่ผ่านมา มีรายละเอียดดังนี้&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;docsjpg_Page1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -81,10 +420,10 @@
     
     <item>
       <title>การใช้งานระบบพิมพ์ใบเสร็จรับเงินและเอกสารทางการเงิน (ERV)</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/2023/05-12/</link>
+      <link>/post/knowledge/2023/05-12/</link>
       <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/2023/05-12/</guid>
+      <guid>/post/knowledge/2023/05-12/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;กรมศุลกากรเผยแพร่ เอกสารประกอบการบรรยายเพื่อซักซ้อมความเข้าใจการใช้งาน ระบบพิมพ์ใบเสร็จรับเงินและเอกสารทางการเงิน (ERV) (รายละเอียดตามเอกสารแนบ) เมื่อวันพุธที่ 10 พฤษภาคม 2566 ซึ่งมีรายละเอียดเบื้องต้นดังนี้&lt;/p&gt;
 &lt;ul&gt;
@@ -97,7 +436,7 @@
 &lt;li&gt;เพิ่มเอกสารแสดงการชำระเงิน&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;./docs.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
@@ -121,10 +460,10 @@
     
     <item>
       <title>แบบคำขอลงทะเบียนเป็นผู้นำเข้า/ส่งออก</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/2023/04-08/</link>
+      <link>/post/knowledge/2023/04-08/</link>
       <pubDate>Sat, 08 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/2023/04-08/</guid>
+      <guid>/post/knowledge/2023/04-08/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;การลงทะเบยนเปนผนำเขา-สงออกกบกรมศลกากร&#34;&gt;การลงทะเบียนเป็นผู้นำเข้า-ส่งออกกับกรมศุลกากร&lt;/h2&gt;
 &lt;p&gt;ผู้ประกอบการที่ประสงค์จะปฏิบัติพิธีการศุลกากรหรือดำเนินการในกระบวนการทางศุลกากรทางอิเล็กทรอนิกส์ จำเป็นต้องมาลงทะเบียนกับกรมศุลกากรโดยสามารถดำเนินการได้ 3 ช่องทาง ดังนี้&lt;/p&gt;
@@ -163,10 +502,10 @@
     
     <item>
       <title>รหัสสิทธิพิเศษการลดอัตราอากรและยกเว้นอากรศุลกากร ตามมาตรา 12</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/2023/03-22/</link>
+      <link>/post/knowledge/2023/03-22/</link>
       <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/2023/03-22/</guid>
+      <guid>/post/knowledge/2023/03-22/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;กรมศุลกากรได้เผยแพร่เอกสาร  รหัสสิทธิพิเศษการลดอัตราอากรและยกเว้นอากรศุลกากร ตามมาตรา 12 แห่งพระราชกำหนดพิกัดอัตราศุลกากร พ.ศ. 2530  มีรายละเอียดดังนี้&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;./img/docspng_Page1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -203,14 +542,14 @@
     
     <item>
       <title>เอกสารสัมมนา &#34;โครงการสิทธิประโยชน์ Delivery 2023&#34;</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/2023/02-23/</link>
+      <link>/post/knowledge/2023/02-23/</link>
       <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/2023/02-23/</guid>
+      <guid>/post/knowledge/2023/02-23/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;ตามที่กองสิทธิประโยชน์ทางภาษีอากร (กสอ.) กรมศุลกากร ได้จัดงานสัมมนา โครงการสิทธิประโยชน์ Delivery 2023 เมื่อวันพุธที่ 22 กุมภาพันธ์ 2566 เวลา 08:30 – 12:00 น. ผ่านช่องทาง Online โดยโครงการดังกล่าวจัดขึ้นเพื่อสร้างความเข้าใจเกี่ยวกับการใช้สิทธิประโยชน์ทางภาษีอากรมิติใหม่เพื่อขับเคลื่อนเศรษฐกิจไทยสู่ความยั่งยืน ทั้งในมิติเกี่ยวกับเขตปลอดอากร, การคืนอากรตามมาตรา 29, คลังสินค้าทัณฑ์บน, การชดเชยค่าภาษีอากร ฯลฯ ขณะนี้ได้มีการเผยแพร่เอกสารในการสัมมนาดังกล่าวซึ่งมีรายละเอียดตามเอกสารแนบ&lt;/p&gt;
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;./docs.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
@@ -231,10 +570,10 @@
     
     <item>
       <title>ขั้นตอนการขอคืนเงินในกรณีชำระเงินค่าภาษีอากรผ่าน Direct Debit /Bill Payment แล้วไม่ได้รับเลขที่ชำระอากร</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/2023/01-31/</link>
+      <link>/post/knowledge/2023/01-31/</link>
       <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/2023/01-31/</guid>
+      <guid>/post/knowledge/2023/01-31/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;docspng_Page1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;docspng_Page2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -258,10 +597,10 @@
     
     <item>
       <title>การนําเข้ารถกอล์ฟภายใต้ความตกลงเขตการค้าเสรีอาเซียน-จีน</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/2023/01-27/</link>
+      <link>/post/knowledge/2023/01-27/</link>
       <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/2023/01-27/</guid>
+      <guid>/post/knowledge/2023/01-27/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;รถกอล์ฟเป็นยานพาหนะสำหรับวิ่งในสนามกอล์ฟเพื่ออํานวยความสะดวกในการนําพาผู้เล่นไปยังจุดต่าง ๆ ในสนาม เนื่องจากสนามมีขนาดใหญ่และยังใช้เพื่อขนของหรือสัมภาระต่างๆ ที่มีน้ำหนักมากเพื่อให้ผู้เล่นสนุกสนานกับการเล่นกอล์ฟได้อย่างเต็มที่ รถกอล์ฟมีทั้งแบบเป็นรถกอล์ฟไฟฟ้าและแบบใช้น้ำมัน แต่ด้วยเหตุผลของมาตรการประหยัดพลังงาน และต้องการลดมลพิษในอากาศผู้ประกอบการรถกอล์ฟจึงหันมาสนใจพัฒนารถกอล์ฟไฟฟ้าอย่างจริงจัง เป็นที่ทราบกันดีว่ารถพลังงานไฟฟ้าไม่ใช้เครื่องยนต์ เพราะสามารถขับเคลื่อนด้วยพลังงานไฟฟ้าในแบตเตอรี่ มันเป็นเหตุผลที่ทำให้รถมอเตอร์ไฟฟ้าไร้เสียงรบกวน และการสั่นสะเทือนของเครื่องยนต์และอัตราเร่งก็เป็นไปอย่างที่ต้องการ นอกจากนี้ยังปรับใช้ได้ในหลายโอกาส เช่น ตามโครงการหมู่บ้านหรือในโรงงานอุตสาหกรรมขนาดใหญ่&lt;/p&gt;
 &lt;h2 id=&#34;การนาเขารถกอลฟมขอทตองพจารณา-ดงน&#34;&gt;การนําเข้ารถกอล์ฟมีข้อที่ต้องพิจารณา ดังนี้&lt;/h2&gt;
@@ -280,7 +619,7 @@
 &lt;p&gt;สินค้าเป็นรถที่ใช้ในสนามกอล์ฟชนิด 4 ที่นั่ง มอเตอร์ 4 แรงม้า 48 โวลต์ คอนโทลเลอร์ยี่ห้อเคอร์ติส ระบบดรัมเบรก แบตเตอรี่แบบเติมน้ำกลั่น (Deep Cycle Battery) ลูกละ 8 โวลต์ ใช้ 6 ลูก รัศมีวงเลี้ยวแคบสุด 4.5 เมตร การรองรับน้ำหนัก 480 กิโลกรัม ขนาดของตัวรถ กว้าง 1.18 เมตร ยาว 3.11 เมตร สูง 1.89 เมตร นําเข้าโดยสำแดงพิกัด 8703.90.13 อัตรายกเว้นอากร โดยขอใช้สิทธิลดอัตราอากรสำหรับของที่มีถิ่นกำเนิดสินค้าจากประเทศสาธารณรัฐประชาชนจีน (ACFTA) โดยแนบหนังสือรับรองถิ่นกำเนิด (Form E) ระบุถิ่นกำเนิด “WO” แต่เจ้าหน้าที่ตรวจสอบเอกสาร Form E ระบุในช่อง 8 ซึ่งเป็นช่องรับรองถิ่นกำเนิด พบว่าไม่สอดคล้องกับสินค้าที่นําเข้าจริงเนื่องจากพบว่าแบตเตอรี่ระบุถิ่นกำเนิด Made in USA จึงไม่ตรงตามเงื่อนไขที่ว่าสินค้าที่ได้มาทั้งหมดหรือมีการผลิตขึ้นโดยใช้วัตถุดิบในประเทศภาคีผู้ส่งออกทั้งหมด (Wholly Obtained Producted: WO) จึงต้องจัดเข้าพิกัด 8703.10.10 อัตรา 40% บริษัทได้อุทธรณ์การประเมิน ทั้งนี้ ในระหว่างขั้นตอนการพิจารณาเจ้าหน้าที่ได้สอบถามไปยังหน่วยงานที่มีอำนาจออกหนังสือรับรองถิ่นกำเนิดสินค้าของประเทศจีนถึง 3 ครั้ง จนกระทั่งครบกำหนดระยะเวลาตามเงื่อนไขความตกลงที่ว่าหากไม่ได้รับคําตอบภายใน 3 เดือนให้มีหนังสือเตือน และหลังจากมีหนังสือเตือนครบ 2 เดือนยังไม่ได้รับคําตอบให้ถือว่าสินค้านั้นไม่ได้รับสิทธิ ในการนี้คณะกรรมการได้พิจารณา เอกสารหลักฐานประกอบกับข้อเท็จจริงที่วัตถุดิบไม่ได้มีถิ่นกำเนิดในประเทศภาคีผู้ส่งออกทั้งหมด (WO) จึงมติให้รถกอล์ฟ รุ่นที่นําเข้าจัดเข้าพิกัด 8703.10.10 อัตรา 40%&lt;/p&gt;
 &lt;p&gt;กรณีดังกล่าวเป็นเพียงประเด็นตัวอย่างในเรื่องการระบุถิ่นกำเนิดที่ความคลาดเคลื่อนจนเป็นเหตุให้เสียสิทธิการลดอัตราอากร ทั้งนี้ ภายใต้ความตกลงเขตการค้าเสรีอาเซียน-จีน ยังคงมีประเด็นปลีกย่อยอื่นที่ควรระมัดระวังก่อนการนําเข้าสินค้า ผู้ประกอบการจึงจึงต้องศึกษารายละเอียดความตกลงทางการค้าของประเทศที่สนใจจะนําเข้าสินค้าจากประกาศต่างๆ ทางหน้าเว็บไซต์หรือการเข้าหารือ ณ หน่วยงานที่เกี่ยวข้อง&lt;/p&gt;
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;./docs.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
@@ -303,10 +642,10 @@
     
     <item>
       <title>การปฏิบัติพิธีการศุลกากร นําเข้ารังนก</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/2023/01-23/</link>
+      <link>/post/knowledge/2023/01-23/</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/2023/01-23/</guid>
+      <guid>/post/knowledge/2023/01-23/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;รงนก&#34;&gt;รังนก&lt;/h2&gt;
 &lt;p&gt;เป็นของตามประเภทพิกัด 0410.90.10 อัตราอากรร้อยละ 60 จัดเป็นหนึ่งในสินค้าเศรษฐกิจของไทย ซึ่งมีการวัดคุณภาพหลายวิธี
@@ -356,10 +695,10 @@
     
     <item>
       <title>การเรียกเก็บอากรตามกฎหมายอื่นที่กำหนดให้เป็นอากรศุลกากร กับ รหัสสถิติของสินค้า</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/2023/01-17/</link>
+      <link>/post/knowledge/2023/01-17/</link>
       <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/2023/01-17/</guid>
+      <guid>/post/knowledge/2023/01-17/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;[บทความวิชาการ] การเรียกเก็บอากรตามกฎหมายอื่นที่กำหนดให้เป็นอากรศุลกากร กับ รหัสสถิติของสินค้า&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;อากรตามกฎหมายอนทกำหนดใหเปนอากรศลกากร-คออะไร&#34;&gt;อากรตามกฎหมายอื่นที่กำหนดให้เป็นอากรศุลกากร คืออะไร?&lt;/h2&gt;
@@ -396,10 +735,10 @@
     
     <item>
       <title>สรุปสาระสำคัญการผ่านแดนหรือการถ่ายลำ ได้รับยกเว้นไม่ต้องปฏิบัติตามกฎหมาย ว่าด้วยศุลกากรทั้งหมดหรือแต่บางส่วน</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/2023/01-16/</link>
+      <link>/post/knowledge/2023/01-16/</link>
       <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/2023/01-16/</guid>
+      <guid>/post/knowledge/2023/01-16/</guid>
       <description>&lt;p&gt;&lt;strong&gt;[บทความวิชาการ] สรุปสาระสำคัญของกฎกระทรวงกำหนดให้ผู้นําของเข้าเพื่อการผ่านแดนหรือการถ่ายลำ ได้รับยกเว้นไม่ต้องปฏิบัติตามกฎหมาย ว่าด้วยศุลกากรทั้งหมดหรือแต่บางส่วน พ.ศ. 2563&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;featured-02.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;เนื่องด้วยสถานการณ์การระบาดของโรคติดเชื้อไวรัสโคโรนา 2019 (Covid-19) ยังผลให้องค์การอนามัยโลกต้อง ประกาศให้การระบาดของโรคติดเชื้อไวรัสโคโรนา 2019 เป็นการระบาดใหญ่ เมื่อ 2-3 ปีที่ผ่านมานั้น สถานการณ์ในห้วงเวลา ดังกล่าวมีความรุนแรง จนกระทบต่อความมั่นคงของประเทศ ดังนั้น เพื่อสกัดกั้นการแพร่ระบาด ป้องกันมิให้สถานการณ์ ทวีความรุนแรงมากยิ่งขึ้น นายกรัฐมนตรีได้ประกาศสถานการณ์ฉุกเฉินในทุกเขตท้องที่ทั่วราชอาณาจักร ตั้งแต่วันที่ 26 มีนาคม พ.ศ. 2563 จนถึงวันที่ 30 เมษายน พ.ศ. 2563 ตามประกาศสถานการณ์ฉุกเฉินในทุกเขตท้องที่ทั่วราชอาณาจักร ลงวันที่ 25 มีนาคม พ.ศ. 2563 และให้มีการขยายระยะเวลาดังกล่าวไปจนถึงวันที่ 31 พฤษภาคม พ.ศ. 2563 และประกาศ เรื่องการ ขยายระยะเวลาการประกาศสถานการณ์ฉุกเฉินในทุกเขตท้องที่ทั่วราชอาณาจักร (คราวที่ 1) ลงวันที่ 28 เมษายน พ.ศ. 2563 ข้อ 3 ของข้อกำหนดออกตามความในมาตรา 9 แห่งพระราชกำหนดการบริหารราชการในสถานการณ์ฉุกเฉิน พ.ศ. 2548 (ฉบับที่ 1) ลงวันที่ 25 มีนาคม พ.ศ. 2563 กำหนดว่า “การปิดช่องทางเข้ามาในราชอาณาจักร ในการใช้ยานพาหนะไม่ว่าจะ เป็นอากาศยาน เรือ รถยนต์ หรือพาหนะอื่นใด หรือในการใช้เส้นทางคมนาคมไม่ว่าทางอากาศ ทางน้ำ หรือทางบก เพื่อเดินทางเข้ามาในราชอาณาจักร ให้เจ้าหน้าที่ผู้รับผิดชอบปิดช่องทางเข้าออก ด่าน จุดผ่านแดนหรือจุดผ่อนปรนตาม กฎหมายว่าด้วยโรคติดต่อและกฎหมายว่าด้วยคนเข้าเมือง สำหรับผู้โดยสารหรือผู้ที่เดินทางเข้ามาในราชอาณาจักร&amp;hellip;”&lt;/p&gt;
@@ -451,10 +790,10 @@
     
     <item>
       <title>การลดอัตราอากร สำหรับรถยนต์ไฟฟ้าที่ผลิตในเขตปลอดอากร</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/2023/01-13/</link>
+      <link>/post/knowledge/2023/01-13/</link>
       <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/2023/01-13/</guid>
+      <guid>/post/knowledge/2023/01-13/</guid>
       <description>&lt;h2 id=&#34;บทความวชาการ-การลดอตราอากรตามมาตรา-12-แหงพระราชกำหนดพกดอตราศลกากร-พศ-2530-สำหรบรถยนตไฟฟาทผลตในเขตปลอดอากร&#34;&gt;[บทความวิชาการ] การลดอัตราอากรตามมาตรา 12 แห่งพระราชกำหนดพิกัดอัตราศุลกากร พ.ศ. 2530 สำหรับรถยนต์ไฟฟ้าที่ผลิตในเขตปลอดอากร&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;จากวิกฤตการณ์น้ำมันที่มีราคาสูงขึ้นเป็นลำดับทำให้ผู้ขับขี่รถยนต์ต้องแบกรับภาระค่าใช้จ่ายที่สูงขึ้นประกอบกับ แนวคิดที่มนุษย์เริ่มหันมาใส่ใจสิ่งแวดล้อม โดยมีความก้าวหน้าทางเทคโนโลยีเป็นตัวขับเคลื่อน จึงเป็นที่มาของการคิดค้น รถยนต์ที่ใช้พลังงานไฟฟ้าเพื่อมาทดแทนการใช้น้ำมัน เพราะนอกจากเป็นการประหยัดค่าใช้จ่ายแล้วยังเป็นการลดมลพิษ อันเกิดจากเขม่าควันซึ่งก่อให้เกิดภาวะโลกร้อนอีกด้วย รถยนต์ที่ใช้พลังงานไฟฟ้าหรือรถยนต์ไฟฟ้าในที่นี้หมายถึงรถยนต์ที่ใช้พลังงานไฟฟ้าจากแบตเตอรี่แต่เพียงอย่างเดียว ไม่มีเครื่องยนต์สันดาปภายใน จึงไม่มีการปล่อยไอเสีย และไม่สร้างมลพิษซึ่งสามารถชาร์จไฟได้เมื่อแบตเตอรี่หมด ผ่านทางที่ชาร์จภายในบ้านหรือสถานีชาร์จไฟ&lt;/p&gt;
@@ -492,10 +831,10 @@
     
     <item>
       <title>การดำเนินการทางปกครองสำหรับตัวแทนออกของที่กระทำความผิดเกี่ยวกับยาเสพติด</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/2023/01-11/</link>
+      <link>/post/knowledge/2023/01-11/</link>
       <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/2023/01-11/</guid>
+      <guid>/post/knowledge/2023/01-11/</guid>
       <description>&lt;h2 id=&#34;บทความวชาการ-การดำเนนการทางปกครองสำหรบตวแทนออกของและผปฏบตงานเกยวกบการออกของ-ทกระทำความผดเกยวกบยาเสพตด&#34;&gt;[บทความวิชาการ] การดำเนินการทางปกครองสำหรับตัวแทนออกของและผู้ปฏิบัติงานเกี่ยวกับการออกของ ที่กระทำความผิดเกี่ยวกับยาเสพติด&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;การผลิตยาเสพติดในปัจจุบันมีแนวโน้มเพิ่มขึ้น มีการเปลี่ยนแปลงจากเดิมที่ใช้เครื่องมือในการผลิตแบบที่กำลังการผลิตไม่มาก เริ่มเปลี่ยนมาเป็นการผลิตในระดับอุตสาหกรรมขนาดใหญ่ที่ดำเนินการโดยองค์กรอาชญากรรมข้ามชาติที่มีโครงสร้างการค้าที่สลับซับซ้อน เพื่อรองรับตลาดยาเสพติดภายนอกประเทศ โดยพื้นที่ที่เป็นแหล่งผลิตยาเสพติดส่วนใหญ่อยู่ในเขตประเทศเพื่อนบ้าน แม้ในช่วงแรกของการระบาดของเชื้อไวรัสโคโรนา 2019 มีการหยุดชะงัก ของตลาดการค้ายาเสพติดเนื่องจากการปิดพรมแดนของประเทศต่าง ๆ แต่ขบวนการค้ายาเสพติดมีการปรับตัวให้เข้ากับสถานการณ์ได้อย่างรวดเร็ว และมีความพยายามที่จะลักลอบ ลําเลียงยาเสพติดผ่านประเทศไทยเพื่อส่งต่อไปยังประเทศที่สามมากขึ้น ซึ่งการลักลอบส่งออกยาเสพติดจากประเทศไทยมีหลายช่องทาง ไม่ว่าจะเป็นการลักลอบส่งออกทางบก ทางอากาศ ทางทะเล และทางไปรษณีย์ โดยเฉพาะอย่างยิ่งการลักลอบส่งออกยาเสพติดทางทะเล พบว่าในปัจจุบันมีการลักลอบส่งยาเสพติดออกไป นอกราชอาณาจักรโดยวิธีการซุกซ่อนยาเสพติด ไว้ในสินค้าที่จะส่งออกไปนอกราชอาณาจักรโดยทางทะเล เนื่องจากตู้บรรจุสินค้าจะสามารถซุกซ่อนยาเสพติดได้ปริมาณมาก&lt;/p&gt;
@@ -535,10 +874,10 @@
     
     <item>
       <title>การนําเข้าอินทผลัม</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/2023/01-09/</link>
+      <link>/post/knowledge/2023/01-09/</link>
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/2023/01-09/</guid>
+      <guid>/post/knowledge/2023/01-09/</guid>
       <description>&lt;h2 id=&#34;บทความวชาการ-การนาเขาอนทผลม&#34;&gt;[บทความวิชาการ] การนําเข้าอินทผลัม&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;รายละเอยด&#34;&gt;รายละเอียด&lt;/h3&gt;
@@ -576,10 +915,10 @@
     
     <item>
       <title>การขึ้นทะเบียนและการรับรองถิ่นกำเนิดสินค้าด้วยตนเองของอาเซียน</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/2023/01-04/</link>
+      <link>/post/knowledge/2023/01-04/</link>
       <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/2023/01-04/</guid>
+      <guid>/post/knowledge/2023/01-04/</guid>
       <description>&lt;h2 id=&#34;บทความวชาการ-การขนทะเบยนและการรบรองถนกำเนดสนคาดวยตนเองของอาเซยน-เพอใหไดรบสทธพเศษทางอากรศลกากร-asean-wide-self-certification-awsc&#34;&gt;[บทความวิชาการ] การขึ้นทะเบียนและการรับรองถิ่นกำเนิดสินค้าด้วยตนเองของอาเซียน เพื่อให้ได้รับสิทธิพิเศษทางอากรศุลกากร (ASEAN Wide Self-Certification: AWSC)&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;ภายใต้ความตกลงการค้าสินค้าของอาเซียน (ASEAN Trade in Goods Agreement : ATIGA) การรับรองถิ่นกำเนิด สินค้าด้วยตนเอง (Self-Certification) เป็นระบบความไว้วางใจให้ผู้ส่งออกตรวจสอบคุณสมบัติของตน ในบัญชีราคาสินค้า (Invoice) หรือในเอกสารทางการค้าอื่น ๆ (กรณีไม่สามารถแสดง Invoice) ในการใช้สิทธิยกเว้นหรือลดอัตราอากรศุลกากร ตามความตกลงการค้าสินค้าของอาเซียน (ASEAN Trade in Goods Agreement : ATIGA) แทนการใช้หนังสือรับรอง ถิ่นกำเนิดสินค้า Form D ซึ่งในระบบการรับรองถิ่นกำเนิดสินค้าด้วยตนเอง (Self-Certification) ประเทศสมาชิกอาเซียน 10 ประเทศได้แก่ ประเทศไทย สิงคโปร์ มาเลเซีย ฟิลิปปินส์ อินโดนีเซีย บรูไน กัมพูชา ลาว เมียนมาร์ และเวียดนาม ได้มี โครงการนําร่องการใช้ระบบรับรองถิ่นกำเนิดสินค้าด้วยตนเองโครงการที่ 1 (Self-Certification Pilot Project 1 : SCPP1) และโครงการที่ 2 (Self-Certification Pilot Project 2 : SCPP2) โดยโครงการที่ 1 (SCPP1) มีประเทศเข้าร่วมจำนวน 6 ประเทศ ได้แก่ บรูไน กัมพูชา มาเลเซีย เมียนมาร์ สิงคโปร์ และประเทศไทย และโครงการที่ 2 (SCPP2) มี 5 ประเทศเข้าร่วม ได้แก่ อินโดนีเซีย ลาว ฟิลิปปินส์ เวียดนาม และประเทศไทย&lt;/p&gt;
@@ -611,10 +950,10 @@
     
     <item>
       <title>เอกสารสัมมนา &#34;โครงการพัฒนาระบบพิธีการศุลกากรอิเล็กทรอนิกส์ (e-Commerce Customs System)&#34;</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/2022/11-29/</link>
+      <link>/post/knowledge/2022/11-29/</link>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/2022/11-29/</guid>
+      <guid>/post/knowledge/2022/11-29/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
@@ -637,76 +976,78 @@
 &lt;blockquote&gt;
 &lt;p&gt;โดย นายคลี่เอก มาสมาน  นักวิชาการศุลกากรชํานาญการ สํานักงานศุลกากรตรวจสินค้าท่าอากาศยานสุวรรณภูมิ&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./docs_01.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;./docs_01.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;90%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
-
-
-&lt;br&gt;
-
-&lt;br&gt;
-&lt;div class=&#34;article-tags&#34;&gt;
-&lt;a class=&#34;badge badge-danger&#34; href=&#34;./docs_01.pdf&#34; target=&#34;_blank&#34; id=&#34;download_files_new&#34;&gt;Download&lt;/a&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
 
 &lt;/div&gt;
-&lt;br&gt;
-
+      
+&lt;div class=&#34;div-btn&#34;&gt;
+    &lt;a  href=&#34;./docs_01.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
+  ดาวน์โหลดเอกสาร
+&lt;/a&gt;
+&lt;/div&gt;
 &lt;h2 id=&#34;การบรรยายในหวขอ-การจดตงเขตปลอดอากรพาณชยอเลกทรอนกส&#34;&gt;การบรรยายในหัวข้อ &amp;ldquo;การจัดตั้งเขตปลอดอากรพาณิชย์อิเล็กทรอนิกส์&amp;rdquo;&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;โดย นายธีร์ จิตรพิทักษ์เลิศ ส่วนตรวจสอบคลังสินค้าทัณฑ์บน กองสิทธิประโยชน์ทางภาษีอากร&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./docs_02.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;./docs_02.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;90%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
-
-
-&lt;br&gt;
-
-&lt;br&gt;
-&lt;div class=&#34;article-tags&#34;&gt;
-&lt;a class=&#34;badge badge-danger&#34; href=&#34;./docs_02.pdf&#34; target=&#34;_blank&#34; id=&#34;download_files_new&#34;&gt;Download&lt;/a&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
 
 &lt;/div&gt;
-&lt;br&gt;
-
+      
+&lt;div class=&#34;div-btn&#34;&gt;
+    &lt;a  href=&#34;./docs_02.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
+  ดาวน์โหลดเอกสาร
+&lt;/a&gt;
+&lt;/div&gt;
 &lt;h2 id=&#34;การบรรยายในหวขอ-การลงทะเบยนเปนผรบสงขอมลอเลกทรอนกสผานระบบ-nsw&#34;&gt;การบรรยายในหัวข้อ &amp;ldquo;การลงทะเบียนเป็นผู้รับส่งข้อมูลอิเล็กทรอนิกส์ผ่านระบบ NSW&amp;rdquo;&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;โดย นายไกรษร สมนึก  นักวิชาการคอมพิวเตอร์ชํานาญการ ศูนย์เทคโนโลยีสารสนเทศและการสื่อสาร&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./docs_03.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;./docs_03.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;90%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
-
-
-&lt;br&gt;
-
-&lt;br&gt;
-&lt;div class=&#34;article-tags&#34;&gt;
-&lt;a class=&#34;badge badge-danger&#34; href=&#34;./docs_03.pdf&#34; target=&#34;_blank&#34; id=&#34;download_files_new&#34;&gt;Download&lt;/a&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
 
 &lt;/div&gt;
-&lt;br&gt;
-
+      
+&lt;div class=&#34;div-btn&#34;&gt;
+    &lt;a  href=&#34;./docs_03.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
+  ดาวน์โหลดเอกสาร
+&lt;/a&gt;
+&lt;/div&gt;
 &lt;h2 id=&#34;การบรรยายในหวขอ-ระบบพธการศลกากรพาณชยอเลกทรอนกส&#34;&gt;การบรรยายในหัวข้อ &amp;ldquo;ระบบพิธีการศุลกากรพาณิชย์อิเล็กทรอนิกส์&amp;rdquo;&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;โดย นางกรรณิกา ปกรณ์ประเสริฐ  ผู้อํานวยการส่วนพัฒนาระบบส่งออกและสิทธิประโยชน์ ศูนย์เทคโนโลยีสารสนเทศและการสื่อสาร&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./docs_04.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;./docs_04.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;90%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
-
-
-&lt;br&gt;
-
-&lt;br&gt;
-&lt;div class=&#34;article-tags&#34;&gt;
-&lt;a class=&#34;badge badge-danger&#34; href=&#34;./docs_04.pdf&#34; target=&#34;_blank&#34; id=&#34;download_files_new&#34;&gt;Download&lt;/a&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
 
 &lt;/div&gt;
-&lt;br&gt;
-
-
-
+      
+&lt;div class=&#34;div-btn&#34;&gt;
+    &lt;a  href=&#34;./docs_04.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
+  ดาวน์โหลดเอกสาร
+&lt;/a&gt;
+&lt;/div&gt;
 &lt;blockquote&gt;
 &lt;p&gt;ที่มา : กรมศุลกากร&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -715,27 +1056,28 @@
     
     <item>
       <title>การตรวจสอบและติดตามข้อมูล ATIGA e-Form D เพื่อใช้ในการดำเนินพิธีการตรวจปล่อยสินค้า</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/2022/10-25/</link>
+      <link>/post/knowledge/2022/10-25/</link>
       <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/2022/10-25/</guid>
-      <description>&lt;h2 id=&#34;เอกสารประกอบการอบรมหลกสตร-การตรวจสอบและตดตามขอมล-atiga-e-form-d-เพอใชในการดำเนนพธการตรวจปลอยสนคา&#34;&gt;เอกสารประกอบการอบรมหลักสูตร &amp;ldquo;การตรวจสอบและติดตามข้อมูล ATIGA e-Form D เพื่อใช้ในการดำเนินพิธีการตรวจปล่อยสินค้า&amp;rdquo;&lt;/h2&gt;
+      <guid>/post/knowledge/2022/10-25/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;เอกสารประกอบการอบรมหลักสูตร &amp;ldquo;การตรวจสอบและติดตามข้อมูล ATIGA e-Form D เพื่อใช้ในการดำเนินพิธีการตรวจปล่อยสินค้า&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;ตามที่กองบริหารจัดการและพัฒนาระบบเชื่อมโยงข้อมูลการนำเข้า ส่องออกและโลจิสติกส์ (กบช.) ได้จัดอบรมหลักสูตร “การตรวจสอบและติดตามข้อมูล ATIGA e-Form D เพื่อใช้ในการดำเนินพิธีการตรวจปล่อยสินค้า” ให้กับผู้ประกอบการเมื่อวันศุกร์ที่ 30 กันยายน 2565 ที่ผ่านมานั้น ทาง ThaiNSW ได้เผยแพร่เอกสารอบรมให้กับผู้สนใจ ซึ่งรายละเอียดตามเอกสารแนบ&lt;/p&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;90%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
-
-
-&lt;br&gt;
-
-&lt;br&gt;
-&lt;div class=&#34;article-tags&#34;&gt;
-&lt;a class=&#34;badge badge-danger&#34; href=&#34;./docs.pdf&#34; target=&#34;_blank&#34; id=&#34;download_files_new&#34;&gt;Download&lt;/a&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
 
 &lt;/div&gt;
-&lt;br&gt;
-
-
+      
+&lt;div class=&#34;div-btn&#34;&gt;
+    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
+  ดาวน์โหลดเอกสาร
+&lt;/a&gt;
+&lt;/div&gt;
 &lt;blockquote&gt;
 &lt;p&gt;ที่มา : &lt;a href=&#34;https://www.thainsw.net/INSW/Ent/DisplayDocumentDetailServlet&#34;&gt;ThaiNSW&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -744,10 +1086,10 @@
     
     <item>
       <title>การยกเว้นอากรของที่นำเข้ามาแสดงในงานแสดงสินค้าเป็นการชั่วคราวและส่งกลับออกไป</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/2022/10-07/</link>
+      <link>/post/knowledge/2022/10-07/</link>
       <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/2022/10-07/</guid>
+      <guid>/post/knowledge/2022/10-07/</guid>
       <description>&lt;h2 id=&#34;ประเภท-3-ภาค-4-สทธทณฑบนนำเขาชวคราว-การยกเวนอากรของทนำเขามาแสดงในงานแสดงสนคาเปนการชวคราวและสงกลบออกไป&#34;&gt;ประเภท 3 ภาค 4 สิทธิทัณฑ์บนนำเข้าชั่วคราว (การยกเว้นอากรของที่นำเข้ามาแสดงในงานแสดงสินค้าเป็นการชั่วคราวและส่งกลับออกไป)&lt;/h2&gt;
 
 
@@ -761,26 +1103,26 @@
     
     <item>
       <title>วิเคราะห์การพัฒนาระบบประเมินราคาศุลกากร ภายใต้ศุลกากรยุคใหม่ (Customs modernization)</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/2022/02-23/</link>
+      <link>/post/knowledge/2022/02-23/</link>
       <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/2022/02-23/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;img/img-01.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;img/img-02.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;img/img-03.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;img/img-04.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-
-
-&lt;br&gt;
-
-&lt;br&gt;
-&lt;div class=&#34;article-tags&#34;&gt;
-&lt;a class=&#34;badge badge-danger&#34; href=&#34;./docs.pdf&#34; target=&#34;_blank&#34; id=&#34;download_files_new&#34;&gt;Download&lt;/a&gt;
+      <guid>/post/knowledge/2022/02-23/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
 
 &lt;/div&gt;
-&lt;br&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;90%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
 
-
+&lt;/div&gt;
+      
+&lt;div class=&#34;div-btn&#34;&gt;
+    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
+  ดาวน์โหลดเอกสาร
+&lt;/a&gt;
+&lt;/div&gt;
 &lt;blockquote&gt;
 &lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_simple_with_date.php?current_id=142329324146505f49464b4b464b4b&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -789,28 +1131,26 @@
     
     <item>
       <title>ใช้ e-Form D อย่างไรให้ได้รับสิทธิพิเศษทางอากรศุลกากร</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/2022/02-10/</link>
+      <link>/post/knowledge/2022/02-10/</link>
       <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/2022/02-10/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;img/img-01.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;img/img-02.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;img/img-03.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <guid>/post/knowledge/2022/02-10/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div style= &#34;height:30px&#34;&gt;
 
 &lt;/div&gt;
-
-
-&lt;br&gt;
-
-&lt;br&gt;
-&lt;div class=&#34;article-tags&#34;&gt;
-&lt;a class=&#34;badge badge-danger&#34; href=&#34;./docs.pdf&#34; target=&#34;_blank&#34; id=&#34;download_files_new&#34;&gt;Download&lt;/a&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;90%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
 
 &lt;/div&gt;
-&lt;br&gt;
-
-
+      
+&lt;div class=&#34;div-btn&#34;&gt;
+    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
+  ดาวน์โหลดเอกสาร
+&lt;/a&gt;
+&lt;/div&gt;
 &lt;blockquote&gt;
 &lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/data_files/444f1d09ff5d54d9e4f086c00fc524ff.pdf&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -819,29 +1159,26 @@
     
     <item>
       <title>การขอคืนอากรทั่วไป</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/2022/01-31/</link>
+      <link>/post/knowledge/2022/01-31/</link>
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/2022/01-31/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;img/img-01.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;img/img-02.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;img/img-03.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;img/img-04.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <guid>/post/knowledge/2022/01-31/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div style= &#34;height:30px&#34;&gt;
 
 &lt;/div&gt;
-
-
-&lt;br&gt;
-
-&lt;br&gt;
-&lt;div class=&#34;article-tags&#34;&gt;
-&lt;a class=&#34;badge badge-danger&#34; href=&#34;./docs.pdf&#34; target=&#34;_blank&#34; id=&#34;download_files_new&#34;&gt;Download&lt;/a&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;90%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
 
 &lt;/div&gt;
-&lt;br&gt;
-
-
+      
+&lt;div class=&#34;div-btn&#34;&gt;
+    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
+  ดาวน์โหลดเอกสาร
+&lt;/a&gt;
+&lt;/div&gt;
 &lt;blockquote&gt;
 &lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_simple_with_date.php?current_id=142329324146505f49464b49464b4c&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -850,10 +1187,10 @@
     
     <item>
       <title>การบริหารความเสี่ยงทางศุลกากร ในยุคดิจิทัล</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/2022/01-27/</link>
+      <link>/post/knowledge/2022/01-27/</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/2022/01-27/</guid>
+      <guid>/post/knowledge/2022/01-27/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;โลกปัจจุบัน คือ ยุคแห่งการเปลี่ยนแปลงที่มาก รุนแรง ผันผวนและฉับพลันรวดเร็ว หรือที่นิยมเรียกว่า &lt;strong&gt;“VUCA”&lt;/strong&gt; ซึ่ง ย่อมาจาก&lt;/p&gt;
 &lt;ol&gt;
@@ -868,20 +1205,17 @@
 
 &lt;/div&gt;
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;90%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
-
-
-&lt;br&gt;
-
-&lt;br&gt;
-&lt;div class=&#34;article-tags&#34;&gt;
-&lt;a class=&#34;badge badge-danger&#34; href=&#34;./docs.pdf&#34; target=&#34;_blank&#34; id=&#34;download_files_new&#34;&gt;Download&lt;/a&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
 
 &lt;/div&gt;
-&lt;br&gt;
-
-
+      
+&lt;div class=&#34;div-btn&#34;&gt;
+    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
+  ดาวน์โหลดเอกสาร
+&lt;/a&gt;
+&lt;/div&gt;
 &lt;blockquote&gt;
 &lt;p&gt;ที่มา : กรมศุลกากร&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -890,25 +1224,26 @@
     
     <item>
       <title>การเพิ่มประสิทธิภาพการจัดเก็บภาษี กับโครงการรับชำระค่าภาษีอากรเพิ่ม ณ จุดเดียว (One Stop Service)</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/2022/01-20/</link>
+      <link>/post/knowledge/2022/01-20/</link>
       <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/2022/01-20/</guid>
-      <description>&lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-
-&lt;br&gt;
-
-&lt;br&gt;
-&lt;div class=&#34;article-tags&#34;&gt;
-&lt;a class=&#34;badge badge-danger&#34; href=&#34;./docs.pdf&#34; target=&#34;_blank&#34; id=&#34;download_files_new&#34;&gt;Download&lt;/a&gt;
+      <guid>/post/knowledge/2022/01-20/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
 
 &lt;/div&gt;
-&lt;br&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;90%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
 
-
+&lt;/div&gt;
+      
+&lt;div class=&#34;div-btn&#34;&gt;
+    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
+  ดาวน์โหลดเอกสาร
+&lt;/a&gt;
+&lt;/div&gt;
 &lt;blockquote&gt;
 &lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_simple_with_date.php?current_id=142329324146505f49464a4f464b4d&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -917,38 +1252,30 @@
     
     <item>
       <title>เกณฑ์การระงับคดีตามพระราชบัญญัติศุลกากร พ.ศ. 2560</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/2022/01-12/</link>
+      <link>/post/knowledge/2022/01-12/</link>
       <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/2022/01-12/</guid>
+      <guid>/post/knowledge/2022/01-12/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
 
-&lt;br&gt;
+&lt;/div&gt;
+&lt;p&gt;กฎหมายศุลกากรเป็นกฎหมายที่มีลักษณะพิเศษ คือ เมื่อกระทำความความผิดเกิดขึ้น ผู้กระทำความผิดนั้นสามารถระงับคดีในชั้นศุลกากรได้ โดยไม่ต้องส่งฟ้องศาล เว้นแต่ท่านไม่ปฏิบัติตาม เช่น กรมศุลกากรพิจารณาความผิดแล้วท่านไม่มาดำเนินการตามขั้นตอนของศุลกากร ไม่นำเงินมาเสียค่าปรับเพื่อระงับคดี กรมศุลกากรจึงจะส่งเรื่องให้หน่วยงานที่มีหน้าที่สืบสวนจับกุมหรือดำเนินการใดๆ ที่ให้ผู้กระทำความผิดมาชำระอากรให้ครบถ้วนได้ ได้แก่ กองบังคับการปราบปรามการกระทำความผิดเกี่ยวกับอาชญากรรมทางเศรษฐกิจ (ECONOMIC CRIME SUPPRESSION DIVISION) เพื่อติดตามเรียกผู้กระทำความผิดมารับทราบข้อกล่าวหา ถ้ายังไม่ยอมปฏิบัติตาม จะดำเนินการส่งฟ้องร้องต่อศาล  อาจสรุปได้ว่าขั้นตอนการดำเนินการทางศุลกากร ถ้ามีความผิดแล้ว ถ้าระงับคดีในชั้นศุลกากรเรื่องจะจบได้ง่าย ถ้าไม่ยอมเรื่องก็จะจบยากขึ้น&lt;/p&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
 
-
-กฎหมายศุลกากรเป็นกฎหมายที่มีลักษณะพิเศษ คือ เมื่อกระทำความความผิดเกิดขึ้น ผู้กระทำความผิดนั้นสามารถระงับคดีในชั้นศุลกากรได้ โดยไม่ต้องส่งฟ้องศาล เว้นแต่ท่านไม่ปฏิบัติตาม เช่น กรมศุลกากรพิจารณาความผิดแล้วท่านไม่มาดำเนินการตามขั้นตอนของศุลกากร ไม่นำเงินมาเสียค่าปรับเพื่อระงับคดี กรมศุลกากรจึงจะส่งเรื่องให้หน่วยงานที่มีหน้าที่สืบสวนจับกุมหรือดำเนินการใดๆ ที่ให้ผู้กระทำความผิดมาชำระอากรให้ครบถ้วนได้ ได้แก่ กองบังคับการปราบปรามการกระทำความผิดเกี่ยวกับอาชญากรรมทางเศรษฐกิจ (ECONOMIC CRIME SUPPRESSION DIVISION) เพื่อติดตามเรียกผู้กระทำความผิดมารับทราบข้อกล่าวหา ถ้ายังไม่ยอมปฏิบัติตาม จะดำเนินการส่งฟ้องร้องต่อศาล  อาจสรุปได้ว่าขั้นตอนการดำเนินการทางศุลกากร ถ้ามีความผิดแล้ว ถ้าระงับคดีในชั้นศุลกากรเรื่องจะจบได้ง่าย ถ้าไม่ยอมเรื่องก็จะจบยากขึ้น
-
-
-&lt;br&gt;
-&lt;br&gt;
-
-&lt;/p&gt;
+&lt;/div&gt;
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;90%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
 &lt;/div&gt;
-
-
-&lt;br&gt;
-
-&lt;br&gt;
-&lt;div class=&#34;article-tags&#34;&gt;
-&lt;a class=&#34;badge badge-danger&#34; href=&#34;./docs.pdf&#34; target=&#34;_blank&#34; id=&#34;download_files_new&#34;&gt;Download&lt;/a&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
 
 &lt;/div&gt;
-&lt;br&gt;
-
-
+      
+&lt;div class=&#34;div-btn&#34;&gt;
+    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
+  ดาวน์โหลดเอกสาร
+&lt;/a&gt;
+&lt;/div&gt;
 &lt;blockquote&gt;
 &lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/data_files/d0ea27da266b967620e8f4e62b433643.pdf&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -957,10 +1284,10 @@
     
     <item>
       <title>ระบบงานฐานข้อมูล RMTS Online (วัตถุดิบและวัสดุจำเป็น)</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/boi_rmtsonline_2020/</link>
+      <link>/post/knowledge/boi_rmtsonline_2020/</link>
       <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/boi_rmtsonline_2020/</guid>
+      <guid>/post/knowledge/boi_rmtsonline_2020/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;RMTS.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;ระบบฐานข้อมูล RMTS Online&lt;/strong&gt;  เป็นระบบที่พัฒนาขึ้นสำหรับเป็นช่องทาง ในการยื่นข้อมูลเพื่อขออนุมัติบัญชีรายการวัตถุดิบและปริมาณสต็อกสูงสุด และสูตรการผลิต รวมถึงการขออนุมัติปรับยอดวัตถุดิบกรณีต่าง ๆ ผ่านระบบ Online ซึ่งประกอบไปด้วย&lt;/p&gt;
 &lt;ol&gt;
@@ -1020,10 +1347,10 @@
     
     <item>
       <title>คำแนะนำเกี่ยวกับพิกัดอัตราศุลกากรสำหรับ พืชกระท่อม</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/2021/2021-09-07/</link>
+      <link>/post/knowledge/2021/09-07/</link>
       <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/2021/2021-09-07/</guid>
+      <guid>/post/knowledge/2021/09-07/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;img.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;ที่่มา : &lt;a href=&#34;http://www.customs.go.th/data_files/68386b152eab9440f2ce3abdeb0de4e5.pdf&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
@@ -1032,10 +1359,10 @@
     
     <item>
       <title>ขั้นตอนการปฏิบัติพิธีการศุลกากรขาเข้า ณ ท่าอากาศยานสุวรรณภูมิ</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/air-import/</link>
+      <link>/post/knowledge/air-import/</link>
       <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/air-import/</guid>
+      <guid>/post/knowledge/air-import/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./img/tittle-01.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;ขั้นตอนการปฏิบัติพิธีการศุลกากรขาเข้ามี 11 ขั้นตอน&lt;/strong&gt; ดังนี้&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;STEP 1&lt;/strong&gt; ทำบัตรเข้าคลังสินค้าแบบชั่วคราว ณ ที่ทำการ AOT ตรงทางเข้าประตู 1&lt;/p&gt;
@@ -1109,10 +1436,10 @@
     
     <item>
       <title>การเดินทางไปสู่การเป็นรัฐบาลดิจิทัล (Digital Government)</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/dtc/</link>
+      <link>/post/knowledge/dtc/</link>
       <pubDate>Sun, 11 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/dtc/</guid>
+      <guid>/post/knowledge/dtc/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./img/featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;เพื่อตอบสนองแผนการปรับเปลี่ยนภาครัฐบาลไปสู่การเป็นรัฐบาลดิจิทัล (Digital Government) สำนักงานพัฒนารัฐบาลดิจิทัล (องค์การมหาชน) จึงจัดทำ (ร่าง) แผนพัฒนารัฐบาลดิจิทัลของประเทศไทย พ.ศ. 2560-2564 ขึ้น โดยได้กำหนดวิสัยทัศน์ภายใต้แผนรัฐบาลดิจิทัลไว้ ดังนี้ &lt;strong&gt;“ยกระดับภาครัฐไทยสู่การเป็นรัฐบาลดิจิทัลที่มีการบูรณาการระหว่างหน่วยงานมีการทำงานแบบอัจฉริยะ ให้บริการโดยมีประชาชนเป็นศูนย์กลาง และขับเคลื่อนให้เกิดการเปลี่ยนแปลงได้อย่างแท้จริง”&lt;/strong&gt;  ซึ่งวิสัยทัศน์ข้างต้นตั้งอยู่บนพื้นฐานของการดำเนินการ 4 ประการ ได้แก่&lt;/p&gt;
 &lt;ol&gt;
@@ -1149,10 +1476,10 @@
     
     <item>
       <title>การคืนอากรตามมาตรา 28 (Re-export)</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/2021-06-10/</link>
+      <link>/post/knowledge/2021/06-10/</link>
       <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/2021-06-10/</guid>
+      <guid>/post/knowledge/2021/06-10/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;มาตรา-28&#34;&gt;&lt;strong&gt;มาตรา 28&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;ผู้นําของเข้ามาในราชอาณาจักรและเสียอากรแล้ว หากส่งของนั้นกลับออกไปนอกราชอาณาจักร หรือ ส่งไปเป็นของใช้สิ้นเปลืองในเรือ หรืออากาศยานที่เดินทางออกไปนอกราชอาณาจักร ให้มีสิทธิขอคืนอากรขาเข้า สําหรับของนั้นเก้าในสิบส่วน หรือส่วนที่เกินหนึ่งพันบาทของจํานวนที่ได้เรียกเก็บไว้ โดยคํานวณตามใบขนสินค้าขาออกแต่ละฉบับ แล้วแต่จํานวนใดจะสูงกว่า ตามหลักเกณฑ์ดังต่อไปนี้&lt;/p&gt;
@@ -1205,10 +1532,10 @@
     
     <item>
       <title>การนำเข้าและส่งออกของเร่งด่วน</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/2021-05-06/</link>
+      <link>/post/knowledge/2021/05-06/</link>
       <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/2021-05-06/</guid>
+      <guid>/post/knowledge/2021/05-06/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;blockquote class=&#34;book-hint success&#34;&gt;
   ที่มา : &lt;a href=&#34;http://ccc.customs.go.th/cont_strc_faq.php?current_id=14232a32414d505f48&amp;amp;left_menu=interesting_article&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;br&gt;
@@ -1223,10 +1550,10 @@
     
     <item>
       <title>เขตปลอดอากรกิจการพาณิชย์อิเล็กทรอนิกส์ ภายในเขตส่งเสริมเศรษฐกิจพิเศษในพื้นที่เขตพัฒนาพิเศษภาคตะวันออก</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/2021-03-15/</link>
+      <link>/post/knowledge/2021/03-15/</link>
       <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/2021-03-15/</guid>
+      <guid>/post/knowledge/2021/03-15/</guid>
       <description>&lt;h2 id=&#34;บทความทางวชาการ---เขตปลอดอากรกจการพาณชยอเลกทรอนกส-ภายในเขตสงเสรมเศรษฐกจพเศษในพนทเขตพฒนาพเศษภาคตะวนออก&#34;&gt;บทความทางวิชาการ - เขตปลอดอากรกิจการพาณิชย์อิเล็กทรอนิกส์ ภายในเขตส่งเสริมเศรษฐกิจพิเศษในพื้นที่เขตพัฒนาพิเศษภาคตะวันออก&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;โครงการเขตพัฒนาพิเศษภาคตะวันออก (Eastern Economic Corridor : EEC) เป็นการลงทุนขนาดใหญ่
@@ -1239,12 +1566,21 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
 และสิทธิประโยชน์ด้านอื่นๆ รวมถึงการอำนวยความสะดวกในการประกอบธุรกิจอีกด้วย โดยได้มีการประกาศรายชื่อ
 เขตส่งเสริมเพื่อกิจการพิเศษที่ประกาศแล้ว ได้แก่ เขตส่งเสริมรูปแบบนิคมอุตสาหกรรม จำนวน 21 แห่ง เขตส่งเสริม
 รูปแบบอุตสาหกรรมเป้าหมายพิเศษเฉพาะด้าน (Cluster) จำนวน 2 แห่ง&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;&lt;img src=&#34;./img/docjpg_Page2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/docjpg_Page3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/docjpg_Page4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;90%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+      
+&lt;div class=&#34;div-btn&#34;&gt;
+    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
+  ดาวน์โหลดเอกสาร
+&lt;/a&gt;
+&lt;/div&gt;
 &lt;blockquote&gt;
 &lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232832414d505f4a464b4b464a4e&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1253,20 +1589,28 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>การรับรองถิ่นกำเนิดสินค้าด้วยตนเองของอาเซียน</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/2021-03-12/</link>
+      <link>/post/knowledge/2021/03-12/</link>
       <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/2021-03-12/</guid>
+      <guid>/post/knowledge/2021/03-12/</guid>
       <description>&lt;p&gt;ในปัจจุบันความตกลงการค้าเสรีที่ประเทศไทยใช้บังคับมีจำนวนทั้งสิ้น 13 ฉบับอันประกอบไปด้วยความตกลงในระดับทวิภาคี 6 ฉบับ และความตกลงในระดับภูมิภาค 7 ฉบับ ซึ่งแต่ละความตกลงได้กำหนดหลักเกณฑ์ และรูปแบบของการใช้หลักฐาน การรับรองถิ่นกำเนิดสินค้าเพื่อขอรับสิทธิพิเศษทางอากรศุลกากรที่แตกต่างกันไป&lt;/p&gt;
 &lt;p&gt;หลักฐานการรับรองถิ่นกำเนิดสินค้า (Proof of Origin) เป็นสิ่งแสดงว่าสินค้าที่นำเข้ามีถิ่นกำเนิด หรือ “สัญชาติ” ทางการค้าของประเทศใด สำหรับความตกลงการค้าสินค้าของอาเซียน (ASEAN Trade in Goods Agreement: ATIGA) ผู้ประกอบการสามารถเลือกใช้
 หลักฐานการรับรองถิ่นกำเนิดสินค้าได้ถึง 3 รูปแบบอันได้แก่ หนังสือรับรองถิ่นกำเนิดสินค้า (Form D) หนังสือรับรองถิ่นกำเนิดสินค้าแบบอิเล็กทรอนิกส์ (e-Form D) และคำรับรองถิ่นกำเนิดสินค้า (Origin Declaration) ทั้งนี้ คำรับรองถิ่นกำเนิดสินค้าภายใต้การรับรองถิ่นกำเนิดสินค้าด้วยตนเองของอาเซียน (ASEAN-wide Self-certifiation: AWSC) เป็นหลักฐานการรับรองถิ่นกำเนิดสินค้ารูปแบบล่าสุด ที่ผู้ประกอบการควรทราบ เนื่องจากมีลักษณะและรูปแบบแตกต่างจาก Form D และ e-Form D และเริ่มใช้ตั้งแต่ วันที่ 20 กันยายน 2563 เป็นต้นมา&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;&lt;img src=&#34;./img/imgjpg_Page1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/imgjpg_Page2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/imgjpg_Page3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/imgjpg_Page4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;90%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+      
+&lt;div class=&#34;div-btn&#34;&gt;
+    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
+  ดาวน์โหลดเอกสาร
+&lt;/a&gt;
+&lt;/div&gt;
 &lt;blockquote&gt;
 &lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232832414d505f4a464b4a464b47&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1275,10 +1619,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>การคืนอากรตามมาตรา 29 แห่ง พ.ร.บ.ศุลกากร พ.ศ. 2560 กับการอุดหนุน</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/subsidies_03_2021/</link>
+      <link>/post/knowledge/subsidies_03_2021/</link>
       <pubDate>Mon, 08 Mar 2021 08:10:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/subsidies_03_2021/</guid>
+      <guid>/post/knowledge/subsidies_03_2021/</guid>
       <description>&lt;p&gt;โลกได้ก้าวเข้าสู่ยุคเศรษฐกิจเสรีไร้พรมแดน  จะเห็นได้ว่า  มีการจัดทำความตกลงเขตการค้าเสรีโดยการลดอัตราอากรศุลกากรเป็นศูนย์ รวมถึงมีการรวมกลุ่มทางเศรษฐกิจระหว่างประเทศเพื่อสร้างอำนาจการต่อรองทางการค้าให้มากขึ้น ดังนั้นมาตรการทางการค้าด้านภาษีต่าง ๆ จึงลดความสำคัญลงเรื่อย ๆ โดยมาตรการที่ไม่ใช่ภาษี (Non-Tariff Measure: NTM) จะเพิ่มบทบาทมากขึ้น แต่อย่างไรก็ตาม มาตรการทางภาษีถือได้ว่าเป็นเครื่องมือที่ดีและมีประโยชน์อย่างมากในการช่วยส่งเสริม  สนับสนุน  และคุ้มครองผู้ประกอบการ หรืออุตสาหกรรมภายในประเทศ ให้สามารถแข่งขันได้ในตลาดโลก&lt;/p&gt;
 &lt;p&gt;ประเทศไทยได้ใช้นโยบายการค้าเสรี มุ่งเน้นการผลิตเพื่อการส่งออกในการพัฒนาเศรษฐกิจของประเทศ โดยมีกลไกตลาดเป็นเครื่องชี้ประสิทธิภาพและความสามารถในการแข่งขัน  ภารกิจหลักของกรมศุลกากร  นอกเหนือจากการจัดเก็บภาษีอากร  คือ  การสนับสนุน   เพื่อเพิ่มขีดความสามารถในการแข่งขันโดยอาศัยมาตรการ ทางภาษีอากร  ตลอดจนการอำนวยความสะดวกทางการค้า  การใช้มาตรการทางภาษีอากรดังกล่าวข้างต้นอาจจะเป็นการละเมิดต่อความตกลงว่าด้วยการอุดหนุน  (Subsidy)  ภายใต้กรอบขององค์การการค้าโลก  (World  Trade  Organization : WTO) ที่ไทยเป็นภาคีด้วย ดังนั้น การที่รัฐบาลไทยในฐานะเป็นผู้ให้การสนับสนุนดังกล่าว อาจถูกประเทศสมาชิกอื่น ๆ  ที่เป็นผ้้นำเข้าสินค้าไทยตอบโต้ว่า เป็นการละเมิดข้อตกลงในเรื่องนี้ เนื่องจากการอุดหนุนของรัฐบาลถือว่าเป็นการนำไปสู่การแข่งขันทางการค้า ที่ไม่เป็นธรรม (Distorted Competition) เพราะการอุดหนุน เป็นการจัดสรรทรัพยากรที่ไม่ถูกต้อง  (Disallcotion  of  Resources)    และก่อให้เกิดการได้เปรียบในการแข่งขัน ทางด้านราคาแก่ผู้ส่งออกของประเทศที่ให้การอุดหนุน&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -1297,10 +1641,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>ความตกลงว่าด้วยการค้าสินค้าภายใต้เขตการค้าเสรีอาเซียน-สาธารณรัฐเกาหลี</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/akfta_03_2021/</link>
+      <link>/post/knowledge/akfta_03_2021/</link>
       <pubDate>Wed, 03 Mar 2021 08:10:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/akfta_03_2021/</guid>
+      <guid>/post/knowledge/akfta_03_2021/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;&lt;img src=&#34;./img/pagesjpg_Page1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;./img/pagesjpg_Page2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -1316,10 +1660,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>แนวทางการจัดการปัญหาการนำเข้าสินค้าประเภทนม จากความตกลงเขตการค้าเสรี (FTA)</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/milk_wto_2021_02/</link>
+      <link>/post/knowledge/milk_wto_2021_02/</link>
       <pubDate>Mon, 22 Feb 2021 00:10:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/milk_wto_2021_02/</guid>
+      <guid>/post/knowledge/milk_wto_2021_02/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;&lt;img src=&#34;./img/file-01jpg_Page1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;./img/file-01jpg_Page2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -1335,10 +1679,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>การนำเข้ารถยนต์ใช้แล้ว</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/used-car/</link>
+      <link>/post/knowledge/used-car/</link>
       <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/used-car/</guid>
+      <guid>/post/knowledge/used-car/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;&lt;img src=&#34;./img/used_carjpg_Page1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -1353,10 +1697,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>การนำเข้ามาและส่งกลับออกไปซึ่งภาชนะบรรจุของ รวมทั้งอุปกรณ์ที่ใช้บรรจุ ยึด รัด กันกระแทก</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/19-4_2020-01-14/</link>
+      <link>/post/knowledge/2020/01-14/</link>
       <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/19-4_2020-01-14/</guid>
+      <guid>/post/knowledge/2020/01-14/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;
 ภาพโดย &lt;!-- raw HTML omitted --&gt;wasi1370&lt;!-- raw HTML omitted --&gt; จาก &lt;!-- raw HTML omitted --&gt;Pixabay&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;h2 id=&#34;การนำเขามาและสงกลบออกไปซงภาชนะบรรจของ-รวมทงอปกรณทใชบรรจ-ยด-รด-กนกระแทก-เพอใหไดรบยกเวนอากร&#34;&gt;การนำเข้ามาและส่งกลับออกไปซึ่งภาชนะบรรจุของ รวมทั้งอุปกรณ์ที่ใช้บรรจุ ยึด รัด กันกระแทก เพื่อให้ได้รับยกเว้นอากร&lt;/h2&gt;
@@ -1381,10 +1725,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>ระบบรับชำระเงินอิเล็กทรกนิกส์ เพื่อหลี่กเลี่ยงการสัมผัสเชื้อ COVID-19</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/bill-payment_2564_01/</link>
+      <link>/post/knowledge/bill-payment_2564_01/</link>
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/bill-payment_2564_01/</guid>
+      <guid>/post/knowledge/bill-payment_2564_01/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;กรมศุลกากรประชาสัมพันธ์ขอเชิญชวนใช้ระบบรับชำระเงินอิเล็กทรกนิกส์ เพื่อหลี่กเลี่ยงการสัมผัสเชื้อ COVID-19 จากธนบัตรและเช็ค&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -1403,13 +1747,14 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>คำอธิบายรหัส Certified Exporter Code</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/certified-exporter-code/</link>
+      <link>/post/knowledge/2020/10-28/</link>
       <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/certified-exporter-code/</guid>
+      <guid>/post/knowledge/2020/10-28/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;คำอธบายรหส-certified-exporter-code-ภายใตการรบรองถนกำเนดสนคาดวยตนเองของอาเซยน-asean-wide-self-certification---awsc&#34;&gt;คำอธิบายรหัส Certified Exporter Code ภายใต้การรับรองถิ่นกำเนิดสินค้าด้วยตนเองของอาเซียน (ASEAN-Wide Self-Certification - AWSC)&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;img-01.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232832414c505f47464b46464b48&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1418,10 +1763,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>ปรับปรุงพิกัดอัตราอากรขาเข้า สำหรับเขตการค้าเสรีอาเซียน-จีน</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/acn_10_2020/</link>
+      <link>/post/knowledge/acn_10_2020/</link>
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/acn_10_2020/</guid>
+      <guid>/post/knowledge/acn_10_2020/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;กรมศุลกากรได้มีการปรับปรุงฐานข้อมูลพิกัดอัตราอากรขาเข้า สำหรับเขตการค้าเสรีอาเซียน-จีน  โดยมีการปรับปรุงปิดพิกัดอัตราอากรที่หมดอายุ และเพิ่มเติมอัตราอากรขาเข้า ตามข้อตกลงเข้ามาในระบบ (รายละเอียดตามเอกสารแนบ)&lt;/p&gt;
 &lt;p&gt;เอกสารแนบดังกล่าวทางทีม Support ได้จัดทำขึ้นเพื่อเพิ่มความสะดวกในการตรวจสอบการใช้สิทธิพิเศษของผู้ประกอบการ โดยนำข้อมูลของกรมศุลกากรที่เผยแพร่เพื่อให้ download มาจัดทำในรูปแบบที่ผู้ใช้งานตรวจสอบได้สะดวกขึ้น สำหรับข้อมูลชุดนี้ โปรแกรมได้ทำการอัพเดทเข้าในระบบให้โดยอัตโนมัติเรียบร้อยแล้ว&lt;/p&gt;
@@ -1435,10 +1780,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>การงดรับปฏิบัติพิธีการศุลกากรทางอิเล็กทรอนิกส์</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/customs_clearance_fee/</link>
+      <link>/post/knowledge/2020/10-07/</link>
       <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/customs_clearance_fee/</guid>
+      <guid>/post/knowledge/2020/10-07/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;เนื่องจากในปัจจุบันทีม Support ได้พบปัญหาตอบกลับเป็น Error&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -1468,15 +1813,15 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>ขั้นตอนการตรวจปล่อยสินค้าขาออก ณ ด่านศุลกากรเชียงของ</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/export_release_procedure/</link>
+      <link>/post/knowledge/export_release_procedure/</link>
       <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/export_release_procedure/</guid>
+      <guid>/post/knowledge/export_release_procedure/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;การจัดการองค์ความรู้ เรื่อง &lt;strong&gt;ขั้นตอนการตรวจปล่อยสินค้าขาออก ณ ด่านศุลกากรเชียงของ&lt;/strong&gt; ครอบคลุมขั้นตอนการตรวจปล่อยสินค้าขาออก และการปฏิบัติงานตั้งแต่ขั้นตอนการรับเอกสารขอปฏิบัติการพิธีการศุลกากรขาออกจากผู้ส่งของออกหรือตัวแทน จนถึงการรับบรรทุกสินค้า เมื่อรถขนส่งสินค้าผ่านออกไปนอกราชอาณาจักร ณ ด่านพรมแดน&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./export_release.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;./export_release.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;&lt;!-- raw HTML omitted --&gt;Download &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;
@@ -1487,10 +1832,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>คำอธิบายสถานะใบขนสินค้าขาเข้า</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/status-import-dec/</link>
+      <link>/post/knowledge/status-import-dec/</link>
       <pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/status-import-dec/</guid>
+      <guid>/post/knowledge/status-import-dec/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -1502,10 +1847,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>EXEMPT152-ไม่ต้องมีใบอนุญาต/ใบรับรอง เนื่องจากนำเข้าในเขตปลอดอากร</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/exempt-152/</link>
+      <link>/post/knowledge/exempt-152/</link>
       <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/exempt-152/</guid>
+      <guid>/post/knowledge/exempt-152/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;โดยทั่วไปของที่นำเข้ามาใน หรือ ส่งออกนอกราชอาณาจักร หากเป็นของที่มีกฎหมายควบคุมการนำเข้ามาในหรือส่งออกนอกราชอาณาจักร ผู้นำเข้า ผู้ส่งออกต้องดำเนินการให้ครบถ้วนตามที่กฎหมายอื่นกำหนด &lt;strong&gt;เขตปลอดอากร&lt;/strong&gt; เป็นพื้นที่พิเศษที่มีกฎหมายศุลกากรยกเว้นหลักการดังกล่าวไว้ตามมาตรา 152 แห่ง พ.ร.บ.ศุลกากร พ.ศ.2560  ดังนี้&lt;/p&gt;
 &lt;blockquote class=&#34;book-hint warning&#34;&gt;
@@ -1578,10 +1923,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>เอกสารประกอบการสัมมนา &#34;ความรู้เกี่ยวกับพิธีสารฉบับที่ 1 เพื่อแก้ไขความตกลงการค้าสินค้าของอาเซียน&#34;</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/atiga_09_2020/</link>
+      <link>/post/knowledge/atiga_09_2020/</link>
       <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/atiga_09_2020/</guid>
+      <guid>/post/knowledge/atiga_09_2020/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;ตามที่กรมศุลกากรได้จัดสัมมนาเชิงปฏิบัติการหลักสูตร &lt;strong&gt;ความรู้เกี่ยวกับพิธีสารฉบับที่ 1 เพื่อแก้ไขความตกลงการค้าสินค้าของอาเซียน&lt;/strong&gt; เมื่อวันจันทร์ที่ 14 กันยายน 2563 เวลา 09:00 - 12:00 น. ณ ห้องประชุมชั้น 16 อาคาร 120 ปี กรมศุลกากร ขณะนี้กรมศุลกากรได้เผยแพร่เอกสารประกอบการสัมมนาดังกล่าว (รายละเอียดตามเอกสารแนบ) เพื่อให้ผู้ที่สนใจได้เตรียมความพร้อมก่อนจะมีการบังคับใช้ในวันที่ 20 ก.ย. 2563 เป็นต้นไป&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -1595,10 +1940,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>เครื่องหมายและเลขหมายหีบห่อ (Shipping Mark)</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/shipping-mark/</link>
+      <link>/post/knowledge/shipping-mark/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/shipping-mark/</guid>
+      <guid>/post/knowledge/shipping-mark/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;การขนส่งระหว่างประเทศเป็นการขนส่งของหลายเจ้าของ (หลายใบตราส่ง)  กฎการขนส่ง จึงกำหนดให้ของที่จะขนส่ง ต้องจัดทำเครื่องหมายเลขหมายและนำไปแสดงไว้ในใบตราส่งด้วย&lt;/p&gt;
 &lt;p&gt;เครื่องหมายและเลขหมายหีบห่อ (Shipping Mark) คือ ข้อความ สัญลักษณ์ หรือตัวเลข ที่ระบุไว้บนแต่ละหีบห่อของสินค้า เพื่อแสดงว่าสินค้านั้นเป็นของตามใบตราส่งใด และเพื่อให้กระบวนการขนส่งในทุก ๆ ขั้นตอนเป็นไปด้วยความสะดวก รวดเร็ว เรียบร้อย ปลอดภัย ไม่มีความสับสน ล่าช้า เกิดขึ้นระหว่างต้นทางและปลายทาง รวมไปถึงความปลอดภัยของสินค้าระหว่างขนส่ง ดังนั้น แต่ละหีบห่อของสินค้าจึงควรมีเครื่องหมายและเลขหมายหีบห่อ (Shipping Mark) อย่างถูกต้องและครบถ้วน และนำไประบุไว้ในเอกสารนำเข้า-ส่งออกทั้งหมด ไม่ว่าจะเป็น commercial invoice, B/L และ packing list&lt;/p&gt;
@@ -1640,10 +1985,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>NATO phonetic alphabet</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/nato-phonetic-alphabet/</link>
+      <link>/post/knowledge/nato-phonetic-alphabet/</link>
       <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/nato-phonetic-alphabet/</guid>
+      <guid>/post/knowledge/nato-phonetic-alphabet/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;เคยรู้สึกบ้างไหมว่า เวลาจะสะกดชื่อ-นามสกุล หรืออีเมล์ของเราเป็นภาษาอังกฤษให้ใครฟังผ่านทางโทรศัพท์ แต่ละครั้งมันช่างเป็นเรื่องที่แสนยากเย็นเสียเหลือเกิน เพราะตัวอักษรแต่ละตัวออกเสียงคล้ายๆ กันไปเสียหมด โดยเฉพาะกลุ่มตัว “B” ตัว “D” ตัว “E” ตัว “G” ตัว “P” และตัว “T”, ตัว “M” กับตัว “N”, ตัว “H” กับตัว “S” เป็นต้น และยิ่งมาเจอประเทศไทยที่สัญญาณโทรศัพท์ไม่ชัดเจน ขาดๆ หายๆ ยิ่งทำให้เกิดปัญหาในการสื่อสารจนบางครั้งคนบอกกับคนฟังแทบจะทะเลาะกันก็ยังมี&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;nato.jpg&#34; alt=&#34;enter image description here&#34;&gt;&lt;/p&gt;
@@ -1833,10 +2178,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>ราคาขายปลีกแนะนำ</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/retail-price/</link>
+      <link>/post/knowledge/retail-price/</link>
       <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/retail-price/</guid>
+      <guid>/post/knowledge/retail-price/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;ราคาขายปลีกแนะนำ คือ ราคาขายที่ผู้ประกอบอุตสาหกรรมหรือผู้นำเข้าประสงค์ จะกำหนดเป็นราคาขายปลีกแนะนำให้ผู้ขายปลีกขาย สินค้าของตนให้แก่ผู้บริโภครายสุดท้ายในตลาดปกติ โดยราคาดังกล่าวเป็นราคาที่กรมสรรพสามิตใช้เป็นฐานภาษีในการคำนวณภาษีในกรณีภาษีตามมูลค่า สำหรับสินค้าที่เสียภาษีสรรพสามิต&lt;/p&gt;
 &lt;h2 id=&#34;การบนทกขอมลราคาขายปลกแนะนำ&#34;&gt;การบันทึกข้อมูลราคาขายปลีกแนะนำ&lt;/h2&gt;
@@ -1885,10 +2230,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>โครงการผู้ประกอบการระดับมาตรฐานเออีโอ (AEO) ของประเทศไทย</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/aeo_mra/</link>
+      <link>/post/knowledge/2020/09-01/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/aeo_mra/</guid>
+      <guid>/post/knowledge/2020/09-01/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./img/img-01.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;./img/img-02.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
@@ -1899,10 +2244,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>ความหมายของรหัสและข้อมูลต่าง ๆ บนตู้คอนเทรนเนอร์</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/container-no/</link>
+      <link>/post/knowledge/container-no/</link>
       <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/container-no/</guid>
+      <guid>/post/knowledge/container-no/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;1. รหัสเจ้าของตู้ (HPC)&lt;/strong&gt; เป็นอักษรแทนชื่อบริษัทเจ้าของตู้ เช่น HPC,TNY, CMA, EGS, TCL เป็นต้น&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;2. รหัสระบุประเภท (U)&lt;/strong&gt; จะมีเพียง 1 ตัวที่อยู่ท้าย รหัสเจ้าของตู้ จากรูปภาพคือตัวอักษร &lt;strong&gt;U&lt;/strong&gt; มีความหมายคือ ตู้คอนเทนเนอร์ มีรายละเอียดประเภทดังนี้&lt;/p&gt;
@@ -1931,10 +2276,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>รหัสขนาดและประเภทตู้สินค้า</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/container-size-and-type/</link>
+      <link>/post/knowledge/container-size-and-type/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/container-size-and-type/</guid>
+      <guid>/post/knowledge/container-size-and-type/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;ตู้คอนเทนเนอร์ จำเป็นต่อการการขนย้ายสินค้าเป็นอย่างมาก ได้พัฒนาขึ้นเนื่องจากความน่าจะเป็นของสภาพและค่าใช้จ่ายในการขนส่ง ข้อดีของการขนส่งสินค้าคือ จะทำให้การยกของหรือการเคลื่อนย้ายสินค้ารวดเร็วยิ่งขึ้น การเคลื่อนย้ายภายในท่าเรือ หรือ การเคลื่อนย้ายสินค้าระหว่างท่าเรือ กับผู้ส่งสินค้าหรือผู้ผลิตสินค้าเป็นไปอย่างรวดเร็ว ประหยัดเวลาและค่าใช้จ่าย&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;./img/45G1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -2200,10 +2545,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>การนำของเข้าและส่งของออกทางไปรษณีย์</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/postal-guide/</link>
+      <link>/post/knowledge/postal-guide/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/postal-guide/</guid>
+      <guid>/post/knowledge/postal-guide/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;การส่งของทางไปรษณีย์ระหว่างประเทศ จะผ่านการดำเนินการโดย บริษัท ไปรษณีย์ไทย จำกัด การส่งของทางไปรษณีย์ สามารถดำเนินการได้ 5 ประเภท คือ (1)ทางอากาศ (2)ภาคพื้น (3) EMS (4)ไปรษณีย์ลงทะเบียน (5)ไปรษณีย์ธรรมดา ของที่นำเข้ามาในราชอาณาจักรไทย จะถูกคัดแยกออกเป็น 3 ประเภท และ ปฏิบัติพิธีการศุลกากร&lt;/p&gt;
 &lt;h2 id=&#34;บทนำ&#34;&gt;บทนำ&lt;/h2&gt;
@@ -2263,10 +2608,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>การนำเข้ายากำพร้า</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/orphan-drugs/</link>
+      <link>/post/knowledge/orphan-drugs/</link>
       <pubDate>Fri, 05 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/orphan-drugs/</guid>
+      <guid>/post/knowledge/orphan-drugs/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://github.com/ecs-support/knowledge-center/raw/master/img/orphan-dgugs.png&#34; alt=&#34;&#34;&gt;&lt;br&gt;
 ภาพโดย &lt;!-- raw HTML omitted --&gt;katicaj&lt;!-- raw HTML omitted --&gt; จาก &lt;!-- raw HTML omitted --&gt;Pixabay&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
@@ -2343,10 +2688,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>การเพิ่มประสิทธิภาพในการควบคุมการเคลื่อนย้ายสินค้าระหว่างเขตพื้นที่รับผิดชอบของด่านศุลกากร</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/controlling-goods-movement/</link>
+      <link>/post/knowledge/controlling-goods-movement/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/controlling-goods-movement/</guid>
+      <guid>/post/knowledge/controlling-goods-movement/</guid>
       <description>&lt;p&gt;บทความจากจุลสารศุลกากร ปีที่ 28 ฉบับที่ 06 เดือน มีนาคม 2563 เรื่อง &lt;strong&gt;&amp;ldquo;การเพิ่มประสิทธิภาพในการควบคุมการเคลื่อนย้ายสินค้าระหว่างเขตพื้นที่รับผิดชอบของด่านศุลกากร&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;img/goods-movementpng_Page10.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;img/goods-movementpng_Page11.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -2360,10 +2705,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>การใช้ใบรับรองถิ่นกำเนิดอิเล็กทรอนิกส์เพื่อรองรับการขยายตัวการใช้สิทธิพิเศษความตกลงการค้าเสรี</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/certificate-of-origin-fta/</link>
+      <link>/post/knowledge/certificate-of-origin-fta/</link>
       <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/certificate-of-origin-fta/</guid>
+      <guid>/post/knowledge/certificate-of-origin-fta/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;การให้สิทธิพิเศษทางภาษีศุลกากรเพื่อยกเว้นอากรและลดหย่อนอัตราศุลกากรสำหรับสินค้านำเข้าตามความตกลงการค้าเสรี (FTA)ทั้งในระดับทวิและพหุภาคี เป็นนโยบายในการส่งเสริมการค้าและลดอุปสรรคการค้าระหว่างกันให้เหลือน้อยที่สุด เพื่อให้เกิดการค้าเสรีระหว่างกัน ในช่วง 5 ปีงบประมาณผ่านมาแนวโน้มการใช้สิทธิพิเศษตามความตกลงการค้าและสัดส่วนการใช้สิทธิพิเศษต่อมูลค้าการนำเข้ารวมมีทิศทางขยายตัวต่อเนื่อง แต่ในขณะเดียวกันได้ส่งผลกระทบต่อการจัดเก็บรายได้ของศุลกากรทีนำส่งเป็นรายได้ของรัฐบาลอย่างหลีกเลี่ยงไม่ได้ ทำให้กรมศุลกากร
 ปรับเปลี่ยนบทบาทโดยเน้นการอำนวยความสะดวกทางการค้ามากขึ้น&lt;/p&gt;
@@ -2379,10 +2724,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>บทความทางวิชาการ - การปรับเปลี่ยนกระบวนการตรวจปล่อยสินค้าขาเข้า</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/process-modification-e_import-system/</link>
+      <link>/post/knowledge/process-modification-e_import-system/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/process-modification-e_import-system/</guid>
+      <guid>/post/knowledge/process-modification-e_import-system/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 
@@ -2434,10 +2779,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>หลักการปัดเศษทศนิยมยอดรวมภาษีประเภทต่าง ๆ</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/rounding-decimal/</link>
+      <link>/post/knowledge/rounding-decimal/</link>
       <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/rounding-decimal/</guid>
+      <guid>/post/knowledge/rounding-decimal/</guid>
       <description>
 
 
@@ -2458,10 +2803,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>แนวทางการพัฒนาระบบภาษีที่เกี่ยวข้องกับพาณิชย์อิเล็กทรอนิกส์</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/duty-e_commercepng/</link>
+      <link>/post/knowledge/duty-e_commercepng/</link>
       <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/duty-e_commercepng/</guid>
+      <guid>/post/knowledge/duty-e_commercepng/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 
 
@@ -2516,10 +2861,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>ระบบอิเล็กทรอนิกส์ในการคืนอากรเพื่อการส่งออกตามมาตรา 29  (e-Drawback)</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/e-drawback_present/</link>
+      <link>/post/knowledge/e-drawback_present/</link>
       <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/e-drawback_present/</guid>
+      <guid>/post/knowledge/e-drawback_present/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;ตามนโยบายเศรษฐกิจเข้มแข็งและยั่งยืน มาตรการเพิ่มประสิทธิภาพในการส่งเสริมการส่งออก ยุทธศาสตร์การพัฒนา กระบวนงานและระบบเทคโนโลยีสารสนเทศและการสื่อสาร เพื่ออำนวยความสะดวกทางการค้า และสอดคล้องกับนโยบายรัฐบาล &lt;strong&gt;“ไทยแลนด์ 4.0”&lt;/strong&gt; ที่ขับเคลื่อนเศรษฐกิจด้วยนวัตกรรม  ตลอดจนเพิ่มประสิทธิภาพในการทำงานของพนักงานศุลกากร ส่วนคืนอากรเพื่อการส่งออก กองสิทธิประโยชน์ทางภาษีอากร ร่วมกับศูนย์เทคโนโลยีสารสนเทศและการสื่อสาร จึงได้พัฒนา ระบบอิเล็กทรอนิกส์ในการคืนอากรเพื่อการส่งออกตามมาตรา 29 แห่งพระราชบัญญัติศุลกากร พ.ศ. 2560 อย่างเต็มรูปแบบ เพื่อให้การปฏิบัติงานขับเคลื่อนด้วยเทคโนโลยี มุ่งเน้นการให้บริการที่รวดเร็ว อำนวยความสะดวกให้ผู้รับบริการ ลดการใช้ดุลยพินิจ ตลอดจน ลดต้นทุนให้กับผู้ประกอบการนำของเข้าและส่งของออก ให้สามารถแข่งขันทางการค้ากับต่างประเทศได้มากขึ้น&lt;/p&gt;
 &lt;p&gt;ดังนั้น  จึงเป็นที่มาของโครงการพัฒนาระบบอิเล็กทรอนิกส์สำหรับการคืนอากรเพื่อการส่งออกตามมาตรา 29  (e-Drawback)  ที่มุ่งเน้นให้ผู้ประกอบการที่ใช้สิทธิประโยชน์ในด้านการคืนอากรเพื่อการส่งออก ได้รับ ความสะดวก รวดเร็ว ถูกต้อง และลดต้นทุนการผลิต ลดการใช้กระดาษ ด้วยการเชื่อมโยงกับระบบงานต่าง ๆ และข้อมูลที่เกี่ยวข้องผ่าน NSW (Thailand National Single Window)  รวมทั้งเพิ่มประสิทธิภาพในการปฏิบัติงานของพนักงานศุลกากรในการพิจารณาตรวจสอบการขอคืนอากรเพื่อการส่งออกได้อย่างถูกต้อง&lt;/p&gt;
@@ -2589,10 +2934,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>ระเบียบการส่งออกข้าวฉบับล่าสุด</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/rice-export/</link>
+      <link>/post/knowledge/rice-export/</link>
       <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/rice-export/</guid>
+      <guid>/post/knowledge/rice-export/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;การกำหนดให้ข้าวเป็นสินค้าที่ต้องขออนุญาตในการส่งออก ในระยะแรกเป็นไปโดยอาศัยอำนาจตามพระราชบัญญัติ(พ.ร.บ.) ควบคุมการส่งออกไปนอกและการนำเข้ามาในราชอาณาจักร ซึ่งสินค้าบางอย่าง พ.ศ.2482 โดยตราเป็นพระราชกฤษฎีกาควบคุมการส่งออกไปนอกราชอาณาจักรซึ่งสินค้าบางอย่าง (ฉบับ 13)พ.ศ.2490 ซึ่งมีรายการสินค้าอยู่หลายข้อหลายรายการ มีข้าวชนิดต่างๆ และผลิตภัณฑ์เป็นสินค้าในรายการที่ต้องขออนุญาตในการส่งออกด้วย ต่อมากระทรวงพาณิชย์ออกประกาศเรื่องการส่งสินค้าออกไปนอกราชอาณาจักร(ฉบับที่ 7) พ.ศ.2509 อนุญาตให้ส่งสินค้าตามพระราชกฤษฎีกาดังกล่าวออกไปได้เป็นการทั่วไป เว้นแต่สินค้าตามรายการท้ายประกาศกระทรวงพาณิชย์ดังกล่าว ซึ่งมีรายการข้าวเปลือก ข้าวกล้อง ข้าวสาร ข้าวเหนียว ปลายข้าว รำข้าว และสิ่งใดฯที่แปรสภาพสภาพจากข้าวทุกชนิด&lt;/p&gt;
 &lt;p&gt;ในปี 2522 มีการตรา พ.ร.บ.การส่งออกฯ พ.ศ. 2522 ออกใช้บังคับแทนฉบับเดิม โดยมีบทเฉพาะกาล ตามมาตรา 25 ให้บรรดา พระราชกฤษฎีกา กฎกระทรวง ประกาศ และระเบียบ ที่ออกตาม พ.ร.บ.ควบคุมการส่งออกไปนอกและการนำเข้ามาในราชอาณาจักร ซึ่งสินค้าบางอย่าง พ.ศ.2482 ยังมีผลใช้บังคับต่อไป จนกว่าจะมีกฎกระทรวง ประกาศ ระเบียบตามกฎหมายฉบับนี้ออกใช้บังคับ ดังนั้น ข้าวเปลือก ข้าวกล้อง ข้าวสาร ข้าวเหนียว ปลายข้าว รำข้าว และสิ่งใดฯที่แปรสภาพสภาพจากข้าวทุกชนิด จึงยังเป็นสินค้าที่ต้องขออนุญาตส่งออก แต่ตอมามีประกาศกระทรวงพาณิชย์ว่าด้วยการส่งสินค้าออกไปนอกราชอาณาจักร(ฉบับที่ 66) พ.ศ.ยกเลิกการกำหนดให้ผลิตภัณฑ์ที่ทำจากข้าวทุกชนิดและสิ่งใดฯที่แปรสภาพจากข้าวทุกชนิด เป็นสินค้าที่ต้องขออนุญาตในการส่งออก&lt;/p&gt;

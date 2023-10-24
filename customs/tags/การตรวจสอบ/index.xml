@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>การตรวจสอบ on ECS</title>
-    <link>https://ecs-support.github.io/KM/customs/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%AA%E0%B8%AD%E0%B8%9A/</link>
+    <link>/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%AA%E0%B8%AD%E0%B8%9A/</link>
     <description>Recent content in การตรวจสอบ on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
     <lastBuildDate>Sat, 28 Aug 2021 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://ecs-support.github.io/KM/customs/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%AA%E0%B8%AD%E0%B8%9A/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%AA%E0%B8%AD%E0%B8%9A/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>การตรวจสอบ ด้านเทคโนโลยีสารสนเทศ</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/int_audit/</link>
+      <link>/pages/knowledge/iso/int_audit/</link>
       <pubDate>Sat, 28 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/int_audit/</guid>
+      <guid>/pages/knowledge/iso/int_audit/</guid>
       <description>&lt;p&gt;ในการดำเนินงานขององค์กรจะมีระบบงานต่างๆ ที่จะขับเคลื่อนให้การทำงานขององค์กร สามารถบรรลุ ผลสำเร็จ โดยอาศัยระบบเทคโนโลยีสารสนเทศเป็นเครื่องมือช่วยสนับสนุนการปฏิบัติงานให้เกิดความสะดวก คล่องตัว และรวดเร็วยิ่งขึ้น โดยผ่านระบบ Application ซึ่งเป็นโปรแกรมการปฏิบัติงานต่างๆ ภายในระบบเทคโนโลยีสารสนเทศ ความเสี่ยง เริ่มตั้งแต่การนำข้อมูลเข้า เช่น งานจัดเก็บรายได้ของกรมสรรพสามิต อาจมีความเสี่ยงระบบล่ม ไม่สามารถบันทึกข้อมูลได้ หรือระบบถูกบุคคลที่ไม่ได้รับอนุญาตเข้าใช้ข้อมูล&lt;/p&gt;
 &lt;h2 id=&#34;การควบคมภายในดานเทคโนโลยสารสนเทศ&#34;&gt;การควบคุมภายในด้านเทคโนโลยีสารสนเทศ&lt;/h2&gt;
 &lt;p&gt;ประกอบด้วยการควบคุมทั่วไป (General Control) และการควบคุมเฉพาะระบบงาน (Application Control)&lt;/p&gt;

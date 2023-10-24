@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ของควบคุมการนำเข้า-ส่งออก on ECS</title>
-    <link>https://ecs-support.github.io/KM/customs/categories/%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%9A%E0%B8%84%E0%B8%A1%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%82%E0%B8%B2-%E0%B8%AA%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%81/</link>
+    <link>/categories/%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%9A%E0%B8%84%E0%B8%A1%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%82%E0%B8%B2-%E0%B8%AA%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%81/</link>
     <description>Recent content in ของควบคุมการนำเข้า-ส่งออก on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
     <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://ecs-support.github.io/KM/customs/categories/%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%9A%E0%B8%84%E0%B8%A1%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%82%E0%B8%B2-%E0%B8%AA%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%81/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/categories/%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%9A%E0%B8%84%E0%B8%A1%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%B3%E0%B9%80%E0%B8%82%E0%B8%B2-%E0%B8%AA%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%81/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ของต้องห้ามหรือต้องมีใบอนุญาต ในการนำเข้า/ส่งออก</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/restricted/</link>
+      <link>/pages/restricted/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/restricted/</guid>
+      <guid>/pages/restricted/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./img/cover-permission-goods.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;nav id=&#34;TableOfContents&#34;&gt;
@@ -97,10 +97,10 @@
     
     <item>
       <title>การเชื่อมโยงข้อมูลใบอนุญาต/ใบรับรองแบบอิเล็กทรอนิกส์</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/restricted/connectting/</link>
+      <link>/pages/restricted/connectting/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/restricted/connectting/</guid>
+      <guid>/pages/restricted/connectting/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/connect/permissionpng_Page2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;../img/connect/permissionpng_Page4.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;มการเชอมโยงขอมลรวมกนแลว&#34;&gt;มีการเชื่อมโยงข้อมูลร่วมกันแล้ว&lt;/h2&gt;
@@ -139,10 +139,10 @@
     
     <item>
       <title>ประกาศที่เกี่ยวข้อง</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/restricted/announce/</link>
+      <link>/pages/restricted/announce/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/restricted/announce/</guid>
+      <guid>/pages/restricted/announce/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
@@ -175,10 +175,10 @@
     
     <item>
       <title>รายชื่อผู้ประสานงาน - หน่วยงานภาครัฐ</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/restricted/contact/</link>
+      <link>/pages/restricted/contact/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/restricted/contact/</guid>
+      <guid>/pages/restricted/contact/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/OGA_contactjpg_Page1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;../img/OGA_contactjpg_Page2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;../img/OGA_contactjpg_Page3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -190,10 +190,10 @@
     
     <item>
       <title>การปฏิบัติพิธีการศุลกากรทางอิเล็กทรอนิกส์ สำหรับการเชื่อมโยงข้อมูลตามกฎหมายอื่นที่เกี่ยวข้องกับการศุลกากร</title>
-      <link>https://ecs-support.github.io/KM/customs/post/announcement/customs/2561-131/</link>
+      <link>/post/announcement/customs/2561-131/</link>
       <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/announcement/customs/2561-131/</guid>
+      <guid>/post/announcement/customs/2561-131/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;การปฏบตพธการศลกากรทางอเลกทรอนกส-สำหรบการเชอมโยงขอมลตามกฎหมายอนทเกยวของกบการศลกากร&#34;&gt;การปฏิบัติพิธีการศุลกากรทางอิเล็กทรอนิกส์ สำหรับการเชื่อมโยงข้อมูลตามกฎหมายอื่นที่เกี่ยวข้องกับการศุลกากร.&lt;/h2&gt;
 &lt;p&gt;มีผลบังคับตั้งแต่&lt;em&gt;วันที่ 1 พฤษภาคม 2561&lt;/em&gt; เป็นต้นไป

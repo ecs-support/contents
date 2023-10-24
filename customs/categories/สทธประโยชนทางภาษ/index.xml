@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>สิทธิประโยชน์ทางภาษี on ECS</title>
-    <link>https://ecs-support.github.io/KM/customs/categories/%E0%B8%AA%E0%B8%97%E0%B8%98%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9/</link>
+    <link>/categories/%E0%B8%AA%E0%B8%97%E0%B8%98%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9/</link>
     <description>Recent content in สิทธิประโยชน์ทางภาษี on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
     <lastBuildDate>Thu, 10 Mar 2022 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://ecs-support.github.io/KM/customs/categories/%E0%B8%AA%E0%B8%97%E0%B8%98%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/categories/%E0%B8%AA%E0%B8%97%E0%B8%98%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%8A%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%A0%E0%B8%B2%E0%B8%A9/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>สิทธิประโยชน์ทางภาษีอากร</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/</link>
+      <link>/pages/tax-inc/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;./img/tax-incentive.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <guid>/pages/tax-inc/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./img/incentive.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;พระราชบัญญัติศุลกากร พ.ศ. 2560 ซึ่งมีผลบังคับใช้ตั้งแต่ 13 พฤศจิกายน 2560 เป็นต้นมา ได้ยกเลิกบรรดาพระราชบัญญัติศุลกากรทุกฉบับที่เคยมีมา โดยได้จัดหมวดหมู่ของกฎหมายออกเป็น 9 หมวด และมีจำนวนถึง 3 หมวดที่บัญญัติในเรื่องสิทธิประโยชน์ทางภาษีอากร กล่าวคือ&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;หมวดที่ 2 ส่วนที่ 3 ว่าด้วยเรื่อง การคืนอากร ซึ่งมีมาตรา 29 เป็นบทบัญญัติที่สำคัญ&lt;/li&gt;
@@ -33,10 +33,10 @@
     
     <item>
       <title>คู่มือระบบพิธีการศุลกากรสำหรับสิทธิประโยชน์ทางภาษีอากร (e-Tax Incentives)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/tax-guide/1.guide/</link>
+      <link>/pages/tax-inc/tax-guide/1.guide/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/tax-guide/1.guide/</guid>
+      <guid>/pages/tax-inc/tax-guide/1.guide/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/cover-tax-incentives.png&#34; alt=&#34;enter image description here&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;ขอบเขตการใชงานคมอระบบพธการศลกากรทางอเลกทรอนกสสำหรบสทธประโยชนทางภาษอากร&#34;&gt;ขอบเขตการใช้งานคู่มือระบบพิธีการศุลกากรทางอิเล็กทรอนิกส์สำหรับสิทธิประโยชน์ทางภาษีอากร&lt;/h2&gt;
 &lt;p&gt;คู่มือระบบพิธีการศุลกากรทางอิเล็กทรอนิกส์สำหรับสิทธิประโยชน์ทางภาษีอากร (e-Tax Incentives) กำหนดขึ้นเพื่อ ประโยชน์พิธีการโอนย้ายของภายในประเทศ ระหว่างผู้ประกอบการที่ได้รับสิทธิประโยชน์ทางภาษีอากร  ให้การผ่านพิธีการศุลกากรสามารถกระทำโดยวิธีการทางอิเล็กทรอนิกส์แบบไร้เอกสาร โดยให้ใช้บังคับเป็นการทั่วไปสำหรับการโอนย้ายของภายในประเทศระหว่างผู้ประกอบการที่ได้รับสิทธิประโยชน์ทางภาษีอากร&lt;/p&gt;
@@ -60,7 +60,7 @@
 &lt;h2 id=&#34;กระบวนการผานพธการใบขนสนคาโอนยายภายในประเทศดวยวธทางอเลกทรอนกส&#34;&gt;กระบวนการผ่านพิธีการใบขนสินค้าโอนย้ายภายในประเทศด้วยวิธีทางอิเล็กทรอนิกส์&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/KnowledgeCenter/raw/master/img/e-tax-incentive/e-tax-incentivejpg_Page2.jpg&#34; alt=&#34;enter image description here&#34;&gt;&lt;/p&gt;
 &lt;blockquote class=&#34;book-hint info&#34;&gt;
-  &lt;strong&gt;ที่มา :&lt;/strong&gt;  ประกาศกรมศุลกากรที่ 119 / 2561 เรื่อง คู่มือการผ่านพิธีการศุลกากรทางอิเล็กทรอนิกส์ ว่าด้วยกระบวนการทางศุลกากรสำหรับการใช้สิทธิประโยชน์ทางภาษีอากร (e-Tax Incentives) . &lt;a href=&#34;http://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14223132414d505f4a464a4e464b4b&#34;&gt;[ดาวน์โหลดประกาศ]&lt;/a&gt;
+  &lt;strong&gt;ที่มา :&lt;/strong&gt;  ประกาศกรมศุลกากรที่ 119 / 2561 เรื่อง คู่มือการผ่านพิธีการศุลกากรทางอิเล็กทรอนิกส์ ว่าด้วยกระบวนการทางศุลกากรสำหรับการใช้สิทธิประโยชน์ทางภาษีอากร (e-Tax Incentives) . &lt;a href=&#34;../../../../post/law/customs/2561/2561-119/&#34;&gt;[ดาวน์โหลดประกาศ]&lt;/a&gt;
 &lt;/blockquote&gt;
 
 </description>
@@ -68,10 +68,10 @@
     
     <item>
       <title>แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 110/.2561 และประกาศกรมศุลกากรที่ 112/.2561</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/lab/freezone_2022/22_2565/</link>
+      <link>/pages/knowledge/lab/freezone_2022/22_2565/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/lab/freezone_2022/22_2565/</guid>
+      <guid>/pages/knowledge/lab/freezone_2022/22_2565/</guid>
       <description>&lt;blockquote class=&#34;book-hint success&#34;&gt;
   &lt;strong&gt;ให้ยกเลิกความในข้อ 5 แห่งประกาศกรมศุลกากร ที่ 110/.2561 และให้ใช้ความต่อไปนี้แทน&lt;/strong&gt;
 &lt;/blockquote&gt;
@@ -175,17 +175,17 @@
 
 
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;../data/2565-22.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;../data/2565-22.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>การคืนอากรตามมาตรา 29</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/section_29/</link>
+      <link>/pages/tax-inc/section_29/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/section_29/</guid>
+      <guid>/pages/tax-inc/section_29/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/drawback.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;nav id=&#34;TableOfContents&#34;&gt;
@@ -269,10 +269,10 @@
     
     <item>
       <title>การโอนย้ายของออกจากคลังสินค้าทัณฑ์บน (ต้นทาง)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/tranfer/2.bond/</link>
+      <link>/pages/tax-inc/tranfer/2.bond/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/tranfer/2.bond/</guid>
+      <guid>/pages/tax-inc/tranfer/2.bond/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/KnowledgeCenter/raw/master/img/e-tax-incentive/tranfer-bond.jpg&#34; alt=&#34;enter image description here&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;โอนยายของเขาโดยใชสทธ-ปลายทาง&#34;&gt;โอนย้ายของเข้าโดยใช้สิทธิ์ (&lt;em&gt;ปลายทาง&lt;/em&gt;)&lt;/h2&gt;
 &lt;div class=&#34;book-collapsible&#34;&gt;
@@ -438,10 +438,10 @@
     
     <item>
       <title>เลขทะเบียนสิทธิประโยชน์ทางภาษีอากร</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/tax-guide/2.incentive-regis-id/</link>
+      <link>/pages/tax-inc/tax-guide/2.incentive-regis-id/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/tax-guide/2.incentive-regis-id/</guid>
+      <guid>/pages/tax-inc/tax-guide/2.incentive-regis-id/</guid>
       <description>&lt;h2 id=&#34;คลงสนคาทณฑบน&#34;&gt;คลังสินค้าทัณฑ์บน&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/KnowledgeCenter/raw/master/img/e-tax-incentive/tax-incentive-no-1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -577,10 +577,10 @@
     
     <item>
       <title>กําหนดมาตรฐานขั้นต่ำของระบบงานด้านการควบคุมทางศุลกากร</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/lab/freezone_2022/189_2564/</link>
+      <link>/pages/knowledge/lab/freezone_2022/189_2564/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/lab/freezone_2022/189_2564/</guid>
+      <guid>/pages/knowledge/lab/freezone_2022/189_2564/</guid>
       <description>&lt;p&gt;&lt;strong&gt;ประกาศกรมศุลกากร ที่ 189/.2564 เรื่อง กําหนดมาตรฐานขั้นต่ำของระบบงานด้านการควบคุมทางศุลกากร เพื่อรองรับการปฏิบัติพิธีการศุลกากรทางอิเล็กทรอนิกส์&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote class=&#34;book-hint info&#34;&gt;
   กรมศุลกากรได้พัฒนาระบบงานด้านการควบคุมทางศุลกากร รองรับการปฏิบัติพิธีการ ศุลกากรทางอิเล็กทรอนิกส์ โดยการนําเทคโนโลยีที่ทันสมัย อันได้แก่ ระบบกล้องโทรทัศน์วงจรปิด (CCTV) ระบบกุญแจอิเล็กทรอนิกส์ (e-Lock System) ระบบตรวจสอบตู้คอนเทนเนอร์สินค้าด้วยเครื่องเอกซเรย์ (Container X-ray System) ระบบตรวจสอบหีบห่อสินค้าหรือสัมภาระผู้โดยสารด้วยเครื่องเอกซเรย์ (Luggage and Cargo X-ray System) และ&lt;strong&gt;ระบบการควบคุมสินค้าคงคลัง (e-Inventory)&lt;/strong&gt; เพื่อเป็นเครื่องมือ ในการกํากับดูแล ตรวจสอบ และติดตามของที่อยู่ภายใต้การควบคุมของศุลกากร อันเป็นการป้องกัน การลักลอบ หลีกเลี่ยง ซึ่งค่าภาษีอากรของรัฐ รวมถึงเป็นการอํานวยความสะดวกในการผ่านพิธีการศุลกากร ของผู้ประกอบการ
@@ -697,17 +697,17 @@
 
 
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;../data/2564-189.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;../data/2564-189.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>คลังสินค้าทัณฑ์บน (Bonded Warehouse)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/bond/</link>
+      <link>/pages/tax-inc/bond/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/bond/</guid>
+      <guid>/pages/tax-inc/bond/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/bonded.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;จัดตั้งขึ้นเพื่อประโยชน์ในการเก็บรักษาของที่นำเข้าจากต่างประเทศ การบรรจุหรือแบ่งบรรจุ การขนถ่ายสินค้า การกระจายสินค้า และเพื่อกิจการอื่น ๆ ที่อธิบดีกรมศุลกากรเห็นสมควรอันจะเป็นการช่วยสนับสนุนการผลิต การประกอบอุตสาหกรรม และการค้าระหว่างประเทศให้มีประสิทธิภาพมากยิ่งขึ้น&lt;/p&gt;
 
@@ -1001,10 +1001,10 @@
     
     <item>
       <title>โครงสร้างข้อมูลใบขนสินค้าขาออกโอนย้ายภายในประเทศ</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/tax-guide/3.data_structure_export/</link>
+      <link>/pages/tax-inc/tax-guide/3.data_structure_export/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/tax-guide/3.data_structure_export/</guid>
+      <guid>/pages/tax-inc/tax-guide/3.data_structure_export/</guid>
       <description>&lt;h2 id=&#34;โครงสรางขอมล&#34;&gt;โครงสร้างข้อมูล&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;โครงสร้างข้อมูลใบขนสินค้าขาออกโอนย้ายภายในประเทศ แบ่งได้เป็น 6 ส่วนดังนี้&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
@@ -1112,10 +1112,10 @@
     
     <item>
       <title>การโอนย้ายของออกจากสิทธิ ขอคืนอากรตามมาตรา 29</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/tranfer/3.section_29/</link>
+      <link>/pages/tax-inc/tranfer/3.section_29/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/tranfer/3.section_29/</guid>
+      <guid>/pages/tax-inc/tranfer/3.section_29/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/KnowledgeCenter/raw/master/img/e-tax-incentive/section-29-2.jpg&#34; alt=&#34;enter image description here&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;โอนยายของเขาโดยใชสทธ-ปลายทาง&#34;&gt;โอนย้ายของเข้าโดยใช้สิทธิ์ (&lt;em&gt;ปลายทาง&lt;/em&gt;)&lt;/h1&gt;
 &lt;div class=&#34;book-collapsible&#34;&gt;
@@ -1210,10 +1210,10 @@ Version) และเลขประจำตัวผู้เสียภา�
     
     <item>
       <title>หลักเกณฑ์ วิธีการ และเงื่อนไข การขอใบแทนใบอนุญาตและการออกใบแทนใบอนุญาตจัดตั้งเขตปลอดอากรและใบอนุญาตประกอบกิจการในเขตปลอดอากร</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/lab/freezone_2022/112_2561/</link>
+      <link>/pages/knowledge/lab/freezone_2022/112_2561/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/lab/freezone_2022/112_2561/</guid>
+      <guid>/pages/knowledge/lab/freezone_2022/112_2561/</guid>
       <description>&lt;p&gt;
 
 &lt;br&gt;
@@ -1227,17 +1227,17 @@ Version) และเลขประจำตัวผู้เสียภา�
 
 
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;../data/2561-112.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;../data/2561-112.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>เขตปลอดอากร (Freezone)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/freezone/</link>
+      <link>/pages/tax-inc/freezone/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/freezone/</guid>
+      <guid>/pages/tax-inc/freezone/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/freezone.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
@@ -1373,10 +1373,10 @@ Version) และเลขประจำตัวผู้เสียภา�
     
     <item>
       <title>โครงสร้างข้อมูลใบขนสินค้าขาเข้าโอนย้ายภายในประเทศ</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/tax-guide/4.data_structure_import/</link>
+      <link>/pages/tax-inc/tax-guide/4.data_structure_import/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/tax-guide/4.data_structure_import/</guid>
+      <guid>/pages/tax-inc/tax-guide/4.data_structure_import/</guid>
       <description>&lt;h2 id=&#34;โครงสรางขอมล&#34;&gt;โครงสร้างข้อมูล&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;โครงสร้างข้อมูลใบขนสินค้าขาเข้าโอนย้ายภายในประเทศ แบ่งได้เป็น 6 ส่วนดังนี้&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
@@ -1491,10 +1491,10 @@ Version) และเลขประจำตัวผู้เสียภา�
     
     <item>
       <title>การโอนย้ายของออกจากสิทธิ ส่งเสริมการลงทุน BOI (ต้นทาง)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/tranfer/4.boi/</link>
+      <link>/pages/tax-inc/tranfer/4.boi/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/tranfer/4.boi/</guid>
+      <guid>/pages/tax-inc/tranfer/4.boi/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/KnowledgeCenter/raw/master/img/e-tax-incentive/tranfer-boi.jpg&#34; alt=&#34;enter image description here&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;โอนยายของเขาโดยใชสทธ-ปลายทาง&#34;&gt;โอนย้ายของเข้าโดยใช้สิทธิ์ (&lt;em&gt;ปลายทาง&lt;/em&gt;)&lt;/h1&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -1591,10 +1591,10 @@ Version) และเลขประจำตัวผู้เสียภา�
     
     <item>
       <title>หลักเกณฑ์ วิธีการ และเงื่อนไข การอนุญาตจัดตั้ง การเลิกดำเนินการ การพักใช้และการเพิกถอนใบอนุญาตจัดตั้งเขตปลอดอากร</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/lab/freezone_2022/110_2561/</link>
+      <link>/pages/knowledge/lab/freezone_2022/110_2561/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/lab/freezone_2022/110_2561/</guid>
+      <guid>/pages/knowledge/lab/freezone_2022/110_2561/</guid>
       <description>&lt;p&gt;
 
 &lt;br&gt;
@@ -1608,17 +1608,17 @@ Version) และเลขประจำตัวผู้เสียภา�
 
 
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;../data/2561-110.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;../data/2561-110.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 </description>
     </item>
     
     <item>
       <title>เขตประกอบการเสรี (I-EA-T)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/ieat/</link>
+      <link>/pages/tax-inc/ieat/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/ieat/</guid>
+      <guid>/pages/tax-inc/ieat/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/i-eat-02.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
@@ -1755,10 +1755,10 @@ Version) และเลขประจำตัวผู้เสียภา�
     
     <item>
       <title>การโอนย้ายของออกจากเขตปลอดอากร (Freezone) (ต้นทาง)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/tranfer/5.freezone/</link>
+      <link>/pages/tax-inc/tranfer/5.freezone/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/tranfer/5.freezone/</guid>
+      <guid>/pages/tax-inc/tranfer/5.freezone/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/KnowledgeCenter/raw/master/img/e-tax-incentive/tranfer-freezone.jpg&#34; alt=&#34;enter image description here&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;โอนยายของเขาโดยใชสทธ-ปลายทาง&#34;&gt;โอนย้ายของเข้าโดยใช้สิทธิ์ (&lt;em&gt;ปลายทาง&lt;/em&gt;)&lt;/h1&gt;
 &lt;div class=&#34;book-collapsible&#34;&gt;
@@ -1874,10 +1874,10 @@ Version) และเลขประจำตัวผู้เสียภา�
     
     <item>
       <title>การตรวจสอบข้อมูลใบขนสินค้า กับระบบทะเบียนผู้มาติดต่อ</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/tax-guide/5.visitor-registration/</link>
+      <link>/pages/tax-inc/tax-guide/5.visitor-registration/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/tax-guide/5.visitor-registration/</guid>
+      <guid>/pages/tax-inc/tax-guide/5.visitor-registration/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;การตรวจสอบลายเซ็นอิเล็กทรอนิกส์ (Digital Signature) มีเงื่อนไขดังนี้&lt;/p&gt;
@@ -1920,10 +1920,10 @@ Version) และเลขประจำตัวผู้เสียภา�
     
     <item>
       <title>เครื่องหมายและเลขหมายหีบห่อ (Shipping Marks)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/tax-guide/6.shipping-marks/</link>
+      <link>/pages/tax-inc/tax-guide/6.shipping-marks/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/tax-guide/6.shipping-marks/</guid>
+      <guid>/pages/tax-inc/tax-guide/6.shipping-marks/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;เครื่องหมายและเลขหมายหีบห่อ (Shipping Marks) ต้องสำแดงเครื่องหมายและเลขหมายหีบห่อให้ตรงกับความเป็นจริง ซึ่งจะต้องตรงกับใบตราส่งสินค้า โดยให้สำแดง ดังนี้
@@ -1962,10 +1962,10 @@ Version) และเลขประจำตัวผู้เสียภา�
     
     <item>
       <title>การชดเชยค่าภาษีอากร (Compensation)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/compensation/</link>
+      <link>/pages/tax-inc/compensation/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/compensation/</guid>
+      <guid>/pages/tax-inc/compensation/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/compensation.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;การชดเชยค่าภาษีอากร&lt;/strong&gt; ตาม&lt;a href=&#34;../compensation_2524.pdf&#34;&gt;พระราชบัญญัติชดเชยค่าภาษีอากร สินค้าส่งออกที่ผลิตในราชอาณาจักร พ.ศ. 2524&lt;/a&gt; เป็นมาตรการหนึ่งของรัฐบาลเพื่อพัฒนาศักยภาพในการผลิตสินค้าส่งออกและสนับสนุนการส่งสินค้าที่ผลิตในประเทศไทยออกไปจำหน่ายต่างประเทศให้มากขึ้น เพื่อให้สามารถแข่งขันในตลาดต่างประเทศได้ โดยคณะกรรมการพิจารณาชดเชยค่าภาษีอากรสินค้าส่งออกที่ผลิตในราชอาณาจักร จะกำหนดอัตราเงินชดเชยค่าภาษีอากรสำหรับสินค้าที่ส่งออกและมีการจ่ายเงินชดเชยค่าสินค้าส่งออกในรูปแบบบัตรภาษี&lt;/p&gt;
 
@@ -2251,10 +2251,10 @@ Version) และเลขประจำตัวผู้เสียภา�
     
     <item>
       <title>การโอนย้ายของออกจากเขตประกอบการเสรี (I-EAT)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/tranfer/6.i-eat/</link>
+      <link>/pages/tax-inc/tranfer/6.i-eat/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/tranfer/6.i-eat/</guid>
+      <guid>/pages/tax-inc/tranfer/6.i-eat/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/KnowledgeCenter/raw/master/img/e-tax-incentive/tranfer-i-eat-2.jpg&#34; alt=&#34;enter image description here&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;โอนยายของเขาโดยใชสทธ&#34;&gt;โอนย้ายของเข้าโดยใช้สิทธิ์&lt;/h1&gt;
 &lt;div class=&#34;book-collapsible&#34;&gt;
@@ -2359,10 +2359,10 @@ Version) และเลขประจำตัวผู้เสียภา�
     
     <item>
       <title>การส่งเสริมการลงทุน (BOI)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/boi/</link>
+      <link>/pages/tax-inc/boi/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/boi/</guid>
+      <guid>/pages/tax-inc/boi/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/boi.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
@@ -2513,10 +2513,10 @@ Version) และเลขประจำตัวผู้เสียภา�
     
     <item>
       <title>จำนวนและน้ำหนักของสินค้า</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/tax-guide/7.quantity-and-weight/</link>
+      <link>/pages/tax-inc/tax-guide/7.quantity-and-weight/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/tax-guide/7.quantity-and-weight/</guid>
+      <guid>/pages/tax-inc/tax-guide/7.quantity-and-weight/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;จำนวนหีบห่อรวม (Total Package Amount) ให้บันทึกค่าลักษณะหีบห่อตามมาตรฐาน หากสินค้ามีหลายลักษณะรวมกัน ให้ระบุจำนวนหีบห่อรวม.&lt;/li&gt;
 &lt;li&gt;ลักษณะหีบห่อรวม (Total Package Unit Code) ให้บันทึกค่าลักษณะหีบห่อตามมาตรฐาน UNECE Recommendation 21 หากสินค้ามีหลายลักษณะรวมกัน เช่น กล่อง Roll Drum ให้ระบุหน่วยเป็น &lt;strong&gt;PK&lt;/strong&gt;.&lt;/li&gt;
@@ -2532,10 +2532,10 @@ Version) และเลขประจำตัวผู้เสียภา�
     
     <item>
       <title>ต้องการให้ตรวจสอบข้อมูลใบขนสินค้า (Assessment Request Code)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/tax-guide/8.assessment-request/</link>
+      <link>/pages/tax-inc/tax-guide/8.assessment-request/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/tax-guide/8.assessment-request/</guid>
+      <guid>/pages/tax-inc/tax-guide/8.assessment-request/</guid>
       <description>&lt;p&gt;&lt;strong&gt;&lt;em&gt;“Assessment Request Code”&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;“มีปัญหาพิกัด ราคา พบพนักงานศุลกากร ที่ ด่านศุลกากร ที่นำเข้า”&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;กรณีมีปัญหาและต้องการพบพนักงานศุลกากร  ณ  คลังสินค้าทัณฑ์บน (Bond Port) เขตปลอดอากร  (FreeZone Port) เขตประกอบการเสรี (IEAT Freezone Port)
@@ -2560,10 +2560,10 @@ Version) และเลขประจำตัวผู้เสียภา�
     
     <item>
       <title>การคืนอากรสำหรับของที่นำเข้ามาแล้วส่งกลับออกไป (Re-export)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/re-export/</link>
+      <link>/pages/tax-inc/re-export/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/re-export/</guid>
+      <guid>/pages/tax-inc/re-export/</guid>
       <description>&lt;p&gt;ของที่นำเข้ามาในราชอาณาจักรและเสียอากรแล้ว หากส่งของนั้นกลับออกไปนอกราชอาณาจักร หรือส่งไปเป็นของใช้สิ้นเปลืองในเรือหรืออากาศยาน ที่เดินทางออกไปนอกราชอาณาจักรให้มีสิทธิขอคืนอากรขาเข้าสำหรับของนั้นเก้าในสิบส่วน หรือส่วนที่เกินหนึ่งพันบาทของจำนวนที่ได้เรียกเก็บไว้โดยคำนวณตาม
 ใบขนสินค้าขาออกแต่ละฉบับ แล้วแต่จำนวนใดจะสูงกว่าตามหลักเกณฑ์ดังต่อไปนี้&lt;/p&gt;
 &lt;ul&gt;
@@ -2641,11 +2641,11 @@ Version) และเลขประจำตัวผู้เสียภา�
     
     <item>
       <title>คู่มือสิทธิประโยชน์ทางภาษีอากร</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/tax-guide/</link>
+      <link>/pages/tax-inc/tax-guide/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/tax-guide/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../img/tax-incentive.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <guid>/pages/tax-inc/tax-guide/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../img/incentive.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;พระราชบัญญัติศุลกากร พ.ศ. 2560 ซึ่งมีผลบังคับใช้ตั้งแต่ 13 พฤศจิกายน 2560 เป็นต้นมา ได้ยกเลิกบรรดาพระราชบัญญัติศุลกากรทุกฉบับที่เคยมีมา โดยได้จัดหมวดหมู่ของกฎหมายออกเป็น 9 หมวด และมีจำนวนถึง 3 หมวดที่บัญญัติในเรื่องสิทธิประโยชน์ทางภาษีอากร กล่าวคือ&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;หมวดที่ 2 ส่วนที่ 3 ว่าด้วยเรื่อง การคืนอากร ซึ่งมีมาตรา 29 เป็นบทบัญญัติที่สำคัญ&lt;/li&gt;
@@ -2660,10 +2660,10 @@ Version) และเลขประจำตัวผู้เสียภา�
     
     <item>
       <title>การโอนย้ายของออกจากสิทธิประโยชน์ (ต้นทาง)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/tranfer/</link>
+      <link>/pages/tax-inc/tranfer/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/tranfer/</guid>
+      <guid>/pages/tax-inc/tranfer/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./img/warehouse.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;เลอกสทธประโยชนตนทาง-การโอนยายสนคา&#34;&gt;เลือกสิทธิประโยชน์ต้นทาง การโอนย้ายสินค้า&lt;/h2&gt;
 &lt;ul&gt;
@@ -2678,10 +2678,10 @@ Version) และเลขประจำตัวผู้เสียภา�
     
     <item>
       <title>เขตปลอดอากร 2022</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/lab/freezone_2022/</link>
+      <link>/pages/knowledge/lab/freezone_2022/</link>
       <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/lab/freezone_2022/</guid>
+      <guid>/pages/knowledge/lab/freezone_2022/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./img/img-01.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;blockquote class=&#34;book-hint danger&#34;&gt;
   &lt;strong&gt;ให้ยกเลิกความในข้อ 5 แห่งประกาศกรมศุลกากร ที่ 110/.2561&lt;/strong&gt;
@@ -2845,10 +2845,10 @@ Version) และเลขประจำตัวผู้เสียภา�
     
     <item>
       <title>ระบบงานฐานข้อมูล RMTS Online (วัตถุดิบและวัสดุจำเป็น)</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/boi_rmtsonline_2020/</link>
+      <link>/post/knowledge/boi_rmtsonline_2020/</link>
       <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/boi_rmtsonline_2020/</guid>
+      <guid>/post/knowledge/boi_rmtsonline_2020/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;RMTS.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;ระบบฐานข้อมูล RMTS Online&lt;/strong&gt;  เป็นระบบที่พัฒนาขึ้นสำหรับเป็นช่องทาง ในการยื่นข้อมูลเพื่อขออนุมัติบัญชีรายการวัตถุดิบและปริมาณสต็อกสูงสุด และสูตรการผลิต รวมถึงการขออนุมัติปรับยอดวัตถุดิบกรณีต่าง ๆ ผ่านระบบ Online ซึ่งประกอบไปด้วย&lt;/p&gt;
 &lt;ol&gt;
@@ -2908,10 +2908,10 @@ Version) และเลขประจำตัวผู้เสียภา�
     
     <item>
       <title>คู่มือการจัดทำข้อมูลใบขนสินค้า เพื่อรองรับบัตรภาษีอิเล็กทรอนิกส์</title>
-      <link>https://ecs-support.github.io/KM/customs/post/news/2021/09-16/</link>
+      <link>/post/news/2021/09-16/</link>
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/news/2021/09-16/</guid>
+      <guid>/post/news/2021/09-16/</guid>
       <description>&lt;p&gt;เนื่องจากใน&lt;em&gt;วันที่ 21 กันยายน 2564&lt;/em&gt; ที่จะถึงนี้ เป็นวันครบกำหนด&lt;strong&gt;เก้าสิบวัน&lt;/strong&gt;นับแต่วันที่ กฎกระทรวง เรื่อง &lt;strong&gt;กำหนดแบบ ลักษณะ ราคา และรายละเอียดของบัตรภาษี&lt;/strong&gt;  พ.ศ. 2564 &lt;a href=&#34;http://www.customs.go.th/data_files/7cb973afc2e996bc98a9a11cb79c243e.pdf&#34;&gt;[ดาวน์โหลด]&lt;/a&gt;  ประกาศในราชกิจจานุเบกษา จึงมีผลทำให้กรมศุลกากรต้องจัดทำบัตรภาษีให้เป็นบัตรภาษีอิเล็กทรอนิกส์ และเปลี่ยนบัตรภาษีในรูปแบบกระดาษที่ยังไม่ได้ใช้ ให้เป็นบัตรภาษีอิเล็กทรอนิกส์ ตามที่กฎกระทรวงกำหนดไว้  และการเปลี่ยนแปลงรูปแบบการจ่ายเงินชดเชยค่าภาษีอากรสินค้าส่งออก ที่ผลิตในราชอาณาจักร จากเดิมที่จ่ายเป็นบัตรภาษีในรูปแบบกระดาษ เปลี่ยนเป็น&lt;strong&gt;บัตรภาษีอิเล็กทรอนิกส์&lt;/strong&gt; ตาม ประกาศกรมศุลกากรที่ 16/2564 เรื่อง &lt;strong&gt;คู่มือการดำเนินธุรกรรมทางอิเล็กทรอนิกส์สำหรับการชดเชยค่าภาษีอากรด้วยบัตรภาษีอิเล็กทรอนิกส์&lt;/strong&gt; (Digital Tax Compensation) &lt;a href=&#34;https://ecs-support.github.io/KM/customs/post/news/2021-08-20/docs/DigitalTaxCompensation.pdf&#34;&gt;[ดาวน์โหลด]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;จึงทำให้เกิดการปรับปรุง เปลี่ยนแปลง เพิ่มเติม กระบวนการทางศุลกากรในหลาย ๆ ด้าน ทำให้มีคำถามจากผู้ใช้งานเป็นจำนวนมาก และมากขึ้นเรื่อย ๆ เมื่อใกล้ถึงวันที่จะเริ่มใช้งานระบบดังกล่าวในวันที่ 21 กันยายน 2564 นี้ ทางทีม Support จึงได้จัดทำคู่มือการบันทึกข้อมูลใบขนสินค้า เพื่อให้ผู้ใช้งานได้ทราบถึงการเปลี่ยนแปลงที่กระทบกับการบันทึกข้อมูล รวมทั้งกฎหมายที่เกี่ยวข้องกับเรื่องดังกล่าว เพื่อให้ได้ทราบถึงเหตุผลการเปลี่ยนแปลง ซึ่งมีรายละเอียดดังนี้&lt;/p&gt;
 &lt;h2 id=&#34;common-data-บรษทผนำเขา-สงออก&#34;&gt;Common Data (บริษัทผู้นำเข้า-ส่งออก)&lt;/h2&gt;
@@ -2963,10 +2963,10 @@ Version) และเลขประจำตัวผู้เสียภา�
     
     <item>
       <title>บัตรภาษีอิเล็กทรอนิกส์</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/digital-tax/</link>
+      <link>/pages/knowledge/digital-tax/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/digital-tax/</guid>
+      <guid>/pages/knowledge/digital-tax/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./img/cover.png&#34; alt=&#34;&#34;&gt;&lt;br&gt;
 &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
@@ -3036,8 +3036,8 @@ Version) และเลขประจำตัวผู้เสียภา�
 &lt;p&gt;&lt;img src=&#34;./img/img-09.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;เอกสารทเกยวของ&#34;&gt;เอกสารที่เกี่ยวข้อง&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;คู่มือการดำเนินธุรกรรมทางอิเล็กทรอนิกส์สำหรับการชดเชยค่าภาษีอากรด้วยบัตรภาษีอิเล็กทรอนิกส์ (Digital Tax Compensation) &lt;a href=&#34;https://ecs-support.github.io/KM/customs/post/announcement/customs/2564-16/&#34;&gt;[&lt;strong&gt;ดาวน์โหลด&lt;/strong&gt;]&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;เอกสารประกอบการสัมมนา &lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/pages/knowledge/digital-tax/seminar/&#34;&gt;[&lt;strong&gt;ดาวน์โหลด&lt;/strong&gt;]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;คู่มือการดำเนินธุรกรรมทางอิเล็กทรอนิกส์สำหรับการชดเชยค่าภาษีอากรด้วยบัตรภาษีอิเล็กทรอนิกส์ (Digital Tax Compensation) &lt;a href=&#34;/post/announcement/customs/2564-16/&#34;&gt;[&lt;strong&gt;ดาวน์โหลด&lt;/strong&gt;]&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;เอกสารประกอบการสัมมนา &lt;a href=&#34;/pages/knowledge/digital-tax/seminar/&#34;&gt;[&lt;strong&gt;ดาวน์โหลด&lt;/strong&gt;]&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote class=&#34;book-hint success&#34;&gt;
   สอบถามรายละเอียดเพิ่มเติมได้ที่ &lt;strong&gt;คลินิกสิทธิประโยชน์ทางภาษีอากร โทร. 02-6677000 ต่อ 5179&lt;/strong&gt;
@@ -3050,10 +3050,10 @@ Version) และเลขประจำตัวผู้เสียภา�
     
     <item>
       <title>การขยายระยะเวลาการส่งออกของที่ขอคืนอากรและระยะเวลาการขอคืนอากรตามมาตรา 29</title>
-      <link>https://ecs-support.github.io/KM/customs/post/law/customs/2564/2564-74/</link>
+      <link>/post/law/customs/2564/2564-74/</link>
       <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/law/customs/2564/2564-74/</guid>
+      <guid>/post/law/customs/2564/2564-74/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;ประกาศกรมศลกากร-ท-742564-เรอง-การขยายระยะเวลาการสงออกของทขอคนอากรและระยะเวลาการขอคนอากรตามมาตรา-29-แหงพระราชบญญตศลกากร-พศ2560-ในสถานการณแพรระบาดของโรคตดเชอไวรสโคโรนา-2019-โควด-19&#34;&gt;ประกาศกรมศุลกากร ที่ 74./2564 เรื่อง การขยายระยะเวลาการส่งออกของที่ขอคืนอากรและระยะเวลาการขอคืนอากรตามมาตรา 29 แห่งพระราชบัญญัติศุลกากร พ.ศ.2560 ในสถานการณ์แพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019 (โควิด-19)&lt;/h2&gt;
 &lt;p&gt;เพื่อให้การคืนอากรภายใต้มาตรการคืนอากรตามมาตรา 29 แห่งพระราชบัญญัติศุลกากร พ.ศ. 2560 เป็นไปด้วยความเหมาะสมในสถานการณ์ที่มีการแพร่ระบาดของโรคติดเชื้อไวรัสโคโรนา 2019 (โควิด-19) ซึ่งเป็นเหตุสุดวิสัยที่ทําให้ผู้นําของเข้า ไม่สามารถดําเนินการส่งออกและขอคืนอากรภายใน ระยะเวลาที่กําหนด&lt;/p&gt;
@@ -3078,10 +3078,10 @@ Version) และเลขประจำตัวผู้เสียภา�
     
     <item>
       <title>แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 114/.2561 (ของที่ห้ามนำเข้าไปเขตปลอดอากร)</title>
-      <link>https://ecs-support.github.io/KM/customs/post/law/customs/2564/2564-59/</link>
+      <link>/post/law/customs/2564/2564-59/</link>
       <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/law/customs/2564/2564-59/</guid>
+      <guid>/post/law/customs/2564/2564-59/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;ประกาศกรมศลกากรท-592564-เรอง-แกไขเพมเตมประกาศกรมศลกากรท-1142561-ของทหามนำเขาไปเขตปลอดอากร&#34;&gt;ประกาศกรมศุลกากรที่ 59/.2564 เรื่อง แก้ไขเพิ่มเติมประกาศกรมศุลกากรที่ 114/.2561 (ของที่ห้ามนำเข้าไปเขตปลอดอากร)&lt;/h2&gt;
 &lt;p&gt;ประกาศนี้ให้ใช้บังคับ&lt;strong&gt;เมื่อพ้นกำหนด 90 วัน&lt;/strong&gt; นับแต่วันประกาศในราชกิจจานุเบกษา&lt;/p&gt;
@@ -3098,10 +3098,10 @@ Version) และเลขประจำตัวผู้เสียภา�
     
     <item>
       <title>เขตปลอดอากรกิจการพาณิชย์อิเล็กทรอนิกส์ ภายในเขตส่งเสริมเศรษฐกิจพิเศษในพื้นที่เขตพัฒนาพิเศษภาคตะวันออก</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/2021-03-15/</link>
+      <link>/post/knowledge/2021/03-15/</link>
       <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/2021-03-15/</guid>
+      <guid>/post/knowledge/2021/03-15/</guid>
       <description>&lt;h2 id=&#34;บทความทางวชาการ---เขตปลอดอากรกจการพาณชยอเลกทรอนกส-ภายในเขตสงเสรมเศรษฐกจพเศษในพนทเขตพฒนาพเศษภาคตะวนออก&#34;&gt;บทความทางวิชาการ - เขตปลอดอากรกิจการพาณิชย์อิเล็กทรอนิกส์ ภายในเขตส่งเสริมเศรษฐกิจพิเศษในพื้นที่เขตพัฒนาพิเศษภาคตะวันออก&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;โครงการเขตพัฒนาพิเศษภาคตะวันออก (Eastern Economic Corridor : EEC) เป็นการลงทุนขนาดใหญ่
@@ -3114,12 +3114,21 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
 และสิทธิประโยชน์ด้านอื่นๆ รวมถึงการอำนวยความสะดวกในการประกอบธุรกิจอีกด้วย โดยได้มีการประกาศรายชื่อ
 เขตส่งเสริมเพื่อกิจการพิเศษที่ประกาศแล้ว ได้แก่ เขตส่งเสริมรูปแบบนิคมอุตสาหกรรม จำนวน 21 แห่ง เขตส่งเสริม
 รูปแบบอุตสาหกรรมเป้าหมายพิเศษเฉพาะด้าน (Cluster) จำนวน 2 แห่ง&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;&lt;img src=&#34;./img/docjpg_Page2.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/docjpg_Page3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;./img/docjpg_Page4.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;!-- raw HTML omitted --&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;90%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+      
+&lt;div class=&#34;div-btn&#34;&gt;
+    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
+  ดาวน์โหลดเอกสาร
+&lt;/a&gt;
+&lt;/div&gt;
 &lt;blockquote&gt;
 &lt;p&gt;ที่มา : &lt;a href=&#34;http://www.customs.go.th/cont_strc_simple_with_date.php?current_id=14232832414d505f4a464b4b464a4e&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -3128,10 +3137,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>การคืนอากรตามมาตรา 29 แห่ง พ.ร.บ.ศุลกากร พ.ศ. 2560 กับการอุดหนุน</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/subsidies_03_2021/</link>
+      <link>/post/knowledge/subsidies_03_2021/</link>
       <pubDate>Mon, 08 Mar 2021 08:10:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/subsidies_03_2021/</guid>
+      <guid>/post/knowledge/subsidies_03_2021/</guid>
       <description>&lt;p&gt;โลกได้ก้าวเข้าสู่ยุคเศรษฐกิจเสรีไร้พรมแดน  จะเห็นได้ว่า  มีการจัดทำความตกลงเขตการค้าเสรีโดยการลดอัตราอากรศุลกากรเป็นศูนย์ รวมถึงมีการรวมกลุ่มทางเศรษฐกิจระหว่างประเทศเพื่อสร้างอำนาจการต่อรองทางการค้าให้มากขึ้น ดังนั้นมาตรการทางการค้าด้านภาษีต่าง ๆ จึงลดความสำคัญลงเรื่อย ๆ โดยมาตรการที่ไม่ใช่ภาษี (Non-Tariff Measure: NTM) จะเพิ่มบทบาทมากขึ้น แต่อย่างไรก็ตาม มาตรการทางภาษีถือได้ว่าเป็นเครื่องมือที่ดีและมีประโยชน์อย่างมากในการช่วยส่งเสริม  สนับสนุน  และคุ้มครองผู้ประกอบการ หรืออุตสาหกรรมภายในประเทศ ให้สามารถแข่งขันได้ในตลาดโลก&lt;/p&gt;
 &lt;p&gt;ประเทศไทยได้ใช้นโยบายการค้าเสรี มุ่งเน้นการผลิตเพื่อการส่งออกในการพัฒนาเศรษฐกิจของประเทศ โดยมีกลไกตลาดเป็นเครื่องชี้ประสิทธิภาพและความสามารถในการแข่งขัน  ภารกิจหลักของกรมศุลกากร  นอกเหนือจากการจัดเก็บภาษีอากร  คือ  การสนับสนุน   เพื่อเพิ่มขีดความสามารถในการแข่งขันโดยอาศัยมาตรการ ทางภาษีอากร  ตลอดจนการอำนวยความสะดวกทางการค้า  การใช้มาตรการทางภาษีอากรดังกล่าวข้างต้นอาจจะเป็นการละเมิดต่อความตกลงว่าด้วยการอุดหนุน  (Subsidy)  ภายใต้กรอบขององค์การการค้าโลก  (World  Trade  Organization : WTO) ที่ไทยเป็นภาคีด้วย ดังนั้น การที่รัฐบาลไทยในฐานะเป็นผู้ให้การสนับสนุนดังกล่าว อาจถูกประเทศสมาชิกอื่น ๆ  ที่เป็นผ้้นำเข้าสินค้าไทยตอบโต้ว่า เป็นการละเมิดข้อตกลงในเรื่องนี้ เนื่องจากการอุดหนุนของรัฐบาลถือว่าเป็นการนำไปสู่การแข่งขันทางการค้า ที่ไม่เป็นธรรม (Distorted Competition) เพราะการอุดหนุน เป็นการจัดสรรทรัพยากรที่ไม่ถูกต้อง  (Disallcotion  of  Resources)    และก่อให้เกิดการได้เปรียบในการแข่งขัน ทางด้านราคาแก่ผู้ส่งออกของประเทศที่ให้การอุดหนุน&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -3150,21 +3159,21 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>คู่มือการดำเนินธุรกรรมทางอิเล็กทรอนิกส์สำหรับการชดเชยค่าภาษีอากรด้วยบัตรภาษีอิเล็กทรอนิกส์</title>
-      <link>https://ecs-support.github.io/KM/customs/post/law/customs/2564/2564-16/</link>
+      <link>/post/law/customs/2564/2564-16/</link>
       <pubDate>Mon, 25 Jan 2021 03:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/law/customs/2564/2564-16/</guid>
+      <guid>/post/law/customs/2564/2564-16/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;ประกาศกรมศุลกากรที่ 16/.2564 เรื่อง คู่มือการดำเนินธุรกรรมทางอิเล็กทรอนิกส์สำหรับการชดเชยค่าภาษีอากรด้วยบัตรภาษีอิเล็กทรอนิกส์ (Digital Tax Compensation)&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;h2 id=&#34;ประกาศกรมศลกากรท-162564&#34;&gt;ประกาศกรมศุลกากรที่ 16/.2564&lt;/h2&gt;
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./2564-16.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;./2564-16.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;h2 id=&#34;คมอการดำเนนธรกรรมทางอเลกทรอนกสสำหรบการชดเชยคาภาษอากรดวยบตรภาษอเลกทรอนกส-digital-tax-compensation&#34;&gt;คู่มือการดำเนินธุรกรรมทางอิเล็กทรอนิกส์สำหรับการชดเชยค่าภาษีอากรด้วยบัตรภาษีอิเล็กทรอนิกส์ (Digital Tax Compensation)&lt;/h2&gt;
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./digital-tax-compensation.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;./digital-tax-compensation.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;blockquote&gt;
@@ -3179,10 +3188,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>ประกาศคณะกรรรมการพิจารณาชดเชยค่าภาษีอากรสินค้าส่งออกที่ผลิตในราชอาณาจักร</title>
-      <link>https://ecs-support.github.io/KM/customs/post/announcement/customs/compensate/2563-12/</link>
+      <link>/post/announcement/customs/compensate/2563-12/</link>
       <pubDate>Tue, 12 Jan 2021 03:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/announcement/customs/compensate/2563-12/</guid>
+      <guid>/post/announcement/customs/compensate/2563-12/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;กรมศุลกากรได้เผยแพร่ ประกาศคณะกรรรมการพิจารณาชดเชยค่าภาษีอากรสินค้าส่งออกที่ผลิตในราชอาณาจักร โดยมีการกำหนดหลักเกณฑ์จ่ายเงินชดเชย, การยื่นคำขอโอนสิทธิในบัตรภาษีไปให้แก่บุคคลอื่น และการกำหนดอัตราเงินชดเชยค่าภาษีอากร เป็นต้น มีรายละเอียดดังนี้&lt;/p&gt;
 &lt;ul&gt;
@@ -3208,10 +3217,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>หลักเกณฑ์ วิธีการ และเงื่อนไขการปฏิบัติพิธีการศุลกากรในการคืนอากรตามมาตรา 29 (e-Drawback)</title>
-      <link>https://ecs-support.github.io/KM/customs/post/announcement/customs/2563-126/</link>
+      <link>/post/announcement/customs/2563-126/</link>
       <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/announcement/customs/2563-126/</guid>
+      <guid>/post/announcement/customs/2563-126/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -3235,10 +3244,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>ระบบอิเล็กทรอนิกส์ในการคืนอากรเพื่อการส่งออกตามมาตรา 29  (e-Drawback)</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/e-drawback_present/</link>
+      <link>/post/knowledge/e-drawback_present/</link>
       <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/e-drawback_present/</guid>
+      <guid>/post/knowledge/e-drawback_present/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;ตามนโยบายเศรษฐกิจเข้มแข็งและยั่งยืน มาตรการเพิ่มประสิทธิภาพในการส่งเสริมการส่งออก ยุทธศาสตร์การพัฒนา กระบวนงานและระบบเทคโนโลยีสารสนเทศและการสื่อสาร เพื่ออำนวยความสะดวกทางการค้า และสอดคล้องกับนโยบายรัฐบาล &lt;strong&gt;“ไทยแลนด์ 4.0”&lt;/strong&gt; ที่ขับเคลื่อนเศรษฐกิจด้วยนวัตกรรม  ตลอดจนเพิ่มประสิทธิภาพในการทำงานของพนักงานศุลกากร ส่วนคืนอากรเพื่อการส่งออก กองสิทธิประโยชน์ทางภาษีอากร ร่วมกับศูนย์เทคโนโลยีสารสนเทศและการสื่อสาร จึงได้พัฒนา ระบบอิเล็กทรอนิกส์ในการคืนอากรเพื่อการส่งออกตามมาตรา 29 แห่งพระราชบัญญัติศุลกากร พ.ศ. 2560 อย่างเต็มรูปแบบ เพื่อให้การปฏิบัติงานขับเคลื่อนด้วยเทคโนโลยี มุ่งเน้นการให้บริการที่รวดเร็ว อำนวยความสะดวกให้ผู้รับบริการ ลดการใช้ดุลยพินิจ ตลอดจน ลดต้นทุนให้กับผู้ประกอบการนำของเข้าและส่งของออก ให้สามารถแข่งขันทางการค้ากับต่างประเทศได้มากขึ้น&lt;/p&gt;
 &lt;p&gt;ดังนั้น  จึงเป็นที่มาของโครงการพัฒนาระบบอิเล็กทรอนิกส์สำหรับการคืนอากรเพื่อการส่งออกตามมาตรา 29  (e-Drawback)  ที่มุ่งเน้นให้ผู้ประกอบการที่ใช้สิทธิประโยชน์ในด้านการคืนอากรเพื่อการส่งออก ได้รับ ความสะดวก รวดเร็ว ถูกต้อง และลดต้นทุนการผลิต ลดการใช้กระดาษ ด้วยการเชื่อมโยงกับระบบงานต่าง ๆ และข้อมูลที่เกี่ยวข้องผ่าน NSW (Thailand National Single Window)  รวมทั้งเพิ่มประสิทธิภาพในการปฏิบัติงานของพนักงานศุลกากรในการพิจารณาตรวจสอบการขอคืนอากรเพื่อการส่งออกได้อย่างถูกต้อง&lt;/p&gt;
@@ -3308,10 +3317,10 @@ EEC ประกาศเขตส่งเสริมเพื่อรอง�
     
     <item>
       <title>หลักเกณฑ์ วิธีการ และเงื่อนไข การปฏิบัติพิธีการศุลกากรในเขตปลอดอากร</title>
-      <link>https://ecs-support.github.io/KM/customs/post/announcement/customs/2561-115/</link>
+      <link>/post/announcement/customs/2561-115/</link>
       <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/announcement/customs/2561-115/</guid>
+      <guid>/post/announcement/customs/2561-115/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;

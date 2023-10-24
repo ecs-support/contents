@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BOI on ECS</title>
-    <link>https://ecs-support.github.io/KM/customs/tags/boi/</link>
+    <link>/tags/boi/</link>
     <description>Recent content in BOI on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
     <lastBuildDate>Tue, 09 Nov 2021 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://ecs-support.github.io/KM/customs/tags/boi/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/boi/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>การโอนย้ายของออกจากสิทธิ ส่งเสริมการลงทุน BOI (ต้นทาง)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/tranfer/4.boi/</link>
+      <link>/pages/tax-inc/tranfer/4.boi/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/tranfer/4.boi/</guid>
+      <guid>/pages/tax-inc/tranfer/4.boi/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/yosarawut/KnowledgeCenter/raw/master/img/e-tax-incentive/tranfer-boi.jpg&#34; alt=&#34;enter image description here&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;โอนยายของเขาโดยใชสทธ-ปลายทาง&#34;&gt;โอนย้ายของเข้าโดยใช้สิทธิ์ (&lt;em&gt;ปลายทาง&lt;/em&gt;)&lt;/h1&gt;
 &lt;!-- raw HTML omitted --&gt;
@@ -114,10 +114,10 @@
     
     <item>
       <title>การส่งเสริมการลงทุน (BOI)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/tax-inc/boi/</link>
+      <link>/pages/tax-inc/boi/</link>
       <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/tax-inc/boi/</guid>
+      <guid>/pages/tax-inc/boi/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/boi.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
@@ -268,10 +268,10 @@
     
     <item>
       <title>ระบบงานฐานข้อมูล RMTS Online (วัตถุดิบและวัสดุจำเป็น)</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/boi_rmtsonline_2020/</link>
+      <link>/post/knowledge/boi_rmtsonline_2020/</link>
       <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/boi_rmtsonline_2020/</guid>
+      <guid>/post/knowledge/boi_rmtsonline_2020/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;RMTS.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;ระบบฐานข้อมูล RMTS Online&lt;/strong&gt;  เป็นระบบที่พัฒนาขึ้นสำหรับเป็นช่องทาง ในการยื่นข้อมูลเพื่อขออนุมัติบัญชีรายการวัตถุดิบและปริมาณสต็อกสูงสุด และสูตรการผลิต รวมถึงการขออนุมัติปรับยอดวัตถุดิบกรณีต่าง ๆ ผ่านระบบ Online ซึ่งประกอบไปด้วย&lt;/p&gt;
 &lt;ol&gt;

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ระบบราคาแกตต์ on ECS</title>
-    <link>https://ecs-support.github.io/KM/customs/tags/%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B9%81%E0%B8%81%E0%B8%95%E0%B8%95/</link>
+    <link>/tags/%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B9%81%E0%B8%81%E0%B8%95%E0%B8%95/</link>
     <description>Recent content in ระบบราคาแกตต์ on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
     <lastBuildDate>Wed, 28 Jul 2021 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://ecs-support.github.io/KM/customs/tags/%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B9%81%E0%B8%81%E0%B8%95%E0%B8%95/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2%E0%B9%81%E0%B8%81%E0%B8%95%E0%B8%95/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>เงื่อนไขการชำระเงิน (Terms of payment)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/price/term-of-payment/</link>
+      <link>/pages/price/term-of-payment/</link>
       <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/price/term-of-payment/</guid>
+      <guid>/pages/price/term-of-payment/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/term-of-payment.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;เงื่อนไขการชำระเงินที่มีกำหนดระยะเวลา (Deferred Payment)  หมายความว่า ผู้ซื้อ (buyer) ไม่ต้องชำระเงินต่อผู้ขายทันทีที่เห็นตั๋ว แต่ให้ทำการรับรองตั๋วแลกเงิน (accept bill) เพื่อที่จะชำระเงินตามเวลาที่ตกลงกันไว้ในอนาคต&lt;/p&gt;
 &lt;h2 id=&#34;ประเภทของเงอนไขการชำระเงนทมกำหนดเวลา-deferred-payment&#34;&gt;ประเภทของเงื่อนไขการชำระเงินที่มีกำหนดเวลา (Deferred payment)&lt;/h2&gt;
@@ -80,10 +80,10 @@
     
     <item>
       <title>ระบบราคาแกตต์ (GATT Valuation)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/price/gatt_valuation/</link>
+      <link>/pages/price/gatt_valuation/</link>
       <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/price/gatt_valuation/</guid>
+      <guid>/pages/price/gatt_valuation/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../img/gatt.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;

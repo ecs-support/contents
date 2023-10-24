@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ECS</title>
-    <link>https://ecs-support.github.io/KM/customs/</link>
+    <link>/</link>
     <description>Recent content on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
-    <lastBuildDate>Thu, 25 May 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Oct 2023 10:40:50 +0000</lastBuildDate>
     
-	    <atom:link href="https://ecs-support.github.io/KM/customs/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ข่าวสารและบทความ</title>
-      <link>https://ecs-support.github.io/KM/customs/post/</link>
-      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      <link>/post/</link>
+      <pubDate>Tue, 17 Oct 2023 10:40:50 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/</guid>
+      <guid>/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pages</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/</link>
-      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
+      <link>/pages/</link>
+      <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/</guid>
+      <guid>/pages/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FAQ.</title>
-      <link>https://ecs-support.github.io/KM/customs/talk/</link>
+      <link>/talk/</link>
       <pubDate>Sun, 19 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/talk/</guid>
+      <guid>/talk/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://www.taladtool.com/wp-content/uploads/2018/02/faq.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ผู้ประกอบการระดับมาตรฐานเออีโอ (Authorized Economic Operator - AEO)</title>
-      <link>https://ecs-support.github.io/KM/customs/tags/</link>
+      <link>/tags/</link>
       <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/tags/</guid>
+      <guid>/tags/</guid>
       <description>&lt;h1 id=&#34;english&#34;&gt;English&lt;/h1&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;nav id=&#34;TableOfContents&#34;&gt;&lt;/nav&gt;
@@ -1332,28 +1332,28 @@
     
     <item>
       <title>Publications</title>
-      <link>https://ecs-support.github.io/KM/customs/publication/</link>
+      <link>/publication/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/publication/</guid>
+      <guid>/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://ecs-support.github.io/KM/customs/faq/</link>
+      <link>/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/faq/</guid>
+      <guid>/faq/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://ecs-support.github.io/KM/customs/home/</link>
+      <link>/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/home/</guid>
+      <guid>/home/</guid>
       <description></description>
     </item>
     

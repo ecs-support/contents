@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ข้อกำหนดหลัก on ECS</title>
-    <link>https://ecs-support.github.io/KM/customs/tags/%E0%B8%82%E0%B8%AD%E0%B8%81%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B8%94%E0%B8%AB%E0%B8%A5%E0%B8%81/</link>
+    <link>/tags/%E0%B8%82%E0%B8%AD%E0%B8%81%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B8%94%E0%B8%AB%E0%B8%A5%E0%B8%81/</link>
     <description>Recent content in ข้อกำหนดหลัก on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
     <lastBuildDate>Wed, 16 Jun 2021 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://ecs-support.github.io/KM/customs/tags/%E0%B8%82%E0%B8%AD%E0%B8%81%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B8%94%E0%B8%AB%E0%B8%A5%E0%B8%81/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/%E0%B8%82%E0%B8%AD%E0%B8%81%E0%B8%B3%E0%B8%AB%E0%B8%99%E0%B8%94%E0%B8%AB%E0%B8%A5%E0%B8%81/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ข้อกำหนดหลักตามมาตรฐาน ISO 27001:2013</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/core/</link>
+      <link>/pages/knowledge/iso/core/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/knowledge/iso/core/</guid>
+      <guid>/pages/knowledge/iso/core/</guid>
       <description>&lt;p&gt;เพื่อให้เข้าใจภาพกว้างของมาตรฐาซึ่งเป็นพื้นฐานสำหรับ การศึกษารายละเอียดเพิ่มเติมในเอกสารมาตรฐานฉบับเต็มได้ง่ายขึ้น&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;บริบทขององค์กร (Context of the organization)&lt;/li&gt;

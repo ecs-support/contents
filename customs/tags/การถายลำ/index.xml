@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>การถ่ายลำ on ECS</title>
-    <link>https://ecs-support.github.io/KM/customs/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B3/</link>
+    <link>/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B3/</link>
     <description>Recent content in การถ่ายลำ on ECS</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>ECS@Support&amp;copy;{year}</copyright>
-    <lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jun 2023 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://ecs-support.github.io/KM/customs/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B3/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%96%E0%B8%B2%E0%B8%A2%E0%B8%A5%E0%B8%B3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>การถ่ายลำ (Transshipment)</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/transit/shipment/</link>
+      <link>/pages/transit/shipment/</link>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/transit/shipment/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;../img/transshipment.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+      <guid>/pages/transit/shipment/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../img/transit-02/Transshipment-01.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;toc collapsible-toc&#34;&gt;
  &lt;button id=&#34;btn-toc&#34; type=&#34;button&#34; class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; data-target=&#34;#demo&#34;&gt;Table of Contents&lt;/button&gt;
  &lt;div id=&#34;demo&#34; class=&#34;collapse&#34;&gt;
@@ -39,11 +39,12 @@
   &lt;strong&gt;การถ่ายลำ (Transshipment)&lt;/strong&gt; หมายถึง การขนถ่ายสิ่งของจากยานพาหนะหนึ่งที่ขนเข้ามาในประเทศ แล้วเปลี่ยนไปเป็นอีกพาหนะหนึ่งที่ขนออกไปนอกประเทศ ภายในท่าหรือที่แห่งเดียวกัน (ภายใต้การควบคุมของศุลกากรในด่านศุลกากรแห่งเดียวกัน) โดยมีจุดเริ่มต้นและจุดสิ้นสุดของการขนส่งอยู่นอกประเทศ โดยของหรือสินค้านั้นจะไม่มีการนำมาใช้ประโยชน์ภายในประเทศ
 &lt;/blockquote&gt;
 
-ตาม &lt;a href=&#34;https://ecs-support.github.io/KM/customs/KM/customs/post/announcement/customs/2560-140/&#34;&gt;ประกาศกรมศุลกากรที่ 140/.2560 เรื่อง พิธีการศุลกากรว่าด้วยการถ่ายลำทางอิเล็กทรอนิกส์&lt;/a&gt; มีผลบังคับใช้ตั้งแต่วันที่ 13 พฤศจิกายน 2560 เป็นต้นมา ได้กำหนดพิธีการศุลกากรสำหรับการถ่ายลำมี่รายละเอียดดังนี้
+ตาม &lt;a href=&#34;/KM/customs/post/announcement/customs/2560-140/&#34;&gt;ประกาศกรมศุลกากรที่ 140/.2560 เรื่อง พิธีการศุลกากรว่าด้วยการถ่ายลำทางอิเล็กทรอนิกส์&lt;/a&gt; มีผลบังคับใช้ตั้งแต่วันที่ 13 พฤศจิกายน 2560 เป็นต้นมา ได้กำหนดพิธีการศุลกากรสำหรับการถ่ายลำมี่รายละเอียดดังนี้
 &lt;blockquote class=&#34;book-hint success&#34;&gt;
   &lt;strong&gt;การถ่ายลํา&lt;/strong&gt; หมายความว่า การถ่ายของจากยานพาหนะหนึ่งที่ขนส่งของเข้ามา ในราชอาณาจักรไปยังอีกยานพาหนะหนึ่งที่ขนส่งของออกไปนอกราชอาณาจักร ภายใต้การควบคุมของศุลกากร ในด่านศุลกากรแห่งเดียวกัน โดยมีจุดเริ่มต้นและจุดสิ้นสุดของการขนส่งอยู่นอกราชอาณาจักร
 &lt;/blockquote&gt;
 &lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../img/transit-02/content-04.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;เงอนไขการถายลา&#34;&gt;เงื่อนไขการถ่ายลํา&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;ของที่นําเข้ามาในราชอาณาจักรเพื่อทําการถ่ายลําตามหลักการในข้อ&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
@@ -117,11 +118,37 @@
     </item>
     
     <item>
+      <title>พิธีการศุลกากรว่าด้วยการถ่ายลำทางอากาศยานโดยวิธีการทางอิเล็กทรอนิกส์</title>
+      <link>/post/law/customs/2566/2566-94/</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/law/customs/2566/2566-94/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;กรมศุลกากรเผยแพร่ ประกาศกรมศุลกากรที่ 94/2566 เรื่อง &lt;em&gt;พิธีการศุลกากรว่าด้วยการถ่ายลำทางอากาศยานโดยวิธีการทางอิเล็กทรอนิกส์&lt;/em&gt;&lt;/p&gt;
+&lt;div style= &#34;height:30px&#34;&gt;
+
+&lt;/div&gt;
+&lt;div class=&#34;responsive-wrap&#34;&gt;
+  &lt;iframe src=&#34;./docs.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+      
+&lt;div class=&#34;div-btn&#34;&gt;
+    &lt;a  href=&#34;./docs.pdf&#34;   target=&#34;_blank&#34;  id=&#34;download_files_new&#34; class=&#34;btn btn-danger &#34;&gt;
+  ดาวน์โหลดประกาศ
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ที่มา : &lt;a href=&#34;https://www.customs.go.th/cont_strc_download_with_docno_date.php?lang=th&amp;amp;top_menu=menu_homepage&amp;amp;current_id=14232932414b505f48464b49464a4e&#34;&gt;กรมศุลกากร&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
       <title>สรุปสาระสำคัญการผ่านแดนหรือการถ่ายลำ ได้รับยกเว้นไม่ต้องปฏิบัติตามกฎหมาย ว่าด้วยศุลกากรทั้งหมดหรือแต่บางส่วน</title>
-      <link>https://ecs-support.github.io/KM/customs/post/knowledge/2023/01-16/</link>
+      <link>/post/knowledge/2023/01-16/</link>
       <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/knowledge/2023/01-16/</guid>
+      <guid>/post/knowledge/2023/01-16/</guid>
       <description>&lt;p&gt;&lt;strong&gt;[บทความวิชาการ] สรุปสาระสำคัญของกฎกระทรวงกำหนดให้ผู้นําของเข้าเพื่อการผ่านแดนหรือการถ่ายลำ ได้รับยกเว้นไม่ต้องปฏิบัติตามกฎหมาย ว่าด้วยศุลกากรทั้งหมดหรือแต่บางส่วน พ.ศ. 2563&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;featured-02.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;เนื่องด้วยสถานการณ์การระบาดของโรคติดเชื้อไวรัสโคโรนา 2019 (Covid-19) ยังผลให้องค์การอนามัยโลกต้อง ประกาศให้การระบาดของโรคติดเชื้อไวรัสโคโรนา 2019 เป็นการระบาดใหญ่ เมื่อ 2-3 ปีที่ผ่านมานั้น สถานการณ์ในห้วงเวลา ดังกล่าวมีความรุนแรง จนกระทบต่อความมั่นคงของประเทศ ดังนั้น เพื่อสกัดกั้นการแพร่ระบาด ป้องกันมิให้สถานการณ์ ทวีความรุนแรงมากยิ่งขึ้น นายกรัฐมนตรีได้ประกาศสถานการณ์ฉุกเฉินในทุกเขตท้องที่ทั่วราชอาณาจักร ตั้งแต่วันที่ 26 มีนาคม พ.ศ. 2563 จนถึงวันที่ 30 เมษายน พ.ศ. 2563 ตามประกาศสถานการณ์ฉุกเฉินในทุกเขตท้องที่ทั่วราชอาณาจักร ลงวันที่ 25 มีนาคม พ.ศ. 2563 และให้มีการขยายระยะเวลาดังกล่าวไปจนถึงวันที่ 31 พฤษภาคม พ.ศ. 2563 และประกาศ เรื่องการ ขยายระยะเวลาการประกาศสถานการณ์ฉุกเฉินในทุกเขตท้องที่ทั่วราชอาณาจักร (คราวที่ 1) ลงวันที่ 28 เมษายน พ.ศ. 2563 ข้อ 3 ของข้อกำหนดออกตามความในมาตรา 9 แห่งพระราชกำหนดการบริหารราชการในสถานการณ์ฉุกเฉิน พ.ศ. 2548 (ฉบับที่ 1) ลงวันที่ 25 มีนาคม พ.ศ. 2563 กำหนดว่า “การปิดช่องทางเข้ามาในราชอาณาจักร ในการใช้ยานพาหนะไม่ว่าจะ เป็นอากาศยาน เรือ รถยนต์ หรือพาหนะอื่นใด หรือในการใช้เส้นทางคมนาคมไม่ว่าทางอากาศ ทางน้ำ หรือทางบก เพื่อเดินทางเข้ามาในราชอาณาจักร ให้เจ้าหน้าที่ผู้รับผิดชอบปิดช่องทางเข้าออก ด่าน จุดผ่านแดนหรือจุดผ่อนปรนตาม กฎหมายว่าด้วยโรคติดต่อและกฎหมายว่าด้วยคนเข้าเมือง สำหรับผู้โดยสารหรือผู้ที่เดินทางเข้ามาในราชอาณาจักร&amp;hellip;”&lt;/p&gt;
@@ -173,10 +200,10 @@
     
     <item>
       <title>กำหนดให้ผู้นำของเข้าเพื่อการผ่านแดนหรือการถ่ายลำได้รับยกเว้นไม่ต้องปฏิบัติตามกฎหมายว่าด้วยศุลกากร</title>
-      <link>https://ecs-support.github.io/KM/customs/post/law/ministry/2564/09-30/</link>
+      <link>/post/law/ministry/2564/09-30/</link>
       <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/law/ministry/2564/09-30/</guid>
+      <guid>/post/law/ministry/2564/09-30/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;กฎกระทรวง กำหนดให้ผู้นำของเข้าเพื่อการผ่านแดน หรือการถ่ายลำได้รับยกเว้นไม่ต้องปฏิบัติตามกฎหมายว่าด้วยศุลกากรทั้งหมด หรือแต่บางส่วน (ฉบับที่ 2) พ.ศ. 2564&lt;/strong&gt;&lt;/p&gt;
 
@@ -184,7 +211,7 @@
 &lt;br&gt; 
 
 &lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;./docs.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
@@ -206,12 +233,12 @@
     
     <item>
       <title>การถ่ายลำ</title>
-      <link>https://ecs-support.github.io/KM/customs/pages/docs/transit/transship/</link>
+      <link>/pages/docs/transit/transship/</link>
       <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/pages/docs/transit/transship/</guid>
+      <guid>/pages/docs/transit/transship/</guid>
       <description>&lt;div class=&#34;responsive-wrap&#34;&gt;
-  &lt;iframe src=&#34;./docs.pdf#view=FitH&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;950px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  fit-to-page=&#34;&#39;true&#34; &gt;&lt;/iframe&gt;
+  &lt;iframe src=&#34;./docs.pdf#zoom=100&amp;toolbar=1&amp;navpanes=0&amp;scrollbar=0&#34; type=&#34;application/pdf&#34; frameborder=&#34;1&#34; width=&#34;100%&#34; height=&#34;1200px&#34; margin-left=&#34;auto&#34; margin-right=&#34;auto&#34;  &gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
 
@@ -231,10 +258,10 @@
     
     <item>
       <title>พิธีการศุลกากรว่าด้วยการถ่ายลำทางอิเล็กทรอนิกส์</title>
-      <link>https://ecs-support.github.io/KM/customs/post/announcement/customs/2560-140/</link>
+      <link>/post/announcement/customs/2560-140/</link>
       <pubDate>Mon, 13 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ecs-support.github.io/KM/customs/post/announcement/customs/2560-140/</guid>
+      <guid>/post/announcement/customs/2560-140/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;ประกาศกรมศลกากรท-1402560-เรอง-พธการศลกากรวาดวยการถายลำทางอเลกทรอนกส&#34;&gt;ประกาศกรมศุลกากรที่ 140/.2560 เรื่อง พิธีการศุลกากรว่าด้วยการถ่ายลำทางอิเล็กทรอนิกส์&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&#34;./img/2560-140jpg_Page1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
