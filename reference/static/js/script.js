@@ -1,6 +1,6 @@
 function newDoc() {
      
-    document.location = "https://ecs-support.github.io/KM/customs/";
+    document.location = "https://ecs-support.github.io/";
 }
 
 function displayPage(pages) {
