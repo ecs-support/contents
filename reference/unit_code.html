@@ -20,6 +20,9 @@
 <script src="https://www.w3schools.com/lib/w3.js"></script>
 <!--add w3-->
     <style>
+       
+     
+
         thead th {
             font-size: 1.1em;
 
@@ -28,6 +31,16 @@
         td {
             font-size: 1em;
         }
+
+        .table {
+            margin: 0 auto;
+            width: 100%;
+            clear: both;
+            border-collapse: collapse;
+            table-layout: fixed; 
+            word-wrap:break-word; 
+          }
+
     </style>
 </head>
 
@@ -43,10 +56,10 @@
 
      </div>
     
-    <div class='container-fluid'>
+    <div class='container'>
 
         <h2>รหัสหน่วยสินค้า (Unit Code)</h2>
-        <table id="table-ref" class="table center display table-bordered table-striped" style="width:60%">
+        <table id="table-ref" class="table center table-bordered">
         </table>
         <p class='txt-update'>Last Update : <span> 27 Jan 2023</span></p>
         
@@ -56,6 +69,8 @@
     </section>       
     <script>
         w3.includeHTML();
+
+   
     </script>
     <!--add script-->
 </body>
