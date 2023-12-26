@@ -1051,7 +1051,7 @@ $(document).ready(function () {
   $("#table-ref").DataTable({
     data: dataSet,
     columns: [
-      { title: "รหัสสถานที่", className: "txt-center" },
+      { title: "รหัส", className: "txt-center" },
       { title: "ชื่อสถานที่" },
       { title: "Release(Ex)", className: "txt-center" },
       { title: "Load(Ex)", className: "txt-center" },

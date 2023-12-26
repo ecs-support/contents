@@ -21,7 +21,7 @@ body {
 .dataTables_length {
     margin-top: .5em;
     margin-bottom: .5em;
-    font-size: 1.2em;
+    font-size: 1em;
 }
 
 table.center {
@@ -86,10 +86,9 @@ table.center {
 
 thead th {
     vertical-align: middle;
-    font-family: "Kanit",
-    sans-serif;
-    font-size: 1.3em;
-    font-weight: 500;
+    font-family: "Kanit", sans-serif;
+    font-size: 1.2em;
+    font-weight: 600;
     background-color: #003366;
     color: white;
     text-align: center;
@@ -122,8 +121,10 @@ td {
 
 
 tr {
-    font-size: 1.35em;
+    font-size: 1.1em;
     vertical-align: middle;
+    font-family: "Sarabun", sans-serif;
+    
 }
 
 tr:hover {
@@ -133,11 +134,11 @@ tr:hover {
 h2 {
     font-family: "Kanit", sans-serif;
     letter-spacing: .22px;
-    font-size: 2.5em;
-    font-weight: 500;
+    font-size: 2.2em;
+    font-weight: 600;
     color: #3F69AA;
     text-align: center;
-    margin-top: 1em;
+    margin-top: 1.5em;
 
 }
 
