@@ -9,10 +9,10 @@ function validate() {
   if (username ==  password) {
     if (username == 'customs') {
      window.location =
-        "https://docs.google.com/forms/d/e/1FAIpQLSfO1erpTnnc8QyGaPN8QxkJhtwebHbHRBoUZoExcqkBD_izEA/viewform?entry.1732401284=GCL+CUSTOMS+TEAM";
+        "https://docs.google.com/forms/d/e/1FAIpQLSfO1erpTnnc8QyGaPN8QxkJhtwebHbHRBoUZoExcqkBD_izEA/viewform?entry.1732401284=WGCL+CUSTOMS+TEAM";
     } else if (username == 'transport') {
      window.location =
-        "https://docs.google.com/forms/d/e/1FAIpQLSfO1erpTnnc8QyGaPN8QxkJhtwebHbHRBoUZoExcqkBD_izEA/viewform?entry.1732401284=GCL+TRANSPORT+TEAM";
+        "https://docs.google.com/forms/d/e/1FAIpQLSfO1erpTnnc8QyGaPN8QxkJhtwebHbHRBoUZoExcqkBD_izEA/viewform?entry.1732401284=WGCL+TRANSPORT+TEAM";
     } else if (username == 'shipping') {
      window.location =
         "https://docs.google.com/forms/d/e/1FAIpQLSfO1erpTnnc8QyGaPN8QxkJhtwebHbHRBoUZoExcqkBD_izEA/viewform?usp=pp_url&entry.1732401284=V-Serve+SHIPPING";
