@@ -1086,6 +1086,9 @@ $(document).ready(function () {
       { title: "Load(Ex)", className: "txt-center" },
       { title: "Release(Im)", className: "txt-center" },
       { title: "Load(Im)", className: "txt-center" },
+
+     
+      
     ],
     responsive: true,
     scroller: true,
@@ -1093,7 +1096,26 @@ $(document).ready(function () {
 
   dataTable.FixedHeader(table);
 
+ 
+
 
 
 
 });
+
+$('#table-ref').DataTable( {
+createdRow: function (row,data) {
+  var stsId = data.Ise_Sts_Cost_ID;
+  if (stsId == 3)
+      $(row).addClass('table-warning');
+  else if (stsId == 4)
+      $(row).addClass('table-success');
+  else
+      $(row).addClass('table-danger');
+}
+} );
+
+if (dataset[3] == "N") {
+  console.dir(row);
+  $('td', row).addClass('label-warning');
+}
